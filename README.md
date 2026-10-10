@@ -4,6 +4,8 @@ Confirmed sumi-e morph pairs. A-cut is the object, B-cut is the matching charact
 
 Requested repo name `talkverselab/talkverse-hanja` is reserved on this account (create returns "name already exists", but the repo 404s). This is the closest available name.
 
+Round 2 (2026-10-10): replaced mismatched B-cuts and added missing pairs. Filenames match actual content.
+
 ## Confirmed pairs
 
 | char | A | B |
@@ -17,12 +19,19 @@ Requested repo name `talkverselab/talkverse-hanja` is reserved on this account (
 | 一 | yi_A.jpg | yi_B.jpg |
 | 心 | xin_A.jpg | xin_B.jpg |
 | 門 | men_A.jpg | men_B.jpg |
+| 手 | shou_A.jpg | shou_B.jpg |
+| 木 | mu_A.jpg | mu_B.jpg |
+| 目 | mu_eye_A.jpg | mu_eye_B.jpg |
+| 雨 | yu_A.jpg | yu_B.jpg |
+| 入 | ru_A.jpg | ru_B.jpg |
+| 大 | da_A.jpg | da_B.jpg |
 
-## Not paired (held back)
+目 uses `mu_eye_*` so it does not collide with 木 `mu_*`.
 
-- 木 — A only. B held back (stroke was wrong).
-- 雨 — A only. B held back (extra drops outside the character).
-- 大 — A is fine, B came out as 木.
-- 目 — A is a horizontal realistic eye, not upright; B is missing one inner stroke.
-- 手 — A is fine, B came out like 牙.
-- 入 — A is fine, B is an inverted check mark, not 入.
+## Round 2 replacements
+
+- men_B was 入 — replaced with 門
+- shan_B was valley water — replaced with 山
+- shui_B was wrong — replaced with 水
+- ren_B met at a peak like 入 — replaced with 人 (right stroke starts mid-left)
+- ri_A had landscape — replaced with sun disc only
