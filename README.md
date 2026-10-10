@@ -88,6 +88,15 @@ Round 2 (2026-10-10): replaced mismatched B-cuts and added missing pairs. Filena
 | 強 | qiang_A.jpg | qiang_B.jpg |
 | 關 | guan_A.jpg | guan_B.jpg |
 | 足 | zu_A.jpg | zu_B.jpg |
+| 白 (rework) | bai_A.jpg | bai_B_v2.jpg |
+| 電 | dian_A.jpg | dian_B.jpg |
+| 朝 | zhao_A.jpg | zhao_B.jpg |
+| 面 | mian_A.jpg | mian_B.jpg |
+| 夜 | ye_A.jpg | ye_B.jpg |
+| 畫 | hua_A.jpg | hua_B.jpg |
+| 元 | yuan_A.jpg | yuan_B.jpg |
+| 續 | xu_A.jpg | xu_B.jpg |
+| 友 | you_A.jpg | you_B.jpg |
 
 目 uses `mu_eye_*` so it does not collide with 木 `mu_*`.
 自 uses `zi_self_*` so it does not collide with 子 `zi_*`.
@@ -146,5 +155,13 @@ No reworks. New pairs: 樂 世 高 馬 學 以 文 飮
 ## Round 10 (2026-10-10) per GROK_NEXT.md
 
 No reworks. New pairs: 少 用 白 太 萬 強 關 足
+(B-cuts from reference images. Traditional forms preserved.)
+
+## Round 11 (2026-10-10) per GROK_NEXT.md
+
+Rework:
+- bai_B_v2.jpg (白 correct 5-stroke structure)
+
+New pairs: 電 朝 面 夜 畫 元 續 友
 (B-cuts from reference images. Traditional forms preserved.)
 
