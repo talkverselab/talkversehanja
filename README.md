@@ -36,15 +36,25 @@ Round 2 (2026-10-10): replaced mismatched B-cuts and added missing pairs. Filena
 | 先 | xian_A.jpg | xian_B.jpg |
 | 母 | mu_mo_A.jpg | mu_mo_B.jpg |
 | 女 | nv_A.jpg | nv_B.jpg |
+| 要 | yao_A.jpg | yao_B.jpg |
+| 當 | dang_A.jpg | dang_B.jpg |
+| 自 | zi_self_A.jpg | zi_self_B.jpg |
+| 夫 | fu_A.jpg | fu_B.jpg |
+| 長 | chang_A.jpg | chang_B.jpg |
+| 音 | yin_A.jpg | yin_B.jpg |
+| 方 | fang_A.jpg | fang_B.jpg |
+| 中 | zhong_A.jpg | zhong_B.jpg |
 
 目 uses `mu_eye_*` so it does not collide with 木 `mu_*`.
-
-## Round 2 replacements
-
-- men_B was 入 — replaced with 門
-- shan_B was valley water — replaced with 山
-- shui_B was wrong — replaced with 水
-- ren_B met at a peak like 入 — replaced with 人 (right stroke starts mid-left)
-- ri_A had landscape — replaced with sun disc only
-
+自 uses `zi_self_*` so it does not collide with 子 `zi_*`.
 母 uses `mu_mo_*` so it does not collide with 木 `mu_*`.
+
+## Round 4 (2026-10-10) per GROK_NEXT.md
+
+Reworks (new `_v2` files, originals kept):
+- da_A_v2.jpg (clearer standing figure with arms out)
+- xin_A_v2.jpg (stylized sumi-e heart with three vessels)
+- lai_B_v2.jpg (traditional 來, not simplified 来)
+
+New pairs added: 要 當 自 夫 長 音 方 中
+
