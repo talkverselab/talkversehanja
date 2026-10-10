@@ -139,7 +139,18 @@ Round 2 (2026-10-10): replaced mismatched B-cuts and added missing pairs. Filena
 | 九 | jiu_A.jpg | jiu_B.jpg |
 | 米 | mi_A.jpg | mi_B.jpg |
 | 表 | biao_A.jpg | biao_B.jpg |
-| 八 | ba_A.jpg | ba_B.jpg |
+| 八 | ba_A.jpg | ba_B_v2.jpg |
+| 東 | dong_A.jpg | dong_B_v2.jpg |
+| 表 | biao_A.jpg | biao_B_v2.jpg |
+| 業 | ye_A.jpg | ye_B_v2.jpg |
+| 不 | bu_A.jpg | bu_B.jpg |
+| 艸 | cao_A.jpg | cao_B.jpg |
+| 務 | wu_duty_A.jpg | wu_duty_B.jpg |
+| 辵 | chuo_A.jpg | chuo_B.jpg |
+| 小 | xiao_A.jpg | xiao_B.jpg |
+| 宀 | mian_A.jpg | mian_B.jpg |
+| 成 | cheng_A.jpg | cheng_B.jpg |
+| 疒 | ne_A.jpg | ne_B.jpg |
 
 目 uses `mu_eye_*` so it does not collide with 木 `mu_*`.
 自 uses `zi_self_*` so it does not collide with 子 `zi_*`.
@@ -159,6 +170,7 @@ Round 2 (2026-10-10): replaced mismatched B-cuts and added missing pairs. Filena
 殿 uses `dian_hall_*` so it does not collide with 電 `dian_*`.
 十 uses `shi_ten_*` so it does not collide with 食/事 `shi_*`.
 五 uses `wu_five_*` so it does not collide with 無 `wu_*`.
+務 uses `wu_duty_*` so it does not collide with 無/五 `wu_*`.
 
 ## Round 4 (2026-10-10) per GROK_NEXT.md
 
@@ -257,4 +269,14 @@ Rework:
 
 No reworks. New pairs: 十 月 民 五 發 東 業 定 九 米 表 八
 (B-cuts generated to stroke count; site refs still 404.)
+
+## Round 18 (2026-10-10) per GROK_NEXT.md
+
+Reworks (structure-focused with grid notes, refs still 404):
+- ba_B_v2.jpg (八)
+- dong_B_v2.jpg (東)
+- biao_B_v2.jpg (表)
+- ye_B_v2.jpg (業)
+
+New pairs: 不 艸 務 辵 小 宀 成 疒
 
