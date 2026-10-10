@@ -113,6 +113,15 @@ Round 2 (2026-10-10): replaced mismatched B-cuts and added missing pairs. Filena
 | 番 | fan_A.jpg | fan_B.jpg |
 | 申 | shen_A.jpg | shen_B.jpg |
 | 異 | yi_different_A.jpg | yi_different_B.jpg |
+| 無 (rework) | wu_A.jpg | wu_B_v2.jpg |
+| 負 (rework) | fu_load_A.jpg | fu_load_B_v2.jpg |
+| 舌 (rework) | she_A.jpg | she_B_v2.jpg |
+| 我 (rework) | wo_A.jpg | wo_B_v2.jpg |
+| 番 (rework) | fan_A.jpg | fan_B_v2.jpg |
+| 覺 | jue_A.jpg | jue_B.jpg |
+| 丈 | zhang_A.jpg | zhang_B.jpg |
+| 賴 | lai_rely_A.jpg | lai_rely_B.jpg |
+| 鹿 | lu_A.jpg | lu_B.jpg |
 
 目 uses `mu_eye_*` so it does not collide with 木 `mu_*`.
 自 uses `zi_self_*` so it does not collide with 子 `zi_*`.
@@ -128,6 +137,7 @@ Round 2 (2026-10-10): replaced mismatched B-cuts and added missing pairs. Filena
 族 uses `zu_clan_*` so it does not collide with 足 `zu_*`.
 負 uses `fu_load_*` so it does not collide with 夫 `fu_*`.
 異 uses `yi_different_*` so it does not collide with 以 `yi_with_*`.
+賴 uses `lai_rely_*` so it does not collide with 來 `lai_*`.
 
 ## Round 4 (2026-10-10) per GROK_NEXT.md
 
@@ -195,4 +205,15 @@ No reworks. New pairs: 直 幸 向 害 二 解 受 族
 
 No reworks. New pairs: 無 負 殺 舌 我 番 申 異
 (B-cuts generated to stroke count; site refs were 404 at generation time.)
+
+## Round 14 (2026-10-10) per GROK_NEXT.md
+
+Reworks (B_v2, structure-focused, refs still 404):
+- wu_B_v2.jpg (無)
+- fu_load_B_v2.jpg (負)
+- she_B_v2.jpg (舌)
+- wo_B_v2.jpg (我)
+- fan_B_v2.jpg (番)
+
+New pairs: 覺 丈 賴 鹿
 
