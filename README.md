@@ -97,6 +97,14 @@ Round 2 (2026-10-10): replaced mismatched B-cuts and added missing pairs. Filena
 | 元 | yuan_A.jpg | yuan_B.jpg |
 | 續 | xu_A.jpg | xu_B.jpg |
 | 友 | you_A.jpg | you_B.jpg |
+| 直 | zhi_A.jpg | zhi_B.jpg |
+| 幸 | xing_luck_A.jpg | xing_luck_B.jpg |
+| 向 | xiang_A.jpg | xiang_B.jpg |
+| 害 | hai_A.jpg | hai_B.jpg |
+| 二 | er_A.jpg | er_B.jpg |
+| 解 | jie_A.jpg | jie_B.jpg |
+| 受 | shou_receive_A.jpg | shou_receive_B.jpg |
+| 族 | zu_clan_A.jpg | zu_clan_B.jpg |
 
 目 uses `mu_eye_*` so it does not collide with 木 `mu_*`.
 自 uses `zi_self_*` so it does not collide with 子 `zi_*`.
@@ -107,6 +115,9 @@ Round 2 (2026-10-10): replaced mismatched B-cuts and added missing pairs. Filena
 世 uses `shi_world_*` so it does not collide with 食/事 `shi_*`.
 以 uses `yi_with_*` so it does not collide with 一 `yi_*`.
 飮 uses `yin_drink_*` so it does not collide with 音 `yin_*`.
+幸 uses `xing_luck_*` so it does not collide with 行 `xing_*`.
+受 uses `shou_receive_*` so it does not collide with 手 `shou_*`.
+族 uses `zu_clan_*` so it does not collide with 足 `zu_*`.
 
 ## Round 4 (2026-10-10) per GROK_NEXT.md
 
@@ -163,5 +174,10 @@ Rework:
 - bai_B_v2.jpg (白 correct 5-stroke structure)
 
 New pairs: 電 朝 面 夜 畫 元 續 友
+(B-cuts from reference images. Traditional forms preserved.)
+
+## Round 12 (2026-10-10) per GROK_NEXT.md
+
+No reworks. New pairs: 直 幸 向 害 二 解 受 族
 (B-cuts from reference images. Traditional forms preserved.)
 
