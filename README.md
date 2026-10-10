@@ -192,6 +192,10 @@ Round 2 (2026-10-10): replaced mismatched B-cuts and added missing pairs. Filena
 備 uses `bei_prepare_*` so it does not collide with 北 `bei_*`.
 育 uses `yu_nurture_*` so it does not collide with 雨 `yu_*`.
 武 uses `wu_martial_*` so it does not collide with 無/五/務 `wu_*`.
+追 uses `zhui_chase_*` so it does not collide with 隹 `zhui_*`.
+末 uses `mo_end_*` so it does not collide with 母 `mu_mo_*`.
+步 uses `bu_step_*` so it does not collide with 不 `bu_*`.
+師 uses `shi_teacher_*` so it does not collide with 食/事/十/示 `shi_*`.
 
 ## Round 4 (2026-10-10) per GROK_NEXT.md
 
@@ -350,6 +354,16 @@ Reworks:
 - zhi_stop_B_v2.jpg (止)
 
 New pairs: 身 由 比 車 南 備 育 武
+
+## Round 24 (2026-10-10) per GROK_NEXT.md
+
+Reworks:
+- bi_compare_B_v2.jpg (比)
+- bei_prepare_B_v2.jpg (備)
+- wu_martial_B_v2.jpg (武)
+
+New pairs: 追 商 末 望 非 步 師 黑 存
+
 
 
 
