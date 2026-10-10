@@ -31,6 +31,11 @@ Round 2 (2026-10-10): replaced mismatched B-cuts and added missing pairs. Filena
 | 生 | sheng_A.jpg | sheng_B.jpg |
 | 今 | jin_A.jpg | jin_B.jpg |
 | 上 | shang_A.jpg | shang_B.jpg |
+| 子 | zi_A.jpg | zi_B.jpg |
+| 本 | ben_A.jpg | ben_B.jpg |
+| 先 | xian_A.jpg | xian_B.jpg |
+| 母 | mu_mo_A.jpg | mu_mo_B.jpg |
+| 女 | nv_A.jpg | nv_B.jpg |
 
 目 uses `mu_eye_*` so it does not collide with 木 `mu_*`.
 
@@ -41,3 +46,5 @@ Round 2 (2026-10-10): replaced mismatched B-cuts and added missing pairs. Filena
 - shui_B was wrong — replaced with 水
 - ren_B met at a peak like 入 — replaced with 人 (right stroke starts mid-left)
 - ri_A had landscape — replaced with sun disc only
+
+母 uses `mu_mo_*` so it does not collide with 木 `mu_*`.
