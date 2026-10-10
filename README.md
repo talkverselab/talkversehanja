@@ -44,6 +44,14 @@ Round 2 (2026-10-10): replaced mismatched B-cuts and added missing pairs. Filena
 | 音 | yin_A.jpg | yin_B.jpg |
 | 方 | fang_A.jpg | fang_B.jpg |
 | 中 | zhong_A.jpg | zhong_B.jpg |
+| 年 | nian_A.jpg | nian_B.jpg |
+| 度 | du_A.jpg | du_B.jpg |
+| 立 | li_A.jpg | li_B.jpg |
+| 然 | ran_A.jpg | ran_B.jpg |
+| 難 | nan_A.jpg | nan_B.jpg |
+| 合 | he_A.jpg | he_B.jpg |
+| 同 | tong_A.jpg | tong_B.jpg |
+| 歸 | gui_A.jpg | gui_B.jpg |
 
 目 uses `mu_eye_*` so it does not collide with 木 `mu_*`.
 自 uses `zi_self_*` so it does not collide with 子 `zi_*`.
@@ -57,4 +65,11 @@ Reworks (new `_v2` files, originals kept):
 - lai_B_v2.jpg (traditional 來, not simplified 来)
 
 New pairs added: 要 當 自 夫 長 音 方 中
+
+## Round 5 (2026-10-10) per GROK_NEXT.md
+
+Rework:
+- dang_B_v2.jpg (traditional 當, 尚+田, 13 strokes, not simplified 当)
+
+New pairs added: 年 度 立 然 難 合 同 歸
 
