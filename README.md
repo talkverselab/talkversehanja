@@ -64,11 +64,21 @@ Round 2 (2026-10-10): replaced mismatched B-cuts and added missing pairs. Filena
 | 行 | xing_A.jpg | xing_B.jpg |
 | 對 | dui_A.jpg | dui_B.jpg |
 | 別 | bie_A.jpg | bie_B.jpg |
+| 回 | hui_return_A.jpg | hui_return_B.jpg |
+| 書 | shu_A.jpg | shu_B.jpg |
+| 下 | xia_A.jpg | xia_B.jpg |
+| 力 | li_force_A.jpg | li_force_B.jpg |
+| 必 | bi_A.jpg | bi_B.jpg |
+| 真 | zhen_A.jpg | zhen_B.jpg |
+| 算 | suan_A.jpg | suan_B.jpg |
+| 愛 | ai_A.jpg | ai_B.jpg |
 
 目 uses `mu_eye_*` so it does not collide with 木 `mu_*`.
 自 uses `zi_self_*` so it does not collide with 子 `zi_*`.
 母 uses `mu_mo_*` so it does not collide with 木 `mu_*`.
 達 uses `da_reach_*` so it does not collide with 大 `da_*`.
+回 uses `hui_return_*` so it does not collide with 會 `hui_*`.
+力 uses `li_force_*` so it does not collide with 立 `li_*`.
 
 ## Round 4 (2026-10-10) per GROK_NEXT.md
 
@@ -103,4 +113,9 @@ Reworks (B_v2 from GlyphWiki-style refs):
 - zhu_B_v2.jpg (着)
 
 New pairs: 金 行 對 別
+
+## Round 8 (2026-10-10) per GROK_NEXT.md
+
+No reworks. New pairs: 回 書 下 力 必 真 算 愛
+(B-cuts from reference images. 真 as simplified form per note.)
 
