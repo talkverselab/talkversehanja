@@ -181,6 +181,10 @@ Round 2 (2026-10-10): replaced mismatched B-cuts and added missing pairs. Filena
 告 uses `gao_tell_*` so it does not collide with 高 `gao_*`.
 殳 uses `shu_weapon_*` so it does not collide with 書 `shu_*`.
 重 uses `zhong_heavy_*` so it does not collide with 中 `zhong_*`.
+示 uses `shi_show_*` so it does not collide with 食/事/十 `shi_*`.
+有 uses `you_have_*` so it does not collide with 友 `you_*`.
+常 uses `chang_often_*` so it does not collide with 長 `chang_*`.
+止 uses `zhi_stop_*` so it does not collide with 直 `zhi_*`.
 
 ## Round 4 (2026-10-10) per GROK_NEXT.md
 
@@ -325,6 +329,11 @@ Reworks:
 - shu_weapon_B_v2.jpg (殳)
 
 New pairs: 參 彡 在 歹 求 冖
+
+## Round 22 (2026-10-10) per GROK_NEXT.md
+
+No reworks. New pairs: 半 示 兩 西 歲 爭 能 有 口 常 工 止
+
 
 
 
