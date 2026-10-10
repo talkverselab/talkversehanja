@@ -60,6 +60,10 @@ Round 2 (2026-10-10): replaced mismatched B-cuts and added missing pairs. Filena
 | 教 | jiao_A.jpg | jiao_B.jpg |
 | 達 | da_reach_A.jpg | da_reach_B.jpg |
 | 著 | zhu_A.jpg | zhu_B.jpg |
+| 金 | jin_A.jpg | jin_B.jpg |
+| 行 | xing_A.jpg | xing_B.jpg |
+| 對 | dui_A.jpg | dui_B.jpg |
+| 別 | bie_A.jpg | bie_B.jpg |
 
 目 uses `mu_eye_*` so it does not collide with 木 `mu_*`.
 自 uses `zi_self_*` so it does not collide with 子 `zi_*`.
@@ -86,4 +90,17 @@ New pairs added: 年 度 立 然 難 合 同 歸
 
 No reworks. New pairs: 者 老 食 後 會 教 達 著
 (B-cuts generated to stroke count / traditional form; site refs were 404 at generation time.)
+
+## Round 7 (2026-10-10) per GROK_NEXT.md
+
+Reworks (B_v2 from GlyphWiki-style refs):
+- zhe_B_v2.jpg (者)
+- lao_B_v2.jpg (老)
+- shi_B_v2.jpg (食)
+- hui_B_v2.jpg (會)
+- jiao_B_v2.jpg (敎 traditional)
+- da_reach_B_v2.jpg (達)
+- zhu_B_v2.jpg (着)
+
+New pairs: 金 行 對 別
 
