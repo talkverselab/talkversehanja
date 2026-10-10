@@ -127,7 +127,7 @@ Round 2 (2026-10-10): replaced mismatched B-cuts and added missing pairs. Filena
 | 覺 (rework) | jue_A.jpg | jue_B_v2.jpg |
 | 殿 | dian_hall_A.jpg | dian_hall_B.jpg |
 | 巢 | chao_A.jpg | chao_B.jpg |
-| 餡 | xian_A.jpg | xian_B.jpg |
+| 餡 | xian_A.jpg | xian_B_v2.jpg |
 
 目 uses `mu_eye_*` so it does not collide with 木 `mu_*`.
 自 uses `zi_self_*` so it does not collide with 子 `zi_*`.
@@ -233,4 +233,9 @@ Reworks (structure-focused, refs still 404):
 - jue_B_v2.jpg (覺)
 
 New pairs: 殿 巢 餡
+
+## Round 16 (2026-10-10) per GROK_NEXT.md
+
+Rework:
+- xian_B_v2.jpg (餡 with clear 臼 bottom)
 
