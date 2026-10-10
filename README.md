@@ -121,7 +121,13 @@ Round 2 (2026-10-10): replaced mismatched B-cuts and added missing pairs. Filena
 | 覺 | jue_A.jpg | jue_B.jpg |
 | 丈 | zhang_A.jpg | zhang_B.jpg |
 | 賴 | lai_rely_A.jpg | lai_rely_B.jpg |
-| 鹿 | lu_A.jpg | lu_B.jpg |
+| 鹿 | lu_A.jpg | lu_B_v2.jpg |
+| 舌 (rework) | she_A.jpg | she_B_v3.jpg |
+| 丈 (rework) | zhang_A.jpg | zhang_B_v2.jpg |
+| 覺 (rework) | jue_A.jpg | jue_B_v2.jpg |
+| 殿 | dian_hall_A.jpg | dian_hall_B.jpg |
+| 巢 | chao_A.jpg | chao_B.jpg |
+| 餡 | xian_A.jpg | xian_B.jpg |
 
 目 uses `mu_eye_*` so it does not collide with 木 `mu_*`.
 自 uses `zi_self_*` so it does not collide with 子 `zi_*`.
@@ -138,6 +144,7 @@ Round 2 (2026-10-10): replaced mismatched B-cuts and added missing pairs. Filena
 負 uses `fu_load_*` so it does not collide with 夫 `fu_*`.
 異 uses `yi_different_*` so it does not collide with 以 `yi_with_*`.
 賴 uses `lai_rely_*` so it does not collide with 來 `lai_*`.
+殿 uses `dian_hall_*` so it does not collide with 電 `dian_*`.
 
 ## Round 4 (2026-10-10) per GROK_NEXT.md
 
@@ -216,4 +223,14 @@ Reworks (B_v2, structure-focused, refs still 404):
 - fan_B_v2.jpg (番)
 
 New pairs: 覺 丈 賴 鹿
+
+## Round 15 (2026-10-10) per GROK_NEXT.md
+
+Reworks (structure-focused, refs still 404):
+- she_B_v3.jpg (舌)
+- zhang_B_v2.jpg (丈)
+- lu_B_v2.jpg (鹿)
+- jue_B_v2.jpg (覺)
+
+New pairs: 殿 巢 餡
 
