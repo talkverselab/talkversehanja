@@ -72,6 +72,14 @@ Round 2 (2026-10-10): replaced mismatched B-cuts and added missing pairs. Filena
 | 真 | zhen_A.jpg | zhen_B.jpg |
 | 算 | suan_A.jpg | suan_B.jpg |
 | 愛 | ai_A.jpg | ai_B.jpg |
+| 樂 | le_A.jpg | le_B.jpg |
+| 世 | shi_world_A.jpg | shi_world_B.jpg |
+| 高 | gao_A.jpg | gao_B.jpg |
+| 馬 | ma_A.jpg | ma_B.jpg |
+| 學 | xue_A.jpg | xue_B.jpg |
+| 以 | yi_with_A.jpg | yi_with_B.jpg |
+| 文 | wen_A.jpg | wen_B.jpg |
+| 飮 | yin_drink_A.jpg | yin_drink_B.jpg |
 
 目 uses `mu_eye_*` so it does not collide with 木 `mu_*`.
 自 uses `zi_self_*` so it does not collide with 子 `zi_*`.
@@ -79,6 +87,9 @@ Round 2 (2026-10-10): replaced mismatched B-cuts and added missing pairs. Filena
 達 uses `da_reach_*` so it does not collide with 大 `da_*`.
 回 uses `hui_return_*` so it does not collide with 會 `hui_*`.
 力 uses `li_force_*` so it does not collide with 立 `li_*`.
+世 uses `shi_world_*` so it does not collide with 食/事 `shi_*`.
+以 uses `yi_with_*` so it does not collide with 一 `yi_*`.
+飮 uses `yin_drink_*` so it does not collide with 音 `yin_*`.
 
 ## Round 4 (2026-10-10) per GROK_NEXT.md
 
@@ -118,4 +129,9 @@ New pairs: 金 行 對 別
 
 No reworks. New pairs: 回 書 下 力 必 真 算 愛
 (B-cuts from reference images. 真 as simplified form per note.)
+
+## Round 9 (2026-10-10) per GROK_NEXT.md
+
+No reworks. New pairs: 樂 世 高 馬 學 以 文 飮
+(B-cuts from reference images. Traditional forms preserved where refs showed them.)
 
