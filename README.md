@@ -315,5 +315,17 @@ Reworks:
 
 New pairs: 川 囗 告 殳 重 厶
 
+## Round 21 (2026-10-10) per GROK_NEXT.md
+
+Reworks:
+- chuo_B_v4.jpg (辵)
+- pu_B_v3.jpg (攴)
+- zhui_B_v3.jpg (隹)
+- gao_tell_B_v2.jpg (告)
+- shu_weapon_B_v2.jpg (殳)
+
+New pairs: 參 彡 在 歹 求 冖
+
+
 
 
