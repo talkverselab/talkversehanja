@@ -52,10 +52,19 @@ Round 2 (2026-10-10): replaced mismatched B-cuts and added missing pairs. Filena
 | 合 | he_A.jpg | he_B.jpg |
 | 同 | tong_A.jpg | tong_B.jpg |
 | 歸 | gui_A.jpg | gui_B.jpg |
+| 者 | zhe_A.jpg | zhe_B.jpg |
+| 老 | lao_A.jpg | lao_B.jpg |
+| 食 | shi_A.jpg | shi_B.jpg |
+| 後 | hou_A.jpg | hou_B.jpg |
+| 會 | hui_A.jpg | hui_B.jpg |
+| 教 | jiao_A.jpg | jiao_B.jpg |
+| 達 | da_reach_A.jpg | da_reach_B.jpg |
+| 著 | zhu_A.jpg | zhu_B.jpg |
 
 目 uses `mu_eye_*` so it does not collide with 木 `mu_*`.
 自 uses `zi_self_*` so it does not collide with 子 `zi_*`.
 母 uses `mu_mo_*` so it does not collide with 木 `mu_*`.
+達 uses `da_reach_*` so it does not collide with 大 `da_*`.
 
 ## Round 4 (2026-10-10) per GROK_NEXT.md
 
@@ -72,4 +81,9 @@ Rework:
 - dang_B_v2.jpg (traditional 當, 尚+田, 13 strokes, not simplified 当)
 
 New pairs added: 年 度 立 然 難 合 同 歸
+
+## Round 6 (2026-10-10) per GROK_NEXT.md
+
+No reworks. New pairs: 者 老 食 後 會 教 達 著
+(B-cuts generated to stroke count / traditional form; site refs were 404 at generation time.)
 
