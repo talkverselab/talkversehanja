@@ -25,6 +25,12 @@ Round 2 (2026-10-10): replaced mismatched B-cuts and added missing pairs. Filena
 | 雨 | yu_A.jpg | yu_B.jpg |
 | 入 | ru_A.jpg | ru_B.jpg |
 | 大 | da_A.jpg | da_B.jpg |
+| 言 | yan_A.jpg | yan_B.jpg |
+| 事 | shi_A.jpg | shi_B.jpg |
+| 来 | lai_A.jpg | lai_B.jpg |
+| 生 | sheng_A.jpg | sheng_B.jpg |
+| 今 | jin_A.jpg | jin_B.jpg |
+| 上 | shang_A.jpg | shang_B.jpg |
 
 目 uses `mu_eye_*` so it does not collide with 木 `mu_*`.
 
