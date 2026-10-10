@@ -178,6 +178,9 @@ Round 2 (2026-10-10): replaced mismatched B-cuts and added missing pairs. Filena
 五 uses `wu_five_*` so it does not collide with 無 `wu_*`.
 務 uses `wu_duty_*` so it does not collide with 無/五 `wu_*`.
 原 uses `yuan_origin_*` so it does not collide with 元 `yuan_*`.
+告 uses `gao_tell_*` so it does not collide with 高 `gao_*`.
+殳 uses `shu_weapon_*` so it does not collide with 書 `shu_*`.
+重 uses `zhong_heavy_*` so it does not collide with 中 `zhong_*`.
 
 ## Round 4 (2026-10-10) per GROK_NEXT.md
 
@@ -299,5 +302,18 @@ Reworks:
 - ye_B_v3.jpg (業)
 
 New pairs: 北 彳 報 攴 原 隹
+
+## Round 20 (2026-10-10) per GROK_NEXT.md
+
+Reworks:
+- chuo_B_v3.jpg (辵)
+- wu_duty_B_v3.jpg (務)
+- ye_B_v4.jpg (業)
+- bao_B_v2.jpg (報)
+- pu_B_v2.jpg (攴)
+- zhui_B_v2.jpg (隹)
+
+New pairs: 川 囗 告 殳 重 厶
+
 
 
