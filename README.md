@@ -185,6 +185,13 @@ Round 2 (2026-10-10): replaced mismatched B-cuts and added missing pairs. Filena
 有 uses `you_have_*` so it does not collide with 友 `you_*`.
 常 uses `chang_often_*` so it does not collide with 長 `chang_*`.
 止 uses `zhi_stop_*` so it does not collide with 直 `zhi_*`.
+身 uses `shen_body_*` so it does not collide with 申 `shen_*`.
+由 uses `you_from_*` so it does not collide with 友/有 `you_*`.
+比 uses `bi_compare_*` so it does not collide with 必 `bi_*`.
+南 uses `nan_south_*` so it does not collide with 難 `nan_*`.
+備 uses `bei_prepare_*` so it does not collide with 北 `bei_*`.
+育 uses `yu_nurture_*` so it does not collide with 雨 `yu_*`.
+武 uses `wu_martial_*` so it does not collide with 無/五/務 `wu_*`.
 
 ## Round 4 (2026-10-10) per GROK_NEXT.md
 
@@ -333,6 +340,17 @@ New pairs: 參 彡 在 歹 求 冖
 ## Round 22 (2026-10-10) per GROK_NEXT.md
 
 No reworks. New pairs: 半 示 兩 西 歲 爭 能 有 口 常 工 止
+
+## Round 23 (2026-10-10) per GROK_NEXT.md
+
+Reworks:
+- xi_B_v2.jpg (西)
+- sui_B_v2.jpg (歲)
+- zheng_B_v2.jpg (爭)
+- zhi_stop_B_v2.jpg (止)
+
+New pairs: 身 由 比 車 南 備 育 武
+
 
 
 
