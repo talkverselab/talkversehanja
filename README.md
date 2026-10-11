@@ -376,8 +376,8 @@ New pairs: 追 商 末 望 非 步 師 黑 存
 No reworks. New pairs: 春 飛 赤 單 右 讀 色 左 將 舞 夏 鐵
 
 | 春 | chun_A.jpg | chun_B.jpg |
-| 飛 | fei_A.jpg | fei_B.jpg |
-| 赤 | chi_A.jpg | chi_B.jpg |
+| 飛 | fei_fly_A.jpg | fei_fly_B.jpg |
+| 赤 | chi_red_A.jpg | chi_red_B.jpg |
 | 單 | dan_A.jpg | dan_B.jpg |
 | 右 | you_right_A.jpg | you_right_B.jpg |
 | 讀 | du_read_A.jpg | du_read_B.jpg |
