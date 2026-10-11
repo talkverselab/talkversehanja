@@ -387,3 +387,22 @@ No reworks. New pairs: 春 飛 赤 單 右 讀 色 左 將 舞 夏 鐵
 | 舞 | wu_dance_A.jpg | wu_dance_B.jpg |
 | 夏 | xia_summer_A.jpg | xia_summer_B.jpg |
 | 鐵 | tie_A.jpg | tie_B.jpg |
+
+## Round 26 (2026-10-11) — Redo direction (A-cuts only)
+
+New criteria: child (7-10) must recognize meaning in 3 seconds from picture alone. Silhouette must match character strokes. Everyday modern scenes, not oracle-bone etymology. No B-cuts (Claude renders traditional characters separately). Files under redo/<UCODE>_A.jpg (multi-frame: _A1.jpg etc.). Square 1408x1408.
+
+This round (12 characters):
+- 疒 U7592 redo/U7592_A.jpg
+- 厶 U53B6 redo/U53B6_A.jpg
+- 冖 U5196 redo/U5196_A.jpg
+- 辵 U8FB5 redo/U8FB5_A.jpg
+- 彳 U5F73 redo/U5F73_A.jpg
+- 宀 U5B80 redo/U5B80_A.jpg
+- 攴 U6534 redo/U6534_A.jpg
+- 殳 U6BB3 redo/U6BB3_A.jpg
+- 歹 U6B79 redo/U6B79_A.jpg
+- 日 U65E5 redo/U65E5_A.jpg
+- 入 U5165 redo/U5165_A.jpg
+- 生 U751F redo/U751F_A1.jpg redo/U751F_A2.jpg redo/U751F_A3.jpg
+
