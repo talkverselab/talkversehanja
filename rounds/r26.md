@@ -127,4 +127,4 @@ Traditional East Asian ink wash painting (sumi-e), pure black ink on plain white
 
 ## 2. 남은 대기열
 
-이번 회차 뒤로 126자가 남는다. 전체 표는 REDO.md.
+이번 회차 뒤로 138자가 남는다. 전체 표는 REDO.md.
