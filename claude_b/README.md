@@ -5,3 +5,4 @@ Filename `U<hex>_B.jpg` = Unicode code point.
 Grok draws only A-cuts; align A-cut strokes to these.
 
 Characters: 957
+2026-10-16: re-rendered with solid ink (no dry-brush gaps)
