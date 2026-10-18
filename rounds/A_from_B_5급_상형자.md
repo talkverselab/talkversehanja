@@ -5,6 +5,7 @@
 
 - B컷 파일: `claude_b/U<코드>_B.jpg` (이 저장소, raw: `https://raw.githubusercontent.com/talkverselab/talkversehanja/main/claude_b/U<코드>_B.jpg`). 1408×1408, 정자(楷書), 흰 바탕.
 - 그림 규칙(기존 그대로): 먹 한 색·흰 종이·낙관·글자·배경 풍경 금지, 주인공 하나, 아이가 알아보는 요즘 모습, 무기·형벌·바늘 등 불쾌한 소재 금지(`rounds/r26.md` 4항).
+- 2026-10-18 사용자: 27회차 人·大 A컷(맨몸 실루엣·막대인간)은 "실제하지 않는 컷" — **실루엣·마네킹·막대인간·픽토그램 금지, 실제 사람(옷·머리카락)·실제 사물**로.
 - 2026-10-18 사용자 확정 톤(27회차 山 A컷): **획 자리는 굵고 진한 먹, 나머지 사물은 옅은 회색 번짐** — 글자 뼈대가 그림 속에 보이면서 전체는 사물로 읽힘.
 - 결과 검사: A컷을 B컷 위에 반투명으로 겹쳤을 때 아래 "획↔그림" 대응대로 큰 덩어리가 같은 자리에 와야 통과.
 
@@ -13,6 +14,7 @@
 ```
 Traditional East Asian ink wash painting (sumi-e), pure black ink on plain white paper, no color, monochrome only, soft ink bleed and gradation, generous empty space, square 1:1 composition, centered subject, no text, no seal, no background scenery, one subject only, simple enough for a child to recognize, present-day look.
 The attached image is the Chinese character that this picture will morph into. Make the picture occupy the SAME area of the frame as the character (same height, same width, same center), and lay out the parts of the picture ON the character's strokes exactly as described below. The character's stroke layout is the skeleton of the picture: paint the parts that sit on the strokes as the boldest, darkest ink of the picture, and paint the rest of the object as soft grey ink wash around them, so the character's skeleton is visible inside the picture while the whole still reads as the object (like a mountain whose three ridges are bold black peaks with misty grey slopes around them).
+The subject must look like a REAL thing seen in life: a real child or adult in everyday clothes with hair and a face direction, a real animal, a real object. Never a bare silhouette, mannequin, stick figure, pictogram or abstract symbol.
 ```
 
 아래 각 글자의 `SUBJECT / LAYOUT` 줄을 공통 머리말 뒤에 이어 붙이면 완성 프롬프트가 된다.

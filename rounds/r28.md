@@ -31,11 +31,64 @@ Pure black ink, no color, no seal, no text, no extra marks, nothing else in the 
 ```
 Traditional East Asian ink wash painting (sumi-e), pure black ink on plain white paper, no color, monochrome only, soft ink bleed and gradation, generous empty space, square 1:1 composition, centered subject, no text, no seal, no background scenery, one subject only, simple enough for a child to recognize, present-day look.
 The attached image is the Chinese character that this picture will morph into. Make the picture occupy the SAME area of the frame as the character (same height, same width, same center), and lay out the parts of the picture ON the character's strokes exactly as described below. The character's stroke layout is the skeleton of the picture: paint the parts that sit on the strokes as the boldest, darkest ink of the picture, and paint the rest of the object as soft grey ink wash around them, so the character's skeleton is visible inside the picture while the whole still reads as the object (like a mountain whose three ridges are bold black peaks with misty grey slopes around them).
+The subject must look like a REAL thing seen in life: a real child or adult in everyday clothes with hair and a face direction, a real animal, a real object. Never a bare silhouette, mannequin, stick figure, pictogram or abstract symbol.
 SUBJECT: the sun drawn as a rounded square disc with a single short dark mark in its center, soft ink glow at the edge.
 LAYOUT: the disc fills the square outline of the character and the center mark lies on the middle horizontal stroke.
 ```
 
 - 저장: `r28/U65E5_B.jpg`, `r28/U65E5_A.jpg` (재작업이면 `_v2`)
+
+### 人 사람 인 (U4EBA) — **재작업**
+- 재작업 사유: A 가 맨몸 실루엣이라 실제 사람으로 안 보임 → 티셔츠·바지 입은 실제 아이가 옆으로 성큼 걷는 모습, 머리카락·얼굴 방향 보이게. 획 자리(머리~앞다리, 뒷다리)는 진한 먹, 나머지는 옅은 번짐
+- **획 기준**: `claude_b/U4EBA_B.jpg` · raw: https://raw.githubusercontent.com/talkverselab/talkversehanja/main/claude_b/U4EBA_B.jpg
+- 획↔그림: 두 획이 만나는 꼭대기 = 머리, 왼쪽 긴 삐침 = 몸통과 앞다리, 오른쪽 파임 = 뒤로 뻗은 뒷다리.
+
+- **① B컷 프롬프트** (이미지 1 = `claude_b/U4EBA_B.jpg`, 이미지 2 = `huo_B.jpg`)
+
+```
+Write the Chinese character 人 with a real calligraphy brush: one bold hand-brushed character on plain off-white paper.
+Image 1 is the stroke-structure reference: keep the SAME stroke count, the same stroke positions, angles, lengths, thickness and proportions, and the same framing as Image 1. Small natural variation from the brush is fine, but no stroke may be added, dropped, merged or moved. Regular script (楷書), Korean standard form, not a printed font.
+Brush texture ONLY at the two ends of each stroke: a slightly pressed, rounded entry where the stroke starts, and a short dry-brush tail (flying white, a few bristle streaks) where the stroke leaves the paper. The body of every stroke stays solid, smooth, fully filled with black ink, with clean edges. No dry-brush streaks across the middle of strokes. Image 2 shows the feel of the stroke tails only; do not copy its shape and do not apply its texture to whole strokes.
+Pure black ink, no color, no seal, no text, no extra marks, nothing else in the frame. Square 1:1, character centered and the same size as in Image 1.
+```
+
+- **② A컷 프롬프트** (①에서 만든 네 B컷을 첨부하고 그대로 넣기)
+
+```
+Traditional East Asian ink wash painting (sumi-e), pure black ink on plain white paper, no color, monochrome only, soft ink bleed and gradation, generous empty space, square 1:1 composition, centered subject, no text, no seal, no background scenery, one subject only, simple enough for a child to recognize, present-day look.
+The attached image is the Chinese character that this picture will morph into. Make the picture occupy the SAME area of the frame as the character (same height, same width, same center), and lay out the parts of the picture ON the character's strokes exactly as described below. The character's stroke layout is the skeleton of the picture: paint the parts that sit on the strokes as the boldest, darkest ink of the picture, and paint the rest of the object as soft grey ink wash around them, so the character's skeleton is visible inside the picture while the whole still reads as the object (like a mountain whose three ridges are bold black peaks with misty grey slopes around them).
+The subject must look like a REAL thing seen in life: a real child or adult in everyday clothes with hair and a face direction, a real animal, a real object. Never a bare silhouette, mannequin, stick figure, pictogram or abstract symbol.
+SUBJECT: a person in side view walking with a long stride, leaning slightly forward, arms close to the body.
+LAYOUT: the head sits at the apex where the two strokes meet; the torso and the front leg run down the long left-falling stroke to its tip; the back leg stretches down and to the right along the right-falling stroke, foot at its end.
+```
+
+- 저장: `r28/U4EBA_B.jpg`, `r28/U4EBA_A.jpg` (재작업이면 `_v2`)
+
+### 大 큰 대 (U5927) — **재작업**
+- 재작업 사유: A 가 막대인간이라 실제 사람으로 안 보임 → 옷 입은 실제 아이가 정면으로 팔 벌리고 다리 벌린 모습, 머리카락·얼굴 보이게. 팔(가로획)·몸통과 두 다리(삐침·파임)는 진한 먹, 나머지 옅은 번짐
+- **획 기준**: `claude_b/U5927_B.jpg` · raw: https://raw.githubusercontent.com/talkverselab/talkversehanja/main/claude_b/U5927_B.jpg
+- 획↔그림: 가로 = 양쪽으로 쭉 뻗은 팔, 삐침 = 몸통과 왼다리, 파임 = 오른다리, 세로가 가로 위로 솟은 부분 = 머리.
+
+- **① B컷 프롬프트** (이미지 1 = `claude_b/U5927_B.jpg`, 이미지 2 = `huo_B.jpg`)
+
+```
+Write the Chinese character 大 with a real calligraphy brush: one bold hand-brushed character on plain off-white paper.
+Image 1 is the stroke-structure reference: keep the SAME stroke count, the same stroke positions, angles, lengths, thickness and proportions, and the same framing as Image 1. Small natural variation from the brush is fine, but no stroke may be added, dropped, merged or moved. Regular script (楷書), Korean standard form, not a printed font.
+Brush texture ONLY at the two ends of each stroke: a slightly pressed, rounded entry where the stroke starts, and a short dry-brush tail (flying white, a few bristle streaks) where the stroke leaves the paper. The body of every stroke stays solid, smooth, fully filled with black ink, with clean edges. No dry-brush streaks across the middle of strokes. Image 2 shows the feel of the stroke tails only; do not copy its shape and do not apply its texture to whole strokes.
+Pure black ink, no color, no seal, no text, no extra marks, nothing else in the frame. Square 1:1, character centered and the same size as in Image 1.
+```
+
+- **② A컷 프롬프트** (①에서 만든 네 B컷을 첨부하고 그대로 넣기)
+
+```
+Traditional East Asian ink wash painting (sumi-e), pure black ink on plain white paper, no color, monochrome only, soft ink bleed and gradation, generous empty space, square 1:1 composition, centered subject, no text, no seal, no background scenery, one subject only, simple enough for a child to recognize, present-day look.
+The attached image is the Chinese character that this picture will morph into. Make the picture occupy the SAME area of the frame as the character (same height, same width, same center), and lay out the parts of the picture ON the character's strokes exactly as described below. The character's stroke layout is the skeleton of the picture: paint the parts that sit on the strokes as the boldest, darkest ink of the picture, and paint the rest of the object as soft grey ink wash around them, so the character's skeleton is visible inside the picture while the whole still reads as the object (like a mountain whose three ridges are bold black peaks with misty grey slopes around them).
+The subject must look like a REAL thing seen in life: a real child or adult in everyday clothes with hair and a face direction, a real animal, a real object. Never a bare silhouette, mannequin, stick figure, pictogram or abstract symbol.
+SUBJECT: a child standing facing the viewer with both arms stretched straight out sideways and legs spread wide, showing how big they are.
+LAYOUT: the head sits on the short part of the vertical that pokes above the horizontal stroke; the two arms lie exactly on the horizontal stroke; the torso and left leg follow the left-falling stroke, the right leg follows the right-falling stroke.
+```
+
+- 저장: `r28/U5927_B.jpg`, `r28/U5927_A.jpg` (재작업이면 `_v2`)
 
 ### 川 내 천 (U5DDD)
 - **획 기준**: `claude_b/U5DDD_B.jpg` · raw: https://raw.githubusercontent.com/talkverselab/talkversehanja/main/claude_b/U5DDD_B.jpg
@@ -55,6 +108,7 @@ Pure black ink, no color, no seal, no text, no extra marks, nothing else in the 
 ```
 Traditional East Asian ink wash painting (sumi-e), pure black ink on plain white paper, no color, monochrome only, soft ink bleed and gradation, generous empty space, square 1:1 composition, centered subject, no text, no seal, no background scenery, one subject only, simple enough for a child to recognize, present-day look.
 The attached image is the Chinese character that this picture will morph into. Make the picture occupy the SAME area of the frame as the character (same height, same width, same center), and lay out the parts of the picture ON the character's strokes exactly as described below. The character's stroke layout is the skeleton of the picture: paint the parts that sit on the strokes as the boldest, darkest ink of the picture, and paint the rest of the object as soft grey ink wash around them, so the character's skeleton is visible inside the picture while the whole still reads as the object (like a mountain whose three ridges are bold black peaks with misty grey slopes around them).
+The subject must look like a REAL thing seen in life: a real child or adult in everyday clothes with hair and a face direction, a real animal, a real object. Never a bare silhouette, mannequin, stick figure, pictogram or abstract symbol.
 SUBJECT: a stream flowing straight down the page in three parallel ribbons of water, with small ripples.
 LAYOUT: the left ribbon curves slightly like the left-falling stroke, the middle ribbon is short on the short middle stroke, the right ribbon is the longest on the right vertical stroke; nothing outside the three strokes.
 ```
@@ -79,56 +133,9 @@ Pure black ink, no color, no seal, no text, no extra marks, nothing else in the 
 ```
 Traditional East Asian ink wash painting (sumi-e), pure black ink on plain white paper, no color, monochrome only, soft ink bleed and gradation, generous empty space, square 1:1 composition, centered subject, no text, no seal, no background scenery, one subject only, simple enough for a child to recognize, present-day look.
 The attached image is the Chinese character that this picture will morph into. Make the picture occupy the SAME area of the frame as the character (same height, same width, same center), and lay out the parts of the picture ON the character's strokes exactly as described below. The character's stroke layout is the skeleton of the picture: paint the parts that sit on the strokes as the boldest, darkest ink of the picture, and paint the rest of the object as soft grey ink wash around them, so the character's skeleton is visible inside the picture while the whole still reads as the object (like a mountain whose three ridges are bold black peaks with misty grey slopes around them).
+The subject must look like a REAL thing seen in life: a real child or adult in everyday clothes with hair and a face direction, a real animal, a real object. Never a bare silhouette, mannequin, stick figure, pictogram or abstract symbol.
 SUBJECT: a wide open mouth seen from the front, drawn as a rounded square outline of lips, with nothing else of the face.
 LAYOUT: the lips trace the three strokes of the square outline: the left side, the top-and-right side, and the bottom; the inside stays empty white.
 ```
 
 - 저장: `r28/U53E3_B.jpg`, `r28/U53E3_A.jpg`
-
-### 子 아들 자 (U5B50)
-- **획 기준**: `claude_b/U5B50_B.jpg` · raw: https://raw.githubusercontent.com/talkverselab/talkversehanja/main/claude_b/U5B50_B.jpg
-- 획↔그림: 윗 꺾음 = 큰 머리, 갈고리 세로 = 포대기에 싸인 몸, 가로 = 양쪽으로 벌린 두 팔.
-
-- **① B컷 프롬프트** (이미지 1 = `claude_b/U5B50_B.jpg`, 이미지 2 = `huo_B.jpg`)
-
-```
-Write the Chinese character 子 with a real calligraphy brush: one bold hand-brushed character on plain off-white paper.
-Image 1 is the stroke-structure reference: keep the SAME stroke count, the same stroke positions, angles, lengths, thickness and proportions, and the same framing as Image 1. Small natural variation from the brush is fine, but no stroke may be added, dropped, merged or moved. Regular script (楷書), Korean standard form, not a printed font.
-Brush texture ONLY at the two ends of each stroke: a slightly pressed, rounded entry where the stroke starts, and a short dry-brush tail (flying white, a few bristle streaks) where the stroke leaves the paper. The body of every stroke stays solid, smooth, fully filled with black ink, with clean edges. No dry-brush streaks across the middle of strokes. Image 2 shows the feel of the stroke tails only; do not copy its shape and do not apply its texture to whole strokes.
-Pure black ink, no color, no seal, no text, no extra marks, nothing else in the frame. Square 1:1, character centered and the same size as in Image 1.
-```
-
-- **② A컷 프롬프트** (①에서 만든 네 B컷을 첨부하고 그대로 넣기)
-
-```
-Traditional East Asian ink wash painting (sumi-e), pure black ink on plain white paper, no color, monochrome only, soft ink bleed and gradation, generous empty space, square 1:1 composition, centered subject, no text, no seal, no background scenery, one subject only, simple enough for a child to recognize, present-day look.
-The attached image is the Chinese character that this picture will morph into. Make the picture occupy the SAME area of the frame as the character (same height, same width, same center), and lay out the parts of the picture ON the character's strokes exactly as described below. The character's stroke layout is the skeleton of the picture: paint the parts that sit on the strokes as the boldest, darkest ink of the picture, and paint the rest of the object as soft grey ink wash around them, so the character's skeleton is visible inside the picture while the whole still reads as the object (like a mountain whose three ridges are bold black peaks with misty grey slopes around them).
-SUBJECT: a baby wrapped in a blanket with a large round head and both little arms stretched out to the sides.
-LAYOUT: the head fills the top bent stroke; the swaddled body runs down the vertical hooked stroke; the two outstretched arms lie exactly on the horizontal stroke that crosses the body.
-```
-
-- 저장: `r28/U5B50_B.jpg`, `r28/U5B50_A.jpg`
-
-### 女 계집 녀 (U5973)
-- **획 기준**: `claude_b/U5973_B.jpg` · raw: https://raw.githubusercontent.com/talkverselab/talkversehanja/main/claude_b/U5973_B.jpg
-- 획↔그림: 긴 가로 = 앞으로 모아 포갠 두 팔, 왼쪽 꺾인 획(撇点) = 몸통에서 무릎으로 꺾이는 선, 오른쪽 삐침 = 치마 자락·뒷다리.
-
-- **① B컷 프롬프트** (이미지 1 = `claude_b/U5973_B.jpg`, 이미지 2 = `huo_B.jpg`)
-
-```
-Write the Chinese character 女 with a real calligraphy brush: one bold hand-brushed character on plain off-white paper.
-Image 1 is the stroke-structure reference: keep the SAME stroke count, the same stroke positions, angles, lengths, thickness and proportions, and the same framing as Image 1. Small natural variation from the brush is fine, but no stroke may be added, dropped, merged or moved. Regular script (楷書), Korean standard form, not a printed font.
-Brush texture ONLY at the two ends of each stroke: a slightly pressed, rounded entry where the stroke starts, and a short dry-brush tail (flying white, a few bristle streaks) where the stroke leaves the paper. The body of every stroke stays solid, smooth, fully filled with black ink, with clean edges. No dry-brush streaks across the middle of strokes. Image 2 shows the feel of the stroke tails only; do not copy its shape and do not apply its texture to whole strokes.
-Pure black ink, no color, no seal, no text, no extra marks, nothing else in the frame. Square 1:1, character centered and the same size as in Image 1.
-```
-
-- **② A컷 프롬프트** (①에서 만든 네 B컷을 첨부하고 그대로 넣기)
-
-```
-Traditional East Asian ink wash painting (sumi-e), pure black ink on plain white paper, no color, monochrome only, soft ink bleed and gradation, generous empty space, square 1:1 composition, centered subject, no text, no seal, no background scenery, one subject only, simple enough for a child to recognize, present-day look.
-The attached image is the Chinese character that this picture will morph into. Make the picture occupy the SAME area of the frame as the character (same height, same width, same center), and lay out the parts of the picture ON the character's strokes exactly as described below. The character's stroke layout is the skeleton of the picture: paint the parts that sit on the strokes as the boldest, darkest ink of the picture, and paint the rest of the object as soft grey ink wash around them, so the character's skeleton is visible inside the picture while the whole still reads as the object (like a mountain whose three ridges are bold black peaks with misty grey slopes around them).
-SUBJECT: a woman kneeling upright on the floor (seiza), seen from the side-front, hands folded together in front of her lap, present-day clothes.
-LAYOUT: her folded arms form the long horizontal stroke; her torso comes down the upper part of the left stroke and bends at the knee along its lower part; the right-falling stroke is her skirt and lower leg sweeping to the lower left.
-```
-
-- 저장: `r28/U5973_B.jpg`, `r28/U5973_A.jpg`
