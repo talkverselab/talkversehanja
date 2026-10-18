@@ -22,35 +22,35 @@
 巛 (흐르는 물결) https://raw.githubusercontent.com/talkverselab/talkversehanja/main/kids_b_guide/U5DDB_guide.png
 厷 (팔꿈치를 굽힌 팔뚝) https://raw.githubusercontent.com/talkverselab/talkversehanja/main/kids_b_guide/U53B7_guide.png
 毌 (가운데 뚫린 조개 꿰미) https://raw.githubusercontent.com/talkverselab/talkversehanja/main/kids_b_guide/U6BCC_guide.png
-㕣 (이 부품 모양을 닮은 친숙한 사물 하나(네가 정해)) https://raw.githubusercontent.com/talkverselab/talkversehanja/main/kids_b_guide/U3563_guide.png
-冉 (나아갈 염 모양의 사물) https://raw.githubusercontent.com/talkverselab/talkversehanja/main/kids_b_guide/U5189_guide.png
-聿 (붓 율 모양의 사물) https://raw.githubusercontent.com/talkverselab/talkversehanja/main/kids_b_guide/U807F_guide.png
-㐬 (이 부품 모양을 닮은 친숙한 사물 하나(네가 정해)) https://raw.githubusercontent.com/talkverselab/talkversehanja/main/kids_b_guide/U342C_guide.png
-冏 (빛날 경 모양의 사물) https://raw.githubusercontent.com/talkverselab/talkversehanja/main/kids_b_guide/U518F_guide.png
-巠 (이 부품 모양을 닮은 친숙한 사물 하나(네가 정해)) https://raw.githubusercontent.com/talkverselab/talkversehanja/main/kids_b_guide/U5DE0_guide.png
-皀 (이 부품 모양을 닮은 친숙한 사물 하나(네가 정해)) https://raw.githubusercontent.com/talkverselab/talkversehanja/main/kids_b_guide/U7680_guide.png
-覀 (이 부품 모양을 닮은 친숙한 사물 하나(네가 정해)) https://raw.githubusercontent.com/talkverselab/talkversehanja/main/kids_b_guide/U8980_guide.png
-佰 (우두머리 백 모양의 사물) https://raw.githubusercontent.com/talkverselab/talkversehanja/main/kids_b_guide/U4F70_guide.png
-坴 (이 부품 모양을 닮은 친숙한 사물 하나(네가 정해)) https://raw.githubusercontent.com/talkverselab/talkversehanja/main/kids_b_guide/U5774_guide.png
-斦 (이 부품 모양을 닮은 친숙한 사물 하나(네가 정해)) https://raw.githubusercontent.com/talkverselab/talkversehanja/main/kids_b_guide/U65A6_guide.png
-咼 (이 부품 모양을 닮은 친숙한 사물 하나(네가 정해)) https://raw.githubusercontent.com/talkverselab/talkversehanja/main/kids_b_guide/U54BC_guide.png
-枼 (이 부품 모양을 닮은 친숙한 사물 하나(네가 정해)) https://raw.githubusercontent.com/talkverselab/talkversehanja/main/kids_b_guide/U67BC_guide.png
-畐 (이 부품 모양을 닮은 친숙한 사물 하나(네가 정해)) https://raw.githubusercontent.com/talkverselab/talkversehanja/main/kids_b_guide/U7550_guide.png
-埶 (이 부품 모양을 닮은 친숙한 사물 하나(네가 정해)) https://raw.githubusercontent.com/talkverselab/talkversehanja/main/kids_b_guide/U57F6_guide.png
-厤 (이 부품 모양을 닮은 친숙한 사물 하나(네가 정해)) https://raw.githubusercontent.com/talkverselab/talkversehanja/main/kids_b_guide/U53A4_guide.png
-寍 (이 부품 모양을 닮은 친숙한 사물 하나(네가 정해)) https://raw.githubusercontent.com/talkverselab/talkversehanja/main/kids_b_guide/U5BCD_guide.png
-舄 (이 부품 모양을 닮은 친숙한 사물 하나(네가 정해)) https://raw.githubusercontent.com/talkverselab/talkversehanja/main/kids_b_guide/U8204_guide.png
-萑 (익모초 추 모양의 사물) https://raw.githubusercontent.com/talkverselab/talkversehanja/main/kids_b_guide/U8411_guide.png
-亶 (진실로 단 모양의 사물) https://raw.githubusercontent.com/talkverselab/talkversehanja/main/kids_b_guide/U4EB6_guide.png
-喿 (이 부품 모양을 닮은 친숙한 사물 하나(네가 정해)) https://raw.githubusercontent.com/talkverselab/talkversehanja/main/kids_b_guide/U55BF_guide.png
-戠 (이 부품 모양을 닮은 친숙한 사물 하나(네가 정해)) https://raw.githubusercontent.com/talkverselab/talkversehanja/main/kids_b_guide/U6220_guide.png
-翟 (꿩 적 모양의 사물) https://raw.githubusercontent.com/talkverselab/talkversehanja/main/kids_b_guide/U7FDF_guide.png
-䜌 (이 부품 모양을 닮은 친숙한 사물 하나(네가 정해)) https://raw.githubusercontent.com/talkverselab/talkversehanja/main/kids_b_guide/U470C_guide.png
-⺊ (이 부품 모양을 닮은 친숙한 사물 하나(네가 정해)) https://raw.githubusercontent.com/talkverselab/talkversehanja/main/kids_b_guide/U2E8A_guide.png
-㐅 (이 부품 모양을 닮은 친숙한 사물 하나(네가 정해)) https://raw.githubusercontent.com/talkverselab/talkversehanja/main/kids_b_guide/U3405_guide.png
-䏍 (이 부품 모양을 닮은 친숙한 사물 하나(네가 정해)) https://raw.githubusercontent.com/talkverselab/talkversehanja/main/kids_b_guide/U43CD_guide.png
-产 (이 부품 모양을 닮은 친숙한 사물 하나(네가 정해)) https://raw.githubusercontent.com/talkverselab/talkversehanja/main/kids_b_guide/U4EA7_guide.png
-竞 (이 부품 모양을 닮은 친숙한 사물 하나(네가 정해)) https://raw.githubusercontent.com/talkverselab/talkversehanja/main/kids_b_guide/U7ADE_guide.png
+㕣 (산 아래 질퍽한 늪)) https://raw.githubusercontent.com/talkverselab/talkversehanja/main/kids_b_guide/U3563_guide.png
+冉 (부드럽게 늘어진 긴 수염) https://raw.githubusercontent.com/talkverselab/talkversehanja/main/kids_b_guide/U5189_guide.png
+聿 (붓을 세워 쥔 손) https://raw.githubusercontent.com/talkverselab/talkversehanja/main/kids_b_guide/U807F_guide.png
+㐬 (포대기 아기 아래로 흐르는 물줄기)) https://raw.githubusercontent.com/talkverselab/talkversehanja/main/kids_b_guide/U342C_guide.png
+冏 (창문으로 들어오는 밝은 빛) https://raw.githubusercontent.com/talkverselab/talkversehanja/main/kids_b_guide/U518F_guide.png
+巠 (베틀에 세로로 걸린 날실)) https://raw.githubusercontent.com/talkverselab/talkversehanja/main/kids_b_guide/U5DE0_guide.png
+皀 (그릇에 담긴 흰 밥과 숟가락)) https://raw.githubusercontent.com/talkverselab/talkversehanja/main/kids_b_guide/U7680_guide.png
+覀 (새 둥지 모양 바구니)) https://raw.githubusercontent.com/talkverselab/talkversehanja/main/kids_b_guide/U8980_guide.png
+佰 (사람들 앞에 선 우두머리) https://raw.githubusercontent.com/talkverselab/talkversehanja/main/kids_b_guide/U4F70_guide.png
+坴 (흙 위에 쌓은 흙덩이 둔덕)) https://raw.githubusercontent.com/talkverselab/talkversehanja/main/kids_b_guide/U5774_guide.png
+斦 (나란히 놓인 손도끼 둘)) https://raw.githubusercontent.com/talkverselab/talkversehanja/main/kids_b_guide/U65A6_guide.png
+咼 (비뚤어진 입)) https://raw.githubusercontent.com/talkverselab/talkversehanja/main/kids_b_guide/U54BC_guide.png
+枼 (나뭇가지 끝의 얇은 잎)) https://raw.githubusercontent.com/talkverselab/talkversehanja/main/kids_b_guide/U67BC_guide.png
+畐 (배가 불룩한 술 단지)) https://raw.githubusercontent.com/talkverselab/talkversehanja/main/kids_b_guide/U7550_guide.png
+埶 (무릎 꿇고 묘목을 심는 사람)) https://raw.githubusercontent.com/talkverselab/talkversehanja/main/kids_b_guide/U57F6_guide.png
+厤 (벼랑 아래 가지런히 세운 볏단)) https://raw.githubusercontent.com/talkverselab/talkversehanja/main/kids_b_guide/U53A4_guide.png
+寍 (집 안에서 밥그릇 앞에 편안히 앉은 사람)) https://raw.githubusercontent.com/talkverselab/talkversehanja/main/kids_b_guide/U5BCD_guide.png
+舄 (까치 한 마리)) https://raw.githubusercontent.com/talkverselab/talkversehanja/main/kids_b_guide/U8204_guide.png
+萑 (물가에 우거진 물억새) https://raw.githubusercontent.com/talkverselab/talkversehanja/main/kids_b_guide/U8411_guide.png
+亶 (곡식이 가득 찬 곳간) https://raw.githubusercontent.com/talkverselab/talkversehanja/main/kids_b_guide/U4EB6_guide.png
+喿 (나무 위에서 지저귀는 새 세 마리)) https://raw.githubusercontent.com/talkverselab/talkversehanja/main/kids_b_guide/U55BF_guide.png
+戠 (베틀에서 베를 짜는 손)) https://raw.githubusercontent.com/talkverselab/talkversehanja/main/kids_b_guide/U6220_guide.png
+翟 (꼬리 깃이 긴 꿩) https://raw.githubusercontent.com/talkverselab/talkversehanja/main/kids_b_guide/U7FDF_guide.png
+䜌 (엉킨 실 사이에서 말하는 입)) https://raw.githubusercontent.com/talkverselab/talkversehanja/main/kids_b_guide/U470C_guide.png
+⺊ (거북 등딱지에 생긴 점괘 금)) https://raw.githubusercontent.com/talkverselab/talkversehanja/main/kids_b_guide/U2E8A_guide.png
+㐅 (X자로 엇갈린 두 막대)) https://raw.githubusercontent.com/talkverselab/talkversehanja/main/kids_b_guide/U3405_guide.png
+䏍 (곰의 머리와 몸)) https://raw.githubusercontent.com/talkverselab/talkversehanja/main/kids_b_guide/U43CD_guide.png
+产 (벼랑 아래서 태어난 아기)) https://raw.githubusercontent.com/talkverselab/talkversehanja/main/kids_b_guide/U4EA7_guide.png
+竞 (먹이를 달라고 다투는 새끼 새 두 마리)) https://raw.githubusercontent.com/talkverselab/talkversehanja/main/kids_b_guide/U7ADE_guide.png
 类 (이 부품 모양을 닮은 친숙한 사물 하나(네가 정해)) https://raw.githubusercontent.com/talkverselab/talkversehanja/main/kids_b_guide/UFAAE_guide.png
 
 저장: kids_a/U코드_A.jpg, kids_morph/U코드.mp4, kids_morph/U코드_B.jpg. 커밋 "Kids morph: 500자 2차 51".
