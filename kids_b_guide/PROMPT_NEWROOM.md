@@ -21,7 +21,7 @@
 
 ## 2) K01 (10자)
 ```
-괄호 안은 그림 힌트. 글자마다 그림·끝 장면·4초 영상 3개. 영상은 실제 모핑이어야 하고, 푸시 전에 각 mp4 길이가 4초인지 확인해 줘.
+[K01] 괄호 안은 그림 힌트. 글자마다 그림·끝 장면·4초 영상 3개. 영상은 실제 모핑이어야 하고, 푸시 전에 각 mp4 길이가 4초인지 확인해 줘.
 
 其 (받침 있는 곡식 키) https://raw.githubusercontent.com/talkverselab/talkversehanja/main/kids_b_guide/U5176_guide.png
 周 (밭에 곡식이 빽빽한 모습) https://raw.githubusercontent.com/talkverselab/talkversehanja/main/kids_b_guide/U5468_guide.png
