@@ -1,6 +1,6 @@
 수묵화. 흰 종이에 먹 한 색, 번짐과 농담, 여백 넉넉히, 배경 없이 주인공만, 정사각형, 글자·낙관 없음. 실루엣이나 기호가 아니라 옷 주름·털·결까지 그린 진짜 사람과 사물. 한 글자에 한 장, 최대 해상도. 괄호는 장면 힌트이고 B 주소는 나중에 변할 글자야 — 자세와 구도가 그 글자 모양을 닮게 해 줘. 20자마다 푸시해도 좋아.
 
-川 (세 줄기로 흘러내리는 시냇물) B https://raw.githubusercontent.com/talkverselab/talkversehanja/main/gemini_b/U5DDD_B.png
+川 (한 줄기 냇물인데 물결이 세 가닥으로 보이는 시냇물) B https://raw.githubusercontent.com/talkverselab/talkversehanja/main/gemini_b/U5DDD_B.png
 工 (흙바닥을 다지는 달구(막대 위아래에 판)) B https://raw.githubusercontent.com/talkverselab/talkversehanja/main/gemini_b/U5DE5_B.png
 口 (크게 벌린 입) B https://raw.githubusercontent.com/talkverselab/talkversehanja/main/gemini_b/U53E3_B.png
 夕 (산 너머로 기울어 가는 해와 초저녁 달) B https://raw.githubusercontent.com/talkverselab/talkversehanja/main/gemini_b/U5915_B.png
