@@ -6,15 +6,17 @@
 - B컷 파일: `claude_b/U<코드>_B.jpg` (이 저장소, raw: `https://raw.githubusercontent.com/talkverselab/talkversehanja/main/claude_b/U<코드>_B.jpg`). 1408×1408, 정자(楷書), 흰 바탕.
 - 그림 규칙(기존 그대로): 먹 한 색·흰 종이·낙관·글자·배경 풍경 금지, 주인공 하나, 아이가 알아보는 요즘 모습, 무기·형벌·바늘 등 불쾌한 소재 금지(`rounds/r26.md` 4항).
 - 2026-10-18 사용자: 27회차 人·大 A컷(맨몸 실루엣·막대인간)은 "실제하지 않는 컷" — **실루엣·마네킹·막대인간·픽토그램 금지, 실제 사람(옷·머리카락)·실제 사물**로.
-- 2026-10-18 사용자 확정 톤(27회차 山 A컷): **획 자리는 굵고 진한 먹, 나머지 사물은 옅은 회색 번짐** — 글자 뼈대가 그림 속에 보이면서 전체는 사물로 읽힘.
+- 2026-10-18 사용자 최종 확정: 人 `ren_A.jpg`(도포 입고 걷는 사람), 大 `da_A.jpg`(한복 입고 팔 벌린 사람) 이 A컷의 기준 — **진짜 수묵화, 자세로 글자 모양을 만든다**(27회차 山 처럼 획을 먹선으로 그린 것은 기준이 아님).
 - 결과 검사: A컷을 B컷 위에 반투명으로 겹쳤을 때 아래 "획↔그림" 대응대로 큰 덩어리가 같은 자리에 와야 통과.
 
 ## 공통 머리말 (모든 프롬프트 앞부분, 그대로 복사)
 
+사용자 의도(2026-10-18 확정, 人·大 A컷 `ren_A.jpg`·`da_A.jpg` 기준): **A컷은 진짜 수묵화다.** 실제 사람(옷·머리·얼굴·옷 주름)과 실제 사물을 농담 있는 먹 번짐으로 그린다. 글자 모양은 **자세와 구도로** 나오게 하고, 글자의 획을 그리거나 굵은 먹선으로 글자 뼈대를 드러내지 않는다. 실루엣·막대인간·픽토그램·윤곽선 그림은 금지.
+
 ```
-Traditional East Asian ink wash painting (sumi-e), pure black ink on plain white paper, no color, monochrome only, soft ink bleed and gradation, generous empty space, square 1:1 composition, centered subject, no text, no seal, no background scenery, one subject only, simple enough for a child to recognize, present-day look.
-The attached image is the Chinese character that this picture will morph into. Make the picture occupy the SAME area of the frame as the character (same height, same width, same center), and lay out the parts of the picture ON the character's strokes exactly as described below. The character's stroke layout is the skeleton of the picture: paint the parts that sit on the strokes as the boldest, darkest ink of the picture, and paint the rest of the object as soft grey ink wash around them, so the character's skeleton is visible inside the picture while the whole still reads as the object (like a mountain whose three ridges are bold black peaks with misty grey slopes around them).
-The subject must look like a REAL thing seen in life: a real child or adult in everyday clothes with hair and a face direction, a real animal, a real object. Never a bare silhouette, mannequin, stick figure, pictogram or abstract symbol.
+Traditional East Asian ink wash painting (sumi-e), pure black ink on plain white paper, no color, monochrome only, soft ink bleed and tonal gradation, generous empty space, square 1:1 composition, centered subject, no text, no seal, no background scenery, one subject only.
+Paint the subject as a REAL thing seen in life, fully rendered as a finished sumi-e: a real person with hair, a face, and clothes with folds (traditional or modern clothes are both fine), or a real animal or object with its texture. Never a bare silhouette, mannequin, stick figure, pictogram, outline drawing or symbol, and never draw the character's strokes or any bold glyph-like lines.
+The attached image is the Chinese character that this picture will morph into. Use it ONLY to choose the pose and composition: the picture must occupy the same area of the frame as the character (same height, width and center), and the subject's pose and the placement of its parts must line up with the character's strokes as described below, so that the character later emerges naturally from the picture. Where a SUBJECT line below says "drawn simply", "a few strokes" or "outline", ignore that wording and paint it fully.
 ```
 
 아래 각 글자의 `SUBJECT / LAYOUT` 줄을 공통 머리말 뒤에 이어 붙이면 완성 프롬프트가 된다.
@@ -33,7 +35,7 @@ LAYOUT: the short left roof line follows the short left-falling stroke; the righ
 ### 九 아홉 구 (U4E5D) — `claude_b/U4E5D_B.jpg`
 - 획↔그림: 삐침 = 어깨에서 내려오는 위팔, 乙(가로-꺾음-갈고리) = 팔꿈치에서 꺾인 아래팔과 위로 들린 손.
 ```
-SUBJECT: one bent arm seen from the side, flexing at the elbow, the hand curling upward, nothing else of the body.
+SUBJECT: one bent arm seen from the side, flexing at the elbow, the hand curling upward.
 LAYOUT: the upper arm runs from the top left downward along the left-falling stroke; the forearm starts at the top, runs to the right along the horizontal part of the hooked stroke, bends down at the elbow along its vertical part and the hand curls up at the bottom right exactly where the stroke hooks.
 ```
 
@@ -47,7 +49,7 @@ LAYOUT: the head sits at the apex where the two strokes meet; the torso and the 
 ### 八 여덟 팔 (U516B) — `claude_b/U516B_B.jpg`
 - 획↔그림: 위에서 갈라져 양쪽으로 벌어지는 두 획 = 한 점에서 갈라진 두 스키 자국(또는 두 조각으로 쪼개진 떡).
 ```
-SUBJECT: two ski tracks in snow diverging downhill from one point, drawn as two soft ink lines with nothing else.
+SUBJECT: two ski tracks in snow diverging downhill from one point, as two soft lines in the snow.
 LAYOUT: the left track runs down to the lower left along the left-falling stroke and the right track runs down to the lower right along the right-falling stroke; the two tracks do not touch at the top, leaving the same small gap as the character.
 ```
 
@@ -61,7 +63,7 @@ LAYOUT: one stick is horizontal exactly on the horizontal stroke and one is vert
 ### 力 힘 력 (U529B) — `claude_b/U529B_B.jpg`
 - 획↔그림: 가로-꺾음-갈고리 = 괭이 머리(가로 날이 꺾여 내려가 끝이 갈고리), 삐침 = 괭이 자루.
 ```
-SUBJECT: a garden hoe digging into soil, seen from the side, with a small pair of hands on the handle, no body.
+SUBJECT: a garden hoe digging into soil, seen from the side, with a small pair of hands on the handle.
 LAYOUT: the hoe head runs along the hooked stroke: across the top, bending down and hooking at the bottom; the wooden handle runs from the upper middle down to the lower left exactly along the left-falling stroke, crossing the hoe head where the strokes cross.
 ```
 
@@ -91,7 +93,7 @@ LAYOUT: the long seed stands upright on the central vertical stroke with its tip
 ### 山 메 산 (U5C71) — `claude_b/U5C71_B.jpg`
 - 획↔그림: 가운데 세로 = 가장 높은 봉우리, 양쪽 세로 = 낮은 봉우리, 바닥 가로 = 산기슭.
 ```
-SUBJECT: a mountain with three peaks, the middle peak tallest, drawn with bold ink and a flat base.
+SUBJECT: a mountain with three peaks, the middle peak tallest with a flat base.
 LAYOUT: the tall middle peak rises on the central vertical stroke; the left and right peaks rise on the two shorter side verticals; the flat foot of the mountain lies on the bottom horizontal stroke.
 ```
 
@@ -119,7 +121,7 @@ LAYOUT: the grip bar lies on the top horizontal stroke, the shaft on the vertica
 ### 口 입 구 (U53E3) — `claude_b/U53E3_B.jpg`
 - 획↔그림: 네모 테두리 = 크게 벌린 입술 윤곽.
 ```
-SUBJECT: a wide open mouth seen from the front, drawn as a rounded square outline of lips, with nothing else of the face.
+SUBJECT: a wide open mouth seen from the front, lips forming a rounded square.
 LAYOUT: the lips trace the three strokes of the square outline: the left side, the top-and-right side, and the bottom; the inside stays empty white.
 ```
 
@@ -156,7 +158,7 @@ LAYOUT: the board is the square outline; the pole runs the full length of the ce
 ### 日 날 일 (U65E5) — `claude_b/U65E5_B.jpg`
 - 획↔그림: 네모 테두리 = 해, 가운데 가로 = 해 속의 점(흑점).
 ```
-SUBJECT: the sun drawn as a rounded square disc with a single short dark mark in its center, soft ink glow at the edge.
+SUBJECT: the sun as a rounded square disc with a single short dark mark in its center, soft ink glow at the edge.
 LAYOUT: the disc fills the square outline of the character and the center mark lies on the middle horizontal stroke.
 ```
 
@@ -177,21 +179,21 @@ LAYOUT: the main flame's left edge runs down the long left-falling stroke and it
 ### 木 나무 목 (U6728) — `claude_b/U6728_B.jpg`
 - 획↔그림: 가로 = 양쪽으로 뻗은 가지, 세로 = 줄기, 삐침·파임 = 양쪽으로 벌어진 뿌리.
 ```
-SUBJECT: a young tree with a straight trunk, two branches spreading sideways, and two roots spreading at the base, only a few leaves.
+SUBJECT: a young tree with a straight trunk, two branches spreading sideways, and two roots spreading at the base.
 LAYOUT: the two branches lie on the horizontal stroke, the trunk on the vertical stroke, the left root on the left-falling stroke and the right root on the right-falling stroke.
 ```
 
 ### 心 마음 심 (U5FC3) — `claude_b/U5FC3_B.jpg`
 - 획↔그림: 넓은 굽은 갈고리 = 심장(또는 하트)의 둥근 아랫부분, 세 점 = 위로 튀는 작은 두근거림 방울 셋.
 ```
-SUBJECT: a soft heart shape lying like a bowl, drawn with one wide curved stroke, with three small drops of ink beating above it.
+SUBJECT: a soft heart shape lying like a bowl,, with three small drops of ink beating above it.
 LAYOUT: the bowl of the heart follows the wide curved hooked stroke; the three drops sit exactly on the three dots: one on the left, two on the upper right.
 ```
 
 ### 手 손 수 (U624B) — `claude_b/U624B_B.jpg`
 - 획↔그림: 갈고리 세로 = 손목에서 가운뎃손가락까지, 두 가로 = 양쪽으로 펼친 손가락들, 맨 위 삐침 = 끝에서 기울어진 손가락 끝.
 ```
-SUBJECT: an open hand seen from the back with the fingers spread upward, drawn very simply.
+SUBJECT: an open hand seen from the back with the fingers spread upward.
 LAYOUT: the wrist and middle finger run up the vertical hooked stroke; the spread fingers lie along the two horizontal strokes; the fingertip tilting to the left is the short top left-falling stroke.
 ```
 
@@ -212,21 +214,21 @@ LAYOUT: the head is the top dot; the arms lie on the horizontal stroke; the two 
 ### 元 으뜸 원 (U5143) — `claude_b/U5143_B.jpg`
 - 획↔그림: 위 두 가로 = 챙 넓은 모자(머리를 강조), 儿 = 두 다리.
 ```
-SUBJECT: a child seen from the front wearing a wide flat hat, body hidden, only the hat and two legs visible, one leg stepping.
+SUBJECT: a child seen from the front wearing a wide flat hat, a wide hat and two legs below, one leg stepping.
 LAYOUT: the hat is the two horizontal strokes (crown and brim); the left leg follows the short left-falling stroke and the right leg follows the curved hooked stroke bending up at the end.
 ```
 
 ### 牛 소 우 (U725B) — `claude_b/U725B_B.jpg`
 - 획↔그림: 삐침 + 첫 가로 = 두 뿔, 세로 = 얼굴 중심선(코까지), 둘째 긴 가로 = 양쪽 귀.
 ```
-SUBJECT: an ox head seen straight from the front, drawn with a few strokes: two horns, a long face, two ears, no body.
+SUBJECT: an ox head seen straight from the front: two horns, a long face, two ears.
 LAYOUT: the left horn is the short top left-falling stroke and the right horn is the first short horizontal; the face runs down the vertical stroke; the two ears lie on the long second horizontal.
 ```
 
 ### 止 그칠 지 (U6B62) — `claude_b/U6B62_B.jpg`
 - 획↔그림: 가운데 세로 = 발 길이(가운뎃발가락), 오른쪽 짧은 가로 = 바깥 발가락, 왼쪽 짧은 세로 = 엄지발가락, 바닥 가로 = 발뒤꿈치 선 (발자국).
 ```
-SUBJECT: a single footprint seen from above with the toes pointing up, drawn as a few bold ink strokes.
+SUBJECT: a single footprint seen from above with the toes pointing up.
 LAYOUT: the long middle toe runs up the central vertical stroke; the big toe is the short left vertical; the small toe is the short horizontal on the upper right; the heel is the bottom horizontal stroke.
 ```
 
@@ -247,7 +249,7 @@ LAYOUT: the left edge of the chip follows the left-falling stroke and the left v
 ### 比 견줄 비 (U6BD4) — `claude_b/U6BD4_B.jpg`
 - 획↔그림: 왼쪽 匕 = 키를 재려고 나란히 선 아이 1, 오른쪽 匕 = 아이 2 (같은 방향, 팔을 앞으로 구부림).
 ```
-SUBJECT: two children standing side by side facing the right, comparing their height, each drawn as a simple figure with one arm bent forward.
+SUBJECT: two children standing side by side facing the right, comparing their height, each a real child with one arm bent forward.
 LAYOUT: the left child stands on the left 匕 shape: body on its vertical hooked stroke, bent arm on its short slanted stroke; the right child stands on the right 匕 shape in the same way; both the same size as the strokes.
 ```
 
@@ -263,7 +265,7 @@ LAYOUT: the soil is the bottom horizontal stroke; the stem is the vertical strok
 ### 白 흰 백 (U767D) — `claude_b/U767D_B.jpg`
 - 획↔그림: 日 = 막 떠오른 해, 위 삐침 = 해 위로 뻗는 한 줄기 빛.
 ```
-SUBJECT: the sun just risen, drawn as a rounded square disc with a center line, with one single ray of light leaning out from its top.
+SUBJECT: the sun just risen, as a rounded square disc with a center line, with one single ray of light leaning out from its top.
 LAYOUT: the disc fills the 日 part (the square outline with the middle horizontal); the ray is the short left-falling stroke on top of the square.
 ```
 
@@ -277,7 +279,7 @@ LAYOUT: the mother's body is the outer frame: left bent stroke and right horizon
 ### 目 눈 목 (U76EE) — `claude_b/U76EE_B.jpg`
 - 획↔그림: 세로로 긴 네모 = 세워 놓은 눈의 윤곽, 안의 두 가로 = 눈동자의 위아래 선.
 ```
-SUBJECT: a single eye standing upright (turned 90 degrees), drawn as a tall rounded outline with the iris and pupil as two horizontal lines inside.
+SUBJECT: a single eye standing upright (turned 90 degrees), as a tall rounded shape with the iris and pupil as two horizontal lines inside.
 LAYOUT: the eye outline is the tall rectangle; the two lines inside sit exactly on the two short inner horizontals.
 ```
 
@@ -319,7 +321,7 @@ LAYOUT: the pot is the square outline with the inner horizontal; the sprout's st
 ### 必 반드시 필 (U5FC5) — `claude_b/U5FC5_B.jpg`
 - 획↔그림: 넓은 굽은 갈고리 + 세 점 = 하트(心), 긴 삐침 = 하트를 가로지르는 화살(큐피드 화살, 무서운 소재 아님).
 ```
-SUBJECT: a soft heart shape with a single arrow passing diagonally through it, like a simple love-arrow emoji, drawn in ink.
+SUBJECT: a soft heart shape with a single arrow passing diagonally through it, like a simple love-arrow emoji.
 LAYOUT: the heart's bowl follows the wide curved hooked stroke and its three dots are the three dots of the character; the arrow runs from the upper right to the lower left exactly along the long left-falling stroke.
 ```
 
@@ -363,14 +365,14 @@ LAYOUT: the curled top of the peel is the horizontal-then-bending stroke; the ha
 ### 行 다닐 행 (U884C) — `claude_b/U884C_B.jpg`
 - 획↔그림: 왼쪽 彳 = 왼쪽 길 가장자리 두 줄, 오른쪽 亍 = 오른쪽 길 가장자리와 갈고리로 꺾이는 길 (네거리 위에서 본 모습).
 ```
-SUBJECT: a four-way crossroads seen from directly above, drawn only by the road edges, with one tiny person walking in it.
+SUBJECT: a four-way crossroads seen from directly above, seen as the road edges, with one tiny person walking in it.
 LAYOUT: the two short road edges on the left are the two left-falling strokes plus the left vertical; the right road edges are the two horizontals and the long vertical hooked stroke; roads stay inside the strokes, no buildings.
 ```
 
 ### 自 스스로 자 (U81EA) — `claude_b/U81EA_B.jpg`
 - 획↔그림: 세로로 긴 네모 = 코의 윤곽, 안의 두 가로 = 코의 주름(콧등 선), 위 삐침 = 미간에서 내려오는 콧대 시작.
 ```
-SUBJECT: a nose seen from the front, drawn as a tall rounded outline with two faint creases inside, and the bridge beginning as a short slanted line at the top.
+SUBJECT: a nose seen from the front, as a tall rounded shape with two faint creases inside, and the bridge beginning as a short slanted line at the top.
 LAYOUT: the outline is the 目-like tall rectangle; the creases lie on the two inner horizontals; the bridge is the short left-falling stroke on top.
 ```
 
@@ -405,7 +407,7 @@ LAYOUT: the head and long hair are the top 土-shaped strokes; the bent back run
 ### 米 쌀 미 (U7C73) — `claude_b/U7C73_B.jpg`
 - 획↔그림: 세로 = 벼 줄기, 가로 = 이삭 가지, 위 두 점과 아래 삐침·파임 = 줄기 주위에 달린 쌀알들.
 ```
-SUBJECT: a rice stalk with grains hanging around it, drawn very simply: one stem, one side branch, and grains at six points.
+SUBJECT: a rice stalk with grains hanging around it: one stem, one side branch, and grains at six points.
 LAYOUT: the stem is the vertical stroke; the branch is the horizontal; grains sit on the two top dots and along the left-falling and right-falling strokes below.
 ```
 
@@ -472,7 +474,7 @@ LAYOUT: the stalk is the vertical stroke; the side branch is the horizontal; the
 ### 非 아닐 비 (U975E) — `claude_b/U975E_B.jpg`
 - 획↔그림: 두 세로 = 새의 두 날개 뼈대, 좌우 가로 셋씩 = 서로 반대쪽으로 뻗은 깃털 (등 뒤에서 본 펼친 두 날개).
 ```
-SUBJECT: a bird's two wings seen from behind, spread in opposite directions, each wing a spine with three feathers pointing outward, no body.
+SUBJECT: a bird's two wings seen from behind, spread in opposite directions, each wing a spine with three feathers pointing outward.
 LAYOUT: the left wing's spine is the left vertical with its three feathers on the three left horizontals; the right wing's spine is the right vertical with its three feathers on the three right horizontals.
 ```
 
@@ -509,7 +511,7 @@ LAYOUT: the bowed head and shoulders are the top left-falling stroke and the fir
 ### 面 낯 면 (U9762) — `claude_b/U9762_B.jpg`
 - 획↔그림: 위 가로와 삐침 = 이마와 머리카락 선, 큰 테두리 = 얼굴 윤곽, 안의 目 = 큰 눈 하나.
 ```
-SUBJECT: a face drawn as a tall rounded outline with one single large eye inside it and a hairline across the top.
+SUBJECT: a face as a tall rounded shape with one single large eye inside it and a hairline across the top.
 LAYOUT: the hairline is the top horizontal and the short left-falling stroke; the face outline is the big frame; the eye is the 目 shape inside, its lines on the inner horizontals.
 ```
 
