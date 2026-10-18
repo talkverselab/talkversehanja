@@ -51,6 +51,6 @@
 䏍 (곰의 머리와 몸) https://raw.githubusercontent.com/talkverselab/talkversehanja/main/kids_b_guide/U43CD_guide.png
 产 (벼랑 아래서 태어난 아기) https://raw.githubusercontent.com/talkverselab/talkversehanja/main/kids_b_guide/U4EA7_guide.png
 竞 (먹이를 달라고 다투는 새끼 새 두 마리) https://raw.githubusercontent.com/talkverselab/talkversehanja/main/kids_b_guide/U7ADE_guide.png
-类 (이 부품 모양을 닮은 친숙한 사물 하나(네가 정해) https://raw.githubusercontent.com/talkverselab/talkversehanja/main/kids_b_guide/UFAAE_guide.png
+类 (쌀 더미 옆의 강아지) https://raw.githubusercontent.com/talkverselab/talkversehanja/main/kids_b_guide/UFAAE_guide.png
 
 저장: kids_a/U코드_A.jpg, kids_morph/U코드.mp4, kids_morph/U코드_B.jpg. 커밋 "Kids morph: 500자 2차 51".
