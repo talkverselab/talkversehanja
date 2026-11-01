@@ -1,4 +1,4 @@
-# Talkverse art — Japanese · round 02 (style B) · 2026-11-02
+# Talkverse art — Japanese · round 02 (style B) · 5 images · 2026-11-02
 
 Read `talkverse_art/STYLE.md` first. Accent pair for Japanese: **#e88b4a** / **#f5c07a**.
 
@@ -20,8 +20,3 @@ Save to `talkverse_art/ja/r02/<file>` and push ONE commit: `Talkverse art ja r02
 | 3 | 来る | くる | 오다 · to come (v) | 문으로 들어오는 친구 | `talkverse_art/ja/r02/21_kuru.jpg` |
 | 4 | 嫌 | いや | 싫음 · disagreeable (adj-na) | 싫어서 손사래 | `talkverse_art/ja/r02/46_iya.jpg` |
 | 5 | 先生 | せんせい | 선생님 · teacher (n) | 교실의 선생님 | `talkverse_art/ja/r02/71_sensei.jpg` |
-| 6 | 今 | いま | 지금 · now (adv/time) | 시계 바늘 지금 | `talkverse_art/ja/r02/72_ima.jpg` |
-| 7 | 聞く | きく | 듣다 · to hear (v) | 이어폰으로 듣는 사람 | `talkverse_art/ja/r02/88_kiku.jpg` |
-| 8 | 大丈夫 | だいじょうぶ | 괜찮다 · It's ok (all right) (expr) | 엄지 척 | `talkverse_art/ja/r02/90_daijyoubu.jpg` |
-| 9 | 音 | おと | 소리 · sound (n) | 스피커와 음표 | `talkverse_art/ja/r02/96_oto.jpg` |
-| 10 | 出る | でる | 나가다 · to appear (v) | 건물에서 나오는 사람 | `talkverse_art/ja/r02/110_deru.jpg` |
