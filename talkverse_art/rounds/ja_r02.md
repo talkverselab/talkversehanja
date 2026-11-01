@@ -11,7 +11,7 @@ Read `talkverse_art/STYLE.md` first. Accent pair for Japanese: **#e88b4a** / **#
 - No letters, digits, signs, clocks with numerals, logos, brands, real people, existing characters. Safe for 12+.
 - Do not upload failed files or placeholders. Never overwrite; a redo is `_v2`.
 
-**Delivery:** upload each finished image with `curl -X PUT https://auth.talkverse.uk/art/inbox/ja/r02/<file> -H "X-Art-Key: <the key given in chat>" --data-binary @<file>` (one request per image). File names are in the table. GitHub push is not needed. When all are uploaded, say "r02 done" in chat.
+**Delivery:** save each image as `talkverse_art/ja/r02/<file>` (names in the table) and push to this GitHub repo — one commit per image is fine. Last commit message: `Talkverse art ja r02 done`.
 
 | # | word | reading | meaning (ko · en) | scene to draw | file |
 |---|---|---|---|---|---|
