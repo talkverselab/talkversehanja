@@ -18,5 +18,7 @@ Talkverse makes one language-learning app per language for Korean learners. Thes
 - Do not upload failed or placeholder files.
 
 ## Delivery
+- **Preferred:** `curl -X PUT https://auth.talkverse.uk/art/inbox/<lang>/r<NN>/<file> -H "X-Art-Key: <key given in chat>" --data-binary @<file>` for each image (the round file gives exact names). No GitHub push needed.
+- Fallback (GitHub):
 - Put files exactly at the path given in the round file. **One commit per image is fine** (upload each JPG as base64 content with the GitHub connector, the way round 01 worked). After the last image, make the last commit message `Talkverse art <lang> r<NN> done: <words>`. Claude watches the repo, reviews, and writes the next round.
 - Never overwrite an existing file; a redo is `<name>_v2.jpg`.
