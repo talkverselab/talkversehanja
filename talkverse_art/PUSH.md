@@ -1,17 +1,16 @@
 # How to push pictures to this repo (read before every round)
 
-Repo: `talkverselab/talkversehanja`, branch `main`. Use **only the GitHub connector's file-push tool** (the one that takes a list of files with `path` + `content`, e.g. `push_files` / "create or update file"). Do not try `git` in the sandbox (no credentials), do not use the browser, do not test with tiny files.
+Repo: `talkverselab/talkversehanja`, branch `main`.
 
-For each finished picture:
-1. Make it **1024×1024 JPG, quality 85**, and check the size is **under 200 KB** (if bigger, re-save at quality 80). Larger files get truncated by the connector and arrive corrupted.
-2. Read the file as bytes and **base64-encode it** (standard base64, no line breaks).
-3. Call the connector's push tool with: `branch: main`, `files: [{ path: "talkverse_art/ja/rNN/<rank>_<romaji>.jpg", content: "<base64>", encoding: "base64" }]` (if the tool has no `encoding` field, the base64 string goes in `content` as-is — that is how every previous round was pushed), `message: "Talkverse art ja rNN <rank>_<romaji>"`.
-4. **One picture per commit.** After the last one, make the final commit message exactly `Talkverse art ja rNN done` (it can be the last picture's commit).
-5. Never overwrite an existing file; a redo is `<rank>_<romaji>_v2.jpg` (or the file name given in the round table).
+## The method that works (verified 2026-11-02, pushtest 138,098 B byte-identical)
+Binary files cannot go through the connector's text push tool (it stores text, so a JPG arrives as a few bytes). Use **git in the sandbox with the GitHub connector's credential helper** instead — this is exactly what succeeded:
+1. `git clone` the repo in the sandbox (the connector's credential helper provides auth; no token needed).
+2. Copy each finished picture into the clone at its path from the round table (`talkverse_art/ja/rNN/<rank>_<romaji>.jpg`, 1024×1024 JPG, quality 85).
+3. `git add` → `git commit -m "Talkverse art ja rNN <rank>_<romaji>"` → `git pull --rebase` → `git push`. One picture per commit is fine; the LAST commit message of the round must be exactly `Talkverse art ja rNN done`.
+4. Verify with `github___get_file_contents` that the pushed file size equals the local file size.
+Never write placeholders, never push base64 text files, never overwrite an existing picture (a redo is `_v2`, `_v3`…).
 
-If one push fails, retry that single file once with quality 80; if it still fails, skip it and write which file failed in the last commit message. Do not spend time investigating upload methods — the steps above are known to work (74 rounds, ~370 files).
-
-## Method C — chunked base64 (use this when a whole base64 string is too long for one tool call)
+## Method C (fallback only, do not use unless git push itself fails) — chunked base64 (use this when a whole base64 string is too long for one tool call)
 The connector can only write TEXT reliably and a tool call cannot carry a 150 KB file. So push the picture as **text chunks** and our ingest script reassembles the JPG:
 1. Save the picture as 1024×1024 JPG quality 85 (≤ 200 KB). Base64-encode it to one line.
 2. Split the base64 string into pieces small enough to paste whole into ONE tool call — **8,000 characters each** (`part1`, `part2`, …; a 150 KB picture is ~25 parts). If even that fails, use 4,000. **Never write a placeholder** (`PLACEHOLDER…`) into a part: the part's content must be the actual base64 text, copied in full.
