@@ -14,5 +14,5 @@ Save to `talkverse_art/ja/r35/<file>` and push to GitHub (one commit per image i
 
 | file | why | new file |
 |---|---|---|
-| `None` | this way / here (こちら) — not a hand close-up. Full-body: a smiling hotel receptionist in a vest stands beside an open door, open palm extended guiding a guest with a suitcase toward it | `ja/r00/268_v2.jpg` |
-| `None` | woman (女性) — must have a face, not pregnant. A friendly adult woman, full body, mid-30s, casual blouse and skirt, shoulder bag, standing and smiling at the viewer | `ja/r00/270_v2.jpg` |
+| `talkverse_art/ja/r34/293_kochira.jpg` | this way / here (こちら) — not a hand close-up. Full-body: a smiling hotel receptionist in a vest stands beside an open door, open palm extended guiding a guest with a suitcase toward it | `talkverse_art/ja/r34/293_kochira_v2.jpg` |
+| `talkverse_art/ja/r34/301_josei.jpg` | woman (女性) — must have a face, not pregnant. A friendly adult woman, full body, mid-30s, casual blouse and skirt, shoulder bag, standing and smiling at the viewer | `talkverse_art/ja/r34/301_josei_v2.jpg` |
