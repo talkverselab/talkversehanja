@@ -1,6 +1,6 @@
 # Talkverse art — next job
 
-Current round: **`talkverse_art/rounds/ja_r225.md`** (Japanese, 2 words + 4 redo, style B).
+Current round: **`talkverse_art/rounds/ja_r226.md`** (Japanese, 3 words + 3 redo, style B).
 Shared rules: `talkverse_art/STYLE.md`. Word lists: `talkverse_art/words/`.
 (The Hanja work in this repo is separate — its instructions are the root `GROK_NEXT.md`. Do not mix them.)
 
