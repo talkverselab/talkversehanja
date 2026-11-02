@@ -1,6 +1,6 @@
 # Talkverse art — Japanese · round 75 · 2026-11-02
 
-Same look and tone as the previous round (style B, accent #e88b4a on one item only, real Japan dishes for food words, no text/logos). **Vary the people**: each picture a different person — change hair color/style, age, gender and clothing colors; do not repeat the green-sweater-and-orange-scarf character. Rules: `talkverse_art/STYLE.md`.
+Same look and tone as the previous round (style B, accent #e88b4a on one item only, real Japan dishes for food words, no text/logos). **Vary the people**: each picture a different person — change hair color/style, age, gender and clothing colors; do not repeat the green-sweater-and-orange-scarf character. Rules: `talkverse_art/STYLE.md`. **Hard limit: at most 6 image generations in this round in total, including any retries or repairs.** If a picture still fails after that, skip it and say so in the commit message — do not generate more.
 
 Save to `talkverse_art/ja/r75/<file>` and push to GitHub (one commit per image is fine; last commit message `Talkverse art ja r75 done`).
 
@@ -9,7 +9,6 @@ Save to `talkverse_art/ja/r75/<file>` and push to GitHub (one commit per image i
 | 1 | 一つ | ひとつ | 하나 · one thing (n) | 사과 한 개 | `talkverse_art/ja/r75/542_hitotsu.jpg` |
 | 2 | 写真 | しゃしん | 사진 · photo (n) | 사진 한 장 | `talkverse_art/ja/r75/544_shashin.jpg` |
 | 3 | 先輩 | せんぱい | 선배 · senior (n) | 앞서 걷는 선배와 뒤따르는 후배 | `talkverse_art/ja/r75/546_senpai.jpg` |
-| 4 | 必ず | かならず | 반드시 · surely (adv) | 굵은 체크 표시 | `talkverse_art/ja/r75/547_kanarazu.jpg` |
 
 ## Redo (previous rounds)
 

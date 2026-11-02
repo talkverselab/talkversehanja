@@ -20,3 +20,7 @@ Talkverse makes one language-learning app per language for Korean learners. Thes
 ## Delivery
 - Put files exactly at the path given in the round file. **One commit per image is fine** (upload each JPG as base64 content with the GitHub connector, the way round 01 worked). After the last image, make the last commit message `Talkverse art <lang> r<NN> done: <words>`. Claude watches the repo, reviews, and writes the next round.
 - Never overwrite an existing file; a redo is `<name>_v2.jpg`.
+
+
+## Per-round limit (2026-11-02)
+- A round is 4 pictures (redos included). **Generate at most 6 images per round in total, including retries/repairs.** If something still fails, skip it and note it in the commit message — the next round will re-request it.
