@@ -24,3 +24,6 @@ Talkverse makes one language-learning app per language for Korean learners. Thes
 
 ## Per-round limit (2026-11-02)
 - A round is 4 pictures (redos included). **Generate at most 6 images per round in total, including retries/repairs.** If something still fails, skip it and note it in the commit message — the next round will re-request it.
+
+## Framing (2026-11-02)
+- People are shown **full body, head to feet**; never crop heads or faces at the frame edge. Keep a margin around the subject. Output exactly 1024×1024.
