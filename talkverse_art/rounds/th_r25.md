@@ -1,0 +1,22 @@
+# Talkverse art — Thai · round 25 · 2026-11-03
+
+**Style check (every round):** match these approved images exactly — soft matte clay, natural adult/child body proportions (NOT chibi/baby big-head), light pastel blob background, accent color on ONE small item only (do not paint everything orange):
+
+- https://raw.githubusercontent.com/talkverselab/talkversehanja/main/talkverse_art/ja/r01/95_matsu_B.jpg
+- https://raw.githubusercontent.com/talkverselab/talkversehanja/main/talkverse_art/ja/r01/112_hanashi_B.jpg
+- https://raw.githubusercontent.com/talkverselab/talkversehanja/main/talkverse_art/ja/r01/137_haha_B.jpg
+- https://raw.githubusercontent.com/talkverselab/talkversehanja/main/talkverse_art/ja/r02/19_iu_v2.jpg
+- https://raw.githubusercontent.com/talkverselab/talkversehanja/main/talkverse_art/ja/r02/71_sensei_v2.jpg
+
+Same look and tone as the previous round (style B, accent #8a5cd6 on one item only, real Thailand dishes for food words, people, clothing and places typical of Thailand, no text/logos). **Every person full body, head to feet, nothing cropped — never cut off heads. The image tool cannot output 1:1, so generate LANDSCAPE (3:2 or 16:9) with the subject centered and empty background on both sides, then center-crop to a 1024×1024 square (crop only the left/right sides, never top/bottom). Portrait images, letterboxing or any side bars are rejected.** **People: use ONLY the two fixed Thai app characters in https://raw.githubusercontent.com/talkverselab/talkversehanja/main/talkverse_art/chars/th_sheet.jpg (open it first).** Woman: clearly golden-tan / light-brown skin (as in the sheet, darker than a typical pale skin), soft round eyes, long slightly wavy black hair, bright smile; outfit = cream knit + white pleated skirt (everyday) or white visor + white tennis outfit + lilac paddle (sport). Man: short neat black hair, clean gentle features, beige SHORT-SLEEVE button shirt with a chest pocket (not a sweater) + brown trousers + white sneakers. Felt/clay doll texture as in the sheet. Same faces and outfits every time; no names, no text. A child appears only when the word needs one. **Do not reuse the curly-haired bearded man in a green sweater** (he appeared in 4 of 6 pictures in round 289) — every adult must look different: straight/short/long/grey hair, glasses, different ages and builds. **Never show a woman holding two round objects (fruit, balls) at chest height** — carry them in a basket, bag or low at the hips. **Never draw one person just standing alone doing nothing**: job, family and relation words (principal, son, employee, doctor…) must show that person WITH the people they relate to, in their place (school, shop, home), doing the typical action; left/right/direction words must be a scene, never a bare arrow; abstract words must be a person doing it. Rules: `talkverse_art/STYLE.md`. **Hard limit: this round is 6 pictures; generate at most 8 images in total including retries.** If a picture still fails after that, skip it and say so in the commit message — do not generate more.
+
+Save to `talkverse_art/th/r25/<file>` and push to GitHub exactly as `talkverse_art/PUSH.md` says (connector push tool, base64, 1024×1024 JPG quality 85 under 200 KB, one picture per commit; last commit message `Talkverse art th r25 done`).
+
+| # | word | reading | meaning (ko · en) | scene to draw | file |
+|---|---|---|---|---|---|
+| 1 | ตั้งใจ | dtâng jai | 작정하다, 집중하다, 의도하다 · focus / intend (verb) | 방 안 재봉 탁자에서 고정 캐릭터 여자가 실을 바늘귀에 꿰려고 한쪽 눈을 찡그리며 온 신경을 집중하고, 옆의 고양이도 숨죽여 봄. 여자 전신. | `talkverse_art/th/r25/521_focus.jpg` |
+| 2 | นิ่ง | nîng | 가만히 있다, 고요하다 · still (adj) | 꽃밭에서 고정 캐릭터 남자의 코끝에 나비가 내려앉자 남자가 눈만 굴리며 꼼짝 않고 가만히 서 있고, 여자가 손가락을 입에 대고 '쉿' 하며 사진을 찍으려 함. 두 사람 전신. (고정 캐릭터 남자 = 짧은 직모 검은 머리, 베이지 반팔 셔츠·갈색 바지, 곱슬머리·긴소매 금지) | `talkverse_art/th/r25/535_still.jpg` |
+| 3 | ตบ | dtòp | 때리다, 뺨치다 · slap (verb) | 야시장 벤치에서 고정 캐릭터 남자가 팔에 앉은 모기를 손바닥으로 '찰싹' 때려 잡고, 여자가 옆에서 웃으며 모기 퇴치 스프레이를 내밂. 사람 사이 폭력 없음, 두 사람 전신. (고정 캐릭터 남자 = 짧은 직모 검은 머리, 베이지 반팔 셔츠·갈색 바지, 곱슬머리·긴소매 금지) | `talkverse_art/th/r25/542_slap.jpg` |
+| 4 | โอน | on | 이체하다, 양도하다 · transfer (money) (verb) | 시장 과일 노점에서 고정 캐릭터 여자가 휴대전화로 노점의 QR 코드를 찍어 돈을 보내고, 상인 아주머니가 자기 휴대전화 알림을 보며 엄지를 듦. 두 사람 전신, 화면 글자·숫자 없음. | `talkverse_art/th/r25/549_transfer.jpg` |
+| 5 | โรตี | roti | 로띠 · Thai roti (noun) | 얇게 펴 바삭하게 부친 반죽에 바나나와 연유를 뿌려 네모나게 접은 간식. | `talkverse_art/th/r25/9047_thai_roti.jpg` |
+| 6 | ชาเย็น | cha yen | 차옌 · Thai iced tea (noun) | 진한 주황빛 홍차에 연유를 넣고 얼음 잔에 담은 음료, 위에 하얀 우유층. | `talkverse_art/th/r25/9048_thai_iced_tea.jpg` |
