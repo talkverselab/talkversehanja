@@ -1,0 +1,2501 @@
+rank,word,reading,ko,en,pos,level,picturable
+1,di,,~의(소유·소속),of,prep,R1,N
+2,e,,그리고,and,conj,R1,N
+3,che,,~라는 것/무엇,that,conj,R1,N
+4,il,,그(남성 정관사),the,det,R1,N
+5,la,,그(여성 정관사),the,det,R1,N
+6,a,,~에/~로,at/to,prep,R1,N
+7,in,,~안에,in,prep,R1,N
+8,non,,~아니다(부정),not,adv,R1,N
+9,un,,하나의(남성),a,det,R1,N
+10,per,,~을 위해,for,prep,R1,N
+11,è,,~이다(3인칭 단수),is,verb,R1,N
+12,del,,~의(di+il),of the,prep,R1,N
+13,i,,그(남성 복수 정관사),the,det,R1,N
+14,una,,하나의(여성),a,det,R1,N
+15,le,,그(여성 복수 정관사),the,det,R1,N
+16,si,,자기 자신(재귀),oneself,pron,R1,N
+17,con,,~와 함께,with,prep,R1,N
+18,della,,~의(di+la),of the,prep,R1,N
+19,da,,~로부터,from,prep,R1,N
+20,sono,,~이다(1인칭 단수/3인칭 복수),am,verb,R1,N
+21,ma,,그러나,but,conj,R1,N
+22,al,,~에(a+il),to the,prep,R1,N
+23,ha,,가지고 있다(3인칭 단수),has,verb,R1,N
+24,come,,~처럼,like,adv,R1,N
+25,più,,더,more,adv,R1,N
+26,dei,,~의(di+i),of the,prep,R1,N
+27,se,,만약,if,conj,R1,N
+28,nel,,~안에(in+il),in the,prep,R1,N
+29,mi,,나에게,me,pron,R1,N
+30,alla,,~에(a+la),to the,prep,R1,N
+31,anche,,또한,also,adv,R1,N
+32,lo,,그것(목적격),it,pron,R1,N
+33,gli,,그들에게/그(남성 복수 정관사),the,det,R1,N
+34,delle,,~의(di+le),of the,prep,R1,N
+35,o,,또는,or,conj,R1,N
+36,questo,,이것,this,pron,R1,N
+37,ho,,가지고 있다(1인칭 단수),have,verb,R1,N
+38,ci,,우리에게/거기,us,pron,R1,N
+39,su,,~위에,on,prep,R1,N
+40,ad,,~에(a의 변형),to,prep,R1,N
+41,dal,,~로부터(da+il),from the,prep,R1,N
+42,solo,,오직,only,adv,R1,N
+43,essere,,~이다,be,verb,R1,N
+44,io,,나,I,pron,R1,N
+45,nella,,~안에(in+la),in the,prep,R1,N
+46,ti,,너에게,you,pron,R1,N
+47,cui,,그 사람/것(관계대명사),whom,pron,R1,N
+48,era,,~였다,was,verb,R1,N
+49,stato,,~였다(essere 과거분사),been,verb,R1,N
+50,quando,,언제,when,adv,R1,N
+51,tutti,,모두,everyone,pron,R1,N
+52,ed,,그리고(e의 변형),and,conj,R1,N
+53,questa,,이(여성),this,det,R1,N
+54,tutto,,모든 것,everything,pron,R1,N
+55,cosa,,것/무엇,thing,noun,R1,N
+56,hanno,,가지고 있다(3인칭 복수),have,verb,R1,N
+57,tra,,~사이에,between,prep,R1,N
+58,fatto,,했다(fare 과거분사),done,verb,R1,N
+59,prima,,먼저,before,adv,R1,N
+60,suo,,그의,his,det,R1,N
+61,loro,,그들,they,pron,R1,N
+62,parte,,부분,part,noun,R1,N
+63,perché,,왜/~때문에,why,adv,R1,N
+64,anni,,"해(년, 복수)",years,noun,R1,N
+65,due,,둘,two,num,R1,N
+66,sia,,~이든(접속법),be,conj,R1,N
+67,sua,,그의(여성),his,det,R1,N
+68,ai,,~에게(a+i),to the,prep,R1,N
+69,fare,,하다,do,verb,R1,N
+70,così,,그렇게,so,adv,R1,N
+71,dalla,,~로부터(da+la),from the,prep,R1,N
+72,degli,,~의(di+gli),of the,prep,R1,N
+73,dopo,,~후에,after,prep,R1,N
+74,sul,,~위에(su+il),on the,prep,R1,N
+75,alle,,~에(a+le),to the,prep,R1,N
+76,uno,,하나,one,num,R1,N
+77,ne,,그것에 대해,of it,pron,R1,N
+78,poi,,그 다음에,then,adv,R1,N
+79,quello,,저것,that,pron,R1,N
+80,sempre,,항상,always,adv,R1,N
+81,fa,,한다(fare 3인칭),does,verb,R1,N
+82,me,,나(강세형),me,pron,R1,N
+83,chi,,누구,who,pron,R1,N
+84,ancora,,아직,still,adv,R1,N
+85,molto,,많이,very,adv,R1,N
+86,senza,,~없이,without,prep,R1,N
+87,mai,,결코,never,adv,R1,N
+88,ogni,,모든,every,det,R1,N
+89,altri,,다른 사람들,others,pron,R1,N
+90,ora,,지금,now,adv,R1,N
+91,mio,,나의,my,det,R1,N
+92,può,,~할 수 있다(3인칭),can,verb,R1,N
+93,quanto,,얼마나,how much,adv,R1,N
+94,mia,,나의(여성),my,det,R1,N
+95,sulla,,~위에(su+la),on the,prep,R1,N
+96,tempo,,시간,time,noun,R1,N
+97,dove,,어디,where,adv,R1,N
+98,vita,,삶,life,noun,R1,N
+99,nei,,~안에(in+i),in the,prep,R1,N
+100,no,,아니요,no,interj,R1,N
+101,già,,이미,already,adv,R1,N
+102,sei,,~이다(2인칭)/여섯,are,verb,R1,N
+103,quella,,저(여성),that,det,R1,N
+104,quindi,,그러므로,therefore,conj,R1,N
+105,secondo,,~에 따르면,according to,prep,R1,N
+106,hai,,가지고 있다(2인칭),have,verb,R1,N
+107,proprio,,바로,really,adv,R1,N
+108,altro,,다른,other,adj,R1,N
+109,bene,,잘,well,adv,R1,N
+110,grazie,,감사합니다,thanks,interj,R1,N
+111,lavoro,,일,work,noun,R1,Y
+112,modo,,방법,way,noun,R1,N
+113,dai,,~로부터(da+i)/자 어서,from the,prep,R1,N
+114,noi,,우리,we,pron,R1,N
+115,nelle,,~안에(in+le),in the,prep,R1,N
+116,vi,,너희에게,you,pron,R1,N
+117,casa,,집,house,noun,R1,Y
+118,persone,,사람들,people,noun,R1,Y
+119,qui,,여기,here,adv,R1,N
+120,sta,,있다(stare 3인칭),stay,verb,R1,N
+121,te,,너(강세형),you,pron,R1,N
+122,volta,,번(횟수),time,noun,R1,N
+123,dire,,말하다,say,verb,R1,Y
+124,italia,,이탈리아,Italy,propn,R1,N
+125,tu,,너,you,pron,R1,N
+126,giorno,,날,day,noun,R1,N
+127,mondo,,세계,world,noun,R1,Y
+128,questi,,이것들,these,pron,R1,N
+129,stata,,~였다(여성 과거분사),been,verb,R1,N
+130,lui,,그,he,pron,R1,N
+131,siamo,,~이다(1인칭 복수),are,verb,R1,N
+132,stesso,,같은,same,adj,R1,N
+133,via,,길,street,noun,R1,Y
+134,cose,,것들,things,noun,R1,N
+135,grande,,크다,big,adj,R1,Y
+136,primo,,첫째,first,adj,R1,N
+137,contro,,~에 반대하여,against,prep,R1,N
+138,caso,,경우,case,noun,R1,N
+139,li,,그들을/거기,them,pron,R1,N
+140,mentre,,~하는 동안,while,conj,R1,N
+141,tutte,,모두(여성),all,pron,R1,N
+142,abbiamo,,가지고 있다(1인칭 복수),have,verb,R1,N
+143,quel,,저(남성),that,det,R1,N
+144,oggi,,오늘,today,adv,R1,N
+145,tanto,,그렇게 많이,so much,adv,R1,N
+146,città,,도시,city,noun,R1,Y
+147,nuovo,,새롭다,new,adj,R1,Y
+148,detto,,말했다(dire 과거분사),said,verb,R1,N
+149,fine,,끝,end,noun,R1,N
+150,po,,조금(un po'),a bit,adv,R1,N
+151,qualche,,몇몇의,some,det,R1,N
+152,quale,,어느,which,pron,R1,N
+153,suoi,,그의(복수),his,det,R1,N
+154,viene,,오다(3인칭),come,verb,R1,Y
+155,aveva,,가지고 있었다,had,verb,R1,N
+156,anno,,해(년),year,noun,R1,N
+157,dalle,,~로부터(da+le),from the,prep,R1,N
+158,sarà,,~일 것이다,will be,verb,R1,N
+159,stati,,~였다(복수 과거분사),been,verb,R1,N
+160,storia,,이야기/역사,story,noun,R1,N
+161,tre,,셋,three,num,R1,N
+162,tuo,,너의,your,det,R1,N
+163,va,,가다(3인칭),go,verb,R1,Y
+164,avere,,가지다,have,verb,R1,N
+165,fino,,~까지,until,prep,R1,N
+166,foto,,사진,photo,noun,R1,Y
+167,altre,,다른(여성 복수),other,adj,R1,N
+168,dello,,~의(di+lo),of the,prep,R1,N
+169,erano,,~였다(복수),were,verb,R1,N
+170,meglio,,더 낫게,better,adv,R1,N
+171,queste,,이것들(여성),these,pron,R1,N
+172,visto,,보았다(vedere 과거분사),seen,verb,R1,N
+173,ciò,,그것,that,pron,R1,N
+174,meno,,덜,less,adv,R1,N
+175,però,,그러나,however,conj,R1,N
+176,sarebbe,,~일 것이다(조건),would be,verb,R1,N
+177,so,,안다(1인칭),know,verb,R1,N
+178,sotto,,~아래에,under,prep,R1,N
+179,momento,,순간,moment,noun,R1,N
+180,aver,,가지다(avere 줄임),have,verb,R1,N
+181,vedere,,보다,see,verb,R1,Y
+182,deve,,~해야 한다(3인칭),must,verb,R1,N
+183,forse,,아마,maybe,adv,R1,N
+184,giorni,,날들,days,noun,R1,N
+185,invece,,대신에,instead,adv,R1,N
+186,nostro,,우리의,our,det,R1,N
+187,agli,,~에게(a+gli),to the,prep,R1,N
+188,qualcosa,,무언가,something,pron,R1,N
+189,sembra,,~처럼 보이다,seem,verb,R1,N
+190,fosse,,~이었다면(접속법),were,verb,R1,N
+191,oltre,,~너머,beyond,prep,R1,N
+192,perchè,,왜/~때문에,why,adv,R1,N
+193,troppo,,너무,too much,adv,R1,N
+194,vero,,사실이다,true,adj,R1,N
+195,allora,,그러면,then,adv,R1,N
+196,durante,,~동안,during,prep,R1,N
+197,fu,,~였다(단순과거),was,verb,R1,N
+198,gente,,사람들,people,noun,R1,Y
+199,legge,,법,law,noun,R1,N
+200,niente,,아무것도,nothing,pron,R1,N
+201,posto,,자리,place,noun,R1,Y
+202,alcuni,,몇몇,some,det,R1,N
+203,fuori,,밖에,outside,adv,R1,N
+204,nome,,이름,name,noun,R1,N
+205,poco,,조금,little,adv,R1,N
+206,roma,,로마,Rome,propn,R1,N
+207,sto,,있는 중이다(1인칭),stay,verb,R1,N
+208,voi,,너희,you,pron,R1,N
+209,andare,,가다,go,verb,R1,Y
+210,insieme,,함께,together,adv,R1,N
+211,punto,,점,point,noun,R1,N
+212,qualcuno,,누군가,someone,pron,R1,N
+213,quelli,,저것들,those,pron,R1,N
+214,tipo,,종류,type,noun,R1,N
+215,tutta,,모든(여성),all,det,R1,N
+216,altra,,다른(여성),other,adj,R1,N
+217,davvero,,정말,really,adv,R1,N
+218,dice,,말한다(3인칭),says,verb,R1,N
+219,nessuno,,아무도,nobody,pron,R1,N
+220,nuova,,새롭다(여성),new,adj,R1,Y
+221,quali,,어느(복수),which,pron,R1,N
+222,tua,,너의(여성),your,det,R1,N
+223,verso,,~쪽으로,toward,prep,R1,N
+224,volte,,번(복수),times,noun,R1,N
+225,comunque,,어쨌든,anyway,adv,R1,N
+226,far,,하다(fare 줄임),do,verb,R2,N
+227,lei,,그녀,she,pron,R2,N
+228,negli,,~안에(in+gli),in the,prep,R2,N
+229,possono,,~할 수 있다(3인칭 복수),can,verb,R2,N
+230,video,,영상,video,noun,R2,Y
+231,sui,,~위에(su+i),on the,prep,R2,N
+232,voglio,,원하다(1인칭),want,verb,R2,N
+233,male,,나쁘게/아픔,bad,adv,R2,N
+234,nostra,,우리의(여성),our,det,R2,N
+235,numero,,숫자,number,noun,R2,N
+236,quasi,,거의,almost,adv,R2,N
+237,quelle,,저것들(여성),those,pron,R2,N
+238,sì,,네,yes,interj,R2,N
+239,cazzo,,젠장(비속어),damn,interj,R2,N
+240,certo,,확실히,certain,adj,R2,N
+241,gruppo,,그룹,group,noun,R2,Y
+242,persona,,사람,person,noun,R2,Y
+243,stessa,,같은(여성),same,adj,R2,N
+244,sue,,그의(여성 복수),his,det,R2,N
+245,sulle,,~위에(su+le),on the,prep,R2,N
+246,dato,,준(dare 과거분사)/자료,given,adj,R2,N
+247,società,,사회/회사,society,noun,R2,N
+248,uomo,,남자,man,noun,R2,Y
+249,famiglia,,가족,family,noun,R2,Y
+250,nulla,,아무것도,nothing,pron,R2,N
+251,ore,,시간(복수),hours,noun,R2,N
+252,paese,,나라,country,noun,R2,Y
+253,problema,,문제,problem,noun,R2,N
+254,puoi,,~할 수 있다(2인칭),can,verb,R2,N
+255,circa,,약,about,adv,R2,N
+256,credo,,믿다(1인칭),believe,verb,R2,N
+257,governo,,정부,government,noun,R2,N
+258,molti,,많은,many,det,R2,N
+259,posso,,~할 수 있다(1인칭),can,verb,R2,N
+260,potrebbe,,~할 수 있을 것이다,could,verb,R2,N
+261,col,,~와 함께(con+il),with the,prep,R2,N
+262,ecco,,여기 있다,here is,adv,R2,N
+263,esempio,,예,example,noun,R2,N
+264,ben,,잘(bene 줄임),well,adv,R2,N
+265,donne,,여자들,women,noun,R2,Y
+266,fanno,,한다(3인칭 복수),do,verb,R2,N
+267,italiano,,이탈리아의,Italian,adj,R2,N
+268,milano,,밀라노,Milan,propn,R2,N
+269,possibile,,가능하다,possible,adj,R2,N
+270,rispetto,,존중/~에 비해,respect,noun,R2,N
+271,sistema,,시스템,system,noun,R2,N
+272,vuole,,원하다(3인칭),want,verb,R2,N
+273,abbia,,가지다(접속법),have,verb,R2,N
+274,adesso,,지금,now,adv,R2,N
+275,bisogno,,필요,need,noun,R2,N
+276,serie,,시리즈,series,noun,R2,N
+277,allo,,~에(a+lo),to the,prep,R2,N
+278,almeno,,적어도,at least,adv,R2,N
+279,donna,,여자,woman,noun,R2,Y
+280,miei,,나의(복수),my,det,R2,N
+281,nazionale,,국가의,national,adj,R2,N
+282,generale,,일반적이다,general,adj,R2,N
+283,guerra,,전쟁,war,noun,R2,Y
+284,infatti,,사실,indeed,adv,R2,N
+285,morte,,죽음,death,noun,R2,N
+286,sito,,사이트,website,noun,R2,N
+287,avuto,,가졌다(avere 과거분사),had,verb,R2,N
+288,base,,기초,base,noun,R2,N
+289,film,,영화,movie,noun,R2,Y
+290,politica,,정치,politics,noun,R2,N
+291,pure,,~도,also,adv,R2,N
+292,spesso,,자주,often,adv,R2,N
+293,uomini,,남자들,men,noun,R2,Y
+294,comune,,공통의/시,common,adj,R2,N
+295,sa,,안다(3인칭),know,verb,R2,N
+296,subito,,즉시,immediately,adv,R2,N
+297,centro,,중심,center,noun,R2,N
+298,dio,,신,god,noun,R2,N
+299,fra,,~사이에,between,prep,R2,N
+300,inoltre,,게다가,moreover,adv,R2,N
+301,parlare,,말하다,talk,verb,R2,Y
+302,scuola,,학교,school,noun,R2,Y
+303,vuoi,,원하다(2인칭),want,verb,R2,N
+304,appena,,막,just,adv,R2,N
+305,buona,,좋다(여성),good,adj,R2,Y
+306,ce,,우리에게(ci 변형),us,pron,R2,N
+307,idea,,생각,idea,noun,R2,N
+308,mano,,손,hand,noun,R2,Y
+309,siano,,~이다(접속법 복수),be,verb,R2,N
+310,alcune,,몇몇(여성),some,det,R2,N
+311,amici,,친구들,friends,noun,R2,Y
+312,avrebbe,,가질 것이다,would have,verb,R2,N
+313,causa,,원인,cause,noun,R2,N
+314,corso,,강좌,course,noun,R2,N
+315,forza,,힘,strength,noun,R2,N
+316,importante,,중요하다,important,adj,R2,N
+317,mesi,,"달(월, 복수)",months,noun,R2,N
+318,presidente,,대통령,president,noun,R2,Y
+319,seguito,,뒤따름,following,noun,R2,N
+320,senso,,의미,sense,noun,R2,N
+321,successo,,성공,success,noun,R2,N
+322,basta,,충분하다,enough,interj,R2,N
+323,diritto,,권리,right,noun,R2,N
+324,fai,,한다(2인칭),do,verb,R2,N
+325,nostri,,우리의(복수),our,det,R2,N
+326,parole,,말들,words,noun,R2,N
+327,scritto,,썼다(scrivere 과거분사),written,verb,R2,N
+328,soprattutto,,특히,especially,adv,R2,N
+329,stanno,,있다(3인칭 복수),stay,verb,R2,N
+330,terra,,땅,earth,noun,R3,Y
+331,padre,,아버지,father,noun,R3,Y
+332,penso,,생각하다(1인칭),think,verb,R3,N
+333,piace,,좋아하다,like,verb,R3,N
+334,dare,,주다,give,verb,R3,Y
+335,devo,,~해야 한다(1인칭),must,verb,R3,N
+336,piano,,계획/천천히,plan,noun,R3,N
+337,porta,,문,door,noun,R3,Y
+338,settimana,,주(주간),week,noun,R3,N
+339,state,,~였다(2인칭 복수),been,verb,R3,N
+340,trovare,,찾다,find,verb,R3,Y
+341,vengono,,오다(3인칭 복수),come,verb,R3,Y
+342,vista,,시야,view,noun,R3,N
+343,genere,,종류,kind,noun,R3,N
+344,letto,,침대,bed,noun,R3,Y
+345,migliore,,더 좋다,best,adj,R3,N
+346,pubblico,,대중,public,noun,R3,N
+347,realtà,,현실,reality,noun,R3,N
+348,strada,,길,road,noun,R3,Y
+349,livello,,수준,level,noun,R3,N
+350,lungo,,길다,long,adj,R3,Y
+351,mezzo,,절반,half,noun,R3,N
+352,problemi,,문제들,problems,noun,R3,N
+353,ragazzi,,소년들,boys,noun,R3,Y
+354,seconda,,둘째(여성),second,adj,R3,N
+355,tale,,그러한,such,adj,R3,N
+356,bella,,아름답다(여성),beautiful,adj,R3,Y
+357,diversi,,다른(복수),different,adj,R3,N
+358,grandi,,크다(복수),big,adj,R3,Y
+359,particolare,,특별하다,special,adj,R3,N
+360,pubblicato,,출판된,published,adj,R3,N
+361,ragione,,이유,reason,noun,R3,N
+362,settembre,,9월,September,noun,R3,N
+363,dovrebbe,,~해야 할 것이다,should,verb,R3,N
+364,marzo,,3월,March,noun,R3,N
+365,notte,,밤,night,noun,R3,Y
+366,possa,,~할 수 있다(접속법),can,verb,R3,N
+367,presso,,~곁에,at,prep,R3,N
+368,quattro,,넷,four,num,R3,N
+369,situazione,,상황,situation,noun,R3,N
+370,attività,,활동,activity,noun,R3,N
+371,attraverso,,~을 통해,through,prep,R3,N
+372,bambini,,아이들,children,noun,R3,Y
+373,consiglio,,조언,advice,noun,R3,N
+374,faccio,,한다(1인칭),do,verb,R3,N
+375,forma,,모양,shape,noun,R3,N
+376,italiana,,이탈리아의(여성),Italian,adj,R3,N
+377,libro,,책,book,noun,R3,Y
+378,qualsiasi,,어떤 ~든,any,det,R3,N
+379,sapere,,알다,know,verb,R3,N
+380,saranno,,~일 것이다(복수),will be,verb,R3,N
+381,soldi,,돈,money,noun,R3,Y
+382,buon,,좋은(buono 줄임),good,adj,R3,Y
+383,campo,,들판,field,noun,R3,Y
+384,dagli,,~로부터(da+gli),from the,prep,R3,N
+385,faccia,,얼굴,face,noun,R3,Y
+386,figlio,,아들,son,noun,R3,Y
+387,prendere,,잡다,take,verb,R3,Y
+388,progetto,,프로젝트,project,noun,R3,N
+389,propria,,자기 자신의,own,adj,R3,N
+390,servizio,,서비스,service,noun,R3,N
+391,testa,,머리,head,noun,R3,Y
+392,accordo,,합의,agreement,noun,R3,N
+393,amore,,사랑,love,noun,R3,Y
+394,avevo,,가지고 있었다(1인칭),had,verb,R3,N
+395,capo,,우두머리,boss,noun,R3,Y
+396,conto,,계산서,bill,noun,R3,Y
+397,giusto,,옳다,right,adj,R3,N
+398,madre,,어머니,mother,noun,R3,Y
+399,periodo,,기간,period,noun,R3,N
+400,preso,,잡았다(prendere 과거분사),taken,verb,R3,N
+401,studio,,공부,study,noun,R3,Y
+402,tratta,,다루다(3인칭),deal,verb,R3,N
+403,unico,,유일하다,unique,adj,R3,N
+404,ciao,,안녕,hello,interj,R3,N
+405,dati,,자료,data,noun,R3,N
+406,diverse,,다른(여성 복수),different,adj,R3,N
+407,gioco,,놀이,game,noun,R3,Y
+408,grado,,정도,degree,noun,R3,N
+409,voce,,목소리,voice,noun,R3,N
+410,forte,,강하다,strong,adj,R3,Y
+411,giro,,한 바퀴,tour,noun,R3,Y
+412,gran,,큰(grande 줄임),big,adj,R3,Y
+413,italiani,,이탈리아인들,Italians,noun,R3,Y
+414,maggio,,5월,May,noun,R3,N
+415,mese,,달,month,noun,R3,N
+416,nello,,~안에(전치사+관사),in the,prep,R3,N
+417,ricerca,,연구,research,noun,R3,N
+418,unica,,유일한(여성형),only,adj,R3,N
+419,uso,,사용,use,noun,R3,N
+420,capire,,이해하다,understand,verb,R3,N
+421,corpo,,몸,body,noun,R3,Y
+422,facendo,,하면서(fare 현재분사),do,verb,R3,N
+423,fatti,,사실들,fact,noun,R3,N
+424,luogo,,장소,place,noun,R3,Y
+425,nemmeno,,~조차 않다,not even,adv,R3,N
+426,ormai,,이제는,by now,adv,R3,N
+427,parla,,말한다(parlare 3인칭),speak,verb,R3,Y
+428,partito,,정당,party,noun,R3,N
+429,passato,,과거,past,noun,R3,N
+430,quei,,그~들,those,det,R3,N
+431,ragazza,,소녀,girl,noun,R3,Y
+432,tv,,텔레비전,television,noun,R3,Y
+433,avanti,,앞으로,forward,adv,R3,N
+434,avete,,가지고 있다(2인칭 복수),have,verb,R3,N
+435,euro,,유로,euro,noun,R3,N
+436,favore,,호의,favor,noun,R3,N
+437,figli,,자녀들,children,noun,R3,Y
+438,milioni,,수백만,million,num,R3,N
+439,minuti,,분(시간),minute,noun,R3,N
+440,molte,,많은(여성복수),many,det,R3,N
+441,sicurezza,,안전,safety,noun,R3,N
+442,tuttavia,,그렇지만,however,adv,R3,N
+443,acqua,,물,water,noun,R3,Y
+444,aprile,,4월,April,noun,R3,N
+445,casi,,경우들,case,noun,R3,N
+446,cuore,,심장,heart,noun,R3,Y
+447,difficile,,어렵다,difficult,adj,R3,N
+448,domanda,,질문,question,noun,R3,N
+449,giugno,,6월,June,noun,R3,N
+450,occhi,,눈(복수),eye,noun,R3,Y
+451,presente,,현재의,present,adj,R3,N
+452,siete,,~이다(2인칭 복수),be,verb,R3,N
+453,trova,,찾는다(trovare 3인칭),find,verb,R3,N
+454,vedo,,본다(1인칭),see,verb,R3,Y
+455,articolo,,기사,article,noun,R3,N
+456,bello,,아름답다,beautiful,adj,R3,Y
+457,capito,,이해했다(capire 과거분사),understand,verb,R3,N
+458,chiesa,,교회,church,noun,R3,Y
+459,cioè,,즉,that is,adv,R3,N
+460,devi,,~해야 한다(2인칭),must,verb,R3,N
+461,ex,,전~,former,adj,R3,N
+462,informazioni,,정보,information,noun,R3,N
+463,lì,,저기,there,adv,R3,N
+464,maggior,,더 큰,greater,adj,R3,N
+465,media,,평균,average,noun,R3,N
+466,ottobre,,10월,October,noun,R3,N
+467,parola,,단어,word,noun,R3,N
+468,pochi,,적은(남성복수),few,det,R3,N
+469,prova,,시험,test,noun,R3,N
+470,sera,,저녁,evening,noun,R3,Y
+471,stai,,있다(stare 2인칭),stay,verb,R3,N
+472,sud,,남쪽,south,noun,R3,N
+473,titolo,,제목,title,noun,R3,N
+474,vorrei,,~하고 싶다(조건법),want,verb,R3,N
+475,cinque,,다섯,five,num,R3,N
+476,europa,,유럽,Europe,propn,R3,N
+477,fatta,,만들어진(fare 여성 과거분사),do,verb,R3,N
+478,luglio,,7월,July,noun,R3,N
+479,musica,,음악,music,noun,R3,Y
+480,nuove,,새로운(여성복수),new,adj,R3,N
+481,nuovi,,새로운(남성복수),new,adj,R3,N
+482,paesi,,나라들,country,noun,R3,Y
+483,paura,,두려움,fear,noun,R3,N
+484,pensare,,생각하다,think,verb,R3,Y
+485,primi,,첫번째의(남성복수),first,adj,R3,N
+486,regione,,지역,region,noun,R3,N
+487,sociale,,사회의,social,adj,R3,N
+488,sopra,,위에,above,prep,R3,N
+489,stare,,있다,stay,verb,R3,N
+490,dietro,,뒤에,behind,prep,R3,N
+491,eh,,응?,eh,interj,R3,N
+492,inglese,,영어의,English,adj,R3,N
+493,maggiore,,더 큰,greater,adj,R3,N
+494,messo,,놓았다(mettere 과거분사),put,verb,R3,N
+495,nord,,북쪽,north,noun,R3,N
+496,post,,게시물,post,noun,R3,N
+497,questione,,문제,issue,noun,R3,N
+498,re,,왕,king,noun,R3,Y
+499,termine,,끝,end,noun,R3,N
+500,vicino,,가까운,near,adj,R3,N
+501,vivere,,살다,live,verb,R3,Y
+502,abbastanza,,꽤,enough,adv,R3,N
+503,data,,날짜,date,noun,R3,N
+504,dell,,~의(di+관사),of the,prep,R3,N
+505,dico,,말한다(1인칭),say,verb,R3,Y
+506,ero,,~였다(1인칭),be,verb,R3,N
+507,giornata,,하루,day,noun,R3,N
+508,lingua,,언어,language,noun,R3,N
+509,mettere,,놓다,put,verb,R3,Y
+510,piccolo,,작다,small,adj,R3,Y
+511,posizione,,위치,position,noun,R3,N
+512,possibilità,,가능성,possibility,noun,R3,N
+513,potere,,~할 수 있다,can,verb,R3,N
+514,programma,,프로그램,program,noun,R3,N
+515,usa,,사용한다(usare 3인칭),use,verb,R3,N
+516,zona,,지역,area,noun,R3,N
+517,controllo,,통제,control,noun,R3,N
+518,cultura,,문화,culture,noun,R3,N
+519,devono,,~해야 한다(3인칭 복수),must,verb,R3,N
+520,dovuto,,~해야 했다(dovere 과거분사),must,verb,R3,N
+521,febbraio,,2월,February,noun,R3,N
+522,futuro,,미래,future,noun,R3,N
+523,ieri,,어제,yesterday,adv,R3,N
+524,mercato,,시장,market,noun,R3,Y
+525,neanche,,~조차 않다,not even,adv,R3,N
+526,polizia,,경찰,police,noun,R3,Y
+527,veramente,,정말로,really,adv,R3,N
+528,alto,,높다,tall,adj,R3,Y
+529,amico,,친구,friend,noun,R3,Y
+530,avevano,,가지고 있었다(3인칭 복수),have,verb,R3,N
+531,cura,,돌봄,care,noun,R3,N
+532,davanti,,앞에,in front,prep,R3,N
+533,dicembre,,12월,December,noun,R3,N
+534,magari,,아마도,maybe,adv,R3,N
+535,nonostante,,~에도 불구하고,despite,prep,R3,N
+536,novembre,,11월,November,noun,R3,N
+537,pare,,~인 것 같다,seem,verb,R3,N
+538,personale,,개인의,personal,adj,R3,N
+539,piuttosto,,오히려,rather,adv,R3,N
+540,possiamo,,~할 수 있다(1인칭 복수),can,verb,R3,N
+541,punti,,점들,point,noun,R3,N
+542,scelta,,선택,choice,noun,R3,N
+543,semplice,,단순하다,simple,adj,R3,N
+544,sviluppo,,발전,development,noun,R3,N
+545,tanti,,많은(남성복수),many,det,R3,N
+546,trovato,,찾았다(trovare 과거분사),find,verb,R3,N
+547,tuoi,,너의(복수),your,det,R3,N
+548,ultimi,,마지막의(남성복수),last,adj,R3,N
+549,agosto,,8월,August,noun,R3,N
+550,condizioni,,조건,condition,noun,R3,N
+551,dentro,,안에,inside,adv,R3,N
+552,fronte,,앞면,front,noun,R3,N
+553,leggi,,법들,law,noun,R3,N
+554,luce,,빛,light,noun,R3,Y
+555,mare,,바다,sea,noun,R3,Y
+556,motivo,,이유,reason,noun,R3,N
+557,opera,,작품,work,noun,R3,N
+558,piu,,더,more,adv,R3,N
+559,poter,,~할 수 있다,can,verb,R3,N
+560,probabilmente,,아마,probably,adv,R3,N
+561,rapporto,,관계,relationship,noun,R3,N
+562,resto,,나머지,rest,noun,R3,N
+563,sai,,안다(2인칭),know,verb,R3,N
+564,sicuro,,확실한,sure,adj,R3,N
+565,vari,,다양한,various,adj,R3,N
+566,ah,,아,ah,interj,R3,N
+567,attenzione,,주의,attention,noun,R3,N
+568,farlo,,그것을 하다,do,verb,R3,N
+569,gennaio,,1월,January,noun,R3,N
+570,giovani,,젊은(복수),young,adj,R3,Y
+571,napoli,,나폴리,Naples,propn,R3,N
+572,nessun,,아무도 ~않는,no,det,R3,N
+573,né,,~도 아니다,nor,conj,R3,N
+574,online,,온라인,online,adv,R3,N
+575,parti,,부분들,part,noun,R3,N
+576,risposta,,대답,answer,noun,R3,N
+577,ruolo,,역할,role,noun,R3,N
+578,sola,,혼자인(여성형),alone,adj,R3,Y
+579,stessi,,같은(남성복수),same,adj,R3,N
+580,vedi,,본다(2인칭),see,verb,R3,Y
+581,guarda,,본다(guardare 3인칭),look,verb,R3,Y
+582,linea,,선,line,noun,R3,Y
+583,mente,,마음,mind,noun,R3,N
+584,ok,,좋아,okay,interj,R3,N
+585,tempi,,시대들,time,noun,R3,N
+586,uniti,,연합된,united,adj,R3,N
+587,classe,,교실,class,noun,R3,Y
+588,continua,,계속한다(3인칭),continue,verb,R3,N
+589,esperienza,,경험,experience,noun,R3,N
+590,mie,,나의(여성복수),my,det,R3,N
+591,pubblica,,공공의(여성형),public,adj,R3,N
+592,ragazze,,소녀들,girl,noun,R3,Y
+593,squadra,,팀,team,noun,R3,Y
+594,ultimo,,마지막의,last,adj,R3,N
+595,voglia,,욕구,desire,noun,R3,N
+596,arte,,예술,art,noun,R3,Y
+597,auto,,자동차,car,noun,R3,Y
+598,giovane,,젊다,young,adj,R3,Y
+599,lavori,,일들,work,noun,R3,N
+600,merda,,똥,poop,noun,R3,N
+601,oppure,,또는,or,conj,R3,N
+602,piazza,,광장,square,noun,R3,Y
+603,processo,,과정,process,noun,R3,N
+604,qualità,,품질,quality,noun,R3,N
+605,ragazzo,,소년,boy,noun,R3,Y
+606,risultati,,결과들,result,noun,R3,N
+607,significa,,의미한다(3인칭),mean,verb,R3,N
+608,specie,,종류,kind,noun,R3,N
+609,aiuto,,도움,help,noun,R3,N
+610,bisogna,,~해야 한다(비인칭),need,verb,R3,N
+611,capisco,,이해한다(1인칭),understand,verb,R3,N
+612,colpa,,잘못,fault,noun,R3,N
+613,domani,,내일,tomorrow,adv,R3,N
+614,effetti,,효과들,effect,noun,R3,N
+615,facile,,쉽다,easy,adj,R3,N
+616,genitori,,부모,parents,noun,R3,Y
+617,internazionale,,국제적인,international,adj,R3,N
+618,libri,,책들,book,noun,R3,Y
+619,mani,,손(복수),hand,noun,R3,Y
+620,produzione,,생산,production,noun,R3,N
+621,repubblica,,공화국,republic,noun,R3,N
+622,sinistra,,왼쪽,left,noun,R3,N
+623,spero,,바란다(1인칭),hope,verb,R3,N
+624,ufficiale,,공식적인,official,adj,R3,N
+625,ultima,,마지막의(여성형),last,adj,R3,N
+626,é,,~이다(3인칭 철자 오류),be,verb,R3,N
+627,dobbiamo,,~해야 한다(1인칭 복수),must,verb,R3,N
+628,fondo,,바닥,bottom,noun,R3,N
+629,leggere,,읽다,read,verb,R3,Y
+630,libertà,,자유,freedom,noun,R3,N
+631,massimo,,최대의,maximum,adj,R3,N
+632,metà,,절반,half,noun,R3,N
+633,passo,,걸음,step,noun,R3,Y
+634,popolo,,민족,people,noun,R3,N
+635,presto,,일찍,early,adv,R3,N
+636,ricordo,,기억,memory,noun,R3,N
+637,sede,,본부,headquarters,noun,R3,N
+638,serve,,필요하다,need,verb,R3,N
+639,spazio,,공간,space,noun,R3,N
+640,studi,,공부,study,noun,R3,N
+641,territorio,,영토,territory,noun,R3,N
+642,valore,,가치,value,noun,R3,N
+643,varie,,다양한(여성복수),various,adj,R3,N
+644,vera,,진짜의(여성형),true,adj,R3,N
+645,verità,,진실,truth,noun,R3,N
+646,viaggio,,여행,trip,noun,R3,Y
+647,bel,,아름다운(bello 축약),beautiful,adj,R3,Y
+648,cerca,,찾는다(cercare 3인칭),search,verb,R3,Y
+649,diritti,,권리,right,noun,R3,N
+650,francia,,프랑스,France,propn,R3,N
+651,mamma,,엄마,mother,noun,R3,Y
+652,migliori,,더 좋은(복수),better,adj,R3,N
+653,moglie,,아내,wife,noun,R3,Y
+654,nostre,,우리의(여성복수),our,det,R3,N
+655,pace,,평화,peace,noun,R3,N
+656,papa,,교황,pope,noun,R3,Y
+657,politico,,정치의,political,adj,R3,N
+658,presenza,,존재,presence,noun,R3,N
+659,servizi,,서비스,service,noun,R3,N
+660,stiamo,,있다(1인칭 복수),stay,verb,R3,N
+661,vogliono,,원한다(3인칭 복수),want,verb,R3,N
+662,breve,,짧다,short,adj,R3,Y
+663,civile,,시민의,civil,adj,R3,N
+664,lavorare,,일하다,work,verb,R3,Y
+665,ministro,,장관,minister,noun,R3,Y
+666,nessuna,,아무도 ~않는(여성형),no,det,R3,N
+667,ordine,,순서,order,noun,R3,N
+668,oro,,금,gold,noun,R3,Y
+669,pensa,,생각한다(3인칭),think,verb,R3,Y
+670,piedi,,발(복수),foot,noun,R3,Y
+671,rete,,그물,net,noun,R3,Y
+672,speciale,,특별하다,special,adj,R3,N
+673,torino,,토리노,Turin,propn,R3,N
+674,tramite,,~를 통해,through,prep,R3,N
+675,all,,~에(a+관사),to the,prep,R3,N
+676,calcio,,축구,soccer,noun,R3,Y
+677,centrale,,중심의,central,adj,R3,N
+678,codice,,코드,code,noun,R3,N
+679,felice,,행복하다,happy,adj,R3,Y
+680,pagina,,페이지,page,noun,R3,Y
+681,piccola,,작은(여성형),small,adj,R3,Y
+682,provincia,,도(행정구역),province,noun,R3,N
+683,riguarda,,관련된다(3인칭),concern,verb,R3,N
+684,sentire,,느끼다,feel,verb,R3,N
+685,sole,,태양,sun,noun,R3,Y
+686,vado,,간다(1인칭),go,verb,R3,Y
+687,vanno,,간다(3인칭 복수),go,verb,R3,Y
+688,vede,,본다(3인칭),see,verb,R3,Y
+689,web,,웹,web,noun,R3,N
+690,cosi,,그렇게,so,adv,R3,N
+691,internet,,인터넷,internet,noun,R3,N
+692,macchina,,자동차,car,noun,R3,Y
+693,movimento,,움직임,movement,noun,R3,N
+694,notizie,,뉴스,news,noun,R3,N
+695,perdere,,잃다,lose,verb,R3,N
+696,riguardo,,~에 관해,regarding,prep,R3,N
+697,sento,,느낀다(1인칭),feel,verb,R3,N
+698,stile,,스타일,style,noun,R3,N
+699,cittadini,,시민들,citizen,noun,R3,Y
+700,domande,,질문들,question,noun,R3,N
+701,età,,나이,age,noun,R3,N
+702,inizio,,시작,start,noun,R3,N
+703,nota,,메모,note,noun,R3,N
+704,occasione,,기회,chance,noun,R3,N
+705,opere,,작품들,work,noun,R3,N
+706,passare,,지나가다,pass,verb,R3,N
+707,perso,,잃었다(perdere 과거분사),lose,verb,R3,N
+708,prezzo,,가격,price,noun,R3,N
+709,prodotto,,제품,product,noun,R3,N
+710,qua,,여기,here,adv,R3,N
+711,scusa,,사과,excuse,noun,R3,N
+712,secolo,,세기,century,noun,R3,N
+713,stagione,,계절,season,noun,R3,Y
+714,università,,대학교,university,noun,R3,Y
+715,vai,,간다(2인칭),go,verb,R3,Y
+716,cambiare,,바꾸다,change,verb,R3,N
+717,camera,,방,room,noun,R3,Y
+718,corte,,궁정,court,noun,R3,N
+719,deciso,,결정했다(decidere 과거분사),decide,verb,R3,N
+720,destra,,오른쪽,right,noun,R3,N
+721,formazione,,교육,training,noun,R3,N
+722,locale,,지역의,local,adj,R3,N
+723,maria,,마리아,Mary,propn,R3,N
+724,mondiale,,세계의,world,adj,R3,N
+725,necessario,,필요한,necessary,adj,R3,N
+726,popolazione,,인구,population,noun,R3,N
+727,portato,,가져갔다(portare 과거분사),carry,verb,R3,N
+728,reale,,실제의,real,adj,R3,N
+729,sesso,,성별,sex,noun,R3,N
+730,soltanto,,단지,only,adv,R3,N
+731,tante,,많은(여성복수),many,det,R3,N
+732,terzo,,세번째의,third,adj,R3,N
+733,testo,,글,text,noun,R3,N
+734,totale,,전체의,total,adj,R3,N
+735,versione,,버전,version,noun,R3,N
+736,alta,,높은(여성형),tall,adj,R3,Y
+737,bambino,,아기,child,noun,R3,Y
+738,chiaro,,밝다,clear,adj,R3,N
+739,chiesto,,물었다(chiedere 과거분사),ask,verb,R3,N
+740,dieci,,열,ten,num,R3,N
+741,diventare,,되다,become,verb,R3,N
+742,finalmente,,마침내,finally,adv,R3,N
+743,fratello,,형제,brother,noun,R3,Y
+744,fuoco,,불,fire,noun,R3,Y
+745,interesse,,관심,interest,noun,R3,N
+746,maniera,,방식,way,noun,R3,N
+747,natura,,자연,nature,noun,R3,Y
+748,ovviamente,,물론,obviously,adv,R3,N
+749,partire,,떠나다,leave,verb,R3,Y
+750,piacere,,기쁨,pleasure,noun,R3,N
+751,portare,,가져가다,carry,verb,R3,Y
+752,potuto,,~할 수 있었다(potere 과거분사),can,verb,R3,N
+753,quanti,,얼마나 많은(남성복수),how many,det,R3,N
+754,risultato,,결과,result,noun,R3,N
+755,semplicemente,,단순히,simply,adv,R3,N
+756,vostro,,너희의,your,det,R3,N
+757,arriva,,도착한다(3인칭),arrive,verb,R3,Y
+758,arrivare,,도착하다,arrive,verb,R3,Y
+759,aspetto,,외모,appearance,noun,R3,N
+760,carta,,종이,paper,noun,R3,Y
+761,cercare,,찾다,search,verb,R3,Y
+762,completamente,,완전히,completely,adv,R4,N
+763,comunità,,공동체,community,noun,R4,N
+764,danno,,준다(3인칭 복수),give,verb,R4,N
+765,dicono,,말한다(3인칭 복수),say,verb,R4,Y
+766,esiste,,존재한다(3인칭),exist,verb,R4,N
+767,festa,,파티,party,noun,R4,Y
+768,forze,,힘들,force,noun,R4,N
+769,francese,,프랑스의,French,adj,R4,N
+770,importanti,,중요한(복수),important,adj,R4,N
+771,libero,,자유로운,free,adj,R4,N
+772,presenti,,참석한(복수),present,adj,R4,N
+773,principale,,주요한,main,adj,R4,N
+774,pur,,~조차,even,adv,R4,N
+775,relazione,,관계,relation,noun,R4,N
+776,scrivere,,쓰다,write,verb,R4,Y
+777,stampa,,언론,press,noun,R4,N
+778,tornare,,돌아오다,return,verb,R4,Y
+779,usare,,사용하다,use,verb,R4,N
+780,avrei,,가졌을 것이다(조건법),have,verb,R4,N
+781,comuni,,공통의(복수),common,adj,R4,N
+782,entrambi,,둘 다,both,det,R4,N
+783,francesco,,프란체스코,Francis,propn,R4,N
+784,furono,,~였다(3인칭 복수 원과거),be,verb,R4,N
+785,messaggio,,메시지,message,noun,R4,Y
+786,mostra,,전시회,exhibition,noun,R4,Y
+787,prime,,첫번째의(여성복수),first,adj,R4,N
+788,prossimo,,다음의,next,adj,R4,N
+789,scopo,,목적,purpose,noun,R4,N
+790,simile,,비슷한,similar,adj,R4,N
+791,beh,,글쎄,well,interj,R4,N
+792,cibo,,음식,food,noun,R4,Y
+793,direttamente,,직접,directly,adv,R4,N
+794,facciamo,,한다(1인칭 복수),do,verb,R4,N
+795,figlia,,딸,daughter,noun,R4,Y
+796,finale,,마지막의,final,adj,R4,N
+797,lato,,옆,side,noun,R4,N
+798,lunga,,긴(여성형),long,adj,R4,Y
+799,prodotti,,제품들,product,noun,R4,N
+800,propri,,고유의(복수),own,adj,R4,N
+801,sangue,,피,blood,noun,R4,Y
+802,tema,,주제,topic,noun,R4,N
+803,vecchio,,늙다,old,adj,R4,Y
+804,voto,,투표,vote,noun,R4,N
+805,anzi,,오히려,on the contrary,adv,R4,N
+806,avesse,,가졌다면(접속법),have,verb,R4,N
+807,basso,,낮다,low,adj,R4,Y
+808,contratto,,계약,contract,noun,R4,N
+809,costa,,비용이 든다,cost,verb,R4,N
+810,crisi,,위기,crisis,noun,R4,N
+811,dallo,,~로부터(da+관사),from the,prep,R4,N
+812,differenza,,차이,difference,noun,R4,N
+813,entrare,,들어가다,enter,verb,R4,Y
+814,fortuna,,행운,luck,noun,R4,N
+815,fossero,,~였다면(3인칭 복수 접속법),be,verb,R4,N
+816,guida,,안내,guide,noun,R4,Y
+817,idee,,생각들,idea,noun,R4,N
+818,immagini,,이미지들,image,noun,R4,Y
+819,incontro,,만남,meeting,noun,R4,Y
+820,iniziato,,시작했다(iniziare 과거분사),start,verb,R4,N
+821,intorno,,주위에,around,adv,R4,N
+822,nero,,검은,black,adj,R4,Y
+823,notizia,,소식,news,noun,R4,N
+824,ottenere,,얻다,obtain,verb,R4,N
+825,pena,,고통,pain,noun,R4,N
+826,principali,,주요한(복수),main,adj,R4,N
+827,azione,,행동,action,noun,R4,N
+828,chiedere,,묻다,ask,verb,R4,Y
+829,creare,,만들다,create,verb,R4,N
+830,culo,,엉덩이,buttocks,noun,R4,N
+831,discorso,,연설,speech,noun,R4,Y
+832,diventa,,~이 되다(3인칭),become,verb,R4,N
+833,entro,,~이내에,within,prep,R4,N
+834,fin,,~까지,until,prep,R4,N
+835,lista,,목록,list,noun,R4,Y
+836,locali,,현지의(복수),local,adj,R4,N
+837,morto,,죽은,dead,adj,R4,Y
+838,pari,,동등한,equal,adj,R4,N
+839,pensiero,,생각,thought,noun,R4,N
+840,posti,,자리(복수),seat,noun,R4,Y
+841,proprietà,,재산,property,noun,R4,N
+842,rischio,,위험,risk,noun,R4,N
+843,settimane,,주(복수),week,noun,R4,N
+844,sicuramente,,분명히,surely,adv,R4,N
+845,solito,,평소의,usual,adj,R4,N
+846,soluzione,,해결책,solution,noun,R4,N
+847,superiore,,위의,upper,adj,R4,N
+848,telefono,,전화,telephone,noun,R4,Y
+849,vale,,가치가 있다(3인칭),be worth,verb,R4,N
+850,andato,,갔다(andare 과거분사),go,verb,R4,N
+851,armi,,무기(복수),weapon,noun,R4,Y
+852,atto,,행위,act,noun,R4,N
+853,autore,,저자,author,noun,R4,Y
+854,campagna,,시골,countryside,noun,R4,Y
+855,colore,,색,color,noun,R4,Y
+856,commissione,,위원회,committee,noun,R4,N
+857,difesa,,방어,defense,noun,R4,N
+858,diretta,,직접의(여성),direct,adj,R4,N
+859,direttore,,감독관,director,noun,R4,Y
+860,eventi,,행사(복수),event,noun,R4,N
+861,giovanni,,조반니(남자 이름),Giovanni,propn,R4,N
+862,infine,,마침내,finally,adv,R4,N
+863,là,,저기,there,adv,R4,N
+864,matrimonio,,결혼,marriage,noun,R4,Y
+865,morti,,죽은(복수),dead,adj,R4,N
+866,porto,,항구,port,noun,R4,Y
+867,pratica,,실습,practice,noun,R4,N
+868,qualunque,,어떤 ~든,any,det,R4,N
+869,scena,,장면,scene,noun,R4,Y
+870,storico,,역사적인,historical,adj,R4,N
+871,usato,,사용한,used,adj,R4,N
+872,vivo,,살아 있는,alive,adj,R4,Y
+873,vogliamo,,원하다(1인칭 복수),want,verb,R4,N
+874,alcun,,어떤 ~도,any,det,R4,N
+875,aria,,공기,air,noun,R4,Y
+876,assolutamente,,절대적으로,absolutely,adv,R4,N
+877,capitale,,수도,capital,noun,R4,Y
+878,guardare,,보다,look,verb,R4,Y
+879,mattina,,아침,morning,noun,R4,Y
+880,militare,,군인,soldier,noun,R4,Y
+881,oh,,오,oh,interj,R4,N
+882,riesco,,해내다(1인칭),manage,verb,R4,N
+883,salute,,건강,health,noun,R4,N
+884,sentito,,들었다(sentire 과거분사),hear,verb,R4,N
+885,settore,,분야,sector,noun,R4,N
+886,stava,,~하는 중이었다,be,verb,R4,N
+887,tali,,그런(복수),such,adj,R4,N
+888,ufficio,,사무실,office,noun,R4,Y
+889,uscire,,나가다,go out,verb,R4,Y
+890,chiama,,부르다(3인칭),call,verb,R4,Y
+891,chiamato,,불렀다(chiamare 과거분사),call,verb,R4,N
+892,difficoltà,,어려움,difficulty,noun,R4,N
+893,firenze,,피렌체,Florence,propn,R4,N
+894,lettera,,편지,letter,noun,R4,Y
+895,mangiare,,먹다,eat,verb,R4,Y
+896,partita,,경기,match,noun,R4,Y
+897,pieno,,가득 찬,full,adj,R4,Y
+898,precedente,,이전의,previous,adj,R4,N
+899,prende,,잡다(3인칭),take,verb,R4,Y
+900,qual,,어느,which,det,R4,N
+901,resta,,남다(3인칭),stay,verb,R4,N
+902,riferimento,,참조,reference,noun,R4,N
+903,signore,,신사,gentleman,noun,R4,Y
+904,stesse,,~이었다(접속법),be,verb,R4,N
+905,venire,,오다,come,verb,R4,Y
+906,animali,,동물(복수),animal,noun,R4,Y
+907,azienda,,회사,company,noun,R4,Y
+908,cielo,,하늘,sky,noun,R4,Y
+909,conoscere,,알다,know,verb,R4,N
+910,diverso,,다른,different,adj,R4,N
+911,dunque,,그러므로,therefore,conj,R4,N
+912,esattamente,,정확히,exactly,adv,R4,N
+913,finito,,끝난,finished,adj,R4,N
+914,germania,,독일,Germany,propn,R4,N
+915,giochi,,놀이(복수),game,noun,R4,Y
+916,gruppi,,그룹(복수),group,noun,R4,Y
+917,lascia,,두다(3인칭),leave,verb,R4,N
+918,modello,,모델,model,noun,R4,Y
+919,nato,,태어난,born,adj,R4,N
+920,parlando,,말하면서,speak,verb,R4,N
+921,politiche,,정책(복수),policy,noun,R4,N
+922,poteva,,~할 수 있었다,can,verb,R4,N
+923,progetti,,계획(복수),project,noun,R4,N
+924,ritorno,,귀환,return,noun,R4,N
+925,scoperto,,발견했다(scoprire 과거분사),discover,verb,R4,N
+926,social,,소셜,social,adj,R4,N
+927,vittoria,,승리,victory,noun,R4,Y
+928,vostra,,너희의(여성),your,det,R4,N
+929,bianco,,흰,white,adj,R4,Y
+930,canzone,,노래,song,noun,R4,Y
+931,case,,집(복수),house,noun,R4,Y
+932,cercando,,찾으면서,search,verb,R4,N
+933,chiunque,,누구든,anyone,pron,R4,N
+934,compagnia,,동료,company,noun,R4,Y
+935,dicendo,,말하면서,say,verb,R4,N
+936,dovrebbero,,~해야 할 것이다(3인칭 복수),should,verb,R4,N
+937,dubbio,,의심,doubt,noun,R4,N
+938,effetto,,효과,effect,noun,R4,N
+939,entra,,들어가다(3인칭),enter,verb,R4,Y
+940,evitare,,피하다,avoid,verb,R4,N
+941,giustizia,,정의,justice,noun,R4,N
+942,medico,,의사,doctor,noun,R4,Y
+943,merito,,공로,merit,noun,R4,N
+944,mette,,놓다(3인칭),put,verb,R4,Y
+945,mille,,천,thousand,num,R4,N
+946,noto,,유명한,famous,adj,R4,N
+947,ovvero,,즉,that is,conj,R4,N
+948,passa,,지나가다(3인칭),pass,verb,R4,Y
+949,politici,,정치인(복수),politician,noun,R4,Y
+950,potrebbero,,~할 수 있을 것이다(3인칭 복수),could,verb,R4,N
+951,radio,,라디오,radio,noun,R4,Y
+952,ricevuto,,받았다(ricevere 과거분사),receive,verb,R4,N
+953,scorso,,지난,last,adj,R4,N
+954,soli,,혼자인(복수),alone,adj,R4,N
+955,struttura,,구조,structure,noun,R4,N
+956,termini,,용어(복수),term,noun,R4,N
+957,vuol,,원하다(3인칭),want,verb,R4,N
+958,andata,,가기,going,noun,R4,N
+959,aperto,,열린,open,adj,R4,Y
+960,bologna,,볼로냐,Bologna,propn,R4,N
+961,capacità,,능력,ability,noun,R4,N
+962,comunicazione,,의사소통,communication,noun,R4,N
+963,dici,,말하다(2인칭),say,verb,R4,Y
+964,direzione,,방향,direction,noun,R4,Y
+965,essendo,,~이므로,be,verb,R4,N
+966,immagine,,이미지,image,noun,R4,Y
+967,ministero,,부처,ministry,noun,R4,N
+968,morire,,죽다,die,verb,R4,Y
+969,normale,,정상적인,normal,adj,R4,N
+970,paolo,,파올로(남자 이름),Paolo,propn,R4,N
+971,parlato,,말했다(parlare 과거분사),speak,verb,R4,N
+972,richiesta,,요청,request,noun,R4,N
+973,rimane,,남다(3인칭),remain,verb,R4,N
+974,siti,,사이트(복수),site,noun,R4,N
+975,sé,,자기 자신,oneself,pron,R4,N
+976,volevo,,원했다(1인칭),want,verb,R4,N
+977,avrà,,가질 것이다(3인칭),have,verb,R4,N
+978,confronti,,비교(복수),comparison,noun,R4,N
+979,gay,,동성애자,gay,adj,R4,N
+980,inizia,,시작하다(3인칭),begin,verb,R4,N
+981,lasciare,,떠나다,leave,verb,R4,Y
+982,lasciato,,두었다(lasciare 과거분사),leave,verb,R4,N
+983,pensato,,생각했다(pensare 과거분사),think,verb,R4,N
+984,poche,,적은(여성 복수),few,det,R4,N
+985,precedenti,,이전의(복수),previous,adj,R4,N
+986,premio,,상,prize,noun,R4,Y
+987,rende,,만들다(3인칭),make,verb,R4,N
+988,riesce,,해내다(3인칭),manage,verb,R4,N
+989,sacco,,자루,sack,noun,R4,Y
+990,scuole,,학교(복수),school,noun,R4,Y
+991,seguire,,따르다,follow,verb,R4,Y
+992,sette,,7,seven,num,R4,N
+993,son,,~이다(1인칭 복수),be,verb,R4,N
+994,studenti,,학생(복수),student,noun,R4,Y
+995,tardi,,늦게,late,adv,R4,N
+996,tue,,너의(여성 복수),your,det,R4,N
+997,york,,요크,York,propn,R4,N
+998,abbiano,,가지다(접속법),have,verb,R4,N
+999,attuale,,현재의,current,adj,R4,N
+1000,aziende,,회사(복수),company,noun,R4,N
+1001,bocca,,입,mouth,noun,R4,Y
+1002,chiedo,,묻다(1인칭),ask,verb,R4,N
+1003,commenti,,댓글(복수),comment,noun,R4,N
+1004,contrario,,반대의,opposite,adj,R4,N
+1005,costruzione,,건설,construction,noun,R4,Y
+1006,documenti,,서류(복수),document,noun,R4,Y
+1007,edizione,,판,edition,noun,R4,N
+1008,elezioni,,선거(복수),election,noun,R4,N
+1009,europea,,유럽의(여성),European,adj,R4,N
+1010,farsi,,되다,become,verb,R4,N
+1011,fase,,단계,phase,noun,R4,N
+1012,giocare,,놀다,play,verb,R4,Y
+1013,interessante,,흥미로운,interesting,adj,R4,N
+1014,luoghi,,장소(복수),place,noun,R4,Y
+1015,membri,,구성원(복수),member,noun,R4,N
+1016,memoria,,기억,memory,noun,R4,N
+1017,naturale,,자연의,natural,adj,R4,N
+1018,origine,,기원,origin,noun,R4,N
+1019,paio,,한 쌍,pair,noun,R4,Y
+1020,peggio,,더 나쁘게,worse,adv,R4,N
+1021,pensi,,생각하다(2인칭),think,verb,R4,N
+1022,perfetto,,완벽한,perfect,adj,R4,N
+1023,presa,,콘센트,socket,noun,R4,Y
+1024,pubblici,,공공의(복수),public,adj,R4,N
+1025,purtroppo,,불행히도,unfortunately,adv,R4,N
+1026,regno,,왕국,kingdom,noun,R4,Y
+1027,rosso,,빨간,red,adj,R4,Y
+1028,sezione,,부분,section,noun,R4,N
+1029,sugli,,~에 대해(su+gli),on,prep,R4,N
+1030,tenere,,잡고 있다,hold,verb,R4,Y
+1031,vediamo,,보다(1인칭 복수),see,verb,R4,N
+1032,vinto,,이겼다(vincere 과거분사),win,verb,R4,N
+1033,voluto,,원했다(volere 과거분사),want,verb,R4,N
+1034,voti,,투표(복수),vote,noun,R4,N
+1035,accesso,,접근,access,noun,R4,N
+1036,america,,미국,America,propn,R4,N
+1037,analisi,,분석,analysis,noun,R4,N
+1038,coloro,,~하는 사람들,those,pron,R4,N
+1039,conoscenza,,지식,knowledge,noun,R4,N
+1040,domenica,,일요일,Sunday,noun,R4,N
+1041,giusta,,옳은(여성),right,adj,R4,N
+1042,materiale,,재료,material,noun,R4,Y
+1043,mezzi,,수단(복수),means,noun,R4,N
+1044,motivi,,이유(복수),reason,noun,R4,N
+1045,perche,,왜,why,adv,R4,N
+1046,piccoli,,작은(복수),small,adj,R4,Y
+1047,poiché,,~때문에,because,conj,R4,N
+1048,presenta,,제시하다(3인칭),present,verb,R4,N
+1049,pro,,찬성,pro,prep,R4,N
+1050,proposta,,제안,proposal,noun,R4,N
+1051,proprie,,자신의(여성 복수),own,adj,R4,N
+1052,provato,,시도했다(provare 과거분사),try,verb,R4,N
+1053,responsabilità,,책임,responsibility,noun,R4,N
+1054,ricorda,,기억하다(3인칭),remember,verb,R4,N
+1055,sanno,,알다(3인칭 복수),know,verb,R4,N
+1056,sarebbero,,~일 것이다(3인칭 복수),be,verb,R4,N
+1057,simili,,비슷한(복수),similar,adj,R4,N
+1058,sociali,,사회의(복수),social,adj,R4,N
+1059,sport,,스포츠,sport,noun,R4,Y
+1060,succede,,일어나다(3인칭),happen,verb,R4,N
+1061,torna,,돌아오다(3인칭),return,verb,R4,N
+1062,trovano,,찾다(3인칭 복수),find,verb,R4,N
+1063,uscita,,출구,exit,noun,R4,Y
+1064,visita,,방문,visit,noun,R4,Y
+1065,altrimenti,,그렇지 않으면,otherwise,adv,R4,N
+1066,arrivato,,도착했다(arrivare 과거분사),arrive,verb,R4,N
+1067,arrivo,,도착,arrival,noun,R4,Y
+1068,articoli,,기사(복수),article,noun,R4,N
+1069,credere,,믿다,believe,verb,R4,N
+1070,distanza,,거리,distance,noun,R4,N
+1071,dà,,주다(3인칭),give,verb,R4,Y
+1072,egli,,그,he,pron,R4,N
+1073,km,,킬로미터,kilometer,noun,R4,N
+1074,lega,,연맹,league,noun,R4,N
+1075,marito,,남편,husband,noun,R4,Y
+1076,miglior,,가장 좋은,best,adj,R4,N
+1077,obiettivo,,목표,goal,noun,R4,N
+1078,pagare,,지불하다,pay,verb,R4,Y
+1079,palazzo,,궁전,palace,noun,R4,Y
+1080,potete,,~할 수 있다(2인칭 복수),can,verb,R4,N
+1081,scelto,,선택했다(scegliere 과거분사),choose,verb,R4,N
+1082,spagna,,스페인,Spain,propn,R4,N
+1083,teatro,,극장,theater,noun,R4,Y
+1084,abitanti,,주민(복수),resident,noun,R4,N
+1085,area,,지역,area,noun,R4,N
+1086,art,,(약어) 조항,article,noun,R4,N
+1087,cambio,,변화,change,noun,R4,N
+1088,capelli,,머리카락,hair,noun,R4,Y
+1089,carlo,,카를로(남자 이름),Carlo,propn,R4,N
+1090,chiede,,묻다(3인칭),ask,verb,R4,N
+1091,economia,,경제,economy,noun,R4,N
+1092,economico,,경제의,economic,adj,R4,N
+1093,famiglie,,가족(복수),family,noun,R4,Y
+1094,libera,,자유로운(여성),free,adj,R4,N
+1095,manca,,부족하다(3인칭),lack,verb,R4,N
+1096,metri,,미터(복수),meter,noun,R4,N
+1097,misura,,치수,measure,noun,R4,N
+1098,necessità,,필요,need,noun,R4,N
+1099,provare,,시도하다,try,verb,R4,N
+1100,regole,,규칙(복수),rule,noun,R4,N
+1101,santa,,성스러운(여성),holy,adj,R4,N
+1102,storie,,이야기(복수),story,noun,R4,Y
+1103,terza,,세 번째(여성),third,num,R4,N
+1104,utenti,,사용자(복수),user,noun,R4,N
+1105,venezia,,베네치아,Venice,propn,R4,N
+1106,venne,,왔다(3인칭 단순과거),come,verb,R4,N
+1107,aiutare,,돕다,help,verb,R4,Y
+1108,autorità,,권위,authority,noun,R4,N
+1109,avrebbero,,가질 것이다(3인칭 복수),have,verb,R4,N
+1110,azioni,,행동(복수),action,noun,R4,N
+1111,battaglia,,전투,battle,noun,R4,Y
+1112,buono,,좋은,good,adj,R4,Y
+1113,canale,,운하,canal,noun,R4,Y
+1114,cane,,개,dog,noun,R4,Y
+1115,coi,,~와 함께(con+i),with,prep,R4,N
+1116,culturale,,문화의,cultural,adj,R4,N
+1117,dollari,,달러(복수),dollar,noun,R4,Y
+1118,est,,동쪽,east,noun,R4,N
+1119,faceva,,했다(3인칭 반과거),do,verb,R4,N
+1120,importanza,,중요성,importance,noun,R4,N
+1121,insomma,,요컨대,in short,adv,R4,N
+1122,interessi,,관심(복수),interest,noun,R4,N
+1123,italiane,,이탈리아의(여성 복수),Italian,adj,R4,N
+1124,odio,,증오,hate,noun,R4,N
+1125,originale,,원래의,original,adj,R4,N
+1126,parlamento,,의회,parliament,noun,R4,Y
+1127,peso,,무게,weight,noun,R4,Y
+1128,proposito,,의도,purpose,noun,R4,N
+1129,prossima,,다음의(여성),next,adj,R4,N
+1130,segno,,표시,sign,noun,R4,Y
+1131,speranza,,희망,hope,noun,R4,N
+1132,vive,,살다(3인칭),live,verb,R4,Y
+1133,appunto,,바로,precisely,adv,R4,N
+1134,aspetti,,측면(복수),aspect,noun,R4,N
+1135,contatto,,접촉,contact,noun,R4,N
+1136,costituzione,,헌법,constitution,noun,R4,N
+1137,danni,,피해(복수),damage,noun,R4,N
+1138,doveva,,~해야 했다(3인칭),must,verb,R4,N
+1139,elementi,,요소(복수),element,noun,R4,N
+1140,fate,,하다(2인칭 복수),do,verb,R4,N
+1141,festival,,축제,festival,noun,R4,Y
+1142,fonte,,원천,source,noun,R4,N
+1143,funzione,,기능,function,noun,R4,N
+1144,impossibile,,불가능한,impossible,adj,R4,N
+1145,lontano,,먼,far,adj,R4,N
+1146,massa,,덩어리,mass,noun,R4,N
+1147,medio,,중간의,middle,adj,R4,N
+1148,messa,,미사,mass,noun,R4,Y
+1149,natale,,크리스마스,Christmas,noun,R4,Y
+1150,nomi,,이름(복수),name,noun,R4,N
+1151,oggetto,,물건,object,noun,R4,Y
+1152,opinione,,의견,opinion,noun,R4,N
+1153,ottimo,,훌륭한,excellent,adj,R4,N
+1154,pagine,,페이지(복수),page,noun,R4,Y
+1155,pezzo,,조각,piece,noun,R4,Y
+1156,test,,시험,test,noun,R4,Y
+1157,umano,,인간의,human,adj,R4,N
+1158,verrà,,올 것이다(3인칭),come,verb,R4,N
+1159,affari,,사업,business,noun,R4,N
+1160,cinema,,영화관,cinema,noun,R4,Y
+1161,considerato,,간주된,considered,adj,R4,N
+1162,cristo,,그리스도,Christ,propn,R4,N
+1163,decisione,,결정,decision,noun,R4,N
+1164,dolore,,통증,pain,noun,R4,Y
+1165,economica,,경제의(여성),economic,adj,R4,N
+1166,energia,,에너지,energy,noun,R4,N
+1167,errore,,오류,mistake,noun,R4,N
+1168,fede,,믿음,faith,noun,R4,N
+1169,giuseppe,,주세페(남자 이름),Giuseppe,propn,R4,N
+1170,lavoratori,,노동자(복수),worker,noun,R4,Y
+1171,link,,링크,link,noun,R4,N
+1172,maggiori,,더 큰(복수),greater,adj,R4,N
+1173,particolarmente,,특히,particularly,adv,R4,N
+1174,permesso,,허락,permission,noun,R4,N
+1175,piena,,가득 찬(여성),full,adj,R4,N
+1176,prove,,증거(복수),proof,noun,R4,N
+1177,raccolta,,수집,collection,noun,R4,N
+1178,raggiungere,,도달하다,reach,verb,R4,N
+1179,rapporti,,관계(복수),relationship,noun,R4,N
+1180,roba,,물건,stuff,noun,R4,N
+1181,silenzio,,침묵,silence,noun,R4,N
+1182,stasera,,오늘 저녁,tonight,adv,R4,N
+1183,unità,,단위,unit,noun,R4,N
+1184,utile,,유용한,useful,adj,R4,N
+1185,venga,,오다(접속법),come,verb,R4,N
+1186,amo,,사랑하다(1인칭),love,verb,R4,N
+1187,aumento,,증가,increase,noun,R4,N
+1188,benissimo,,아주 좋게,very well,adv,R4,N
+1189,certa,,확실한(여성),certain,adj,R4,N
+1190,club,,클럽,club,noun,R4,Y
+1191,conosco,,알다(1인칭),know,verb,R4,N
+1192,continuare,,계속하다,continue,verb,R4,N
+1193,coppia,,커플,couple,noun,R4,Y
+1194,crescita,,성장,growth,noun,R4,N
+1195,critica,,비판,criticism,noun,R4,N
+1196,evento,,행사,event,noun,R4,N
+1197,farà,,할 것이다(3인칭),do,verb,R4,N
+1198,figura,,인물,figure,noun,R4,N
+1199,funziona,,작동하다(3인칭),work,verb,R4,N
+1200,gara,,경주,race,noun,R4,Y
+1201,gestione,,관리,management,noun,R4,N
+1202,marco,,마르코(남자 이름),Marco,propn,R4,N
+1203,parco,,공원,park,noun,R4,Y
+1204,potrà,,~할 수 있을 것이다(3인칭),can,verb,R4,N
+1205,pronto,,준비된,ready,adj,R4,N
+1206,sala,,홀,hall,noun,R4,Y
+1207,santo,,성인,saint,noun,R4,N
+1208,sbagliato,,틀린,wrong,adj,R4,N
+1209,seguente,,다음의,following,adj,R4,N
+1210,spese,,비용(복수),expense,noun,R4,N
+1211,tradizione,,전통,tradition,noun,R4,N
+1212,voci,,목소리(복수),voice,noun,R4,N
+1213,zone,,지역(복수),zone,noun,R4,N
+1214,belle,,아름다운(여성 복수),beautiful,adj,R4,Y
+1215,colpo,,타격,blow,noun,R4,Y
+1216,conseguenza,,결과,consequence,noun,R4,N
+1217,conti,,계산(복수),bill,noun,R4,N
+1218,costo,,비용,cost,noun,R4,N
+1219,creato,,만들었다(creare 과거분사),create,verb,R4,N
+1220,cucina,,부엌,kitchen,noun,R4,Y
+1221,discussione,,토론,discussion,noun,R4,N
+1222,disposizione,,배치,arrangement,noun,R4,N
+1223,esistono,,존재하다(3인칭 복수),exist,verb,R4,N
+1224,essa,,그것(여성),it,pron,R4,N
+1225,fiducia,,신뢰,trust,noun,R4,N
+1226,finire,,끝내다,finish,verb,R4,N
+1227,indietro,,뒤로,back,adv,R4,N
+1228,maggioranza,,다수,majority,noun,R4,N
+1229,mancanza,,부족,lack,noun,R4,N
+1230,numerosi,,많은,numerous,adj,R4,N
+1231,otto,,8,eight,num,R4,N
+1232,passaggio,,통과,passage,noun,R4,N
+1233,prego,,부탁합니다,please,interj,R4,N
+1234,profilo,,옆모습,profile,noun,R4,N
+1235,rappresenta,,나타내다(3인칭 단수),represent,verb,R4,N
+1236,rendere,,만들다,make,verb,R4,N
+1237,rispondere,,대답하다,answer,verb,R4,N
+1238,serio,,진지한,serious,adj,R4,N
+1239,strumenti,,도구들,tool,noun,R4,Y
+1240,volete,,원하다(2인칭 복수),want,verb,R4,N
+1241,alcuna,,어떤 ~도(여성),any,det,R4,N
+1242,attacco,,공격,attack,noun,R4,Y
+1243,banca,,은행,bank,noun,R4,Y
+1244,commento,,논평,comment,noun,R4,N
+1245,conosciuto,,알려진,known,adj,R4,N
+1246,conte,,백작,count,noun,R4,Y
+1247,do,,주다(1인칭 단수),give,verb,R4,N
+1248,fece,,했다(fare 3인칭 단수 과거),do,verb,R4,N
+1249,fonti,,출처들,source,noun,R4,N
+1250,iniziare,,시작하다,start,verb,R4,N
+1251,intervento,,개입,intervention,noun,R4,N
+1252,londra,,런던,London,propn,R4,N
+1253,lotta,,싸움,fight,noun,R4,Y
+1254,materia,,물질,matter,noun,R4,N
+1255,onore,,명예,honor,noun,R4,N
+1256,passi,,걸음들,step,noun,R4,Y
+1257,personaggi,,등장인물들,character,noun,R4,N
+1258,popolare,,대중적인,popular,adj,R4,N
+1259,responsabile,,책임 있는,responsible,adj,R4,N
+1260,sale,,소금,salt,noun,R4,Y
+1261,scegliere,,고르다,choose,verb,R4,N
+1262,scrive,,쓰다(3인칭 단수),write,verb,R4,Y
+1263,segue,,따르다(3인칭 단수),follow,verb,R4,N
+1264,stazione,,역,station,noun,R4,Y
+1265,stelle,,별들,star,noun,R4,Y
+1266,strade,,길들,road,noun,R4,Y
+1267,antonio,,안토니오,Antonio,propn,R4,N
+1268,bagno,,욕실,bathroom,noun,R4,Y
+1269,cambiato,,바뀐,changed,adj,R4,N
+1270,caratteristiche,,특징들,feature,noun,R4,N
+1271,chiamata,,전화 통화,call,noun,R4,Y
+1272,computer,,컴퓨터,computer,noun,R4,Y
+1273,concetto,,개념,concept,noun,R4,N
+1274,concorso,,공모전,contest,noun,R4,N
+1275,contenuti,,내용들,content,noun,R4,N
+1276,grave,,심각한,serious,adj,R4,N
+1277,mandato,,임기,mandate,noun,R4,N
+1278,occhio,,눈,eye,noun,R4,Y
+1279,ognuno,,각자,everyone,pron,R4,N
+1280,parigi,,파리,Paris,propn,R4,N
+1281,peccato,,죄,sin,noun,R4,N
+1282,quantità,,양,quantity,noun,R4,N
+1283,ragioni,,이유들,reason,noun,R4,N
+1284,religione,,종교,religion,noun,R4,N
+1285,riforma,,개혁,reform,noun,R4,N
+1286,russia,,러시아,Russia,propn,R4,N
+1287,sabato,,토요일,Saturday,noun,R4,N
+1288,sindaco,,시장,mayor,noun,R4,Y
+1289,tribunale,,법원,court,noun,R4,Y
+1290,vendita,,판매,sale,noun,R4,Y
+1291,voleva,,원했다(3인칭 단수),want,verb,R4,N
+1292,ambiente,,환경,environment,noun,R4,N
+1293,amministrazione,,행정,administration,noun,R4,N
+1294,associazione,,협회,association,noun,R4,N
+1295,avendo,,가지고 있으면서,have,verb,R4,N
+1296,categoria,,범주,category,noun,R4,N
+1297,decreto,,법령,decree,noun,R4,N
+1298,essi,,그들,they,pron,R4,N
+1299,fame,,배고픔,hunger,noun,R4,Y
+1300,farmi,,나에게 하게 하다,make,verb,R4,N
+1301,finché,,~할 때까지,until,conj,R4,N
+1302,fisica,,물리학,physics,noun,R4,N
+1303,forme,,형태들,shape,noun,R4,Y
+1304,gesù,,예수,Jesus,propn,R4,N
+1305,intanto,,그동안,meanwhile,adv,R4,N
+1306,john,,존,John,propn,R4,N
+1307,lavora,,일하다(3인칭 단수),work,verb,R4,Y
+1308,mantenere,,유지하다,keep,verb,R4,N
+1309,pelle,,피부,skin,noun,R4,Y
+1310,prezzi,,가격들,price,noun,R4,N
+1311,rimanere,,남다,stay,verb,R4,N
+1312,risorse,,자원들,resource,noun,R4,N
+1313,sicilia,,시칠리아,Sicily,propn,R4,N
+1314,significato,,의미,meaning,noun,R4,N
+1315,sogno,,꿈,dream,noun,R4,Y
+1316,sorella,,여동생·누나,sister,noun,R4,Y
+1317,supporto,,지지,support,noun,R4,N
+1318,teoria,,이론,theory,noun,R4,N
+1319,trovo,,찾다(1인칭 단수),find,verb,R4,N
+1320,ucciso,,살해된,killed,adj,R4,N
+1321,ultime,,마지막의(여성 복수),last,adj,R4,N
+1322,umani,,인간의(복수),human,adj,R4,Y
+1323,valori,,가치들,value,noun,R4,N
+1324,vecchia,,늙은(여성),old,adj,R4,Y
+1325,verde,,초록색의,green,adj,R4,Y
+1326,violenza,,폭력,violence,noun,R4,N
+1327,amica,,여자 친구,friend,noun,R4,Y
+1328,bar,,바,bar,noun,R4,Y
+1329,blog,,블로그,blog,noun,R4,N
+1330,certe,,어떤(여성 복수),certain,det,R4,N
+1331,certi,,어떤(남성 복수),certain,det,R4,N
+1332,cina,,중국,China,propn,R4,N
+1333,contesto,,맥락,context,noun,R4,N
+1334,diversa,,다른(여성),different,adj,R4,N
+1335,esso,,그것,it,pron,R4,N
+1336,estate,,여름,summer,noun,R4,Y
+1337,facilmente,,쉽게,easily,adv,R4,N
+1338,forti,,강한(복수),strong,adj,R4,Y
+1339,fratelli,,형제들,brother,noun,R4,Y
+1340,intero,,전체의,whole,adj,R4,N
+1341,legale,,합법적인,legal,adj,R4,N
+1342,miliardi,,수십억,billion,num,R4,N
+1343,offerta,,제안,offer,noun,R4,N
+1344,organizzazione,,조직,organization,noun,R4,N
+1345,permette,,허락하다(3인칭 단수),allow,verb,R4,N
+1346,piccole,,작은(여성 복수),small,adj,R4,Y
+1347,pressione,,압력,pressure,noun,R4,N
+1348,privato,,사적인,private,adj,R4,N
+1349,regioni,,지역들,region,noun,R4,N
+1350,ricordi,,추억들,memory,noun,R4,N
+1351,riuscito,,성공한,successful,adj,R4,N
+1352,sappiamo,,알다(1인칭 복수),know,verb,R4,N
+1353,spettacolo,,공연,show,noun,R4,Y
+1354,spirito,,정신,spirit,noun,R4,N
+1355,sullo,,~위에서(sul의 변형),on,prep,R4,N
+1356,attualmente,,현재,currently,adv,R4,N
+1357,caffè,,커피,coffee,noun,R4,Y
+1358,coraggio,,용기,courage,noun,R4,N
+1359,direi,,말할 것이다(1인칭 조건법),say,verb,R4,N
+1360,dolce,,달콤한,sweet,adj,R4,Y
+1361,europei,,유럽의(복수),European,adj,R4,N
+1362,fatte,,된(fare 과거분사 여성 복수),made,adj,R4,N
+1363,membro,,구성원,member,noun,R4,N
+1364,modi,,방식들,way,noun,R4,N
+1365,partecipazione,,참여,participation,noun,R4,N
+1366,percorso,,경로,route,noun,R4,Y
+1367,pericolo,,위험,danger,noun,R4,Y
+1368,pezzi,,조각들,piece,noun,R4,Y
+1369,pietro,,피에트로,Pietro,propn,R4,N
+1370,protezione,,보호,protection,noun,R4,N
+1371,strumento,,도구,tool,noun,R4,Y
+1372,velocità,,속도,speed,noun,R4,N
+1373,addirittura,,심지어,even,adv,R4,N
+1374,anima,,영혼,soul,noun,R4,N
+1375,carattere,,성격,character,noun,R4,N
+1376,carne,,고기,meat,noun,R4,Y
+1377,cento,,백,hundred,num,R4,N
+1378,complesso,,복잡한,complex,adj,R4,N
+1379,costi,,비용들,cost,noun,R4,N
+1380,diretto,,직접적인,direct,adj,R4,N
+1381,diventato,,된(diventare 과거분사),become,verb,R4,N
+1382,doppio,,두 배의,double,adj,R4,N
+1383,dura,,단단한(여성),hard,adj,R4,N
+1384,ebbe,,가졌다(3인칭 단수 과거),have,verb,R4,N
+1385,esercito,,군대,army,noun,R4,Y
+1386,femminile,,여성의,feminine,adj,R4,N
+1387,giornale,,신문,newspaper,noun,R4,Y
+1388,isola,,섬,island,noun,R4,Y
+1389,malattia,,병,illness,noun,R4,Y
+1390,massima,,최대의(여성),maximum,adj,R4,N
+1391,medici,,의사들,doctor,noun,R4,Y
+1392,metodo,,방법,method,noun,R4,N
+1393,militari,,군인들,soldier,noun,R4,Y
+1394,missione,,임무,mission,noun,R4,N
+1395,momenti,,순간들,moment,noun,R4,N
+1396,nazionali,,국가의(복수),national,adj,R4,N
+1397,numeri,,숫자들,number,noun,R4,N
+1398,pensavo,,생각했다(1인칭 단수),think,verb,R4,N
+1399,posta,,우편,mail,noun,R4,Y
+1400,recente,,최근의,recent,adj,R4,N
+1401,relazioni,,관계들,relationship,noun,R4,N
+1402,rimasto,,남은,remained,adj,R4,N
+1403,rosa,,분홍색,pink,adj,R4,Y
+1404,sarei,,~일 것이다(essere 1인칭 조건법),be,verb,R4,N
+1405,schifo,,역겨움,disgust,noun,R4,N
+1406,sebbene,,비록 ~이지만,although,conj,R4,N
+1407,stia,,있다(stare 접속법),stay,verb,R4,N
+1408,strano,,이상한,strange,adj,R4,N
+1409,super,,최고의,super,adj,R4,N
+1410,tecnica,,기술,technique,noun,R4,N
+1411,titoli,,제목들,title,noun,R4,N
+1412,tweet,,트윗,tweet,noun,R4,N
+1413,visione,,시야,vision,noun,R4,N
+1414,vittime,,희생자들,victim,noun,R4,N
+1415,volo,,비행,flight,noun,R4,Y
+1416,vostri,,너희의(복수),your,det,R4,N
+1417,aperta,,열린(여성),open,adj,R4,Y
+1418,aree,,구역들,area,noun,R4,N
+1419,argomento,,주제,topic,noun,R4,N
+1420,bellezza,,아름다움,beauty,noun,R4,N
+1421,bravo,,훌륭한,good,adj,R4,N
+1422,campi,,들판들,field,noun,R4,Y
+1423,chiave,,열쇠,key,noun,R4,Y
+1424,collaborazione,,협력,cooperation,noun,R4,N
+1425,comprare,,사다,buy,verb,R4,Y
+1426,crede,,믿다(3인칭 단수),believe,verb,R4,N
+1427,denaro,,돈,money,noun,R4,Y
+1428,dettagli,,세부 사항들,detail,noun,R4,N
+1429,europeo,,유럽의,European,adj,R4,N
+1430,farti,,너에게 하게 하다,make,verb,R4,N
+1431,fenomeno,,현상,phenomenon,noun,R4,N
+1432,genova,,제노바,Genoa,propn,R4,N
+1433,immediatamente,,즉시,immediately,adv,R4,N
+1434,interno,,내부의,inner,adj,R4,N
+1435,minimo,,최소의,minimum,adj,R4,N
+1436,museo,,박물관,museum,noun,R4,Y
+1437,ovunque,,어디에서나,everywhere,adv,R4,N
+1438,partiti,,정당들,party,noun,R4,N
+1439,prof,,선생님(준말),teacher,noun,R4,Y
+1440,quante,,얼마나 많은(여성 복수),how many,det,R4,N
+1441,seguenti,,다음의(복수),following,adj,R4,N
+1442,sembrano,,~처럼 보이다(3인칭 복수),seem,verb,R4,N
+1443,serata,,저녁 시간,evening,noun,R4,Y
+1444,signora,,부인,lady,noun,R4,Y
+1445,specialmente,,특히,especially,adv,R4,N
+1446,stavo,,~하고 있었다(1인칭 단수),be,verb,R4,N
+1447,tanta,,많은(여성),much,det,R4,N
+1448,team,,팀,team,noun,R4,Y
+1449,tecnologia,,기술,technology,noun,R4,N
+1450,traffico,,교통,traffic,noun,R4,Y
+1451,vino,,와인,wine,noun,R4,Y
+1452,zero,,영,zero,num,R4,N
+1453,aspettare,,기다리다,wait,verb,R4,Y
+1454,attesa,,기다림,wait,noun,R4,N
+1455,caldo,,더운,hot,adj,R4,Y
+1456,caro,,비싼,expensive,adj,R4,Y
+1457,cellulare,,휴대폰,phone,noun,R4,Y
+1458,cena,,저녁 식사,dinner,noun,R4,Y
+1459,chat,,채팅,chat,noun,R4,N
+1460,condizione,,조건,condition,noun,R4,N
+1461,consigli,,조언들,advice,noun,R4,N
+1462,contenuto,,내용,content,noun,R4,N
+1463,dedicato,,헌정된,dedicated,adj,R4,N
+1464,documento,,문서,document,noun,R4,Y
+1465,eppure,,그런데도,yet,conj,R4,N
+1466,fiume,,강,river,noun,R4,Y
+1467,fondamentale,,근본적인,fundamental,adj,R4,N
+1468,fondi,,자금,fund,noun,R4,N
+1469,giù,,아래로,down,adv,R4,N
+1470,imprese,,기업들,company,noun,R4,N
+1471,mario,,마리오,Mario,propn,R4,N
+1472,monte,,산,mountain,noun,R4,Y
+1473,notare,,알아차리다,notice,verb,R4,N
+1474,note,,메모들,note,noun,R4,N
+1475,potrei,,할 수 있을 것이다(1인칭 조건법),can,verb,R4,N
+1476,prese,,잡았다(3인칭 단수 과거),take,verb,R4,N
+1477,ricordare,,기억하다,remember,verb,R4,N
+1478,solamente,,오직,only,adv,R4,N
+1479,tecnico,,기술의,technical,adj,R4,N
+1480,tenuto,,유지된,held,adj,R4,N
+1481,traduzione,,번역,translation,noun,R4,N
+1482,ufficiali,,공식의(복수),official,adj,R4,N
+1483,volontà,,의지,will,noun,R4,N
+1484,americani,,미국인들,American,noun,R4,N
+1485,americano,,미국의,American,adj,R4,N
+1486,autori,,저자들,author,noun,R4,Y
+1487,blu,,파란색의,blue,adj,R4,Y
+1488,capitano,,선장,captain,noun,R4,Y
+1489,carriera,,경력,career,noun,R4,N
+1490,cervello,,뇌,brain,noun,R4,Y
+1491,chiuso,,닫힌,closed,adj,R4,Y
+1492,colori,,색깔들,color,noun,R4,Y
+1493,confronto,,비교,comparison,noun,R4,N
+1494,democrazia,,민주주의,democracy,noun,R4,N
+1495,episodio,,에피소드,episode,noun,R4,N
+1496,esame,,시험,exam,noun,R4,Y
+1497,espressione,,표현,expression,noun,R4,N
+1498,immagino,,상상하다(1인칭 단수),imagine,verb,R4,N
+1499,intera,,전체의(여성),whole,adj,R4,N
+1500,inutile,,쓸모없는,useless,adj,R4,N
+1501,linee,,선들,line,noun,R4,Y
+1502,operazione,,수술,operation,noun,R4,N
+1503,portata,,가져온,brought,adj,R4,N
+1504,possano,,~할 수 있다(접속법 3인칭 복수),can,verb,R4,N
+1505,pubblicità,,광고,advertisement,noun,R4,N
+1506,risulta,,결과가 되다(3인칭 단수),result,verb,R4,N
+1507,sistemi,,시스템들,system,noun,R4,N
+1508,spiega,,설명하다(3인칭 단수),explain,verb,R4,N
+1509,stanza,,방,room,noun,R4,Y
+1510,studiare,,공부하다,study,verb,R4,Y
+1511,tour,,투어,tour,noun,R4,N
+1512,venerdì,,금요일,Friday,noun,R4,N
+1513,album,,앨범,album,noun,R4,Y
+1514,bianca,,하얀(여성),white,adj,R4,Y
+1515,caccia,,사냥,hunt,noun,R4,Y
+1516,carico,,짐,load,noun,R4,Y
+1517,centri,,센터들,center,noun,R4,N
+1518,certamente,,물론,certainly,adv,R4,N
+1519,cinese,,중국의,Chinese,adj,R4,N
+1520,commerciale,,상업의,commercial,adj,R4,N
+1521,continuo,,계속되는,continuous,adj,R4,N
+1522,corrente,,흐름,current,noun,R4,N
+1523,dipartimento,,부서,department,noun,R4,N
+1524,disponibile,,이용 가능한,available,adj,R4,N
+1525,dovrei,,해야 할 것이다(1인칭 조건법),should,verb,R4,N
+1526,elettorale,,선거의,electoral,adj,R4,N
+1527,entrambe,,둘 다(여성),both,pron,R4,N
+1528,frattempo,,그 사이,meantime,noun,R4,N
+1529,imparare,,배우다,learn,verb,R4,Y
+1530,informazione,,정보,information,noun,R4,N
+1531,leader,,지도자,leader,noun,R4,Y
+1532,livelli,,수준들,level,noun,R4,N
+1533,molta,,많은(여성),much,det,R4,N
+1534,ottenuto,,얻은,obtained,adj,R4,N
+1535,perciò,,그래서,therefore,conj,R4,N
+1536,pomeriggio,,오후,afternoon,noun,R4,Y
+1537,ponte,,다리,bridge,noun,R4,Y
+1538,potenza,,힘,power,noun,R4,N
+1539,realizzato,,실현된,achieved,adj,R4,N
+1540,secondi,,초들,second,noun,R4,N
+1541,signor,,~씨,mister,noun,R4,Y
+1542,singolo,,단일의,single,adj,R4,N
+1543,tipi,,유형들,type,noun,R4,N
+1544,trattato,,조약,treaty,noun,R4,N
+1545,trovi,,찾다(2인칭 단수),find,verb,R4,N
+1546,veloce,,빠른,fast,adj,R4,Y
+1547,affrontare,,맞서다,face,verb,R4,N
+1548,ama,,사랑하다(3인칭 단수),love,verb,R4,Y
+1549,app,,앱,app,noun,R4,Y
+1550,artisti,,예술가들,artist,noun,R4,Y
+1551,atti,,행위들,act,noun,R4,N
+1552,conta,,세다(3인칭 단수),count,verb,R4,N
+1553,dormire,,자다,sleep,verb,R4,Y
+1554,gratis,,무료로,free,adv,R4,N
+1555,importa,,중요하다(3인칭 단수),matter,verb,R4,N
+1556,inferiore,,아래의,lower,adj,R4,N
+1557,internazionali,,국제적인(복수),international,adj,R4,N
+1558,letteratura,,문학,literature,noun,R4,N
+1559,news,,뉴스,news,noun,R4,N
+1560,operazioni,,수술들,operation,noun,R4,N
+1561,ospedale,,병원,hospital,noun,R4,Y
+1562,perdita,,손실,loss,noun,R4,N
+1563,personali,,개인적인(복수),personal,adj,R4,N
+1564,potresti,,할 수 있을 것이다(2인칭 조건법),can,verb,R4,N
+1565,pranzo,,점심 식사,lunch,noun,R4,Y
+1566,praticamente,,사실상,practically,adv,R4,N
+1567,pubblicazione,,출판,publication,noun,R4,N
+1568,resistenza,,저항,resistance,noun,R4,N
+1569,reso,,만들어진,rendered,adj,R4,N
+1570,rivista,,잡지,magazine,noun,R4,Y
+1571,rivoluzione,,혁명,revolution,noun,R4,N
+1572,salvini,,살비니,Salvini,propn,R4,N
+1573,scoprire,,발견하다,discover,verb,R4,N
+1574,sentenza,,판결,verdict,noun,R4,N
+1575,servono,,필요하다(3인칭 복수),need,verb,R4,N
+1576,spalle,,어깨들,shoulder,noun,R4,Y
+1577,standard,,기준,standard,noun,R4,N
+1578,tentativo,,시도,attempt,noun,R4,N
+1579,ve,,너희에게(대명사),you,pron,R4,N
+1580,vittima,,희생자,victim,noun,R4,N
+1581,accanto,,옆에,beside,adv,R4,N
+1582,aprire,,열다,open,verb,R4,Y
+1583,aspetta,,기다리다(3인칭 단수),wait,verb,R4,Y
+1584,beni,,재화,goods,noun,R4,N
+1585,buone,,좋은(여성 복수),good,adj,R4,N
+1586,buoni,,좋은(남성 복수),good,adj,R4,N
+1587,carica,,직책,position,noun,R4,N
+1588,comitato,,위원회,committee,noun,R4,N
+1589,diciamo,,말하다(1인칭 복수),say,verb,R4,N
+1590,disse,,말했다(3인칭 단수 과거),say,verb,R4,N
+1591,enorme,,거대한,huge,adj,R4,Y
+1592,et,,그리고(라틴어),and,conj,R4,N
+1593,farò,,할 것이다(1인칭 단수),do,verb,R4,N
+1594,freddo,,추운,cold,adj,R4,Y
+1595,funzioni,,기능들,function,noun,R4,N
+1596,giappone,,일본,Japan,propn,R4,N
+1597,giudice,,판사,judge,noun,R4,Y
+1598,interessa,,관심을 끌다(3인칭 단수),interest,verb,R4,N
+1599,migliaia,,수천,thousand,num,R4,N
+1600,misure,,조치들,measure,noun,R4,N
+1601,nasce,,태어나다(3인칭 단수),be born,verb,R4,N
+1602,nave,,배,ship,noun,R4,Y
+1603,nazione,,국가,nation,noun,R4,N
+1604,opportunità,,기회,opportunity,noun,R4,N
+1605,pagamento,,지불,payment,noun,R4,N
+1606,palermo,,팔레르모,Palermo,propn,R4,N
+1607,passione,,열정,passion,noun,R4,N
+1608,personaggio,,인물,character,noun,R4,N
+1609,programmi,,프로그램들,program,noun,R4,N
+1610,pronti,,준비된(복수),ready,adj,R4,N
+1611,regionale,,지역의,regional,adj,R4,N
+1612,soldati,,군인들,soldier,noun,R4,Y
+1613,star,,스타,star,noun,R4,Y
+1614,treno,,기차,train,noun,R4,Y
+1615,triste,,슬픈,sad,adj,R4,Y
+1616,unione,,연합,union,noun,R4,N
+1617,vecchi,,늙은(남성 복수),old,adj,R4,Y
+1618,villa,,저택,villa,noun,R4,Y
+1619,volume,,부피,volume,noun,R4,N
+1620,andiamo,,가다(1인칭 복수),go,verb,R4,Y
+1621,andrea,,안드레아,Andrea,propn,R4,N
+1622,attorno,,주위에,around,adv,R4,N
+1623,bassa,,낮은(여성),low,adj,R4,N
+1624,cambia,,바꾸다(3인칭 단수),change,verb,R4,N
+1625,commercio,,상업,trade,noun,R4,N
+1626,compito,,과제,task,noun,R4,N
+1627,comportamento,,행동,behavior,noun,R4,N
+1628,corsa,,달리기,run,noun,R4,Y
+1629,diceva,,말했다(3인칭 단수 반과거),say,verb,R4,N
+1630,dimensioni,,크기,size,noun,R4,N
+1631,giornalista,,기자,journalist,noun,R4,Y
+1632,guardia,,경비원,guard,noun,R4,Y
+1633,impegno,,헌신,commitment,noun,R4,N
+1634,limiti,,한계들,limit,noun,R4,N
+1635,luigi,,루이지,Luigi,propn,R4,N
+1636,maestro,,스승,teacher,noun,R4,Y
+1637,morale,,도덕적인,moral,adj,R4,N
+1638,nascita,,출생,birth,noun,R4,Y
+1639,offre,,제공하다(3인칭 단수),offer,verb,R4,N
+1640,oggetti,,물건들,object,noun,R4,Y
+1641,piani,,"계획들, 층들",plan,noun,R4,N
+1642,presentato,,소개했다(presentare 과거분사),present,verb,R4,N
+1643,principe,,왕자,prince,noun,R4,Y
+1644,professore,,교수,professor,noun,R4,Y
+1645,renzi,,렌치(성씨),Renzi,propn,R4,N
+1646,risposte,,대답들,answer,noun,R4,N
+1647,risposto,,대답했다(rispondere 과거분사),answer,verb,R4,N
+1648,scritta,,쓴(scrivere 과거분사 여성),write,verb,R4,N
+1649,segreto,,비밀,secret,noun,R4,N
+1650,sente,,느끼다(3인칭 단수),feel,verb,R4,N
+1651,tratto,,"구간, 선",stroke,noun,R4,N
+1652,umana,,인간의(여성),human,adj,R4,N
+1653,uscito,,나갔다(uscire 과거분사),go out,verb,R4,N
+1654,vincere,,이기다,win,verb,R4,N
+1655,affatto,,전혀,at all,adv,R4,N
+1656,arrivati,,도착한(arrivare 과거분사 복수),arrive,verb,R4,N
+1657,chiara,,"밝은, 분명한(여성)",clear,adj,R4,N
+1658,chiaramente,,분명하게,clearly,adv,R4,N
+1659,cittadino,,시민,citizen,noun,R4,Y
+1660,clienti,,고객들,customer,noun,R4,Y
+1661,conferma,,확인,confirmation,noun,R4,N
+1662,conosce,,알다(3인칭 단수),know,verb,R4,N
+1663,conseguenze,,결과들,consequence,noun,R4,N
+1664,costruire,,짓다,build,verb,R4,Y
+1665,debito,,빚,debt,noun,R4,N
+1666,errori,,실수들,mistake,noun,R4,N
+1667,francesi,,프랑스의(복수),French,adj,R4,N
+1668,grosso,,"큰, 굵은",big,adj,R4,Y
+1669,intenzione,,의도,intention,noun,R4,N
+1670,lettura,,독서,reading,noun,R4,Y
+1671,limite,,한계,limit,noun,R4,N
+1672,luna,,달,moon,noun,R4,Y
+1673,occidentale,,서쪽의,western,adj,R4,N
+1674,partecipare,,참가하다,participate,verb,R4,N
+1675,poveri,,가난한(복수),poor,adj,R4,Y
+1676,principalmente,,주로,mainly,adv,R4,N
+1677,principio,,"원칙, 시작",principle,noun,R4,N
+1678,quartiere,,동네,neighborhood,noun,R4,Y
+1679,ridere,,웃다,laugh,verb,R4,Y
+1680,risolvere,,해결하다,solve,verb,R4,N
+1681,sembrava,,~처럼 보였다(sembrare 반과거),seem,verb,R4,N
+1682,sostegno,,지지,support,noun,R4,N
+1683,terreno,,땅,land,noun,R4,Y
+1684,utente,,사용자,user,noun,R4,Y
+1685,veniva,,오곤 했다(venire 반과거),come,verb,R4,N
+1686,votare,,투표하다,vote,verb,R4,Y
+1687,aereo,,비행기,airplane,noun,R4,Y
+1688,aumentare,,늘리다,increase,verb,R4,N
+1689,bilancio,,"예산, 결산",budget,noun,R4,N
+1690,canzoni,,노래들,song,noun,R4,Y
+1691,carte,,"카드들, 종이들",card,noun,R4,Y
+1692,cercato,,찾았다(cercare 과거분사),search,verb,R4,N
+1693,cerco,,찾다(1인칭 단수),search,verb,R4,N
+1694,david,,다비드(이름),David,propn,R4,N
+1695,debba,,~해야 한다(dovere 접속법),must,verb,R4,N
+1696,dichiarazione,,선언,declaration,noun,R4,N
+1697,esperienze,,경험들,experience,noun,R4,N
+1698,fianco,,"옆구리, 옆",side,noun,R4,N
+1699,finita,,끝난(finire 과거분사 여성),finish,verb,R4,N
+1700,fiori,,꽃들,flower,noun,R4,Y
+1701,frase,,문장,sentence,noun,R4,N
+1702,gas,,가스,gas,noun,R4,N
+1703,intervista,,인터뷰,interview,noun,R4,Y
+1704,istituto,,"기관, 학원",institute,noun,R4,N
+1705,messaggi,,메시지들,message,noun,R4,Y
+1706,minore,,"더 작은, 미성년자",minor,adj,R4,N
+1707,minuto,,분,minute,noun,R4,N
+1708,modalità,,방식,mode,noun,R4,N
+1709,negozio,,가게,shop,noun,R4,Y
+1710,nonché,,뿐만 아니라,as well as,conj,R4,N
+1711,numerose,,수많은(여성 복수),numerous,adj,R4,N
+1712,parlano,,말하다(3인칭 복수),speak,verb,R4,Y
+1713,privata,,사적인(여성),private,adj,R4,N
+1714,quarto,,"네 번째, 4분의 1",fourth,num,R4,N
+1715,raggiunto,,도달했다(raggiungere 과거분사),reach,verb,R4,N
+1716,regime,,체제,regime,noun,R4,N
+1717,regina,,여왕,queen,noun,R4,Y
+1718,romano,,"로마의, 로마인",Roman,adj,R4,N
+1719,scala,,"계단, 규모",stairs,noun,R4,Y
+1720,sguardo,,시선,glance,noun,R4,N
+1721,sorta,,"종류, 생겨난(sorgere 과거분사)",kind,noun,R4,N
+1722,spesa,,"장보기, 지출",shopping,noun,R4,Y
+1723,utilizzato,,사용된(utilizzare 과거분사),use,verb,R4,N
+1724,avvocato,,변호사,lawyer,noun,R4,Y
+1725,civili,,시민의(복수),civil,adj,R4,N
+1726,comunale,,시의,municipal,adj,R4,N
+1727,corsi,,강좌들,course,noun,R4,N
+1728,creazione,,창조,creation,noun,R4,N
+1729,dispiace,,"미안하다, 유감이다",be sorry,verb,R4,N
+1730,don,,돈(신부·남자 존칭),Don,propn,R4,N
+1731,dovrà,,~해야 할 것이다(dovere 미래),must,verb,R4,N
+1732,durata,,지속 기간,duration,noun,R4,N
+1733,esce,,나가다(3인칭 단수),go out,verb,R4,Y
+1734,formato,,"형식, 형성된",format,noun,R4,N
+1735,fossi,,~였다면(essere 접속법),be,verb,R4,N
+1736,giapponese,,"일본의, 일본어",Japanese,adj,R4,N
+1737,lavorato,,일했다(lavorare 과거분사),work,verb,R4,Y
+1738,lettere,,"편지들, 문자들",letter,noun,R4,Y
+1739,lezione,,수업,lesson,noun,R4,Y
+1740,lingue,,"언어들, 혀들",language,noun,R4,N
+1741,madonna,,성모마리아,Madonna,propn,R4,N
+1742,medicina,,"약, 의학",medicine,noun,R4,Y
+1743,metti,,놓다(2인칭 단수),put,verb,R4,Y
+1744,moda,,패션,fashion,noun,R4,Y
+1745,persino,,심지어,even,adv,R4,N
+1746,prigione,,감옥,prison,noun,R4,Y
+1747,primavera,,봄,spring,noun,R4,Y
+1748,reazione,,반응,reaction,noun,R4,N
+1749,ricerche,,"연구들, 검색들",research,noun,R4,N
+1750,rossi,,빨간(남성 복수),red,adj,R4,Y
+1751,salvare,,구하다,save,verb,R4,Y
+1752,scrittore,,작가,writer,noun,R4,Y
+1753,spiegare,,설명하다,explain,verb,R4,N
+1754,stranieri,,외국인들,foreigner,noun,R4,Y
+1755,superficie,,표면,surface,noun,R4,N
+1756,tedesco,,"독일의, 독일어",German,adj,R4,N
+1757,trasporto,,운송,transport,noun,R4,Y
+1758,vantaggio,,이점,advantage,noun,R4,N
+1759,aiuta,,돕다(3인칭 단수),help,verb,R4,Y
+1760,andando,,가면서(andare 제룬디오),go,verb,R4,N
+1761,appare,,나타나다(3인칭 단수),appear,verb,R4,N
+1762,applicazione,,"앱, 적용",application,noun,R4,N
+1763,assieme,,함께,together,adv,R4,N
+1764,capace,,유능한,capable,adj,R4,N
+1765,cliente,,고객,customer,noun,R4,Y
+1766,composto,,구성된(comporre 과거분사),compose,verb,R4,N
+1767,considerazione,,고려,consideration,noun,R4,N
+1768,date,,날짜들,date,noun,R4,N
+1769,definizione,,정의,definition,noun,R4,N
+1770,desiderio,,소망,wish,noun,R4,N
+1771,digitale,,디지털의,digital,adj,R4,N
+1772,disegno,,그림,drawing,noun,R4,Y
+1773,distribuzione,,"배급, 분배",distribution,noun,R4,N
+1774,dover,,~해야 하다(dovere 축약),must,verb,R4,N
+1775,evidente,,명백한,obvious,adj,R4,N
+1776,famoso,,유명한,famous,adj,R4,Y
+1777,generazione,,세대,generation,noun,R4,N
+1778,giornali,,신문들,newspaper,noun,R4,Y
+1779,identità,,정체성,identity,noun,R4,N
+1780,incidente,,사고,accident,noun,R4,Y
+1781,ingresso,,입구,entrance,noun,R4,Y
+1782,istituzioni,,"제도들, 기관들",institution,noun,R4,N
+1783,latte,,우유,milk,noun,R4,Y
+1784,linguaggio,,"언어, 말투",language,noun,R4,N
+1785,migliorare,,개선하다,improve,verb,R4,N
+1786,mila,,천들,thousand,num,R4,N
+1787,muro,,벽,wall,noun,R4,Y
+1788,nata,,태어난(nascere 과거분사 여성),born,adj,R4,N
+1789,ottima,,아주 좋은(여성),excellent,adj,R4,N
+1790,parliamo,,말하다(1인칭 복수),speak,verb,R4,Y
+1791,particolari,,"특별한, 세부 사항들",particular,adj,R4,N
+1792,perfetta,,완벽한(여성),perfect,adj,R4,N
+1793,piacciono,,좋아하다(3인칭 복수),like,verb,R4,N
+1794,punta,,"끝, 뾰족한 끝",tip,noun,R4,Y
+1795,racconta,,이야기하다(3인칭 단수),tell,verb,R4,N
+1796,regola,,규칙,rule,noun,R4,N
+1797,sapevo,,알았다(sapere 반과거),know,verb,R4,N
+1798,scienza,,과학,science,noun,R4,N
+1799,segretario,,"비서, 서기",secretary,noun,R4,Y
+1800,senti,,"듣다, 느끼다(2인칭 단수)",hear,verb,R4,N
+1801,sfida,,도전,challenge,noun,R4,N
+1802,soggetto,,"주제, 주어",subject,noun,R4,N
+1803,speciali,,특별한(복수),special,adj,R4,N
+1804,tratti,,"특징들, 구간들",trait,noun,R4,N
+1805,vento,,바람,wind,noun,R4,Y
+1806,vicini,,"가까운, 이웃들",near,adj,R4,N
+1807,villaggio,,마을,village,noun,R4,Y
+1808,arrivano,,도착하다(3인칭 복수),arrive,verb,R4,Y
+1809,arrivata,,도착한(arrivare 과거분사 여성),arrive,verb,R4,N
+1810,berlusconi,,베를루스코니(성씨),Berlusconi,propn,R4,N
+1811,brutto,,못생긴,ugly,adj,R4,Y
+1812,castello,,성,castle,noun,R4,Y
+1813,combattere,,싸우다,fight,verb,R4,Y
+1814,controllare,,확인하다,check,verb,R4,N
+1815,coscienza,,"의식, 양심",conscience,noun,R4,N
+1816,credito,,신용,credit,noun,R4,N
+1817,dipendenti,,직원들,employee,noun,R4,Y
+1818,fan,,팬(외래어),fan,noun,R4,Y
+1819,filosofia,,철학,philosophy,noun,R4,N
+1820,giudizio,,판단,judgment,noun,R4,N
+1821,grecia,,그리스,Greece,propn,R4,N
+1822,iniziativa,,"주도, 계획",initiative,noun,R4,N
+1823,moto,,"오토바이, 움직임",motorcycle,noun,R4,Y
+1824,nazioni,,나라들,nation,noun,R4,N
+1825,nonna,,할머니,grandmother,noun,R4,Y
+1826,norma,,규정,norm,noun,R4,N
+1827,norme,,규정들,norm,noun,R4,N
+1828,partenza,,출발,departure,noun,R4,Y
+1829,pertanto,,따라서,therefore,conj,R4,N
+1830,possibili,,가능한(복수),possible,adj,R4,N
+1831,ricco,,부유한,rich,adj,R4,Y
+1832,software,,소프트웨어,software,noun,R4,N
+1833,storica,,역사적인(여성),historic,adj,R4,N
+1834,temi,,주제들,theme,noun,R4,N
+1835,tesoro,,보물,treasure,noun,R4,Y
+1836,testi,,텍스트들,text,noun,R4,N
+1837,tiene,,"잡다, 유지하다(3인칭 단수)",hold,verb,R4,Y
+1838,utilizzo,,사용,use,noun,R4,N
+1839,venuto,,왔다(venire 과거분사),come,verb,R4,N
+1840,vicenda,,"사건, 이야기",affair,noun,R4,N
+1841,voler,,원하다(volere 축약),want,verb,R4,N
+1842,accettare,,받아들이다,accept,verb,R4,N
+1843,acque,,물들,water,noun,R4,Y
+1844,agenti,,요원들,agent,noun,R4,Y
+1845,aggiungere,,더하다,add,verb,R4,N
+1846,appuntamento,,약속,appointment,noun,R4,N
+1847,argomenti,,주제들,topic,noun,R4,N
+1848,cara,,소중한(여성),dear,adj,R4,N
+1849,compagni,,동료들,companion,noun,R4,Y
+1850,dando,,주면서(dare 제룬디오),give,verb,R4,N
+1851,decidere,,결정하다,decide,verb,R4,N
+1852,dipende,,달려 있다,depend,verb,R4,N
+1853,file,,파일(외래어),file,noun,R4,N
+1854,immigrati,,이민자들,immigrant,noun,R4,Y
+1855,incredibile,,믿기 힘든,incredible,adj,R4,N
+1856,manifestazione,,"시위, 행사",demonstration,noun,R4,Y
+1857,mica,,전혀(부정 강조),at all,adv,R4,N
+1858,michael,,미카엘(이름),Michael,propn,R4,N
+1859,minori,,"더 작은(복수), 미성년자들",minor,adj,R4,N
+1860,naturalmente,,당연히,naturally,adv,R4,N
+1861,nera,,검은(여성),black,adj,R4,Y
+1862,positivo,,긍정적인,positive,adj,R4,N
+1863,posizioni,,위치들,position,noun,R4,N
+1864,ricevere,,받다,receive,verb,R4,Y
+1865,risponde,,대답하다(3인칭 단수),answer,verb,R4,N
+1866,scienze,,과학들,science,noun,R4,N
+1867,soggetti,,"주제들, 대상들",subject,noun,R4,N
+1868,successivo,,다음의,next,adj,R4,N
+1869,superiori,,상위의(복수),superior,adj,R4,N
+1870,tecniche,,기술들,technique,noun,R4,N
+1871,trattamento,,"대우, 치료",treatment,noun,R4,N
+1872,turno,,차례,turn,noun,R4,N
+1873,vince,,이기다(3인칭 단수),win,verb,R4,N
+1874,viva,,살아 있는(여성),alive,adj,R4,N
+1875,aggiunto,,더했다(aggiungere 과거분사),add,verb,R4,N
+1876,artista,,예술가,artist,noun,R4,Y
+1877,biblioteca,,도서관,library,noun,R4,Y
+1878,chiudere,,닫다,close,verb,R4,Y
+1879,concerto,,콘서트,concert,noun,R4,Y
+1880,contiene,,담고 있다(3인칭 단수),contain,verb,R4,N
+1881,divertente,,재미있는,fun,adj,R4,Y
+1882,dovremmo,,~해야 할 텐데(dovere 1인칭 복수 조건법),should,verb,R4,N
+1883,droga,,마약,drug,noun,R4,N
+1884,esistenza,,존재,existence,noun,R4,N
+1885,fermo,,"멈춘, 고정된",still,adj,R4,N
+1886,finisce,,끝나다(3인칭 단수),finish,verb,R4,N
+1887,fondazione,,"재단, 설립",foundation,noun,R4,N
+1888,impresa,,기업,company,noun,R4,N
+1889,legno,,나무(재료),wood,noun,R4,Y
+1890,messi,,놓인(mettere 과거분사 복수),put,verb,R4,N
+1891,nemico,,적,enemy,noun,R4,N
+1892,nove,,아홉,nine,num,R4,N
+1893,oddio,,세상에(감탄),oh my god,interj,R4,N
+1894,olio,,기름,oil,noun,R4,Y
+1895,onda,,파도,wave,noun,R4,Y
+1896,pane,,빵,bread,noun,R4,Y
+1897,passati,,지난(복수),past,adj,R4,N
+1898,pensando,,생각하면서(pensare 제룬디오),think,verb,R4,N
+1899,porte,,문들,door,noun,R4,Y
+1900,quegli,,저(남성 복수),that,det,R4,N
+1901,richieste,,요청들,request,noun,R4,N
+1902,riuscire,,성공하다,succeed,verb,R4,N
+1903,russo,,"러시아의, 러시아어",Russian,adj,R4,N
+1904,scarpe,,신발들,shoe,noun,R4,Y
+1905,senato,,상원,senate,noun,R4,N
+1906,spagnolo,,"스페인의, 스페인어",Spanish,adj,R4,N
+1907,strutture,,"구조물들, 시설들",structure,noun,R4,N
+1908,vada,,가다(andare 접속법),go,verb,R4,N
+1909,valle,,계곡,valley,noun,R4,Y
+1910,veri,,진짜의(복수),real,adj,R4,N
+1911,vissuto,,살았다(vivere 과거분사),live,verb,R4,N
+1912,alessandro,,알레산드로(이름),Alessandro,propn,R4,N
+1913,appello,,"호소, 항소",appeal,noun,R4,N
+1914,ascoltare,,듣다,listen,verb,R4,Y
+1915,bordo,,"가장자리, 승선",edge,noun,R4,N
+1916,buongiorno,,안녕하세요(아침 인사),good morning,interj,R4,N
+1917,caduta,,"추락, 넘어짐",fall,noun,R4,Y
+1918,cavallo,,말,horse,noun,R4,Y
+1919,chiamare,,부르다,call,verb,R4,Y
+1920,comincia,,시작하다(3인칭 단수),begin,verb,R4,N
+1921,completa,,완전한(여성),complete,adj,R4,N
+1922,congresso,,"회의, 의회",congress,noun,R4,N
+1923,costante,,일정한,constant,adj,R4,N
+1924,crescere,,자라다,grow,verb,R4,Y
+1925,croce,,십자가,cross,noun,R4,Y
+1926,dovresti,,~해야 한다(dovere 2인칭 조건법),should,verb,R4,N
+1927,educazione,,교육,education,noun,R4,N
+1928,fila,,줄,line,noun,R4,Y
+1929,gioia,,기쁨,joy,noun,R4,Y
+1930,gusto,,맛,taste,noun,R4,N
+1931,ipotesi,,가설,hypothesis,noun,R4,N
+1932,luca,,루카(이름),Luca,propn,R4,N
+1933,lunedì,,월요일,Monday,noun,R4,N
+1934,materiali,,재료들,material,noun,R4,N
+1935,migranti,,이주민들,migrant,noun,R4,Y
+1936,moderna,,현대의(여성),modern,adj,R4,N
+1937,novità,,새로운 소식,news,noun,R4,N
+1938,ordini,,"주문들, 명령들",order,noun,R4,N
+1939,palle,,공들,ball,noun,R4,Y
+1940,parlo,,말하다(1인칭 단수),speak,verb,R4,Y
+1941,patrimonio,,"유산, 재산",heritage,noun,R4,N
+1942,pensano,,생각하다(3인칭 복수),think,verb,R4,N
+1943,perfettamente,,완벽하게,perfectly,adv,R4,N
+1944,pianeta,,행성,planet,noun,R4,Y
+1945,previsto,,예상된(prevedere 과거분사),expect,verb,R4,N
+1946,principi,,"왕자들, 원칙들",principle,noun,R4,N
+1947,pronta,,준비된(여성),ready,adj,R4,N
+1948,restare,,머물다,stay,verb,R4,N
+1949,ritardo,,지연,delay,noun,R4,N
+1950,scoperta,,발견,discovery,noun,R4,N
+1951,sensazione,,느낌,sensation,noun,R4,N
+1952,situazioni,,상황들,situation,noun,R4,N
+1953,sostenere,,지지하다,support,verb,R4,N
+1954,spiaggia,,해변,beach,noun,R4,Y
+1955,stadio,,경기장,stadium,noun,R4,Y
+1956,tal,,그런(tale 축약),such,det,R4,N
+1957,toscana,,토스카나,Tuscany,propn,R4,N
+1958,tutela,,보호,protection,noun,R4,N
+1959,usando,,사용하면서(usare 제룬디오),use,verb,R4,N
+1960,vacanza,,휴가,vacation,noun,R4,Y
+1961,vite,,"포도나무, 나사",vine,noun,R4,Y
+1962,volto,,얼굴,face,noun,R4,Y
+1963,alti,,높은(복수),tall,adj,R4,Y
+1964,apertura,,열림,opening,noun,R4,N
+1965,assenza,,부재,absence,noun,R4,N
+1966,bellissima,,아주 아름다운(여성),beautiful,adj,R4,Y
+1967,bellissimo,,아주 아름다운,beautiful,adj,R4,Y
+1968,cambiamento,,변화,change,noun,R4,N
+1969,chiese,,교회들,church,noun,R4,Y
+1970,classico,,고전적인,classic,adj,R4,N
+1971,comando,,명령,command,noun,R4,N
+1972,culturali,,문화의(복수),cultural,adj,R4,N
+1973,dichiarato,,선언한(dichiarare 과거분사),declare,verb,R4,N
+1974,disponibili,,이용 가능한(복수),available,adj,R4,N
+1975,emergenza,,비상,emergency,noun,R4,N
+1976,esserci,,있다(essere+ci),be there,verb,R4,N
+1977,estremamente,,극도로,extremely,adv,R4,N
+1978,farci,,우리에게 하다(fare+ci),make,verb,R4,N
+1979,ferro,,철,iron,noun,R4,Y
+1980,gravi,,심각한(복수),serious,adj,R4,N
+1981,incontri,,만남들,meeting,noun,R4,Y
+1982,influenza,,"영향, 독감",influence,noun,R4,N
+1983,istruzione,,교육,education,noun,R4,N
+1984,modelli,,모델들,model,noun,R4,Y
+1985,naturali,,자연의(복수),natural,adj,R4,N
+1986,papà,,아빠,dad,noun,R4,Y
+1987,parli,,말하다(2인칭 단수),speak,verb,R4,Y
+1988,proposte,,제안들,proposal,noun,R4,N
+1989,protagonista,,주인공,protagonist,noun,R4,Y
+1990,quadro,,"그림, 액자",painting,noun,R4,Y
+1991,questioni,,문제들,issue,noun,R4,N
+1992,reato,,범죄,crime,noun,R4,N
+1993,ristorante,,식당,restaurant,noun,R4,Y
+1994,sentimenti,,감정들,feeling,noun,R4,N
+1995,sessuale,,성적인,sexual,adj,R4,N
+1996,sin,,~부터(sino 축약),until,prep,R4,N
+1997,tasse,,세금들,tax,noun,R4,N
+1998,tavolo,,테이블,table,noun,R4,Y
+1999,tendenza,,경향,trend,noun,R4,N
+2000,tizio,,어떤 사람,guy,noun,R4,N
+2001,tradizionale,,전통적인,traditional,adj,R4,N
+2002,tranne,,~를 제외하고,except,prep,R4,N
+2003,venti,,"스물, 바람들",twenty,num,R4,N
+2004,vorrebbe,,원할 것이다(volere 3인칭 조건법),want,verb,R4,N
+2005,vostre,,너희의(여성 복수),your,det,R4,N
+2006,addosso,,"몸에, 위에",on,adv,R4,N
+2007,americana,,미국의(여성),American,adj,R4,N
+2008,anna,,안나(이름),Anna,propn,R4,N
+2009,antica,,고대의(여성),ancient,adj,R4,N
+2010,assoluto,,절대적인,absolute,adj,R4,N
+2011,attivo,,활동적인,active,adj,R4,N
+2012,band,,밴드(외래어),band,noun,R4,Y
+2013,braccio,,팔,arm,noun,R4,Y
+2014,campione,,챔피언,champion,noun,R4,Y
+2015,cani,,개들,dog,noun,R4,Y
+2016,chiusura,,닫힘,closing,noun,R4,N
+2017,ciclo,,주기,cycle,noun,R4,N
+2018,collega,,동료,colleague,noun,R4,Y
+2019,colpito,,맞은(colpire 과거분사),hit,verb,R4,N
+2020,conferenza,,"강연, 회의",conference,noun,R4,Y
+2021,dimostrare,,증명하다,prove,verb,R4,N
+2022,disco,,"음반, 원반",disc,noun,R4,Y
+2023,entrata,,"입구, 수입",entrance,noun,R4,Y
+2024,esclusivamente,,오직,exclusively,adv,R4,N
+2025,esempi,,예들,example,noun,R4,N
+2026,forum,,포럼(외래어),forum,noun,R4,N
+2027,gestire,,관리하다,manage,verb,R4,N
+2028,giunta,,"도착한, 위원회",council,noun,R4,N
+2029,hotel,,호텔,hotel,noun,R4,Y
+2030,lezioni,,수업들,lesson,noun,R4,Y
+2031,mail,,이메일(외래어),email,noun,R4,Y
+2032,mancano,,부족하다(3인칭 복수),lack,verb,R4,N
+2033,marina,,"해군, 해안",navy,noun,R4,N
+2034,montagna,,산,mountain,noun,R4,Y
+2035,potente,,강력한,powerful,adj,R4,N
+2036,potesse,,할 수 있었다면(potere 접속법),can,verb,R4,N
+2037,preferito,,좋아하는,favorite,adj,R4,N
+2038,prendi,,"가지다, 잡다(2인칭 단수)",take,verb,R4,Y
+2039,promozione,,"승진, 판촉",promotion,noun,R4,N
+2040,pubbliche,,공공의(여성 복수),public,adj,R4,N
+2041,quotidiano,,"일상의, 일간지",daily,adj,R4,N
+2042,racconto,,이야기,story,noun,R4,Y
+2043,rossa,,빨간(여성형),red,adj,R4,Y
+2044,sarò,,~일 것이다(1인칭 미래),be,verb,R4,N
+2045,scelte,,선택들,choice,noun,R4,N
+2046,simbolo,,상징,symbol,noun,R4,Y
+2047,sorpresa,,놀람,surprise,noun,R4,Y
+2048,ulteriori,,추가의,further,adj,R4,N
+2049,vieni,,오다(2인칭 명령/현재),come,verb,R4,Y
+2050,africa,,아프리카,Africa,propn,R4,N
+2051,agenzia,,대리점,agency,noun,R4,N
+2052,amicizia,,우정,friendship,noun,R4,N
+2053,andrà,,갈 것이다(3인칭 미래),go,verb,R4,N
+2054,angelo,,천사,angel,noun,R4,Y
+2055,assistenza,,도움,assistance,noun,R4,N
+2056,bere,,마시다,drink,verb,R4,Y
+2057,bianchi,,흰(남성 복수),white,adj,R4,Y
+2058,biglietto,,표,ticket,noun,R4,Y
+2059,chissà,,아마도,maybe,adv,R4,N
+2060,confine,,국경,border,noun,R4,N
+2061,conflitto,,갈등,conflict,noun,R4,N
+2062,considerare,,고려하다,consider,verb,R4,N
+2063,contributo,,기여,contribution,noun,R4,N
+2064,corpi,,몸들,body,noun,R4,Y
+2065,descrizione,,설명,description,noun,R4,N
+2066,dovere,,해야 하다,must,verb,R4,N
+2067,episodi,,에피소드들,episode,noun,R4,N
+2068,eravamo,,~였다(1인칭 복수 과거),be,verb,R4,N
+2069,facoltà,,능력,faculty,noun,R4,N
+2070,fini,,목적들,purpose,noun,R4,N
+2071,fisico,,신체의,physical,adj,R4,N
+2072,fornire,,제공하다,provide,verb,R4,N
+2073,fuga,,도주,escape,noun,R4,Y
+2074,gambe,,다리들,leg,noun,R4,Y
+2075,generalmente,,일반적으로,generally,adv,R4,N
+2076,gentile,,친절한,kind,adj,R4,Y
+2077,giardino,,정원,garden,noun,R4,Y
+2078,giocatori,,선수들,player,noun,R4,Y
+2079,industriale,,산업의,industrial,adj,R4,N
+2080,inghilterra,,잉글랜드,England,propn,R4,N
+2081,interna,,내부의,internal,adj,R4,N
+2082,lago,,호수,lake,noun,R4,Y
+2083,macchine,,기계들,machine,noun,R4,Y
+2084,padova,,파도바,Padua,propn,R4,N
+2085,parere,,의견,opinion,noun,R4,N
+2086,partecipanti,,참가자들,participant,noun,R4,N
+2087,povero,,가난한,poor,adj,R4,Y
+2088,presentazione,,발표,presentation,noun,R4,N
+2089,referendum,,국민투표,referendum,noun,R4,N
+2090,regalo,,선물,gift,noun,R4,Y
+2091,sapete,,알다(2인칭 복수),know,verb,R4,N
+2092,semplici,,단순한(복수),simple,adj,R4,N
+2093,successivamente,,그 후에,afterwards,adv,R4,N
+2094,tesi,,논문,thesis,noun,R4,N
+2095,tocca,,만지다(3인칭),touch,verb,R4,Y
+2096,utilizzare,,사용하다,use,verb,R4,N
+2097,vedono,,보다(3인칭 복수),see,verb,R4,Y
+2098,vestiti,,옷들,clothes,noun,R4,Y
+2099,andate,,가다(2인칭 복수),go,verb,R4,N
+2100,banche,,은행들,bank,noun,R4,Y
+2101,blocco,,블록,block,noun,R4,Y
+2102,borsa,,가방,bag,noun,R4,Y
+2103,capisce,,이해하다(3인칭),understand,verb,R4,N
+2104,clima,,기후,climate,noun,R4,N
+2105,colleghi,,동료들,colleague,noun,R4,Y
+2106,completo,,완전한,complete,adj,R4,N
+2107,copertura,,덮개,coverage,noun,R4,N
+2108,costretto,,강요된,forced,adj,R4,N
+2109,discutere,,토론하다,discuss,verb,R4,Y
+2110,dubbi,,의심들,doubt,noun,R4,N
+2111,esatto,,정확한,exact,adj,R4,N
+2112,giornalisti,,기자들,journalist,noun,R4,Y
+2113,guardando,,보면서,watch,verb,R4,Y
+2114,mal,,나쁘게,badly,adv,R4,N
+2115,malattie,,병들,disease,noun,R4,N
+2116,motore,,엔진,engine,noun,R4,Y
+2117,notato,,알아챘다(notare 과거분사),notice,verb,R4,N
+2118,piacerebbe,,좋아할 것이다,like,verb,R4,N
+2119,pietra,,돌,stone,noun,R4,Y
+2120,poesia,,시,poem,noun,R4,Y
+2121,prevede,,예상하다(3인칭),predict,verb,R4,N
+2122,proprietario,,주인,owner,noun,R4,Y
+2123,provenienti,,~로부터 온,coming,adj,R4,N
+2124,puntata,,회차,episode,noun,R4,N
+2125,reddito,,소득,income,noun,R4,N
+2126,relative,,관련된(복수/여성),related,adj,R4,N
+2127,salvo,,~을 제외하고,except,prep,R4,N
+2128,scambio,,교환,exchange,noun,R4,N
+2129,sensi,,감각들,sense,noun,R4,N
+2130,sicura,,안전한(여성형),safe,adj,R4,N
+2131,sogni,,꿈들,dream,noun,R4,Y
+2132,soluzioni,,해결책들,solution,noun,R4,N
+2133,sufficiente,,충분한,enough,adj,R4,N
+2134,terre,,땅들,land,noun,R4,Y
+2135,tornato,,돌아왔다(tornare 과거분사),return,verb,R4,N
+2136,ufficialmente,,공식적으로,officially,adv,R4,N
+2137,veneto,,베네토,Veneto,propn,R4,N
+2138,ali,,날개들,wing,noun,R4,Y
+2139,antico,,고대의,ancient,adj,R4,Y
+2140,attimo,,순간,moment,noun,R4,N
+2141,avessi,,가졌다면(1·2인칭 접속법),have,verb,R4,N
+2142,avranno,,가질 것이다(3인칭 복수),have,verb,R4,N
+2143,avviene,,일어나다(3인칭),happen,verb,R4,N
+2144,avviso,,공지,notice,noun,R4,N
+2145,bassi,,낮은(남성 복수),low,adj,R4,Y
+2146,canto,,노래,song,noun,R4,Y
+2147,cause,,원인들,cause,noun,R4,N
+2148,dedicata,,헌정된,dedicated,adj,R4,N
+2149,differenti,,다른(복수),different,adj,R4,N
+2150,diffusione,,확산,spread,noun,R4,N
+2151,dimostrato,,증명했다(dimostrare 과거분사),prove,verb,R4,N
+2152,distretto,,구역,district,noun,R4,N
+2153,epoca,,시대,era,noun,R4,N
+2154,intende,,의도하다(3인칭),intend,verb,R4,N
+2155,interni,,내부의(남성 복수),internal,adj,R4,N
+2156,latino,,라틴어,Latin,noun,R4,N
+2157,movimenti,,움직임들,movement,noun,R4,Y
+2158,occupa,,차지하다(3인칭),occupy,verb,R4,N
+2159,organizzato,,조직된,organized,adj,R4,N
+2160,partecipato,,참가했다(partecipare 과거분사),participate,verb,R4,N
+2161,pensieri,,생각들,thought,noun,R4,N
+2162,piede,,발,foot,noun,R4,Y
+2163,pizza,,피자,pizza,noun,R4,Y
+2164,poteri,,힘들,power,noun,R4,N
+2165,privati,,사적인(복수),private,adj,R4,N
+2166,processi,,과정들,process,noun,R4,N
+2167,propone,,제안하다(3인칭),propose,verb,R4,N
+2168,reali,,실제의(복수),real,adj,R4,N
+2169,realizzare,,실현하다,achieve,verb,R4,N
+2170,realizzazione,,실현,achievement,noun,R4,N
+2171,regolamento,,규정,regulation,noun,R4,N
+2172,relativi,,관련된(남성 복수),related,adj,R4,N
+2173,ridurre,,줄이다,reduce,verb,R4,N
+2174,rischi,,위험들,risk,noun,R4,N
+2175,secoli,,세기들,century,noun,R4,N
+2176,singoli,,개별의(복수),single,adj,R4,N
+2177,specifico,,구체적인,specific,adj,R4,N
+2178,taglio,,자르기,cut,noun,R4,Y
+2179,tasso,,비율,rate,noun,R4,N
+2180,temperatura,,온도,temperature,noun,R4,Y
+2181,tranquillo,,조용한,calm,adj,R4,Y
+2182,verranno,,올 것이다(3인칭 복수),come,verb,R4,N
+2183,acquisto,,구매,purchase,noun,R4,Y
+2184,aiuti,,도움들,help,noun,R4,N
+2185,altezza,,높이,height,noun,R4,Y
+2186,apre,,열다(3인칭),open,verb,R4,Y
+2187,avessero,,가졌다면(3인칭 복수 접속법),have,verb,R4,N
+2188,campionato,,선수권대회,championship,noun,R4,Y
+2189,carcere,,감옥,prison,noun,R4,Y
+2190,cittadinanza,,시민권,citizenship,noun,R4,N
+2191,collo,,목,neck,noun,R4,Y
+2192,consenso,,합의,consensus,noun,R4,N
+2193,decisamente,,단호하게,definitely,adv,R4,N
+2194,destino,,운명,destiny,noun,R4,N
+2195,dominio,,지배,dominion,noun,R4,N
+2196,figure,,인물들,figure,noun,R4,Y
+2197,finora,,지금까지,so far,adv,R4,N
+2198,firma,,서명,signature,noun,R4,Y
+2199,garantire,,보장하다,guarantee,verb,R4,N
+2200,giorgio,,조르조(이름),Giorgio,propn,R4,N
+2201,greco,,그리스의,Greek,adj,R4,N
+2202,laurea,,학위,degree,noun,R4,Y
+2203,legato,,묶인,tied,adj,R4,Y
+2204,liberi,,자유로운(복수),free,adj,R4,N
+2205,metto,,놓다(1인칭),put,verb,R4,Y
+2206,neri,,검은(남성 복수),black,adj,R4,Y
+2207,obiettivi,,목표들,goal,noun,R4,N
+2208,omicidio,,살인,murder,noun,R4,N
+2209,opinioni,,의견들,opinion,noun,R4,N
+2210,ovvio,,분명한,obvious,adj,R4,N
+2211,pesce,,물고기,fish,noun,R4,Y
+2212,puo,,할 수 있다(3인칭),can,verb,R4,N
+2213,richiede,,요구하다(3인칭),require,verb,R4,N
+2214,riconoscimento,,인정,recognition,noun,R4,N
+2215,romanzo,,소설,novel,noun,R4,Y
+2216,scusate,,죄송합니다(2인칭 복수),excuse,verb,R4,N
+2217,signori,,신사들,gentleman,noun,R4,Y
+2218,smettere,,그만두다,stop,verb,R4,N
+2219,svizzera,,스위스,Switzerland,propn,R4,N
+2220,uguale,,같은,equal,adj,R4,N
+2221,usata,,사용된(여성형),used,adj,R4,N
+2222,utili,,유용한(복수),useful,adj,R4,N
+2223,vicina,,가까운(여성형),near,adj,R4,N
+2224,vivi,,살아 있는(복수),alive,adj,R4,N
+2225,vuoto,,빈,empty,adj,R4,Y
+2226,arti,,예술들,art,noun,R4,Y
+2227,brutta,,못생긴(여성형),ugly,adj,R4,Y
+2228,centinaia,,수백,hundreds,noun,R4,N
+2229,colazione,,아침 식사,breakfast,noun,R4,Y
+2230,condividere,,공유하다,share,verb,R4,Y
+2231,dall,,~로부터(da+l),from,prep,R4,N
+2232,detta,,말해진(여성형),said,adj,R4,N
+2233,dovesse,,해야 한다면(접속법),must,verb,R4,N
+2234,duro,,딱딱한,hard,adj,R4,Y
+2235,elemento,,요소,element,noun,R4,N
+2236,espresso,,표현된,expressed,adj,R4,N
+2237,faranno,,할 것이다(3인칭 복수),do,verb,R4,N
+2238,ferma,,멈춘(여성형),still,adj,R4,N
+2239,generali,,일반적인(복수),general,adj,R4,N
+2240,giocatore,,선수,player,noun,R4,Y
+2241,gol,,골,goal,noun,R4,Y
+2242,matematica,,수학,mathematics,noun,R4,Y
+2243,metodi,,방법들,method,noun,R4,N
+2244,mezza,,절반의(여성형),half,adj,R4,N
+2245,morta,,죽은(여성형),dead,adj,R4,Y
+2246,musicale,,음악의,musical,adj,R4,N
+2247,offerte,,제안들,offer,noun,R4,N
+2248,ossia,,즉,that is,conj,R4,N
+2249,paga,,지불하다(3인칭),pay,verb,R4,Y
+2250,pagato,,지불했다(pagare 과거분사),pay,verb,R4,N
+2251,personalità,,성격,personality,noun,R4,N
+2252,piante,,식물들,plant,noun,R4,Y
+2253,pubblicata,,출판된(여성형),published,adj,R4,N
+2254,relativa,,관련된(여성형),related,adj,R4,N
+2255,riuscita,,성공,success,noun,R4,N
+2256,rotto,,부서진,broken,adj,R4,Y
+2257,sardegna,,사르데냐,Sardinia,propn,R4,N
+2258,segni,,표시들,sign,noun,R4,Y
+2259,sino,,~까지,until,prep,R4,N
+2260,speriamo,,바라다(1인칭 복수),hope,verb,R4,N
+2261,storici,,역사적인(복수),historical,adj,R4,N
+2262,uccidere,,죽이다,kill,verb,R4,Y
+2263,viso,,얼굴,face,noun,R4,Y
+2264,visti,,보았다(vedere 과거분사 복수),see,verb,R4,N
+2265,addio,,작별,goodbye,noun,R4,Y
+2266,andava,,가고 있었다(3인칭 반과거),go,verb,R4,N
+2267,animale,,동물,animal,noun,R4,Y
+2268,appartamento,,아파트,apartment,noun,R4,Y
+2269,arma,,무기,weapon,noun,R4,Y
+2270,arrestato,,체포된,arrested,adj,R4,Y
+2271,attiva,,활동적인(여성형),active,adj,R4,N
+2272,bambina,,여자아이,girl,noun,R4,Y
+2273,brasile,,브라질,Brazil,propn,R4,N
+2274,capitolo,,장,chapter,noun,R4,N
+2275,cercano,,찾다(3인칭 복수),search,verb,R4,Y
+2276,chilometri,,킬로미터들,kilometer,noun,R4,N
+2277,classifica,,순위,ranking,noun,R4,N
+2278,cominciato,,시작했다(cominciare 과거분사),begin,verb,R4,N
+2279,commerciali,,상업의(복수),commercial,adj,R4,N
+2280,compagno,,동반자,companion,noun,R4,Y
+2281,compleanno,,생일,birthday,noun,R4,Y
+2282,compreso,,포함된,included,adj,R4,N
+2283,confini,,경계들,border,noun,R4,N
+2284,convinto,,확신하는,convinced,adj,R4,N
+2285,costituzionale,,헌법의,constitutional,adj,R4,N
+2286,divisione,,분할,division,noun,R4,N
+2287,economiche,,경제의(여성 복수),economic,adj,R4,N
+2288,economici,,경제의(남성 복수),economic,adj,R4,N
+2289,filo,,실,thread,noun,R4,Y
+2290,gia,,이미,already,adv,R4,N
+2291,immaginare,,상상하다,imagine,verb,R4,N
+2292,imparato,,배웠다(imparare 과거분사),learn,verb,R4,N
+2293,indipendente,,독립적인,independent,adj,R4,N
+2294,indirizzo,,주소,address,noun,R4,Y
+2295,mattino,,아침,morning,noun,R4,Y
+2296,mediante,,~을 통해,through,prep,R4,N
+2297,michele,,미켈레(이름),Michele,propn,R4,N
+2298,minaccia,,위협,threat,noun,R4,N
+2299,necessaria,,필요한(여성형),necessary,adj,R4,N
+2300,notevole,,주목할 만한,remarkable,adj,R4,N
+2301,partite,,경기들,match,noun,R4,Y
+2302,partner,,파트너,partner,noun,R4,Y
+2303,pasta,,파스타,pasta,noun,R4,Y
+2304,peggiore,,더 나쁜,worse,adj,R4,N
+2305,penale,,형사의,criminal,adj,R4,N
+2306,profondo,,깊은,deep,adj,R4,Y
+2307,rimasta,,남았다(rimanere 과거분사 여성),remain,verb,R4,N
+2308,sanità,,보건,health,noun,R4,N
+2309,talmente,,너무나,so much,adv,R4,N
+2310,tavola,,식탁,table,noun,R4,Y
+2311,terremoto,,지진,earthquake,noun,R4,Y
+2312,trasmissione,,방송,broadcast,noun,R4,N
+2313,turismo,,관광,tourism,noun,R4,Y
+2314,ulteriore,,추가의,further,adj,R4,N
+2315,verona,,베로나,Verona,propn,R4,N
+2316,vie,,길들,street,noun,R4,Y
+2317,alternativa,,대안,alternative,noun,R4,N
+2318,ambito,,분야,field,noun,R4,N
+2319,ampio,,넓은,wide,adj,R4,Y
+2320,associazioni,,협회들,association,noun,R4,N
+2321,attacchi,,공격들,attack,noun,R4,N
+2322,cancro,,암,cancer,noun,R4,N
+2323,candidato,,후보자,candidate,noun,R4,Y
+2324,casino,,카지노,casino,noun,R4,Y
+2325,cattolica,,가톨릭의(여성형),Catholic,adj,R4,N
+2326,collezione,,수집품,collection,noun,R4,Y
+2327,comprendere,,이해하다,understand,verb,R4,N
+2328,considerata,,여겨진(여성형),considered,adj,R4,N
+2329,consumo,,소비,consumption,noun,R4,N
+2330,difendere,,방어하다,defend,verb,R4,Y
+2331,dignità,,존엄,dignity,noun,R4,N
+2332,dimenticato,,잊었다(dimenticare 과거분사),forget,verb,R4,N
+2333,dimostra,,증명하다(3인칭),prove,verb,R4,N
+2334,diventata,,되었다(diventare 과거분사 여성),become,verb,R4,N
+2335,eccezione,,예외,exception,noun,R4,N
+2336,esperti,,전문가들,expert,noun,R4,Y
+2337,felici,,행복한(복수),happy,adj,R4,Y
+2338,finestra,,창문,window,noun,R4,Y
+2339,finta,,가짜의(여성형),fake,adj,R4,N
+2340,fotografia,,사진,photograph,noun,R4,Y
+2341,fretta,,서두름,hurry,noun,R4,Y
+2342,frutto,,과일,fruit,noun,R4,Y
+2343,genio,,천재,genius,noun,R4,Y
+2344,gioca,,놀다(3인칭),play,verb,R4,Y
+2345,ideale,,이상적인,ideal,adj,R4,N
+2346,iniziale,,처음의,initial,adj,R4,N
+2347,latina,,라틴의(여성형),Latin,adj,R4,N
+2348,mandare,,보내다,send,verb,R4,Y
+2349,mobile,,움직이는,mobile,adj,R4,N
+2350,mondiali,,세계의(복수),worldwide,adj,R4,N
+2351,nemici,,적들,enemy,noun,R4,N
+2352,nuovamente,,다시,again,adv,R4,N
+2353,obbligo,,의무,obligation,noun,R4,N
+2354,organi,,기관들,organ,noun,R4,N
+2355,orientale,,동쪽의,eastern,adj,R4,N
+2356,pensione,,연금,pension,noun,R4,N
+2357,perde,,잃다(3인칭),lose,verb,R4,N
+2358,permettere,,허락하다,allow,verb,R4,N
+2359,porti,,항구들,port,noun,R4,Y
+2360,possesso,,소유,possession,noun,R4,N
+2361,potevano,,할 수 있었다(3인칭 복수),can,verb,R4,N
+2362,potranno,,할 수 있을 것이다(3인칭 복수),can,verb,R4,N
+2363,produrre,,생산하다,produce,verb,R4,N
+2364,raccolto,,수확,harvest,noun,R4,Y
+2365,racconti,,이야기들,story,noun,R4,Y
+2366,reti,,그물들,net,noun,R4,Y
+2367,richiesto,,요청된,requested,adj,R4,N
+2368,riduzione,,감소,reduction,noun,R4,N
+2369,saputo,,알았다(sapere 과거분사),know,verb,R4,N
+2370,scorsa,,지난(여성형),last,adj,R4,N
+2371,seguendo,,따르면서,follow,verb,R4,N
+2372,soccorso,,구조,rescue,noun,R4,N
+2373,stefano,,스테파노(이름),Stefano,propn,R4,N
+2374,suono,,소리,sound,noun,R4,Y
+2375,troviamo,,찾다(1인칭 복수),find,verb,R4,N
+2376,ue,,유럽연합,EU,propn,R4,N
+2377,unito,,결합된,united,adj,R4,N
+2378,vendere,,팔다,sell,verb,R4,Y
+2379,vescovo,,주교,bishop,noun,R4,Y
+2380,vivono,,살다(3인칭 복수),live,verb,R4,N
+2381,zio,,삼촌,uncle,noun,R4,Y
+2382,anime,,영혼들,soul,noun,R4,N
+2383,annuncio,,발표,announcement,noun,R4,N
+2384,aspettando,,기다리면서,wait,verb,R4,N
+2385,bari,,바리,Bari,propn,R4,N
+2386,cadere,,떨어지다,fall,verb,R4,Y
+2387,chiedono,,묻다(3인칭 복수),ask,verb,R4,N
+2388,cinesi,,중국의(복수),Chinese,adj,R4,N
+2389,copia,,사본,copy,noun,R4,Y
+2390,dovuta,,~해야 할(여성형),due,adj,R4,N
+2391,eletto,,선출된,elected,adj,R4,N
+2392,esse,,그녀들(3인칭 여성 복수),they,pron,R4,N
+2393,fatica,,수고,effort,noun,R4,N
+2394,fondamentali,,기본적인(복수),fundamental,adj,R4,N
+2395,fortemente,,강하게,strongly,adv,R4,N
+2396,frega,,문지르다(3인칭),rub,verb,R4,N
+2397,indagine,,조사,investigation,noun,R4,N
+2398,james,,제임스(이름),James,propn,R4,N
+2399,laboratorio,,실험실,laboratory,noun,R4,Y
+2400,mettono,,놓다(3인칭 복수),put,verb,R4,N
+2401,monti,,산들,mountain,noun,R4,Y
+2402,paul,,폴(이름),Paul,propn,R4,N
+2403,paziente,,환자,patient,noun,R4,Y
+2404,pazienti,,환자들,patient,noun,R4,Y
+2405,pensate,,생각하다(2인칭 복수),think,verb,R4,N
+2406,peter,,피터(이름),Peter,propn,R4,N
+2407,piattaforma,,플랫폼,platform,noun,R4,Y
+2408,prendo,,가지다(1인칭),take,verb,R4,Y
+2409,probabile,,있음직한,likely,adj,R4,N
+2410,proposto,,제안된,proposed,adj,R4,N
+2411,prossimi,,다음의(복수),next,adj,R4,N
+2412,quota,,몫,quota,noun,R4,N
+2413,recenti,,최근의(복수),recent,adj,R4,N
+2414,registrazione,,녹음,recording,noun,R4,N
+2415,regolare,,규칙적인,regular,adj,R4,N
+2416,roberto,,로베르토(이름),Roberto,propn,R4,N
+2417,romana,,로마의(여성형),Roman,adj,R4,N
+2418,sapeva,,알고 있었다(3인칭 반과거),know,verb,R4,N
+2419,seriamente,,진지하게,seriously,adv,R4,N
+2420,superare,,넘다,overcome,verb,R4,N
+2421,televisione,,텔레비전,television,noun,R4,Y
+2422,totalmente,,완전히,totally,adv,R4,N
+2423,varietà,,다양성,variety,noun,R4,N
+2424,viaggi,,여행들,trip,noun,R4,Y
+2425,afferma,,주장하다(3인칭),state,verb,R4,N
+2426,alberi,,나무들,tree,noun,R4,Y
+2427,argento,,은,silver,noun,R4,Y
+2428,batteria,,배터리,battery,noun,R4,Y
+2429,birra,,맥주,beer,noun,R4,Y
+2430,chiamano,,부르다(3인칭 복수),call,verb,R4,N
+2431,chiusa,,닫힌(여성형),closed,adj,R4,Y
+2432,componenti,,구성 요소들,component,noun,R4,N
+2433,crimine,,범죄,crime,noun,R4,N
+2434,cristiani,,기독교인들,Christian,noun,R4,N
+2435,dimenticare,,잊다,forget,verb,R4,N
+2436,diventando,,되면서,become,verb,R4,N
+2437,edifici,,건물들,building,noun,R4,Y
+2438,elettrica,,전기의(여성형),electric,adj,R4,Y
+2439,evoluzione,,진화,evolution,noun,R4,N
+2440,fantastico,,환상적인,fantastic,adj,R4,N
+2441,giocato,,놀았다(giocare 과거분사),play,verb,R4,N
+2442,giuro,,맹세하다(1인칭),swear,verb,R4,N
+2443,incontrare,,만나다,meet,verb,R4,Y
+2444,indica,,가리키다(3인칭),indicate,verb,R4,N
+2445,legati,,묶인,tied,adj,R4,N
+2446,liceo,,고등학교,high school,noun,R4,Y
+2447,logica,,논리,logic,noun,R4,N
+2448,matteo,,마테오(이름),Matteo,propn,R4,N
+2449,offrire,,제공하다,offer,verb,R4,Y
+2450,opposizione,,반대,opposition,noun,R4,N
+2451,patria,,조국,homeland,noun,R4,N
+2452,proteggere,,보호하다,protect,verb,R4,Y
+2453,ricchi,,부자들,rich,adj,R4,Y
+2454,rifiuti,,쓰레기,garbage,noun,R4,Y
+2455,ripresa,,재개,recovery,noun,R4,N
+2456,scientifica,,과학의,scientific,adj,R4,N
+2457,scritti,,쓰인 글,writings,noun,R4,N
+2458,stavano,,~하고 있었다(stare 3인칭 복수),stay,verb,R4,N
+2459,stretto,,좁은,narrow,adj,R4,Y
+2460,svolta,,전환점,turning point,noun,R4,N
+2461,torre,,탑,tower,noun,R4,Y
+2462,vice,,부(副)~,deputy,noun,R4,N
+2463,andati,,간(andare 과거분사 복수),gone,verb,R4,N
+2464,capi,,우두머리들,boss,noun,R4,N
+2465,cerchi,,원들,circle,noun,R4,Y
+2466,citato,,인용된,quoted,adj,R4,N
+2467,cominciare,,시작하다,begin,verb,R4,N
+2468,comprato,,산(comprare 과거분사),bought,verb,R4,N
+2469,comprende,,포함하다(3인칭),include,verb,R4,N
+2470,conclusione,,결론,conclusion,noun,R4,N
+2471,correre,,달리다,run,verb,R4,Y
+2472,decide,,결정하다(3인칭),decide,verb,R4,N
+2473,denuncia,,고발,report,noun,R4,N
+2474,differenze,,차이들,difference,noun,R4,N
+2475,dovete,,~해야 한다(2인칭 복수),must,verb,R4,N
+2476,dovranno,,~해야 할 것이다(3인칭 복수),must,verb,R4,N
+2477,esercizio,,연습,exercise,noun,R4,Y
+2478,esterno,,바깥의,outside,adj,R4,Y
+2479,falso,,가짜의,fake,adj,R4,N
+2480,farla,,그것을 하다,do it,verb,R4,N
+2481,indagini,,수사,investigation,noun,R4,N
+2482,industria,,산업,industry,noun,R4,Y
+2483,inglesi,,영국인들,english,noun,R4,N
+2484,interessanti,,흥미로운,interesting,adj,R4,N
+2485,interventi,,개입,intervention,noun,R4,N
+2486,lasciando,,남기면서,leaving,verb,R4,N
+2487,località,,장소,locality,noun,R4,N
+2488,lorenzo,,로렌초(이름),Lorenzo,propn,R4,N
+2489,lunghi,,긴,long,adj,R4,Y
+2490,manco,,~조차 아닌,not even,adv,R4,N
+2491,merita,,가치가 있다(3인칭),deserve,verb,R4,N
+2492,muore,,죽다(3인칭),die,verb,R4,N
+2493,neppure,,~도 아닌,not even,adv,R4,N
+2494,noti,,알려진,known,adj,R4,N
+2495,parma,,파르마(도시),Parma,propn,R4,N
+2496,pioggia,,비,rain,noun,R4,Y
+2497,portano,,가져가다(3인칭 복수),carry,verb,R4,Y
+2498,prendendo,,잡으면서,taking,verb,R4,N
+2499,presi,,잡은(prendere 과거분사 복수),taken,verb,R4,N
+2500,razza,,품종,breed,noun,R4,N
