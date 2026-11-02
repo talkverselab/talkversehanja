@@ -1,0 +1,51 @@
+rank,word,reading,ko,en,desc
+1,baguette,바게트,바게트,baguette,길고 가는 황금빛 막대 빵. 겉에 사선 칼집이 나 있고 종이 띠로 반쯤 감싸 있다.
+2,croissant,크루아상,크루아상,croissant,결이 겹겹이 보이는 반달 모양의 버터 빵. 윤기 나는 황금 갈색으로 흰 접시에 놓인다.
+3,pain au chocolat,뺑 오 쇼콜라,팽 오 쇼콜라,chocolate croissant,네모난 페이스트리 양 끝으로 초콜릿 막대 두 줄이 비친다. 겉은 결이 살아 있는 갈색.
+4,crêpe,크레프,크레프,crepe,아주 얇게 부친 연한 갈색 팬케이크를 삼각형으로 접고 위에 설탕과 레몬 조각을 곁들인다.
+5,galette,갈레트,메밀 갈레트,buckwheat galette,짙은 갈색 메밀 전병의 가장자리를 네모나게 접고 가운데 햄·치즈·달걀노른자를 올린다.
+6,quiche lorraine,끼슈 로렌,키슈 로렌,quiche,둥근 파이 틀에 노란 달걀 크림과 베이컨 조각을 채워 구운 파이. 한 조각이 잘려 있다.
+7,croque-monsieur,크로끄 므시외,크로크무슈,ham and cheese toast,식빵 사이에 햄을 넣고 위에 녹은 치즈를 덮어 노릇하게 구운 샌드위치. 접시에 반으로 잘라 놓는다.
+8,croque-madame,크로끄 마담,크로크마담,croque madame,크로크무슈 위에 반숙 달걀 프라이를 하나 얹은 샌드위치. 노른자가 가운데 동그랗게 보인다.
+9,soupe à l'oignon,수프 아 로뇽,양파 수프,onion soup,갈색 양파 국물을 둥근 도기 그릇에 담고 위를 빵 한 조각과 녹아 그을린 치즈가 덮는다.
+10,bouillabaisse,부야베스,부야베스,fish stew,주황빛 생선 국물에 생선 토막·홍합·새우가 담긴 넓은 그릇. 옆에 마늘 소스를 바른 빵 조각.
+11,ratatouille,라따뚜이,라타투이,vegetable stew,가지·애호박·토마토·피망을 큼직하게 썰어 뭉근히 끓인 붉은 채소 스튜. 허브 잎을 올린다.
+12,bœuf bourguignon,뵈프 부르기뇽,뵈프 부르기뇽,beef stew in red wine,적포도주 소스로 진한 갈색이 된 소고기 덩어리에 양송이·작은 양파·당근이 섞인 무쇠 냄비 요리.
+13,coq au vin,꼭 오 뱅,코코뱅,chicken in red wine,짙은 적갈색 소스에 졸인 닭다리와 양송이·베이컨 조각을 접시에 담고 파슬리를 뿌린다.
+14,steak frites,스떼끄 프리뜨,스테이크 프리트,steak and fries,구운 소고기 스테이크 옆에 가늘고 노란 감자튀김을 수북이 담고 버터 한 조각을 얹는다.
+15,moules-frites,물 프리뜨,홍합 감자튀김,mussels and fries,검은 껍데기 홍합이 가득한 냄비와 원뿔 종이에 담긴 감자튀김을 나란히 놓는다.
+16,confit de canard,꽁피 드 까나르,오리 콩피,duck confit,껍질이 바삭하게 갈색으로 구워진 오리 다리 한 개를 노릇한 감자 조각 위에 올린다.
+17,cassoulet,까술레,카술레,bean and meat casserole,흰 강낭콩과 소시지·오리고기를 넣고 겉을 갈색으로 구운 깊은 도기 냄비 요리.
+18,blanquette de veau,블랑께뜨 드 보,송아지 크림 스튜,veal stew in cream sauce,하얀 크림 소스에 송아지 고기 조각·양송이·당근을 넣은 스튜. 흰밥 옆에 담는다.
+19,pot-au-feu,뽀또푀,포토푀,boiled beef and vegetables,맑은 국물에 큰 소고기 덩어리와 당근·대파·순무를 통째로 넣어 삶은 냄비 요리.
+20,hachis parmentier,아쉬 빠르망띠에,아시 파르망티에,shepherd's pie,다진 고기를 깔고 위를 으깬 감자로 덮어 노릇하게 구운 사각 그라탱 그릇.
+21,gratin dauphinois,그라땅 도피누아,감자 그라탱,potato gratin,얇게 썬 감자를 크림에 겹쳐 구워 위가 금갈색으로 부푼 타원형 그라탱 그릇.
+22,salade niçoise,살라드 니수아즈,니스식 샐러드,niçoise salad,상추 위에 참치·삶은 달걀 반쪽·토마토·검은 올리브·껍질콩을 둘러 담은 샐러드.
+23,escargots,에스까르고,에스카르고,snails,초록 파슬리 버터가 채워진 달팽이 껍데기 여섯 개를 홈이 파인 둥근 접시에 담는다.
+24,foie gras,푸아 그라,푸아그라,foie gras,연한 분홍빛 간 파테 한 조각을 구운 빵과 무화과 잼 옆에 놓는다.
+25,pâté,빠떼,파테,pâté,갈색 고기 파테를 두툼하게 썰어 바게트 조각·작은 피클과 나무 도마에 올린다.
+26,saucisson,소시송,소시송,dry sausage,흰 가루가 앉은 마른 소시지를 동그랗게 썰어 나무 도마 위에 칼과 함께 둔다.
+27,jambon-beurre,장봉 뵈르,햄 버터 샌드위치,ham and butter sandwich,반으로 가른 바게트 안에 버터를 바르고 분홍빛 햄을 끼운 샌드위치. 종이에 싸여 있다.
+28,camembert,까망베르,카망베르,camembert,흰 껍질의 둥근 치즈를 나무 상자 위에 두고 한 조각을 잘라 크림색 속이 보이게 한다.
+29,brie,브리,브리 치즈,brie,흰 껍질의 넓은 원형 치즈에서 쐐기 모양 한 조각을 잘라 크림색 단면이 보이게 둔다.
+30,plateau de fromages,쁠라또 드 프로마주,치즈 플래터,cheese board,나무판 위에 흰 껍질·노란·푸른 곰팡이 치즈 여러 조각과 포도·호두를 곁들인다.
+31,raclette,라끌레뜨,라클렛,raclette,녹아 흐르는 노란 치즈를 삶은 작은 감자 위에 긁어 얹고 피클과 햄을 곁들인다.
+32,tartiflette,따르띠플레뜨,타르티플레트,potato and cheese bake,감자·베이컨·양파 위에 치즈를 통째로 올려 녹여 구운 둥근 그라탱 그릇.
+33,macaron,마까롱,마카롱,macaron,분홍·연두·노랑·하늘색 작은 마카롱들을 나란히 쌓아 둔다. 가운데 크림 층이 보인다.
+34,éclair,에끌레르,에클레어,éclair,길쭉한 슈 위에 반짝이는 초콜릿 아이싱을 입힌 과자. 흰 접시에 하나.
+35,crème brûlée,크렘 브륄레,크렘 브륄레,crème brûlée,얕은 흰 도기 그릇의 노란 커스터드 위를 그을린 갈색 설탕 막이 덮고 있다. 숟가락이 놓여 있다.
+36,mousse au chocolat,무스 오 쇼꼴라,초콜릿 무스,chocolate mousse,작은 유리컵에 담긴 짙은 갈색 초콜릿 무스 위에 초콜릿 가루를 뿌린다.
+37,tarte tatin,따르뜨 따땡,타르트 타탱,upside-down apple tart,캐러멜로 윤기 나는 사과 조각이 빽빽이 덮인 둥근 타르트. 옆에 크림 한 스푼.
+38,tarte aux fraises,따르뜨 오 프레즈,딸기 타르트,strawberry tart,바삭한 타르트 위에 크림을 깔고 빨간 딸기를 촘촘히 올린 둥근 과자.
+39,profiteroles,프로피뜨롤,프로피테롤,profiteroles,작은 슈 세 개에 바닐라 아이스크림을 채우고 위로 따뜻한 초콜릿 소스를 붓는다.
+40,mille-feuille,밀푀유,밀푀유,mille-feuille,얇은 페이스트리와 노란 크림을 세 겹 쌓고 위에 흰 설탕 아이싱과 갈색 줄무늬를 그린 네모 과자.
+41,madeleine,마들렌,마들렌,madeleine,조개 모양의 작은 황금빛 구움 과자 몇 개를 접시에 놓는다. 등 쪽이 볼록하다.
+42,financier,피낭시에,피낭시에,almond cake,금괴 모양의 작은 갈색 아몬드 케이크 몇 개를 나란히 둔다.
+43,canelé,까늘레,카늘레,canelé,홈이 파인 원통 모양의 짙은 갈색 과자. 겉은 캐러멜처럼 반짝인다.
+44,chouquette,슈께뜨,슈케트,sugar puff,작은 동그란 슈 위에 굵은 흰 설탕 알갱이를 뿌린 과자 여러 개를 종이봉투 옆에 둔다.
+45,paris-brest,빠리 브레스트,파리브레스트,paris-brest,바퀴 모양의 슈 사이에 연갈색 프랄린 크림을 짜 넣고 위에 아몬드 조각을 뿌린다.
+46,café au lait,까페 올레,카페오레,coffee with milk,큰 하얀 사발 모양 잔에 연한 갈색 우유 커피가 담기고 옆에 크루아상 하나.
+47,chocolat chaud,쇼꼴라 쇼,핫초코,hot chocolate,짙은 갈색 핫초코가 담긴 잔 위에 흰 휘핑크림을 얹는다.
+48,omelette,오믈레뜨,오믈렛,omelette,반달 모양으로 접힌 노란 오믈렛에 허브를 뿌리고 작은 샐러드를 곁들인다.
+49,œufs mayonnaise,외 마요네즈,달걀 마요네즈,eggs with mayonnaise,삶은 달걀 반쪽 네 개 위에 노란 마요네즈를 듬뿍 얹고 상추 잎에 담는다.
+50,tarte flambée,따르뜨 플랑베,타르트 플랑베,flatbread with cream and bacon,얇은 네모 반죽 위에 흰 크림·양파·베이컨을 펴 얹고 가장자리를 그을리게 구운 나무판 요리.
