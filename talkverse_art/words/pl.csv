@@ -1,0 +1,2406 @@
+rank,word,reading,ko,en,pos,level,picturable
+1,nie,,아니/~않다,not,part,R1,N
+2,to,,이것/그것,this,pron,R1,N
+3,się,,스스로(재귀),self,pron,R1,N
+4,w,,~안에/~에,in,prep,R1,N
+5,na,,~위에/~에,on,prep,R1,N
+6,i,,그리고,and,conj,R1,N
+7,że,,~라는 것/~라고,that,conj,R1,N
+8,z,,~와 함께/~에서,with,prep,R1,N
+9,co,,무엇,what,pron,R1,N
+10,jest,,~이다/있다,be,verb,R1,N
+11,do,,~로/~까지,to,prep,R1,N
+12,tak,,그렇게/네,yes,adv,R1,N
+13,o,,~에 대해,about,prep,R1,N
+14,jak,,어떻게/~처럼,how,adv,R1,N
+15,ale,,하지만,but,conj,R1,N
+16,a,,그런데/그리고,and,conj,R1,N
+17,mnie,,나를/나에게,I,pron,R1,N
+18,mi,,나에게,I,pron,R1,N
+19,za,,~뒤에/~대가로,for,prep,R1,N
+20,ja,,나,I,pron,R1,N
+21,tym,,이것(조격/처격),this,pron,R1,N
+22,tego,,이것의/이것을,this,pron,R1,N
+23,go,,그를/그것을,he,pron,R1,N
+24,ci,,너에게,you,pron,R1,N
+25,po,,~후에/~뒤에,after,prep,R1,N
+26,tylko,,오직/~만,only,adv,R1,N
+27,czy,,~인지/~니,whether,conj,R1,N
+28,tu,,여기,here,adv,R1,N
+29,może,,아마/~일 수 있다,maybe,adv,R1,N
+30,jestem,,(나는) ~이다,be,verb,R1,N
+31,ma,,(그는) 가지고 있다,have,verb,R1,N
+32,ty,,너,you,pron,R1,N
+33,cię,,너를,you,pron,R1,N
+34,mam,,(나는) 가지고 있다,have,verb,R1,N
+35,jesteś,,(너는) ~이다,be,verb,R1,N
+36,już,,이미/벌써,already,adv,R1,N
+37,jeśli,,만약 ~라면,if,conj,R1,N
+38,dla,,~을 위해,for,prep,R1,N
+39,wiem,,(나는) 안다,know,verb,R1,N
+40,coś,,무언가,something,pron,R1,N
+41,dobrze,,잘/좋게,well,adv,R1,N
+42,więc,,그래서,so,conj,R1,N
+43,od,,~부터,from,prep,R1,N
+44,teraz,,지금,now,adv,R1,N
+45,pan,,(남자분) 선생님,mister,noun,R1,N
+46,wszystko,,모든 것,everything,pron,R1,N
+47,być,,~이다/있다,be,verb,R1,N
+48,będzie,,~일 것이다,be,verb,R1,N
+49,masz,,(너는) 가지고 있다,have,verb,R1,N
+50,nic,,아무것도,nothing,pron,R1,N
+51,tam,,저기,there,adv,R1,N
+52,mogę,,(나는) ~할 수 있다,can,verb,R1,N
+53,proszę,,부탁해요/여기요,please,intj,R1,N
+54,jej,,그녀의/그녀에게,she,pron,R1,N
+55,są,,(그들은) ~이다,be,verb,R1,N
+56,gdzie,,어디,where,adv,R1,N
+57,kiedy,,언제,when,adv,R1,N
+58,ten,,이(것),this,pron,R1,N
+59,on,,그,he,pron,R1,N
+60,ciebie,,너를,you,pron,R1,N
+61,by,,~일 텐데(조건),would,part,R1,N
+62,sobie,,자신에게,self,pron,R1,N
+63,ze,,~와 함께/~에서,with,prep,R1,N
+64,był,,(그는) ~였다,be,verb,R1,N
+65,wiesz,,(너는) 안다,know,verb,R1,N
+66,bardzo,,매우,very,adv,R1,N
+67,było,,~였다,be,verb,R1,N
+68,przez,,~을 통해/~때문에,through,prep,R1,N
+69,jego,,그의/그를,he,pron,R1,N
+70,ją,,그녀를,she,pron,R1,N
+71,chcę,,(나는) 원한다,want,verb,R1,N
+72,dlaczego,,왜,why,adv,R1,N
+73,pani,,(여자분) 부인,lady,noun,R1,Y
+74,jeszcze,,아직/더,still,adv,R1,N
+75,mój,,나의,my,pron,R1,N
+76,nas,,우리를,we,pron,R1,N
+77,żeby,,~하기 위해,so that,conj,R1,N
+78,no,,음/그래,well,intj,R1,N
+79,bo,,왜냐하면,because,conj,R1,N
+80,chcesz,,(너는) 원한다,want,verb,R1,N
+81,ich,,그들의/그들을,they,pron,R1,N
+82,też,,또한,also,adv,R1,N
+83,tutaj,,여기에,here,adv,R1,N
+84,naprawdę,,정말로,really,adv,R1,N
+85,nigdy,,결코 ~않다,never,adv,R1,N
+86,mamy,,(우리는) 가지고 있다,have,verb,R1,N
+87,kto,,누구,who,pron,R1,N
+88,możesz,,(너는) ~할 수 있다,can,verb,R1,N
+89,dobra,,좋은/좋아,good,adj,R1,N
+90,przepraszam,,죄송합니다,sorry,intj,R1,N
+91,mu,,그에게,he,pron,R1,N
+92,gdy,,~할 때,when,conj,R1,N
+93,muszę,,(나는) ~해야 한다,must,verb,R1,N
+94,porządku,,질서/정돈(괜찮아),order,noun,R1,N
+95,dziękuję,,감사합니다,thanks,intj,R1,N
+96,nawet,,심지어,even,adv,R1,N
+97,chyba,,아마도,probably,adv,R1,N
+98,domu,,집의/집에서,house,noun,R1,Y
+99,ona,,그녀,she,pron,R1,N
+100,prawda,,진실/맞아,truth,noun,R1,N
+101,zrobić,,하다/만들다,do,verb,R1,N
+102,była,,(그녀는) ~였다,be,verb,R1,N
+103,właśnie,,바로/방금,exactly,adv,R1,N
+104,będę,,(나는) ~일 것이다,be,verb,R1,N
+105,zawsze,,항상,always,adv,R1,N
+106,hej,,안녕/야,hey,intj,R1,N
+107,nim,,그에게(조격)/~전에,he,pron,R1,N
+108,nam,,우리에게,we,pron,R1,N
+109,te,,이것들,these,pron,R1,N
+110,moja,,나의,my,pron,R1,N
+111,musisz,,(너는) ~해야 한다,must,verb,R1,N
+112,je,,그것들을,they,pron,R1,N
+113,dzięki,,고마워/덕분에,thanks,intj,R1,N
+114,bez,,~없이,without,prep,R1,N
+115,tej,,이(것)의,this,pron,R1,N
+116,trochę,,조금,a bit,adv,R1,N
+117,ktoś,,누군가,someone,pron,R1,N
+118,panie,,선생님(호칭),mister,noun,R1,N
+119,jesteśmy,,(우리는) ~이다,be,verb,R1,N
+120,moje,,나의,my,pron,R1,N
+121,powiedzieć,,말하다,say,verb,R1,N
+122,który,,~인(관계사)/어느,which,pron,R1,N
+123,czas,,시간,time,noun,R1,N
+124,więcej,,더 많이,more,adv,R1,N
+125,twój,,너의,your,pron,R1,N
+126,musimy,,(우리는) ~해야 한다,must,verb,R1,N
+127,lat,,년/살(복수속격),year,noun,R1,N
+128,ta,,이(것),this,pron,R1,N
+129,chce,,(그는) 원한다,want,verb,R1,N
+130,możemy,,(우리는) ~할 수 있다,can,verb,R1,N
+131,wszyscy,,모두,everyone,pron,R1,N
+132,tobą,,너와(조격),you,pron,R1,N
+133,albo,,또는,or,conj,R1,N
+134,prostu,,단순히,simply,adv,R1,N
+135,chodzi,,걷다/~에 관한 것이다,walk,verb,R1,Y
+136,razem,,함께,together,adv,R1,N
+137,stało,,일어났다,happen,verb,R1,N
+138,cześć,,안녕,hello,intj,R1,N
+139,mną,,나와(조격),I,pron,R1,N
+140,czego,,무엇을/무엇의,what,pron,R1,N
+141,sam,,혼자/스스로,alone,adj,R1,N
+142,myślę,,(나는) 생각한다,think,verb,R1,N
+143,pana,,선생님을/선생님의,mister,noun,R1,N
+144,przed,,~앞에/~전에,before,prep,R1,N
+145,boże,,맙소사(신이여),god,noun,R1,N
+146,raz,,한 번,once,noun,R1,N
+147,czemu,,왜,why,adv,R1,N
+148,będziesz,,(너는) ~일 것이다,be,verb,R1,N
+149,niż,,~보다,than,conj,R1,N
+150,ludzie,,사람들,people,noun,R1,Y
+151,dalej,,계속/더 멀리,further,adv,R1,N
+152,czym,,무엇으로/무엇에,what,pron,R1,N
+153,was,,너희를,you,pron,R1,N
+154,dobry,,좋은,good,adj,R1,N
+155,przy,,~옆에/~곁에,at,prep,R1,N
+156,ludzi,,사람들을,people,noun,R1,Y
+157,dzień,,낮/날,day,noun,R1,Y
+158,życie,,삶/생명,life,noun,R1,N
+159,lepiej,,더 잘/더 낫게,better,adv,R1,N
+160,miał,,(그는) 가졌다,have,verb,R1,N
+161,rzeczy,,물건들/것들,thing,noun,R1,N
+162,twoja,,너의,your,pron,R1,N
+163,czasu,,시간의,time,noun,R1,N
+164,ok,,좋아/오케이,ok,intj,R1,N
+165,temu,,~전에/이것에게,ago,adv,R1,N
+166,robisz,,(너는) 한다,do,verb,R1,N
+167,myślisz,,(너는) 생각한다,think,verb,R1,N
+168,kim,,누구(조격/처격),who,pron,R1,N
+169,niech,,~하게 하라,let,part,R1,N
+170,które,,~인(관계사)/어느,which,pron,R1,N
+171,oczywiście,,물론,of course,adv,R1,N
+172,siebie,,자신을,self,pron,R1,N
+173,niego,,그(전치사 뒤),he,pron,R1,N
+174,cóż,,글쎄/무엇,well,intj,R1,N
+175,powiedział,,(그가) 말했다,say,verb,R1,N
+176,u,,~의 집에/~곁에,at,prep,R1,N
+177,daj,,줘라,give,verb,R1,Y
+178,moim,,나의(조격/처격),my,pron,R1,N
+179,chodź,,와라,come,verb,R1,Y
+180,musi,,(그는) ~해야 한다,must,verb,R1,N
+181,my,,우리,we,pron,R1,N
+182,nikt,,아무도 ~않다,nobody,pron,R1,N
+183,twoje,,너의,your,pron,R1,N
+184,tych,,이것들의,these,pron,R1,N
+185,pod,,~아래에,under,prep,R1,N
+186,dlatego,,그래서/그 때문에,therefore,adv,R1,N
+187,pewnie,,아마/확실히,surely,adv,R1,N
+188,powiedz,,말해라,say,verb,R1,N
+189,aby,,~하기 위해,so that,conj,R1,N
+190,wtedy,,그때,then,adv,R1,N
+191,wygląda,,~처럼 보인다,look,verb,R1,N
+192,jeden,,하나/한,one,num,R1,N
+193,mojego,,나의,my,pron,R1,N
+194,im,,그들에게,they,pron,R1,N
+195,mówi,,(그는) 말한다,speak,verb,R1,N
+196,dziś,,오늘,today,adv,R1,N
+197,taki,,그런,such,adj,R1,N
+198,mieć,,가지다,have,verb,R1,N
+199,jako,,~로서,as,conj,R1,N
+200,dwa,,둘,two,num,R1,N
+201,potem,,그 다음에,then,adv,R1,N
+202,wie,,(그는) 안다,know,verb,R1,N
+203,takie,,그런,such,adj,R1,N
+204,nią,,그녀와(조격),she,pron,R1,N
+205,wszystkie,,모든,all,pron,R1,N
+206,znaczy,,의미한다,mean,verb,R1,N
+207,rozumiem,,(나는) 이해한다,understand,verb,R1,N
+208,dzieje,,일어난다,happen,verb,R1,N
+209,moją,,나의,my,pron,R1,N
+210,będziemy,,(우리는) ~일 것이다,be,verb,R1,N
+211,wiele,,많은,many,adv,R1,N
+212,stąd,,여기서부터,from here,adv,R1,N
+213,oni,,그들,they,pron,R1,N
+214,mojej,,나의,my,pron,R1,N
+215,miejsce,,장소/자리,place,noun,R1,N
+216,iść,,가다,go,verb,R1,Y
+217,kilka,,몇몇,some,num,R1,N
+218,pomóc,,돕다,help,verb,R1,Y
+219,dużo,,많이,a lot,adv,R1,N
+220,ile,,얼마나,how much,adv,R1,N
+221,jasne,,분명한/밝은,clear,adj,R1,N
+222,byłem,,(나는) ~였다,be,verb,R1,N
+223,swoje,,자신의,own,pron,R1,N
+224,myśli,,생각(들),thought,noun,R1,N
+225,cały,,전체의,whole,adj,R1,N
+226,skąd,,어디서부터,from where,adv,R1,N
+227,wiedzieć,,알다,know,verb,R1,N
+228,dzieci,,아이들,child,noun,R1,Y
+229,nich,,그들(전치사 뒤),they,pron,R1,N
+230,która,,~인(관계사)/어느,which,pron,R1,N
+231,wam,,너희에게,you,pron,R1,N
+232,przykro,,유감인/미안한,sorry,adj,R1,N
+233,można,,~할 수 있다,can,verb,R1,N
+234,jakieś,,어떤,some,pron,R1,N
+235,tę,,이(것)을,this,pron,R1,N
+236,wszystkich,,모든 이의,all,pron,R1,N
+237,nad,,~위에(떠서),above,prep,R1,N
+238,jakiś,,어떤,some,pron,R1,N
+239,sposób,,방법,way,noun,R1,N
+240,trzeba,,~해야 한다,need,verb,R1,N
+241,mają,,(그들은) 가지고 있다,have,verb,R1,N
+242,niej,,그녀(전치사 뒤),she,pron,R1,N
+243,pracy,,일/직장의,work,noun,R1,N
+244,kogoś,,누군가를,someone,pron,R1,N
+245,tyle,,그만큼,so much,adv,R1,N
+246,robić,,하다,do,verb,R1,N
+247,bardziej,,더욱,more,adv,R1,N
+248,mówisz,,(너는) 말한다,speak,verb,R1,N
+249,zanim,,~하기 전에,before,conj,R1,N
+250,zbyt,,너무,too,adv,R1,N
+251,szybko,,빨리,fast,adv,R1,Y
+252,dzisiaj,,오늘,today,adv,R1,N
+253,tobie,,너에게,you,pron,R1,N
+254,takiego,,그런,such,adj,R1,N
+255,świetnie,,훌륭하게,great,adv,R1,N
+256,zobaczyć,,보다,see,verb,R1,Y
+257,zaraz,,곧,soon,adv,R1,N
+258,pewno,,확실히,surely,adv,R1,N
+259,miałem,,(나는) 가졌다,have,verb,R1,N
+260,kocham,,(나는) 사랑한다,love,verb,R1,N
+261,mówię,,(나는) 말한다,speak,verb,R1,N
+262,nadal,,여전히,still,adv,R1,N
+263,jaki,,어떤,which,pron,R1,N
+264,rację,,옳음/맞음,right,noun,R1,N
+265,kochanie,,자기야/사랑,darling,noun,R1,N
+266,myślałem,,(나는) 생각했다,think,verb,R1,N
+267,trzy,,셋,three,num,R1,N
+268,ojciec,,아버지,father,noun,R1,Y
+269,ani,,~도 아니다,nor,conj,R1,N
+270,robi,,(그는) 한다,do,verb,R1,N
+271,stanie,,상태/설 수 있다,state,noun,R1,N
+272,tą,,이(것)을,this,pron,R1,N
+273,później,,나중에,later,adv,R1,N
+274,ponieważ,,왜냐하면,because,conj,R1,N
+275,idź,,가라,go,verb,R1,Y
+276,życia,,삶의,life,noun,R1,N
+277,twoim,,너의,your,pron,R1,N
+278,przestań,,그만해라,stop,verb,R1,N
+279,sie,,(se의 오타) 스스로,self,pron,R1,N
+280,swoją,,자신의,own,pron,R1,N
+281,chciałem,,(나는) 원했다,want,verb,R1,N
+282,długo,,오래,long,adv,R1,N
+283,mamo,,엄마(호칭),mother,noun,R1,Y
+284,kiedyś,,언젠가,someday,adv,R1,N
+285,cholera,,젠장,damn,intj,R1,N
+286,wciąż,,여전히,still,adv,R1,N
+287,nadzieję,,희망을,hope,noun,R1,N
+288,aż,,~까지,until,conj,R1,N
+289,będą,,(그들은) ~일 것이다,be,verb,R1,N
+290,jutro,,내일,tomorrow,adv,R1,N
+291,każdy,,각각의/모든 사람,every,pron,R1,N
+292,dni,,날들,day,noun,R1,N
+293,problem,,문제,problem,noun,R1,N
+294,widzę,,(나는) 본다,see,verb,R1,Y
+295,mógł,,(그는) ~할 수 있었다,can,verb,R1,N
+296,stary,,늙은/오래된,old,adj,R1,Y
+297,taka,,그런,such,adj,R1,N
+298,żebyś,,네가 ~하도록,so that,conj,R1,N
+299,widzisz,,(너는) 본다,see,verb,R1,Y
+300,twojej,,너의,your,pron,R1,N
+301,tato,,아빠(호칭),father,noun,R1,Y
+302,potrzebuję,,(나는) 필요하다,need,verb,R1,N
+303,znowu,,다시,again,adv,R1,N
+304,kurwa,,젠장(욕설),damn,intj,R1,N
+305,dziecko,,아이,child,noun,R1,Y
+306,nocy,,밤의,night,noun,R1,Y
+307,znaleźć,,찾다,find,verb,R1,Y
+308,sama,,혼자(여성),alone,adj,R1,N
+309,dokładnie,,정확히,exactly,adv,R1,N
+310,dnia,,날의,day,noun,R1,Y
+311,oh,,오,oh,intj,R1,N
+312,pierwszy,,첫 번째,first,num,R1,N
+313,czuję,,(나는) 느낀다,feel,verb,R1,N
+314,pieniądze,,돈,money,noun,R1,Y
+315,powiem,,(나는) 말할 것이다,say,verb,R1,N
+316,zrobił,,(그가) 했다,do,verb,R1,N
+317,nami,,우리와(조격),we,pron,R1,N
+318,miała,,(그녀는) 가졌다,have,verb,R1,N
+319,twoją,,너의,your,pron,R1,N
+320,gdyby,,만약 ~라면,if,conj,R1,N
+321,nasz,,우리의,our,pron,R1,N
+322,nasze,,우리의,our,pron,R1,N
+323,razie,,경우/당분간,case,noun,R1,N
+324,samo,,스스로/같은,same,adj,R1,N
+325,były,,~였다(복수),be,verb,R1,N
+326,dobre,,좋은,good,adj,R1,N
+327,słuchaj,,들어라,listen,verb,R1,Y
+328,koniec,,끝,end,noun,R1,N
+329,chciał,,(그가) 원했다,want,verb,R1,N
+330,widziałem,,(나는) 보았다,see,verb,R1,Y
+331,jakie,,어떤,which,pron,R1,N
+332,wszystkim,,모두에게,all,pron,R1,N
+333,znam,,(나는) 알고 있다,know,verb,R1,N
+334,wcześniej,,전에/일찍,earlier,adv,R1,N
+335,spokój,,평화/고요,peace,noun,R1,N
+336,chwilę,,잠깐을,moment,noun,R1,N
+337,mama,,엄마,mother,noun,R1,Y
+338,sobą,,자기 자신과,self,pron,R1,N
+339,zostać,,남다/되다,stay,verb,R1,N
+340,został,,(그가) 남았다/되었다,stay,verb,R1,N
+341,wy,,너희,you,pron,R1,N
+342,czegoś,,무언가의,something,pron,R1,N
+343,żyje,,(그는) 산다,live,verb,R1,N
+344,mówić,,말하다,speak,verb,R1,Y
+345,bym,,~할 텐데(조건),would,part,R1,N
+346,którzy,,~인 사람들,which,pron,R1,N
+347,porozmawiać,,이야기하다,talk,verb,R1,Y
+348,spójrz,,봐라,look,verb,R1,Y
+349,roku,,해의,year,noun,R1,N
+350,mogą,,(그들은) ~할 수 있다,can,verb,R1,N
+351,chciałbym,,~하고 싶다,would like,verb,R1,N
+352,zabić,,죽이다,kill,verb,R1,N
+353,poza,,~밖에/~외에,outside,prep,R1,N
+354,dom,,집,house,noun,R1,Y
+355,we,,~안에,in,prep,R1,N
+356,imię,,이름,name,noun,R1,N
+357,twojego,,너의,your,pron,R1,N
+358,lub,,또는,or,conj,R1,N
+359,och,,오,oh,intj,R1,N
+360,miło,,기분 좋게,nice,adv,R1,N
+361,którą,,~인(관계사),which,pron,R1,N
+362,kogo,,누구를,who,pron,R1,N
+363,sir,,선생님,sir,noun,R1,N
+364,minut,,분(복수속격),minute,noun,R1,N
+365,jakby,,마치 ~처럼,as if,conj,R1,N
+366,prawie,,거의,almost,adv,R1,N
+367,drzwi,,문,door,noun,R1,Y
+368,byłam,,"(나는, 여) ~였다",be,verb,R1,N
+369,jesteście,,(너희는) ~이다,be,verb,R1,N
+370,posłuchaj,,들어봐라,listen,verb,R1,Y
+371,powiedziałem,,(나는) 말했다,say,verb,R1,N
+372,powodu,,이유의,reason,noun,R1,N
+373,powinniśmy,,(우리는) ~해야 한다,should,verb,R1,N
+374,gdzieś,,어딘가,somewhere,adv,R1,N
+375,końcu,,끝에,end,noun,R1,N
+376,lubię,,(나는) 좋아한다,like,verb,R1,N
+377,mów,,말해라,speak,verb,R1,N
+378,sprawy,,일들/사건,matter,noun,R1,N
+379,czekaj,,기다려라,wait,verb,R1,Y
+380,pomysł,,아이디어,idea,noun,R1,N
+381,zrobię,,(나는) 할 것이다,do,verb,R1,N
+382,wiemy,,(우리는) 안다,know,verb,R1,N
+383,wydaje,,~처럼 보인다,seem,verb,R1,N
+384,byłeś,,(너는) ~였다,be,verb,R1,N
+385,razy,,번/배,time,noun,R1,N
+386,moich,,나의,my,pron,R1,N
+387,człowiek,,사람,man,noun,R1,Y
+388,jednak,,그러나,however,adv,R1,N
+389,innego,,다른,other,adj,R1,N
+390,dość,,충분히,enough,adv,R1,N
+391,pomocy,,도움의,help,noun,R1,N
+392,przecież,,어쨌든/그야,after all,adv,R1,N
+393,panu,,선생님에게,mister,noun,R1,N
+394,broń,,무기,weapon,noun,R1,Y
+395,żadnych,,아무런,no,pron,R1,N
+396,noc,,밤,night,noun,R1,Y
+397,macie,,(너희는) 가지고 있다,have,verb,R1,N
+398,ciągle,,계속,constantly,adv,R1,N
+399,c,,(알파벳) c,c,noun,R1,N
+400,żebym,,내가 ~하도록,so that,conj,R1,N
+401,źle,,나쁘게,badly,adv,R1,N
+402,powiedziała,,(그녀가) 말했다,say,verb,R1,N
+403,facet,,남자/녀석,guy,noun,R1,Y
+404,mówiłem,,(나는) 말했었다,speak,verb,R1,N
+405,którego,,~인(관계사),which,pron,R1,N
+406,podoba,,마음에 든다,like,verb,R1,N
+407,miejscu,,장소에,place,noun,R1,N
+408,jeżeli,,만약 ~라면,if,conj,R1,N
+409,skoro,,~이니까,since,conj,R1,N
+410,ego,,자아,ego,noun,R1,N
+411,ojca,,아버지의,father,noun,R1,Y
+412,powinieneś,,(너는) ~해야 한다,should,verb,R1,N
+413,lata,,해들/여름,year,noun,R1,N
+414,sprawa,,일/사건,matter,noun,R1,N
+415,niczego,,아무것도,nothing,pron,R1,N
+416,takim,,그런,such,adj,R1,N
+417,pamiętasz,,(너는) 기억한다,remember,verb,R1,N
+418,sądzę,,(나는) 생각하다,think,verb,R1,N
+419,właściwie,,사실/원래,actually,adv,R1,N
+420,dwie,,둘 (여성),two,num,R1,N
+421,pokoju,,방의/평화의,room,noun,R1,Y
+422,którym,,어떤 (것)에서,which,pron,R1,N
+423,myślałam,,(나는) 생각했다 (여),think,verb,R1,N
+424,jedno,,하나 (중성),one,num,R1,N
+425,idziemy,,(우리는) 간다,go,verb,R1,Y
+426,również,,또한,also,adv,R1,N
+427,bądź,,~이어라/혹은,be,verb,R1,N
+428,znasz,,(너는) 안다,know,verb,R1,N
+429,swój,,자신의,own,pron,R1,N
+430,swojego,,자신의,own,pron,R1,N
+431,byś,,(네가) ~할 텐데,be,part,R1,N
+432,chodźmy,,가자,go,verb,R1,N
+433,nowy,,새로운,new,adj,R1,Y
+434,chciałam,,(나는) 원했다 (여),want,verb,R1,N
+435,pewien,,어떤/확신하는,certain,adj,R1,N
+436,wczoraj,,어제,yesterday,adv,R1,N
+437,jedną,,하나를 (여성),one,num,R1,N
+438,musiał,,(그는) ~해야 했다,must,verb,R1,N
+439,której,,어떤 (여성) 의,which,pron,R1,N
+440,idę,,(나는) 간다,go,verb,R1,Y
+441,poważnie,,진지하게,seriously,adv,R1,N
+442,swoim,,자신의,own,pron,R1,N
+443,życiu,,삶에서,life,noun,R1,N
+444,rozumiesz,,(너는) 이해한다,understand,verb,R1,N
+445,których,,어떤 것들의,which,pron,R1,N
+446,podczas,,~동안,during,prep,R1,N
+447,miałam,,(나는) 가졌다 (여),have,verb,R1,N
+448,oczy,,눈 (복수),eye,noun,R1,Y
+449,rano,,아침에,morning,adv,R1,Y
+450,sprawę,,일/사건을,matter,noun,R1,N
+451,wystarczy,,충분하다,enough,verb,R1,N
+452,spokojnie,,조용히/침착하게,calmly,adv,R1,N
+453,całą,,전체의 (여성),whole,adj,R1,N
+454,telefon,,전화/휴대폰,phone,noun,R1,Y
+455,rzecz,,것/물건,thing,noun,R1,N
+456,matka,,어머니,mother,noun,R1,Y
+457,samochód,,자동차,car,noun,R1,Y
+458,świat,,세계,world,noun,R1,Y
+459,nimi,,그들과,they,pron,R1,N
+460,dwóch,,두 명의,two,num,R1,N
+461,pracę,,일/직장을,work,noun,R1,N
+462,dać,,주다,give,verb,R1,Y
+463,byli,,(그들은) ~였다,be,verb,R1,N
+464,powinienem,,(나는) ~해야 한다,should,verb,R1,N
+465,weź,,가져라/받아라,take,verb,R1,Y
+466,jedna,,하나 (여성),one,num,R1,N
+467,zamknij,,닫아라/닥쳐라,close,verb,R1,Y
+468,the,,(영어) 그,the,part,R1,N
+469,mały,,작은,small,adj,R1,Y
+470,da,,(그는) 줄 것이다,give,verb,R1,Y
+471,pozwól,,허락해라,allow,verb,R1,N
+472,całe,,전체의,whole,adj,R1,N
+473,wina,,잘못/죄,fault,noun,R1,N
+474,wiedziałem,,(나는) 알았다,know,verb,R1,N
+475,wrócić,,돌아오다,return,verb,R1,Y
+476,między,,~사이에,between,prep,R1,N
+477,chcą,,(그들은) 원한다,want,verb,R1,N
+478,idzie,,(그는) 간다,go,verb,R1,Y
+479,śmierci,,죽음의,death,noun,R1,N
+480,mówił,,(그는) 말했다,say,verb,R1,Y
+481,numer,,번호,number,noun,R1,N
+482,oto,,여기 ~이 있다,here,part,R1,N
+483,miejsca,,장소들/자리,place,noun,R1,N
+484,dopóki,,~하는 동안,while,conj,R1,N
+485,czujesz,,(너는) 느낀다,feel,verb,R1,N
+486,cokolwiek,,무엇이든,anything,pron,R1,N
+487,swojej,,자신의 (여성),own,pron,R1,N
+488,nikogo,,아무도 ~않다,nobody,pron,R1,N
+489,dam,,(나는) 줄 것이다,give,verb,R1,Y
+490,powiedziałeś,,(너는) 말했다,say,verb,R1,Y
+491,dziewczyna,,소녀/여자친구,girl,noun,R1,Y
+492,najpierw,,먼저,first,adv,R1,N
+493,pamiętam,,(나는) 기억한다,remember,verb,R1,N
+494,powiesz,,(너는) 말할 것이다,say,verb,R1,Y
+495,pytanie,,질문,question,noun,R1,N
+496,inaczej,,다르게,differently,adv,R1,N
+497,świecie,,세계에서,world,noun,R1,Y
+498,znów,,다시,again,adv,R1,N
+499,wyglądasz,,(너는) ~해 보인다,look,verb,R1,N
+500,przynajmniej,,적어도,at least,adv,R1,N
+501,widzieć,,보다,see,verb,R1,Y
+502,prawdę,,진실을,truth,noun,R1,N
+503,zrobiłem,,(나는) 했다,do,verb,R1,N
+504,śmierć,,죽음,death,noun,R1,N
+505,swoich,,자신의,own,pron,R1,N
+506,halo,,여보세요,hello,intj,R1,N
+507,gdybym,,내가 ~라면,if,conj,R1,N
+508,jednego,,하나의,one,num,R1,N
+509,pieniędzy,,돈의,money,noun,R1,Y
+510,brzmi,,~처럼 들린다,sound,verb,R1,N
+511,wierzę,,(나는) 믿는다,believe,verb,R1,N
+512,innych,,다른,other,adj,R1,N
+513,trzymaj,,잡아라/유지해라,hold,verb,R1,Y
+514,robię,,(나는) 한다,do,verb,R1,N
+515,ogóle,,전반/일반,general,noun,R1,N
+516,super,,아주 좋은,great,adj,R1,N
+517,kobiety,,여자들/여자의,woman,noun,R1,Y
+518,potrzebuje,,(그는) 필요하다,need,verb,R1,N
+519,tata,,아빠,dad,noun,R1,Y
+520,pójdę,,(나는) 갈 것이다,go,verb,R1,Y
+521,wielu,,많은,many,adj,R1,N
+522,dokąd,,어디로,where to,adv,R1,N
+523,ręce,,손/팔들,hand,noun,R1,Y
+524,zrobiłeś,,(너는) 했다,do,verb,R1,N
+525,miłość,,사랑,love,noun,R1,N
+526,całkiem,,꽤,quite,adv,R1,N
+527,naszej,,우리의 (여성),our,pron,R1,N
+528,nasza,,우리의 (여성),our,pron,R1,N
+529,możliwe,,가능한,possible,adj,R1,N
+530,gra,,게임/놀이,game,noun,R1,Y
+531,prawo,,법/권리,law,noun,R1,N
+532,inne,,다른,other,adj,R1,N
+533,każdym,,각각의,every,adj,R1,N
+534,chwili,,순간의,moment,noun,R1,N
+535,kobieta,,여자,woman,noun,R1,Y
+536,jednym,,하나의,one,num,R1,N
+537,zrób,,해라,do,verb,R1,N
+538,ważne,,중요한,important,adj,R1,N
+539,wybacz,,용서해라,forgive,verb,R1,N
+540,żona,,아내,wife,noun,R1,Y
+541,chcemy,,(우리는) 원한다,want,verb,R1,N
+542,działa,,작동한다,work,verb,R1,N
+543,byłoby,,~일 것이다,be,verb,R1,N
+544,także,,또한,also,adv,R1,N
+545,słyszałem,,(나는) 들었다,hear,verb,R1,Y
+546,wiedział,,(그는) 알았다,know,verb,R1,N
+547,dziewczyny,,소녀들,girl,noun,R1,Y
+548,drogi,,비싼/소중한/길의,dear,adj,R1,N
+549,pewna,,확신하는 (여성),certain,adj,R1,N
+550,wiecie,,(너희는) 안다,know,verb,R1,N
+551,mówią,,(그들은) 말한다,say,verb,R1,Y
+552,cieszę,,(나는) 기쁘다,glad,verb,R1,N
+553,dopiero,,이제 막/겨우,only,adv,R1,N
+554,poznać,,알게 되다,meet,verb,R1,N
+555,serce,,심장/마음,heart,noun,R1,Y
+556,inny,,다른,other,adj,R1,N
+557,witam,,환영합니다/안녕하세요,welcome,intj,R1,N
+558,pojęcia,,개념/생각,idea,noun,R1,N
+559,parę,,몇 개/한 쌍,few,num,R1,N
+560,przeciwko,,~에 반대하여,against,prep,R1,N
+561,udało,,성공했다,succeed,verb,R1,N
+562,powinien,,(그는) ~해야 한다,should,verb,R1,N
+563,została,,(그녀는) 남았다/되었다,stay,verb,R1,N
+564,naszym,,우리의,our,pron,R1,N
+565,raczej,,오히려,rather,adv,R1,N
+566,wiadomość,,메시지/소식,message,noun,R1,Y
+567,pięć,,다섯,five,num,R1,N
+568,s,,(약어) s,s,part,R1,N
+569,każdego,,각각의,every,adj,R1,N
+570,godziny,,시간/시간의,hour,noun,R1,Y
+571,plan,,계획,plan,noun,R1,N
+572,wcale,,전혀,at all,adv,R1,N
+573,ciało,,몸,body,noun,R1,Y
+574,słowa,,단어들,word,noun,R1,N
+575,witaj,,환영해/안녕,welcome,intj,R1,N
+576,naszego,,우리의,our,pron,R1,N
+577,mogła,,(그녀는) ~할 수 있었다,can,verb,R1,N
+578,czasie,,시간에,time,noun,R1,N
+579,dostać,,받다,get,verb,R1,N
+580,nowego,,새로운,new,adj,R1,Y
+581,czymś,,무언가로,something,pron,R1,N
+582,stać,,서다,stand,verb,R1,Y
+583,oznacza,,의미한다,mean,verb,R1,N
+584,jaką,,어떤 (여성),which,pron,R1,N
+585,naszych,,우리의,our,pron,R1,N
+586,patrz,,봐라,look,verb,R1,Y
+587,czyli,,즉,that is,conj,R1,N
+588,twoich,,너의,your,pron,R1,N
+589,człowieka,,사람의/사람을,person,noun,R1,Y
+590,czasem,,때때로,sometimes,adv,R1,N
+591,dziwne,,이상한,strange,adj,R1,N
+592,żyć,,살다,live,verb,R1,N
+593,zostaw,,놔둬라,leave,verb,R1,N
+594,zabrać,,가져가다,take,verb,R1,N
+595,żadnego,,어떤 ~도 아닌,no,pron,R1,N
+596,cholery,,젠장 (욕),damn,noun,R1,N
+597,ostatnio,,최근에,lately,adv,R1,N
+598,rodziny,,가족의,family,noun,R1,Y
+599,ciężko,,힘들게/무겁게,hard,adv,R1,N
+600,martw,,걱정해라,worry,verb,R1,N
+601,miałeś,,(너는) 가졌다,have,verb,R1,N
+602,rozmawiać,,대화하다,talk,verb,R1,Y
+603,rób,,해라,do,verb,R1,N
+604,ziemi,,땅의/지구의,earth,noun,R1,Y
+605,nazywa,,부른다,call,verb,R1,N
+606,panowie,,신사 여러분,gentleman,noun,R1,Y
+607,bóg,,신,god,noun,R1,N
+608,widziałam,,(나는) 보았다 (여),see,verb,R1,Y
+609,szczęście,,행복/행운,happiness,noun,R1,N
+610,syn,,아들,son,noun,R1,Y
+611,takich,,그런,such,adj,R1,N
+612,sprawie,,일에/사건에,matter,noun,R1,N
+613,zabił,,(그는) 죽였다,kill,verb,R1,N
+614,powrotem,,돌아옴,back,noun,R1,N
+615,możecie,,(너희는) 할 수 있다,can,verb,R1,N
+616,godzin,,시간들,hour,noun,R1,Y
+617,potrzebujemy,,(우리는) 필요하다,need,verb,R1,N
+618,diabła,,악마의,devil,noun,R1,N
+619,panią,,부인을,lady,noun,R1,Y
+620,powinnaś,,(너는) ~해야 한다 (여),should,verb,R1,N
+621,ostatni,,마지막의,last,adj,R1,N
+622,zrobimy,,(우리는) 할 것이다,do,verb,R1,N
+623,mąż,,남편,husband,noun,R1,Y
+624,wyjść,,나가다,go out,verb,R1,Y
+625,krwi,,피의,blood,noun,R1,Y
+626,szkoły,,학교의,school,noun,R1,Y
+627,nieźle,,나쁘지 않게,not bad,adv,R1,N
+628,syna,,아들의,son,noun,R1,Y
+629,natychmiast,,즉시,immediately,adv,R1,N
+630,słucham,,(나는) 듣는다,listen,verb,R1,Y
+631,mieliśmy,,(우리는) 가졌다,have,verb,R1,N
+632,taką,,그런 (여성),such,adj,R1,N
+633,wszystkiego,,모든 것의,everything,pron,R1,N
+634,widziałeś,,(너는) 보았다,see,verb,R1,Y
+635,serio,,진지하게,seriously,adv,R1,N
+636,policja,,경찰,police,noun,R1,Y
+637,chciała,,(그녀는) 원했다,want,verb,R1,N
+638,zrobisz,,(너는) 할 것이다,do,verb,R1,N
+639,byliśmy,,(우리는) ~였다,be,verb,R1,N
+640,radę,,조언을,advice,noun,R1,N
+641,zgadza,,동의한다/맞다,agree,verb,R1,N
+642,one,,그것들/그녀들,they,pron,R1,N
+643,czasami,,때때로,sometimes,adv,R1,N
+644,końca,,끝의,end,noun,R1,N
+645,idziesz,,(너는) 간다,go,verb,R1,Y
+646,zostanie,,남을 것이다,stay,verb,R1,N
+647,powinnam,,(나는) ~해야 한다 (여),should,verb,R1,N
+648,byłaś,,(너는) ~였다 (여),be,verb,R1,N
+649,mogłem,,(나는) ~할 수 있었다,can,verb,R1,N
+650,drodze,,길에서,road,noun,R1,Y
+651,mieli,,(그들은) 가졌다,have,verb,R1,N
+652,najbardziej,,가장,most,adv,R1,N
+653,pomoc,,도움,help,noun,R1,N
+654,jaka,,어떤 (여성),which,pron,R1,N
+655,cztery,,넷,four,num,R1,N
+657,strony,,쪽/면,side,noun,R1,N
+658,część,,부분,part,noun,R1,N
+659,należy,,~해야 한다/속한다,belong,verb,R1,N
+661,kimś,,누군가와,someone,pron,R1,N
+662,głowy,,머리의,head,noun,R1,Y
+663,brat,,형제,brother,noun,R1,Y
+664,zobaczenia,,다시 만나요,see you,intj,R1,N
+665,blisko,,가까이,close,adv,R1,N
+666,zaczekaj,,기다려라,wait,verb,R2,N
+667,powiedziałam,,(나는) 말했다 (여),say,verb,R2,Y
+668,uwierzyć,,믿다,believe,verb,R2,N
+669,skarbie,,자기야/보물아,darling,noun,R2,N
+670,zły,,나쁜/화난,bad,adj,R2,Y
+671,naszą,,우리의 (여성),our,pron,R2,N
+672,wieczór,,저녁,evening,noun,R2,Y
+673,dolarów,,달러,dollar,noun,R2,Y
+674,twarz,,얼굴,face,noun,R2,Y
+675,zostało,,남았다,remain,verb,R2,N
+676,świata,,세계의,world,noun,R2,Y
+677,cała,,전체의 (여성),whole,adj,R2,N
+678,potrzebujesz,,(너는) 필요하다,need,verb,R2,N
+679,środku,,가운데에,middle,noun,R2,N
+680,pokój,,방/평화,room,noun,R2,Y
+681,innym,,다른,other,adj,R2,N
+682,obchodzi,,상관하다/기념하다,care,verb,R2,N
+683,spotkanie,,만남/회의,meeting,noun,R2,Y
+684,chcecie,,(너희는) 원한다,want,verb,R2,N
+685,gotowy,,준비된,ready,adj,R2,N
+686,doktorze,,의사 선생님,doctor,noun,R2,Y
+687,temat,,주제,topic,noun,R2,N
+688,wielki,,큰,big,adj,R2,Y
+689,uważaj,,조심해라,careful,verb,R2,N
+690,daleko,,멀리,far,adv,R2,N
+691,pół,,반,half,num,R2,N
+692,ode,,~로부터,from,prep,R2,N
+693,uda,,성공한다/허벅지들,succeed,verb,R2,N
+694,dr,,박사 (약어),doctor,noun,R2,N
+695,chociaż,,비록 ~이지만,although,conj,R2,N
+696,kiedykolwiek,,언제든지,ever,adv,R2,N
+697,rok,,해/년,year,noun,R2,N
+698,lecz,,그러나,but,conj,R2,N
+699,miasta,,도시의,city,noun,R2,Y
+700,d,,(약어) d,d,part,R2,N
+701,poczekaj,,기다려라,wait,verb,R2,N
+702,robota,,일/작업,work,noun,R2,N
+703,racja,,옳음/이유,right,noun,R2,N
+704,człowiekiem,,사람과,person,noun,R2,Y
+705,wieczorem,,저녁에,evening,adv,R2,Y
+706,zależy,,달려 있다,depend,verb,R2,N
+707,dobranoc,,잘 자요,good night,intj,R2,N
+708,późno,,늦게,late,adv,R2,N
+709,chciałabym,,(나는) ~하고 싶다 (여),want,verb,R2,N
+710,mógłbym,,(나는) ~할 수 있을 텐데,can,verb,R2,N
+711,krew,,피,blood,noun,R2,Y
+712,gdybyś,,네가 ~라면,if,conj,R2,N
+713,wziąć,,가지다/받다,take,verb,R2,Y
+714,lubi,,(그는) 좋아한다,like,verb,R2,N
+715,słowo,,단어,word,noun,R2,N
+716,powinno,,~해야 한다 (중성),should,verb,R2,N
+717,zewnątrz,,바깥,outside,adv,R2,N
+718,nowe,,새로운,new,adj,R2,Y
+719,rodzina,,가족,family,noun,R2,Y
+720,wspaniale,,훌륭하게,wonderful,adv,R2,N
+721,mówiąc,,말하면서,say,verb,R2,N
+722,stronie,,쪽에/면에,side,noun,R2,N
+723,miesięcy,,달들,month,noun,R2,N
+724,głowę,,머리를,head,noun,R2,Y
+725,robimy,,(우리는) 한다,do,verb,R2,N
+726,znalazłem,,(나는) 찾았다,find,verb,R2,Y
+727,lubisz,,(너는) 좋아한다,like,verb,R2,N
+728,mniej,,더 적게,less,adv,R2,N
+729,wrócę,,(나는) 돌아올 것이다,return,verb,R2,Y
+730,wejść,,들어가다,enter,verb,R2,Y
+731,wypadek,,사고,accident,noun,R2,Y
+732,pierwsze,,첫 번째의,first,adj,R2,N
+733,szybciej,,더 빨리,faster,adv,R2,Y
+734,tydzień,,주 (일주일),week,noun,R2,N
+735,chłopaki,,녀석들/소년들,boy,noun,R2,Y
+736,nieważne,,상관없다,never mind,adj,R2,N
+737,pójść,,가다,go,verb,R2,Y
+738,praca,,일/직장,work,noun,R2,N
+739,czeka,,기다린다,wait,verb,R2,N
+740,zobaczymy,,(우리는) 볼 것이다,see,verb,R2,N
+741,taa,,응 (구어),yeah,intj,R2,N
+742,szansę,,기회를,chance,noun,R2,N
+743,wiedziałam,,(나는) 알았다 (여),know,verb,R2,N
+744,widział,,(그는) 보았다,see,verb,R2,Y
+745,wody,,물의,water,noun,R2,Y
+746,dawaj,,줘라/어서,give,verb,R2,N
+747,zna,,(그는) 안다,know,verb,R2,N
+748,mała,,작은 (여성),small,adj,R2,Y
+750,zrobi,,(그는) 할 것이다,do,verb,R2,N
+751,pracować,,일하다,work,verb,R2,Y
+752,moi,,나의 (복수),my,pron,R2,N
+753,serca,,심장의,heart,noun,R2,Y
+754,jakoś,,어떻게든,somehow,adv,R2,N
+755,złe,,나쁜,bad,adj,R2,N
+756,chwila,,순간,moment,noun,R2,N
+757,prawa,,법들/오른쪽의,law,noun,R2,N
+758,sądzisz,,(너는) 생각한다,think,verb,R2,N
+759,według,,~에 따르면,according to,prep,R2,N
+760,spotkać,,만나다,meet,verb,R2,N
+761,kapitanie,,선장님,captain,noun,R2,Y
+762,zupełnie,,완전히,completely,adv,R2,N
+763,sprawdzić,,확인하다,check,verb,R2,N
+764,mogli,,(그들은) ~할 수 있었다,can,verb,R2,N
+765,ojcem,,아버지와,father,noun,R2,Y
+766,you,,(영어) 너,you,pron,R2,N
+767,boga,,신의,god,noun,R2,N
+768,okej,,좋아,okay,intj,R2,N
+769,wspólnego,,공통의,common,adj,R2,N
+770,mówiłeś,,(너는) 말했다,say,verb,R2,Y
+771,mieście,,도시에서,city,noun,R2,Y
+772,robią,,(그들은) 한다,do,verb,R2,N
+773,chłopak,,소년/남자친구,boy,noun,R2,Y
+774,jechać,,가다/타고 가다,ride,verb,R2,Y
+775,prawdopodobnie,,아마도,probably,adv,R2,N
+776,doktor,,의사,doctor,noun,R2,Y
+777,spać,,자다,sleep,verb,R2,Y
+778,pracuje,,(그는) 일한다,work,verb,R2,Y
+779,zdjęcia,,사진들,photo,noun,R2,Y
+780,wasza,,너희의 (여성),your,pron,R2,N
+781,uwagę,,주의를,attention,noun,R2,N
+782,myśleć,,생각하다,think,verb,R2,N
+783,mówiłam,,(나는) 말했다 (여),say,verb,R2,Y
+784,znać,,알다,know,verb,R2,N
+785,t,,(약어) t,t,part,R2,N
+786,ciała,,몸의,body,noun,R2,Y
+787,mógłbyś,,(너는) ~할 수 있을 텐데,can,verb,R2,N
+788,problemy,,문제들,problem,noun,R2,N
+789,okay,,좋아,okay,intj,R2,N
+790,film,,영화,movie,noun,R2,Y
+791,gotowa,,준비된 (여성),ready,adj,R2,N
+792,tymi,,이것들과,this,pron,R2,N
+793,zdjęcie,,사진,photo,noun,R2,Y
+794,pogadać,,수다 떨다,chat,verb,R2,Y
+795,brak,,부족,lack,noun,R2,N
+796,powiedziałaś,,(너는) 말했다 (여),say,verb,R2,Y
+797,wiedzą,,(그들은) 안다,know,verb,R2,N
+798,dał,,(그는) 주었다,give,verb,R2,Y
+799,małe,,작은,small,adj,R2,Y
+800,pomoże,,(그는) 도울 것이다,help,verb,R2,N
+801,ponad,,~이상/위에,over,prep,R2,N
+802,mało,,조금/적게,little,adv,R2,N
+803,kilku,,몇몇의,several,num,R2,N
+804,koleś,,녀석/친구,guy,noun,R2,Y
+805,wkrótce,,곧,soon,adv,R2,N
+806,rękę,,손을,hand,noun,R2,Y
+807,razu,,번/회,time,noun,R2,N
+808,mógłby,,(그는) ~할 수 있을 텐데,can,verb,R2,N
+809,ostatnie,,마지막의,last,adj,R2,N
+810,miasto,,도시,city,noun,R2,Y
+811,zrobiła,,(그녀는) 했다,do,verb,R2,N
+812,przyjaciół,,친구들의,friend,noun,R2,Y
+813,stronę,,쪽을/페이지를,side,noun,R2,N
+814,góry,,산/산의,mountain,noun,R2,Y
+815,nazwisko,,성/이름,surname,noun,R2,N
+816,wami,,너희와,you,pron,R2,N
+817,pa,,안녕 (헤어질 때),bye,intj,R2,N
+818,całym,,전체의,whole,adj,R2,N
+819,drogę,,길을,road,noun,R2,Y
+820,wystarczająco,,충분히,enough,adv,R2,N
+821,zatrzymać,,멈추다/보관하다,stop,verb,R2,Y
+822,droga,,길/비싼,road,noun,R2,Y
+823,niemożliwe,,불가능한,impossible,adj,R2,N
+824,jakąś,,어떤 (여성),some,pron,R2,N
+826,odejść,,떠나다,leave,verb,R2,Y
+827,broni,,무기의,weapon,noun,R2,Y
+828,zmienić,,바꾸다,change,verb,R2,N
+829,wszędzie,,어디에나,everywhere,adv,R2,N
+830,prosto,,똑바로,straight,adv,R2,N
+831,rodzice,,부모님,parents,noun,R2,Y
+832,początku,,처음의,beginning,noun,R2,N
+833,policji,,경찰의,police,noun,R2,Y
+834,nagle,,갑자기,suddenly,adv,R2,N
+835,drugi,,두 번째의/다른,second,adj,R2,N
+836,brata,,형제를/형제의,brother,noun,R2,Y
+837,przyjaciel,,친구,friend,noun,R2,Y
+838,wielkie,,큰,big,adj,R2,Y
+839,człowieku,,사람아/사람에게,man,noun,R2,Y
+840,choć,,비록 ~이지만,although,conj,R2,N
+841,samego,,바로 그/혼자,self,adj,R2,N
+842,muszą,,(그들은) ~해야 한다,must,verb,R2,N
+843,często,,자주,often,adv,R2,N
+844,dziecka,,아이의/아이를,child,noun,R2,Y
+845,pomóż,,도와줘,help,verb,R2,N
+846,dobrym,,좋은,good,adj,R2,N
+847,kłopoty,,문제/곤란,trouble,noun,R2,N
+848,nazywam,,(나는) ~라고 부른다,call,verb,R2,N
+849,większość,,대부분,majority,noun,R2,N
+850,zacząć,,시작하다,begin,verb,R2,N
+851,roboty,,로봇/일,robot,noun,R2,Y
+852,zaczyna,,(그는) 시작한다,begin,verb,R2,N
+853,żaden,,아무~도 없는,none,pron,R2,N
+854,pozwolić,,허락하다,allow,verb,R2,N
+855,matki,,어머니의/어머니를,mother,noun,R2,Y
+856,miłości,,사랑의/사랑에,love,noun,R2,N
+857,trudno,,어렵게/힘들게,hard,adv,R2,N
+858,błąd,,실수/오류,mistake,noun,R2,N
+859,drugiej,,두 번째의/다른,second,adj,R2,N
+860,głowie,,머리에,head,noun,R2,Y
+861,dziewczynę,,소녀를,girl,noun,R2,Y
+862,pokaż,,보여줘,show,verb,R2,Y
+863,córka,,딸,daughter,noun,R2,Y
+864,godzinę,,한 시간/시를,hour,noun,R2,Y
+866,żadnej,,아무~도 없는,none,pron,R2,N
+867,jedynie,,오직,only,adv,R2,N
+868,szkole,,학교에,school,noun,R2,Y
+869,pierwsza,,첫 번째의,first,adj,R2,N
+870,musiałem,,(나는) ~해야 했다,must,verb,R2,N
+871,wracaj,,돌아와,return,verb,R2,N
+872,szkoda,,유감/아깝다,pity,noun,R2,N
+874,siostra,,누나/자매,sister,noun,R2,Y
+875,zapomnij,,잊어버려,forget,verb,R2,N
+876,pomyślałem,,(나는) 생각했다,think,verb,R2,N
+877,słyszysz,,(너는) 듣는다,hear,verb,R2,N
+878,ponownie,,다시,again,adv,R2,N
+879,przyszedł,,(그가) 왔다,come,verb,R2,Y
+880,całkowicie,,완전히,completely,adv,R2,N
+882,zamiast,,~대신에,instead,prep,R2,N
+883,trzymać,,잡다/들고 있다,hold,verb,R2,Y
+884,musicie,,(너희는) ~해야 한다,must,verb,R2,N
+885,czuje,,(그는) 느낀다,feel,verb,R2,N
+886,gówno,,똥,shit,noun,R2,Y
+887,trzech,,세 명의,three,num,R2,N
+888,rady,,조언/회의,advice,noun,R2,N
+889,dowiedzieć,,알게 되다,find out,verb,R2,N
+890,jakaś,,어떤,some,pron,R2,N
+891,obiecuję,,(나는) 약속한다,promise,verb,R2,N
+892,osób,,사람들의,person,noun,R2,Y
+893,niestety,,안타깝게도,unfortunately,adv,R2,N
+894,zadzwonić,,전화하다,call,verb,R2,Y
+895,samochodu,,자동차의,car,noun,R2,Y
+896,czekać,,기다리다,wait,verb,R2,Y
+897,zatem,,그러므로,therefore,conj,R2,N
+898,jakim,,어떤,which,pron,R2,N
+899,miało,,~하기로 되어 있었다,have,verb,R2,N
+900,piękna,,아름다운,beautiful,adj,R2,N
+901,oraz,,그리고,and,conj,R2,N
+902,zostań,,머물러,stay,verb,R2,N
+903,rany,,상처/세상에,wound,noun,R2,Y
+904,jedziemy,,(우리는) 간다,go,verb,R2,Y
+905,dasz,,(너는) 줄 것이다,give,verb,R2,Y
+906,kraju,,나라의/나라에,country,noun,R2,N
+907,zrobiłam,,(나는) 했다,do,verb,R2,N
+908,zostawić,,남겨두다,leave,verb,R2,N
+909,historia,,이야기/역사,story,noun,R2,N
+910,mimo,,~에도 불구하고,despite,prep,R2,N
+911,zobacz,,봐,see,verb,R2,Y
+912,głupi,,바보 같은,stupid,adj,R2,N
+913,nowym,,새로운,new,adj,R2,N
+914,faceta,,녀석을/남자를,guy,noun,R2,Y
+915,dawno,,오래전에,long ago,adv,R2,N
+916,pokazać,,보여주다,show,verb,R2,Y
+917,widzenia,,보기/만남(do widzenia 안녕),sight,noun,R2,N
+918,rodzinę,,가족을,family,noun,R2,Y
+919,obok,,옆에,beside,prep,R2,N
+920,jednej,,하나의,one,num,R2,N
+921,powie,,(그는) 말할 것이다,say,verb,R2,N
+922,sami,,스스로/혼자,alone,adj,R2,N
+923,przykład,,예,example,noun,R2,N
+924,tygodniu,,주에,week,noun,R2,N
+925,chciałeś,,(너는) 원했다,want,verb,R2,N
+926,dłużej,,더 오래,longer,adv,R2,N
+927,ruszaj,,움직여,move,verb,R2,Y
+928,oboje,,둘 다,both,num,R2,N
+929,dół,,아래/구덩이,down,noun,R2,N
+930,najlepszy,,최고의,best,adj,R2,N
+931,wróci,,(그는) 돌아올 것이다,return,verb,R2,N
+932,odkąd,,~한 이후로,since,conj,R2,N
+933,musiała,,(그녀는) ~해야 했다,must,verb,R2,N
+934,zabawne,,웃긴,funny,adj,R2,N
+935,górę,,산/위를,mountain,noun,R2,Y
+937,łatwo,,쉽게,easily,adv,R2,N
+938,uważam,,(나는) 생각한다,consider,verb,R2,N
+939,będziecie,,(너희는) ~일 것이다,be,verb,R2,N
+940,wieku,,나이의/세기의,age,noun,R2,N
+941,mówiła,,(그녀는) 말했다,speak,verb,R2,Y
+943,synu,,아들아,son,noun,R2,Y
+944,chłopcy,,소년들,boy,noun,R2,Y
+945,złego,,나쁜,bad,adj,R2,N
+946,niczym,,아무것도 아닌/~처럼,nothing,pron,R2,N
+947,męża,,남편의/남편을,husband,noun,R2,Y
+948,sporo,,꽤 많이,a lot,adv,R2,N
+949,popatrz,,봐봐,look,verb,R2,Y
+950,inni,,다른 사람들,other,pron,R2,N
+951,szefie,,사장님,boss,noun,R2,Y
+952,środka,,가운데의,middle,noun,R2,N
+953,znaleźliśmy,,(우리는) 찾았다,find,verb,R2,N
+954,samym,,바로 그/자신의,self,adj,R2,N
+955,pewnego,,어떤/확실한,certain,adj,R2,N
+956,pracuję,,(나는) 일한다,work,verb,R2,Y
+957,panno,,아가씨,miss,noun,R2,Y
+958,zajmę,,(나는) 맡을 것이다,take care,verb,R2,N
+959,zamierzam,,(나는) ~할 작정이다,intend,verb,R2,N
+960,istnieje,,존재한다,exist,verb,R2,N
+961,uważasz,,(너는) 생각한다,consider,verb,R2,N
+962,okazji,,기회/경우,occasion,noun,R2,N
+963,moment,,순간,moment,noun,R2,N
+964,takiej,,그런,such,adj,R2,N
+965,spróbuj,,시도해봐,try,verb,R2,N
+966,znajdziemy,,(우리는) 찾을 것이다,find,verb,R2,N
+967,osobą,,사람(과),person,noun,R2,Y
+968,nikomu,,아무에게도,nobody,pron,R2,N
+969,kupić,,사다,buy,verb,R2,Y
+970,sześć,,여섯,six,num,R2,N
+971,gość,,손님,guest,noun,R2,Y
+972,niby,,~인 척/마치,supposedly,adv,R2,N
+973,spróbować,,시도하다,try,verb,R2,N
+974,póki,,~하는 동안,while,conj,R2,N
+975,cicho,,조용히,quiet,adv,R2,Y
+976,zła,,나쁜/화난,bad,adj,R2,N
+977,jakiegoś,,어떤,some,pron,R2,N
+978,uh,,어(감탄사),uh,intj,R2,N
+979,wezmę,,(나는) 가져갈 것이다,take,verb,R2,N
+980,walczyć,,싸우다,fight,verb,R2,Y
+981,wiadomości,,소식/메시지,news,noun,R2,N
+982,prawdziwe,,진짜의,real,adj,R2,N
+983,niedługo,,곧,soon,adv,R2,N
+984,ciągu,,~동안,course,noun,R2,N
+985,żonę,,아내를,wife,noun,R2,Y
+988,boję,,(나는) 무서워한다,fear,verb,R2,N
+989,strasznie,,무섭게/몹시,terribly,adv,R2,N
+990,wasze,,너희의,your,pron,R2,N
+991,historii,,이야기의/역사의,story,noun,R2,N
+992,dziewczyną,,소녀(와),girl,noun,R2,Y
+993,powinna,,(그녀는) ~해야 한다,should,verb,R2,N
+994,nowa,,새로운,new,adj,R2,N
+995,wrócił,,(그가) 돌아왔다,return,verb,R2,N
+996,mężczyzna,,남자,man,noun,R2,Y
+997,gotowi,,준비된,ready,adj,R2,N
+998,głos,,목소리,voice,noun,R2,N
+999,około,,약/~쯤,about,prep,R2,N
+1000,boli,,아프다,hurt,verb,R2,Y
+1001,zwykle,,보통,usually,adv,R2,N
+1002,następnym,,다음의,next,adj,R2,N
+1003,powodzenia,,행운을 빌어,good luck,noun,R2,N
+1004,słyszałeś,,(너는) 들었다,hear,verb,R2,N
+1005,widać,,보인다,visible,verb,R2,N
+1006,bracie,,형제여,brother,noun,R2,Y
+1007,kocha,,(그는) 사랑한다,love,verb,R2,N
+1008,pewnością,,확실함,certainty,noun,R2,N
+1009,leci,,(그는) 날아간다,fly,verb,R2,Y
+1010,znajdę,,(나는) 찾을 것이다,find,verb,R2,N
+1011,zająć,,차지하다/돌보다,occupy,verb,R2,N
+1012,zadzwonię,,(나는) 전화할 것이다,call,verb,R2,Y
+1013,szczerze,,솔직히,honestly,adv,R2,N
+1014,dzieckiem,,아이(와),child,noun,R2,Y
+1015,najlepsze,,최고의,best,adj,R2,N
+1016,przyjdzie,,(그가) 올 것이다,come,verb,R2,N
+1017,próbuję,,(나는) 시도한다,try,verb,R2,N
+1018,panem,,신사/씨(와),mister,noun,R2,Y
+1019,szpitala,,병원의,hospital,noun,R2,Y
+1020,tędy,,이쪽으로,this way,adv,R2,N
+1021,daje,,(그는) 준다,give,verb,R2,Y
+1022,słyszałam,,(나는) 들었다,hear,verb,R2,N
+1023,myśl,,생각,thought,noun,R2,N
+1024,statek,,배,ship,noun,R2,Y
+1025,miałaś,,(너는) 가졌다,have,verb,R2,N
+1026,najlepiej,,가장 잘,best,adv,R2,N
+1027,ludźmi,,사람들(과),people,noun,R2,Y
+1028,wracam,,(나는) 돌아간다,return,verb,R2,N
+1029,pytania,,질문,question,noun,R2,N
+1030,wracać,,돌아가다,return,verb,R2,N
+1031,powód,,이유,reason,noun,R2,N
+1032,zrobiłaś,,(너는) 했다,do,verb,R2,N
+1033,kobietą,,여자(와),woman,noun,R2,Y
+1034,prawdziwy,,진짜의,real,adj,R2,N
+1035,mogłam,,(나는) ~할 수 있었다,can,verb,R2,N
+1036,seks,,성관계,sex,noun,R2,N
+1037,kolejny,,또 다른/다음의,another,adj,R2,N
+1038,pasuje,,어울린다,fit,verb,R2,N
+1039,jedzenie,,음식,food,noun,R2,Y
+1040,nienawidzę,,(나는) 싫어한다,hate,verb,R2,N
+1041,przysięgam,,(나는) 맹세한다,swear,verb,R2,N
+1042,umrzeć,,죽다,die,verb,R2,N
+1043,proste,,간단한/곧은,simple,adj,R2,N
+1044,ulicy,,거리의,street,noun,R2,Y
+1045,przyjacielem,,친구(와),friend,noun,R2,Y
+1046,czyż,,~가 아닌가,surely,part,R2,N
+1047,znalazł,,(그가) 찾았다,find,verb,R2,N
+1048,nigdzie,,어디에도,nowhere,adv,R2,N
+1049,zostały,,남았다,remain,verb,R2,N
+1050,włosy,,머리카락,hair,noun,R2,Y
+1051,ojcze,,아버지,father,noun,R2,Y
+1052,same,,스스로의,self,adj,R2,N
+1053,twarzy,,얼굴의,face,noun,R2,Y
+1054,tysięcy,,천의,thousand,num,R2,N
+1055,zamiar,,의도,intention,noun,R2,N
+1056,ludziom,,사람들에게,people,noun,R2,Y
+1057,przestać,,그만두다,stop,verb,R2,N
+1058,zadzwoń,,전화해,call,verb,R2,Y
+1059,przyjaciele,,친구들,friend,noun,R2,Y
+1060,mieszka,,(그는) 산다,live,verb,R2,N
+1061,pewny,,확실한,sure,adj,R2,N
+1062,zabierz,,데려가/가져가,take,verb,R2,N
+1063,kolację,,저녁 식사를,dinner,noun,R2,Y
+1064,wieści,,소식,news,noun,R2,N
+1065,stan,,상태,state,noun,R2,N
+1066,ziemię,,땅/지구를,earth,noun,R2,Y
+1067,powstrzymać,,막다,stop,verb,R2,N
+1068,żartujesz,,(너는) 농담한다,joke,verb,R2,N
+1069,nogi,,다리,leg,noun,R2,Y
+1070,kochasz,,(너는) 사랑한다,love,verb,R2,N
+1071,grać,,놀다/연주하다,play,verb,R2,Y
+1072,sądzie,,법원에,court,noun,R2,Y
+1073,uwielbiam,,(나는) 아주 좋아한다,adore,verb,R2,N
+1074,każdej,,모든,every,pron,R2,N
+1075,osoba,,사람,person,noun,R2,Y
+1076,robił,,(그가) 했다,do,verb,R2,N
+1077,potrafię,,(나는) ~할 수 있다,be able,verb,R2,N
+1078,przyjaciółmi,,친구들(과),friend,noun,R2,Y
+1079,dobrego,,좋은,good,adj,R2,N
+1080,zrozumieć,,이해하다,understand,verb,R2,N
+1081,mogłeś,,(너는) ~할 수 있었다,can,verb,R2,N
+1082,wyboru,,선택의,choice,noun,R2,N
+1083,spokoju,,평화의/평온의,peace,noun,R2,N
+1084,piękne,,아름다운,beautiful,adj,R2,N
+1085,y,,어(감탄사),um,intj,R2,N
+1086,fajnie,,멋지게,cool,adv,R2,N
+1087,trudne,,어려운,difficult,adj,R2,N
+1088,cel,,목표,goal,noun,R2,Y
+1090,biura,,사무실의,office,noun,R2,Y
+1092,słyszę,,(나는) 듣는다,hear,verb,R2,Y
+1093,świetny,,훌륭한,great,adj,R2,N
+1094,tygodni,,주의,week,noun,R2,N
+1095,przyjść,,오다,come,verb,R2,Y
+1096,wolno,,천천히/허용되어,slowly,adv,R2,N
+1097,żony,,아내의,wife,noun,R2,Y
+1098,mocno,,세게,strongly,adv,R2,N
+1099,znaczenia,,의미의,meaning,noun,R2,N
+1100,uciec,,도망치다,escape,verb,R2,Y
+1101,tyłu,,뒤쪽의,back,noun,R2,N
+1102,żoną,,아내(와),wife,noun,R2,Y
+1103,widziałaś,,(너는) 보았다,see,verb,R2,N
+1104,and,,그리고(영어),and,conj,R2,N
+1105,informacje,,정보,information,noun,R2,N
+1106,zapytać,,묻다,ask,verb,R2,N
+1107,hey,,이봐,hey,intj,R2,N
+1108,poszedł,,(그가) 갔다,go,verb,R2,Y
+1109,osoby,,사람의,person,noun,R2,Y
+1110,młody,,젊은,young,adj,R2,Y
+1111,musieli,,(그들은) ~해야 했다,must,verb,R2,N
+1112,obawiam,,(나는) 걱정한다,fear,verb,R2,N
+1113,tacy,,그런 사람들,such,pron,R2,N
+1114,otwórz,,열어,open,verb,R2,Y
+1115,bogu,,신에게,god,noun,R2,N
+1116,gościa,,손님을,guest,noun,R2,Y
+1117,matką,,어머니(와),mother,noun,R2,Y
+1118,odpowiedź,,대답,answer,noun,R2,N
+1119,niektórzy,,어떤 사람들,some,pron,R2,N
+1120,związek,,관계,relationship,noun,R2,N
+1121,centrum,,중심,center,noun,R2,N
+1122,pierwszym,,첫 번째의,first,adj,R2,N
+1123,pytań,,질문들의,question,noun,R2,N
+1124,szukam,,(나는) 찾는다,search,verb,R2,Y
+1125,jakbym,,내가 ~인 것처럼,as if,conj,R2,N
+1126,chwileczkę,,잠깐,moment,noun,R2,N
+1127,tygodnie,,주들,week,noun,R2,N
+1128,zabiję,,(나는) 죽일 것이다,kill,verb,R2,N
+1129,samej,,혼자인,alone,adj,R2,N
+1130,wreszcie,,마침내,finally,adv,R2,N
+1131,m,,m(약어),m,part,R2,N
+1132,policję,,경찰을,police,noun,R2,Y
+1133,moglibyśmy,,(우리는) ~할 수 있을 텐데,could,verb,R2,N
+1134,chodziło,,문제였다,be about,verb,R2,N
+1135,poszło,,갔다,go,verb,R2,N
+1136,szczęśliwy,,행복한,happy,adj,R2,Y
+1137,więzienia,,감옥의,prison,noun,R2,Y
+1138,mnóstwo,,아주 많이,plenty,noun,R2,N
+1139,chodźcie,,(너희) 와라,come,verb,R2,N
+1140,wiedziała,,(그녀는) 알았다,know,verb,R2,N
+1141,pozwolę,,(나는) 허락할 것이다,allow,verb,R2,N
+1142,hotelu,,호텔의,hotel,noun,R2,Y
+1143,żebyśmy,,우리가 ~하도록,so that,conj,R2,N
+1144,stój,,멈춰/서,stop,verb,R2,Y
+1145,części,,부분,part,noun,R2,N
+1146,nieprawda,,거짓,untrue,noun,R2,N
+1147,reszta,,나머지,rest,noun,R2,N
+1148,gry,,게임,game,noun,R3,Y
+1149,uspokój,,진정해,calm,verb,R3,N
+1150,kapitan,,선장/대위,captain,noun,R3,Y
+1151,lepsze,,더 좋은,better,adj,R3,N
+1152,jedyną,,유일한,only,adj,R3,N
+1153,stoi,,서 있다,stand,verb,R3,Y
+1154,niesamowite,,놀라운,amazing,adj,R3,N
+1155,sensu,,의미의,sense,noun,R3,N
+1156,ból,,통증,pain,noun,R3,N
+1157,ślub,,결혼식,wedding,noun,R3,Y
+1158,duży,,큰,big,adj,R3,Y
+1159,wojny,,전쟁의,war,noun,R3,N
+1160,dajcie,,(너희) 줘라,give,verb,R3,Y
+1161,resztę,,나머지를,rest,noun,R3,N
+1162,związku,,관계의,relationship,noun,R3,N
+1163,przyjaciela,,친구를,friend,noun,R3,Y
+1164,dostał,,(그가) 받았다,get,verb,R3,N
+1165,uważa,,(그는) 생각한다,consider,verb,R3,N
+1166,list,,편지,letter,noun,R3,Y
+1167,wielka,,큰,big,adj,R3,Y
+1168,nową,,새로운,new,adj,R3,N
+1169,następny,,다음의,next,adj,R3,N
+1170,rodziców,,부모의,parent,noun,R3,Y
+1171,jakiego,,어떤,which,pron,R3,N
+1172,pewne,,확실한,certain,adj,R3,N
+1173,dobrą,,좋은,good,adj,R3,N
+1174,ktokolwiek,,누구든지,anyone,pron,R3,N
+1175,martwić,,걱정하다,worry,verb,R3,N
+1176,sekund,,초의,second,noun,R3,N
+1178,łóżka,,침대의,bed,noun,R3,Y
+1179,zobaczysz,,(너는) 볼 것이다,see,verb,R3,N
+1180,górze,,위에,top,noun,R3,N
+1181,przyszłość,,미래,future,noun,R3,N
+1182,szukać,,찾다,search,verb,R3,Y
+1183,ciekawe,,흥미로운,interesting,adj,R3,N
+1184,wasz,,너희의,your,pron,R3,N
+1185,szansa,,기회,chance,noun,R3,N
+1186,facetem,,녀석(과),guy,noun,R3,Y
+1187,dostałem,,(나는) 받았다,get,verb,R3,N
+1188,ach,,아,ah,intj,R3,N
+1189,cie,,너를(줄임),you,pron,R3,N
+1190,prezent,,선물,gift,noun,R3,Y
+1191,mocy,,힘의,power,noun,R3,N
+1194,walki,,싸움,fight,noun,R3,Y
+1196,częścią,,부분(으로),part,noun,R3,N
+1197,zaczął,,(그가) 시작했다,begin,verb,R3,N
+1198,dostaniesz,,(너는) 받을 것이다,get,verb,R3,N
+1199,kobietę,,여자를,woman,noun,R3,Y
+1200,mowy,,말의,speech,noun,R3,N
+1202,sytuacji,,상황의,situation,noun,R3,N
+1203,jedynym,,유일한,only,adj,R3,N
+1204,chronić,,보호하다,protect,verb,R3,N
+1207,światło,,빛,light,noun,R3,Y
+1208,zajmie,,(그가) 맡을 것이다,take care,verb,R3,N
+1209,twoi,,너의,your,pron,R3,N
+1210,los,,운명,fate,noun,R3,N
+1211,potrafi,,(그는) ~할 수 있다,be able,verb,R3,N
+1212,pomogę,,(나는) 도울 것이다,help,verb,R3,N
+1213,zobaczę,,(나는) 볼 것이다,see,verb,R3,N
+1214,szpitalu,,병원에,hospital,noun,R3,Y
+1215,własne,,자신의,own,adj,R3,N
+1216,skończy,,(그가) 끝낼 것이다,finish,verb,R3,N
+1217,wysoki,,키 큰,tall,adj,R3,Y
+1218,ofiary,,희생자,victim,noun,R3,N
+1219,morderstwo,,살인,murder,noun,R3,N
+1220,pójdzie,,(그가) 갈 것이다,go,verb,R3,N
+1221,pomiędzy,,~사이에,between,prep,R3,N
+1222,małą,,작은,small,adj,R3,Y
+1223,szef,,사장,boss,noun,R3,Y
+1224,uwaga,,주의,attention,noun,R3,N
+1225,pójdziesz,,(너는) 갈 것이다,go,verb,R3,N
+1226,dna,,바닥의,bottom,noun,R3,N
+1227,obiad,,점심/정찬,lunch,noun,R3,Y
+1229,dowód,,증거,proof,noun,R3,N
+1230,mogło,,~할 수 있었다,can,verb,R3,N
+1231,zdanie,,문장,sentence,noun,R3,N
+1232,próbował,,(그가) 시도했다,try,verb,R3,N
+1233,kobiet,,여자들의,woman,noun,R3,Y
+1234,skończyć,,끝내다,finish,verb,R3,N
+1235,coraz,,점점,increasingly,adv,R3,N
+1236,całej,,전체의,whole,adj,R3,N
+1237,chcieli,,(그들은) 원했다,want,verb,R3,N
+1238,miesiąc,,달/월,month,noun,R3,N
+1239,nieco,,약간,slightly,adv,R3,N
+1240,system,,시스템,system,noun,R3,N
+1241,ruszać,,움직이다,move,verb,R3,Y
+1242,zamierzasz,,(너는) ~할 작정이다,intend,verb,R3,N
+1243,widzi,,(그는) 본다,see,verb,R3,Y
+1244,wybór,,선택,choice,noun,R3,N
+1245,martwy,,죽은,dead,adj,R3,Y
+1246,lepszy,,더 좋은,better,adj,R3,N
+1247,jakbyś,,네가 ~인 것처럼,as if,conj,R3,N
+1248,zjeść,,먹다,eat,verb,R3,Y
+1249,znalazłam,,(나는) 찾았다,find,verb,R3,N
+1250,wokół,,주위에,around,prep,R3,N
+1251,dzieciak,,꼬마,kid,noun,R3,Y
+1252,patrzeć,,보다,look,verb,R3,Y
+1254,wspaniałe,,훌륭한,wonderful,adj,R3,N
+1255,usiądź,,앉아,sit,verb,R3,Y
+1256,wierzysz,,(너는) 믿는다,believe,verb,R3,N
+1257,historię,,역사/이야기를,story,noun,R3,N
+1258,zabije,,죽일 것이다,kill,verb,R3,N
+1259,słuchać,,듣다,listen,verb,R3,Y
+1260,jedyne,,유일한,only,adj,R3,N
+1262,siły,,힘/군대,force,noun,R3,N
+1263,próbowałem,,(나는) 시도했다,try,verb,R3,N
+1264,spoko,,괜찮은/좋아,cool,adv,R3,N
+1265,jedyny,,유일한,only,adj,R3,N
+1266,próbuje,,시도한다,try,verb,R3,N
+1267,gotowe,,준비된,ready,adj,R3,N
+1268,usłyszeć,,듣다/들리다,hear,verb,R3,N
+1269,robotę,,일/작업을,job,noun,R3,N
+1270,staram,,(나는) 노력한다,try,verb,R3,N
+1272,odpowiedzi,,대답/답변,answer,noun,R3,N
+1273,jedź,,가/운전해,go,verb,R3,Y
+1274,zatrzymaj,,멈춰/세워,stop,verb,R3,N
+1275,stara,,나이 든,old,adj,R3,Y
+1276,pamiętaj,,기억해,remember,verb,R3,N
+1277,komuś,,누군가에게,someone,pron,R3,N
+1278,jeść,,먹다,eat,verb,R3,Y
+1279,wow,,와우,wow,intj,R3,N
+1280,niezły,,꽤 괜찮은,decent,adj,R3,N
+1281,byłby,,~일 것이다,be,verb,R3,N
+1282,drugą,,두 번째의,second,adj,R3,N
+1283,pójdziemy,,(우리는) 갈 것이다,go,verb,R3,N
+1284,miły,,친절한,nice,adj,R3,N
+1285,milionów,,백만의,million,num,R3,N
+1286,miesiące,,달/개월,month,noun,R3,N
+1287,tyłek,,엉덩이,butt,noun,R3,Y
+1288,stylu,,스타일,style,noun,R3,N
+1289,zbrodni,,범죄,crime,noun,R3,N
+1290,owszem,,물론/그렇다,indeed,part,R3,N
+1291,uratować,,구하다,save,verb,R3,N
+1292,wypadku,,사고,accident,noun,R3,Y
+1293,robicie,,(너희는) 한다,do,verb,R3,N
+1294,prosić,,부탁하다,ask,verb,R3,N
+1295,duże,,큰,big,adj,R3,Y
+1296,drugie,,두 번째의,second,adj,R3,N
+1297,interes,,사업/이익,business,noun,R3,N
+1298,telefonu,,전화기,phone,noun,R3,Y
+1299,ciąży,,임신,pregnancy,noun,R3,Y
+1300,córkę,,딸을,daughter,noun,R3,Y
+1301,ostatniej,,마지막의,last,adj,R3,N
+1302,wiedziałeś,,(너는) 알았다,know,verb,R3,N
+1303,najwyraźniej,,분명히,apparently,adv,R3,N
+1304,przejść,,지나가다,pass,verb,R3,Y
+1305,ogień,,불,fire,noun,R3,Y
+1306,sen,,잠/꿈,sleep,noun,R3,Y
+1307,jadę,,(나는) 간다/운전한다,go,verb,R3,Y
+1308,pomyśl,,생각해봐,think,verb,R3,N
+1309,celu,,목적/목표,goal,noun,R3,N
+1310,więzieniu,,감옥,prison,noun,R3,Y
+1311,powiedzieli,,(그들은) 말했다,say,verb,R3,N
+1312,ależ,,하지만/아니,but,part,R3,N
+1313,chłopaka,,소년/남자친구,boy,noun,R3,Y
+1314,yeah,,응/그래,yeah,intj,R3,N
+1315,spraw,,일들,matter,noun,R3,N
+1316,oko,,눈,eye,noun,R3,Y
+1317,moc,,힘,power,noun,R3,N
+1318,pies,,개,dog,noun,R3,Y
+1319,jakimś,,어떤,some,pron,R3,N
+1320,pracujesz,,(너는) 일한다,work,verb,R3,Y
+1321,wejdź,,들어와,enter,verb,R3,Y
+1322,brakuje,,부족하다,lack,verb,R3,N
+1324,przyjęcie,,파티/수락,party,noun,R3,Y
+1325,rodziną,,가족과,family,noun,R3,Y
+1326,sprawdź,,확인해,check,verb,R3,N
+1327,otworzyć,,열다,open,verb,R3,Y
+1328,znajdziesz,,(너는) 찾을 것이다,find,verb,R3,N
+1329,przyszedłem,,(나는) 왔다,come,verb,R3,Y
+1330,dzieciaki,,아이들,kids,noun,R3,Y
+1331,zdobyć,,얻다,get,verb,R3,N
+1332,wcześnie,,일찍,early,adv,R3,N
+1333,mówiłaś,,(너는) 말했다,say,verb,R3,N
+1334,mogłabym,,(나는) ~할 수 있을 텐데,can,verb,R3,N
+1335,ostatnia,,마지막의,last,adj,R3,N
+1336,wielkiego,,큰,great,adj,R3,N
+1338,użyć,,사용하다,use,verb,R3,N
+1339,firmy,,회사,company,noun,R3,Y
+1340,gorzej,,더 나쁘게,worse,adv,R3,N
+1341,potrzeba,,필요,need,noun,R3,N
+1342,wstawaj,,일어나,get up,verb,R3,Y
+1343,informacji,,정보,information,noun,R3,N
+1344,stamtąd,,거기서,from there,adv,R3,N
+1345,adres,,주소,address,noun,R3,N
+1346,dosyć,,충분히,enough,adv,R3,N
+1347,drinka,,술 한 잔,drink,noun,R3,Y
+1348,samą,,스스로/바로 그,self,pron,R3,N
+1349,jedyna,,유일한,only,adj,R3,N
+1350,światła,,빛,light,noun,R3,Y
+1351,głupie,,멍청한,stupid,adj,R3,N
+1352,wspaniały,,훌륭한,wonderful,adj,R3,N
+1353,biurze,,사무실,office,noun,R3,Y
+1354,matkę,,어머니를,mother,noun,R3,Y
+1355,osobiście,,직접,personally,adv,R3,N
+1356,patrzcie,,보세요,look,verb,R3,Y
+1357,rodzaju,,종류,kind,noun,R3,N
+1358,psa,,개를,dog,noun,R3,Y
+1359,zrobili,,(그들은) 했다,do,verb,R3,N
+1360,pobliżu,,근처,nearby,adv,R3,N
+1361,spotkamy,,(우리는) 만날 것이다,meet,verb,R3,N
+1362,samochodzie,,자동차 안,car,noun,R3,Y
+1363,zasady,,규칙,rule,noun,R3,N
+1364,dole,,아래,down,adv,R3,N
+1365,kolego,,친구야,buddy,noun,R3,N
+1366,myślą,,(그들은) 생각한다,think,verb,R3,N
+1367,wyjaśnić,,설명하다,explain,verb,R3,N
+1368,piękny,,아름다운,beautiful,adj,R3,N
+1369,zespół,,팀,team,noun,R3,Y
+1370,problemu,,문제,problem,noun,R3,N
+1371,boisz,,(너는) 무서워한다,fear,verb,R3,N
+1372,śmieszne,,웃긴,funny,adj,R3,N
+1373,pierwszą,,첫 번째의,first,adj,R3,N
+1374,atak,,공격,attack,noun,R3,Y
+1375,gratulacje,,축하,congratulations,noun,R3,N
+1376,buty,,신발,shoes,noun,R3,Y
+1377,program,,프로그램,program,noun,R3,N
+1378,poproszę,,부탁합니다,please,verb,R3,N
+1379,dziesięć,,열,ten,num,R3,N
+1380,ładnie,,예쁘게,nicely,adv,R3,N
+1381,pracował,,(그는) 일했다,work,verb,R3,Y
+1382,wychodzi,,나간다,go out,verb,R3,Y
+1383,szczęśliwa,,행복한,happy,adj,R3,Y
+1384,pokażę,,(나는) 보여줄 것이다,show,verb,R3,N
+1385,puść,,놔줘,let go,verb,R3,N
+1386,siedzieć,,앉아 있다,sit,verb,R3,Y
+1387,mózgu,,뇌,brain,noun,R3,Y
+1388,laboratorium,,실험실,laboratory,noun,R3,Y
+1389,codziennie,,매일,daily,adv,R3,N
+1390,klucz,,열쇠,key,noun,R3,Y
+1391,prowadzi,,이끈다/운전한다,lead,verb,R3,N
+1392,załatwić,,처리하다,arrange,verb,R3,N
+1394,miłe,,친절한,nice,adj,R3,N
+1395,it,,(영어) 그것,it,pron,R3,N
+1396,mieszkanie,,아파트,apartment,noun,R3,Y
+1397,wolę,,(나는) 더 좋아한다,prefer,verb,R3,N
+1398,bycie,,존재함,being,noun,R3,N
+1399,byśmy,,(우리가) ~할 것이다,would,part,R3,N
+1400,wiadomo,,알려져 있다,known,adv,R3,N
+1401,bezpieczeństwa,,안전,safety,noun,R3,N
+1402,zgadzam,,(나는) 동의한다,agree,verb,R3,N
+1403,pierwszej,,첫 번째의,first,adj,R3,N
+1404,zostanę,,(나는) 남을 것이다,stay,verb,R3,N
+1405,pomyślałam,,(나는) 생각했다,think,verb,R3,N
+1406,zdecydowanie,,단호히/확실히,definitely,adv,R3,N
+1407,słuchajcie,,들어보세요,listen,verb,R3,Y
+1408,zabiłeś,,(너는) 죽였다,kill,verb,R3,N
+1409,zabrał,,(그는) 가져갔다,take,verb,R3,N
+1410,siostry,,자매/언니,sister,noun,R3,Y
+1411,woda,,물,water,noun,R3,Y
+1412,nauczyć,,가르치다,teach,verb,R3,Y
+1413,siadaj,,앉아,sit,verb,R3,Y
+1414,powiedzenia,,말하기/속담,saying,noun,R3,N
+1415,uczucie,,감정,feeling,noun,R3,N
+1416,znajdzie,,찾을 것이다,find,verb,R3,N
+1417,chłopiec,,소년,boy,noun,R3,Y
+1418,złapać,,잡다,catch,verb,R3,Y
+1419,najlepszym,,최고의,best,adj,R3,N
+1420,zostawił,,(그는) 남겼다,leave,verb,R3,N
+1421,koło,,바퀴/근처,wheel,noun,R3,Y
+1422,piwo,,맥주,beer,noun,R3,Y
+1423,każda,,각각의,every,pron,R3,N
+1424,przyszłości,,미래,future,noun,R3,N
+1425,siedem,,일곱,seven,num,R3,N
+1426,wyszedł,,(그는) 나갔다,go out,verb,R3,Y
+1427,zamknąć,,닫다,close,verb,R3,Y
+1428,pozbyć,,없애다,get rid,verb,R3,N
+1429,abyś,,(네가) ~하도록,so that,conj,R3,N
+1430,tuż,,바로,right,adv,R3,N
+1431,potrafisz,,(너는) 할 줄 안다,can,verb,R3,N
+1432,zniszczyć,,파괴하다,destroy,verb,R3,Y
+1433,umarł,,(그는) 죽었다,die,verb,R3,N
+1434,budynku,,건물,building,noun,R3,Y
+1435,zajęty,,바쁜,busy,adj,R3,N
+1436,statku,,배,ship,noun,R3,Y
+1437,ślady,,흔적/발자국,trace,noun,R3,Y
+1438,wolny,,자유로운/느린,free,adj,R3,N
+1439,początek,,시작,beginning,noun,R3,N
+1440,rodzinie,,가족,family,noun,R3,Y
+1441,łóżku,,침대,bed,noun,R3,Y
+1442,dowody,,증거,evidence,noun,R3,N
+1443,potrzebował,,(그는) 필요했다,need,verb,R3,N
+1444,dziękujemy,,(우리는) 감사합니다,thank,verb,R3,N
+1445,podobno,,~라고 한다,reportedly,adv,R3,N
+1446,naprawić,,고치다,fix,verb,R3,Y
+1447,me,,나의,my,pron,R3,N
+1448,minuty,,분,minute,noun,R3,N
+1450,córki,,딸,daughter,noun,R3,Y
+1451,znajdź,,찾아,find,verb,R3,N
+1452,powoli,,천천히,slowly,adv,R3,N
+1453,przyznać,,인정하다,admit,verb,R3,N
+1454,wyjdzie,,나갈 것이다,go out,verb,R3,Y
+1455,wielkim,,큰,great,adj,R3,N
+1456,życiem,,삶,life,noun,R3,N
+1457,książki,,책,book,noun,R3,Y
+1458,świetna,,멋진,great,adj,R3,N
+1459,jedzenia,,음식,food,noun,R3,Y
+1460,całego,,전체의,whole,adj,R3,N
+1461,jaja,,달걀,egg,noun,R3,Y
+1462,kawę,,커피를,coffee,noun,R3,Y
+1463,damy,,(우리는) 줄 것이다,give,verb,R3,N
+1464,zostaniesz,,(너는) 남을 것이다,stay,verb,R3,N
+1465,lekarza,,의사,doctor,noun,R3,Y
+1466,dala,,멀리,far,adv,R3,N
+1467,wojna,,전쟁,war,noun,R3,Y
+1468,wielką,,큰,great,adj,R3,N
+1469,pora,,때/시간,time,noun,R3,N
+1470,urodziny,,생일,birthday,noun,R3,Y
+1471,odebrać,,받다/데려오다,pick up,verb,R3,N
+1472,kolejne,,다음의,next,adj,R3,N
+1473,martwi,,걱정한다,worry,verb,R3,N
+1474,badania,,연구/검사,research,noun,R3,N
+1475,król,,왕,king,noun,R3,Y
+1476,mogłabyś,,(너는) ~할 수 있을 텐데,can,verb,R3,N
+1477,stał,,(그는) 서 있었다,stand,verb,R3,Y
+1478,wobec,,~에 대해,toward,prep,R3,N
+1479,zeszłym,,지난,last,adj,R3,N
+1480,straszne,,무서운,terrible,adj,R3,N
+1481,jakiej,,어떤,which,pron,R3,N
+1482,prawdziwa,,진짜의,real,adj,R3,N
+1483,ostrożnie,,조심스럽게,carefully,adv,R3,N
+1485,wierzyć,,믿다,believe,verb,R3,N
+1486,dane,,데이터,data,noun,R3,N
+1487,świetne,,멋진,great,adj,R3,N
+1488,wysokość,,높이,height,noun,R3,N
+1489,znamy,,(우리는) 안다,know,verb,R3,N
+1490,innymi,,다른,other,adj,R3,N
+1491,pięknie,,아름답게,beautifully,adv,R3,N
+1493,plany,,계획,plan,noun,R3,N
+1494,własną,,자신의,own,adj,R3,N
+1495,musiałam,,(나는) 해야 했다,must,verb,R3,N
+1496,ruch,,움직임/교통,movement,noun,R3,N
+1497,doskonale,,완벽하게,perfectly,adv,R3,N
+1498,druga,,두 번째의,second,adj,R3,N
+1499,niezła,,꽤 괜찮은,decent,adj,R3,N
+1500,zginął,,(그는) 죽었다,die,verb,R3,N
+1501,zapomnieć,,잊다,forget,verb,R3,N
+1502,chłopcze,,소년아,boy,noun,R3,Y
+1504,przede,,~앞에,before,prep,R3,N
+1505,znak,,표지/신호,sign,noun,R3,Y
+1506,samolot,,비행기,airplane,noun,R3,Y
+1507,weekend,,주말,weekend,noun,R3,N
+1508,znalazłeś,,(너는) 찾았다,find,verb,R3,N
+1509,kuchni,,부엌,kitchen,noun,R3,Y
+1510,zróbmy,,하자,do,verb,R3,N
+1511,zwłaszcza,,특히,especially,adv,R3,N
+1512,gości,,손님,guest,noun,R3,Y
+1514,kawałek,,조각,piece,noun,R3,Y
+1515,przyszła,,(그녀는) 왔다,come,verb,R3,Y
+1516,chory,,아픈,sick,adj,R3,Y
+1517,przyjacielu,,친구야,friend,noun,R3,Y
+1518,dziwnie,,이상하게,strangely,adv,R3,N
+1519,twierdzi,,주장한다,claim,verb,R3,N
+1520,słychać,,들린다,hear,verb,R3,N
+1521,przygotować,,준비하다,prepare,verb,R3,N
+1522,chciałaś,,(너는) 원했다,want,verb,R3,N
+1523,zaczynamy,,(우리는) 시작한다,begin,verb,R3,N
+1524,detektyw,,탐정,detective,noun,R3,Y
+1525,wśród,,~사이에,among,prep,R3,N
+1527,kończy,,끝낸다,finish,verb,R3,N
+1529,dwoje,,두 사람,two,num,R3,N
+1530,witamy,,환영합니다,welcome,verb,R3,N
+1532,zadanie,,과제/임무,task,noun,R3,N
+1533,względu,,고려/이유,regard,noun,R3,N
+1534,synem,,아들과,son,noun,R3,Y
+1535,wodę,,물을,water,noun,R3,Y
+1536,poczekać,,기다리다,wait,verb,R3,N
+1537,znaleźli,,(그들은) 찾았다,find,verb,R3,N
+1538,imieniu,,이름,name,noun,R3,N
+1539,lunch,,점심,lunch,noun,R3,Y
+1540,odzyskać,,되찾다,recover,verb,R3,N
+1541,em,,음,um,intj,R3,N
+1542,oprócz,,~외에,except,prep,R3,N
+1544,of,,(영어) ~의,of,prep,R3,N
+1545,podaj,,건네줘,pass,verb,R3,Y
+1546,założę,,(나는) 입을/걸 것이다,put on,verb,R3,N
+1547,chodzić,,걷다,walk,verb,R3,Y
+1548,momencie,,순간,moment,noun,R3,N
+1549,święta,,명절/휴일,holiday,noun,R3,N
+1550,zapomniałem,,(나는) 잊었다,forget,verb,R3,N
+1551,kawy,,커피,coffee,noun,R3,Y
+1552,nazywasz,,(너는) ~라고 불린다,call,verb,R3,N
+1553,szuka,,찾는다,search,verb,R3,Y
+1554,rozmawialiśmy,,(우리는) 이야기했다,talk,verb,R3,Y
+1555,dałem,,(나는) 주었다,give,verb,R3,Y
+1556,moimi,,나의,my,pron,R3,N
+1557,latach,,해/년,year,noun,R3,N
+1558,raport,,보고서,report,noun,R3,Y
+1559,fakt,,사실,fact,noun,R3,N
+1560,młoda,,젊은,young,adj,R3,Y
+1561,mamą,,엄마와,mom,noun,R3,Y
+1562,panna,,아가씨,miss,noun,R3,Y
+1563,ostatnim,,마지막의,last,adj,R3,N
+1564,poszła,,(그녀는) 갔다,go,verb,R3,Y
+1566,oddać,,돌려주다,return,verb,R3,N
+1567,listy,,편지,letter,noun,R3,Y
+1568,różne,,다양한,various,adj,R3,N
+1569,wyglądam,,(나는) ~처럼 보인다,look,verb,R3,N
+1570,przysługę,,부탁/호의,favor,noun,R3,N
+1571,kości,,뼈,bone,noun,R3,Y
+1572,rana,,상처,wound,noun,R3,Y
+1573,szczęścia,,행복/행운,luck,noun,R3,N
+1574,zobaczmy,,보자,see,verb,R3,N
+1575,zdaje,,~인 것 같다,seem,verb,R3,N
+1576,lekarz,,의사,doctor,noun,R3,Y
+1577,czuć,,느끼다,feel,verb,R3,N
+1578,kraj,,나라,country,noun,R3,Y
+1579,morderstwa,,살인,murder,noun,R3,N
+1580,chciałbyś,,(너는) 원하겠니,want,verb,R3,N
+1581,zgodnie,,~에 따라,according,adv,R3,N
+1582,każdą,,각각의,every,pron,R3,N
+1583,wrażenie,,인상,impression,noun,R3,N
+1584,zostałem,,(나는) 남았다/되었다,become,verb,R3,N
+1585,sprawia,,~하게 한다,cause,verb,R3,N
+1586,zrozumiałem,,(나는) 이해했다,understand,verb,R3,N
+1587,przeciw,,~에 반대하여,against,prep,R3,N
+1588,wyjścia,,출구,exit,noun,R3,Y
+1589,trzyma,,잡고 있다,hold,verb,R3,Y
+1590,pierwszego,,첫 번째의,first,adj,R3,N
+1591,krok,,걸음,step,noun,R3,Y
+1592,wyniki,,결과,result,noun,R3,N
+1593,żyjesz,,(너는) 산다,live,verb,R3,N
+1594,bierz,,가져가,take,verb,R3,N
+1595,wygrać,,이기다,win,verb,R3,Y
+1596,grę,,게임을,game,noun,R3,Y
+1597,rząd,,정부/줄,government,noun,R3,N
+1598,chciałby,,(그는) 원할 것이다,want,verb,R3,N
+1599,rozmowy,,대화,conversation,noun,R3,N
+1600,rozkaz,,명령,order,noun,R3,N
+1601,podróż,,여행,trip,noun,R3,Y
+1602,dawna,,옛날의,former,adj,R3,N
+1603,agent,,요원,agent,noun,R3,Y
+1604,rozmowę,,대화를,conversation,noun,R3,N
+1605,śniadanie,,아침 식사,breakfast,noun,R3,Y
+1606,doceniam,,(나는) 고맙게 여긴다,appreciate,verb,R3,N
+1608,jedzie,,간다/운전한다,go,verb,R3,Y
+1609,zabiłem,,(나는) 죽였다,kill,verb,R3,N
+1610,przychodzi,,온다,come,verb,R3,Y
+1611,sytuacja,,상황,situation,noun,R3,N
+1612,usiąść,,앉다,sit,verb,R3,Y
+1613,zmieni,,바꿀 것이다,change,verb,R3,N
+1614,grupa,,그룹,group,noun,R3,Y
+1615,wziął,,(그는) 가져갔다,take,verb,R3,N
+1616,decyzję,,결정을,decision,noun,R3,N
+1617,iż,,~라는 것,that,conj,R3,N
+1618,powinni,,(그들은) ~해야 한다,should,verb,R3,N
+1619,wrócisz,,(너는) 돌아올 것이다,return,verb,R3,N
+1621,udział,,참여,participation,noun,R3,N
+1622,ognia,,불,fire,noun,R3,Y
+1623,szukamy,,(우리는) 찾는다,search,verb,R3,Y
+1624,miłego,,좋은,nice,adj,R3,N
+1625,chryste,,맙소사,christ,intj,R3,N
+1626,uciekaj,,도망가,run away,verb,R3,Y
+1627,mężczyzn,,남자들,man,noun,R3,Y
+1628,niektóre,,일부,some,pron,R3,N
+1629,możliwości,,가능성,possibility,noun,R3,N
+1631,chętnie,,기꺼이,gladly,adv,R3,N
+1632,wraca,,돌아온다,return,verb,R3,N
+1633,brać,,가지다/받다,take,verb,R3,N
+1634,głupia,,멍청한,stupid,adj,R3,N
+1635,błagam,,(나는) 간청한다,beg,verb,R3,N
+1636,zapłacić,,지불하다,pay,verb,R3,Y
+1638,e,,(글자) 에,e,part,R3,N
+1639,biuro,,사무실,office,noun,R3,Y
+1640,odejdź,,떠나,leave,verb,R3,N
+1641,kolej,,철도/차례,railway,noun,R3,Y
+1642,mówimy,,(우리는) 말한다,say,verb,R3,N
+1643,stare,,오래된,old,adj,R3,Y
+1644,dostanie,,받을 것이다,get,verb,R3,N
+1645,la,,(외래어) 라,la,part,R3,N
+1646,dumny,,자랑스러운,proud,adj,R3,N
+1647,liczy,,센다,count,verb,R3,N
+1648,kasę,,돈/현금을,cash,noun,R3,Y
+1649,miałbym,,(나는) 가질 텐데,have,verb,R3,N
+1650,żyją,,(그들은) 산다,live,verb,R3,N
+1651,in,,(영어) ~안에,in,prep,R3,N
+1652,nowych,,새로운,new,adj,R3,Y
+1653,prawdy,,진실,truth,noun,R3,N
+1654,cudownie,,멋지게,wonderfully,adv,R3,N
+1655,nasi,,우리의,our,pron,R3,N
+1656,szukasz,,(너는) 찾는다,search,verb,R3,Y
+1657,prezydent,,대통령,president,noun,R3,Y
+1658,wydarzyło,,일어났다,happen,verb,R3,N
+1659,idźcie,,가라,go,verb,R3,Y
+1660,pomaga,,돕는다,help,verb,R3,Y
+1661,siedzi,,앉아 있다,sit,verb,R3,Y
+1662,juz,,이미 (ż 오타),already,adv,R3,N
+1664,dzwonił,,(그는) 전화했다,call,verb,R3,Y
+1665,problemów,,문제들,problem,noun,R3,N
+1666,kontakt,,연락/접촉,contact,noun,R3,N
+1667,zrobiliśmy,,(우리는) 했다,do,verb,R3,N
+1668,karty,,카드,card,noun,R3,Y
+1669,decyzja,,결정,decision,noun,R3,N
+1670,spójrzcie,,(너희) 보라,look,verb,R3,N
+1671,sygnał,,신호,signal,noun,R3,N
+1672,listę,,목록을,list,noun,R3,N
+1673,inną,,다른(여성형),other,adj,R3,N
+1674,zmienia,,바꾸다/바뀐다,change,verb,R3,N
+1675,rozumie,,이해한다,understand,verb,R3,N
+1676,komu,,누구에게,who,pron,R3,N
+1677,rozmawiałem,,(내가) 이야기했다,talk,verb,R3,N
+1678,niezłe,,괜찮은/나쁘지 않은,not bad,adj,R3,N
+1679,osiem,,여덟,eight,num,R3,N
+1680,książkę,,책을,book,noun,R3,Y
+1681,słońce,,해/태양,sun,noun,R3,Y
+1682,gotów,,준비된,ready,adj,R3,N
+1683,sens,,의미/뜻,sense,noun,R3,N
+1684,słów,,단어들의,word,noun,R3,N
+1685,mężczyzną,,남자와/남자로,man,noun,R3,Y
+1686,dostanę,,(내가) 받을 것이다,get,verb,R3,N
+1687,ochrony,,보호의/경호의,protection,noun,R3,N
+1688,pory,,때/시기,time,noun,R3,N
+1689,spojrzeć,,바라보다,look,verb,R3,Y
+1690,ochotę,,하고 싶은 마음,desire,noun,R3,N
+1691,najlepsza,,최고의(여성형),best,adj,R3,N
+1692,potrzebny,,필요한,needed,adj,R3,N
+1693,zabawy,,놀이의/재미의,fun,noun,R3,N
+1694,króla,,왕의/왕을,king,noun,R3,Y
+1695,rzeczywiście,,정말로/실제로,indeed,adv,R3,N
+1696,żart,,농담,joke,noun,R3,N
+1697,przypadku,,경우/우연,case,noun,R3,N
+1698,rodzaj,,종류,kind,noun,R3,N
+1699,niewiele,,별로 없는/조금,few,adv,R3,N
+1700,stracić,,잃다,lose,verb,R3,N
+1701,działać,,작동하다/행동하다,act,verb,R3,N
+1702,tamtej,,저(여성형),that,adj,R3,N
+1703,dziękuje,,감사합니다,thank,verb,R3,N
+1704,niebezpieczne,,위험한,dangerous,adj,R3,N
+1705,szefem,,상사와/상사로,boss,noun,R3,Y
+1706,okno,,창문,window,noun,R3,Y
+1707,wyglądają,,~처럼 보인다(그들),look,verb,R3,N
+1709,uwagi,,주의/의견,remark,noun,R3,N
+1710,uczucia,,감정,feeling,noun,R3,N
+1711,zostaje,,남는다/된다,stay,verb,R3,N
+1712,obraz,,그림/이미지,picture,noun,R3,Y
+1713,zazwyczaj,,보통/대개,usually,adv,R3,N
+1714,lekarzem,,의사와/의사로,doctor,noun,R3,Y
+1715,najlepszego,,최고의,best,adj,R3,N
+1716,czekam,,(나는) 기다린다,wait,verb,R3,Y
+1717,gadać,,수다 떨다,chat,verb,R3,N
+1718,podać,,건네다/주다,give,verb,R3,Y
+1719,leży,,누워 있다/놓여 있다,lie,verb,R3,Y
+1721,otwarte,,열린,open,adj,R3,Y
+1722,zaczynam,,(나는) 시작한다,begin,verb,R3,N
+1723,widzimy,,(우리는) 본다,see,verb,R3,N
+1724,zastanawiam,,(나는) 궁금해한다,wonder,verb,R3,N
+1725,wyjdź,,나가라,leave,verb,R3,N
+1726,zacznie,,시작할 것이다,begin,verb,R3,N
+1727,poradzę,,(내가) 해낼 것이다,manage,verb,R3,N
+1728,inna,,다른(여성형),other,adj,R3,N
+1729,wybaczyć,,용서하다,forgive,verb,R3,N
+1730,kochać,,사랑하다,love,verb,R3,N
+1731,przekonać,,설득하다,convince,verb,R3,N
+1732,swego,,자기의,own,adj,R3,N
+1733,dowie,,알게 될 것이다,find out,verb,R3,N
+1734,wynoś,,꺼져라,get out,verb,R3,N
+1735,głowa,,머리,head,noun,R3,Y
+1736,dziećmi,,아이들과,child,noun,R3,Y
+1737,obaj,,둘 다(남성),both,num,R3,N
+1738,umrze,,죽을 것이다,die,verb,R3,N
+1739,warto,,~할 만하다,worth,adv,R3,N
+1740,kazał,,(그가) 명령했다,order,verb,R3,N
+1741,oddaj,,돌려줘라,give back,verb,R3,N
+1742,taty,,아빠의,dad,noun,R3,Y
+1743,wybrać,,고르다,choose,verb,R3,N
+1744,zdrowie,,건강,health,noun,R3,N
+1745,wiec,,집회/그러므로,rally,noun,R3,N
+1746,opuścić,,떠나다/버리다,leave,verb,R3,N
+1747,okolicy,,동네/근처,area,noun,R3,N
+1748,pomożesz,,(너는) 도울 것이다,help,verb,R3,N
+1749,zimno,,춥다/차갑게,cold,adv,R3,Y
+1750,chwilkę,,잠깐,moment,noun,R3,N
+1751,przypadek,,우연/경우,case,noun,R3,N
+1752,test,,시험,test,noun,R3,N
+1753,wyprawiasz,,(너는) 벌이고 있다,do,verb,R3,N
+1754,liście,,잎들,leaf,noun,R3,Y
+1755,ostatnią,,마지막(여성형),last,adj,R3,N
+1756,ilu,,몇 명의,how many,pron,R3,N
+1757,obie,,둘 다(여성),both,num,R3,N
+1758,widzicie,,(너희는) 본다,see,verb,R3,N
+1759,waszej,,너희의(여성형),your,pron,R3,N
+1760,obu,,둘 다의,both,num,R3,N
+1761,nazwiska,,성/이름,surname,noun,R3,N
+1762,niespodzianka,,깜짝 선물/놀람,surprise,noun,R3,N
+1763,doczekać,,기다려 맞이하다,live to see,verb,R3,N
+1764,wysłać,,보내다,send,verb,R3,Y
+1765,dobrej,,좋은(여성형),good,adj,R3,N
+1766,bratem,,형제와/형제로,brother,noun,R3,Y
+1768,zaufaj,,믿어라,trust,verb,R3,N
+1769,bliżej,,더 가까이,closer,adv,R3,N
+1770,dziewczynka,,여자아이,little girl,noun,R3,Y
+1771,własnej,,자기 소유의(여성형),own,adj,R3,N
+1772,zmiany,,변화,change,noun,R3,N
+1773,l,,엘(알파벳 L),l,noun,R3,N
+1774,straciłem,,(내가) 잃었다,lose,verb,R3,N
+1775,oglądać,,보다/시청하다,watch,verb,R3,Y
+1776,przestańcie,,(너희) 그만해라,stop,verb,R3,N
+1777,zabawa,,놀이/파티,fun,noun,R3,Y
+1778,drugim,,두 번째/다른,second,adj,R3,N
+1779,dolców,,달러(속어),dollar,noun,R3,N
+1780,przyszedłeś,,(너는) 왔다,come,verb,R3,Y
+1781,oczach,,눈(복수)에,eye,noun,R3,Y
+1782,przynieś,,가져와라,bring,verb,R3,Y
+1784,wyglądać,,~처럼 보이다,look,verb,R3,N
+1785,poziom,,수준/층,level,noun,R3,N
+1786,mieszkania,,아파트의,apartment,noun,R3,Y
+1787,dała,,(그녀가) 주었다,give,verb,R3,Y
+1788,przodu,,앞,front,noun,R3,N
+1789,przyjemność,,즐거움,pleasure,noun,R3,N
+1790,ostatnich,,마지막의/최근의,last,adj,R3,N
+1791,śmiercią,,죽음과,death,noun,R3,N
+1792,widziała,,(그녀가) 보았다,see,verb,R3,N
+1793,uciekł,,(그가) 도망쳤다,run away,verb,R3,Y
+1794,akurat,,마침/바로,just,adv,R3,N
+1795,miła,,친절한(여성형),nice,adj,R3,N
+1796,rzeczą,,것(도구격),thing,noun,R3,N
+1797,pytasz,,(너는) 묻는다,ask,verb,R3,N
+1798,wyjście,,출구/나가기,exit,noun,R3,Y
+1799,zmarł,,(그가) 죽었다,die,verb,R3,N
+1800,śmiało,,용감하게/어서,boldly,adv,R3,N
+1801,przeszłości,,과거,past,noun,R3,N
+1802,tysiące,,수천,thousand,num,R3,N
+1803,operacji,,수술/작전의,operation,noun,R3,N
+1804,małżeństwo,,결혼/부부,marriage,noun,R3,N
+1805,wątpię,,(나는) 의심한다,doubt,verb,R3,N
+1806,myślicie,,(너희는) 생각한다,think,verb,R3,N
+1807,wewnątrz,,안에,inside,adv,R3,N
+1809,długi,,긴/빚,long,adj,R3,Y
+1810,ojcu,,아버지에게,father,noun,R3,Y
+1811,biorę,,(나는) 가진다/받는다,take,verb,R3,Y
+1812,spodoba,,마음에 들 것이다,like,verb,R3,N
+1813,innej,,다른(여성형),other,adj,R3,N
+1814,lecieć,,날다/비행하다,fly,verb,R3,Y
+1815,owi,,(접미) 그,that,part,R3,N
+1816,zapewne,,아마도,probably,adv,R3,N
+1817,ej,,어이,hey,intj,R3,N
+1818,szanse,,가능성/기회,chance,noun,R3,N
+1819,godzina,,시간/한 시간,hour,noun,R3,Y
+1820,wydostać,,빠져나오다,get out,verb,R3,N
+1821,martwię,,(나는) 걱정한다,worry,verb,R3,N
+1822,mózg,,뇌,brain,noun,R3,Y
+1823,kasy,,돈/금전,money,noun,R3,Y
+1824,dniu,,날에,day,noun,R3,Y
+1825,uciekać,,도망치다,run away,verb,R3,Y
+1826,auto,,자동차,car,noun,R3,Y
+1827,szalony,,미친,crazy,adj,R3,N
+1828,zaczęło,,시작했다,begin,verb,R3,N
+1830,zaufać,,믿다,trust,verb,R3,N
+1831,poruczniku,,중위님,lieutenant,noun,R3,Y
+1832,linii,,선,line,noun,R3,Y
+1833,dowodów,,증거들의,evidence,noun,R3,N
+1834,wróciła,,(그녀가) 돌아왔다,return,verb,R3,N
+1835,ofiara,,희생자,victim,noun,R3,N
+1836,banku,,은행,bank,noun,R3,Y
+1837,telewizji,,텔레비전,television,noun,R3,Y
+1838,absolutnie,,절대적으로,absolutely,adv,R3,N
+1839,indziej,,다른 곳에,elsewhere,adv,R3,N
+1840,ładna,,예쁜(여성형),pretty,adj,R3,Y
+1841,zniknął,,(그가) 사라졌다,disappear,verb,R3,N
+1842,każde,,각각의,every,adj,R3,N
+1843,głodny,,배고픈,hungry,adj,R3,Y
+1844,prawdziwym,,진짜의,real,adj,R3,N
+1845,odłóż,,내려놓아라,put down,verb,R3,Y
+1847,umiem,,(나는) ~할 줄 안다,can,verb,R3,N
+1848,kierunku,,방향,direction,noun,R3,N
+1849,randkę,,데이트를,date,noun,R3,N
+1850,klasy,,학급/반,class,noun,R3,Y
+1851,imprezę,,파티를,party,noun,R3,Y
+1852,wojnę,,전쟁을,war,noun,R3,N
+1853,ha,,하(웃음),ha,intj,R3,N
+1854,sali,,홀/방,hall,noun,R3,Y
+1855,podziękować,,감사하다,thank,verb,R3,N
+1856,szaleństwo,,광기/미친 짓,madness,noun,R3,N
+1857,myślałeś,,(너는) 생각했다,think,verb,R3,N
+1858,nikim,,아무도(도구격),nobody,pron,R3,N
+1859,lewo,,왼쪽으로,left,adv,R3,N
+1860,mężem,,남편과/남편으로,husband,noun,R3,Y
+1861,małego,,작은,small,adj,R3,Y
+1862,szczególnie,,특히,especially,adv,R3,N
+1863,boską,,신성한,divine,adj,R3,N
+1864,potrzebują,,(그들은) 필요로 한다,need,verb,R3,N
+1865,wyszła,,(그녀가) 나갔다,go out,verb,R3,N
+1866,uwierz,,믿어라,believe,verb,R3,N
+1867,spotkania,,만남/회의,meeting,noun,R3,N
+1868,utrzymać,,유지하다,keep,verb,R3,N
+1869,własnego,,자기 소유의,own,adj,R3,N
+1870,hmm,,흠,hmm,intj,R3,N
+1871,różnych,,다양한,various,adj,R3,N
+1872,mamę,,엄마를,mom,noun,R3,Y
+1873,widzieliśmy,,(우리는) 보았다,see,verb,R3,N
+1874,abym,,내가 ~하도록,so that,conj,R3,N
+1875,chłopca,,소년의/소년을,boy,noun,R3,Y
+1876,muzyka,,음악,music,noun,R3,Y
+1877,okropne,,끔찍한,terrible,adj,R3,N
+1878,sprawdzę,,(내가) 확인할 것이다,check,verb,R3,N
+1879,zgoda,,동의,agreement,noun,R3,N
+1880,skończyłem,,(내가) 끝냈다,finish,verb,R3,N
+1881,pomyśleć,,생각해 보다,think,verb,R3,N
+1882,nowej,,새로운(여성형),new,adj,R3,N
+1883,wiedzieli,,(그들은) 알았다,know,verb,R3,N
+1886,wprost,,곧바로/직접,directly,adv,R3,N
+1887,myślał,,(그가) 생각했다,think,verb,R3,N
+1888,um,,음,um,intj,R3,N
+1889,wrócimy,,(우리는) 돌아올 것이다,return,verb,R3,N
+1890,pić,,마시다,drink,verb,R3,Y
+1891,ruchy,,움직임,movement,noun,R3,N
+1892,widok,,경치/광경,view,noun,R3,Y
+1893,miałby,,(그가) ~할 텐데,have,verb,R3,N
+1894,faceci,,녀석들/남자들,guy,noun,R3,Y
+1895,interesuje,,흥미를 끈다,interest,verb,R3,N
+1896,punkt,,점/지점,point,noun,R3,N
+1897,prowadzić,,운전하다/이끌다,drive,verb,R3,Y
+1898,zmieniło,,바꾸었다,change,verb,R3,N
+1899,lubią,,(그들은) 좋아한다,like,verb,R3,N
+1901,umysł,,정신/마음,mind,noun,R3,N
+1902,udowodnić,,증명하다,prove,verb,R3,N
+1903,zabiorę,,(내가) 데려갈 것이다,take,verb,R3,N
+1904,mówili,,(그들은) 말했다,say,verb,R3,N
+1905,drugiego,,두 번째의/다른,second,adj,R3,N
+1906,szans,,기회들의,chance,noun,R3,N
+1907,powiedzmy,,이를테면,let's say,part,R3,N
+1908,potrzebne,,필요한,needed,adj,R3,N
+1909,zobaczyłem,,(내가) 보았다,see,verb,R3,N
+1910,umowę,,계약을,contract,noun,R3,N
+1911,b,,비(알파벳 B),b,noun,R3,N
+1912,wraz,,함께,together,adv,R3,N
+1913,liceum,,고등학교,high school,noun,R3,Y
+1914,różnica,,차이,difference,noun,R3,N
+1915,minęło,,지나갔다,pass,verb,R3,N
+1916,następnego,,다음의,next,adj,R3,N
+1917,bronią,,무기와,weapon,noun,R3,Y
+1918,lepszego,,더 나은,better,adj,R3,N
+1919,rzuć,,던져라,throw,verb,R3,Y
+1920,znaczenie,,의미/중요성,meaning,noun,R3,N
+1921,żadna,,아무(여성형) ~도 아닌,none,pron,R3,N
+1922,musze,,(나는) 해야 한다,must,verb,R3,N
+1923,mogłaś,,(너는) ~할 수 있었다,can,verb,R3,N
+1924,firma,,회사,company,noun,R3,Y
+1925,słyszeć,,듣다,hear,verb,R3,Y
+1926,państwo,,국가/여러분,state,noun,R3,N
+1927,f,,에프(알파벳 F),f,noun,R3,N
+1928,potrzeby,,필요,need,noun,R3,N
+1929,mecz,,경기,match,noun,R3,Y
+1930,danych,,데이터의,data,noun,R3,N
+1931,dostęp,,접근,access,noun,R3,N
+1932,naprzód,,앞으로,forward,adv,R3,N
+1933,nóż,,칼,knife,noun,R3,Y
+1934,córką,,딸과,daughter,noun,R3,Y
+1935,bawić,,즐겁게 하다/놀다,play,verb,R3,Y
+1936,sprawą,,일/사건(도구격),matter,noun,R3,N
+1938,bierze,,가진다/받는다,take,verb,R3,Y
+1939,rękach,,손(복수)에,hand,noun,R3,Y
+1940,miliony,,수백만,million,num,R3,N
+1941,zachować,,보존하다/유지하다,keep,verb,R3,N
+1942,ubrania,,옷,clothes,noun,R3,Y
+1943,jasna,,밝은(여성형),bright,adj,R3,Y
+1944,pozwoli,,허락할 것이다,allow,verb,R3,N
+1945,znaczyć,,의미하다,mean,verb,R3,N
+1946,żadne,,아무 ~도 아닌,none,pron,R3,N
+1947,wychodzę,,(나는) 나간다,go out,verb,R3,Y
+1948,zasadzie,,원칙,principle,noun,R3,N
+1949,akta,,서류/기록,file,noun,R3,N
+1950,metrów,,미터의,meter,noun,R3,N
+1951,woli,,의지/선호한다,will,noun,R3,N
+1953,pełne,,가득 찬,full,adj,R3,Y
+1954,gliny,,경찰(속어),cop,noun,R3,Y
+1955,przypomina,,상기시킨다/닮았다,remind,verb,R3,N
+1956,równie,,똑같이,equally,adv,R3,N
+1957,żegnaj,,안녕(작별),goodbye,intj,R3,N
+1958,czułem,,(나는) 느꼈다,feel,verb,R3,N
+1959,celem,,목표(도구격),goal,noun,R3,N
+1960,musiało,,~해야 했다,must,verb,R3,N
+1961,dziwnego,,이상한,strange,adj,R3,N
+1962,czarny,,검은,black,adj,R3,Y
+1963,mojemu,,나의(여격),my,pron,R3,N
+1964,jazda,,운전/주행,ride,noun,R3,Y
+1966,oczu,,눈(복수)의,eye,noun,R3,Y
+1967,grupy,,그룹,group,noun,R3,Y
+1968,usta,,입/입술,mouth,noun,R3,Y
+1969,dobrych,,좋은,good,adj,R3,N
+1970,słońca,,해의,sun,noun,R3,Y
+1971,ataku,,공격,attack,noun,R3,N
+1972,swoimi,,자신의(도구격),own,pron,R3,N
+1973,sklepu,,가게의,shop,noun,R3,Y
+1974,spróbuję,,(내가) 시도할 것이다,try,verb,R3,N
+1975,dupę,,엉덩이를(속어),butt,noun,R3,N
+1977,daleka,,먼,far,adj,R3,N
+1979,sumie,,결국/합계,total,noun,R3,N
+1980,milion,,백만,million,num,R3,N
+1981,znalazła,,(그녀가) 찾았다,find,verb,R3,N
+1982,dzwoni,,전화한다/울린다,ring,verb,R3,Y
+1983,domem,,집(도구격),house,noun,R3,Y
+1984,pański,,당신의(경칭),your,adj,R3,N
+1985,stracił,,(그가) 잃었다,lose,verb,R3,N
+1986,własny,,자기 소유의,own,adj,R3,N
+1987,zajmuje,,차지한다/돌본다,occupy,verb,R3,N
+1988,mamie,,엄마에게,mom,noun,R3,Y
+1989,wspaniała,,훌륭한(여성형),wonderful,adj,R3,N
+1990,szkodzi,,해가 된다,harm,verb,R3,N
+1991,złym,,나쁜,bad,adj,R3,N
+1992,żył,,(그가) 살았다,live,verb,R3,N
+1994,zabójca,,살인자,killer,noun,R3,N
+1995,odnaleźć,,찾아내다,find,verb,R3,N
+1996,słyszałaś,,(너는) 들었다,hear,verb,R3,N
+1997,staje,,서다/된다,become,verb,R3,N
+1998,auta,,자동차의,car,noun,R3,Y
+1999,odszedł,,(그가) 떠났다,leave,verb,R3,N
+2000,sprzedać,,팔다,sell,verb,R3,Y
+2001,pytam,,(나는) 묻는다,ask,verb,R3,N
+2002,szefa,,상사의/상사를,boss,noun,R3,Y
+2003,pomocą,,도움(도구격),help,noun,R3,N
+2004,byłaby,,~일 것이다(여성),be,verb,R3,N
+2005,ładne,,예쁜,pretty,adj,R3,Y
+2006,warte,,가치 있는,worth,adj,R3,N
+2007,ufać,,믿다,trust,verb,R3,N
+2008,gdybyśmy,,만약 우리가 ~라면,if,conj,R3,N
+2009,porozmawiamy,,(우리는) 이야기할 것이다,talk,verb,R3,N
+2010,wujek,,삼촌,uncle,noun,R3,Y
+2011,kod,,코드,code,noun,R3,N
+2012,proces,,과정/재판,process,noun,R3,N
+2013,osobę,,사람을,person,noun,R3,Y
+2014,zaczęła,,(그녀가) 시작했다,begin,verb,R3,N
+2015,nadchodzi,,다가온다,approach,verb,R3,N
+2016,biały,,흰,white,adj,R3,Y
+2017,sierżancie,,중사님,sergeant,noun,R3,Y
+2018,stop,,정지/멈춰,stop,noun,R3,N
+2019,zostali,,(그들은) 남았다/되었다,stay,verb,R3,N
+2020,upewnić,,확인하다,make sure,verb,R3,N
+2021,idą,,(그들은) 간다,go,verb,R3,Y
+2022,pięciu,,다섯 명의,five,num,R3,N
+2023,zaczniemy,,(우리는) 시작할 것이다,begin,verb,R3,N
+2024,podróży,,여행의,journey,noun,R3,Y
+2025,wyszło,,나왔다,come out,verb,R3,N
+2026,ufam,,(나는) 믿는다,trust,verb,R3,N
+2027,spytać,,묻다,ask,verb,R3,N
+2028,siostrę,,자매를,sister,noun,R3,Y
+2029,dostałam,,(나는) 받았다,get,verb,R3,N
+2030,facetów,,녀석들을,guy,noun,R3,Y
+2031,znacznie,,훨씬,much,adv,R3,N
+2032,powietrze,,공기,air,noun,R3,Y
+2033,trwa,,지속된다,last,verb,R3,N
+2034,czasy,,시대,times,noun,R3,N
+2035,zobaczy,,볼 것이다,see,verb,R3,N
+2036,ledwo,,간신히,barely,adv,R3,N
+2037,akcji,,행동/주식,action,noun,R3,N
+2038,pojechać,,(타고) 가다,go,verb,R3,Y
+2039,nieba,,하늘의,sky,noun,R3,Y
+2040,założyć,,입다/설립하다,put on,verb,R3,Y
+2041,winy,,죄/잘못,guilt,noun,R3,N
+2042,zmienił,,(그가) 바꾸었다,change,verb,R3,N
+2043,waszym,,너희의,your,pron,R3,N
+2044,ziemia,,땅/지구,earth,noun,R3,Y
+2045,zamknięte,,닫힌,closed,adj,R3,Y
+2046,daję,,(나는) 준다,give,verb,R3,Y
+2047,ah,,아,ah,intj,R3,N
+2049,restauracji,,식당,restaurant,noun,R3,Y
+2050,pochodzi,,~출신이다,come from,verb,R3,N
+2051,próbujesz,,(너는) 시도한다,try,verb,R3,N
+2052,kłopotów,,문제들,trouble,noun,R3,N
+2053,umiera,,죽는다,die,verb,R3,N
+2054,czterech,,네 명의,four,num,R3,N
+2055,wracamy,,(우리는) 돌아간다,return,verb,R3,N
+2056,małym,,작은,small,adj,R3,Y
+2057,miały,,(그녀들은) 가졌다,have,verb,R3,N
+2059,musiałeś,,(너는) 해야 했다,must,verb,R3,N
+2060,parku,,공원,park,noun,R3,Y
+2061,możliwość,,가능성,possibility,noun,R3,N
+2062,drogą,,길(도구격),road,noun,R3,Y
+2063,energii,,에너지,energy,noun,R3,N
+2064,poznałem,,(내가) 알게 되었다,meet,verb,R3,N
+2065,próbowałam,,(나는) 시도했다,try,verb,R3,N
+2066,spędzić,,보내다,spend,verb,R3,N
+2067,mężczyźni,,남자들,man,noun,R3,Y
+2068,wiary,,믿음,faith,noun,R3,N
+2069,ku,,~를 향해,toward,prep,R3,N
+2070,mogłaby,,~할 수 있을 텐데,can,verb,R3,N
+2072,budynek,,건물,building,noun,R3,Y
+2073,przyjdę,,(내가) 올 것이다,come,verb,R3,Y
+2074,wróciłem,,(내가) 돌아왔다,return,verb,R3,N
+2075,żyję,,(나는) 산다,live,verb,R3,N
+2076,łódź,,배,boat,noun,R3,Y
+2077,łatwe,,쉬운,easy,adj,R3,N
+2078,winny,,유죄의,guilty,adj,R3,N
+2079,przyszłam,,(나는) 왔다,come,verb,R3,Y
+2080,mil,,마일의,mile,noun,R3,N
+2081,dokumenty,,서류,document,noun,R3,Y
+2082,strzelać,,쏘다,shoot,verb,R3,Y
+2083,wynocha,,꺼져,get out,intj,R3,N
+2084,przeszkadza,,방해한다,disturb,verb,R3,N
+2085,duża,,큰(여성형),big,adj,R3,Y
+2086,czasów,,시간들의/시대의,time,noun,R3,N
+2087,kontrolę,,통제를/검사를,control,noun,R3,N
+2088,dałeś,,(너는) 주었다,give,verb,R3,N
+2089,barze,,바에서,bar,noun,R3,Y
+2090,zamian,,교환(대신),exchange,noun,R3,N
+2091,matko,,어머니(호칭),mother,noun,R3,Y
+2092,mogliśmy,,(우리는) 할 수 있었다,can,verb,R3,N
+2093,zadzwonił,,(그가) 전화했다,call,verb,R3,N
+2094,studia,,학업/대학 공부,study,noun,R3,N
+2095,stacji,,역에/역의,station,noun,R3,Y
+2097,własnym,,자기 자신의,own,adj,R3,N
+2098,znajduje,,(그는) 찾다/위치하다,find,verb,R3,N
+2099,czyżby,,설마 ~인가,really,part,R3,N
+2101,przejmuj,,넘겨받아라,take over,verb,R3,N
+2102,język,,언어/혀,language,noun,R3,Y
+2103,nazywają,,(그들은) 부르다,call,verb,R3,N
+2104,wyglądało,,~처럼 보였다,look,verb,R3,N
+2105,przekazać,,전달하다,pass on,verb,R3,N
+2106,sądu,,법원의,court,noun,R3,N
+2107,robiłem,,(나는) 하고 있었다,do,verb,R3,N
+2108,waszą,,너희의,your,pron,R3,N
+2109,skończył,,(그가) 끝냈다,finish,verb,R3,N
+2110,pułkowniku,,대령님,colonel,noun,R3,N
+2111,park,,공원,park,noun,R3,Y
+2112,najszybciej,,가장 빨리,fastest,adv,R3,N
+2113,kwiaty,,꽃들,flower,noun,R3,Y
+2114,kontroli,,통제의/검사의,control,noun,R3,N
+2115,babcia,,할머니,grandmother,noun,R3,Y
+2116,walka,,싸움,fight,noun,R3,Y
+2117,doktora,,의사를/의사의,doctor,noun,R3,Y
+2118,jedziesz,,(너는) 간다/타고 가다,go,verb,R3,Y
+2119,posłuchać,,들어보다,listen,verb,R3,Y
+2120,sercu,,심장에/마음에,heart,noun,R3,Y
+2121,najważniejsze,,가장 중요한,important,adj,R3,N
+2122,zostawię,,(나는) 남겨둘 것이다,leave,verb,R3,N
+2124,mogłoby,,~할 수도 있을 텐데,can,verb,R3,N
+2125,dupy,,엉덩이(비속어),butt,noun,R3,N
+2126,skrzywdzić,,해치다,hurt,verb,R3,N
+2127,przeprosić,,사과하다,apologize,verb,R3,N
+2128,sądziłem,,(나는) 생각했다,think,verb,R3,N
+2129,wierzy,,(그는) 믿다,believe,verb,R3,N
+2130,klientów,,고객들의,customer,noun,R3,Y
+2131,bezpiecznie,,안전하게,safely,adv,R3,N
+2132,dotykaj,,만져라,touch,verb,R3,Y
+2133,bólu,,고통의,pain,noun,R3,N
+2134,ducha,,유령/영혼의,ghost,noun,R3,Y
+2135,wolności,,자유의,freedom,noun,R3,N
+2137,układ,,배치/협정,arrangement,noun,R3,N
+2138,zabij,,죽여라,kill,verb,R3,N
+2139,seksu,,성(性)의,sex,noun,R3,N
+2140,pamięta,,(그는) 기억하다,remember,verb,R3,N
+2141,pewność,,확신,certainty,noun,R3,N
+2143,ocalić,,구하다,save,verb,R3,N
+2144,zacząłem,,(나는) 시작했다,start,verb,R3,N
+2145,pamięć,,기억,memory,noun,R3,N
+2146,cenę,,가격을,price,noun,R3,N
+2147,opowiedz,,이야기해 줘,tell,verb,R3,N
+2148,jakiejś,,어떤,some,pron,R3,N
+2149,móc,,할 수 있다,can,verb,R3,N
+2150,teren,,지역/땅,area,noun,R3,N
+2151,sklep,,가게,shop,noun,R3,Y
+2152,konia,,말을/말의,horse,noun,R3,Y
+2153,następnie,,그 다음에,then,adv,R3,N
+2154,poprzez,,~을 통해,through,prep,R3,N
+2155,niedaleko,,멀지 않은 곳에,near,adv,R3,N
+2156,zdarza,,(일이) 일어나다,happen,verb,R3,N
+2157,uczyć,,가르치다/배우다,teach,verb,R3,Y
+2158,stanu,,상태의/주(州)의,state,noun,R3,N
+2159,śpi,,(그는) 잔다,sleep,verb,R3,Y
+2160,obudź,,깨워라,wake up,verb,R3,Y
+2161,napisał,,(그가) 썼다,write,verb,R3,Y
+2162,dostałeś,,(너는) 받았다,get,verb,R3,N
+2164,prawdziwą,,진짜의,real,adj,R3,N
+2165,strach,,두려움,fear,noun,R3,N
+2166,umiesz,,(너는) 할 줄 안다,know how,verb,R3,N
+2167,interesy,,사업/이익,business,noun,R3,N
+2168,wszystkimi,,모든 사람들과,everyone,pron,R3,N
+2169,silny,,강한,strong,adj,R3,Y
+2170,prosze,,부탁합니다,please,intj,R3,N
+2171,bank,,은행,bank,noun,R3,Y
+2172,wyobrazić,,상상하다,imagine,verb,R3,N
+2173,potrzebna,,필요한,needed,adj,R3,N
+2174,moge,,(나는) 할 수 있다,can,verb,R3,N
+2175,przyjaciółka,,여자 친구/여사친,friend,noun,R3,Y
+2176,zmęczony,,피곤한,tired,adj,R3,Y
+2177,bezpieczna,,안전한,safe,adj,R3,N
+2178,potrzebować,,필요로 하다,need,verb,R3,N
+2179,klubu,,클럽의,club,noun,R3,Y
+2180,niezbyt,,그다지 ~않게,not very,adv,R3,N
+2181,komputer,,컴퓨터,computer,noun,R3,Y
+2182,nieprawdaż,,그렇지 않나요,isn't it,part,R3,N
+2183,impreza,,파티,party,noun,R3,Y
+2185,wróć,,돌아와라,return,verb,R3,N
+2186,byliście,,(너희는) 있었다,be,verb,R3,N
+2187,najlepszą,,가장 좋은,best,adj,R3,N
+2188,siłę,,힘을,strength,noun,R3,N
+2189,pociąg,,기차,train,noun,R3,Y
+2190,szkoła,,학교,school,noun,R3,Y
+2191,przeszłość,,과거,past,noun,R3,N
+2192,normalnie,,정상적으로,normally,adv,R3,N
+2193,okazało,,~로 드러났다,turn out,verb,R3,N
+2194,oczywiste,,분명한,obvious,adj,R3,N
+2195,bezpieczny,,안전한,safe,adj,R3,N
+2196,wyjechać,,떠나다,leave,verb,R3,Y
+2197,zero,,영(0),zero,num,R3,N
+2198,następne,,다음의,next,adj,R3,N
+2199,gościem,,손님으로,guest,noun,R3,Y
+2200,czekajcie,,(너희) 기다려라,wait,verb,R3,N
+2201,pistolet,,권총,gun,noun,R3,Y
+2202,wiedziałaś,,(너는) 알았다,know,verb,R3,N
+2203,zapach,,냄새,smell,noun,R3,N
+2204,używać,,사용하다,use,verb,R3,N
+2205,doszło,,~에 이르렀다/발생했다,happen,verb,R3,N
+2206,drużyny,,팀의,team,noun,R3,Y
+2208,waszych,,너희의,your,pron,R3,N
+2209,wyluzuj,,진정해라,relax,verb,R3,N
+2210,idealnie,,완벽하게,perfectly,adv,R3,N
+2211,tatuś,,아빠,daddy,noun,R3,Y
+2212,biorąc,,가지면서,take,verb,R3,N
+2213,łatwiej,,더 쉽게,easier,adv,R3,N
+2214,pieprzyć,,망치다/엿먹이다(비속어),fuck,verb,R3,N
+2215,gwiazdy,,별들,star,noun,R3,Y
+2216,znaleziono,,발견되었다,find,verb,R3,N
+2217,liczyć,,세다,count,verb,R3,N
+2218,wątpliwości,,의심들,doubt,noun,R3,N
+2219,ukryć,,숨기다,hide,verb,R3,Y
+2220,wymaga,,요구하다,require,verb,R3,N
+2221,kamery,,카메라(들),camera,noun,R3,Y
+2223,trakcie,,~하는 동안,during,noun,R3,N
+2224,powrót,,귀환,return,noun,R3,N
+2225,wyglądał,,(그가) ~처럼 보였다,look,verb,R3,N
+2226,alarm,,경보,alarm,noun,R3,Y
+2227,filmu,,영화의,film,noun,R3,Y
+2228,głęboko,,깊게,deeply,adv,R3,N
+2229,ręki,,손의,hand,noun,R3,Y
+2230,czyni,,(그는) 만들다/하다,make,verb,R3,N
+2231,zechcesz,,(너는) 원할 것이다,want,verb,R3,N
+2232,udawać,,~인 척하다,pretend,verb,R3,N
+2233,planu,,계획의,plan,noun,R3,N
+2234,siostro,,누나/여동생(호칭),sister,noun,R3,Y
+2235,czytać,,읽다,read,verb,R3,Y
+2237,jutra,,내일의,tomorrow,noun,R3,N
+2238,problemem,,문제로,problem,noun,R3,N
+2239,śmieci,,쓰레기,trash,noun,R3,Y
+2241,dzwonię,,(나는) 전화한다,call,verb,R3,N
+2242,byłbym,,(나라면) ~일 텐데,be,verb,R3,N
+2243,duch,,유령/영혼,ghost,noun,R3,Y
+2244,przyjechał,,(그가) 도착했다,arrive,verb,R3,Y
+2246,rozmowa,,대화,conversation,noun,R3,N
+2247,narkotyki,,마약,drugs,noun,R3,N
+2249,cholernie,,빌어먹게/매우,damn,adv,R3,N
+2252,zostaną,,(그들은) 남을 것이다,stay,verb,R3,N
+2253,ryzyko,,위험,risk,noun,R3,N
+2254,strzał,,발사/총성,shot,noun,R3,Y
+2255,sto,,백(100),hundred,num,R3,N
+2256,wyjdziesz,,(너는) 나갈 것이다,go out,verb,R3,Y
+2257,cos,,뭔가,something,pron,R3,N
+2258,wykorzystać,,이용하다,use,verb,R3,N
+2259,dziadek,,할아버지,grandfather,noun,R3,Y
+2260,długa,,긴,long,adj,R3,Y
+2261,wóz,,수레/차,cart,noun,R3,Y
+2262,szlag,,젠장(비속어),damn,noun,R3,N
+2263,kompletnie,,완전히,completely,adv,R3,N
+2264,pomógł,,(그가) 도왔다,help,verb,R3,N
+2265,wolność,,자유,freedom,noun,R3,N
+2268,nawzajem,,서로,each other,adv,R3,N
+2269,czekają,,(그들은) 기다리다,wait,verb,R3,N
+2271,pamięci,,기억의,memory,noun,R3,N
+2272,powinniście,,(너희는) ~해야 한다,should,verb,R3,N
+2273,jesli,,만약 ~라면,if,conj,R3,N
+2274,nr,,번호(No.),number,noun,R3,N
+2275,prezydenta,,대통령의,president,noun,R3,Y
+2276,tęsknię,,(나는) 그리워한다,miss,verb,R3,N
+2277,najlepszych,,가장 좋은(복수),best,adj,R3,N
+2278,przyniosę,,(나는) 가져올 것이다,bring,verb,R3,N
+2279,śledztwo,,수사,investigation,noun,R3,N
+2280,wyciągnąć,,꺼내다/끌어내다,pull out,verb,R3,Y
+2281,mieszkam,,(나는) 산다,live,verb,R3,N
+2282,wspomnienia,,추억들,memory,noun,R3,N
+2283,którymi,,그것들과 함께 하는(관계대명사),which,pron,R3,N
+2284,tygodnia,,주(週)의,week,noun,R3,N
+2285,boi,,(그는) 두려워하다,fear,verb,R3,N
+2286,pojawił,,(그가) 나타났다,appear,verb,R3,N
+2287,rozkazy,,명령들,order,noun,R3,N
+2288,łodzi,,배의,boat,noun,R3,Y
+2289,zmiana,,변화,change,noun,R3,N
+2290,psy,,개들,dog,noun,R3,Y
+2291,zajęcia,,수업/활동,class,noun,R3,N
+2292,samobójstwo,,자살,suicide,noun,R3,N
+2293,potrwa,,지속될 것이다,last,verb,R3,N
+2294,bycia,,~임의,being,noun,R3,N
+2295,bierzesz,,(너는) 가지다,take,verb,R3,N
+2296,starego,,늙은/오래된,old,adj,R3,Y
+2297,tamtego,,저(그),that,pron,R3,N
+2298,wolne,,자유로운/한가한,free,adj,R3,N
+2299,towar,,상품,goods,noun,R3,Y
+2300,sytuację,,상황을,situation,noun,R3,N
+2302,głową,,머리로,head,noun,R3,Y
+2303,zadowolony,,만족한,satisfied,adj,R3,Y
+2304,pewnym,,어떤/확실한,certain,adj,R3,N
+2305,normalne,,정상적인,normal,adj,R3,N
+2306,pieprzony,,빌어먹을(비속어),fucking,adj,R3,N
+2307,fajne,,멋진,cool,adj,R3,N
+2308,jakich,,어떤(종류의),which,pron,R3,N
+2309,ładny,,예쁜,pretty,adj,R3,Y
+2310,gdziekolwiek,,어디든,anywhere,adv,R3,N
+2311,zabiła,,(그녀가) 죽였다,kill,verb,R3,N
+2312,północy,,자정의/북쪽의,midnight,noun,R3,N
+2313,przynieść,,가져오다,bring,verb,R3,Y
+2314,that,,that(영어 단어),that,part,R3,N
+2315,żebyście,,너희가 ~하도록,so that,conj,R3,N
+2317,podobnie,,비슷하게,similarly,adv,R3,N
+2318,spadaj,,꺼져라,get lost,verb,R3,N
+2319,piątek,,금요일,Friday,noun,R3,N
+2320,ciężkie,,무거운/힘든,heavy,adj,R3,Y
+2321,większe,,더 큰,bigger,adj,R3,Y
+2322,okoliczności,,상황들,circumstance,noun,R3,N
+2323,mego,,나의,my,pron,R3,N
+2324,waszego,,너희의,your,pron,R3,N
+2325,słodki,,달콤한/귀여운,sweet,adj,R3,Y
+2326,sztuki,,예술/연극,art,noun,R3,N
+2327,wsparcie,,지원,support,noun,R3,N
+2328,gorąco,,뜨겁게/덥다,hot,adv,R3,Y
+2329,okazję,,기회를,opportunity,noun,R3,N
+2330,zaczekać,,기다리다,wait,verb,R3,N
+2331,odpowiada,,대답하다/적합하다,answer,verb,R3,N
+2332,dajesz,,(너는) 준다,give,verb,R3,Y
+2333,leki,,약들,medicine,noun,R3,Y
+2334,cisza,,침묵,silence,noun,R3,N
+2335,przyjaciółką,,여자 친구와,friend,noun,R3,Y
+2336,będąc,,~이면서,be,verb,R3,N
+2337,niebo,,하늘,sky,noun,R3,Y
+2338,chcieliśmy,,(우리는) 원했다,want,verb,R3,N
+2339,chora,,아픈(여성),sick,adj,R3,Y
+2340,pełni,,가득/보름달,full,adj,R3,N
+2341,kochana,,사랑하는(여성),dear,adj,R3,N
+2343,pokładzie,,갑판에,deck,noun,R3,N
+2344,siostrą,,자매와,sister,noun,R3,Y
+2345,wino,,와인,wine,noun,R3,Y
+2346,spotkałem,,(나는) 만났다,meet,verb,R3,N
+2348,napisać,,쓰다,write,verb,R3,Y
+2349,kotku,,아가/고양이(애칭),kitten,noun,R3,Y
+2350,dziewczyn,,소녀들의,girl,noun,R3,Y
+2351,punkcie,,지점에서,point,noun,R3,N
+2352,ofiar,,희생자들의,victim,noun,R3,N
+2353,czasach,,시대에,time,noun,R3,N
+2354,dziwny,,이상한,strange,adj,R3,N
+2355,badań,,연구들의,research,noun,R3,N
+2356,napisane,,쓰여진,written,adj,R3,N
+2357,poradzić,,조언하다/대처하다,advise,verb,R3,N
+2358,minutę,,1분을,minute,noun,R3,N
+2359,trzymasz,,(너는) 잡고 있다,hold,verb,R3,Y
+2360,połowę,,절반을,half,noun,R3,N
+2361,konieczne,,필수적인,necessary,adj,R3,N
+2362,chłopakiem,,남자친구와/소년과,boy,noun,R3,Y
+2363,stóp,,발들의,foot,noun,R3,Y
+2364,tatą,,아빠와,dad,noun,R3,Y
+2365,zadać,,(질문 등을) 하다,ask,verb,R3,N
+2366,podejdź,,다가와라,approach,verb,R3,Y
+2367,mieszkaniu,,아파트에서,apartment,noun,R3,Y
+2369,wchodzi,,(그는) 들어오다,enter,verb,R3,Y
+2370,detektywie,,형사님,detective,noun,R3,Y
+2371,sklepie,,가게에서,shop,noun,R3,Y
+2372,patrzysz,,(너는) 본다,look,verb,R3,Y
+2373,państwa,,나라의/여러분,state,noun,R3,N
+2374,duszę,,영혼을,soul,noun,R3,N
+2375,poszedłem,,(나는) 갔다,go,verb,R3,Y
+2376,zabrali,,(그들은) 데려갔다,take,verb,R3,N
+2377,projekt,,프로젝트,project,noun,R3,N
+2379,najmniej,,가장 적게,least,adv,R3,N
+2380,poważne,,심각한,serious,adj,R3,N
+2381,czynienia,,상대함/관계,dealing,noun,R3,N
+2382,trzeci,,세 번째,third,num,R3,N
+2384,sekret,,비밀,secret,noun,R3,N
+2385,kolejną,,또 다른,another,adj,R3,N
+2386,jestes,,(너는) ~이다,be,verb,R3,N
+2387,klucze,,열쇠들,key,noun,R3,Y
+2388,ranny,,부상당한,wounded,adj,R3,Y
+2389,kolejna,,또 다른,another,adj,R3,N
+2390,zęby,,치아들,tooth,noun,R3,Y
+2391,kwestia,,문제/사안,matter,noun,R3,N
+2392,mając,,가지면서,have,verb,R3,N
+2393,zobaczył,,(그가) 보았다,see,verb,R3,Y
+2394,pańskie,,당신의(격식),your,pron,R3,N
+2395,umowa,,계약,contract,noun,R3,N
+2396,moze,,아마도,maybe,adv,R3,N
+2397,wyjdę,,(나는) 나갈 것이다,go out,verb,R3,Y
+2398,mieszkać,,살다,live,verb,R3,N
+2399,pozwala,,허락하다,allow,verb,R3,N
+2400,odciski,,지문/자국,print,noun,R3,N
+2401,czysto,,깨끗하게,clean,adv,R3,Y
+2402,bezpieczne,,안전한,safe,adj,R3,N
+2403,stała,,섰다/일정한,stand,verb,R3,N
+2404,zmarła,,(그녀가) 사망했다,die,verb,R3,N
+2405,twoimi,,너의 ~들과,your,pron,R3,N
+2407,obecnie,,현재,currently,adv,R3,N
+2408,pierdol,,엿먹어라(비속어),fuck,verb,R3,N
+2409,powinny,,~해야 한다(복수),should,verb,R3,N
+2410,powodów,,이유들의,reason,noun,R3,N
+2411,wujku,,삼촌(호칭),uncle,noun,R3,Y
+2412,zrobienia,,하기의,doing,noun,R3,N
+2413,zapomniałam,,(나는) 잊었다,forget,verb,R3,N
+2414,patrzę,,(나는) 본다,look,verb,R3,Y
+2415,zamiaru,,의도의,intention,noun,R3,N
+2416,południe,,정오/남쪽,noon,noun,R3,N
+2417,stole,,탁자에서,table,noun,R3,Y
+2419,ukradł,,(그가) 훔쳤다,steal,verb,R3,Y
+2420,wróciłeś,,(너는) 돌아왔다,return,verb,R3,N
+2421,wybaczcie,,용서해 주세요,forgive,verb,R3,N
+2423,czułam,,(나는) 느꼈다,feel,verb,R3,N
+2424,jazdy,,운전/주행의,driving,noun,R3,Y
+2425,samych,,스스로의,self,pron,R3,N
+2426,armii,,군대의,army,noun,R3,Y
+2427,km,,킬로미터,km,noun,R3,N
+2428,zeszłej,,지난,last,adj,R3,N
+2429,działo,,일어났다/대포,happen,verb,R3,N
+2431,umarła,,(그녀가) 죽었다,die,verb,R3,N
+2432,wieczoru,,저녁의,evening,noun,R3,Y
+2433,wydawało,,~처럼 보였다,seem,verb,R3,N
+2434,kieszeni,,주머니의,pocket,noun,R3,Y
+2435,piłkę,,공을,ball,noun,R3,Y
+2436,misji,,임무의,mission,noun,R3,N
+2437,pokonać,,물리치다,defeat,verb,R3,N
+2438,działania,,행동들/작용,action,noun,R3,N
+2439,czekamy,,(우리는) 기다린다,wait,verb,R3,N
+2440,znał,,(그가) 알았다,know,verb,R3,N
+2441,dowiemy,,(우리는) 알게 될 것이다,find out,verb,R3,N
+2442,skończyliśmy,,(우리는) 끝냈다,finish,verb,R3,N
+2443,setki,,수백,hundred,num,R3,N
+2444,świąt,,명절의/크리스마스의,holiday,noun,R3,N
+2445,ciśnienie,,압력/혈압,pressure,noun,R3,N
+2446,dziewczynki,,소녀들/소녀의,girl,noun,R3,Y
+2447,wysłał,,(그가) 보냈다,send,verb,R3,Y
+2448,spodnie,,바지,pants,noun,R3,Y
+2449,gadasz,,(너는) 떠든다,talk,verb,R3,Y
+2450,kartę,,카드를,card,noun,R3,Y
+2451,nosić,,입다/나르다,wear,verb,R3,Y
+2452,nos,,코,nose,noun,R3,Y
+2453,pole,,들판/분야,field,noun,R3,Y
+2454,przypuszczam,,(나는) 추측한다,suppose,verb,R3,N
+2455,faktycznie,,사실상,actually,adv,R3,N
+2456,piosenkę,,노래를,song,noun,R3,Y
+2457,zacznij,,시작해라,start,verb,R3,N
+2459,dupek,,멍청이(비속어),jerk,noun,R3,N
+2460,zdjęć,,사진들의,photo,noun,R3,Y
+2461,zabili,,(그들은) 죽였다,kill,verb,R3,N
+2463,nadszedł,,(그가) 도래했다,come,verb,R3,N
+2464,czysty,,깨끗한,clean,adj,R3,Y
+2465,dzieciaka,,꼬마를/꼬마의,kid,noun,R3,Y
+2466,kłamstwo,,거짓말,lie,noun,R3,N
+2467,show,,쇼,show,noun,R3,Y
+2468,mistrzu,,대가님/챔피언(호칭),master,noun,R3,N
+2469,żałuję,,(나는) 후회한다,regret,verb,R3,N
+2470,zrobią,,(그들은) 할 것이다,do,verb,R3,N
+2471,poczucie,,감각/느낌,feeling,noun,R3,N
+2473,akt,,행위/증서/누드,act,noun,R3,N
+2475,oby,,~이기를,hopefully,part,R3,N
+2476,kościoła,,교회의,church,noun,R3,Y
+2477,nakaz,,명령/영장,order,noun,R3,N
+2478,obejrzeć,,구경하다/보다,watch,verb,R3,Y
+2480,nagranie,,녹음/녹화,recording,noun,R3,N
+2481,pozwolisz,,(너는) 허락할 것이다,allow,verb,R3,N
+2482,narkotyków,,마약의,drugs,noun,R3,N
+2483,łączy,,(그는) 연결하다,connect,verb,R3,N
+2484,jasno,,밝게/분명히,brightly,adv,R3,N
+2485,słodkie,,달콤한,sweet,adj,R3,Y
+2486,zrobione,,된/만들어진,done,adj,R3,N
+2487,zwierzęta,,동물들,animal,noun,R3,Y
+2488,pijany,,취한,drunk,adj,R3,Y
+2489,łeb,,머리(속어),head,noun,R3,Y
+2490,żartuję,,(나는) 농담한다,joke,verb,R3,N
+2491,gejem,,게이와,gay,noun,R3,N
+2492,kolor,,색,color,noun,R3,Y
+2493,królem,,왕으로,king,noun,R3,Y
+2494,zajęta,,바쁜(여성),busy,adj,R3,N
+2495,zachowanie,,행동,behavior,noun,R3,N
+2496,muzykę,,음악을,music,noun,R3,Y
+2497,kontrolować,,통제하다,control,verb,R3,N
+2498,pańska,,당신의(격식),your,pron,R3,N
+2499,mężczyznę,,남자를,man,noun,R3,Y
+2500,nogę,,다리를,leg,noun,R3,Y
