@@ -1,0 +1,2444 @@
+rank,word,reading,ko,en,pos,level,picturable
+1,的,de,~의 (관형격 조사),of,助,R1,N
+2,是,shì,~이다,be,动,R1,N
+3,在,zài,~에 있다·~에서,at,动、介、副,R1,N
+4,了,le,~했다 (완료·변화 조사),done,动,R1,N
+5,我,wǒ,나·저,I,代,R1,N
+6,和,hé,~와·그리고,and,介、连,R1,N
+7,有,yǒu,있다·가지다,have,动,R1,N
+8,不,bù,아니다·안,not,副,R1,N
+9,人,rén,사람,person,名,R1,Y
+10,也,yě,~도,also,副,R1,N
+11,你,nǐ,너·당신,you,代,R1,N
+12,为,wèi,~을 위해·~로서,for,介,R1,N
+13,他,tā,그(남자),he,代,R1,N
+14,这,zhè,이·이것,this,代,R1,N
+15,中,zhōng,가운데·중국,middle,名,R1,N
+16,与,yǔ,~와·및,and,介、连,R1,N
+17,年,nián,해·년,year,量,R1,N
+18,对,duì,맞다·~에게,correct,介、动,R1,N
+19,就,jiù,곧·바로,then,副,R1,N
+20,都,dōu,모두·다,all,副,R1,N
+21,一个,yíge,한 개·하나,one,数量,R1,N
+22,上,shàng,위·오르다,up,名、动,R1,N
+23,说,shuō,말하다,speak,动,R1,Y
+24,吗,ma,~까? (의문 조사),question particle,助,R1,N
+25,我们,wǒmen,우리,we,代,R1,N
+26,会,huì,할 줄 알다·~일 것이다,can,名,R1,N
+27,到,dào,도착하다·~까지,arrive,动,R1,Y
+28,要,yào,원하다·~할 것이다,want,连,R1,N
+29,来,lái,오다,come,动,R1,Y
+30,中国,zhōngguó,중국,China,名,R1,N
+31,月,yuè,달·월,moon,名,R1,Y
+32,被,bèi,~에게 ~당하다 (피동),by,介,R1,N
+33,他们,tāmen,그들,they,代,R1,N
+34,没有,méiyǒu,없다·~하지 않았다,not have,动、副,R1,N
+35,还,hái,아직·또한,still,动,R1,N
+36,而,ér,그리고·그러나 (접속사),and,连,R1,N
+37,个,gè,(양사) 개·명,piece,量,R1,N
+38,可以,kěyǐ,~할 수 있다,may,动,R1,N
+39,后,hòu,뒤·후에,after,名,R1,N
+40,等,děng,기다리다·등급,wait,助、名,R1,Y
+41,但,dàn,그러나 (역접),but,连,R1,N
+42,于,yú,~에·~에서,at,介,R1,N
+43,什么,shénme,무엇,what,代,R1,N
+44,日,rì,해·날,sun,名,R1,Y
+45,这个,zhège,이것,this one,代,R1,N
+46,将,jiāng,~을·장차 (미래 표시),will,副、介,R1,N
+47,并,bìng,그리고·또한,and,动,R1,N
+48,能,néng,~할 수 있다,can,动,R1,N
+49,一,yī,하나·1,one,数,R1,N
+50,很,hěn,매우·아주,very,副,R1,N
+51,让,ràng,~하게 하다·시키다,let,动、介,R1,N
+52,从,cóng,~부터·~로부터,from,介,R1,N
+53,国家,guójiā,국가·나라,country,名,R1,N
+54,以,yǐ,~로써·~으로,by means of,介、连,R1,N
+55,好,hǎo,좋다,good,动,R1,N
+56,大,dà,크다,big,形,R1,Y
+57,她,tā,그녀,she,代,R1,N
+58,着,zhe,~하고 있다 (동태 조사),ongoing,动,R1,N
+59,多,duō,많다,many,副,R1,N
+60,自己,zìjǐ,자기 자신,oneself,代,R1,N
+61,问题,wèntí,문제·질문,problem,名,R1,N
+62,时,shí,때·시각,time,名,R1,N
+63,给,gěi,주다·~에게,give,动、介,R1,Y
+64,把,bǎ,~을/를 (개사)·자루,grasp,量,R1,N
+65,去,qù,가다,go,动,R1,Y
+66,看,kàn,보다,look,动,R1,Y
+67,又,yòu,또·다시,again,副,R1,N
+68,美国,měiguó,미국,America,名,R1,N
+69,或,huò,혹은·또는,or,连,R1,N
+70,因为,yīnwèi,~때문에,because,连、介,R1,N
+71,下,xià,아래·내리다,down,量,R1,N
+72,不是,búshì,~이 아니다,is not,副,R1,N
+73,之,zhī,~의 (문어),of,助,R1,N
+74,现在,xiànzài,지금·현재,now,名,R1,N
+75,过,guò,~한 적 있다·지나다,pass,助,R1,N
+76,新,xīn,새롭다,new,形,R1,N
+77,里,lǐ,안·속,inside,名,R1,N
+78,做,zuò,하다·만들다,do,动,R1,N
+79,及,jí,및·그리고,and,连,R1,N
+80,地,de,~하게 (부사형 조사),-ly,名,R1,N
+81,由,yóu,~로부터·~때문에,from,介,R1,N
+83,怎么,zěnme,어떻게,how,代,R1,N
+84,没,méi,~하지 않았다 (부정),not,副、动,R1,N
+85,用,yòng,사용하다,use,动,R1,N
+86,就是,jiùshì,바로 ~이다·단지,exactly,连,R1,N
+87,已经,yǐjīng,이미·벌써,already,副,R1,N
+88,更,gèng,더욱·더,more,副,R1,N
+89,这些,zhèxiē,이것들,these,代,R1,N
+91,得,dé,얻다·(보어 조사),get,动,R1,N
+92,所,suǒ,곳·~하는 바,place,助,R1,N
+93,发展,fāzhǎn,발전하다·발전,develop,动、名,R1,N
+94,开始,kāishǐ,시작하다,start,动、名,R1,N
+95,想,xiǎng,생각하다·바라다,think,动,R1,Y
+96,最,zuì,가장·제일,most,副,R1,N
+97,这样,zhèyàng,이렇게·이런 식,like this,代,R1,N
+98,公司,gōngsī,회사,company,名,R1,Y
+99,它,tā,그것,it,代,R1,N
+100,政府,zhèngfǔ,정부,government,名,R1,N
+101,可能,kěnéng,아마도·가능하다,maybe,动、形、名,R1,N
+102,那,nà,그·저,that,连,R1,N
+104,工作,gōngzuò,일하다·직업,work,动、名,R1,Y
+105,社会,shèhuì,사회,society,名,R1,N
+106,三,sān,셋·3,three,数,R1,N
+107,可,kě,~할 수 있다·정말 (강조),can,副、连,R1,N
+108,吧,ba,~하자·~이지? (어기 조사),suggestion particle,助,R1,N
+109,如果,rúguǒ,만약 (가정),if,连,R1,N
+110,知道,zhīdao,알다,know,动,R1,N
+111,进行,jìnxíng,진행하다,carry out,动,R1,N
+112,世界,shìjiè,세계,world,名,R1,Y
+113,其,qí,그(의) (지시대명사),its,代,R1,N
+114,日本,rìběn,일본,Japan,名,R1,N
+115,该,gāi,마땅히 ~해야 하다,should,代,R1,N
+117,不能,bùnéng,~할 수 없다,cannot,动,R1,N
+118,只,zhǐ,단지·오직,only,量,R1,N
+119,向,xiàng,~을 향해,toward,介、动,R1,N
+120,计划,jìhuà,계획·계획하다,plan,名、动,R1,N
+121,前,qián,앞·전에,front,名,R1,N
+122,成为,chéngwéi,~이 되다,become,动,R1,N
+123,时间,shíjiān,시간,time,名,R1,Y
+124,认为,rènwéi,생각하다·여기다,think,动,R1,N
+125,需要,xūyào,필요하다,need,动、名,R1,N
+126,出,chū,나가다·나오다,go out,动,R1,Y
+127,啊,a,아! (감탄사),ah,叹,R1,N
+128,已,yǐ,이미,already,副,R1,N
+129,再,zài,다시·또,again,副,R1,N
+130,国际,guójì,국제적인,international,名,R1,N
+131,地区,dìqū,지역,area,名,R1,N
+132,小,xiǎo,작다,small,形,R1,Y
+133,当,dāng,~할 때·~로서,when,动,R1,N
+134,时候,shíhou,때·시각,time,名,R1,N
+135,们,men,~들 (복수 접미사),plural suffix,助,R1,N
+136,内,nèi,안·내부,inside,名,R1,N
+137,却,què,그러나·오히려 (부사),but,副,R1,N
+138,使用,shǐyòng,사용하다,use,动,R1,N
+139,才,cái,비로소·그제서야,only then,名,R1,N
+140,经济,jīngjì,경제,economy,名、形,R1,N
+141,活动,huódòng,활동·행사,event,动、名,R1,N
+142,爱,ài,사랑하다,love,动,R1,Y
+143,但是,dànshì,그러나·하지만,but,连,R1,N
+144,历史,lìshǐ,역사,history,名,R1,N
+145,应该,yīnggāi,마땅히 ~해야 한다,should,动,R1,N
+146,政治,zhèngzhì,정치,politics,名,R1,N
+147,第,dì,제~ (서수 접두사),ordinal prefix,前缀,R1,N
+148,谁,shuí,누구,who,代,R1,N
+150,不会,búhuì,~할 줄 모르다·~하지 않을 것이다,will not,副,R1,N
+151,以及,yǐjí,그리고·및 (접속사),and,连,R1,N
+152,情况,qíngkuàng,상황,situation,名,R1,N
+153,真的,zhēnde,정말로,really,副,R1,N
+154,组织,zǔzhī,조직(하다),organize,动、名,R1,N
+156,人民,rénmín,인민·국민,people,名,R1,Y
+157,其他,qítā,다른·기타,other,代,R1,N
+158,发生,fāshēng,발생하다·일어나다,happen,动,R1,N
+159,主要,zhǔyào,주요한·주된,main,形,R1,N
+160,号,hào,번호·일(날짜),number,名、量,R1,N
+161,地方,dìfang,장소·곳,place,名,R1,N
+162,网站,wǎngzhàn,웹사이트,website,名,R1,N
+163,香港,xiānggǎng,홍콩,Hong Kong,名,R1,N
+164,生活,shēnghuó,생활·살다,life,名、动,R1,N
+165,这种,zhèzhǒng,이런 종류,this kind,代,R1,N
+166,你们,nǐmen,너희들,you,代,R1,N
+167,通过,tōngguò,~을 통해·통과하다,pass through,介、动,R1,N
+168,为了,wèile,~을 위하여,in order to,介,R1,N
+169,事,shì,일·사건,matter,名,R1,N
+170,同时,tóngshí,동시에,at the same time,连、名,R1,N
+171,必须,bìxū,반드시 ~해야 한다,must,副,R1,N
+172,快,kuài,빠르다,fast,形、副,R1,Y
+173,所以,suǒyǐ,그래서·그러므로,so,连,R1,N
+174,所有,suǒyǒu,모든·전부,all,形,R1,N
+175,比,bǐ,~보다·비교하다,compare,介、动,R1,N
+176,跟,gēn,~와 함께·따라가다,with,介、连、动,R1,N
+177,包括,bāokuò,포함하다,include,动,R1,N
+178,发现,fāxiàn,발견하다,discover,动、名,R1,N
+179,请,qǐng,청하다·부디,please,动,R1,N
+180,还有,háiyǒu,그리고 또·게다가,also,连,R1,N
+181,长,cháng,길다,long,形,R1,Y
+182,一些,yīxiē,약간·조금,some,数量,R1,N
+183,为什么,wèishénme,왜,why,代,R1,N
+184,全国,quánguó,전국,whole country,名,R1,N
+185,决定,juédìng,결정하다,decide,动、名,R1,N
+186,出现,chūxiàn,나타나다,appear,动,R1,N
+187,呢,ne,~는요? (어기 조사),question particle,助,R1,N
+188,如何,rúhé,어떻게,how,代,R1,N
+189,还是,háishi,아니면·그래도,or,副、连,R1,N
+191,一样,yīyàng,같다·똑같이,same,形,R1,N
+192,企业,qǐyè,기업,company,名,R1,N
+193,其中,qízhōng,그중에,among,名,R1,N
+194,北京,běijīng,북경,Beijing,名,R1,N
+195,觉得,juéde,느끼다·생각하다,feel,动,R1,N
+196,重要,zhòngyào,중요하다,important,形,R1,N
+197,高,gāo,높다·키가 크다,tall,形,R1,Y
+199,影响,yǐngxiǎng,영향·영향을 주다,influence,动、名,R1,N
+201,则,zé,곧·~하면,then,量,R1,N
+202,喜欢,xǐhuan,좋아하다,like,动,R1,Y
+203,文化,wénhuà,문화,culture,名,R1,N
+204,起来,qǐlai,일어나다·~하기 시작하다,get up,动,R1,N
+205,不过,bùguò,그런데·다만,but,连,R1,N
+206,作为,zuòwéi,~로서 (자격),as,介、动,R1,N
+207,学生,xuésheng,학생,student,名,R1,Y
+208,希望,xīwàng,희망하다·바라다,hope,动、名,R1,N
+209,技术,jìshù,기술,technology,名,R1,N
+210,提供,tígōng,제공하다,provide,动,R1,N
+211,至,zhì,~까지·이르다,to,动,R1,N
+212,要求,yāoqiú,요구하다,demand,动、名,R1,N
+213,那么,nàme,그러면·그렇다면,so,代,R1,N
+214,钱,qián,돈,money,名,R1,Y
+216,一定,yídìng,반드시·꼭,surely,形、副,R1,N
+217,不同,bùtóng,다르다,different,形,R1,N
+218,电影,diànyǐng,영화,movie,名,R1,Y
+219,万,wàn,만,ten thousand,数,R1,N
+220,不要,búyào,~하지 마라,don't,副,R1,N
+221,使,shǐ,~하게 하다·시키다,make,动,R1,N
+222,像,xiàng,닮다·~와 같다,resemble,名,R1,N
+223,点,diǎn,시,o'clock,量、动、名,R1,N
+224,关系,guānxi,관계,relation,名、动,R1,N
+225,只是,zhǐshì,다만·단지,only,副、连,R1,N
+226,听,tīng,듣다,listen,动,R1,Y
+227,研究,yánjiū,연구하다,research,动,R1,N
+228,这么,zhème,이렇게·이만큼,so,代,R1,N
+229,出来,chūlai,나오다,come out,动,R1,Y
+230,根据,gēnjù,~에 근거하다·근거,basis,动、介、名,R1,N
+231,此,cǐ,이·이것 (지시대명사),this,代,R1,N
+232,系统,xìtǒng,체계·시스템,system,名、形,R1,N
+233,起,qǐ,일어나다·솟다,rise,动,R1,N
+234,两,liǎng,둘·두 개의,two,量,R1,N
+235,任何,rènhé,어떠한·아무런,any,代,R1,N
+236,只有,zhǐyǒu,오직 ~만,only,连,R1,N
+237,服务,fúwù,봉사하다·서비스,service,动,R1,N
+238,结果,jiéguǒ,결과,result,名,R1,N
+239,自,zì,~로부터·스스로,from,介,R1,N
+240,这里,zhèlǐ,여기,here,代,R1,N
+241,一起,yìqǐ,함께·같이,together,副、名,R1,Y
+242,因此,yīncǐ,그래서 (접속사),therefore,连,R1,N
+243,国,guó,나라,country,名,R1,N
+244,如,rú,~와 같다·만약,as,动、连,R1,N
+245,带,dài,가지고 가다·띠,carry,动,R1,N
+246,游戏,yóuxì,게임·놀이,game,名,R1,Y
+247,看到,kàndào,보다·보이다,see,动,R1,Y
+248,虽然,suīrán,비록 ~이지만,although,连,R1,N
+249,走,zǒu,걷다·떠나다,walk,动,R1,Y
+251,中心,zhōngxīn,중심,center,名,R1,N
+252,人们,rénmen,사람들,people,名,R1,Y
+253,今天,jīntiān,오늘,today,名,R1,N
+254,代表,dàibiǎo,대표·대표하다,representative,名、动,R1,N
+255,吃,chī,먹다,eat,动,R1,Y
+256,岁,suì,(양사) 살·세,years old,量,R1,N
+257,支持,zhīchí,지지하다·지원하다,support,动,R1,N
+258,无,wú,없다,none,动,R1,N
+259,而且,érqiě,게다가·또한,moreover,连,R1,N
+260,话,huà,말·이야기,words,名,R1,N
+261,较,jiào,비교적·~에 비해,relatively,副,R1,N
+262,一直,yìzhí,계속·줄곧,always,副,R1,N
+263,么,me,(접미사),suffix,助,R1,N
+264,区,qū,구역·지역,district,名,R1,N
+265,城市,chéngshì,도시,city,名,R1,Y
+266,太,tài,너무·매우,too,副,R1,N
+267,家,jiā,집·가정,home,名、量,R1,Y
+268,市场,shìchǎng,시장,market,名,R1,Y
+269,最后,zuìhòu,마지막·최종,last,名,R1,N
+270,约,yuē,약속하다·대략,about,动,R1,N
+271,继续,jìxù,계속하다,continue,动,R1,N
+272,者,zhě,~하는 사람 (접미사),-er,助,R1,N
+273,东西,dōngxi,물건,thing,名,R1,N
+274,之后,zhīhòu,~후에 (시간),after,名,R1,N
+275,内容,nèiróng,내용,content,名,R1,N
+276,对于,duìyú,~에 대하여 (전치사),regarding,介,R1,N
+277,开,kāi,열다·켜다,open,动,R1,Y
+278,教育,jiàoyù,교육하다·교육,education,动、名,R1,N
+279,特别,tèbié,특별하다·특히,special,形、副,R1,N
+280,由于,yóuyú,~때문에 (개사),due to,介、连,R1,N
+281,获得,huòdé,얻다·획득하다,obtain,动,R1,N
+282,许多,xǔduō,많은·수많은,many,数,R1,N
+283,问,wèn,묻다,ask,动,R1,Y
+284,两个,liǎnggè,두 개,two,数量,R1,N
+285,大学,dàxué,대학교,university,名,R1,Y
+286,学校,xuéxiào,학교,school,名,R1,Y
+287,方式,fāngshì,방식,method,名,R1,N
+288,朋友,péngyou,친구,friend,名,R1,Y
+289,目前,mùqián,현재·지금,at present,名,R1,N
+290,站,zhàn,서다·역,stand,动,R1,Y
+291,表示,biǎoshì,나타내다·표시하다,express,动、名,R1,N
+292,资料,zīliào,자료,data,名,R1,N
+293,这是,zhèshì,이것은 ~이다,this is,短语,R1,N
+294,一种,yīzhǒng,일종,a kind,数量,R1,N
+295,元,yuán,위안(화폐),yuan,量,R1,N
+296,关于,guānyú,~에 관하여 (전치사),about,介,R1,N
+297,写,xiě,쓰다,write,动,R1,Y
+298,因,yīn,~때문에,because,介、连,R1,N
+299,孩子,háizi,아이,child,名,R1,Y
+300,安全,ānquán,안전하다,safe,形、名,R1,N
+301,成,chéng,되다·이루다,become,量,R1,N
+302,大家,dàjiā,모두·여러분,everyone,代,R1,Y
+303,打,dǎ,치다·때리다,hit,介,R1,Y
+304,运动,yùndòng,운동·움직이다,exercise,动、名,R1,Y
+305,部分,bùfèn,부분·일부,part,名,R1,N
+306,分,fēn,분,minute,动,R1,N
+307,很多,hěnduō,매우 많다,many,形,R1,N
+308,死,sǐ,죽다,die,动、形,R1,N
+309,见,jiàn,보다·만나다,see,动,R1,N
+310,非常,fēicháng,매우·아주,very,副,R1,N
+311,买,mǎi,사다,buy,动,R1,Y
+312,叫,jiào,부르다·~라고 하다,call,介,R1,Y
+313,台湾,táiwān,타이완,Taiwan,名,R1,N
+314,图,tú,그림·도모하다,picture,名,R1,Y
+315,建设,jiànshè,건설하다,construction,动、名,R1,N
+316,新闻,xīnwén,뉴스·소식,news,名,R1,Y
+317,曾,céng,일찍이·이전에 (부사),once,副,R1,N
+318,有人,yǒurén,어떤 사람·누군가,someone,代,R1,N
+319,自由,zìyóu,자유·자유롭다,freedom,名、形,R1,N
+320,参加,cānjiā,참가하다,participate,动,R1,N
+321,当时,dāngshí,그 당시·그때,at that time,名,R1,N
+322,过去,guòqù,과거·지나가다,past,名,R1,N
+323,那些,nàxiē,저것들,those,代,R1,N
+324,产品,chǎnpǐn,제품·상품,product,名,R1,N
+325,会议,huìyì,회의,meeting,名,R1,Y
+326,单位,dānwèi,단위·직장,unit,名,R1,N
+327,即,jí,곧·즉,namely,副,R1,N
+328,完全,wánquán,완전히,completely,形、副,R1,N
+329,建立,jiànlì,설립하다·수립하다,establish,动,R1,N
+330,得到,dédào,얻다,get,动,R1,N
+331,有关,yǒuguān,관련이 있다,related,动,R1,N
+332,生产,shēngchǎn,생산하다,produce,动,R1,N
+333,相关,xiāngguān,관련되다,related,动,R1,N
+334,道,dào,길·도리,road,量,R1,N
+335,国内,guónèi,국내,domestic,名,R1,N
+336,天,tiān,하늘·날,sky,名、量,R1,Y
+337,委员会,wěiyuánhuì,위원회,committee,名,R1,N
+338,总,zǒng,전체의·항상,always,副,R1,N
+339,然后,ránhòu,그 다음에,then,连,R1,N
+340,选择,xuǎnzé,선택하다,choose,动、名,R1,N
+341,那个,nàge,그것·저것,that one,代,R1,N
+342,一切,yīqiè,모든 것,everything,代,R1,N
+343,一次,yīcì,한 번,once,数量,R1,N
+344,人口,rénkǒu,인구,population,名,R1,N
+345,另,lìng,다른·따로,another,代、副,R1,N
+346,应,yīng,~해야 하다·응하다,should,动,R1,N
+347,无法,wúfǎ,~할 수 없다,unable,动,R1,N
+348,正,zhèng,마침·바로 그때,just,形,R1,N
+349,管理,guǎnlǐ,관리하다,manage,动,R1,N
+350,能够,nénggòu,~할 수 있다,can,动,R1,N
+351,记者,jìzhě,기자,reporter,名,R1,Y
+352,进入,jìnrù,들어가다,enter,动,R1,N
+353,领导,lǐngdǎo,지도자·지도하다,leader,动、名,R1,N
+355,上海,shànghǎi,상하이,Shanghai,名,R1,N
+356,个人,gèrén,개인,individual,名,R1,N
+357,便,biàn,곧·바로,then,副、连,R1,N
+358,党,dǎng,당·정당,party,名,R1,N
+359,间,jiān,(양사) 칸·사이,room,量,R1,N
+360,一般,yìbān,일반적이다·보통이다,ordinary,形,R1,N
+361,发,fā,보내다·발생하다,send,动,R1,N
+362,名,míng,이름·유명하다,name,名、量,R1,N
+363,完成,wánchéng,완성하다,complete,动,R1,N
+364,干,gàn,하다·일하다,do,动,R1,N
+365,本,běn,(양사) 권,volume,代、副,R1,N
+366,环境,huánjìng,환경,environment,名,R1,N
+367,网络,wǎngluò,인터넷·네트워크,internet,名,R1,N
+368,达,dá,이르다·도달하다,reach,动,R1,N
+369,一点,yìdiǎn,조금,a little,数量,R1,N
+370,保护,bǎohù,보호하다,protect,动,R1,N
+371,找,zhǎo,찾다,look for,动,R1,Y
+372,提出,tíchū,제기하다·제안하다,propose,动,R1,N
+373,民主,mínzhǔ,민주,democracy,名,R1,N
+374,甚至,shènzhì,심지어,even,连,R1,N
+375,称,chēng,부르다·칭하다,call,动,R1,N
+376,事件,shìjiàn,사건,incident,名,R1,N
+377,当然,dāngrán,당연하다·물론,of course,形、副,R1,N
+378,您,nín,당신(존칭),you,代,R1,N
+379,机构,jīgòu,기관·조직,institution,名,R1,N
+380,法律,fǎlǜ,법률,law,名,R1,N
+381,玩,wán,놀다,play,动,R1,Y
+382,视频,shìpín,영상·동영상,video,名,R1,N
+383,过程,guòchéng,과정,process,名,R1,N
+384,准备,zhǔnbèi,준비하다,prepare,动,R1,N
+385,县,xiàn,현(행정구역),county,名,R1,N
+386,受,shòu,받다·당하다,receive,动,R1,N
+387,直接,zhíjiē,직접적인·곧바로,direct,形,R1,N
+388,真,zhēn,정말·진짜의,real,副、形,R1,N
+389,设计,shèjì,설계하다·디자인,design,动、名,R1,N
+390,进,jìn,들어가다,enter,动,R1,Y
+391,之间,zhījiān,~사이에 (위치),between,名,R1,N
+392,事情,shìqing,일·사건,matter,名,R1,N
+393,人员,rényuán,인원·직원,staff,名,R1,N
+394,信息,xìnxī,정보·소식,information,名,R1,N
+395,哪里,nǎlǐ,어디,where,代,R1,N
+396,处,chù,거처하다·곳,place,名,R1,N
+397,女,nǚ,여자의,female,形,R1,Y
+398,存在,cúnzài,존재하다,exist,动,R1,N
+399,学习,xuéxí,공부하다,study,动,R1,Y
+400,总统,zǒngtǒng,대통령,president,名,R1,N
+401,成功,chénggōng,성공하다,success,动、形,R1,N
+402,或者,huòzhě,또는·혹은,or,连,R1,N
+403,战争,zhànzhēng,전쟁,war,名,R1,N
+404,报告,bàogào,보고·보고하다,report,动、名,R1,N
+405,最大,zuìdà,가장 크다,biggest,形,R1,N
+406,每,měi,매~·각각,every,代、副,R1,N
+407,比较,bǐjiào,비교하다·비교적,compare,副、动,R1,N
+408,照片,zhàopiān,사진,photo,名,R1,Y
+409,种,zhǒng,종류 (양사)·씨앗,kind,动,R1,N
+410,英国,yīngguó,영국,Britain,名,R1,N
+411,各,gè,각각·모두 (지시대명사),each,代、副,R1,N
+412,市,shì,시·시장,city,名,R1,N
+413,接受,jiēshòu,받아들이다,accept,动,R1,N
+414,改变,gǎibiàn,바꾸다·변화시키다,change,动、名,R1,N
+415,政策,zhèngcè,정책,policy,名,R1,N
+416,方法,fāngfǎ,방법,method,名,R1,N
+417,时期,shíqī,시기,period,名,R1,N
+418,正在,zhèngzài,~하는 중이다,in progress,副,R1,N
+419,科技,kējì,과학기술,technology,名,R1,N
+420,项目,xiàngmù,항목·프로젝트,project,名,R1,N
+421,一下,yíxià,한번 ~해 보다,once,数量,R1,N
+422,不断,bùduàn,끊임없이,continuously,动、副,R1,N
+423,以后,yǐhòu,이후·나중에,later,名,R1,N
+424,位,wèi,(양사) 분·자리,seat,量,R1,N
+425,作,zuò,하다·만들다,do,动,R1,N
+426,合作,hézuò,협력하다,cooperate,动,R1,N
+427,故事,gùshi,이야기,story,名,R1,N
+428,方面,fāngmiàn,방면·측면,aspect,名,R1,N
+429,有些,yǒuxiē,일부·어느 정도,some,代,R1,N
+430,未,wèi,아직 ~않다,not yet,副,R1,N
+431,次,cì,(양사) 번·회,time,形,R1,N
+432,省,shěng,아끼다·성,province,动,R1,N
+433,网,wǎng,그물·네트워크,net,名,R1,Y
+434,老,lǎo,늙다·오래된,old,副,R2,Y
+435,认识,rènshi,알다·알아보다,know,动、名,R2,N
+436,资源,zīyuán,자원,resource,名,R2,N
+437,集团,jítuán,그룹·집단,group,名,R2,N
+438,专业,zhuānyè,전공·전문분야,major,名,R2,N
+439,之前,zhīqián,~전에 (시간),before,名,R2,N
+440,任务,rènwù,임무·과제,task,名,R2,N
+441,原因,yuányīn,원인·이유,reason,名,R2,N
+442,参与,cānyù,참여하다,participate,动,R2,N
+443,外,wài,밖·바깥,outside,名,R2,N
+444,女人,nǚrén,여자,woman,名,R2,Y
+445,小时,xiǎoshí,시간(단위),hour,名,R2,N
+446,成立,chénglì,설립하다·성립되다,establish,动,R2,N
+447,是否,shìfǒu,~인지 아닌지,whether,副,R2,N
+448,科学,kēxué,과학·과학적인,science,名、形,R2,N
+449,经,jīng,경과하다·경전,pass through,动,R2,N
+450,规定,guīdìng,규정·규정하다,rule,动、名,R2,N
+451,举行,jǔxíng,거행하다·개최하다,hold,动,R2,N
+452,了解,liǎojiě,이해하다·알아보다,understand,动,R2,N
+453,副,fù,부~·(양사) 벌,vice,量,R2,N
+454,处理,chǔlǐ,처리하다,handle,动、名,R2,N
+455,多少,duōshao,얼마·몇,how many,代,R2,N
+456,感觉,gǎnjué,느낌·느끼다,feeling,动、名,R2,N
+457,拥有,yōngyǒu,소유하다·가지다,own,动,R2,N
+458,时代,shídài,시대,era,名,R2,N
+459,电话,diànhuà,전화,telephone,名,R2,Y
+460,能力,nénglì,능력,ability,名,R2,N
+461,艺术,yìshù,예술,art,名,R2,Y
+462,解决,jiějué,해결하다,solve,动,R2,N
+463,马,mǎ,말,horse,名,R2,Y
+464,传统,chuántǒng,전통·전통적인,tradition,名、形,R2,N
+465,全球,quánqiú,전세계·글로벌,global,名,R2,N
+466,其实,qíshí,사실은,actually,副,R2,N
+467,机会,jīhuì,기회,opportunity,名,R2,N
+468,独立,dúlì,독립하다·독립적인,independent,动,R2,N
+469,美,měi,미국(약칭)·아름답다,beautiful,形,R2,N
+470,行,xíng,괜찮다·다니다,okay,量,R2,N
+471,行为,xíngwéi,행위·행동,behavior,名,R2,N
+472,超过,chāoguò,초과하다·넘다,exceed,动,R2,N
+473,路,lù,길,road,名、量,R2,Y
+474,连,lián,~조차·연결하다,even,动、副,R2,N
+475,韩国,hánguó,한국,Korea,名,R2,N
+476,产生,chǎnshēng,생기다·발생시키다,produce,动,R2,N
+477,人类,rénlèi,인류,humanity,名,R2,N
+478,分析,fēnxī,분석하다,analyze,动,R2,N
+479,制,zhì,만들다·제도,make,动,R2,N
+480,各种,gèzhǒng,각종의·여러 가지,various,代,R2,N
+481,告诉,gàosu,알려주다,tell,动,R2,Y
+482,它们,tāmen,그것들 (사물 대명사),they,代,R2,N
+483,手机,shǒujī,휴대폰,mobile phone,名,R2,Y
+484,投资,tóuzī,투자하다,invest,名,R2,N
+485,拿,ná,잡다·가지다,hold,动,R2,Y
+486,期间,qījiān,기간,period,名,R2,N
+487,法国,fǎguó,프랑스,France,名,R2,N
+488,目标,mùbiāo,목표,goal,名,R2,N
+489,真正,zhēnzhèng,진정한·정말로,real,形,R2,N
+490,调查,diàochá,조사하다,investigate,动、名,R2,N
+491,世纪,shìjì,세기,century,名,R2,N
+492,严重,yánzhòng,심각하다,serious,形,R2,N
+493,仍,réng,여전히·아직도,still,副,R2,N
+494,军,jūn,군대,army,名,R2,N
+495,同,tóng,같다·~와,same,形、副、介,R2,N
+496,哪,nǎ,어느·어디,which,助,R2,N
+497,增加,zēngjiā,증가하다·늘리다,increase,动,R2,N
+498,帮助,bāngzhù,돕다·도움,help,动,R2,Y
+499,并且,bìngqiě,그리고·게다가 (접속사),and,连,R2,N
+500,行动,xíngdòng,행동하다,action,动、名,R2,N
+501,造成,zàochéng,초래하다·야기하다,cause,动,R2,N
+503,作品,zuòpǐn,작품,work,名,R2,N
+504,先,xiān,먼저,first,副,R2,N
+505,占,zhàn,차지하다,occupy,动,R2,N
+506,受到,shòudào,받다·당하다,receive,动,R2,N
+507,台,tái,(양사) 대·무대,stage,名、量,R2,N
+508,基础,jīchǔ,기초·토대,foundation,名,R2,N
+509,家庭,jiātíng,가정·가족,family,名,R2,Y
+510,工业,gōngyè,공업,industry,名,R2,N
+511,杀,shā,죽이다,kill,动,R2,N
+512,相信,xiāngxìn,믿다,believe,动,R2,N
+513,第一,dìyī,첫째·제일,first,数,R2,N
+514,负责,fùzé,책임지다·성실하다,be responsible,动、形,R2,N
+515,二,èr,둘·2,two,数,R2,N
+516,住,zhù,살다·거주하다,live,动,R2,N
+517,具有,jùyǒu,지니다·갖추다,have,动,R2,N
+518,学,xué,배우다,learn,动,R2,Y
+519,实现,shíxiàn,실현하다·이루다,realize,动,R2,N
+520,怎样,zěnyàng,어떻게·어떤 식으로,how,代,R2,N
+521,据,jù,~에 따르면,according to,介,R2,N
+522,控制,kòngzhì,통제하다,control,动,R2,N
+523,根本,gēnběn,근본적인·전혀,fundamental,副、形、名,R2,N
+524,男人,nánrén,남자,man,名,R2,Y
+525,结束,jiéshù,끝나다·마치다,end,动,R2,N
+526,非,fēi,아니다·비~(부정 접두어),not,副,R2,N
+528,书,shū,책,book,名,R2,Y
+529,亦,yì,~도 역시,also,副,R2,N
+530,别,bié,~하지 마라·다른,don't,动,R2,N
+531,努力,nǔlì,노력하다,effort,形,R2,N
+532,只要,zhǐyào,~하기만 하면,as long as,连,R2,N
+533,回,huí,돌아가다·(양사) 번,return,量,R2,N
+534,如此,rúcǐ,이와 같다·이렇게,so,代,R2,N
+535,媒体,méitǐ,매체·미디어,media,名,R2,N
+536,才能,cáinéng,재능·능력,talent,名,R2,N
+537,整个,zhěnggè,전체의·전부의,whole,形,R2,N
+538,来自,láizì,~에서 오다,come from,动,R2,N
+539,经过,jīngguò,지나다·과정,pass,动、名,R2,N
+540,群众,qúnzhòng,군중·대중,the masses,名,R2,N
+541,选举,xuǎnjǔ,선거,election,名,R2,N
+542,以下,yǐxià,이하·아래,below,名,R2,N
+543,利用,lìyòng,이용하다,use,动,R2,N
+544,制度,zhìdù,제도,system,名,R2,N
+545,我国,wǒguó,우리나라,our country,名,R2,N
+546,欧洲,ōuzhōu,유럽,Europe,名,R2,N
+547,每个,měige,각각의,each,代,R2,N
+548,比赛,bǐsài,경기·시합,match,动、名,R2,Y
+549,表现,biǎoxiàn,표현하다·드러내다,performance,动、名,R2,N
+550,达到,dádào,도달하다·이르다,reach,动,R2,N
+551,主席,zhǔxí,주석·의장,chairman,名,R2,N
+552,以上,yǐshàng,이상,above,名,R2,N
+553,以来,yǐlái,~이래로 (방위사),since,名,R2,N
+554,几个,jǐge,몇 개,several,数量,R2,N
+555,办法,bànfǎ,방법·수단,way,名,R2,N
+556,图片,túpiàn,사진·그림,picture,名,R2,Y
+557,年代,niándài,연대·시대,decade,名,R2,N
+558,开发,kāifā,개발하다,develop,动,R2,N
+559,心,xīn,마음·심장,heart,名,R2,Y
+560,成员,chéngyuán,구성원,member,名,R2,N
+561,未来,wèilái,미래,future,名,R2,N
+562,讲,jiǎng,말하다·설명하다,speak,动,R2,N
+563,革命,gémìng,혁명,revolution,名,R2,N
+564,价值,jiàzhí,가치,value,名,R2,N
+565,反,fǎn,반대의·뒤집다,opposite,形、动、副,R2,N
+566,基本,jīběn,기본의·기본적으로,basic,形,R2,N
+567,导致,dǎozhì,초래하다·야기하다,lead to,动,R2,N
+568,条,tiáo,(양사) 가늘고 긴 것,strip,量,R2,N
+569,注意,zhùyì,주의하다·조심하다,pay attention,动,R2,N
+570,的话,dehuà,~하면 (조건절),if,助,R2,N
+571,离开,líkāi,떠나다,leave,动,R2,Y
+572,送,sòng,보내다·선물하다,send,动,R2,Y
+573,除了,chúle,~외에·~을 제외하고 (개사),except,介,R2,N
+574,加入,jiārù,가입하다·참가하다,join,动,R2,N
+575,反对,fǎnduì,반대하다,oppose,动,R2,N
+576,发布,fābù,발표하다·발매하다,release,动,R2,N
+577,啦,la,(어기 조사),particle,助,R2,N
+578,属于,shǔyú,~에 속하다,belong,动,R2,N
+579,建筑,jiànzhù,건축·건물,building,动、名,R2,Y
+580,形成,xíngchéng,형성되다,form,动,R2,N
+581,数据,shùjù,데이터,data,名,R2,N
+582,版,bǎn,판·버전,edition,名,R2,N
+583,行政,xíngzhèng,행정,administration,名,R2,N
+584,银行,yínháng,은행,bank,名,R2,Y
+585,音乐,yīnyuè,음악,music,名,R2,Y
+587,之一,zhīyī,~중 하나,one of,名,R2,N
+588,变化,biànhuà,변화·변화하다,change,动、名,R2,N
+589,增长,zēngzhǎng,증가하다·성장하다,grow,动,R2,N
+590,官方,guānfāng,관방·공식적인,official,名,R2,N
+591,德国,déguó,독일,Germany,名,R2,N
+592,性,xìng,성질·~성 (접미사),nature,名,R2,N
+593,指,zhǐ,가리키다·손가락,point,动,R2,Y
+594,是不是,shìbúshì,~인지 아닌지,is it,短语,R2,N
+595,显示,xiǎnshì,보여주다·나타내다,show,动,R2,N
+596,经验,jīngyàn,경험,experience,名,R2,N
+597,语言,yǔyán,언어,language,名,R2,N
+599,专家,zhuānjiā,전문가,expert,名,R2,N
+600,价格,jiàgé,가격,price,名,R2,N
+601,医院,yīyuàn,병원,hospital,名,R2,Y
+602,均,jūn,모두·고르다,equal,副,R2,N
+603,建议,jiànyì,제안·제안하다,suggest,动、名,R2,N
+604,怎么样,zěnmeyàng,어때?·어떻습니까?,how about,代,R2,N
+605,指出,zhǐchū,지적하다·가리키다,point out,动,R2,N
+606,期,qī,(양사) 기·기간,period,量,R2,N
+607,权利,quánlì,권리,right,名,R2,N
+608,条件,tiáojiàn,조건,condition,名,R2,N
+609,来说,láishuō,~로 말하자면,speaking of,短语,R2,N
+610,标准,biāozhǔn,표준·기준,standard,名、形,R2,N
+611,法,fǎ,법·방법,law,名,R2,N
+612,说明,shuōmíng,설명하다,explain,动、名,R2,N
+613,这次,zhècì,이번,this time,代,R2,N
+614,部门,bùmén,부서,department,名,R2,N
+616,全,quán,전부·완전히,whole,副、形,R2,N
+617,变,biàn,변하다,change,动,R3,N
+618,可是,kěshì,그런데·하지만,but,连,R3,N
+619,改革,gǎigé,개혁하다,reform,动,R3,N
+620,母亲,mǔqīn,어머니,mother,名,R3,Y
+621,米,mǐ,쌀·미터,rice,名,R3,Y
+622,系列,xìliè,시리즈·계열,series,名,R3,N
+623,联系,liánxì,연락하다,contact,动、名,R3,N
+624,警察,jǐngchá,경찰,police,名,R3,Y
+625,记录,jìlù,기록·기록하다,record,名、动,R3,N
+626,不仅,bùjǐn,~뿐만 아니라 (접속사),not only,连,R3,N
+627,人物,rénwù,인물,figure,名,R3,N
+628,共,gòng,함께·공동의,together,副,R3,N
+629,别人,biérén,다른 사람,others,代,R3,N
+630,后来,hòulái,그 후·나중에,afterwards,名,R3,N
+631,女性,nǚxìng,여성,female,名,R3,Y
+632,意见,yìjiàn,의견,opinion,名,R3,N
+633,执行,zhíxíng,집행하다·실행하다,carry out,动,R3,N
+634,最高,zuìgāo,최고,highest,形,R3,N
+635,机关,jīguān,기관,agency,名,R3,N
+636,水,shuǐ,물,water,名,R3,Y
+637,生,shēng,태어나다·낳다,be born,形,R3,N
+638,用户,yònghù,사용자·이용자,user,名,R3,N
+639,确定,quèdìng,확정하다·확실하다,confirm,形、动,R3,N
+640,解释,jiěshì,설명하다,explain,动,R3,N
+641,中央,zhōngyāng,중앙·중심,central,名,R3,N
+642,以前,yǐqián,이전·예전,before,名,R3,N
+643,俄罗斯,éluósī,러시아,Russia,名,R3,N
+644,先生,xiānsheng,선생님·씨(남자),Mr.,名,R3,N
+645,关注,guānzhù,관심을 갖다·주목하다,pay attention,动,R3,N
+646,分别,fēnbié,헤어지다·구별하다·각각,separately,动、副,R3,N
+647,区域,qūyù,지역·구역,region,名,R3,N
+648,工程,gōngchéng,공사·공학,engineering,名,R3,N
+649,父亲,fùqīn,아버지,father,名,R3,Y
+650,理论,lǐlùn,이론,theory,名,R3,N
+651,简单,jiǎndān,간단하다,simple,形,R3,N
+652,结构,jiégòu,구조,structure,名,R3,N
+653,综合,zōnghé,종합하다·종합적,comprehensive,动,R3,N
+654,老师,lǎoshī,선생님,teacher,名,R3,Y
+655,讨论,tǎolùn,토론하다·논의하다,discuss,动,R3,Y
+656,证明,zhèngmíng,증명하다·증명서,prove,动、名,R3,N
+657,采用,cǎiyòng,채택하다·채용하다,adopt,动,R3,N
+659,一位,yīwèi,한 분,one person,数量,R3,N
+660,不到,búdào,못 미치다,less than,动,R3,N
+661,儿子,érzi,아들,son,名,R3,Y
+662,全部,quánbù,전부·모두,all,名,R3,N
+663,公开,gōngkāi,공개하다·공개적인,public,形、动,R3,N
+664,发表,fābiǎo,발표하다·게재하다,publish,动,R3,N
+665,宣布,xuānbù,선포하다·발표하다,announce,动,R3,N
+666,当地,dāngdì,현지·그 지역,local,名,R3,N
+667,最近,zuìjìn,최근·요즘,recently,名,R3,N
+668,派,pài,파벌·파견하다,send,动、名,R3,N
+669,社区,shèqū,지역사회·커뮤니티,community,名,R3,N
+670,自然,zìrán,자연·자연스럽다,nature,名、形、副,R3,Y
+671,那里,nàli,저기·그곳,there,代,R3,N
+672,今年,jīnnián,올해,this year,名,R3,N
+673,介绍,jièshào,소개하다,introduce,动,R3,Y
+674,以为,yǐwéi,~인 줄 알다,think,动,R3,N
+675,功能,gōngnéng,기능,function,名,R3,N
+676,坚持,jiānchí,견지하다·고집하다,persist,动,R3,N
+677,学院,xuéyuàn,단과대학·학원,college,名,R3,N
+678,意思,yìsi,뜻·의미,meaning,名,R3,N
+679,找到,zhǎodào,찾아내다,find,动,R3,Y
+680,提高,tígāo,높이다·향상시키다,raise,动,R3,N
+681,搞,gǎo,하다·만들다,do,动,R3,N
+682,范围,fànwéi,범위,range,名,R3,N
+683,车,chē,차·자동차,car,名,R3,Y
+685,例如,lìrú,예를 들면,for example,动,R3,N
+686,共同,gòngtóng,공동의·함께,common,形,R3,N
+687,农业,nóngyè,농업,agriculture,名,R3,Y
+688,力量,lìliang,힘·역량,strength,名,R3,N
+689,原,yuán,원래의,original,形,R3,N
+690,取得,qǔdé,얻다·취득하다,obtain,动,R3,N
+691,同样,tóngyàng,같은·마찬가지,same,形、连,R3,N
+692,土地,tǔdì,땅·토지,land,名,R3,Y
+693,实施,shíshī,실시하다·시행하다,implement,动,R3,N
+694,手,shǒu,손,hand,名,R3,Y
+695,旅游,lǚyóu,여행하다·관광하다,travel,动,R3,Y
+696,正式,zhèngshì,정식의·공식적인,formal,形,R3,N
+697,民族,mínzú,민족,ethnic group,名,R3,N
+698,类,lèi,종류·부류,kind,名、量,R3,N
+699,级,jí,급·등급,level,名,R3,N
+700,组成,zǔchéng,구성하다·이루다,compose,动,R3,N
+702,一天,yītiān,하루,one day,数量,R3,N
+703,些,xiē,(양사) 조금·몇몇,some,量,R3,N
+704,保证,bǎozhèng,보증하다·보장하다,guarantee,动、名,R3,N
+705,健康,jiànkāng,건강하다,healthy,形、名,R3,Y
+706,场,chǎng,(양사) 차례·번,field,量,R3,N
+707,大量,dàliàng,대량·다량,large amount,形,R3,N
+708,实际,shíjì,실제·현실적인,actual,名、形,R3,N
+709,容易,róngyì,쉽다,easy,形,R3,N
+710,开放,kāifàng,개방하다·피다,open,动,R3,N
+711,持续,chíxù,계속되다·지속하다,continue,动,R3,N
+712,权力,quánlì,권력,power,名,R3,N
+713,永远,yǒngyuǎn,영원히,forever,副,R3,N
+714,消息,xiāoxi,소식,news,名,R3,N
+715,然而,rán'ér,그러나 (접속사),however,连,R3,N
+716,电视,diànshì,텔레비전,television,名,R3,Y
+717,看看,kànkan,좀 보다,have a look,动,R3,Y
+718,精神,jīngshén,정신,spirit,形、名,R3,N
+719,考虑,kǎolǜ,고려하다,consider,动,R3,N
+720,重点,zhòngdiǎn,중점·요점,key point,名、副,R3,N
+721,位于,wèiyú,위치하다,be located,动,R3,N
+722,免费,miǎnfèi,무료의,free,形,R3,N
+723,印度,yìndù,인도,India,名,R3,N
+724,变成,biànchéng,~으로 변하다,become,动,R3,N
+725,另外,lìngwài,그 밖에·별도로,besides,代、副、连,R3,N
+726,型,xíng,유형·모델,type,名,R3,N
+727,声音,shēngyīn,소리·목소리,sound,名,R3,N
+728,女儿,nǚ'ér,딸,daughter,名,R3,Y
+729,妈妈,māma,엄마,mom,名,R3,Y
+730,应用,yìngyòng,응용하다·적용하다,apply,动,R3,N
+731,想要,xiǎngyào,~하고 싶다,want,动,R3,N
+732,按,àn,누르다·~에 따라,press,动、介,R3,Y
+733,明白,míngbai,이해하다·분명하다,understand,形、动,R3,N
+734,最终,zuìzhōng,최종,final,名,R3,N
+735,汽车,qìchē,자동차,car,名,R3,Y
+736,相当,xiāngdāng,상당히·꽤,quite,副、动,R3,N
+737,空间,kōngjiān,공간,space,名,R3,N
+738,线,xiàn,선,line,名,R3,Y
+739,终于,zhōngyú,마침내·드디어,finally,副,R3,N
+740,美元,měiyuán,달러,dollar,名,R3,Y
+741,设备,shèbèi,설비·장비,equipment,名,R3,N
+742,足球,zúqiú,축구,soccer,名,R3,Y
+743,里面,lǐmiàn,안·내부,inside,名,R3,N
+744,领域,lǐngyù,영역·분야,field,名,R3,N
+745,产业,chǎnyè,산업,industry,名,R3,N
+746,亿,yì,억,hundred million,数,R3,N
+747,作用,zuòyòng,작용·역할,effect,名,R3,N
+748,几乎,jīhū,거의,almost,副,R3,N
+749,分钟,fēnzhōng,분,minute,量,R3,N
+750,十分,shífēn,매우·아주,very,副,R3,N
+751,哦,ó,오!·아 (깨달음),oh,叹,R3,N
+752,回来,huílai,돌아오다,come back,动,R3,Y
+753,意义,yìyì,의미·의의,meaning,名,R3,N
+754,报,bào,신문·알리다,newspaper,动,R3,Y
+755,文章,wénzhāng,글·문장,article,名,R3,N
+756,生命,shēngmìng,생명,life,名,R3,N
+757,男,nán,남자의,male,形,R3,Y
+758,若,ruò,만약,if,连,R3,N
+759,跑,pǎo,달리다,run,动,R3,Y
+760,靠,kào,기대다·의지하다,lean,动,R3,Y
+761,面积,miànjī,면적,area,名,R3,N
+762,亚洲,yàzhōu,아시아,Asia,名,R3,N
+763,加,jiā,더하다,add,动,R3,N
+764,原来,yuánlái,원래·알고 보니,originally,形、副,R3,N
+765,名字,míngzi,이름,name,名,R3,N
+766,唯一,wéiyī,유일한,only,形,R3,N
+767,少,shǎo,적다,few,形、动,R3,N
+768,居民,jūmín,주민,resident,名,R3,N
+769,所谓,suǒwèi,이른바,so-called,形,R3,N
+770,拉,lā,끌다·당기다,pull,动,R3,Y
+771,曾经,céngjīng,일찍이·이전에,once,副,R3,N
+772,真是,zhēnshì,정말·참,really,副,R3,N
+773,结合,jiéhé,결합하다,combine,动,R3,N
+774,统一,tǒngyī,통일하다·통일된,unify,动、形,R3,N
+775,而是,érshì,오히려·~이다 (접속사),but rather,连,R3,N
+776,肯定,kěndìng,확실하다·긍정하다,certainly,动、形,R3,N
+777,队,duì,팀·대열,team,名,R3,N
+780,三个,sānge,세 개,three,数量,R3,N
+781,且,qiě,또한·게다가,and,连,R3,N
+782,人士,rénshì,인사·인물,personage,名,R3,N
+783,低,dī,낮다,low,形、动,R3,Y
+784,军队,jūnduì,군대,army,名,R3,Y
+785,大陆,dàlù,대륙·중국본토,mainland,名,R3,N
+786,官员,guānyuán,관리·공무원,official,名,R3,N
+787,引起,yǐnqǐ,일으키다·초래하다,cause,动,R3,N
+788,拍,pāi,치다·촬영하다,clap,动,R3,Y
+789,放,fàng,놓다·풀어주다,put,动,R3,Y
+790,明显,míngxiǎn,뚜렷하다·분명하다,obvious,形,R3,N
+791,现场,xiànchǎng,현장,scene,名,R3,N
+792,现象,xiànxiàng,현상,phenomenon,名,R3,N
+793,目的,mùdì,목적,purpose,名,R3,N
+794,确实,quèshí,확실히·정말로,indeed,形、副,R3,N
+795,稳定,wěndìng,안정적이다,stable,形,R3,N
+796,系,xì,학과·연결하다,department,动,R3,N
+797,重新,chóngxīn,다시·재차,again,副,R3,N
+798,门,mén,문,door,名、量,R3,Y
+799,加强,jiāqiáng,강화하다,strengthen,动,R3,N
+800,完,wán,끝나다·다 하다,finish,动,R3,N
+801,式,shì,방식·-식 (접미사),style,名,R3,N
+802,强调,qiángdiào,강조하다,emphasize,动,R3,N
+803,总是,zǒngshì,항상·늘,always,副,R3,N
+804,教师,jiàoshī,교사,teacher,名,R3,Y
+805,模式,móshì,방식·모드,mode,名,R3,N
+806,死亡,sǐwáng,사망,death,动,R3,N
+807,穿,chuān,입다,wear,动,R3,Y
+808,笑,xiào,웃다,laugh,动,R3,Y
+809,职业,zhíyè,직업,occupation,名,R3,N
+810,联合,liánhé,연합하다,unite,动,R3,N
+811,西,xī,서쪽,west,名,R3,N
+812,西方,xīfāng,서양·서쪽,the West,名,R3,N
+813,近,jìn,가깝다,near,形,R3,N
+814,金,jīn,금·쇠,gold,名,R3,Y
+815,也许,yěxǔ,아마도·어쩌면,perhaps,副,R3,N
+816,军事,jūnshì,군사,military,名,R3,N
+817,宣传,xuānchuán,홍보하다·선전하다,publicize,动、名,R3,N
+818,属,shǔ,속하다,belong to,动,R3,N
+819,带来,dàilái,가져오다,bring,动,R3,N
+820,平台,píngtái,플랫폼,platform,名,R3,N
+821,强,qiáng,강하다,strong,形,R3,Y
+822,更加,gèngjiā,더욱,even more,副,R3,N
+823,每天,měitiān,매일,every day,名,R3,N
+824,电子,diànzǐ,전자,electronic,名,R3,N
+825,节目,jiémù,프로그램·방송,program,名,R3,N
+826,越,yuè,더욱·~할수록,more,副,R3,N
+827,选,xuǎn,고르다·선택하다,choose,动,R3,N
+828,阅读,yuèdú,읽다·독서하다,read,动,R3,Y
+829,难,nán,어렵다,difficult,形,R3,N
+830,一年,yīnián,1년,one year,数量,R3,N
+831,一条,yītiáo,한 줄·한 가닥,one strip,数量,R3,N
+832,事实,shìshí,사실,fact,名,R3,N
+833,任,rèn,맡다·임명하다,appoint,连,R3,N
+834,公民,gōngmín,시민·공민,citizen,名,R3,N
+835,办,bàn,처리하다·하다,handle,动,R3,N
+836,四,sì,넷·4,four,数,R3,N
+837,实行,shíxíng,실행하다·시행하다,implement,动,R3,N
+838,小说,xiǎoshuō,소설,novel,名,R3,N
+839,张,zhāng,장 (양사)·펼치다,sheet,量、动,R3,N
+840,感到,gǎndào,느끼다,feel,动,R3,N
+841,愿意,yuànyì,원하다·기꺼이 하다,be willing,动,R3,N
+842,抓,zhuā,잡다·붙잡다,grab,动,R3,Y
+843,有没有,yǒuméiyǒu,있어요?,is there,短语,R3,N
+844,来源,láiyuán,근원·출처,source,名,R3,N
+845,现代,xiàndài,현대,modern,名,R3,N
+846,理解,lǐjiě,이해하다,understand,动,R3,N
+847,知识,zhīshi,지식,knowledge,名,R3,N
+848,行业,hángyè,업종·업계,industry,名,R3,N
+849,谈,tán,이야기하다·논하다,talk,动,R3,Y
+850,责任,zérèn,책임,responsibility,名,R3,N
+851,转,zhuǎn,돌다·바꾸다,turn,动,R3,Y
+852,长期,chángqī,장기적인,long term,名,R3,N
+853,飞机,fēijī,비행기,airplane,名,R3,Y
+855,下来,xiàlai,내려오다 (방향보어),come down,动,R3,Y
+856,东,dōng,동쪽,east,名,R3,N
+857,仅,jǐn,단지·겨우,only,副,R3,N
+858,保持,bǎochí,유지하다,keep,动,R3,N
+859,内部,nèibù,내부의,internal,名,R3,N
+860,农民,nóngmín,농민,farmer,名,R3,Y
+861,减少,jiǎnshǎo,줄이다·감소하다,reduce,动,R3,N
+862,动,dòng,움직이다,move,动,R3,N
+863,卖,mài,팔다,sell,动,R3,Y
+864,失去,shīqù,잃다,lose,动,R3,N
+865,女孩,nǚhái,여자아이,girl,名,R3,Y
+866,字,zì,글자,character,名,R3,N
+867,帮,bāng,돕다,help,动,R3,Y
+868,形式,xíngshì,형식,form,名,R3,N
+869,报道,bàodào,보도하다·보도,report,动、名,R3,N
+870,攻击,gōngjī,공격하다,attack,动,R3,N
+871,最好,zuìhǎo,가장 좋다·~하는 게 낫다,best,副,R3,N
+872,机场,jīchǎng,공항,airport,名,R3,Y
+873,欢迎,huānyíng,환영하다,welcome,动,R3,Y
+874,状态,zhuàngtài,상태,state,名,R3,N
+875,狗,gǒu,개,dog,名,R3,Y
+876,看见,kànjiàn,보이다·목격하다,see,动,R3,Y
+877,真实,zhēnshí,진실하다·사실적인,real,形,R3,N
+878,经历,jīnglì,경험하다·경력,experience,动、名,R3,N
+879,至少,zhìshǎo,적어도·최소한,at least,副,R3,N
+880,规模,guīmó,규모,scale,名,R3,N
+881,进一步,jìnyíbù,한걸음 더·더욱,further,副,R3,N
+882,错误,cuòwù,잘못·오류,mistake,形、名,R3,N
+883,黑,hēi,검다·검은색,black,形,R3,Y
+884,交易,jiāoyì,거래·거래하다,trade,名,R3,N
+885,仍然,réngrán,여전히,still,副,R3,N
+886,动物,dòngwù,동물,animal,名,R3,Y
+887,反应,fǎnyìng,반응·반응하다,reaction,动、名,R3,N
+888,只能,zhǐnéng,~할 수밖에 없다,can only,动,R3,N
+889,届,jiè,(양사) 회·기,session,量,R3,N
+890,思想,sīxiǎng,사상·생각,thought,名,R3,N
+891,承认,chéngrèn,인정하다,admit,动,R3,N
+892,担心,dānxīn,걱정하다,worry,动,R3,Y
+893,早,zǎo,이르다·아침,early,形,R3,N
+894,此外,cǐwài,이 외에·그밖에,besides,连,R3,N
+895,清楚,qīngchu,분명하다·명확하다,clear,形,R3,N
+896,相,xiāng,서로,mutual,副,R3,N
+897,积极,jījí,적극적이다,active,形,R3,N
+898,经常,jīngcháng,자주·늘,often,副,R3,N
+899,经营,jīngyíng,경영하다·운영하다,operate,动,R3,N
+900,绝对,juéduì,절대적인·절대로,absolutely,副,R3,N
+901,花,huā,꽃·쓰다(돈),flower,形,R3,Y
+902,苏联,sūlián,소련,Soviet Union,名,R3,N
+903,谢谢,xièxie,감사합니다.,thank,动,R3,Y
+904,身体,shēntǐ,몸·건강,body,名,R3,Y
+905,那样,nàyàng,그렇게·그런 식으로,like that,代,R3,N
+906,部,bù,부서·부분 (양사),part,名、量,R3,N
+907,采取,cǎiqǔ,채택하다·취하다,adopt,动,R3,N
+908,黄,huáng,노랗다,yellow,形,R3,Y
+909,一名,yīmíng,한 명,one person,数量,R3,N
+910,不想,bùxiǎng,~하고 싶지 않다,not want,动,R3,N
+911,主,zhǔ,주인·주된,master,名,R3,N
+912,体育,tǐyù,체육,sports,名,R3,Y
+913,农村,nóngcūn,농촌,countryside,名,R3,Y
+914,分享,fēnxiǎng,나누다·공유하다,share,动,R3,Y
+915,到底,dàodǐ,도대체·결국,after all,副,R3,N
+916,同意,tóngyì,동의하다,agree,动,R3,N
+917,和平,hépíng,평화,peace,名,R3,N
+918,好像,hǎoxiàng,마치 ~인 듯하다,seem,副、动,R3,N
+919,子,zi,접미사(사람·사물)·씨앗,suffix,助,R3,N
+920,尤其,yóuqí,특히,especially,副,R3,N
+921,尽管,jǐnguǎn,비록 ~일지라도,although,副、连,R3,N
+922,方案,fāng'àn,방안·계획,plan,名,R3,N
+923,段,duàn,(양사) 토막·구간,section,量,R3,N
+924,每年,měinián,매년,every year,名,R3,N
+925,第一次,dìyīcì,첫 번째·처음,first time,数量,R3,N
+926,观点,guāndiǎn,관점·견해,viewpoint,名,R3,N
+927,青年,qīngnián,청년,youth,名,R3,Y
+928,件,jiàn,(양사) 벌·건,item,量,R3,N
+929,信,xìn,편지·믿다,letter,动,R3,Y
+930,公布,gōngbù,공표하다·발표하다,announce,动,R3,N
+931,关,guān,닫다·관련되다,close,名,R3,Y
+932,创新,chuàngxīn,혁신하다,innovation,动、名,R3,N
+933,创造,chuàngzào,창조하다·만들어내다,create,动、名,R3,N
+934,协议,xiéyì,협의·협정,agreement,动、名,R3,N
+935,即使,jíshǐ,설령 ~하더라도,even if,连,R3,N
+936,在于,zàiyú,~에 있다·달려있다,lie in,动,R3,N
+937,外国,wàiguó,외국,foreign country,名,R3,N
+938,她们,tāmen,그녀들,they,代,R3,N
+939,工具,gōngjù,도구,tool,名,R3,Y
+940,总理,zǒnglǐ,총리,premier,名,R3,N
+941,提,tí,들다·언급하다,lift,动,R3,N
+942,无论,wúlùn,~을 막론하고,no matter,连,R3,N
+943,晚上,wǎnshang,저녁,evening,名,R3,Y
+944,正常,zhèngcháng,정상적이다,normal,形,R3,N
+945,算,suàn,계산하다·~인 셈이다,calculate,动,R3,N
+946,类似,lèisì,비슷하다·유사하다,similar,动、形,R3,N
+947,设立,shèlì,설립하다,establish,动,R3,N
+948,资金,zījīn,자금,funds,名,R3,N
+949,限制,xiànzhì,제한하다,limit,动、名,R3,N
+950,一场,yìchǎng,한 차례,one session,数量,R3,N
+951,不再,bùzài,더 이상 ~않다,no longer,动,R3,N
+952,五,wǔ,다섯·5,five,数,R3,N
+953,交通,jiāotōng,교통,traffic,名,R3,Y
+954,令,lìng,~하게 하다·명령,order,动,R3,N
+955,利益,lìyì,이익,benefit,名,R3,N
+956,制作,zhìzuò,제작하다·만들다,make,动,R3,N
+957,加拿大,jiānádà,캐나다,Canada,名,R3,N
+958,压力,yālì,스트레스·압력,pressure,名,R3,N
+959,宪法,xiànfǎ,헌법,constitution,名,R3,N
+960,方向,fāngxiàng,방향,direction,名,R3,N
+961,有点,yǒudiǎn,조금·약간,a bit,副,R3,N
+962,电脑,diànnǎo,컴퓨터,computer,名,R3,Y
+963,破坏,pòhuài,파괴하다,destroy,动,R3,N
+964,突然,tūrán,갑작스럽다·갑자기,suddenly,形,R3,N
+965,管,guǎn,관리하다·상관하다,manage,动,R3,N
+966,规律,guīlǜ,규율·법칙,law,名,R3,N
+967,说话,shuōhuà,이야기하다,talk,动,R3,Y
+968,部长,bùzhǎng,부장·장관,minister,名,R3,N
+969,金融,jīnróng,금융,finance,名,R3,N
+970,错,cuò,틀리다·잘못,wrong,形、名,R3,N
+971,需,xū,필요하다,need,动,R3,N
+972,不了,bùliǎo,~할 수 없다·끝이 없다,unable,动,R3,N
+973,不错,bùcuò,괜찮다·나쁘지 않다,not bad,形,R3,N
+974,中共,zhōnggòng,중국공산당,Communist Party,名,R3,N
+975,主任,zhǔrèn,주임·부장,director,名,R3,N
+976,举办,jǔbàn,개최하다,hold,动,R3,N
+977,交流,jiāoliú,교류하다,exchange,动、名,R3,N
+978,作者,zuòzhě,작가·저자,author,名,R3,N
+979,刚,gāng,방금·막,just,副,R3,N
+980,制造,zhìzào,제조하다·만들다,manufacture,动,R3,N
+981,医疗,yīliáo,의료,medical care,动,R3,N
+982,原则,yuánzé,원칙,principle,名,R3,N
+983,同志,tóngzhì,동지,comrade,名,R3,N
+984,团体,tuántǐ,단체,group,名,R3,N
+985,委员,wěiyuán,위원,committee member,名,R3,N
+986,宗教,zōngjiào,종교,religion,名,R3,N
+987,意识,yìshi,의식·깨닫다,consciousness,名、动,R3,N
+988,正确,zhèngquè,정확하다·옳다,correct,形,R3,N
+989,版本,bǎnběn,버전·판본,version,名,R3,N
+990,看来,kànlái,보아하니·~인 듯하다,it seems,动,R3,N
+991,训练,xùnliàn,훈련하다·훈련,training,动、名,R3,Y
+992,远,yuǎn,멀다,far,形,R3,N
+993,逐渐,zhújiàn,점차·점점,gradually,副,R3,N
+994,销售,xiāoshòu,판매하다,sell,动,R3,N
+995,附近,fùjìn,근처·부근,nearby,名,R3,N
+996,不少,bùshǎo,적지 않다·많다,many,形,R3,N
+997,人数,rénshù,인원수,number of people,名,R3,N
+998,儿童,értóng,아동·어린이,children,名,R3,Y
+999,允许,yǔnxǔ,허락하다,allow,动,R3,N
+1000,出版,chūbǎn,출판하다,publish,动,R3,N
+1001,嘛,ma,(당연함의 어기 조사),particle,助,R3,N
+1002,回到,huídào,돌아오다·돌아가다,return,动,R3,N
+1003,国务院,guówùyuàn,국무원,State Council,名,R3,N
+1004,失败,shībài,실패하다,fail,动、形,R3,N
+1005,快乐,kuàilè,행복하다·즐겁다,happy,形,R3,Y
+1006,战略,zhànlüè,전략,strategy,名,R3,N
+1007,推动,tuīdòng,추진하다·촉진하다,promote,动,R3,N
+1008,教授,jiàoshòu,교수,professor,名,R3,Y
+1009,有效,yǒuxiào,유효하다·효과적이다,effective,动,R3,N
+1010,王,wáng,왕,king,名,R3,Y
+1011,程度,chéngdù,정도,degree,名,R3,N
+1012,编辑,biānjí,편집(하다)·편집자,edit,动,R3,N
+1013,联盟,liánméng,연맹,alliance,名,R3,N
+1014,质量,zhìliàng,품질·질량,quality,名,R3,N
+1015,资本,zīběn,자본,capital,名,R3,N
+1016,还要,háiyào,또 ~해야 한다,also need,副,R3,N
+1017,重,zhòng,무겁다,heavy,副,R3,Y
+1018,阶段,jiēduàn,단계,stage,名,R3,N
+1019,面,miàn,얼굴·면,face,名,R3,N
+1020,业务,yèwù,업무,business,名,R3,N
+1021,今日,jīnrì,오늘,today,名,R3,N
+1022,体系,tǐxì,체계,system,名,R3,N
+1023,倒,dào,넘어지다·거꾸로,fall,动,R3,Y
+1024,全面,quánmiàn,전면적이다,comprehensive,形,R3,N
+1025,协会,xiéhuì,협회,association,名,R3,N
+1026,双方,shuāngfāng,쌍방·양측,both sides,名,R3,N
+1027,困难,kùnnán,곤란하다·어려움,difficulty,名、形,R3,N
+1028,城,chéng,성·도시,castle,名,R3,Y
+1029,广告,guǎnggào,광고,advertisement,名,R3,N
+1030,态度,tàidù,태도,attitude,名,R3,N
+1031,政权,zhèngquán,정권,regime,名,R3,N
+1032,数,shǔ,세다·계산하다,count,动,R3,Y
+1033,数字,shùzì,숫자,number,名,R3,N
+1034,检查,jiǎnchá,검사하다·점검하다,check,动、名,R3,N
+1035,武器,wǔqì,무기,weapon,名,R3,N
+1036,水平,shuǐpíng,수준,level,名,R3,N
+1037,状况,zhuàngkuàng,상황·상태,condition,名,R3,N
+1038,申请,shēnqǐng,신청하다,apply,动,R3,N
+1039,神,shén,신·신비하다,god,名,R3,N
+1040,第二,dì'èr,두 번째,second,数,R3,N
+1041,设,shè,설치하다·세우다,set up,动,R3,N
+1042,调整,tiáozhěng,조정하다,adjust,动,R3,N
+1043,购买,gòumǎi,구매하다,buy,动,R3,Y
+1044,身上,shēnshang,몸에·몸에 지니고,on the body,名,R3,N
+1045,需求,xūqiú,수요·필요,demand,名,R3,N
+1046,首先,shǒuxiān,먼저·우선,first,副,R3,N
+1048,几,jǐ,몇,how many,数、代,R3,N
+1049,危险,wēixiǎn,위험·위험하다,danger,形、名,R3,N
+1050,员,yuán,구성원·~하는 사람,member,名,R3,N
+1051,商业,shāngyè,상업,commerce,名,R3,N
+1052,团,tuán,단체·둥글다,group,名、量,R3,N
+1053,大会,dàhuì,총회·대회,conference,名,R3,N
+1054,妇女,fùnǚ,부녀자·여성,woman,名,R3,Y
+1055,左右,zuǒyòu,좌우·대략,about,名、动,R3,N
+1056,广场,guǎngchǎng,광장,square,名,R3,Y
+1057,拒绝,jùjué,거절하다,refuse,动,R3,N
+1058,既,jì,이미·~이자 (접속사),already,副、连,R3,N
+1059,权,quán,권리·권력,right,名,R3,N
+1060,求,qiú,구하다·요청하다,seek,动,R3,N
+1061,治疗,zhìliáo,치료하다,treat,动,R3,N
+1062,现实,xiànshí,현실·현실적인,reality,名,R3,N
+1063,监督,jiāndū,감독하다,supervise,动,R3,N
+1064,网址,wǎngzhǐ,웹사이트 주소,web address,名,R3,N
+1065,规划,guīhuà,계획하다·기획,plan,名,R3,N
+1066,速度,sùdù,속도,speed,名,R3,N
+1067,针对,zhēnduì,겨냥하다·대상으로 하다,target,动,R3,N
+1068,面对,miànduì,직면하다·마주하다,face,动,R3,N
+1069,主题,zhǔtí,주제,theme,名,R3,N
+1070,事业,shìyè,사업·업적,career,名,R3,N
+1071,作家,zuòjiā,작가,writer,名,R3,Y
+1072,入,rù,들어가다,enter,动,R3,N
+1073,再次,zàicì,다시·재차,again,副,R3,N
+1074,创作,chuàngzuò,창작하다,create,动、名,R3,N
+1075,及其,jíqí,및 그(의),and its,连,R3,N
+1076,发行,fāxíng,발행하다·출시하다,issue,动,R3,N
+1077,召开,zhàokāi,개최하다·열다,convene,动,R3,N
+1078,国外,guówài,해외·국외,abroad,名,R3,N
+1079,多年,duōnián,여러 해·다년간,many years,名,R3,N
+1080,平均,píngjūn,평균·고르게,average,动、形,R3,N
+1081,广州,guǎngzhōu,광저우,Guangzhou,名,R3,N
+1082,数量,shùliàng,수량,quantity,名,R3,N
+1083,文件,wénjiàn,문서·파일,document,名,R3,N
+1084,明天,míngtiān,내일,tomorrow,名,R3,N
+1085,群,qún,(양사) 무리·떼,group,量,R3,N
+1086,评论,pínglùn,논평하다·댓글,comment,动,R3,N
+1087,软件,ruǎnjiàn,소프트웨어,software,名,R3,N
+1088,通常,tōngcháng,보통·일반적으로,usually,形,R3,N
+1089,逼,bī,강요하다·핍박하다,force,动,R3,N
+1090,部队,bùduì,부대,troops,名,R3,N
+1091,铁路,tiělù,철도,railway,名,R3,Y
+1092,镇,zhèn,진(행정구역)·누르다,town,动、名,R3,N
+1093,难道,nándào,설마 ~하겠는가 (반어),could it be,副,R3,N
+1094,不用,bùyòng,~할 필요 없다,no need,副,R3,N
+1095,不管,bùguǎn,~에 상관없이,regardless,连,R3,N
+1096,乡,xiāng,고향·시골,village,名,R3,N
+1097,似乎,sìhū,~인 것 같다,seem,副,R3,N
+1098,兄弟,xiōngdì,형제,brother,名,R3,Y
+1099,公里,gōnglǐ,킬로미터,kilometer,量,R3,N
+1100,具体,jùtǐ,구체적이다,concrete,形,R3,N
+1101,办公室,bàngōngshì,사무실,office,名,R3,Y
+1102,呀,ya,놀람을 나타내는 어기조사,particle,助,R3,N
+1103,头,tóu,머리,head,形,R3,Y
+1104,妻子,qīzi,아내,wife,名,R3,Y
+1105,实在,shízài,실제로·정말,really,形,R3,N
+1106,年轻,niánqīng,젊다,young,形,R3,N
+1107,开展,kāizhǎn,전개하다·펼치다,carry out,动,R3,N
+1108,律师,lǜshī,변호사,lawyer,名,R3,Y
+1109,战斗,zhàndòu,전투하다,battle,动、名,R3,N
+1110,放弃,fàngqì,포기하다,give up,动,R3,N
+1111,教,jiào,가르치다,teach,动,R3,Y
+1112,父母,fùmǔ,부모,parents,名,R3,Y
+1113,现,xiàn,나타나다·현재,appear,动,R3,N
+1114,称为,chēngwéi,~라고 부르다,be called,动,R3,N
+1115,组,zǔ,조·그룹,group,动、名,R3,N
+1116,英语,yīngyǔ,영어,English,名,R3,N
+1117,获,huò,얻다·획득하다,obtain,动,R3,N
+1118,角色,juésè,역할·배역,role,名,R3,N
+1119,记得,jìde,기억하다,remember,动,R3,N
+1120,越来越,yuèláiyuè,점점 더,more and more,副,R3,N
+1121,过来,guòlai,다가오다,come over,动,R3,Y
+1122,重大,zhòngdà,중대하다,major,形,R3,N
+1124,于是,yúshì,그래서·이리하여,so,连,R3,N
+1125,人权,rénquán,인권,human rights,名,R3,N
+1126,促进,cùjìn,촉진하다,promote,动,R3,N
+1127,关心,guānxīn,관심을 갖다·걱정하다,care about,动,R3,N
+1128,其它,qítā,기타·그 밖의,other,代,R3,N
+1129,前往,qiánwǎng,향해 가다·떠나다,head for,动,R3,N
+1130,医生,yīsheng,의사,doctor,名,R3,Y
+1131,南,nán,남쪽,south,名,R3,N
+1132,各国,gèguó,각국,every country,名,R3,N
+1133,各地,gèdì,각지·여러 지역,everywhere,名,R3,N
+1134,回家,huíjiā,집에 가다,go home,动,R3,Y
+1135,奖,jiǎng,상,prize,动、名,R3,Y
+1136,广泛,guǎngfàn,광범위하다,wide,形,R3,N
+1137,德,dé,덕·도덕,virtue,名,R3,N
+1138,感谢,gǎnxiè,감사하다,thank,动,R3,N
+1139,直到,zhídào,~할 때까지,until,动,R3,N
+1140,相同,xiāngtóng,똑같다·동일하다,same,形,R3,N
+1141,维护,wéihù,보호하다·유지하다,maintain,动,R3,N
+1142,论坛,lùntán,포럼,forum,名,R3,N
+1143,道路,dàolù,도로·길,road,名,R3,Y
+1144,停止,tíngzhǐ,정지하다·멈추다,stop,动,R3,N
+1145,先进,xiānjìn,선진적이다,advanced,形、名,R3,N
+1146,公共,gōnggòng,공공의·공용의,public,形,R3,N
+1147,共产党,gòngchǎndǎng,공산당,Communist Party,名,R3,N
+1148,危机,wēijī,위기,crisis,名,R3,N
+1149,去年,qùnián,작년,last year,名,R3,N
+1150,取消,qǔxiāo,취소하다,cancel,动,R3,N
+1151,地位,dìwèi,지위,status,名,R3,N
+1152,基地,jīdì,기지,base,名,R3,N
+1153,多数,duōshù,다수·대부분,majority,名,R3,N
+1154,定,dìng,정하다·결정하다,decide,动,R3,N
+1155,寻找,xúnzhǎo,찾다,look for,动,R3,Y
+1156,工人,gōngrén,노동자,worker,名,R3,Y
+1157,广东,guǎngdōng,광둥,Guangdong,名,R3,N
+1158,影片,yǐngpiàn,영화,film,名,R3,N
+1159,懂,dǒng,이해하다,understand,动,R3,N
+1160,成绩,chéngjì,성적,grade,名,R3,N
+1161,批评,pīpíng,비판하다·비평하다,criticize,动,R3,N
+1162,担任,dānrèn,맡다·담당하다,serve as,动,R3,N
+1163,按照,ànzhào,~에 따라 (개사),according to,介,R3,N
+1164,改善,gǎishàn,개선하다,improve,动,R3,N
+1165,效果,xiàoguǒ,효과,effect,名,R3,N
+1166,文学,wénxué,문학,literature,名,R3,N
+1167,更新,gēngxīn,갱신하다·업데이트하다,update,动,R3,N
+1168,有限公司,yǒuxiàngōngsī,유한회사,limited company,名,R3,N
+1169,机,jī,기계·기회,machine,名,R3,N
+1170,毕业,bìyè,졸업하다,graduate,动,R3,Y
+1171,统计,tǒngjì,통계·집계하다,statistics,动,R3,N
+1172,脸,liǎn,얼굴,face,名,R3,Y
+1173,读,dú,읽다,read,动,R3,Y
+1174,集,jí,모으다·(양사) 집·회,collect,动,R3,N
+1175,风险,fēngxiǎn,위험·리스크,risk,名,R3,N
+1176,下载,xiàzài,다운로드하다,download,动,R3,N
+1177,丰富,fēngfù,풍부하다,rich,形,R3,N
+1178,为何,wèihé,왜,why,副,R3,N
+1179,位置,wèizhì,위치·자리,position,名,R3,N
+1180,值得,zhíde,~할 가치가 있다,be worth,动,R3,N
+1181,假,jiǎ,가짜의·거짓의,fake,形,R3,N
+1182,变得,biànde,~하게 되다,become,动,R3,N
+1183,回答,huídá,대답하다,answer,动、名,R3,N
+1184,威胁,wēixié,위협하다,threaten,动,R3,N
+1185,州,zhōu,주(행정구역),state,名,R3,N
+1186,常,cháng,자주·항상,often,副,R3,N
+1187,必要,bìyào,필요하다·필요,necessary,形、名,R3,N
+1188,恢复,huīfù,회복하다,recover,动,R3,N
+1189,或许,huòxǔ,어쩌면·아마도,perhaps,副,R3,N
+1190,推出,tuīchū,내놓다·출시하다,launch,动,R3,N
+1191,朝鲜,cháoxiǎn,북한·조선,North Korea,名,R3,N
+1192,电,diàn,전기,electricity,名,R3,N
+1193,统治,tǒngzhì,통치하다,rule,动,R3,N
+1194,胜利,shènglì,승리·승리하다,victory,动、名,R3,N
+1195,设置,shèzhì,설치하다·설정하다,set up,动,R3,N
+1196,随着,suízhe,~에 따라,along with,介,R3,N
+1199,一家,yījiā,한 집·한 회사,one family,数量,R3,N
+1200,一部分,yībùfèn,일부분,one part,数量,R3,N
+1201,主张,zhǔzhāng,주장하다,advocate,动、名,R3,N
+1202,伟大,wěidà,위대하다,great,形,R3,N
+1203,团队,tuánduì,팀,team,名,R3,N
+1204,安排,ānpái,안배하다·배정하다,arrange,动、名,R3,N
+1205,怎么办,zěnmebàn,어떻게 하지?,what to do,短语,R3,N
+1206,我要,wǒyào,나는 ~하려 한다,I want,短语,R3,N
+1207,换,huàn,바꾸다·교환하다,exchange,动,R3,N
+1208,收入,shōurù,수입,income,动、名,R3,N
+1209,改,gǎi,고치다·바꾸다,change,动,R3,N
+1210,是因为,shìyīnwèi,~때문이다,is because,短语,R3,N
+1211,普通,pǔtōng,보통이다·평범하다,ordinary,形,R3,N
+1212,有时,yǒushí,때때로,sometimes,副,R3,N
+1213,本来,běnlái,원래·본래,originally,形、副,R3,N
+1214,本身,běnshēn,그 자체,itself,代,R3,N
+1215,毛泽东,máozédōng,마오쩌둥,Mao Zedong,名,R3,N
+1216,活,huó,살다·살아있는,alive,形、动,R3,N
+1217,特,tè,특히,especially,副,R3,N
+1218,规则,guīzé,규칙,rule,名、形,R3,N
+1219,贸易,màoyì,무역,trade,名,R3,N
+1220,这位,zhèwèi,이분,this person,代,R3,N
+1221,面临,miànlín,직면하다,face,动,R3,N
+1222,项,xiàng,(양사) 항목·가지,item,量,R3,N
+1224,一张,yīzhāng,한 장,one sheet,数量,R3,N
+1225,依据,yījù,~에 근거하여·근거,basis,名,R3,N
+1226,关键,guānjiàn,핵심·관건,key,名,R3,N
+1227,劳动,láodòng,노동·일하다,labor,动,R3,N
+1228,发出,fāchū,내다·발산하다,emit,动,R3,N
+1229,合法,héfǎ,합법적이다,legal,形,R3,N
+1230,听到,tīngdào,들리다,hear,动,R3,Y
+1231,妈,mā,엄마,mom,名,R3,Y
+1232,往,wǎng,~쪽으로·향하여,toward,动、介,R3,N
+1233,成长,chéngzhǎng,성장하다,grow up,动,R3,N
+1234,扩大,kuòdà,확대하다,expand,动,R3,N
+1235,推荐,tuījiàn,추천하다,recommend,动,R3,N
+1236,样子,yàngzi,모습·모양,appearance,名,R3,N
+1237,漂亮,piàoliang,예쁘다·아름답다,pretty,形,R3,Y
+1238,相对,xiāngduì,상대적이다,relative,形,R3,N
+1239,离,lí,~로부터·떠나다,leave,动、介,R4,N
+1240,秘密,mìmì,비밀,secret,形、名,R4,N
+1241,程序,chéngxù,절차·프로그램,program,名,R4,N
+1242,运用,yùnyòng,활용하다·응용하다,apply,动,R4,N
+1243,适合,shìhé,적합하다·어울리다,suit,动,R4,N
+1244,避免,bìmiǎn,피하다,avoid,动,R4,N
+1245,链接,liànjiē,링크,link,名,R4,N
+1246,下午,xiàwǔ,오후,afternoon,名,R4,N
+1247,下去,xiàqu,내려가다·계속하다,go down,动,R4,N
+1248,不可,bùkě,~해서는 안 된다,must not,助动,R4,N
+1249,不够,bùgòu,부족하다,not enough,动、副,R4,N
+1250,习惯,xíguàn,습관·익숙하다,habit,名、动,R4,N
+1251,书记,shūjì,서기,secretary,名,R4,N
+1252,亚,yà,아시아·버금가다,Asia,名,R4,N
+1253,传,chuán,전하다·퍼지다,pass on,名,R4,N
+1254,公众,gōngzhòng,대중,the public,名,R4,N
+1255,公园,gōngyuán,공원,park,名,R4,Y
+1256,分布,fēnbù,분포하다,distribute,动,R4,N
+1257,地球,dìqiú,지구,earth,名,R4,Y
+1258,坐,zuò,앉다,sit,动,R4,Y
+1259,大型,dàxíng,대형의,large,形,R4,N
+1260,巨大,jùdà,거대하다,huge,形,R4,N
+1261,干部,gànbù,간부,cadre,名,R4,N
+1262,快速,kuàisù,빠르다·신속히,fast,形,R4,N
+1263,敌人,dírén,적,enemy,名,R4,N
+1264,旧,jiù,낡다·오래되다,old,形,R4,N
+1265,梦,mèng,꿈,dream,名、动,R4,Y
+1266,民众,mínzhòng,민중,the people,名,R4,N
+1267,特色,tèsè,특색·특징,characteristic,名,R4,N
+1268,男子,nánzǐ,남자,man,名,R4,Y
+1269,背景,bèijǐng,배경,background,名,R4,N
+1270,著名,zhùmíng,유명하다,famous,形,R4,N
+1271,见到,jiàndào,만나다·보다,meet,动,R4,N
+1272,认真,rènzhēn,성실하다·진지하다,serious,形,R4,N
+1273,身份,shēnfèn,신분·정체,identity,名,R4,N
+1274,通知,tōngzhī,통지하다·알리다,notify,动、名,R4,N
+1276,专门,zhuānmén,전문적으로·특별히,specially,副,R4,N
+1277,中学,zhōngxué,중학교,middle school,名,R4,Y
+1278,云,yún,구름,cloud,名,R4,Y
+1279,互联网,hùliánwǎng,인터넷,internet,名,R4,N
+1280,体,tǐ,몸·체제,body,名,R4,N
+1281,体现,tǐxiàn,구현하다·드러내다,embody,动,R4,N
+1282,兴趣,xìngqù,흥미·취미,interest,名,R4,N
+1283,几天,jǐtiān,며칠,a few days,数量,R4,N
+1284,卡,kǎ,카드·막히다,card,动,R4,Y
+1285,喝,hē,마시다,drink,动,R4,Y
+1286,复杂,fùzá,복잡하다,complicated,形,R4,N
+1287,女子,nǚzǐ,여자,woman,名,R4,Y
+1288,对方,duìfāng,상대방,other party,名,R4,N
+1289,少数,shǎoshù,소수,minority,名,R4,N
+1290,打开,dǎkāi,열다·켜다,open,动,R4,Y
+1291,指导,zhǐdǎo,지도하다,guide,动,R4,N
+1292,明确,míngquè,명확하다,clear,形、动,R4,N
+1293,来到,láidào,도착하다,arrive,动,R4,N
+1294,比如,bǐrú,예를 들어,for example,动,R4,N
+1295,法院,fǎyuàn,법원,court,名,R4,Y
+1296,犯罪,fànzuì,범죄,crime,名,R4,N
+1297,理由,lǐyóu,이유,reason,名,R4,N
+1298,结婚,jiéhūn,결혼하다,marry,动,R4,Y
+1299,缺乏,quēfá,부족하다·모자라다,lack,动,R4,N
+1300,联合国,liánhéguó,국제연합·유엔,United Nations,名,R4,N
+1301,苹果,píngguǒ,사과,apple,名,R4,Y
+1302,著,zhù,저술하다·현저하다,write,动,R4,N
+1303,表演,biǎoyǎn,공연·공연하다,perform,动、名,R4,Y
+1304,计算,jìsuàn,계산하다,calculate,动,R4,N
+1305,货币,huòbì,화폐,currency,名,R4,N
+1306,赢,yíng,이기다,win,动,R4,Y
+1307,邀请,yāoqǐng,초대하다,invite,动、名,R4,N
+1308,随,suí,따르다·~에 따라,follow,动,R4,N
+1309,高兴,gāoxìng,기쁘다,happy,形,R4,Y
+1311,不得,bùdé,~해서는 안 된다,must not,助动,R4,N
+1312,争取,zhēngqǔ,쟁취하다·노력하다,strive for,动,R4,N
+1313,传播,chuánbō,전파하다·퍼뜨리다,spread,动,R4,N
+1314,体制,tǐzhì,체제,system,名,R4,N
+1315,值,zhí,가치·값어치가 있다,value,动,R4,N
+1316,单,dān,혼자인·홀수의,single,形、副,R4,N
+1317,南京,nánjīng,난징,Nanjing,名,R4,N
+1318,否则,fǒuzé,그렇지 않으면,otherwise,连,R4,N
+1319,周,zhōu,주 (요일 단위),week,量,R4,N
+1320,基金,jījīn,기금,fund,名,R4,N
+1321,学者,xuézhě,학자,scholar,名,R4,N
+1322,山,shān,산,mountain,名,R4,Y
+1323,度,dù,정도·시간을 보내다,degree,名、量,R4,N
+1324,很大,hěndà,매우 크다,very big,形,R4,N
+1325,很快,hěnkuài,매우 빠르다·곧,very fast,形,R4,N
+1326,我会,wǒhuì,나는 ~할 수 있다,I can,短语,R4,N
+1327,文,wén,글·문장,writing,名,R4,N
+1328,斯,sī,이·이것 (문어),this,代,R4,N
+1329,杂志,zázhì,잡지,magazine,名,R4,Y
+1330,材料,cáiliào,재료·자료,material,名,R4,N
+1331,核心,héxīn,핵심,core,名,R4,N
+1332,满足,mǎnzú,만족하다·충족시키다,satisfy,动,R4,N
+1333,热,rè,덥다·뜨겁다,hot,形、动,R4,Y
+1334,特殊,tèshū,특수하다·특별하다,special,形,R4,N
+1335,电视台,diànshìtái,방송국,TV station,名,R4,N
+1336,移民,yímín,이민하다·이민자,immigrate,动、名,R4,N
+1337,类型,lèixíng,유형·종류,type,名,R4,N
+1338,语,yǔ,말·언어,language,名,R4,N
+1339,进步,jìnbù,진보하다·발전,progress,动、形,R4,N
+1340,连续,liánxù,연속적이다,continuous,动,R4,N
+1341,遭,zāo,당하다,suffer,动,R4,N
+1342,鼓励,gǔlì,격려하다,encourage,动,R4,N
+1345,中华,zhōnghuá,중화,China,名,R4,N
+1346,久,jiǔ,오래다·오래되다,long time,形,R4,N
+1347,人生,rénshēng,인생,life,名,R4,N
+1348,今,jīn,지금·오늘,now,名,R4,N
+1349,从事,cóngshì,종사하다,engage in,动,R4,N
+1350,优秀,yōuxiù,우수하다,excellent,形,R4,N
+1351,刚刚,gānggāng,방금·막,just now,副,R4,N
+1352,制定,zhìdìng,제정하다·수립하다,formulate,动,R4,N
+1353,北,běi,북쪽,north,名,R4,N
+1354,双,shuāng,(양사) 쌍·짝,pair,量、形,R4,N
+1355,史,shǐ,역사,history,名,R4,N
+1356,员工,yuángōng,직원,employee,名,R4,N
+1357,因素,yīnsù,요소·요인,factor,名,R4,N
+1358,家里,jiālǐ,집안·가정,at home,名,R4,N
+1359,强烈,qiángliè,강렬하다,intense,形,R4,N
+1360,手段,shǒuduàn,수단·방법,means,名,R4,N
+1361,挑战,tiǎozhàn,도전·도전하다,challenge,名,R4,N
+1362,推进,tuījìn,추진하다,advance,动,R4,N
+1363,措施,cuòshī,조치·대책,measure,名,R4,N
+1364,整体,zhěngtǐ,전체,whole,名,R4,N
+1365,文明,wénmíng,문명,civilization,名、形,R4,N
+1366,明,míng,밝다·분명하다,bright,形,R4,N
+1367,显然,xiǎnrán,분명히·명백히,obviously,形,R4,N
+1368,某,mǒu,어느·어떤 (지시대명사),certain,代,R4,N
+1369,概念,gàiniàn,개념,concept,名,R4,N
+1370,特点,tèdiǎn,특징,feature,名,R4,N
+1371,皆,jiē,모두,all,副,R4,N
+1372,看着,kànzhe,보면서,looking at,动,R4,N
+1373,科,kē,과·분야,department,名,R4,N
+1374,等等,děngděng,등등,and so on,助,R4,N
+1375,纽约,niǔyuē,뉴욕,New York,名,R4,N
+1376,美丽,měilì,아름답다,beautiful,形,R4,Y
+1377,老婆,lǎopo,아내(구어),wife,名,R4,Y
+1378,老板,lǎobǎn,사장·주인,boss,名,R4,Y
+1379,英文,yīngwén,영어,English,名,R4,N
+1380,警方,jǐngfāng,경찰 측,police,名,R4,N
+1381,访问,fǎngwèn,방문하다,visit,动,R4,N
+1382,评价,píngjià,평가하다,evaluate,动、名,R4,N
+1383,贡献,gòngxiàn,공헌·기여하다,contribution,名,R4,N
+1384,财产,cáichǎn,재산,property,名,R4,N
+1385,距离,jùlí,거리,distance,动、名,R4,N
+1386,那种,nàzhǒng,그런 종류,that kind,代,R4,N
+1387,重视,zhòngshì,중시하다,value,动,R4,N
+1388,页,yè,(양사) 쪽·페이지,page,量,R4,N
+1389,食品,shípǐn,식품,food,名,R4,Y
+1390,不好,bùhǎo,좋지 않다,bad,形,R4,N
+1391,优势,yōushì,우세·장점,advantage,名,R4,N
+1392,伤害,shānghài,상처 입히다·해치다,hurt,动,R4,N
+1393,保障,bǎozhàng,보장하다,guarantee,动,R4,N
+1394,光,guāng,빛·다만,light,副、名、形,R4,Y
+1395,六,liù,여섯·6,six,数,R4,N
+1396,兼,jiān,겸하다,concurrently,动,R4,N
+1397,出口,chūkǒu,출구,exit,名,R4,Y
+1398,加上,jiāshàng,더하다·게다가,plus,连,R4,N
+1399,半,bàn,절반,half,数,R4,N
+1400,博士,bóshì,박사,doctor,名,R4,Y
+1401,害怕,hàipà,무서워하다·두려워하다,afraid,形,R4,Y
+1402,对象,duìxiàng,대상·애인,target,名,R4,N
+1403,尽,jǐn,다하다·최대한,exhaust,动、副,R4,N
+1404,师,shī,스승,teacher,名,R4,N
+1405,感受,gǎnshòu,느끼다·느낌,feel,名、动,R4,N
+1406,投入,tóurù,투입하다·몰두하다,put in,动、名,R4,N
+1407,最佳,zuìjiā,최고의,best,形,R4,N
+1408,村,cūn,마을,village,名,R4,Y
+1409,案,àn,사건·안건,case,名,R4,N
+1410,法规,fǎguī,법규,regulation,名,R4,N
+1411,漫画,mànhuà,만화,comic,名,R4,Y
+1412,物质,wùzhì,물질,matter,名,R4,N
+1413,生物,shēngwù,생물,living thing,名,R4,N
+1414,移动,yídòng,이동하다,move,动,R4,N
+1415,翻译,fānyì,번역하다·통역하다,translate,动、名,R4,N
+1416,英雄,yīngxióng,영웅,hero,名,R4,N
+1417,表达,biǎodá,표현하다,express,动,R4,N
+1418,设施,shèshī,시설,facility,名,R4,N
+1419,队伍,duìwu,대오·부대,troops,名,R4,N
+1420,除,chú,제외하다,remove,介,R4,N
+1422,中文,zhōngwén,중국어,Chinese,名,R4,N
+1423,人人,rénrén,모든 사람,everyone,代,R4,N
+1424,包,bāo,가방,bag,名、量、动,R4,Y
+1425,化,huà,변화하다·~화,change,动,R4,N
+1426,官,guān,관리·공무원,official,名,R4,N
+1427,尔,ěr,너·그러하다 (문어),you,代,R4,N
+1428,开心,kāixīn,기쁘다·즐겁다,happy,形、动,R4,Y
+1429,救,jiù,구하다·구조하다,rescue,动,R4,Y
+1430,更好,gènghǎo,더 좋다,better,形,R4,N
+1431,最新,zuìxīn,최신의,newest,形,R4,N
+1432,李,lǐ,이(성씨)·자두,plum,名,R4,N
+1433,案件,ànjiàn,사건,case,名,R4,N
+1434,男性,nánxìng,남성,male,名,R4,N
+1435,睡,shuì,자다,sleep,动,R4,Y
+1436,福利,fúlì,복지·혜택,welfare,名,R4,N
+1437,自动,zìdòng,자동의·자동으로,automatic,形、副,R4,N
+1438,街,jiē,거리,street,名,R4,Y
+1439,证据,zhèngjù,증거,evidence,名,R4,N
+1440,路线,lùxiàn,노선·경로,route,名,R4,N
+1441,身边,shēnbiān,곁·주변,beside,名,R4,N
+1442,迅速,xùnsù,신속하다·재빠르다,rapid,形,R4,N
+1443,遇到,yùdào,만나다·마주치다,encounter,动,R4,N
+1444,高级,gāojí,고급의,advanced,形,R4,N
+1445,一件,yījiàn,한 건·한 벌,one item,数量,R4,N
+1446,一段,yīduàn,한 토막,one section,数量,R4,N
+1447,万元,wànyuán,만 위안,ten thousand yuan,数量,R4,N
+1448,主义,zhǔyì,주의,-ism,名,R4,N
+1449,享受,xiǎngshòu,즐기다·누리다,enjoy,动、名,R4,N
+1450,人才,réncái,인재,talent,名,R4,N
+1451,亿元,yìyuán,억 위안,hundred million yuan,数量,R4,N
+1452,从而,cóng'ér,따라서·그리하여 (접속사),thus,连,R4,N
+1453,估计,gūjì,추측하다·짐작하다,estimate,动,R4,N
+1454,克,kè,그램 (양사),gram,量,R4,N
+1455,冲突,chōngtū,충돌·갈등,conflict,名,R4,N
+1456,初,chū,처음·초기의,beginning,副,R4,N
+1457,卷,juǎn,말다·(양사) 개,roll,量,R4,N
+1458,发挥,fāhuī,발휘하다,bring into play,动,R4,N
+1459,受伤,shòushāng,부상당하다·다치다,injured,动,R4,Y
+1460,命令,mìnglìng,명령(하다),order,名、动,R4,N
+1461,哪个,nǎge,어느 것,which one,代,R4,N
+1462,商品,shāngpǐn,상품,goods,名,R4,N
+1463,国民,guómín,국민,national,名,R4,N
+1464,国民党,guómíndǎng,국민당,Kuomintang,名,R4,N
+1465,块,kuài,(양사) 조각·위안,piece,名、量,R4,N
+1466,境内,jìngnèi,경내·국내,within borders,名,R4,N
+1467,大部分,dàbùfèn,대부분,most,名,R4,N
+1468,学会,xuéhuì,배워서 익히다·학회,learn,名,R4,N
+1469,当年,dāngnián,그 당시·그해,that year,名,R4,N
+1470,怕,pà,무서워하다·두렵다,fear,副,R4,Y
+1471,文字,wénzì,문자·글자,writing,名,R4,N
+1472,格,gé,칸·격식,grid,名,R4,N
+1473,海外,hǎiwài,해외,overseas,名,R4,N
+1474,消费,xiāofèi,소비하다,consume,动,R4,N
+1475,眼睛,yǎnjing,눈,eye,名,R4,Y
+1476,红,hóng,빨갛다·붉다,red,形,R4,Y
+1477,网友,wǎngyǒu,인터넷 친구,netizen,名,R4,N
+1478,至今,zhìjīn,지금까지,until now,副,R4,N
+1479,西班牙,xībānyá,스페인,Spain,名,R4,N
+1480,言,yán,말,speech,名,R4,N
+1481,词,cí,단어,word,名,R4,N
+1482,课程,kèchéng,교육과정·수업,course,名,R4,N
+1483,资格,zīgé,자격,qualification,名,R4,N
+1484,超级,chāojí,초·슈퍼 (접두사),super,形,R4,N
+1485,阿,ā,아·(접두사),prefix,前缀,R4,N
+1486,难以,nányǐ,~하기 어렵다,hard to,动,R4,N
+1487,首次,shǒucì,처음·첫 번째,first time,副,R4,N
+1488,驻,zhù,주재하다,be stationed,动,R4,N
+1489,之中,zhīzhōng,~안에·~가운데,among,名,R4,N
+1490,产,chǎn,생산하다·낳다,produce,动,R4,N
+1491,修改,xiūgǎi,고치다·수정하다,revise,动,R4,N
+1492,培训,péixùn,훈련하다·양성하다,train,动,R4,N
+1493,如今,rújīn,오늘날·지금,nowadays,名,R4,N
+1494,山东,shāndōng,산둥,Shandong,名,R4,N
+1495,差,chà,부족하다·모자라다,lack,动、形,R4,N
+1496,帝国,dìguó,제국,empire,名,R4,N
+1497,打击,dǎjī,타격을 주다·공격하다,strike,动,R4,N
+1498,推广,tuīguǎng,보급하다·확대하다,spread,动,R4,N
+1499,提升,tíshēng,향상시키다,raise,动,R4,N
+1500,新加坡,xīnjiāpō,싱가포르,Singapore,名,R4,N
+1501,机制,jīzhì,메커니즘·구조,mechanism,名,R4,N
+1502,机器,jīqì,기계,machine,名,R4,Y
+1503,爆发,bàofā,폭발하다,break out,动,R4,N
+1504,留下,liúxià,남기다·남다,leave behind,动,R4,N
+1505,社会主义,shèhuìzhǔyì,사회주의,socialism,名,R4,N
+1506,竞争,jìngzhēng,경쟁하다,compete,动,R4,N
+1507,第一个,dìyīge,첫 번째,first one,数量,R4,N
+1508,紧张,jǐnzhāng,긴장하다·긴박하다,nervous,形,R4,Y
+1509,纪念,jìniàn,기념하다,commemorate,动、名,R4,N
+1510,自身,zìshēn,자신·자체,self,名,R4,N
+1511,论,lùn,논하다,discuss,动,R4,N
+1512,超,chāo,넘다·초과하다,exceed,动,R4,N
+1513,运行,yùnxíng,운행하다·작동하다,run,动,R4,N
+1514,陈,chén,진(성씨)·늘어놓다,surname Chen,名,R4,N
+1515,集中,jízhōng,집중하다,concentrate,动、形,R4,N
+1516,面前,miànqián,눈앞·면전,in front of,名,R4,N
+1517,风,fēng,바람,wind,名,R4,Y
+1518,食物,shíwù,음식,food,名,R4,Y
+1519,不知,bùzhī,모르다,not know,动,R4,N
+1520,不足,bùzú,부족하다·모자라다,insufficient,形,R4,N
+1521,东京,dōngjīng,도쿄,Tokyo,名,R4,N
+1522,东北,dōngběi,동북쪽,northeast,名,R4,N
+1523,事务,shìwù,사무·업무,affairs,名,R4,N
+1524,份,fèn,(양사) 부·몫,portion,量,R4,N
+1525,充满,chōngmǎn,가득 차다,be full of,动,R4,N
+1526,出去,chūqu,나가다,go out,动,R4,Y
+1527,区别,qūbié,구별하다·차이,difference,名、动,R4,N
+1528,反映,fǎnyìng,반영하다,reflect,动、名,R4,N
+1529,名称,míngchēng,명칭,name,名,R4,N
+1530,吸引,xīyǐn,매력적이다·끌어당기다,attract,动,R4,N
+1531,哥哥,gēge,오빠·형,older brother,名,R4,Y
+1532,坏,huài,나쁘다·고장나다,bad,形,R4,N
+1533,处于,chǔyú,~에 처하다·놓이다,be in,动,R4,N
+1534,娱乐,yúlè,오락,entertainment,名,R4,N
+1535,实验,shíyàn,실험,experiment,动、名,R4,Y
+1536,家人,jiārén,가족,family,名,R4,Y
+1537,展开,zhǎnkāi,펼치다·전개하다,unfold,动,R4,N
+1538,形象,xíngxiàng,이미지·형상,image,名、形,R4,N
+1539,战,zhàn,전쟁·싸우다,war,名,R4,N
+1540,打算,dǎsuàn,계획하다·~할 작정이다,plan,动、名,R4,N
+1541,掉,diào,떨어지다,drop,动,R4,Y
+1542,接,jiē,받다·마중하다,catch,动,R4,Y
+1543,支付,zhīfù,지불하다,pay,动,R4,Y
+1544,收到,shōudào,받다·수령하다,receive,动,R4,N
+1545,教学,jiàoxué,가르치다·교육,teaching,名,R4,N
+1546,斗争,dòuzhēng,투쟁,struggle,名,R4,N
+1547,昨天,zuótiān,어제,yesterday,名,R4,N
+1548,机械,jīxiè,기계,machinery,名,R4,N
+1549,极,jí,극히·매우,extremely,副,R4,N
+1550,查,chá,조사하다·찾아보다,check,动,R4,N
+1551,澳门,àomén,마카오,Macau,名,R4,N
+1552,用于,yòngyú,~에 쓰이다,be used for,动,R4,N
+1553,画,huà,그리다·그림,draw,动,R4,Y
+1554,符合,fúhé,부합하다·일치하다,conform,动,R4,N
+1555,粮食,liángshí,식량·곡식,grain,名,R4,Y
+1556,给予,jǐyǔ,주다·부여하다,give,动,R4,N
+1557,维持,wéichí,유지하다,maintain,动,R4,N
+1558,节,jié,명절·마디,festival,名,R4,N
+1559,观众,guānzhòng,관중·관객,audience,名,R4,Y
+1560,贴,tiē,붙이다,stick,动,R4,Y
+1561,这件,zhèjiàn,이 건·이 벌,this item,代,R4,N
+1562,非洲,fēizhōu,아프리카,Africa,名,R4,N
+1564,上面,shàngmiàn,위·위쪽,above,名,R4,N
+1565,两年,liǎngnián,2년,two years,数量,R4,N
+1566,发动,fādòng,일으키다·시동을 걸다,launch,动,R4,N
+1567,口,kǒu,입·(양사) 식구,mouth,量、名,R4,Y
+1568,合,hé,합하다·맞다,combine,动,R4,N
+1569,同学,tóngxué,동창·급우,classmate,名,R4,Y
+1570,团结,tuánjié,단결하다,unite,动,R4,N
+1571,天津,tiānjīn,톈진,Tianjin,名,R4,N
+1572,好好,hǎohǎo,잘·제대로,well,形、副,R4,N
+1573,安,ān,안전하다·평안하다,peaceful,动、形,R4,N
+1574,实际上,shíjìshàng,사실상·실제로,in fact,副,R4,N
+1575,客户,kèhù,고객,client,名,R4,N
+1576,小学,xiǎoxué,초등학교,elementary school,名,R4,Y
+1577,强大,qiángdà,강대하다,powerful,形,R4,N
+1578,彻底,chèdǐ,철저하다,thorough,形,R4,N
+1579,待,dāi,머무르다,stay,动,R4,N
+1580,想到,xiǎngdào,생각이 나다·떠올리다,think of,动,R4,N
+1581,批准,pīzhǔn,비준하다·승인하다,approve,动,R4,N
+1582,早上,zǎoshang,아침,morning,名,R4,Y
+1583,枪,qiāng,총,gun,名,R4,Y
+1584,武汉,wǔhàn,우한,Wuhan,名,R4,N
+1585,比例,bǐlì,비례·비율,ratio,名,R4,N
+1586,生态,shēngtài,생태,ecology,名,R4,N
+1587,观察,guānchá,관찰하다,observe,动,R4,Y
+1588,规范,guīfàn,규범·기준,norm,形、名、动,R4,N
+1589,运输,yùnshū,운송하다,transport,动,R4,N
+1590,量,liáng,재다·측정하다,measure,动,R4,N
+1591,降低,jiàngdī,낮추다·줄이다,lower,动,R4,N
+1592,非法,fēifǎ,불법의,illegal,形,R4,N
+1593,风格,fēnggé,스타일·풍격,style,名,R4,N
+1594,中华人民共和国,zhōnghuárénmíngònghéguó,중화인민공화국,People's Republic of China,名,R4,N
+1595,使得,shǐde,~하게 만들다,make,动,R4,N
+1596,出发,chūfā,출발하다,depart,动,R4,Y
+1597,取,qǔ,가지다·찾다,take,动,R4,N
+1598,各个,gègè,각각·여러,each,代、副,R4,N
+1599,各位,gèwèi,여러분,everyone,代,R4,N
+1600,听说,tīngshuō,듣자 하니,hear,动,R4,N
+1601,培养,péiyǎng,기르다·양성하다,cultivate,动,R4,N
+1602,天下,tiānxià,천하·온 세상,world,名,R4,N
+1603,完美,wánměi,완벽하다,perfect,形,R4,N
+1604,并非,bìngfēi,결코 ~이 아니다,not,动,R4,N
+1605,心里,xīnli,마음속,in mind,名,R4,N
+1606,怀疑,huáiyí,의심하다,doubt,动,R4,N
+1607,性质,xìngzhì,성질·특성,nature,名,R4,N
+1608,想法,xiǎngfǎ,생각·의견,idea,名,R4,N
+1609,成本,chéngběn,원가·비용,cost,名,R4,N
+1610,描述,miáoshù,묘사하다,describe,动,R4,N
+1611,操,cāo,잡다·조작하다,operate,动,R4,N
+1612,操作,cāozuò,조작하다·작동하다,operate,动,R4,N
+1613,方,fāng,네모·방향·방법,square,形、名,R4,N
+1614,正是,zhèngshì,바로 ~이다,exactly,动,R4,N
+1615,注册,zhùcè,등록하다,register,动,R4,N
+1616,测试,cèshì,테스트하다·시험하다,test,动、名,R4,N
+1617,私人,sīrén,개인의·사적인,private,名,R4,N
+1618,网上,wǎngshàng,온라인·인터넷상,online,名,R4,N
+1619,考试,kǎoshì,시험·시험 보다,exam,动,R4,Y
+1620,而已,éryǐ,~일 뿐이다,that's all,助,R4,N
+1621,议员,yìyuán,의원,congressman,名,R4,N
+1622,资产,zīchǎn,자산,assets,名,R4,N
+1623,一旦,yídàn,일단 ~하면,once,名、副,R4,N
+1624,一项,yīxiàng,한 가지·한 항목,one item,数量,R4,N
+1625,从来,cónglái,지금까지·여태껏,ever,副,R4,N
+1626,升级,shēngjí,업그레이드하다,upgrade,动,R4,N
+1627,大约,dàyuē,대략,about,副,R4,N
+1628,完整,wánzhěng,완전하다·완벽하다,complete,形,R4,N
+1629,审查,shěnchá,심사하다,review,动,R4,N
+1630,就业,jiùyè,취업하다,get a job,动,R4,N
+1631,情绪,qíngxù,기분·정서,mood,名,R4,N
+1632,投,tóu,던지다·투입하다,throw,动,R4,Y
+1633,挂,guà,걸다·매달다,hang,动,R4,Y
+1634,消失,xiāoshī,사라지다,disappear,动,R4,N
+1635,深圳,shēnzhèn,선전,Shenzhen,名,R4,N
+1636,游行,yóuxíng,행진·시위,parade,名,R4,N
+1637,白,bái,희다·하얗다,white,副,R4,Y
+1638,直播,zhíbō,생방송하다,live broadcast,动,R4,N
+1639,确保,quèbǎo,확실히 보장하다,ensure,动,R4,N
+1640,禁止,jìnzhǐ,금지하다,forbid,动,R4,N
+1641,良好,liánghǎo,양호하다·좋다,good,形,R4,N
+1642,衣服,yīfu,옷,clothes,名,R4,Y
+1643,表,biǎo,시계,watch,名,R4,Y
+1644,领,lǐng,옷깃·이끌다·받다,collar,动,R4,N
+1645,领导人,lǐngdǎorén,지도자,leader,名,R4,N
+1646,骗,piàn,속이다,deceive,动,R4,N
+1647,一步,yībù,한 걸음,one step,数量,R4,N
+1648,下面,xiàmiàn,아래·다음,below,名,R4,N
+1649,东方,dōngfāng,동양·동쪽,east,名,R4,N
+1650,众多,zhòngduō,많다·수많은,numerous,形,R4,N
+1651,依然,yīrán,여전히,still,副,R4,N
+1652,倍,bèi,(양사) 배,times,量,R4,N
+1653,公平,gōngpíng,공평하다,fair,形,R4,N
+1654,包含,bāohán,포함하다,contain,动,R4,N
+1655,卫生,wèishēng,위생,hygiene,形、名,R4,N
+1656,国王,guówáng,국왕,king,名,R4,Y
+1657,复,fù,다시·회복하다,again,副,R4,N
+1658,多么,duōme,얼마나,how,副,R4,N
+1659,太阳,tàiyáng,태양,sun,名,R4,Y
+1660,实践,shíjiàn,실천하다,practice,动,R4,N
+1661,少女,shàonǚ,소녀,girl,名,R4,Y
+1662,工厂,gōngchǎng,공장,factory,名,R4,Y
+1663,建,jiàn,건설하다·세우다,build,动,R4,Y
+1664,心理,xīnlǐ,심리,psychology,名,R4,N
+1665,忘记,wàngjì,잊어버리다,forget,动,R4,N
+1666,或是,huòshì,또는·혹은,or,连,R4,N
+1667,投票,tóupiào,투표하다,vote,动,R4,Y
+1668,接触,jiēchù,접촉하다,contact,动,R4,N
+1669,放在,fàngzài,~에 두다,put in,动,R4,N
+1670,日子,rìzi,날·나날,day,名,R4,N
+1671,构成,gòuchéng,구성하다·이루다,constitute,动,R4,N
+1672,某些,mǒuxiē,일부·어떤 것들,some,代,R4,N
+1673,毛,máo,털,fur,名,R4,Y
+1674,民间,mínjiān,민간의,folk,名,R4,N
+1675,注,zhù,붓다·주석,pour,动,R4,N
+1676,清,qīng,맑다·깨끗하다,clear,形,R4,N
+1677,爱情,àiqíng,사랑·애정,love,名,R4,Y
+1678,特征,tèzhēng,특징,feature,名,R4,N
+1679,石油,shíyóu,석유,oil,名,R4,N
+1680,立即,lìjí,즉시,immediately,副,R4,N
+1681,立法,lìfǎ,입법,legislation,名,R4,N
+1682,自我,zìwǒ,자아,self,代,R4,N
+1683,装,zhuāng,설치하다·~인 척하다,install,动,R4,N
+1684,道德,dàodé,도덕,morality,名,R4,N
+1685,高度,gāodù,높이·고도,height,名,R4,N
+1687,一边,yībiān,한쪽·~하면서,one side,名、副,R4,N
+1688,三年,sānnián,3년,three years,数量,R4,N
+1689,不敢,bùgǎn,감히 ~하지 못하다,dare not,动,R4,N
+1690,严格,yángé,엄격하다,strict,形、动,R4,N
+1691,几年,jǐnián,몇 년,several years,数量,R4,N
+1692,力,lì,힘,power,名,R4,N
+1693,厂,chǎng,공장,factory,名,R4,Y
+1694,大概,dàgài,대략·아마도,probably,形、副,R4,N
+1695,审判,shěnpàn,재판하다,trial,动,R4,N
+1696,尊重,zūnzhòng,존중하다,respect,动,R4,N
+1697,小姐,xiǎojiě,아가씨,young lady,名,R4,Y
+1698,少年,shàonián,소년,boy,名,R4,Y
+1699,层,céng,층 (양사),floor,量,R4,N
+1700,巴黎,bālí,파리,Paris,名,R4,N
+1701,平等,píngděng,평등하다,equal,形,R4,N
+1702,引发,yǐnfā,일으키다,trigger,动,R4,N
+1703,当局,dāngjú,당국,authorities,名,R4,N
+1704,收,shōu,받다·거두다,receive,动,R4,N
+1705,普遍,pǔbiàn,보편적이다,universal,形,R4,N
+1706,毕竟,bìjìng,결국·어쨌든,after all,副,R4,N
+1707,爸爸,bàba,아빠,dad,名,R4,Y
+1708,用来,yònglái,~에 쓰다,be used to,动,R4,N
+1709,监狱,jiānyù,감옥,prison,名,R4,Y
+1710,联邦,liánbāng,연방,federation,名,R4,N
+1711,说法,shuōfǎ,견해·화법,way of saying,名,R4,N
+1712,读者,dúzhě,독자,reader,名,R4,N
+1713,费用,fèiyòng,비용,cost,名,R4,N
+1714,违法,wéifǎ,위법하다·불법이다,illegal,形,R4,N
+1715,酒店,jiǔdiàn,호텔(술집),hotel,名,R4,Y
+1716,代理,dàilǐ,대리하다·대행,agent,动,R4,N
+1717,全世界,quánshìjiè,전 세계,whole world,名,R4,N
+1718,共有,gòngyǒu,합계·모두 합쳐,total,动,R4,N
+1719,关闭,guānbì,닫다·폐쇄하다,close,动,R4,N
+1720,冠军,guànjūn,챔피언·우승자,champion,名,R4,Y
+1721,出席,chūxí,참석하다,attend,动,R4,N
+1722,判断,pànduàn,판단하다,judge,动、名,R4,N
+1723,势力,shìlì,세력,force,名,R4,N
+1724,后面,hòumiàn,뒤·뒤쪽,back,名,R4,N
+1725,品牌,pǐnpái,브랜드,brand,名,R4,N
+1726,导演,dǎoyǎn,감독·연출하다,director,动、名,R4,Y
+1727,小组,xiǎozǔ,조·그룹,group,名,R4,N
+1728,就要,jiùyào,곧 ~하려 하다,about to,副,R4,N
+1729,年度,niándù,연도·연간,year,名,R4,N
+1730,广播,guǎngbō,방송하다·방송,broadcast,动、名,R4,N
+1731,忙,máng,바쁘다,busy,形,R4,Y
+1732,拍摄,pāishè,촬영하다,film,动,R4,Y
+1733,推,tuī,밀다·거절하다,push,动,R4,Y
+1734,故,gù,그러므로·옛날의,therefore,连,R4,N
+1735,有个,yǒuge,어떤 ~이 있다,there is a,短语,R4,N
+1736,正义,zhèngyì,정의,justice,名、形,R4,N
+1737,深,shēn,깊다,deep,形,R4,N
+1738,片,piàn,(양사) 조각·판,slice,量,R4,N
+1739,疯狂,fēngkuáng,미친 듯한·열광적인,crazy,形,R4,N
+1740,病,bìng,병·아프다,sick,名、动,R4,Y
+1741,趋势,qūshì,추세·경향,trend,名,R4,N
+1742,足够,zúgòu,충분하다,enough,动,R4,N
+1743,转移,zhuǎnyí,옮기다·전이하다,transfer,动,R4,N
+1744,追,zhuī,쫓다·추구하다,chase,动,R4,Y
+1745,预算,yùsuàn,예산,budget,名,R4,N
+1746,飞,fēi,날다,fly,动,R4,Y
+1748,一份,yīfèn,한 부·한 몫,one portion,数量,R4,N
+1749,一句,yījù,한 마디,one sentence,数量,R4,N
+1750,一部,yībù,한 편·한 대,one set,数量,R4,N
+1751,乱,luàn,어지럽다·혼란,messy,形,R4,Y
+1752,任何人,rènhérén,누구든지,anyone,代,R4,N
+1753,作出,zuòchū,내놓다·만들다,make,动,R4,N
+1754,做出,zuòchū,하다·만들어 내다,make,动,R4,N
+1755,分类,fēnlèi,분류하다,classify,动,R4,N
+1756,动作,dòngzuò,동작·행동,movement,名,R4,N
+1757,协助,xiézhù,협조하다,assist,动,R4,N
+1758,嗯,ń,응·음,uh-huh,叹,R4,N
+1759,四个,sìge,네 개,four,数量,R4,N
+1760,城镇,chéngzhèn,도시와 읍,towns,名,R4,N
+1761,多个,duōge,여러 개,many,数量,R4,N
+1762,姐姐,jiějie,언니·누나,older sister,名,R4,Y
+1763,家族,jiāzú,가족·가문,clan,名,R4,N
+1764,就算,jiùsuàn,설령 ~하더라도,even if,连,R4,N
+1765,市长,shìzhǎng,시장,mayor,名,R4,N
+1766,往往,wǎngwǎng,종종·흔히,often,副,R4,N
+1767,抗议,kàngyì,항의하다,protest,动,R4,N
+1768,损失,sǔnshī,손실·손해,loss,动、名,R4,N
+1769,时刻,shíkè,시각·순간,moment,名、副,R4,N
+1770,本人,běnrén,본인·자신,oneself,代,R4,N
+1771,来看,láikàn,~로 보면,look at it,短语,R4,N
+1772,标志,biāozhì,표지·상징,sign,动、名,R4,N
+1773,梦想,mèngxiǎng,꿈·소망하다,dream,动、名,R4,N
+1774,海,hǎi,바다,sea,名,R4,Y
+1775,班,bān,반·조,class,名、量,R4,N
+1776,痛苦,tòngkǔ,고통·괴롭다,pain,形,R4,N
+1777,的确,díquè,확실히·정말로,indeed,副,R4,N
+1778,短,duǎn,짧다,short,形,R4,Y
+1779,确认,quèrèn,확인하다,confirm,动,R4,N
+1780,立场,lìchǎng,입장·태도,standpoint,名,R4,N
+1781,网页,wǎngyè,웹페이지,web page,名,R4,N
+1782,脚,jiǎo,발,foot,名,R4,Y
+1783,进口,jìnkǒu,수입하다,import,动、名,R4,N
+1784,重庆,chóngqìng,충칭,Chongqing,名,R4,N
+1785,预测,yùcè,예측하다,predict,动,R4,N
+1786,频道,píndào,채널,channel,名,R4,N
+1788,主动,zhǔdòng,주동적이다·적극적으로,initiative,形,R4,N
+1789,之外,zhīwài,~밖에·~을 제외하고,outside,名,R4,N
+1790,交,jiāo,건네다·제출하다,hand over,动,R4,N
+1791,信号,xìnhào,신호,signal,名,R4,N
+1792,像是,xiàngshì,마치 ~인 것 같다,seem,动,R4,N
+1793,刚才,gāngcái,방금·아까,just now,名,R4,N
+1794,名单,míngdān,명단,list,名,R4,N
+1795,地震,dìzhèn,지진,earthquake,名,R4,Y
+1796,够,gòu,충분하다,enough,动、副,R4,N
+1797,展示,zhǎnshì,전시하다·보여주다,display,动,R4,N
+1798,岛,dǎo,섬,island,名,R4,Y
+1799,左,zuǒ,왼쪽,left,名,R4,N
+1800,年龄,niánlíng,나이,age,名,R4,N
+1801,应当,yīngdāng,마땅히 ~해야 한다,should,动,R4,N
+1802,当中,dāngzhōng,그 중·가운데,among,名,R4,N
+1804,成就,chéngjiù,성취·업적,achievement,名、动,R4,N
+1805,挺,tǐng,꽤·제법 (부사),quite,动,R4,N
+1806,接近,jiējìn,접근하다·가까워지다,approach,动,R4,N
+1807,森林,sēnlín,숲·삼림,forest,名,R4,Y
+1808,江苏,jiāngsū,장쑤,Jiangsu,名,R4,N
+1809,涉及,shèjí,관련되다·미치다,involve,动,R4,N
+1810,演员,yǎnyuán,배우,actor,名,R4,Y
+1811,秒,miǎo,초(시간 단위),second,量,R4,N
+1812,罗,luó,그물·늘어놓다,net,名、动,R4,N
+1813,补充,bǔchōng,보충하다,supplement,动、名,R4,N
+1814,记,jì,기록하다·기억하다,remember,动,R4,N
+1815,贷款,dàikuǎn,대출(하다),loan,名,R4,N
+1816,遭到,zāodào,당하다·받다,suffer,动,R4,N
+1817,阻止,zǔzhǐ,저지하다·막다,stop,动,R4,N
+1818,龙,lóng,용,dragon,名,R4,Y
+1819,上帝,shàngdì,하느님,God,名,R4,N
+1820,上述,shàngshù,상술한·위에서 말한,above-mentioned,形,R4,N
+1821,临时,línshí,임시의·잠정적인,temporary,形、副,R4,N
+1822,争议,zhēngyì,논쟁·이견,dispute,名,R4,N
+1823,人大,réndà,인민대표대회,People's Congress,名,R4,N
+1824,他人,tārén,타인,others,代,R4,N
+1825,供,gōng,공급하다,supply,动,R4,N
+1826,冲,chōng,씻어내다·타다(물에),rinse,介、动,R4,N
+1827,古代,gǔdài,고대,ancient times,名,R4,N
+1828,命运,mìngyùn,운명,fate,名,R4,N
+1829,哭,kū,울다,cry,动,R4,Y
+1830,因而,yīn'ér,그리하여·따라서,therefore,连,R4,N
+1831,地图,dìtú,지도,map,名,R4,Y
+1832,地点,dìdiǎn,장소·지점,location,名,R4,N
+1833,声明,shēngmíng,성명·선언하다,statement,动、名,R4,N
+1834,多次,duōcì,여러 번,many times,数量,R4,N
+1835,始终,shǐzhōng,처음부터 끝까지,from start to finish,副,R4,N
+1836,实力,shílì,실력,strength,名,R4,N
+1837,小孩,xiǎohái,아이,child,名,R4,Y
+1838,幸福,xìngfú,행복·행복하다,happiness,形、名,R4,Y
+1839,广大,guǎngdà,광대하다·폭넓다,vast,形,R4,N
+1840,敢,gǎn,감히 ~하다,dare,动,R4,N
+1841,新疆,xīnjiāng,신장,Xinjiang,名,R4,N
+1842,演出,yǎnchū,공연하다·공연,performance,动、名,R4,Y
+1843,澳洲,àozhōu,호주,Australia,名,R4,N
+1844,照顾,zhàogù,돌보다·보살피다,take care of,动,R4,Y
+1845,牛,niú,소,cow,形,R4,Y
+1847,竟然,jìngrán,뜻밖에도·의외로,unexpectedly,副,R4,N
+1848,股份,gǔfèn,주식·지분,shares,名,R4,N
+1849,西部,xībù,서부,western part,名,R4,N
+1850,角度,jiǎodù,각도·관점,angle,名,R4,N
+1851,试图,shìtú,시도하다,attempt,动,R4,N
+1852,跳,tiào,뛰다·점프하다,jump,动,R4,Y
+1853,采访,cǎifǎng,인터뷰하다·취재하다,interview,动、名,R4,N
+1854,随后,suíhòu,그 후·이어서,afterwards,副,R4,N
+1855,颜色,yánsè,색깔,color,名,R4,Y
+1856,馆,guǎn,관·건물,hall,名,R4,N
+1860,丈夫,zhàngfu,남편,husband,名,R4,Y
+1861,不行,bùxíng,안 되다·안 된다,no good,动、形,R4,N
+1862,中间,zhōngjiān,가운데·사이,middle,名,R4,N
+1863,交换,jiāohuàn,교환하다,exchange,动,R4,N
+1864,体验,tǐyàn,체험하다,experience,动,R4,N
+1865,做到,zuòdào,해내다·이루다,achieve,动,R4,N
+1866,别的,biéde,다른 것,other,代,R4,N
+1867,参考,cānkǎo,참고하다,refer to,动,R4,N
+1868,啥,shá,무엇(구어),what,代,R4,N
+1869,基于,jīyú,~에 근거하여,based on,介,R4,N
+1870,大多数,dàduōshù,대다수,majority,名,R4,N
+1871,天天,tiāntiān,매일,every day,副,R4,N
+1872,实,shí,실제·열매,real,形,R4,N
+1873,局,jú,국·상황,bureau,名,R4,N
+1874,巴西,bāxī,브라질,Brazil,名,R4,N
+1875,店,diàn,가게·상점,shop,名,R4,Y
+1876,忘,wàng,잊다,forget,动,R4,N
+1877,思考,sīkǎo,생각하다·사고하다,think,动,R4,N
+1878,恐怖,kǒngbù,무섭다·테러,terror,形,R4,N
+1879,授权,shòuquán,권한을 부여하다,authorize,动,R4,N
+1880,播放,bōfàng,방송하다·재생하다,play,动,R4,N
+1881,有趣,yǒuqù,재미있다,interesting,形,R4,N
+1882,武装,wǔzhuāng,무장(하다),armed,名,R4,N
+1883,照,zhào,비추다·~에 따라,shine,动、介,R4,N
+1884,爆炸,bàozhà,폭발하다,explode,动,R4,Y
+1885,球,qiú,공,ball,名,R4,Y
+1886,第三,dìsān,셋째,third,数,R4,N
+1887,等待,děngdài,기다리다,wait,动,R4,Y
+1888,组合,zǔhé,조합하다·조합,combine,动,R4,N
+1889,经典,jīngdiǎn,고전·클래식,classic,名,R4,N
+1890,绿色,lǜsè,초록색,green,名,R4,Y
+1891,至于,zhìyú,~에 관해서는,as for,动、介,R4,N
+1892,计算机,jìsuànjī,컴퓨터,computer,名,R4,Y
+1893,议会,yìhuì,의회,parliament,名,R4,N
+1894,调,diào,옮기다·조사하다,transfer,动,R4,N
+1895,财富,cáifù,재산·부,wealth,名,R4,N
+1896,越南,yuènán,베트남,Vietnam,名,R4,N
+1897,适应,shìyìng,적응하다,adapt,动,R4,N
+1898,适当,shìdàng,적당하다,appropriate,形,R4,N
+1901,一只,yīzhī,한 마리,one animal,数量,R4,N
+1902,一群,yīqún,한 무리,a group,数量,R4,N
+1903,义,yì,의리·정의,righteousness,名,R4,N
+1904,事实上,shìshíshàng,사실상,in fact,副,R4,N
+1905,儿,ér,아이·(접미사),child,名,R4,N
+1906,动力,dònglì,동력·원동력,motive force,名,R4,N
+1907,南部,nánbù,남부,southern part,名,R4,N
+1908,即将,jíjiāng,곧·머지않아,soon,副,R4,N
+1909,周年,zhōunián,주년·기념일,anniversary,名,R4,N
+1910,咱们,zánmen,우리 (청자 포함),we,代,R4,N
+1911,对待,duìdài,대하다·대우하다,treat,动,R4,N
+1912,尝试,chángshì,시도하다,try,动、名,R4,N
+1913,居住,jūzhù,거주하다·살다,reside,动,R4,N
+1914,座,zuò,자리·채 (양사),seat,量,R4,N
+1915,房子,fángzi,집·건물,house,名,R4,Y
+1916,报纸,bàozhǐ,신문,newspaper,名,R4,Y
+1917,指挥,zhǐhuī,지휘하다,command,动、名,R4,N
+1918,方便,fāngbiàn,편리하다,convenient,形,R4,N
+1919,既然,jìrán,~한 이상 (접속사),since,连,R4,N
+1920,楼,lóu,건물·층,building,名,R4,Y
+1921,泰国,tàiguó,태국,Thailand,名,R4,N
+1922,率,lǜ,비율,rate,名,R4,N
+1923,病毒,bìngdú,바이러스,virus,名,R4,N
+1924,篇,piān,편 (양사),piece,量,R4,N
+1925,视,shì,보다,look,动,R4,N
+1926,象,xiàng,코끼리·모양,elephant,名,R4,Y
+1927,赚,zhuàn,(돈을) 벌다,earn,动,R4,N
+1928,连结,liánjié,연결하다,connect,动,R4,N
+1929,通,tōng,통하다·훤히 알다,pass through,动、形,R4,N
+1930,配合,pèihé,협조하다·맞추다,cooperate,动,R4,N
+1931,首都,shǒudū,수도,capital,名,R4,N
+1932,黑人,hēirén,흑인,black person,名,R4,N
+1933,七,qī,일곱·7,seven,数,R4,N
+1934,上市,shàngshì,상장하다·출시되다,go on the market,动,R4,N
+1935,中国共产党,zhōngguógòngchǎndǎng,중국공산당,Communist Party of China,名,R4,N
+1936,之下,zhīxià,~아래·~밑에,under,名,R4,N
+1937,互相,hùxiāng,서로,each other,副,R4,N
+1938,人民币,rénmínbì,인민폐·위안화,renminbi,名,R4,N
+1939,令人,lìngrén,~하게 하다,make one,动,R4,N
+1940,会员,huìyuán,회원,member,名,R4,N
+1941,俱乐部,jùlèbù,클럽·동호회,club,名,R4,N
+1942,公路,gōnglù,도로·고속도로,highway,名,R4,Y
+1943,出生,chūshēng,태어나다,be born,动,R4,Y
+1944,十年,shínián,10년,ten years,数量,R4,N
+1945,司法,sīfǎ,사법,judiciary,名,R4,N
+1946,声,shēng,소리·목소리,sound,名、量,R4,N
+1947,天气,tiānqì,날씨,weather,名,R4,Y
+1948,完善,wánshàn,완비하다·개선하다,perfect,形、动,R4,N
+1949,定义,dìngyì,정의,definition,名,R4,N
+1950,家长,jiāzhǎng,학부모·가장,parent,名,R4,Y
+1951,建造,jiànzào,건설하다·짓다,build,动,R4,N
+1952,当前,dāngqián,현재·지금,current,名,R4,N
+1953,意外,yìwài,의외의·사고,accident,形、名,R4,N
+1954,感情,gǎnqíng,감정,emotion,名,R4,N
+1955,承诺,chéngnuò,승낙하다·약속,promise,动,R4,N
+1956,污染,wūrǎn,오염시키다,pollution,名,R4,Y
+1957,没什么,méishénme,별거 아니다·괜찮다,it's nothing,短语,R4,N
+1958,疾病,jíbìng,질병,disease,名,R4,N
+1959,究竟,jiūjìng,도대체,after all,副,R4,N
+1960,答案,dá'àn,답·해답,answer,名,R4,N
+1961,红色,hóngsè,빨간색,red,名,R4,Y
+1962,肉,ròu,고기,meat,名,R4,Y
+1963,背后,bèihòu,뒤·배후,behind,名,R4,N
+1964,能源,néngyuán,에너지원,energy,名,R4,N
+1965,自杀,zìshā,자살하다,suicide,动,R4,N
+1966,西藏,xīzàng,티베트,Tibet,名,R4,N
+1967,讲话,jiǎnghuà,말하다·연설하다,speech,动,R4,N
+1968,详细,xiángxì,상세하다·자세하다,detailed,形,R4,N
+1969,轮,lún,바퀴·(양사) 회,wheel,名、动、量,R4,N
+1970,进去,jìnqu,들어가다,go in,动,R4,Y
+1971,领袖,lǐngxiù,지도자,leader,名,R4,N
+1972,马上,mǎshàng,곧·즉시,immediately,副,R4,N
+1973,高中,gāozhōng,고등학교,high school,名,R4,Y
+1974,鱼,yú,생선,fish,名,R4,Y
+1975,下降,xiàjiàng,하락하다·내려가다,decline,动,R4,N
+1976,不久,bùjiǔ,머지않아·곧,soon,形,R4,N
+1977,东部,dōngbù,동부,eastern part,名,R4,N
+1978,两种,liǎngzhǒng,두 종류,two kinds,数量,R4,N
+1979,乡村,xiāngcūn,농촌·시골,countryside,名,R4,Y
+1980,信仰,xìnyǎng,신앙,faith,动,R4,N
+1981,先后,xiānhòu,차례로·순서대로,successively,副,R4,N
+1982,决议,juéyì,결의,resolution,名,R4,N
+1983,原本,yuánběn,원래,originally,副,R4,N
+1984,及时,jíshí,제때에·시기적절하다,timely,形,R4,N
+1985,可怕,kěpà,무섭다·끔찍하다,scary,形,R4,N
+1986,合理,hélǐ,합리적이다,reasonable,形,R4,N
+1987,地址,dìzhǐ,주소,address,名,R4,N
+1988,增强,zēngqiáng,강화하다·증강하다,strengthen,动,R4,N
+1989,大学生,dàxuéshēng,대학생,college student,名,R4,Y
+1990,女生,nǚshēng,여학생·소녀,girl student,名,R4,Y
+1991,如下,rúxià,다음과 같다,as follows,动,R4,N
+1992,妹妹,mèimei,여동생,younger sister,名,R4,Y
+1993,室,shì,방·실,room,名,R4,N
+1994,尚未,shàngwèi,아직 ~하지 않다,not yet,副,R4,N
+1995,工资,gōngzī,임금·월급,salary,名,R4,N
+1996,府,fǔ,관청·관저,government office,名,R4,N
+1997,弄,nòng,하다·만들다,do,动,R4,N
+1998,意,yì,뜻·생각,meaning,名,R4,N
+1999,成果,chéngguǒ,성과,achievement,名,R4,N
+2000,所有人,suǒyǒurén,모든 사람,everyone,代,R4,N
+2001,抢,qiǎng,빼앗다·서두르다,snatch,动,R4,Y
+2002,掌握,zhǎngwò,파악하다·숙달하다,master,动,R4,N
+2003,收集,shōují,수집하다,collect,动,R4,N
+2004,暴力,bàolì,폭력,violence,名,R4,N
+2005,期待,qīdài,기대하다,look forward to,动,R4,N
+2006,物,wù,물건·사물,thing,名,R4,N
+2007,生存,shēngcún,생존하다,survive,动,R4,N
+2008,留,liú,남다·남기다,stay,动,R4,N
+2009,知,zhī,알다,know,动,R4,N
+2010,罪,zuì,죄,crime,名,R4,N
+2011,股,gǔ,넓적다리·주식,share,名,R4,N
+2012,要是,yàoshì,만약 ~라면 (접속사),if,连,R4,N
+2013,费,fèi,비용·요금,fee,动、名,R4,N
+2014,赢得,yíngdé,획득하다·얻다,win,动,R4,N
+2015,马来西亚,mǎláixīyà,말레이시아,Malaysia,名,R4,N
+2017,为主,wéizhǔ,위주로 하다,mainly,动,R4,N
+2018,分子,fènzǐ,분자·구성원,molecule,名,R4,N
+2019,办理,bànlǐ,처리하다,handle,动,R4,N
+2020,动态,dòngtài,동향·움직임,trend,名,R4,N
+2021,发射,fāshè,발사하다,launch,动,R4,Y
+2022,可爱,kě'ài,귀엽다·사랑스럽다,cute,形,R4,Y
+2023,启动,qǐdòng,시동을 걸다·개시하다,start,动,R4,N
+2024,在线,zàixiàn,온라인,online,形,R4,N
+2025,地理,dìlǐ,지리,geography,名,R4,N
+2026,外交,wàijiāo,외교,diplomacy,名,R4,N
+2027,大小,dàxiǎo,크기,size,名,R4,N
+2028,婚姻,hūnyīn,혼인·결혼,marriage,名,R4,N
+2029,将军,jiāngjūn,장군,general,名,R4,Y
+2030,布,bù,천·베,cloth,名,R4,Y
+2031,总结,zǒngjié,요약하다·총결하다,summarize,动、名,R4,N
+2032,情,qíng,정·감정,feeling,名,R4,N
+2033,成熟,chéngshú,성숙하다·익다,mature,形,R4,N
+2034,政党,zhèngdǎng,정당,political party,名,R4,N
+2035,数学,shùxué,수학,math,名,R4,N
+2036,替,tì,대신하다,replace,动、介,R4,N
+2037,有着,yǒuzhe,가지고 있다,have,动,R4,N
+2038,条例,tiáolì,조례,regulations,名,R4,N
+2039,林,lín,숲·수풀,woods,名,R4,Y
+2040,植物,zhíwù,식물,plant,名,R4,Y
+2041,深入,shēnrù,깊이 들어가다·철저하다,go deep,动、形,R4,N
+2042,现代化,xiàndàihuà,현대화,modernization,名,R4,N
+2043,电力,diànlì,전력,electric power,名,R4,N
+2044,看法,kànfǎ,견해·생각,view,名,R4,N
+2045,科学家,kēxuéjiā,과학자,scientist,名,R4,Y
+2046,突破,tūpò,돌파하다,breakthrough,动,R4,N
+2047,简直,jiǎnzhí,그야말로·정말,simply,副,R4,N
+2048,简称,jiǎnchēng,약칭,abbreviation,名,R4,N
+2049,航空,hángkōng,항공,aviation,动,R4,N
+2050,英,yīng,영국·뛰어나다,Britain,名,R4,N
+2051,讨厌,tǎoyàn,싫어하다·미워하다,dislike,动,R4,N
+2052,证券,zhèngquàn,증권,securities,名,R4,N
+2053,请求,qǐngqiú,요청하다·부탁하다,request,动、名,R4,N
+2054,财政,cáizhèng,재정,finance,名,R4,N
+2055,走向,zǒuxiàng,~로 나아가다·추세,head toward,动,R4,N
+2056,达成,dáchéng,달성하다·이루다,reach,动,R4,N
+2057,这一,zhèyī,이 하나의,this,代,R4,N
+2058,进来,jìnlai,들어오다,come in,动,R4,Y
+2059,追求,zhuīqiú,추구하다,pursue,动,R4,N
+2060,逻辑,luójí,논리,logic,名,R4,N
+2061,集体,jítǐ,집단·단체의,collective,名,R4,N
+2062,顺利,shùnlì,순조롭다,smooth,形,R4,N
+2063,骂,mà,욕하다·꾸짖다,scold,动,R4,Y
+2064,麻烦,máfan,귀찮다·번거롭게 하다,trouble,动、形,R4,N
+2065,一座,yīzuò,한 채·한 개,one building,数量,R4,N
+2066,业,yè,업·직업,industry,名,R4,N
+2067,乐,lè,즐겁다·기쁘다,happy,动,R4,N
+2068,云南,yúnnán,윈난,Yunnan,名,R4,N
+2069,人家,rénjia,남·다른 사람,others,代,R4,N
+2070,伦敦,lúndūn,런던,London,名,R4,N
+2071,党员,dǎngyuán,당원,party member,名,R4,N
+2072,具备,jùbèi,갖추다·구비하다,possess,动,R4,N
+2073,厅,tīng,홀·응접실,hall,名,R4,N
+2074,厉害,lìhai,대단하다·심하다,amazing,形,R4,N
+2075,司机,sījī,운전기사,driver,名,R4,Y
+2076,周围,zhōuwéi,주위·주변,surroundings,名,R4,N
+2077,咨询,zīxún,상담하다·자문,consult,动,R4,N
+2078,多久,duōjiǔ,얼마나 오래,how long,代,R4,N
+2079,大众,dàzhòng,대중,the masses,名,R4,N
+2080,平,píng,평평하다,flat,形,R4,N
+2081,意大利,yìdàlì,이탈리아,Italy,名,R4,N
+2082,愿,yuàn,원하다·바라다,wish,动,R4,N
+2083,提醒,tíxǐng,일깨우다·알려주다,remind,动,R4,N
+2084,暂时,zànshí,잠시·일시적인,temporary,形,R4,N
+2085,歌,gē,노래,song,名,R4,Y
+2086,沟通,gōutōng,소통하다,communicate,动,R4,N
+2087,特定,tèdìng,특정한·특별한,specific,形,R4,N
+2088,猜,cāi,추측하다·알아맞히다,guess,动,R4,N
+2089,策略,cèlüè,책략·전략,strategy,名,R4,N
+2090,船,chuán,배,boat,名,R4,Y
+2091,菲律宾,fēilǜbīn,필리핀,Philippines,名,R4,N
+2092,转变,zhuǎnbiàn,바뀌다·전환하다,change,动,R4,N
+2093,边,biān,가장자리·쪽,side,名,R4,N
+2094,违反,wéifǎn,위반하다,violate,动,R4,N
+2095,释放,shìfàng,석방하다·방출하다,release,动,R4,N
+2096,预计,yùjì,예측하다·예상하다,expect,动,R4,N
+2097,鬼,guǐ,귀신,ghost,名,R4,Y
+2099,一半,yíbàn,절반·2분의 1,half,数,R4,N
+2100,一致,yízhì,일치하다,consistent,形、副,R4,N
+2101,丢,diū,잃어버리다·던지다,lose,动,R4,N
+2102,九,jiǔ,아홉·9,nine,数,R4,N
+2103,传说,chuánshuō,전설,legend,动、名,R4,N
+2104,全体,quántǐ,전체,all,名,R4,N
+2105,刺激,cìjī,자극하다·짜릿하다,stimulate,动、名,R4,N
+2106,协调,xiétiáo,조율하다·조화롭다,coordinate,动,R4,N
+2107,哪些,nǎxiē,어느 것들,which,代,R4,N
+2108,哲学,zhéxué,철학,philosophy,名,R4,N
+2109,四川,sìchuān,쓰촨,Sichuan,名,R4,N
+2110,国会,guóhuì,국회,congress,名,R4,N
+2111,士兵,shìbīng,병사·사병,soldier,名,R4,Y
+2112,大多,dàduō,대부분,mostly,副,R4,N
+2113,奇怪,qíguài,이상하다·기이하다,strange,形,R4,N
+2114,差异,chāyì,차이,difference,名,R4,N
+2115,市民,shìmín,시민,citizen,名,R4,N
+2116,幸运,xìngyùn,행운·운이 좋다,lucky,形,R4,N
+2117,感,gǎn,느끼다·느낌,feel,动,R4,N
+2118,承担,chéngdān,부담하다·책임지다,bear,动,R4,N
+2119,收购,shōugòu,인수하다·매입하다,acquire,动,R4,N
+2120,收费,shōufèi,요금을 받다,charge,动,R4,N
+2121,日常,rìcháng,일상적인,daily,形,R4,N
+2122,星期,xīngqī,요일·주,week,名,R4,N
+2123,每次,měicì,매번,every time,代,R4,N
+2124,治理,zhìlǐ,다스리다·관리하다,govern,动,R4,N
+2125,消费者,xiāofèizhě,소비자,consumer,名,R4,N
+2126,猪,zhū,돼지,pig,名,R4,Y
+2127,理想,lǐxiǎng,이상·꿈,ideal,名,R4,N
+2128,看起来,kànqǐlai,보기에·~해 보이다,look like,动,R4,N
+2129,签署,qiānshǔ,서명하다,sign,动,R4,N
+2130,美女,měinǚ,미녀,beauty,名,R4,Y
+2131,落实,luòshí,실행하다·이행하다,implement,动,R4,N
+2132,血,xuè,피,blood,名,R4,N
+2133,装备,zhuāngbèi,장비,equipment,动、名,R4,N
+2134,解放,jiěfàng,해방하다,liberate,动,R4,N
+2135,警告,jǐnggào,경고하다,warn,动、名,R4,N
+2136,退出,tuìchū,탈퇴하다·물러나다,withdraw,动,R4,N
+2137,适用,shìyòng,적용되다·알맞다,applicable,形,R4,N
+2138,酒,jiǔ,술,alcohol,名,R4,Y
+2141,亿美元,yìměiyuán,억 달러,hundred million dollars,数量,R4,N
+2142,以外,yǐwài,~외에·이외,besides,名,R4,N
+2143,作战,zuòzhàn,작전하다·싸우다,fight,动,R4,N
+2144,俄国,éguó,러시아,Russia,名,R4,N
+2145,保险,bǎoxiǎn,보험·안전하다,insurance,形、名,R4,N
+2146,全民,quánmín,전 국민,whole nation,名,R4,N
+2147,到处,dàochù,곳곳에·도처에,everywhere,副,R4,N
+2148,前进,qiánjìn,전진하다,advance,动,R4,N
+2149,化学,huàxué,화학,chemistry,名,R4,N
+2150,博物馆,bówùguǎn,박물관,museum,名,R4,Y
+2151,占领,zhànlǐng,점령하다,occupy,动,R4,N
+2152,发起,fāqǐ,발기하다·시작하다,initiate,动,R4,N
+2153,同一,tóngyī,동일한,same,形,R4,N
+2154,命,mìng,목숨·운명,life,动,R4,N
+2155,年底,niándǐ,연말,end of year,名,R4,N
+2156,当选,dāngxuǎn,당선되다,be elected,动,R4,N
+2157,心中,xīnzhōng,마음속,in one's heart,名,R4,N
+2158,想起,xiǎngqǐ,생각나다·떠올리다,recall,动,R4,N
+2159,房,fáng,방·집,room,名,R4,N
+2160,提到,tídào,언급하다,mention,动,R4,N
+2161,摄影,shèyǐng,사진 촬영,photography,名,R4,Y
+2162,日报,rìbào,일간신문,daily newspaper,名,R4,N
+2163,明星,míngxīng,스타·연예인,star,名,R4,Y
+2164,法庭,fǎtíng,법정,courtroom,名,R4,Y
+2165,皇帝,huángdì,황제,emperor,名,R4,Y
+2166,相互,xiānghù,서로·상호간,mutual,副,R4,N
+2167,相应,xiāngyìng,상응하다·해당하다,corresponding,形,R4,N
+2168,破,pò,깨지다·낡다,broken,形、动,R4,Y
+2169,票,piào,표,ticket,名,R4,Y
+2170,立刻,lìkè,즉시·곧바로,immediately,副,R4,N
+2171,结论,jiélùn,결론,conclusion,名,R4,N
+2172,色,sè,색깔·낯빛,color,名,R4,N
+2173,藏,cáng,숨기다,hide,动,R4,Y
+2174,表明,biǎomíng,밝히다·표명하다,indicate,动,R4,N
+2175,记忆,jìyì,기억(하다),memory,动、名,R4,N
+2176,试验,shìyàn,시험·실험,test,动,R4,N
+2177,输,shū,지다·패하다,lose,动,R4,Y
+2178,随时,suíshí,언제든지,anytime,副,R4,N
+2179,韩,hán,한국(약칭),Korea,名,R4,N
+2181,一生,yīshēng,일생·평생,lifetime,名,R4,N
+2182,主持,zhǔchí,주최하다·진행하다,host,动,R4,N
+2183,事故,shìgù,사고,accident,名,R4,Y
+2184,事物,shìwù,사물·일,thing,名,R4,N
+2185,伊朗,yīlǎng,이란,Iran,名,R4,N
+2186,具,jù,갖추다·도구,tool,动,R4,N
+2187,分为,fēnwéi,~으로 나누다,divide into,动,R4,N
+2188,反而,fǎn'ér,오히려·도리어,instead,副,R4,N
+2189,坐在,zuòzài,~에 앉다,sit at,动,R4,N
+2190,基,jī,기초·토대,base,名,R4,N
+2191,大规模,dàguīmó,대규모의,large-scale,形,R4,N
+2192,安装,ānzhuāng,설치하다,install,动,R4,N
+2193,将会,jiānghuì,~할 것이다,will,副,R4,N
+2194,希腊,xīlà,그리스,Greece,名,R4,N
+2195,年轻人,niánqīngrén,젊은이,young people,名,R4,Y
+2196,总部,zǒngbù,본부,headquarters,名,R4,N
+2197,改造,gǎizào,개조하다·개혁하다,transform,动,R4,N
+2198,更是,gèngshì,더욱이·게다가,even more,副,R4,N
+2199,本地,běndì,본토·현지,local,名,R4,N
+2200,气,qì,공기·기체·화내다,air,动、名,R4,N
+2201,浙江,zhèjiāng,저장,Zhejiang,名,R4,N
+2202,海军,hǎijūn,해군,navy,名,R4,N
+2203,满,mǎn,가득하다,full,形,R4,Y
+2204,热情,rèqíng,열정적이다·친절하다,enthusiastic,名、形,R4,N
+2205,牺牲,xīshēng,희생하다,sacrifice,动、名,R4,N
+2206,睡觉,shuìjiào,잠자다,sleep,动,R4,Y
+2207,空气,kōngqì,공기,air,名,R4,N
+2208,编,biān,엮다·편성하다,weave,动,R4,N
+2209,职务,zhíwù,직무·직책,post,名,R4,N
+2210,股东,gǔdōng,주주,shareholder,名,R4,N
+2211,街道,jiēdào,거리·길,street,名,R4,Y
+2212,袭击,xíjī,습격하다,attack,动,R4,N
+2213,轻,qīng,가볍다,light,形,R4,N
+2214,连接,liánjiē,연결하다,connect,动,R4,N
+2215,首,shǒu,(양사) 편·곡·머리,head,量,R4,N
+2216,一片,yīpiàn,한 조각·한 면,one piece,数量,R4,N
+2217,一系列,yīxìliè,일련의,a series,数量,R4,N
+2218,两位,liǎngwèi,두 분,two people,数量,R4,N
+2219,仅仅,jǐnjǐn,겨우·단지,only,副,R4,N
+2220,公主,gōngzhǔ,공주,princess,名,R4,Y
+2221,十,shí,열·10,ten,数,R4,N
+2222,卫星,wèixīng,위성,satellite,名,R4,Y
+2223,器,qì,그릇·기구,utensil,名,R4,N
+2224,固定,gùdìng,고정하다·고정된,fixed,形、动,R4,N
+2225,圈,quān,동그라미·원,circle,名,R4,Y
+2226,垃圾,lājī,쓰레기,garbage,名,R4,Y
+2227,好看,hǎokàn,예쁘다·보기 좋다,good-looking,形,R4,N
+2228,学术,xuéshù,학술,academic,名,R4,N
+2229,对外,duìwài,대외적인,foreign,形,R4,N
+2230,常常,chángcháng,자주·늘,often,副,R4,N
+2231,归,guī,돌아가다·~에 속하다,return,动,R4,N
+2232,怪,guài,이상하다·괴상하다,strange,动,R4,N
+2233,抱,bào,안다·껴안다,hug,动,R4,Y
+2234,旅行,lǚxíng,여행하다,travel,动,R4,Y
+2235,晚,wǎn,늦다·저녁,late,形,R4,N
+2236,有所,yǒusuǒ,다소 ~하다,somewhat,动,R4,N
+2237,校长,xiàozhǎng,교장·총장,principal,名,R4,N
+2238,档案,dàng'àn,문서·기록,file,名,R4,N
+2239,欧盟,ōuméng,유럽연합,European Union,名,R4,N
+2240,款,kuǎn,금액·조항,sum,名,R4,N
+2241,此次,cǐcì,이번,this time,代,R4,N
+2242,河,hé,강,river,名,R4,Y
+2243,满意,mǎnyì,만족하다,satisfied,动,R4,Y
+2244,环保,huánbǎo,환경보호,environmental protection,名、形,R4,N
+2245,矛盾,máodùn,모순·갈등,contradiction,名,R4,N
+2246,种种,zhǒngzhǒng,각종·여러 가지,all kinds,代,R4,N
+2247,紧急,jǐnjí,긴급하다,urgent,形,R4,N
+2248,美好,měihǎo,아름답다·훌륭하다,wonderful,形,R4,N
+2249,草,cǎo,풀,grass,名,R4,Y
+2250,谈判,tánpàn,협상하다,negotiate,动、名,R4,N
+2251,车辆,chēliàng,차량,vehicle,名,R4,Y
+2252,这场,zhèchǎng,이번 (경기·일),this event,代,R4,N
+2253,阶级,jiējí,계급,class,名,R4,N
+2254,高速,gāosù,고속의,high speed,形,R4,N
+2255,黑暗,hēi'àn,어둡다·어둠,dark,形,R4,Y
+2258,两人,liǎngrén,두 사람,two people,数量,R4,N
+2259,乌克兰,wūkèlán,우크라이나,Ukraine,名,R4,N
+2260,亲,qīn,친하다·직접,dear,形,R4,N
+2261,今晚,jīnwǎn,오늘 밤,tonight,名,R4,N
+2262,休息,xiūxi,휴식,rest,动,R4,Y
+2263,优惠,yōuhuì,할인·특혜,discount,名,R4,N
+2264,供应,gōngyìng,공급하다,supply,动,R4,N
+2265,信任,xìnrèn,신임하다·믿다,trust,动,R4,N
+2266,充分,chōngfèn,충분하다,full,形,R4,N
+2267,八,bā,여덟·8,eight,数,R4,N
+2268,剩下,shèngxià,남다,remain,动,R4,N
+2269,发明,fāmíng,발명하다,invent,动、名,R4,N
+2270,吨,dūn,(양사) 톤,ton,量,R4,N
+2271,呼吁,hūyù,호소하다,appeal,动,R4,N
+2272,回应,huíyìng,응답하다,respond,动,R4,N
+2273,大师,dàshī,대가·거장,master,名,R4,N
+2274,夫人,fūrén,부인,madam,名,R4,Y
+2275,奴隶,núlì,노예,slave,名,R4,N
+2276,对话,duìhuà,대화하다,dialogue,动、名,R4,Y
+2277,患者,huànzhě,환자,patient,名,R4,Y
+2278,情报,qíngbào,정보,intelligence,名,R4,N
+2279,房间,fángjiān,방,room,名,R4,Y
+2280,执政,zhízhèng,집권하다,be in power,动,R4,N
+2281,指数,zhǐshù,지수,index,名,R4,N
+2282,探索,tànsuǒ,탐색하다,explore,动,R4,N
+2283,接着,jiēzhe,이어서·계속해서,next,动、副,R4,N
+2284,搜索,sōusuǒ,검색하다,search,动,R4,N
+2285,朝,cháo,왕조·~을 향해,toward,介、动,R4,N
+2286,校园,xiàoyuán,캠퍼스·교정,campus,名,R4,Y
+2287,棒,bàng,막대기·훌륭하다,stick,形,R4,N
+2288,每日,měirì,매일,daily,名,R4,N
+2289,法官,fǎguān,판사,judge,名,R4,Y
+2290,海洋,hǎiyáng,해양·바다,ocean,名,R4,Y
+2291,独特,dútè,독특하다,unique,形,R4,N
+2292,猫,māo,고양이,cat,名,R4,Y
+2293,登记,dēngjì,등록하다,register,动,R4,N
+2294,真相,zhēnxiàng,진상·진실,truth,名,R4,N
+2295,而言,éryán,~로 말하자면,speaking,助,R4,N
+2296,能量,néngliàng,에너지,energy,名,R4,N
+2297,试,shì,시도하다·시험하다,try,动,R4,N
+2298,话题,huàtí,화제,topic,名,R4,N
+2299,课,kè,수업·과목,class,名,R4,Y
+2300,身,shēn,몸,body,名,R4,N
+2301,选手,xuǎnshǒu,선수,player,名,R4,Y
+2302,飞行,fēixíng,비행하다,fly,动,R4,Y
+2303,黄金,huángjīn,황금·금,gold,名,R4,Y
+2305,上升,shàngshēng,상승하다,rise,动,R4,N
+2306,不该,bùgāi,~해서는 안 된다,should not,助动,R4,N
+2307,五年,wǔnián,5년,five years,数量,R4,N
+2308,倾向,qīngxiàng,경향,tendency,名,R4,N
+2309,公,gōng,공공의·수컷,public,形,R4,N
+2310,分配,fēnpèi,분배하다,distribute,动,R4,N
+2311,利润,lìrùn,이윤·이익,profit,名,R4,N
+2312,前面,qiánmiàn,앞·앞쪽,front,名,R4,N
+2313,可见,kějiàn,알 수 있다·명백하다,it is clear,连,R4,N
+2314,吃饭,chīfàn,밥을 먹다,eat a meal,动,R4,Y
+2315,各自,gèzì,각자·저마다,each,代,R4,N
+2316,呈现,chéngxiàn,나타나다·드러내다,appear,动,R4,N
+2317,回去,huíqu,돌아가다,go back,动,R4,Y
+2318,地铁,dìtiě,지하철,subway,名,R4,Y
+2319,好处,hǎochù,좋은 점·이익,benefit,名,R4,N
+2320,姑娘,gūniang,아가씨·소녀,girl,名,R4,Y
+2321,年间,niánjiān,연간·시기,period,名,R4,N
+2322,必然,bìrán,필연적이다,inevitable,形,R4,N
+2323,想象,xiǎngxiàng,상상하다,imagine,名、动,R4,N
+2324,戴,dài,착용하다·쓰다,wear,动,R4,Y
+2325,手术,shǒushù,수술,surgery,名,R4,Y
+2326,托,tuō,받치다·부탁하다,support,动,R4,N
+2327,有限,yǒuxiàn,제한된·유한하다,limited,形,R4,N
+2328,河南,hénán,허난,Henan,名,R4,N
+2329,流行,liúxíng,유행하다,popular,动、形,R4,N
+2330,澳大利亚,àodàlìyà,오스트레일리아,Australia,名,R4,N
+2331,灵魂,línghún,영혼,soul,名,R4,N
+2332,爱国,àiguó,애국하다·애국적인,patriotic,形,R4,N
+2333,电台,diàntái,라디오 방송국,radio station,名,R4,N
+2334,知名,zhīmíng,저명한,well-known,形,R4,N
+2335,纪录,jìlù,기록,record,名,R4,N
+2336,纷纷,fēnfēn,잇달아·연이어,one after another,副,R4,N
+2337,群体,qúntǐ,집단·무리,group,名,R4,N
+2338,股票,gǔpiào,주식,stock,名,R4,N
+2339,腿,tuǐ,다리,leg,名,R4,Y
+2340,自从,zìcóng,~한 이래로(전치사),since,介,R4,N
+2341,苏,sū,소생하다·소련(약칭),revive,动,R4,N
+2342,药,yào,약,medicine,名,R4,Y
+2343,荷兰,hélán,네덜란드,Netherlands,名,R4,N
+2344,装置,zhuāngzhì,장치·설비,device,动、名,R4,N
+2345,观看,guānkàn,관람하다·시청하다,watch,动,R4,Y
+2346,证实,zhèngshí,확인하다·증명하다,confirm,动,R4,N
+2347,谈话,tánhuà,대화하다·이야기,talk,动,R4,N
+2348,资讯,zīxùn,정보,information,名,R4,N
+2349,路上,lùshang,길에서·도중에,on the road,名,R4,N
+2350,辖,xiá,관할하다,govern,动,R4,N
+2351,运作,yùnzuò,운영하다,operate,动,R4,N
+2352,进攻,jìngōng,공격하다,attack,动,R4,N
+2353,透过,tòuguò,~을 통해,through,介,R4,N
+2354,那时,nàshí,그때,then,代,R4,N
+2355,预期,yùqī,예상하다·기대하다,expect,动,R4,N
+2356,题,tí,문제,question,名,R4,N
+2360,一级,yījí,1급,first level,数量,R4,N
+2361,一面,yímiàn,한 면·한편으로,one side,名、副,R4,N
+2362,不如,bùrú,~만 못하다·차라리,not as good as,动,R4,N
+2363,不必,bùbì,~할 필요 없다,need not,副,R4,N
+2364,不满,bùmǎn,불만족하다,dissatisfied,形,R4,N
+2365,产量,chǎnliàng,생산량,output,名,R4,N
+2366,保留,bǎoliú,보류하다·간직하다,keep,动,R4,N
+2367,其他人,qítārén,다른 사람들,other people,代,R4,N
+2368,加速,jiāsù,가속하다·속도를 높이다,accelerate,动,R4,N
+2369,印象,yìnxiàng,인상,impression,名,R4,N
+2370,可惜,kěxī,아쉽다·안타깝다,pity,形,R4,N
+2371,哈,hā,하하 (웃음소리),ha,叹,R4,N
+2372,圣,shèng,성스럽다·성인,holy,形,R4,N
+2373,坚决,jiānjué,단호하다,resolute,形,R4,N
+2374,射,shè,쏘다·발사하다,shoot,动,R4,Y
+2375,将来,jiānglái,미래·장래,future,名,R4,N
+2376,小心,xiǎoxīn,조심하다,careful,形、动,R4,N
+2377,慢慢,mànmàn,천천히,slowly,副,R4,N
+2378,成都,chéngdū,청두,Chengdu,名,R4,N
+2379,户,hù,가구·집,household,量,R4,N
+2380,排名,páimíng,순위·랭킹,ranking,名,R4,N
+2381,本质,běnzhì,본질,essence,名,R4,N
+2382,条约,tiáoyuē,조약,treaty,名,R4,N
+2383,欲,yù,~하려 하다·욕망,desire,动,R4,N
+2384,流,liú,흐르다,flow,动,R4,Y
+2385,游客,yóukè,관광객,tourist,名,R4,Y
+2386,看过,kànguò,본 적이 있다,have seen,动,R4,N
+2387,秘书,mìshū,비서,secretary,名,R4,Y
+2388,约翰,yuēhàn,존(사람 이름),John,名,R4,N
+2389,罗马,luómǎ,로마,Rome,名,R4,N
+2390,老人,lǎorén,노인,old man,名,R4,Y
+2391,虽,suī,비록,although,连,R4,N
+2392,表面,biǎomiàn,표면·겉모습,surface,名,R4,N
+2393,诗,shī,시(문학),poem,名,R4,N
+2394,负责人,fùzérén,책임자,person in charge,名,R4,N
+2395,逮捕,dàibǔ,체포하다,arrest,动,R4,N
+2396,铁,tiě,철·쇠,iron,名,R4,N
+2397,陪,péi,동반하다·곁에 있다,accompany,动,R4,N
+2398,鸟,niǎo,새,bird,名,R4,Y
+2400,万人,wànrén,만 명,ten thousand people,数量,R4,N
+2401,交给,jiāogěi,건네주다·맡기다,hand over,动,R4,N
+2402,代,dài,대신하다·세대,generation,动、名,R4,N
+2403,仪式,yíshì,의식,ceremony,名,R4,N
+2404,停,tíng,멈추다·정지하다,stop,动,R4,N
+2405,共和国,gònghéguó,공화국,republic,名,R4,N
+2406,兴奋,xīngfèn,흥분하다,excited,形,R4,Y
+2407,利,lì,이익·날카롭다,benefit,名,R4,N
+2408,到达,dàodá,도착하다,arrive,动,R4,N
+2409,华,huá,중국·화려하다,China,名,R4,N
+2410,厕所,cèsuǒ,화장실,toilet,名,R4,Y
+2411,发达,fādá,발달하다,developed,形,R4,N
+2412,古,gǔ,옛날의·오래된,ancient,形,R4,N
+2413,同事,tóngshì,동료,colleague,名,R4,N
+2414,巴,bā,바·기대하다,hope for,名,R4,N
+2415,建成,jiànchéng,건설되다·완공되다,complete construction,动,R4,N
+2416,弟弟,dìdi,남동생,younger brother,名,R4,Y
+2417,形势,xíngshì,형세·정세,situation,名,R4,N
+2418,彼此,bǐcǐ,서로,each other,代,R4,N
+2419,房屋,fángwū,가옥·건물,house,名,R4,Y
+2420,手中,shǒuzhōng,손 안,in hand,名,R4,N
+2421,族,zú,민족·족,ethnic group,名,R4,N
+2422,日期,rìqī,날짜,date,名,R4,N
+2423,星,xīng,별,star,名,R4,Y
+2424,是从,shìcóng,~에서 ~이다,is from,短语,R4,N
+2425,智慧,zhìhuì,지혜,wisdom,名,R4,N
+2426,欣赏,xīnshǎng,감상하다·좋아하다,appreciate,动,R4,N
+2427,此时,cǐshí,이때·지금,at this time,代,R4,N
+2428,治,zhì,다스리다·통치하다,govern,动,R4,N
+2429,消灭,xiāomiè,소멸시키다,eliminate,动,R4,N
+2430,湖南,húnán,후난,Hunan,名,R4,N
+2431,熟悉,shúxī,익숙하다·잘 알다,familiar,动,R4,N
+2432,犯,fàn,범하다·저지르다,commit,动,R4,N
+2433,现有,xiànyǒu,현재의·기존의,existing,形,R4,N
+2434,生长,shēngzhǎng,자라다·성장하다,grow,动,R4,Y
+2435,皮肤,pífū,피부,skin,名,R4,N
+2436,立,lì,세우다·서다,stand,动,R4,N
+2437,等级,děngjí,등급·계급,grade,名,R4,N
+2438,舞台,wǔtái,무대,stage,名,R4,Y
+2439,著作,zhùzuò,저작·저서,writings,名,R4,N
+2440,观念,guānniàn,관념·개념,concept,名,R4,N
+2441,评估,pínggū,평가하다,assess,动,R4,N
+2442,象征,xiàngzhēng,상징·상징하다,symbol,名,R4,N
+2443,负,fù,지다·짊어지다,bear,动,R4,N
+2444,重建,chóngjiàn,재건하다,rebuild,动,R4,N
+2445,领土,lǐngtǔ,영토,territory,名,R4,N
+2446,饭,fàn,밥,rice,名,R4,Y
+2447,鸡,jī,닭,chicken,名,R4,Y
+2448,黑色,hēisè,검은색,black,名,R4,Y
+2449,上来,shànglai,올라오다,come up,动,R4,Y
+2450,不得不,bùdébù,~하지 않을 수 없다,have to,副,R4,N
+2451,主人,zhǔrén,주인,owner,名,R4,N
+2452,伤,shāng,다치다·상처,injury,动、名,R4,Y
+2453,你好,nǐhǎo,안녕하세요,hello,短语,R4,Y
+2454,依,yī,의지하다·~에 따라,rely on,介,R4,N
+2455,信心,xìnxīn,자신감,confidence,名,R4,N
+2456,候选人,hòuxuǎnrén,후보자,candidate,名,R4,N
+2457,做好,zuòhǎo,잘 해내다,do well,动,R4,N
+2458,决策,juécè,정책 결정,decision,名,R4,N
+2459,创建,chuàngjiàn,창립하다,found,动,R4,N
+2460,医学,yīxué,의학,medicine,名,R4,N
+2461,受害者,shòuhàizhě,피해자,victim,名,R4,N
+2462,吓,xià,놀라게 하다·겁주다,scare,动,R4,Y
+2463,唱,chàng,노래하다,sing,动,R4,Y
+2464,嘴,zuǐ,입,mouth,名,R4,Y
+2465,失望,shīwàng,실망하다,disappointed,形,R4,Y
+2466,女士,nǚshì,여사·부인,lady,名,R4,Y
+2467,学科,xuékē,학과·과목,subject,名,R4,N
+2468,平衡,pínghéng,균형,balance,名,R4,N
+2469,很少,hěnshǎo,매우 적다,very few,形,R4,N
+2470,得以,déyǐ,~할 수 있게 되다,be able to,动,R4,N
+2471,心情,xīnqíng,기분·심정,mood,名,R4,N
+2472,思维,sīwéi,사고·사유,thinking,名,R4,N
+2474,撤销,chèxiāo,취소하다·철회하다,revoke,动,R4,N
+2475,旁边,pángbiān,옆·곁,beside,名,R4,N
+2476,早就,zǎojiù,진작에·이미,long ago,副,R4,N
+2477,模型,móxíng,모형·모델,model,名,R4,Y
+2478,欧,ōu,유럽,Europe,名,R4,N
+2479,气候,qìhòu,기후,climate,名,R4,N
+2480,浪费,làngfèi,낭비하다,waste,动,R4,N
+2481,混乱,hùnluàn,혼란,chaos,形,R4,N
+2482,目,mù,눈·항목,eye,名,R4,N
+2483,相比,xiāngbǐ,비교하다,compare,动,R4,N
+2484,祖国,zǔguó,조국,motherland,名,R4,N
+2485,等于,děngyú,~와 같다,equal,动,R4,N
+2486,经理,jīnglǐ,매니저·사장,manager,名,R4,N
+2487,腐败,fǔbài,부패하다,corruption,形,R4,N
+2488,视为,shìwèi,간주하다·여기다,regard as,动,R4,N
+2489,认证,rènzhèng,인증,certification,名,R4,N
+2490,记载,jìzǎi,기록하다·기록,record,动,R4,N
+2491,质,zhì,질·품질,quality,名,R4,N
+2492,通讯,tōngxùn,통신,communication,名,R4,N
+2493,造,zào,만들다·짓다,make,动,R4,N
+2494,防止,fángzhǐ,방지하다,prevent,动,R4,N
+2495,须,xū,반드시 ~해야 한다,must,副,R4,N
+2496,一个月,yígeyuè,한 달,one month,数量,R4,N
+2497,一块,yīkuài,한 조각·함께,one piece,数量,R4,N
+2498,一路,yīlù,도중 내내·쭉,all the way,名、副,R4,N
+2499,上传,shàngchuán,업로드하다,upload,动,R4,N
+2500,上午,shàngwǔ,오전,morning,名,R4,N
