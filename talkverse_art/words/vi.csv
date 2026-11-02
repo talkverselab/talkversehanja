@@ -1,0 +1,363 @@
+rank,word,reading,ko,en,pos,level,picturable
+1,không,콩,아니다·안,no / not,adv,R1,N
+2,anh,안,형·오빠(남성 호칭),"older brother (you/I, male)",pron,R1,Y
+3,là,라,~이다,to be,v,R1,N
+4,có,꼬,있다·가지다,to have,v,R1,N
+5,con,꼰,자식·아이(명사 분류사),child,n,R1,Y
+6,đi,디,가다,to go,v,R1,Y
+7,tôi,또이,나(격식),I (formal),pron,R1,Y
+8,em,엠,동생(연하 호칭),younger sibling (you/I),pron,R1,Y
+9,mà,마,그런데·~인데,but / that,conj,R1,N
+10,rồi,로이,이미·~했어,already,adv,R1,N
+11,vậy,버이,그래·그렇게,so / like that,adv,R1,N
+12,gì,이,무엇,what,pron,R1,N
+13,cho,쪼,주다·~에게,to give / for,v,R1,Y
+14,đó,도,그것·거기,that / there,pron,R1,N
+15,cái,까이,개(사물 분류사),thing (classifier),n,R1,N
+16,được,득,되다·할 수 있다,to be able / OK,v,R1,N
+17,nó,노,그것·걔,it / he/she (casual),pron,R1,N
+18,sao,싸오,왜·어째서,why / how,adv,R1,N
+19,làm,람,하다·만들다,to do / make,v,R1,Y
+20,của,꾸어,~의,of,prep,R1,N
+21,à,아,아~(확인 어기),ah (particle),part,R1,N
+22,này,나이,이(것),this,det,R1,N
+23,người,응어이,사람,person,n,R1,Y
+24,nói,노이,말하다,to say / speak,v,R1,Y
+25,phải,파이,~해야 하다·맞다,must / right,v,R1,N
+26,đâu,더우,어디·전혀,where / not at all,adv,R1,N
+27,thì,티,~은/는(그러면),then,conj,R1,N
+28,cô,꼬,아가씨·선생님(여성 호칭),miss / aunt (female address),pron,R1,Y
+29,mình,민,나·우리(친근),I / we (intimate),pron,R1,N
+30,ơi,어이,~야(부름),hey (calling),part,R1,N
+31,mày,마이,너(하대),you (rude),pron,R1,N
+32,một,못,하나,one,num,R1,Y
+33,cũng,꿍,~도,also,adv,R1,N
+34,thôi,토이,그만·~할 뿐,only / stop it,part,R1,N
+35,với,버이,~와 함께,with,prep,R1,N
+36,đây,더이,여기·이것,here,pron,R1,N
+37,biết,비엣,알다,to know,v,R1,Y
+38,như,느,~처럼,like / as,prep,R1,N
+39,để,데,~하도록·두다,to let / in order to,v,R1,N
+40,ra,라,나가다,to go out,v,R1,Y
+41,mẹ,메,엄마,mother,n,R1,Y
+42,hả,하,~야?(의문),huh? (question particle),part,R1,N
+43,ở,어,~에 있다,at / to be in,prep,R1,N
+44,sẽ,쎄,~할 것이다,will,adv,R1,N
+45,giờ,여,시간·지금,hour / now,n,R1,Y
+46,nữa,느어,더·또,more / again,adv,R1,N
+47,lại,라이,다시·오다,again,adv,R1,N
+48,dạ,야,네(공손),yes (polite),part,R1,Y
+49,chị,찌,누나·언니(여성 호칭),"older sister (you/I, female)",pron,R1,Y
+50,ông,옹,할아버지·씨(남성),grandfather / mister,n,R1,Y
+51,ba,바,아빠·셋,father / three,n,R1,Y
+52,đã,다,이미(과거),already (past),adv,R1,N
+53,tao,따오,나(하대),I (rude),pron,R1,N
+54,ta,따,우리·나,we / I,pron,R1,N
+55,thấy,터이,보이다·느끼다,to see / feel,v,R1,Y
+56,về,베,돌아가다,to return,v,R1,Y
+57,còn,꼰,아직·남다,still / remain,adv,R1,N
+58,trời,쩌이,하늘·세상에,sky / oh my,n,R1,Y
+59,chuyện,쭈옌,이야기·일,story / matter,n,R1,Y
+60,nào,나오,어느,which,det,R1,N
+61,quá,꽈,너무,too / very,adv,R1,N
+62,bà,바,할머니·부인,grandmother / madam,n,R1,Y
+63,nè,네,~야(남부 어기),"hey (particle, southern)",part,R1,N
+64,nha,냐,~해(부드러운 어기),okay? (soft particle),part,R1,N
+65,nhưng,늉,하지만,but,conj,R1,N
+66,nhà,냐,집,house,n,R1,Y
+67,ăn,안,먹다,to eat,v,R1,Y
+68,hai,하이,둘,two,num,R1,Y
+69,muốn,무온,원하다,to want,v,R1,Y
+70,má,마,엄마(남부),mom (southern),n,R1,Y
+71,đúng,둥,맞다,correct,adj,R1,Y
+72,hết,헷,다 ~하다·끝나다,all / finished,adv,R1,N
+73,chúng,쭝,우리들(복수),we (plural marker),pron,R1,N
+74,và,바,그리고,and,conj,R1,N
+75,chứ,쯔,~지(강조 어기),of course (particle),part,R1,N
+76,lắm,람,매우,very,adv,R1,N
+77,mới,머이,새로운·방금,new / just,adj,R1,Y
+78,tới,떠이,도착하다·~까지,to arrive / until,v,R1,Y
+79,ai,아이,누구,who,pron,R1,N
+80,chỉ,찌,단지·가리키다,only / to point,adv,R1,N
+81,chưa,쯔어,아직 안,not yet,adv,R1,N
+82,chú,쭈,아저씨·삼촌,uncle (younger),n,R1,Y
+83,bây,버이,지금(bây giờ),now (bây giờ),adv,R1,N
+84,lên,렌,오르다,to go up,v,R1,Y
+85,luôn,루온,항상·바로,always / right away,adv,R1,N
+86,cảm,깜,느끼다(cảm ơn 감사),to feel (cảm ơn thanks),v,R1,N
+87,nghe,응에,듣다,to hear / listen,v,R1,Y
+88,đừng,등,~하지 마,don't,adv,R1,Y
+89,trong,쫑,~안에,in / inside,prep,R1,N
+90,á,아,아!(놀람),ah! (surprise),part,R2,N
+91,hay,하이,재미있다·또는,interesting / or,adj,R2,Y
+92,bị,비,당하다(피동),to suffer (passive),v,R2,N
+93,vô,보,들어가다(남부),to enter (southern),v,R2,Y
+94,thằng,탕,놈(남성 하대),guy (rude),n,R2,N
+95,rất,럿,매우,very,adv,R2,N
+96,đang,당,~하는 중,-ing (progressive),adv,R2,N
+97,xin,씬,청하다·부디,to ask for / please,v,R2,Y
+98,qua,꽈,지나다·건너다,to pass / cross,v,R2,Y
+99,thể,테,할 수 있다(có thể),can (có thể),v,R2,N
+100,tại,따이,~에서·때문에,at / because,prep,R2,N
+101,nên,넨,~하는 게 좋다·그래서,should / so,adv,R2,N
+102,những,늉,~들(복수),plural marker,det,R2,N
+103,nghĩ,응이,생각하다,to think,v,R2,Y
+104,từ,뜨,~부터·단어,from / word,prep,R2,N
+105,vì,비,~때문에,because,conj,R2,N
+106,mấy,머이,몇,how many / a few,det,R2,N
+107,chết,쩻,죽다,to die,v,R2,N
+108,ơn,언,은혜(cảm ơn),favor (thanks),n,R2,N
+109,nhiều,니에우,많이,many / much,adv,R2,Y
+110,tụi,뚜이,~들(tụi mình 우리),group (tụi mình = we),n,R2,N
+111,cả,까,모두·전부,all / whole,det,R2,N
+112,đến,덴,오다·도착하다,to come / arrive,v,R2,Y
+113,nếu,네우,만약,if,conj,R2,N
+114,nay,나이,오늘(hôm nay),today (hôm nay),n,R2,Y
+115,khi,키,~할 때,when,conj,R2,N
+116,cứ,끄,계속·그냥,just keep (doing),adv,R3,N
+117,tâm,떰,마음,heart / mind,n,R3,Y
+118,ừ,으,응,yeah,part,R3,Y
+119,thật,텃,정말·진짜,really / true,adj,R3,N
+120,chắc,짝,아마·확실한,probably / sure,adv,R3,N
+121,cần,껀,필요하다,to need,v,R3,N
+122,ngày,응아이,날·일,day,n,R3,Y
+123,ấy,어이,그(것),that,det,R3,N
+124,coi,꼬이,보다(남부),to watch / look (southern),v,R3,Y
+125,hôm,홈,날(hôm nay),day (hôm nay),n,R3,N
+126,bạn,반,친구·당신,friend / you,n,R3,Y
+127,tìm,띰,찾다,to look for,v,R3,Y
+128,thế,테,그렇게·세상,so / that way,adv,R3,N
+129,trước,쯔억,앞·전에,before / front,prep,R3,Y
+130,bác,박,큰아버지·아저씨,uncle (older),n,R3,Y
+131,mọi,모이,모든,every,det,R3,N
+132,tiền,띠엔,돈,money,n,R3,Y
+133,việc,비엑,일·업무,work / matter,n,R3,Y
+134,lúc,룩,때·순간,moment / when,n,R3,N
+135,ý,이,뜻·생각,idea / meaning,n,R3,Y
+136,công,꽁,일·공공,work / public,n,R3,N
+137,đầu,더우,머리·처음,head / first,n,R3,Y
+138,cậu,꺼우,너(친구)·외삼촌,you (friend) / uncle,pron,R3,N
+139,lấy,러이,가지다·결혼하다,to take / marry,v,R3,Y
+140,hơn,헌,더,more than,adv,R3,N
+141,chơi,쩌이,놀다,to play,v,R3,Y
+142,các,깍,~들(복수),plural marker,det,R3,N
+143,họ,호,그들,they,pron,R3,N
+144,nhìn,닌,보다,to look,v,R3,Y
+145,tự,뜨,스스로,self,adv,R3,N
+146,gặp,갑,만나다,to meet,v,R3,Y
+147,nhau,냐우,서로,each other,pron,R3,Y
+148,sau,싸우,뒤·후에,after / behind,prep,R3,Y
+149,hỏi,호이,묻다,to ask,v,R3,Y
+150,ủa,우어,어?(남부 놀람),huh? (southern surprise),part,R3,N
+151,theo,테오,따르다,to follow,v,R3,Y
+152,vào,바오,들어가다,to enter,v,R3,Y
+153,thích,틱,좋아하다,to like,v,R3,Y
+154,sự,쓰,일·사건(명사화),matter (nominalizer),n,R3,N
+155,lần,런,번·회,time (occasion),n,R3,N
+156,bao,바오,얼마나(bao nhiêu),how (much),adv,R3,N
+157,cha,짜,아버지,father,n,R3,Y
+158,chào,짜오,인사하다,hello / to greet,v,R3,Y
+159,mai,마이,내일,tomorrow,n,R3,Y
+160,yêu,예우,사랑하다,to love,v,R3,Y
+161,nhớ,녀,그리워하다·기억하다,to miss / remember,v,R3,Y
+162,đẹp,뎁,예쁘다,beautiful,adj,R3,Y
+163,hiểu,히에우,이해하다,to understand,v,R3,Y
+164,sợ,써,무서워하다,to fear,v,R3,Y
+165,thiệt,티엣,진짜(남부),really (southern),adv,R3,N
+166,thương,트엉,사랑하다·아끼다,to love / cherish,v,R3,Y
+167,bên,벤,쪽·옆,side,n,R3,N
+168,vợ,버,아내,wife,n,R3,Y
+169,tin,띤,믿다·소식,to believe / news,v,R3,Y
+170,bắt,밧,잡다,to catch,v,R3,Y
+171,năm,남,년·다섯,year / five,n,R3,Y
+172,thành,탄,되다·성,to become / city,v,R3,N
+173,lo,로,걱정하다,to worry,v,R3,Y
+174,tốt,똣,좋다,good,adj,R3,Y
+175,nhất,녓,가장,most,adv,R3,N
+176,khác,칵,다르다,different / other,adj,R3,Y
+177,lỗi,로이,잘못·오류,fault / error,n,R3,Y
+178,mặt,맛,얼굴,face,n,R3,Y
+179,tình,띤,정·사랑,affection / love,n,R3,Y
+180,đồ,도,물건,thing / stuff,n,R3,Y
+181,xong,쏭,끝나다,finished,v,R3,Y
+182,bỏ,보,버리다·그만두다,to leave / give up,v,R3,Y
+183,chút,쭛,조금,a little,adv,R3,Y
+184,cùng,꿍,함께,together,adv,R3,Y
+185,xuống,쑤옹,내려가다,to go down,v,R3,Y
+186,mua,무어,사다,to buy,v,R3,Y
+187,đưa,드어,건네다·데려가다,to hand / take someone,v,R3,Y
+188,gia,야,집·가족(gia đình),family (gia đình),n,R3,N
+189,đấy,더이,그것·~이야(북부 어기),that / particle (northern),part,R3,N
+190,ờ,어,어~(응),uh / yeah,part,R3,N
+191,chính,찐,바로·주된,exactly / main,adv,R3,N
+192,thứ,트,종류·순서,kind / ordinal,n,R3,N
+193,mất,멋,잃다,to lose,v,R3,Y
+194,điều,디에우,것·사항,thing / matter,n,R3,N
+195,sống,쏭,살다,to live,v,R3,Y
+196,lời,러이,말,words,n,R3,Y
+197,chồng,쫑,남편,husband,n,R3,Y
+198,tay,따이,손,hand,n,R3,Y
+199,đồng,동,동(화폐)·함께,dong (currency) / same,n,R3,Y
+200,bình,빈,평온·병,calm / bottle,n,R4,N
+201,bé,베,아기·작다,baby / small,n,R4,Y
+202,ngủ,응우,자다,to sleep,v,R4,Y
+203,quan,꽌,관계·관심(quan tâm),relation / concern,n,R4,N
+204,ngoài,응오아이,밖,outside,prep,R4,Y
+205,tính,띤,성격·계산하다,personality / to calculate,n,R4,N
+206,ê,에,야!(부름),hey!,part,R4,N
+207,nhỏ,뇨,작다,small,adj,R4,Y
+208,vui,부이,즐겁다,happy / fun,adj,R4,Y
+209,đường,드엉,길·설탕,road / sugar,n,R4,Y
+210,đứa,드어,녀석·아이(분류사),kid (classifier),n,R4,N
+211,nước,느억,물·나라,water / country,n,R4,Y
+212,dễ,예,쉽다,easy,adj,R4,Y
+213,vẫn,번,여전히,still,adv,R4,N
+214,nhận,년,받다,to receive,v,R4,Y
+215,cách,까익,방법,way / method,n,R4,N
+216,chịu,찌우,참다·받아들이다,to bear / accept,v,R4,N
+217,gái,가이,여자(con gái),girl / daughter,n,R4,Y
+218,xe,쎄,차·탈것,vehicle,n,R4,Y
+219,gọi,고이,부르다·전화하다,to call,v,R4,Y
+220,giúp,윱,돕다,to help,v,R4,Y
+221,trả,짜,돌려주다·지불하다,to return / pay,v,R4,Y
+222,trên,쩬,위,on / above,prep,R4,Y
+223,ngồi,응오이,앉다,to sit,v,R4,Y
+224,lâu,러우,오래,long (time),adv,R4,Y
+225,dì,이,이모,aunt (mother's sister),n,R4,Y
+226,chạy,짜이,달리다,to run,v,R4,Y
+227,ôi,오이,아이고,oh!,part,R4,N
+228,giống,용,닮다·같다,similar,adj,R4,Y
+229,thử,트,시도하다,to try,v,R4,Y
+230,hình,힌,사진·모양,picture / shape,n,R4,Y
+231,bộ,보,세트·~인 척,set / seemingly,n,R4,N
+232,lý,리,이유(lý do),reason,n,R4,N
+233,thời,터이,시대·시간,time / era,n,R4,N
+234,tiếp,띠엡,계속하다,to continue,v,R4,N
+235,đội,도이,팀·쓰다(모자),team / to wear (hat),n,R4,Y
+236,chỗ,쪼,자리·곳,place / spot,n,R4,Y
+237,học,헙,배우다,to study,v,R4,Y
+238,uống,우옹,마시다,to drink,v,R4,Y
+239,chờ,쩌,기다리다,to wait,v,R4,Y
+240,tất,떳,모든(tất cả),all (tất cả),det,R4,N
+241,lâm,럼,숲(한자어),forest (Sino),n,R4,N
+242,vừa,브어,막·딱 맞다,just now / to fit,adv,R4,N
+243,cố,꼬,노력하다,to try hard,v,R4,Y
+244,linh,린,영혼,spirit,n,R4,N
+245,nhân,년,사람·원인,person / cause,n,R4,N
+246,đánh,단,때리다·치다,to hit,v,R4,Y
+247,kìa,끼어,저기!,look there!,part,R4,N
+248,bảo,바오,말하다·시키다,to tell,v,R4,N
+249,số,쏘,숫자·운,number / fate,n,R4,Y
+250,quay,꽈이,돌다·찍다,to turn / film,v,R4,Y
+251,cứu,끄우,구하다,to rescue,v,R4,Y
+252,an,안,편안(an toàn),safe (an toàn),adj,R4,N
+253,sáng,쌍,아침·밝다,morning / bright,n,R4,Y
+254,đời,더이,인생,life,n,R4,Y
+255,định,딘,~하려고 하다,to intend,v,R4,N
+256,đứng,등,서다,to stand,v,R4,Y
+257,hồi,호이,때·돌아오다,time (past) / return,n,R4,N
+258,nhiên,니엔,자연(tự nhiên),natural (tự nhiên),adj,R4,N
+259,đau,다우,아프다,to hurt,v,R4,Y
+260,giết,옛,죽이다,to kill,v,R4,N
+261,bệnh,벤,병,illness,n,R4,Y
+262,do,요,~때문에,due to,prep,R4,N
+263,khó,코,어렵다,difficult,adj,R4,Y
+264,thân,턴,몸·친한,body / close,n,R4,N
+265,nhanh,냔,빠르다,fast,adj,R4,Y
+266,kêu,께우,부르다·소리내다,to call out,v,R4,Y
+267,hiện,히엔,현재(hiện tại),present (hiện tại),adj,R4,N
+268,lớn,런,크다,big,adj,R4,Y
+269,bằng,방,~로(수단)·같은,by (means) / equal,prep,R4,N
+270,hàng,항,물건·줄,goods / row,n,R4,Y
+271,yên,옌,조용한,calm / quiet,adj,R4,Y
+272,bán,반,팔다,to sell,v,R4,Y
+273,tiếng,띠엥,언어·소리·시간,language / sound / hour,n,R4,Y
+274,lòng,롱,마음,heart,n,R4,Y
+275,sĩ,씨,~사(bác sĩ 의사),-ist (bác sĩ doctor),n,R4,N
+276,chủ,쭈,주인,owner,n,R4,Y
+277,hãy,하이,~하세요,let's / please,adv,R4,N
+278,thêm,템,더하다,to add / more,v,R4,Y
+279,nam,남,남자·남쪽,male / south,n,R4,Y
+280,vú,부,가슴·유모,breast / nanny,n,R4,N
+281,hoài,호아이,계속(남부),continually (southern),adv,R4,N
+282,bữa,브어,끼니·날,meal / day,n,R4,Y
+283,mời,머이,초대하다·권하다,to invite,v,R4,Y
+284,sang,쌍,건너가다·부유한,to cross over / fancy,v,R4,N
+285,gian,얀,칸·공간(thời gian),space (thời gian time),n,R4,N
+286,ha,하,~지?(남부 어기),right? (southern particle),part,R4,N
+287,tên,뗀,이름,name,n,R4,Y
+288,điện,디엔,전기·전화,electricity / phone,n,R4,Y
+289,đình,딘,가정(gia đình),family (gia đình),n,R4,N
+290,sinh,씬,태어나다·학생,to be born / student,v,R4,Y
+291,kia,끼어,저(것),that over there,det,R4,N
+292,thường,트엉,보통·자주,usually,adv,R4,N
+293,nội,노이,친가·안,paternal / inside,n,R4,N
+294,giữ,이으,지키다,to keep,v,R4,Y
+295,dữ,이으,사납다,fierce,adj,R4,Y
+296,mở,머,열다,to open,v,R4,Y
+297,vụ,부,사건,case / incident,n,R4,N
+298,xem,쎔,보다,to watch,v,R4,Y
+299,tui,뚜이,나(남부 구어),I (southern casual),pron,R4,N
+300,đất,덧,땅,land,n,R4,Y
+301,buồn,부온,슬프다,sad,adj,R4,Y
+302,cuộc,꾸옥,~판·행사(분류사),event (classifier),n,R4,N
+303,trai,짜이,남자(con trai),boy / son,n,R4,Y
+304,thầy,터이,선생님(남),teacher (male),n,R4,Y
+305,phòng,퐁,방,room,n,R4,Y
+306,hoa,호아,꽃,flower,n,R4,Y
+307,đủ,두,충분하다,enough,adj,R4,Y
+308,giải,야이,풀다·해결,to solve,v,R4,N
+309,phương,프엉,방향·방법,direction / method,n,R4,N
+310,động,동,움직이다,to move,v,R4,N
+311,tội,또이,죄·불쌍하다,sin / pitiful,n,R4,N
+312,chi,찌,무엇(남부),what (southern),pron,R4,N
+313,tập,떱,연습하다,to practice,v,R4,Y
+314,cảnh,깐,경치·장면,scenery / scene,n,R4,Y
+315,bất,벗,불~(부정),un- (negative),adv,R4,N
+316,toàn,또안,전부,entirely,adv,R4,N
+317,nhé,녜,~해요(북부 어기),okay? (northern particle),part,R4,N
+318,nhiêu,니에우,얼마(bao nhiêu),how much (bao nhiêu),adv,R4,N
+319,nghỉ,응이,쉬다,to rest,v,R4,Y
+320,ngay,응아이,즉시,immediately,adv,R4,N
+321,dám,얌,감히 ~하다,to dare,v,R4,N
+322,ảnh,안,사진·그(남부),photo / he (southern),n,R4,Y
+323,báo,바오,알리다·신문,to inform / newspaper,v,R4,Y
+324,mệt,멧,피곤하다,tired,adj,R4,Y
+325,kiếm,끼엠,찾다·벌다,to search / earn,v,R4,Y
+326,trọng,쫑,중요한(quan trọng),important,adj,R4,N
+327,cháu,짜우,손주·조카,grandchild / niece/nephew,n,R4,Y
+328,nổi,노이,~할 수 있다·뜨다,able to / float,v,R4,N
+329,phụ,푸,돕다·부~,to assist / sub-,v,R4,N
+330,tối,또이,저녁·어둡다,evening / dark,n,R4,Y
+331,kỳ,끼,기간·이상한,period / strange,n,R4,N
+332,sớm,썸,일찍,early,adv,R4,Y
+333,ngon,응온,맛있다,delicious,adj,R4,Y
+334,liên,리엔,연결(liên lạc 연락),connect (liên lạc contact),v,R4,N
+335,đàn,단,악기·무리,instrument / flock,n,R4,Y
+336,hồng,홍,분홍·장미,pink / rose,adj,R4,Y
+337,minh,민,밝은(한자어),bright (Sino),adj,R4,N
+338,khỏi,코이,낫다·~할 필요 없다,to recover / no need,v,R4,N
+339,nghĩa,응이어,의미,meaning,n,R4,N
+340,sắp,쌉,곧,about to,adv,R4,N
+341,mắt,맛,눈,eye,n,R4,Y
+342,thực,특,실제(thực sự),real (thực sự),adj,R4,N
+343,hợp,헙,맞다·어울리다,to suit,v,R4,N
+344,ghê,게,엄청·끔찍한,terribly / awful,adv,R4,N
+345,liền,리엔,곧바로,right away,adv,R4,N
+346,mang,망,가져가다·지니다,to carry / bring,v,R4,Y
+347,phát,팟,발하다·배부하다,to emit / distribute,v,R4,N
+348,diễn,이엔,연기하다·공연,to act / perform,v,R4,Y
+349,hơi,허이,약간,a bit,adv,R4,N
+350,quên,꿴,잊다,to forget,v,R4,Y
+351,khách,카익,손님,guest / customer,n,R4,Y
+352,tưởng,뜨엉,~인 줄 알다,to think (mistakenly),v,R4,N
+353,từng,뜽,~한 적 있다,ever (experience),adv,R4,N
+354,tư,뜨,개인·넷째,private / fourth,adj,R4,N
+355,dù,유,비록·우산,although / umbrella,conj,R4,Y
+356,ạ,아,~요(공손 어기),polite particle,part,R4,N
+357,thoại,토아이,대화(điện thoại 전화),talk (điện thoại phone),n,R4,N
+358,cuối,꾸오이,끝·마지막,end / last,n,R4,Y
+359,cơ,꺼,기회(cơ hội),chance (cơ hội),n,R4,N
+360,tuyệt,뚜옛,훌륭한,excellent,adj,R4,Y
+361,đối,도이,~에 대해·상대,toward / opposite,prep,R4,N
+362,hành,한,행동(hành động),action (hành động),n,R4,N
