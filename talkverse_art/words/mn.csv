@@ -1,0 +1,251 @@
+rank,word,reading,ko,en,pos,level,picturable
+1,байх,베흐,있다/이다,be,verb,R1,N
+2,нь,느,(그)것은·주제 첨사,topic particle,part,R1,N
+3,би,비,나,I,pron,R1,N
+4,энэ,엥,이것,this,pron,R1,N
+5,тэр,테르,그것/그 사람,that,pron,R1,N
+6,болох,버러흐,되다,become,verb,R1,N
+7,юм,윰,~인 것이다(첨사),it is (particle),part,R1,N
+8,ч,치,~도,also/even,part,R1,N
+9,л,르,~만/바로,just,part,R1,N
+10,та,타,당신(존칭),you (polite),pron,R1,N
+11,чи,치,너,you,pron,R1,N
+12,бид,비드,우리,we,pron,R1,N
+13,гэх,게흐,말하다/~라고 하다,say,verb,R1,N
+14,хийх,히흐,하다/만들다,do,verb,R1,N
+15,бас,바스,또/역시,also,adv,R1,N
+16,их,이흐,많이/매우,much,adv,R1,N
+17,одоо,어더,지금,now,adv,R1,N
+18,сайн,셍,좋은,good,adj,R1,N
+19,хүн,훙,사람,person,noun,R1,Y
+20,өдөр,으드르,날/낮,day,noun,R1,Y
+21,цаг,착,시간/시계,clock,noun,R1,Y
+22,юу,유오,무엇,what,pron,R1,N
+23,хэн,헹,누구,who,pron,R1,N
+24,яах,야아흐,어떻게 하다,do what,verb,R1,N
+25,өгөх,으그흐,주다,give,verb,R1,Y
+26,авах,아바흐,받다/사다,take,verb,R1,Y
+27,явах,야바흐,가다,go,verb,R1,Y
+28,ирэх,이레흐,오다,come,verb,R1,Y
+29,мэдэх,메데흐,알다,know,verb,R1,N
+30,хэлэх,헤레흐,말하다,tell,verb,R1,N
+31,бодох,버더흐,생각하다,think,verb,R1,N
+32,үзэх,우제흐,보다,watch,verb,R1,Y
+33,болно,벌너,괜찮다/된다,okay,pred,R1,N
+34,хэрэгтэй,헤레그테,필요하다,need,pred,R1,N
+35,биш,비시,아니다,not,part,R1,N
+36,үгүй,우구이,없다/아니요,no,part,R1,N
+37,уу,오,"~까?(의문, 남성 모음)",question particle,part,R1,N
+38,үү,우,"~까?(의문, 여성 모음)",question particle,part,R1,N
+39,бэ,베,~가?(의문사 의문),question particle,part,R1,N
+40,вэ,베,~가?(의문사 의문),question particle,part,R1,N
+41,аа,아,~네/~요(어조),emphatic particle,part,R1,N
+42,даа,다,~지/~요(어조),emphatic particle,part,R1,N
+43,ба,바,그리고,and,conj,R1,N
+44,бөгөөд,브그드,그리고/~이며,and,conj,R1,N
+45,гэхдээ,게흐데,하지만,but,conj,R1,N
+46,хэрэв,헤렙,만약,if,conj,R1,N
+47,болохоор,버러허르,그래서/~라서,so,conj,R1,N
+48,учраас,오치라스,~때문에,because,conj,R1,N
+49,дээр,데르,위에,on,postp,R1,N
+50,доор,더르,아래에,under,postp,R1,N
+51,дотор,더터르,안에,inside,postp,R1,N
+52,дараа,다라,뒤에/다음,after,postp,R1,N
+53,өмнө,음느,앞에/전에,before,postp,R1,N
+54,хойно,허잉,뒤에/북쪽,behind,postp,R1,N
+55,тухай,토헤,~에 대해,about,postp,R1,N
+56,шиг,식,~처럼,like,postp,R1,N
+57,хүртэл,후르텔,~까지,until,postp,R1,N
+58,төлөө,트르,~을 위해,for,postp,R1,N
+59,талаар,타라르,~에 관해,regarding,postp,R1,N
+60,хамт,함트,함께,together,adv,R1,N
+61,энд,엥드,여기,here,adv,R1,N
+62,тэнд,텡드,저기,there,adv,R1,N
+63,өнөөдөр,으느드르,오늘,today,adv,R1,N
+64,маргааш,마르가시,내일,tomorrow,adv,R1,N
+65,өчигдөр,으치그드르,어제,yesterday,adv,R1,N
+66,маш,마시,매우,very,adv,R1,N
+67,дахин,다힝,다시,again,adv,R1,N
+68,заавал,자발,반드시,surely,adv,R1,N
+69,үргэлж,우르겔즈,항상,always,adv,R1,N
+70,үнэхээр,우네헤르,정말,really,adv,R1,N
+71,өөр,으르,다른,other,adj,R1,N
+72,бүх,부흐,모든,all,adj,R1,N
+73,олон,어렁,많은,many,adj,R1,N
+74,зарим,자림,어떤/일부,some,adj,R1,N
+75,ямар,야마르,어떤,what kind,adj,R1,N
+76,хэдэн,헤뎅,몇,how many,num,R1,N
+77,гэр,게르,집/게르,ger,noun,R1,Y
+78,найз,네즈,친구,friend,noun,R1,Y
+79,ном,넘,책,book,noun,R1,Y
+80,ус,오스,물,water,noun,R1,Y
+81,хот,허트,도시,city,noun,R1,Y
+82,улс,올스,나라,country,noun,R1,N
+83,гар,가르,손,hand,noun,R1,Y
+84,нэр,네르,이름,name,noun,R1,N
+85,хоол,헐,음식/밥,food,noun,R1,Y
+86,мөнгө,믕그,돈,money,noun,R1,Y
+87,ажил,아질,일,work,noun,R1,Y
+88,сар,사르,달/월,moon,noun,R1,Y
+89,жил,질,해/년,year,noun,R1,N
+90,газар,가자르,땅/곳,land,noun,R1,Y
+91,ээж,에즈,엄마,mother,noun,R1,Y
+92,аав,압,아빠,father,noun,R1,Y
+93,хүүхэд,후헤드,아이,child,noun,R1,Y
+94,эмэгтэй,에메그테,여자,woman,noun,R1,Y
+95,эрэгтэй,에레그테,남자,man,noun,R1,Y
+96,сайхан,세항,좋은/아름다운,beautiful,adj,R1,N
+97,гоё,거요,예쁜/멋진,pretty,adj,R1,N
+98,том,텀,큰,big,adj,R1,Y
+99,жижиг,지직,작은,small,adj,R1,Y
+100,шинэ,싱,새로운,new,adj,R1,N
+101,хуучин,호칭,낡은/옛,old,adj,R1,N
+102,идэх,이데흐,먹다,eat,verb,R1,Y
+103,уух,오흐,마시다,drink,verb,R1,Y
+104,уулзах,올자흐,만나다,meet,verb,R1,Y
+105,хайрлах,헤르라흐,사랑하다,love,verb,R1,Y
+106,амьдрах,암드라흐,살다,live,verb,R1,N
+107,сурах,소라흐,배우다,study,verb,R1,Y
+108,ажиллах,아질라흐,일하다,work,verb,R1,Y
+109,ойлгох,어일거흐,이해하다,understand,verb,R1,N
+110,бичих,비치흐,쓰다,write,verb,R1,Y
+111,унших,옹시흐,읽다,read,verb,R1,Y
+112,харах,하라흐,보다,look,verb,R1,Y
+113,сонсох,성서흐,듣다,listen,verb,R1,Y
+114,суух,소흐,앉다,sit,verb,R1,Y
+115,зогсох,저그서흐,서다/멈추다,stand,verb,R1,Y
+116,босох,버서흐,일어나다,get up,verb,R1,Y
+117,инээх,이네흐,웃다,laugh,verb,R1,Y
+118,дуртай,도르테,좋아하다,like,adj,R1,N
+119,чадах,차다흐,할 수 있다,can,verb,R1,N
+120,хүсэх,후세흐,원하다,want,verb,R1,N
+121,нэг,넥,하나,one,num,R2,N
+122,хоёр,허요르,둘,two,num,R2,N
+123,гурав,고랍,셋,three,num,R2,N
+124,дөрөв,드릅,넷,four,num,R2,N
+125,тав,탑,다섯,five,num,R2,N
+126,зургаа,조르가,여섯,six,num,R2,N
+127,долоо,더러,일곱,seven,num,R2,N
+128,найм,넴,여덟,eight,num,R2,N
+129,ес,예스,아홉,nine,num,R2,N
+130,арав,아랍,열,ten,num,R2,N
+131,зуу,조,백,hundred,num,R2,N
+132,мянга,먕가,천,thousand,num,R2,N
+133,минут,미노트,분,minute,noun,R2,N
+134,амралт,암랄트,휴가/휴식,vacation,noun,R2,Y
+135,сургууль,소르골,학교,school,noun,R2,Y
+136,багш,바그시,선생님,teacher,noun,R2,Y
+137,сурагч,소라그치,학생,student,noun,R2,Y
+138,оюутан,어유오탕,대학생,university student,noun,R2,Y
+139,компьютер,컴퓨톄르,컴퓨터,computer,noun,R2,Y
+140,машин,마싱,자동차,car,noun,R2,Y
+141,утас,오타스,전화/휴대폰,phone,noun,R2,Y
+142,ширээ,시레,책상/탁자,table,noun,R2,Y
+143,сандал,상달,의자,chair,noun,R2,Y
+144,цонх,청흐,창문,window,noun,R2,Y
+145,хаалга,할가,문,door,noun,R2,Y
+146,өрөө,으르,방,room,noun,R2,Y
+147,гудамж,고담즈,거리,street,noun,R2,Y
+148,зам,잠,길,road,noun,R2,Y
+149,тэнгэр,텡게르,하늘,sky,noun,R2,Y
+150,нар,나르,해,sun,noun,R2,Y
+151,од,어드,별,star,noun,R2,Y
+152,салхи,살히,바람,wind,noun,R2,Y
+153,бороо,버러,비,rain,noun,R2,Y
+154,цас,차스,눈,snow,noun,R2,Y
+155,мод,머드,나무,tree,noun,R2,Y
+156,цэцэг,체첵,꽃,flower,noun,R2,Y
+157,амьтан,암탕,동물,animal,noun,R2,Y
+158,нохой,너허이,개,dog,noun,R2,Y
+159,муур,모르,고양이,cat,noun,R2,Y
+160,морь,머르,말,horse,noun,R2,Y
+161,үхэр,우헤르,소,cow,noun,R2,Y
+162,хонь,헝,양,sheep,noun,R2,Y
+163,шувуу,소보,새,bird,noun,R2,Y
+164,загас,자가스,물고기,fish,noun,R2,Y
+165,мах,마흐,고기,meat,noun,R2,Y
+166,талх,탈흐,빵,bread,noun,R2,Y
+167,сүү,수,우유,milk,noun,R2,Y
+168,цай,체,차,tea,noun,R2,Y
+169,айраг,에락,마유주,fermented mare's milk,noun,R2,Y
+170,жимс,짐스,과일,fruit,noun,R2,Y
+171,ногоо,너거,채소,vegetable,noun,R2,Y
+172,өндөг,응득,달걀,egg,noun,R2,Y
+173,давс,답스,소금,salt,noun,R2,Y
+174,чихэр,치헤르,사탕/설탕,candy,noun,R2,Y
+175,гал,갈,불,fire,noun,R2,Y
+176,үг,욱,말/단어,word,noun,R2,N
+177,өнгө,응그,색,color,noun,R2,Y
+178,улаан,오랑,빨간,red,adj,R2,Y
+179,цагаан,차강,흰,white,adj,R2,Y
+180,хар,하르,검은,black,adj,R2,Y
+181,шар,사르,노란,yellow,adj,R2,Y
+182,ногоон,너겅,초록,green,adj,R2,Y
+183,хөх,흐흐,파란,blue,adj,R2,Y
+184,урт,오르트,긴,long,adj,R2,Y
+185,богино,버깅,짧은,short,adj,R2,Y
+186,өндөр,응드르,높은/키 큰,tall,adj,R2,Y
+187,намхан,남항,낮은/키 작은,short (height),adj,R2,Y
+188,хүнд,훙드,무거운,heavy,adj,R2,Y
+189,хөнгөн,흥긍,가벼운,light,adj,R2,Y
+190,халуун,하롱,뜨거운/더운,hot,adj,R2,Y
+191,хүйтэн,후이텡,차가운/추운,cold,adj,R2,Y
+192,чухал,초할,중요한,important,adj,R2,N
+193,амархан,아마르항,쉬운,easy,adj,R2,N
+194,хэцүү,헤추,어려운,difficult,adj,R2,N
+195,хямд,햠드,싼,cheap,adj,R2,N
+196,үнэтэй,우네테,비싼,expensive,adj,R2,N
+197,баян,바양,부유한,rich,adj,R2,N
+198,ядуу,야도,가난한,poor,adj,R2,N
+199,залуу,자로,젊은,young,adj,R2,Y
+200,хөгшин,흐그싱,늙은,old (person),adj,R2,Y
+201,баярлах,바야르라흐,기뻐하다,be glad,verb,R2,Y
+202,уурлах,오르라흐,화내다,get angry,verb,R2,Y
+203,уйлах,오이라흐,울다,cry,verb,R2,Y
+204,унтах,옹타흐,자다,sleep,verb,R2,Y
+205,сэрэх,세레흐,깨다,wake up,verb,R2,Y
+206,угаах,오가흐,씻다,wash,verb,R2,Y
+207,зарах,자라흐,팔다,sell,verb,R2,Y
+208,тоглох,터그러흐,놀다,play,verb,R2,Y
+209,дуулах,도라흐,노래하다,sing,verb,R2,Y
+210,бүжиглэх,부지그레흐,춤추다,dance,verb,R2,Y
+211,аялах,아야라흐,여행하다,travel,verb,R3,Y
+212,буудал,보달,역/정류장,station,noun,R3,Y
+213,онгоц,엉거츠,비행기,airplane,noun,R3,Y
+214,нисэх,니세흐,날다,fly,verb,R3,Y
+215,жуулчин,졸칭,여행자,tourist,noun,R3,Y
+216,газрын,가즈링,땅의(газрын зураг = 지도),of the land,noun,R3,N
+217,зураг,조락,그림/사진,picture,noun,R3,Y
+218,дурсгал,도르스갈,기념/유적,monument,noun,R3,Y
+219,байгаль,베갈,자연,nature,noun,R3,Y
+220,говь,고비,고비(사막 초원),desert steppe,noun,R3,Y
+221,тал,탈,초원/쪽,steppe,noun,R3,Y
+222,уул,올,산,mountain,noun,R3,Y
+223,нуур,노르,호수,lake,noun,R3,Y
+224,гол,걸,강,river,noun,R3,Y
+225,тэмээ,테메,낙타,camel,noun,R3,Y
+226,баяр,바야르,명절/기쁨,festival,noun,R3,Y
+227,наадам,나담,나담 축제,naadam festival,noun,R3,Y
+228,соёл,서욜,문화,culture,noun,R3,N
+229,түүх,투흐,역사,history,noun,R3,N
+230,хэл,헬,언어/혀,language,noun,R3,N
+231,сэтгэл,세트겔,마음,heart (mind),noun,R4,N
+232,хайр,헤르,사랑,love,noun,R4,Y
+233,мэдрэмж,메드렘즈,느낌/감정,feeling,noun,R4,N
+234,учрах,오치라흐,마주치다,run into,verb,R4,Y
+235,болзох,벌저흐,데이트하다,date,verb,R4,Y
+236,үнсэх,웅세흐,입맞추다,kiss,verb,R4,Y
+237,тэвэрэх,테베레흐,안다,hug,verb,R4,Y
+238,санах,사나흐,그리워하다/기억하다,miss,verb,R4,N
+239,хүлээх,후레흐,기다리다,wait,verb,R4,Y
+240,мартах,마르타흐,잊다,forget,verb,R4,N
+241,итгэх,이트게흐,믿다,believe,verb,R4,N
+242,онцгой,엉츠거이,특별한,special,adj,R4,N
+243,жаргалтай,자르갈테,행복한,happy,adj,R4,Y
+244,ганцаардал,강차르달,외로움,loneliness,noun,R4,N
+245,дурлал,도르랄,사랑에 빠짐,falling in love,noun,R4,N
+246,амжилт,암질트,성공,success,noun,R4,N
+247,мөрөөдөл,므르들,꿈,dream,noun,R4,N
+248,итгэл,이트겔,믿음,trust,noun,R4,N
+249,жаргал,자르갈,행복,happiness,noun,R4,N
+250,ирээдүй,이레두이,미래,future,noun,R4,N
