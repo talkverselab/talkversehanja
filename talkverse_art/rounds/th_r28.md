@@ -1,0 +1,22 @@
+# Talkverse art — Thai · round 28 · 2026-11-03
+
+**Style check (every round):** match these approved images exactly — soft matte clay, natural adult/child body proportions (NOT chibi/baby big-head), light pastel blob background, accent color on ONE small item only (do not paint everything orange):
+
+- https://raw.githubusercontent.com/talkverselab/talkversehanja/main/talkverse_art/ja/r01/95_matsu_B.jpg
+- https://raw.githubusercontent.com/talkverselab/talkversehanja/main/talkverse_art/ja/r01/112_hanashi_B.jpg
+- https://raw.githubusercontent.com/talkverselab/talkversehanja/main/talkverse_art/ja/r01/137_haha_B.jpg
+- https://raw.githubusercontent.com/talkverselab/talkversehanja/main/talkverse_art/ja/r02/19_iu_v2.jpg
+- https://raw.githubusercontent.com/talkverselab/talkversehanja/main/talkverse_art/ja/r02/71_sensei_v2.jpg
+
+Same look and tone as the previous round (style B, accent #8a5cd6 on one item only, real Thailand dishes for food words, people, clothing and places typical of Thailand, no text/logos). **Every person full body, head to feet, nothing cropped — never cut off heads. The image tool cannot output 1:1, so generate LANDSCAPE (3:2 or 16:9) with the subject centered and empty background on both sides, then center-crop to a 1024×1024 square (crop only the left/right sides, never top/bottom). Portrait images, letterboxing or any side bars are rejected.** **People: use ONLY the two fixed Thai app characters in https://raw.githubusercontent.com/talkverselab/talkversehanja/main/talkverse_art/chars/th_sheet.jpg (open it first).** Woman: clearly golden-tan / light-brown skin (as in the sheet, darker than a typical pale skin), soft round eyes, long slightly wavy black hair, bright smile; outfit = cream knit + white pleated skirt (everyday) or white visor + white tennis outfit + lilac paddle (sport). Man: short neat black hair, clean gentle features, beige SHORT-SLEEVE button shirt with a chest pocket (not a sweater) + brown trousers + white sneakers. Felt/clay doll texture as in the sheet. Same faces and outfits every time; no names, no text. A child appears only when the word needs one. **Do not reuse the curly-haired bearded man in a green sweater** (he appeared in 4 of 6 pictures in round 289) — every adult must look different: straight/short/long/grey hair, glasses, different ages and builds. **Never show a woman holding two round objects (fruit, balls) at chest height** — carry them in a basket, bag or low at the hips. **Never draw one person just standing alone doing nothing**: job, family and relation words (principal, son, employee, doctor…) must show that person WITH the people they relate to, in their place (school, shop, home), doing the typical action; left/right/direction words must be a scene, never a bare arrow; abstract words must be a person doing it. Rules: `talkverse_art/STYLE.md`. **Hard limit: this round is 6 pictures; generate at most 8 images in total including retries.** If a picture still fails after that, skip it and say so in the commit message — do not generate more.
+
+Save to `talkverse_art/th/r28/<file>` and push to GitHub exactly as `talkverse_art/PUSH.md` says (connector push tool, base64, 1024×1024 JPG quality 85 under 200 KB, one picture per commit; last commit message `Talkverse art th r28 done`).
+
+| # | word | reading | meaning (ko · en) | scene to draw | file |
+|---|---|---|---|---|---|
+| 1 | นัด | nát | 약속하다, 약속(만남) · appointment (noun) | 카페 앞에서 고정 캐릭터 여자가 손목의 시계를 가리키며 미소 짓고, 약속 시간에 맞춰 남자 꽃을 들고 도착. 두 사람 전신, 숫자 없음. | `talkverse_art/th/r28/582_appointment.jpg` |
+| 2 | นึก | néuk | 생각하다, 떠올리다 · think of (verb) | 거실 소파에서 고정 캐릭터 남자 턱에 손가락을 대고 위를 올려다보며 무언가를 떠올리려 하고, 머리 위 작은 둥근 칸 안에 바닷가 휴가 장면이 떠오름, 여자가 옆에서 기다림. 두 사람 전신, 글자 없음. | `talkverse_art/th/r28/583_think_of.jpg` |
+| 3 | แอบ | àep | 몰래 ~하다, 숨다 · secretly (adv) | 부엌에서 고정 캐릭터 남자 까치발로 몰래 냉장고에서 디저트를 꺼내 먹다가, 문간에서 여자가 팔짱 끼고 보고 있는 걸 모름. 두 사람 전신. | `talkverse_art/th/r28/589_secretly.jpg` |
+| 4 | เท่ | tê | 멋지다, 쿨하다 · cool (adj) | 거리에서 선글라스를 쓰고 가죽 재킷을 걸친 고정 캐릭터 남자 스쿠터에 기대 멋진 포즈를 취하고, 여자가 '멋있다' 하며 엄지를 듦. 두 사람 전신, 글자 없음. | `talkverse_art/th/r28/598_cool.jpg` |
+| 5 | จีบ | jìp | 작업 걸다, 구애하다 · flirt (verb) | 카페에서 수줍은 청년(곱슬 아닌 짧은 머리, 줄무늬 셔츠)이 얼굴을 붉히며 장미 한 송이를 고정 캐릭터 여자에게 내밀고, 여자가 놀라 웃음. 두 사람 전신, 글자 없음. | `talkverse_art/th/r28/600_flirt.jpg` |
+| 6 | เดี๋ยวก่อน | dǐaw gàwn | 잠깐만, 기다려 · wait a moment (phrase) | 집을 나서려는 남자 고정 캐릭터 여자가 우산을 들고 뛰어오며 손바닥을 내밀어 '잠깐만!' 하고 부름, 창밖엔 먹구름. 두 사람 전신. | `talkverse_art/th/r28/601_wait_a_moment.jpg` |
