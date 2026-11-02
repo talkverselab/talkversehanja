@@ -1,0 +1,22 @@
+# Talkverse art — Thai · round 19 · 2026-11-03
+
+**Style check (every round):** match these approved images exactly — soft matte clay, natural adult/child body proportions (NOT chibi/baby big-head), light pastel blob background, accent color on ONE small item only (do not paint everything orange):
+
+- https://raw.githubusercontent.com/talkverselab/talkversehanja/main/talkverse_art/ja/r01/95_matsu_B.jpg
+- https://raw.githubusercontent.com/talkverselab/talkversehanja/main/talkverse_art/ja/r01/112_hanashi_B.jpg
+- https://raw.githubusercontent.com/talkverselab/talkversehanja/main/talkverse_art/ja/r01/137_haha_B.jpg
+- https://raw.githubusercontent.com/talkverselab/talkversehanja/main/talkverse_art/ja/r02/19_iu_v2.jpg
+- https://raw.githubusercontent.com/talkverselab/talkversehanja/main/talkverse_art/ja/r02/71_sensei_v2.jpg
+
+Same look and tone as the previous round (style B, accent #8a5cd6 on one item only, real Thailand dishes for food words, people, clothing and places typical of Thailand, no text/logos). **Every person full body, head to feet, nothing cropped — never cut off heads. The image tool cannot output 1:1, so generate LANDSCAPE (3:2 or 16:9) with the subject centered and empty background on both sides, then center-crop to a 1024×1024 square (crop only the left/right sides, never top/bottom). Portrait images, letterboxing or any side bars are rejected.** **People: use ONLY the two fixed Thai app characters in https://raw.githubusercontent.com/talkverselab/talkversehanja/main/talkverse_art/chars/th_sheet.jpg (open it first).** Woman: clearly golden-tan / light-brown skin (as in the sheet, darker than a typical pale skin), soft round eyes, long slightly wavy black hair, bright smile; outfit = cream knit + white pleated skirt (everyday) or white visor + white tennis outfit + lilac paddle (sport). Man: short neat black hair, clean gentle features, beige SHORT-SLEEVE button shirt with a chest pocket (not a sweater) + brown trousers + white sneakers. Felt/clay doll texture as in the sheet. Same faces and outfits every time; no names, no text. A child appears only when the word needs one. **Do not reuse the curly-haired bearded man in a green sweater** (he appeared in 4 of 6 pictures in round 289) — every adult must look different: straight/short/long/grey hair, glasses, different ages and builds. **Never show a woman holding two round objects (fruit, balls) at chest height** — carry them in a basket, bag or low at the hips. **Never draw one person just standing alone doing nothing**: job, family and relation words (principal, son, employee, doctor…) must show that person WITH the people they relate to, in their place (school, shop, home), doing the typical action; left/right/direction words must be a scene, never a bare arrow; abstract words must be a person doing it. Rules: `talkverse_art/STYLE.md`. **Hard limit: this round is 6 pictures; generate at most 8 images in total including retries.** If a picture still fails after that, skip it and say so in the commit message — do not generate more.
+
+Save to `talkverse_art/th/r19/<file>` and push to GitHub exactly as `talkverse_art/PUSH.md` says (connector push tool, base64, 1024×1024 JPG quality 85 under 200 KB, one picture per commit; last commit message `Talkverse art th r19 done`).
+
+| # | word | reading | meaning (ko · en) | scene to draw | file |
+|---|---|---|---|---|---|
+| 1 | ระวัง | rá wang | 조심하다 · be careful (verb) | 비 온 뒤 길에서 고정 캐릭터 여자가 물웅덩이로 발을 디디려는 남자의 팔을 확 잡아당기고, 옆으로 오토바이가 물을 튀기며 지나감. 두 사람 전신, 부상 없음. | `talkverse_art/th/r19/380_be_careful.jpg` |
+| 2 | แป๊บ | bpáep | 잠깐만 · just a sec (adv) | 쇼핑몰에서 고정 캐릭터 여자가 휴대전화로 통화하며 남자에게 검지 하나를 세워 '잠깐만' 신호를 보내고, 남자가 쇼핑백을 잔뜩 든 채 기다림. 두 사람 전신, 화면 글자 없음. | `talkverse_art/th/r19/382_just_a_sec.jpg` |
+| 3 | หลอก | làwk | 속이다, 놀리다 · trick (verb) | 거실에서 고정 캐릭터 남자가 고무 장난감 뱀을 쓱 내밀자 여자가 깜짝 놀라 펄쩍 뛰다가 장난인 걸 알고 남자를 툭 치며 웃음. 두 사람 전신. | `talkverse_art/th/r19/389_trick.jpg` |
+| 4 | เรียบร้อย | rîap ráwy | 완료됨, 단정하다 · all done (adj) | 선물 상자를 리본까지 깔끔하게 포장한 고정 캐릭터 여자가 엄지를 들어 '다 됐다!' 하고, 탁자 위에 가지런히 정리된 포장지와 가위. 여자 전신, 글자 없음. | `talkverse_art/th/r19/392_all_done.jpg` |
+| 5 | ก๋วยเตี๋ยวต้มยำ | kuai tiao tom yam | 꾸어이띠아우 똠얌 · tom yum noodles (noun) | 새콤매콤한 국물의 쌀국수에 다진 고기·어묵·땅콩가루·라임. | `talkverse_art/th/r19/9035_tom_yum_noodles.jpg` |
+| 6 | สะเต๊ะ | sate | 싸떼 · satay (noun) | 강황으로 노랗게 양념한 꼬치구이, 땅콩소스와 오이 절임 곁들임. | `talkverse_art/th/r19/9036_satay.jpg` |
