@@ -1,0 +1,93 @@
+rank,word,reading,romaji,ko,en,pos,level,scene_hint
+20,өдөр,으드르,day,날/낮,day,noun,R1,
+21,цаг,착,clock,시간/시계,clock,noun,R1,
+27,явах,야바흐,go,가다,go,verb,R1,
+32,үзэх,우제흐,watch,보다,watch,verb,R1,
+77,гэр,게르,ger,집/게르,ger,noun,R1,
+81,хот,허트,city,도시,city,noun,R1,
+85,хоол,헐,food,음식/밥,food,noun,R1,
+104,уулзах,올자흐,meet,만나다,meet,verb,R1,
+112,харах,하라흐,look,보다,look,verb,R1,
+116,босох,버서흐,get_up,일어나다,get up,verb,R1,
+134,амралт,암랄트,vacation,휴가/휴식,vacation,noun,R2,
+138,оюутан,어유오탕,university_student,대학생,university student,noun,R2,
+139,компьютер,컴퓨톄르,computer,컴퓨터,computer,noun,R2,
+141,утас,오타스,phone,전화/휴대폰,phone,noun,R2,
+142,ширээ,시레,table,책상/탁자,table,noun,R2,
+143,сандал,상달,chair,의자,chair,noun,R2,
+161,үхэр,우헤르,cow,소,cow,noun,R2,
+162,хонь,헝,sheep,양,sheep,noun,R2,
+167,сүү,수,milk,우유,milk,noun,R2,
+168,цай,체,tea,차,tea,noun,R2,
+169,айраг,에락,fermented_mare_s_milk,마유주,fermented mare's milk,noun,R2,
+170,жимс,짐스,fruit,과일,fruit,noun,R2,
+171,ногоо,너거,vegetable,채소,vegetable,noun,R2,
+173,давс,답스,salt,소금,salt,noun,R2,
+174,чихэр,치헤르,candy,사탕/설탕,candy,noun,R2,
+181,шар,사르,yellow,노란,yellow,adj,R2,
+185,богино,버깅,short,짧은,short,adj,R2,
+186,өндөр,응드르,tall,높은/키 큰,tall,adj,R2,
+201,баярлах,바야르라흐,be_glad,기뻐하다,be glad,verb,R2,
+213,онгоц,엉거츠,airplane,비행기,airplane,noun,R3,
+215,жуулчин,졸칭,tourist,여행자,tourist,noun,R3,
+218,дурсгал,도르스갈,monument,기념/유적,monument,noun,R3,
+219,байгаль,베갈,nature,자연,nature,noun,R3,
+220,говь,고비,desert_steppe,고비(사막 초원),desert steppe,noun,R3,
+221,тал,탈,steppe,초원/쪽,steppe,noun,R3,
+223,нуур,노르,lake,호수,lake,noun,R3,
+225,тэмээ,테메,camel,낙타,camel,noun,R3,
+226,баяр,바야르,festival,명절/기쁨,festival,noun,R3,
+227,наадам,나담,naadam_festival,나담 축제,naadam festival,noun,R3,
+234,учрах,오치라흐,run_into,마주치다,run into,verb,R4,
+237,тэвэрэх,테베레흐,hug,안다,hug,verb,R4,
+243,жаргалтай,자르갈테,happy,행복한,happy,adj,R4,
+9001,бууз,보즈,steamed_dumplings,보즈(찐 고기 만두),steamed dumplings,noun,food,"둥글게 주름 잡은 하얀 만두 대여섯 개를 김이 나는 찜판째 담고, 윗부분이 살짝 열려 다진 양고기 속이 보인다."
+9002,хуушуур,호소르,fried_meat_pastry,호소르(튀긴 고기 파이),fried meat pastry,noun,food,반달 모양으로 접어 기름에 노릇하게 튀긴 납작한 파이 두세 장을 접시에 겹쳐 담는다. 가장자리는 갈색으로 바삭하다.
+9003,банш,방시,small_dumplings,방시(작은 물만두),small dumplings,noun,food,엄지만 한 작은 만두를 맑은 국물이나 접시에 소복이 담는다. 반투명한 피에 고기 속이 비친다.
+9004,цуйван,초이방,fried_noodles_with_meat,초이방(고기 볶음 국수),fried noodles with meat,noun,food,손으로 썬 굵은 밀국수를 양고기·당근·양배추와 볶아 넓은 접시에 담는다. 전체가 갈색빛이다.
+9005,хорхог,허르헉,stone_cooked_mutton,허르헉(돌 찜 양고기),stone-cooked mutton,noun,food,"큰 금속 통에서 꺼낸 뼈 붙은 양고기 덩이와 감자·당근을 쟁반에 쌓고, 검게 그을린 매끈한 돌 몇 개를 곁에 둔다."
+9006,боодог,버덕,whole_roasted_goat,버덕(통째로 구운 염소),whole roasted goat,noun,food,"가죽째 불에 그을려 검게 윤이 나는 통구이를 나무판에 올리고, 갈라진 틈으로 김이 오른다."
+9007,гурилтай шөл,고릴테 슬,noodle_soup_with_mutton,고릴테 슬(고기 국수 국),noodle soup with mutton,noun,food,"깊은 사발에 맑은 국물, 가는 손국수, 깍둑 썬 양고기와 감자가 떠 있다."
+9008,бантан,방탕,thick_flour_soup,방탕(밀가루 걸쭉 수프),thick flour soup,noun,food,사발에 담은 걸쭉하고 뽀얀 수프에 잘게 다진 고기 알갱이가 섞여 있다.
+9009,будаатай хуурга,보다테 호르가,fried_rice_with_meat,보다테 호르가(고기 볶음밥),fried rice with meat,noun,food,흰 쌀밥을 고기·당근·양파와 볶아 접시에 둥글게 담는다.
+9010,ууц,오츠,festive_sheep_back,오츠(양 등심 통구이·명절 음식),festive sheep back,noun,food,"꼬리 지방이 붙은 커다란 양 등 부위를 통째로 쟁반에 올리고, 위에 층층이 쌓은 과자(올 보우)가 놓인 명절상."
+9011,чанасан мах,차나상 마흐,boiled_mutton,차나상 마흐(삶은 고기),boiled mutton,noun,food,뼈째 삶은 양고기 덩이를 나무 쟁반에 쌓고 작은 칼을 곁에 둔다. 흰 지방이 붙어 있다.
+9012,борц,버르츠,dried_meat,버르츠(말린 고기),dried meat,noun,food,가늘게 찢어 말린 짙은 갈색 고기 줄기를 천 위에 묶음으로 둔다.
+9013,хиам,히암,sausage,히암(소시지),sausage,noun,food,썰어 놓은 붉은 소시지 조각을 작은 접시에 부채꼴로 놓는다.
+9014,гуляш,고랴시,goulash_with_rice,고랴시(고기 스튜 덮밥),goulash with rice,noun,food,갈색 소스에 조린 고기 조각을 흰 밥 옆에 붓고 오이 몇 조각을 곁들인 식당식 한 접시.
+9015,бифштекс,비프시톄크스,minced_meat_patty,비프시톄크스(다짐육 스테이크),minced meat patty,noun,food,둥근 고기 패티 위에 달걀 프라이를 얹고 밥과 샐러드를 곁들인 접시.
+9016,ногоотой шөл,너거터이 슬,vegetable_soup,너거터이 슬(채소 고기 국),vegetable soup,noun,food,사발에 양배추·당근·감자와 고기가 든 맑은 국.
+9017,мантуун бууз,망통 보즈,steamed_bun,망통 보즈(찐빵),steamed bun,noun,food,하얗고 동그란 찐빵 두세 개를 찜판에 담는다. 표면이 매끈하다.
+9018,пирошки,피러시키,fried_stuffed_bun,피러시키(튀긴 빵),fried stuffed bun,noun,food,"길쭉하게 튀긴 노릇한 빵 두 개, 반을 갈라 다진 고기·감자 속이 보인다."
+9019,котлет,커트례트,meat_cutlet,커트례트(고기 완자 커틀릿),meat cutlet,noun,food,타원형으로 지진 갈색 고기 커틀릿 두 개를 으깬 감자 옆에 놓는다.
+9020,нийслэл салат,니스렐 사라트,capital_salad,니스렐 사라트(감자 마요 샐러드),capital salad,noun,food,깍둑 썬 감자·당근·소시지·완두콩을 마요네즈로 버무린 연노랑 샐러드를 작은 그릇에 봉긋하게.
+9021,ааруул,아롤,dried_curd,아롤(말린 커드),dried curd,noun,food,하얗고 단단하게 말린 우유 조각들을 작은 그릇에 담는다. 모양이 들쭉날쭉하고 거칠다.
+9022,өрөм,으름,clotted_cream,으름(유막 크림),clotted cream,noun,food,끓인 우유 위에 생긴 두툼한 노란빛 크림 막을 접시에 접어 담는다.
+9023,тараг,타락,yogurt,타락(요구르트),yogurt,noun,food,"흰 사발에 담은 걸쭉한 요구르트, 위에 설탕을 조금 뿌린다."
+9024,бяслаг,뱌스락,cheese,뱌스락(흰 치즈),cheese,noun,food,납작하게 눌러 만든 흰 치즈를 네모나게 썰어 접시에 둔다.
+9025,ээзгий,에즈기,baked_curd,에즈기(구운 커드),baked curd,noun,food,불에 졸여 갈색으로 굳힌 우유 덩이 조각들을 그릇에 담는다.
+9026,шар тос,사르 터스,clarified_butter,사르 터스(버터 기름),clarified butter,noun,food,"작은 그릇에 담긴 노란 버터 기름, 표면이 반들반들하다."
+9027,хайлмаг,헬막,cream_and_flour_sweet,헬막(크림 졸임),cream and flour sweet,noun,food,팬에서 크림·밀가루·설탕을 졸인 노르스름하고 꾸덕한 디저트를 작은 그릇에.
+9028,айраг,에락,fermented_mare_s_milk,에락(마유주),fermented mare's milk,noun,food,"하얗고 살짝 거품 낀 음료를 넓은 사발 가득, 가죽 부대가 곁에 있다."
+9029,хоормог,허르먹,fermented_camel_milk,허르먹(낙타젖 발효유),fermented camel milk,noun,food,"사발에 담은 뽀얗고 진한 발효유, 뒤로 낙타 털 색 천이 보인다."
+9030,сүүтэй цай,수테 체,salty_milk_tea,수테 체(짭짤한 밀크티),salty milk tea,noun,food,"연한 베이지색 우유차를 넓은 사발에 담고, 국자가 놓인 큰 냄비가 곁에 있다."
+9031,боов,법,fried_biscuit,법(튀긴 과자),fried biscuit,noun,food,납작하게 튀긴 갈색 과자 몇 장을 접시에 쌓는다.
+9032,ул боов,올 법,layered_festive_biscuits,올 법(명절 탑 과자),layered festive biscuits,noun,food,신발 밑창 모양 과자를 홀수 층으로 높이 쌓고 위에 하얀 커드와 사탕을 올린 탑.
+9033,гамбир,감비르,pan_fried_flatbread,감비르(얇은 부침빵),pan-fried flatbread,noun,food,팬에 구운 얇고 둥근 빵을 여러 겹 접어 담고 버터를 얹는다.
+9034,боорцог,버르척,fried_dough_pieces,버르척(작은 튀김 과자),fried dough pieces,noun,food,네모·마름모로 자른 반죽을 튀긴 노릇한 조각들을 바구니에 수북이.
+9035,талх,탈흐,bread,탈흐(빵),bread,noun,food,갈색 껍질의 둥근 빵 한 덩이를 썰어 단면이 보이게 둔다.
+9036,жигнэмэг,지그네멕,biscuits,지그네멕(비스킷),biscuits,noun,food,네모난 비스킷 여러 장을 접시에 겹친다.
+9037,зутан,조탕,flour_and_milk_porridge,조탕(밀가루 우유죽),flour and milk porridge,noun,food,볶은 밀가루를 우유차에 풀어 끓인 연갈색 죽을 사발에.
+9038,шарсан мах,사르상 마흐,grilled_meat,사르상 마흐(구운 고기),grilled meat,noun,food,꼬치나 철판에 구운 고기 조각들을 접시에 담고 양파를 곁들인다.
+9039,элэг,에렉,grilled_liver,에렉(간 구이),grilled liver,noun,food,얇게 썰어 구운 짙은 갈색 간 조각들을 접시에 놓는다.
+9040,цөцгий,츠츠기,sour_cream,츠츠기(사워크림),sour cream,noun,food,"작은 그릇에 담긴 하얀 사워크림, 숟가락이 꽂혀 있다."
+9041,сүү,수,milk,수(우유),milk,noun,food,하얀 우유를 유리컵에 가득.
+9042,цагаан будаа,차강 보다,white_rice,차강 보다(흰쌀밥),white rice,noun,food,하얀 쌀밥을 둥근 그릇에 봉긋하게.
+9043,чацарганы шүүс,차차르가니 수스,sea_buckthorn_juice,차차르가니 수스(비타민나무 열매 주스),sea buckthorn juice,noun,food,"선명한 주황색 주스를 유리잔에 담고, 작은 주황 열매가 달린 가지를 곁에 둔다."
+9044,гоймон,거이멍,noodles,거이멍(국수),noodles,noun,food,삶은 가는 국수를 사발에 담고 고기 몇 점을 얹는다.
+9045,ногоотой хуурга,너거터이 호르가,stir_fried_meat_and_vegetables,너거터이 호르가(채소 고기 볶음),stir-fried meat and vegetables,noun,food,고기·양배추·당근·피망을 볶아 접시에 담은 알록달록한 볶음.
+9046,шөлтэй банш,슬테 방시,dumpling_soup,슬테 방시(만둣국),dumpling soup,noun,food,"사발에 맑은 국물과 작은 만두 여러 개, 위에 송송 썬 파."
+9047,ороомог,어러먹,meat_roll,어러먹(고기 말이 빵),meat roll,noun,food,고기 속을 말아 찐 빵을 썰어 소용돌이 단면이 보이게 접시에.
+9048,зайрмаг,제르막,ice_cream,제르막(아이스크림),ice cream,noun,food,콘이나 작은 컵에 담긴 하얀 아이스크림.
+9049,бал,발,honey,발(꿀),honey,noun,food,"작은 유리병에 담긴 노란 꿀, 나무 막대가 꽂혀 있다."
+9050,чихэр,치헤르,candy,치헤르(사탕),candy,noun,food,포장지에 싼 알록달록한 사탕을 작은 그릇에.

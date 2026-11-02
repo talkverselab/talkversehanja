@@ -1,0 +1,168 @@
+rank,word,reading,romaji,ko,en,pos,level,scene_hint
+73,pani,,lady,(여자분) 부인,lady,noun,R1,
+150,ludzie,,people,사람들,people,noun,R1,
+157,dzień,,day,낮/날,day,noun,R1,
+216,iść,,go,가다,go,verb,R1,
+256,zobaczyć,,see,보다,see,verb,R1,
+348,spójrz,,look,봐라,look,verb,R1,
+403,facet,,guy,남자/녀석,guy,noun,R1,
+454,telefon,,phone,전화/휴대폰,phone,noun,R1,
+570,godziny,,hour,시간/시간의,hour,noun,R1,
+604,ziemi,,earth,땅의/지구의,earth,noun,R1,
+606,panowie,,gentleman,신사 여러분,gentleman,noun,R1,
+663,brat,,brother,형제,brother,noun,R1,
+672,wieczór,,evening,저녁,evening,noun,R2,
+699,miasta,,city,도시의,city,noun,R2,
+733,szybciej,,faster,더 빨리,faster,adv,R2,
+761,kapitanie,,captain,선장님,captain,noun,R2,
+794,pogadać,,chat,수다 떨다,chat,verb,R2,
+826,odejść,,leave,떠나다,leave,verb,R2,
+851,roboty,,robot,로봇/일,robot,noun,R2,
+874,siostra,,sister,누나/자매,sister,noun,R2,
+886,gówno,,shit,똥,shit,noun,R2,
+957,panno,,miss,아가씨,miss,noun,R2,
+971,gość,,guest,손님,guest,noun,R2,
+1018,panem,,mister,신사/씨(와),mister,noun,R2,
+1039,jedzenie,,food,음식,food,noun,R2,
+1050,włosy,,hair,머리카락,hair,noun,R2,
+1063,kolację,,dinner,저녁 식사를,dinner,noun,R2,
+1069,nogi,,leg,다리,leg,noun,R2,
+1072,sądzie,,court,법원에,court,noun,R2,
+1088,cel,,goal,목표,goal,noun,R2,
+1136,szczęśliwy,,happy,행복한,happy,adj,R2,
+1142,hotelu,,hotel,호텔의,hotel,noun,R2,
+1170,rodziców,,parent,부모의,parent,noun,R3,
+1178,łóżka,,bed,침대의,bed,noun,R3,
+1190,prezent,,gift,선물,gift,noun,R3,
+1217,wysoki,,tall,키 큰,tall,adj,R3,
+1227,obiad,,lunch,점심/정찬,lunch,noun,R3,
+1245,martwy,,dead,죽은,dead,adj,R3,
+1287,tyłek,,butt,엉덩이,butt,noun,R3,
+1304,przejść,,pass,지나가다,pass,verb,R3,
+1330,dzieciaki,,kids,아이들,kids,noun,R3,
+1342,wstawaj,,get_up,일어나,get up,verb,R3,
+1388,laboratorium,,laboratory,실험실,laboratory,noun,R3,
+1421,koło,,wheel,바퀴/근처,wheel,noun,R3,
+1432,zniszczyć,,destroy,파괴하다,destroy,verb,R3,
+1434,budynku,,building,건물,building,noun,R3,
+1437,ślady,,trace,흔적/발자국,trace,noun,R3,
+1505,znak,,sign,표지/신호,sign,noun,R3,
+1506,samolot,,airplane,비행기,airplane,noun,R3,
+1509,kuchni,,kitchen,부엌,kitchen,noun,R3,
+1514,kawałek,,piece,조각,piece,noun,R3,
+1516,chory,,sick,아픈,sick,adj,R3,
+1561,mamą,,mom,엄마와,mom,noun,R3,
+1571,kości,,bone,뼈,bone,noun,R3,
+1578,kraj,,country,나라,country,noun,R3,
+1588,wyjścia,,exit,출구,exit,noun,R3,
+1591,krok,,step,걸음,step,noun,R3,
+1601,podróż,,trip,여행,trip,noun,R3,
+1603,agent,,agent,요원,agent,noun,R3,
+1605,śniadanie,,breakfast,아침 식사,breakfast,noun,R3,
+1614,grupa,,group,그룹,group,noun,R3,
+1626,uciekaj,,run_away,도망가,run away,verb,R3,
+1641,kolej,,railway,철도/차례,railway,noun,R3,
+1648,kasę,,cash,돈/현금을,cash,noun,R3,
+1657,prezydent,,president,대통령,president,noun,R3,
+1668,karty,,card,카드,card,noun,R3,
+1754,liście,,leaf,잎들,leaf,noun,R3,
+1770,dziewczynka,,little_girl,여자아이,little girl,noun,R3,
+1775,oglądać,,watch,보다/시청하다,watch,verb,R3,
+1831,poruczniku,,lieutenant,중위님,lieutenant,noun,R3,
+1837,telewizji,,television,텔레비전,television,noun,R3,
+1843,głodny,,hungry,배고픈,hungry,adj,R3,
+1845,odłóż,,put_down,내려놓아라,put down,verb,R3,
+1854,sali,,hall,홀/방,hall,noun,R3,
+1892,widok,,view,경치/광경,view,noun,R3,
+1897,prowadzić,,drive,운전하다/이끌다,drive,verb,R3,
+1919,rzuć,,throw,던져라,throw,verb,R3,
+1933,nóż,,knife,칼,knife,noun,R3,
+1943,jasna,,bright,밝은(여성형),bright,adj,R3,
+1954,gliny,,cop,경찰(속어),cop,noun,R3,
+1973,sklepu,,shop,가게의,shop,noun,R3,
+1982,dzwoni,,ring,전화한다/울린다,ring,verb,R3,
+2017,sierżancie,,sergeant,중사님,sergeant,noun,R3,
+2045,zamknięte,,closed,닫힌,closed,adj,R3,
+2049,restauracji,,restaurant,식당,restaurant,noun,R3,
+2076,łódź,,boat,배,boat,noun,R3,
+2081,dokumenty,,document,서류,document,noun,R3,
+2102,język,,language,언어/혀,language,noun,R3,
+2115,babcia,,grandmother,할머니,grandmother,noun,R3,
+2176,zmęczony,,tired,피곤한,tired,adj,R3,
+2179,klubu,,club,클럽의,club,noun,R3,
+2181,komputer,,computer,컴퓨터,computer,noun,R3,
+2189,pociąg,,train,기차,train,noun,R3,
+2211,tatuś,,daddy,아빠,daddy,noun,R3,
+2226,alarm,,alarm,경보,alarm,noun,R3,
+2227,filmu,,film,영화의,film,noun,R3,
+2239,śmieci,,trash,쓰레기,trash,noun,R3,
+2254,strzał,,shot,발사/총성,shot,noun,R3,
+2259,dziadek,,grandfather,할아버지,grandfather,noun,R3,
+2261,wóz,,cart,수레/차,cart,noun,R3,
+2303,zadowolony,,satisfied,만족한,satisfied,adj,R3,
+2321,większe,,bigger,더 큰,bigger,adj,R3,
+2345,wino,,wine,와인,wine,noun,R3,
+2349,kotku,,kitten,아가/고양이(애칭),kitten,noun,R3,
+2363,stóp,,foot,발들의,foot,noun,R3,
+2388,ranny,,wounded,부상당한,wounded,adj,R3,
+2390,zęby,,tooth,치아들,tooth,noun,R3,
+2401,czysto,,clean,깨끗하게,clean,adv,R3,
+2417,stole,,table,탁자에서,table,noun,R3,
+2424,jazdy,,driving,운전/주행의,driving,noun,R3,
+2426,armii,,army,군대의,army,noun,R3,
+2434,kieszeni,,pocket,주머니의,pocket,noun,R3,
+2435,piłkę,,ball,공을,ball,noun,R3,
+2448,spodnie,,pants,바지,pants,noun,R3,
+2453,pole,,field,들판/분야,field,noun,R3,
+2476,kościoła,,church,교회의,church,noun,R3,
+2488,pijany,,drunk,취한,drunk,adj,R3,
+9001,pierogi,,dumplings,피에로기(폴란드 만두),dumplings,noun,food,반달 모양의 하얀 만두 여러 개를 접시에 담고 위에 노릇하게 볶은 양파와 바삭한 베이컨 조각을 뿌린다.
+9002,pierogi ruskie,,potato_dumplings,감자치즈 피에로기,potato dumplings,noun,food,감자와 흰 치즈로 속을 채운 반달 만두를 버터에 살짝 굽고 볶은 양파와 사워크림 한 숟갈을 곁들인다.
+9003,żurek,,sour_rye_soup,주렉(호밀 발효 수프),sour rye soup,noun,food,빵을 파낸 둥근 빵 그릇에 뽀얀 회색빛 수프를 담고 반으로 자른 삶은 달걀과 하얀 소시지 조각을 띄운다.
+9004,barszcz czerwony,,beet_soup,빨간 비트 수프,beet soup,noun,food,진한 자주빛 맑은 비트 수프를 손잡이 달린 컵에 담고 옆에 작은 만두(우슈카) 몇 개를 곁들인다.
+9005,bigos,,hunter_s_stew,비고스(양배추 고기 찜),hunter's stew,noun,food,짙은 갈색으로 졸인 양배추 절임과 소시지·고기 조각을 깊은 그릇에 담고 호밀빵 한 조각을 곁들인다.
+9006,gołąbki,,cabbage_rolls,고웡프키(양배추 롤),cabbage rolls,noun,food,고기와 쌀을 양배추 잎으로 감싼 롤 세 개를 접시에 담고 붉은 토마토 소스를 끼얹는다.
+9007,kotlet schabowy,,pork_cutlet,돈가스식 돼지 커틀릿,pork cutlet,noun,food,"넓적하게 튀긴 황금빛 돼지고기 커틀릿에 삶은 감자와 딜, 하얀 크림 오이 샐러드를 곁들인다."
+9008,placki ziemniaczane,,potato_pancakes,감자전,potato pancakes,noun,food,노릇하게 부친 둥근 감자전 세 장을 겹쳐 놓고 위에 사워크림 한 숟갈을 올린다.
+9009,rosół,,chicken_soup,로수우(맑은 닭고기 수프),chicken soup,noun,food,"맑은 금빛 닭 육수에 가는 국수와 동그란 당근 조각, 초록 파슬리를 띄운 흰 수프 접시."
+9010,zapiekanka,,toasted_baguette,자피에칸카(오픈 바게트 피자),toasted baguette,noun,food,반으로 가른 긴 바게트에 버섯과 녹은 치즈를 올려 굽고 위에 케첩을 지그재그로 뿌린다.
+9011,oscypek,,smoked_cheese,오스치펙(훈제 양젖 치즈),smoked cheese,noun,food,무늬가 찍힌 갈색 방추형 훈제 치즈를 구워 썰고 빨간 크랜베리 잼을 곁들인다.
+9012,obwarzanek,,ring_bread,오브바자넥(크라쿠프 링 빵),ring bread,noun,food,꼬아서 만든 링 모양 빵 위에 깨나 양귀비 씨를 뿌리고 노점 막대에 걸어 둔다.
+9013,pączek,,doughnut,폰체크(폴란드 도넛),doughnut,noun,food,설탕 아이싱을 입힌 동그란 도넛 위에 오렌지 껍질 조각을 뿌리고 반을 잘라 장미잼 속을 보인다.
+9014,sernik,,cheesecake,세르닉(치즈케이크),cheesecake,noun,food,연노랑 네모난 치즈케이크 조각을 접시에 담고 위에 슈가파우더를 살짝 뿌린다.
+9015,szarlotka,,apple_cake,샤를로트카(사과 파이),apple cake,noun,food,사과가 층층이 든 네모난 파이 조각 위에 슈가파우더와 바닐라 아이스크림 한 스쿱을 올린다.
+9016,makowiec,,poppy_seed_roll,마코비에츠(양귀비씨 롤케이크),poppy seed roll,noun,food,검은 양귀비씨 소용돌이가 보이는 롤케이크 단면에 하얀 아이싱과 오렌지 껍질을 얹는다.
+9017,kiełbasa,,sausage,키에우바사(소시지),sausage,noun,food,굵은 훈제 소시지를 그릴에 구워 칼집을 내고 겨자와 호밀빵을 곁들인다.
+9018,kaszanka,,blood_sausage,카샨카(선지 소시지),blood sausage,noun,food,짙은 갈색 소시지를 구워 볶은 양파와 함께 접시에 담고 피클 한 개를 곁들인다.
+9019,golonka,,pork_knuckle,골론카(족발 구이),pork knuckle,noun,food,껍질이 바삭한 큰 돼지 족 한 덩이를 나무 도마에 올리고 양배추 절임과 고추냉이 소스를 곁들인다.
+9020,naleśniki,,crepes,날레시니키(크레이프),crepes,noun,food,얇은 크레이프를 삼각으로 접어 하얀 치즈 속을 넣고 딸기 소스와 생크림을 올린다.
+9021,racuchy,,apple_pancakes,라추히(사과 팬케이크),apple pancakes,noun,food,작고 도톰한 팬케이크 여러 장에 사과 조각이 박혀 있고 슈가파우더를 뿌린다.
+9022,kopytka,,potato_gnocchi,코피트카(감자 뇨키),potato gnocchi,noun,food,마름모꼴 감자 뇨키를 버터에 버무리고 바삭한 빵가루와 볶은 양파를 올린다.
+9023,kluski śląskie,,potato_dumplings,실롱스크 감자 경단,potato dumplings,noun,food,가운데가 움푹 들어간 하얀 감자 경단을 접시에 담고 갈색 고기 그레이비를 끼얹는다.
+9024,pyzy,,potato_balls,피지(큰 감자 경단),potato balls,noun,food,큰 공 모양 감자 경단 두 개를 그릇에 담고 볶은 베이컨 조각을 뿌린다.
+9025,gulasz,,goulash,굴라시(고기 스튜),goulash,noun,food,붉은 파프리카 소스에 깍둑 썬 소고기를 졸여 감자전 위에 얹는다.
+9026,flaki,,tripe_soup,플라키(소 내장 수프),tripe soup,noun,food,주황빛 맑은 국물에 가늘게 썬 내장과 당근을 넣고 마조람을 뿌린 그릇에 빵을 곁들인다.
+9027,śledź w śmietanie,,herring_in_cream,크림 청어,herring in cream,noun,food,하얀 사워크림 소스에 버무린 청어 조각과 사과·양파 조각을 작은 접시에 담고 딜을 올린다.
+9028,karp,,fried_carp,잉어 요리,fried carp,noun,food,빵가루를 입혀 튀긴 잉어 토막을 접시에 담고 레몬 조각과 감자를 곁들인다.
+9029,pstrąg,,grilled_trout,송어 구이,grilled trout,noun,food,통째로 구운 송어에 레몬과 허브 버터를 올리고 감자를 곁들인다.
+9030,mizeria,,cucumber_salad,미제리아(크림 오이 샐러드),cucumber salad,noun,food,얇게 썬 오이를 사워크림과 딜에 버무려 작은 유리 그릇에 담는다.
+9031,surówka z marchwi,,carrot_salad,당근 샐러드,carrot salad,noun,food,곱게 채 썬 주황 당근과 사과를 버무린 상큼한 샐러드를 작은 그릇에 담는다.
+9032,sałatka jarzynowa,,vegetable_salad,야채 마요 샐러드,vegetable salad,noun,food,깍둑 썬 감자·당근·완두콩·피클을 마요네즈로 버무려 둥그렇게 담는다.
+9033,kapuśniak,,cabbage_soup,양배추 수프,cabbage soup,noun,food,양배추 절임과 감자가 든 연한 노란 수프를 그릇에 담고 딜을 뿌린다.
+9034,grochówka,,pea_soup,완두콩 수프,pea soup,noun,food,걸쭉한 노란 완두콩 수프에 소시지 조각을 넣어 군용 냄비 모양 그릇에 담는다.
+9035,chłodnik,,cold_beet_soup,흐워드닉(차가운 분홍 수프),cold beet soup,noun,food,선명한 분홍색 차가운 수프에 오이·래디시·딜과 반 자른 삶은 달걀을 띄운다.
+9036,zupa grzybowa,,mushroom_soup,버섯 수프,mushroom soup,noun,food,크림빛 갈색 수프에 버섯 조각이 떠 있고 위에 사워크림을 한 숟갈 올린다.
+9037,kaszotto,,buckwheat_risotto,메밀 리소토,buckwheat risotto,noun,food,갈색 메밀 알곡을 버섯과 함께 크림처럼 졸여 접시에 담고 파슬리를 뿌린다.
+9038,kasza gryczana,,buckwheat_groats,메밀 카샤,buckwheat groats,noun,food,윤기 나는 갈색 메밀 알곡을 그릇에 담고 버터 한 조각을 올린다.
+9039,chleb żytni,,rye_bread,호밀빵,rye bread,noun,food,껍질이 짙은 둥근 호밀빵을 도마 위에서 두툼하게 썰어 버터를 곁들인다.
+9040,bułka z masłem,,bread_roll,버터 바른 빵,bread roll,noun,food,갈라진 하얀 롤빵에 버터를 바르고 햄과 토마토 조각을 끼운다.
+9041,twaróg,,farmer_s_cheese,트바루그(흰 치즈),farmer's cheese,noun,food,부슬부슬한 흰 치즈에 래디시와 파를 썰어 넣고 호밀빵 위에 바른다.
+9042,ogórki kiszone,,pickled_cucumbers,오이 피클,pickled cucumbers,noun,food,"유리병 속에 딜과 마늘과 함께 담근 초록 오이 피클, 한 개를 꺼내 접시에 올린다."
+9043,kompot,,fruit_drink,콤포트(과일 음료),fruit drink,noun,food,유리잔에 담긴 붉은 과일 음료 안에 체리와 사과 조각이 떠 있다.
+9044,herbata z cytryną,,lemon_tea,레몬 홍차,lemon tea,noun,food,유리잔에 담긴 맑은 홍차에 레몬 한 조각을 띄우고 각설탕 두 개를 곁들인다.
+9045,gorąca czekolada,,hot_chocolate,핫초코,hot chocolate,noun,food,두꺼운 잔에 담긴 진한 핫초코 위에 생크림을 올리고 코코아 가루를 뿌린다.
+9046,kremówka,,cream_pie,크레무프카(크림 페이스트리),cream pie,noun,food,바삭한 페이스트리 두 장 사이에 두툼한 바닐라 크림을 넣은 네모 조각에 슈가파우더를 뿌린다.
+9047,faworki,,angel_wings,파보르키(엔젤윙 과자),angel wings,noun,food,리본처럼 꼬아 튀긴 얇은 과자 여러 개를 접시에 쌓고 슈가파우더를 듬뿍 뿌린다.
+9048,pierniki,,gingerbread,피에르니키(생강빵 쿠키),gingerbread,noun,food,하트·별 모양 갈색 생강빵 쿠키에 하얀 아이싱 무늬를 그린다.
+9049,krówki,,milk_fudge,크루프키(우유 캐러멜),milk fudge,noun,food,"종이에 싸인 네모난 연갈색 우유 캐러멜 몇 개, 하나는 포장을 벗겨 보인다."
+9050,lody,,ice_cream,아이스크림,ice cream,noun,food,와플 콘에 바닐라·딸기 두 스쿱을 올린 아이스크림.
