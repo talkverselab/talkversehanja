@@ -1,0 +1,244 @@
+rank,word,reading,romaji,ko,en,pos,level,scene_hint
+76,الناس,인나스,people,사람들,people,noun,R1,
+115,بص,부스,look,봐,to look,verb,R1,
+135,ماما,마마,mom,엄마,mom,noun,R1,
+213,ساعة,사아,clock,시계; 시간,clock,noun,R1,
+215,أمي,옴미,my_mother,우리 엄마,my mother,noun,R1,
+222,ست,싯트,lady,"여자, 부인",lady,noun,R1,
+275,أمك,옴막,your_mother,네 엄마,your mother,noun,R1,
+320,ابني,이브니,my_son,내 아들,my son,noun,R1,
+326,صاحبي,사흐비,my_friend,내 친구,my friend,noun,R1,
+340,إيدك,이닥,your_hand,네 손,your hand,noun,R1,
+366,بنتي,빈티,my_daughter,내 딸,my daughter,noun,R1,
+376,البنات,일바낫,girls,소녀들,girls,noun,R1,
+414,الأرض,일아르드,earth,"땅, 지구",earth,noun,R1,
+426,أخويا,아쿠야,my_brother,내 형제,my brother,noun,R1,
+437,خايف,카이프,afraid,무서워하는,afraid,adj,R1,
+438,هات,하트,give_me,줘,give me,verb,R1,
+449,سعيد,사이드,happy,행복한,happy,adj,R1,
+451,بطل,바탈,hero,영웅,hero,noun,R1,
+467,أبويا,아부야,my_father,우리 아빠,my father,noun,R1,
+472,شباب,샤바브,young_people,젊은이들,young people,noun,R1,
+477,قوم,움,get_up,일어나,to get up,verb,R1,
+508,رجالة,리갈라,men,남자들,men,noun,R1,
+570,عيني,에니,my_eye,내 눈,my eye,noun,R1,
+596,بتكلم,바트칼림,i_m_talking,말하고 있다,I'm talking,verb,R1,
+600,تروح,티루흐,go,가다,to go,verb,R1,
+617,إيدي,이디,my_hand,내 손,my hand,noun,R1,
+620,شيخ,셰크,sheikh,셰이크(어르신),sheikh,noun,R1,
+628,بيتي,베티,my_house,내 집,my house,noun,R1,
+632,قلبي,알비,my_heart,내 마음,my heart,noun,R1,
+635,أبوك,아부크,your_father,네 아빠,your father,noun,R1,
+645,نمشي,님쉬,let_s_go,우리가 가다,let's go,verb,R2,
+646,العيال,일아얄,kids,아이들,kids,noun,R2,
+662,صراخ,수라크,screaming,비명,screaming,noun,R2,
+674,وشك,위샥,your_face,네 얼굴,your face,noun,R2,
+728,مساء,마사,evening,저녁,evening,noun,R2,
+741,قاعد,아에드,sitting,앉아 있는,sitting,verb,R2,
+743,أكل,아클,food,음식(먹기),food,noun,R2,
+751,بيتك,베탁,your_house,네 집,your house,noun,R2,
+762,القيصر,일에사르,emperor,황제,emperor,noun,R2,
+774,دماغك,디마각,your_head,네 머리,your head,noun,R2,
+780,مراتي,미라티,my_wife,내 아내,my wife,noun,R2,
+787,واقف,와에프,standing,서 있는,standing,verb,R2,
+788,خمس,캄스,five,다섯,five,num,R2,
+796,تشوف,티슈프,see,보다,to see,verb,R2,
+799,الحمام,일하맘,bathroom,화장실,bathroom,noun,R2,
+825,الستات,잇싯타트,women,여자들,women,noun,R2,
+828,الفل,일풀,jasmine,재스민(최고),jasmine,noun,R2,
+842,أميرة,아미라,princess,공주,princess,noun,R2,
+848,المدينة,일마디나,city,도시,city,noun,R2,
+850,نهار,나하르,daytime,낮,daytime,noun,R2,
+864,أختي,오크티,my_sister,내 자매,my sister,noun,R2,
+875,السلطان,잇술탄,sultan,술탄,sultan,noun,R2,
+885,الحيوانات,일하야와나트,animals,동물들,animals,noun,R2,
+887,الأمير,일아미르,prince,왕자,prince,noun,R2,
+913,طويل,타윌,tall,긴·키 큰,tall,adj,R2,
+925,جنيه,기네,pound,파운드(화폐),pound (money),noun,R2,
+941,بكاء,부카,crying,울음,crying,noun,R2,
+979,بنتك,빈탁,your_daughter,네 딸,your daughter,noun,R2,
+1012,وشي,위쉬,my_face,내 얼굴,my face,noun,R3,
+1015,لابس,라베스,wearing,입고 있는,wearing,verb,R3,
+1019,ابنك,이브낙,your_son,네 아들,your son,noun,R3,
+1025,ضحك,디히크,laughed,웃었다,laughed,verb,R3,
+1032,السرير,잇사리르,bed,침대,bed,noun,R3,
+1052,بيتكلم,비이트칼림,talking,말하고 있다,talking,verb,R3,
+1060,الفرعون,일파르온,pharaoh,파라오,pharaoh,noun,R3,
+1075,هدية,하데야,gift,선물,gift,noun,R3,
+1076,بشر,바샤르,humans,인간,humans,noun,R3,
+1084,جرو,기루,puppy,강아지,puppy,noun,R3,
+1088,مراتك,마라탁,your_wife,네 아내,your wife,noun,R3,
+1127,اختبار,이크티바르,test,시험,test,noun,R3,
+1134,محل,마할,shop,가게,shop,noun,R3,
+1144,عينك,에낙,your_eye,네 눈,your eye,noun,R3,
+1150,قلبك,알바크,your_heart,네 마음,your heart,noun,R3,
+1151,القلعة,일알아,castle,성,castle,noun,R3,
+1163,العمال,일우말,workers,일꾼들,workers,noun,R3,
+1166,ستي,시티,grandmother,할머니,grandmother,noun,R3,
+1169,الجو,익가우,weather,날씨,weather,noun,R3,
+1177,جوزي,고지,my_husband,내 남편,my husband,noun,R3,
+1179,اصحاب,아스하브,friends,친구들,friends,noun,R3,
+1181,جهاز,기하즈,device,기기·장치,device,noun,R3,
+1187,طرق,토로아,roads,길들,roads,noun,R3,
+1195,أختك,오크탁,your_sister,네 자매,your sister,noun,R3,
+1209,خايفة,카이파,scared,무서워하는(여),scared,adj,R3,
+1210,وقعت,위이트,fell,떨어졌다,fell,verb,R3,
+1228,زئير,자이르,roar,포효,roar,noun,R3,
+1277,حط,핫트,put,놓다,to put,verb,R3,
+1290,تعبان,타으반,tired,피곤한,tired,adj,R3,
+1295,ظابط,자비트,officer,장교,officer,noun,R3,
+1306,كاس,카스,cup,잔,cup,noun,R3,
+1312,لعبة,레바,toy,장난감,toy,noun,R3,
+1321,شرطية,쇼르테야,policewoman,여경찰,policewoman,noun,R3,
+1324,غني,가니,rich,부자,rich,adj,R3,
+1373,الكلاب,일킬랍,dogs,개들,dogs,noun,R3,
+1398,الشنطة,잇샨타,bag,가방,bag,noun,R3,
+1402,أربع,아르바,four,넷,four,num,R3,
+1408,مشي,미시,walked,갔다/걸었다,walked,verb,R3,
+1411,شاب,샵,young_man,청년,young man,noun,R3,
+1414,إيده,이도,his_hand,그의 손,his hand,noun,R3,
+1417,شاي,샤이,tea,차,tea,noun,R3,
+1418,القصر,일아스르,palace,궁전,palace,noun,R3,
+1419,صور,소와르,photos,사진들,photos,noun,R3,
+1423,نايم,나임,sleeping,자는,sleeping,adj,R3,
+1460,الجيش,일게시,army,군대,army,noun,R3,
+1466,القسم,일이슴,police_station,경찰서,police station,noun,R3,
+1471,علم,알람,flag,깃발,flag,noun,R3,
+1484,زعلان,자알란,upset,속상한,upset,adj,R3,
+1487,عينيك,에네크,your_eyes,너의 눈,your eyes,noun,R3,
+1519,حامل,하멜,pregnant,임신한,pregnant,adj,R3,
+1568,الفجر,일파그르,dawn,새벽,dawn,noun,R3,
+1588,جعان,가안,hungry,배고픈,hungry,adj,R3,
+1621,الساحل,잇사헬,coast,해안,coast,noun,R3,
+1626,رعد,라아드,thunder,천둥,thunder,noun,R3,
+1651,عالي,알리,high,높은,high,adj,R3,
+1655,عينيا,에네야,my_eyes,내 눈,my eyes,noun,R3,
+1659,شعر,샤르,hair,머리카락,hair,noun,R3,
+1660,السوق,잇수,market,시장,market,noun,R3,
+1663,نام,남,slept,잤다,slept,verb,R3,
+1694,ورد,와르드,rose,장미,rose,noun,R3,
+1704,خنزير,칸지르,pig,돼지,pig,noun,R3,
+1729,المركب,일마르캅,boat,배,boat,noun,R3,
+1733,ايس,아이스,ice,얼음,ice,noun,R3,
+1777,روب,로브,robe,가운,robe,noun,R3,
+1779,أرض,아르드,ground,땅,ground,noun,R3,
+1789,معسكر,모아스카르,camp,캠프,camp,noun,R3,
+1792,هاتف,하티프,phone,전화기,phone,noun,R3,
+1799,السلم,잇실림,stairs,계단,stairs,noun,R3,
+1801,العسل,일아살,honey,꿀,honey,noun,R3,
+1815,كوكيي,쿠키,cookie,쿠키,cookie,noun,R3,
+1823,الراديو,일라디유,radio,라디오,radio,noun,R3,
+1846,أجازة,아가자,vacation,휴가,vacation,noun,R3,
+1857,رجلك,리글락,your_leg,네 다리,your leg,noun,R3,
+1862,نمت,님트,i_slept,잤다,I slept,verb,R3,
+1864,عريس,아리스,groom,신랑,groom,noun,R3,
+1865,سته,싯타,six,6,six,num,R3,
+1919,مامي,마미,mommy,엄마,mommy,noun,R3,
+1933,أخو,아쿠,brother,~의 형제,brother,noun,R3,
+1935,ماشيين,마시인,walking,가고 있는(복수),walking,adj,R3,
+1937,العجوز,일아구즈,old_man,노인,old man,noun,R3,
+1944,البيتزا,일비짜,pizza,피자,pizza,noun,R3,
+1952,روضة,라우다,kindergarten,유치원,kindergarten,noun,R3,
+1983,راسي,라시,my_head,내 머리,my head,noun,R3,
+2026,بيتنا,베이티나,our_house,우리 집,our house,noun,R3,
+2032,إنسان,인산,human,인간,human,noun,R3,
+2036,العسكري,일아스카리,soldier,군인,soldier,noun,R3,
+2043,الألماظ,일알마즈,diamond,다이아몬드,diamond,noun,R3,
+2053,الكرسي,일쿠르시,chair,의자,chair,noun,R3,
+2054,رجلي,리글리,my_leg,내 다리,my leg,noun,R3,
+2069,وشه,위샤,his_face,그의 얼굴,his face,noun,R3,
+2075,هدومك,후두막,your_clothes,네 옷,your clothes,noun,R3,
+2078,العشاء,일아샤,dinner,저녁 식사,dinner,noun,R3,
+2088,الحكم,일하캄,referee,심판,referee,noun,R3,
+2089,حمار,후마르,donkey,당나귀,donkey,noun,R3,
+2103,مشيت,미쉬트,leave,걸었다/떠났다,to leave,verb,R3,
+2104,الورق,일와라으,paper,그 종이,paper,noun,R3,
+2121,سن,신,tooth,이(치아)/나이,tooth,noun,R3,
+2123,القلم,일알람,pen,그 펜,pen,noun,R3,
+2126,الفستان,일페스탄,dress,그 드레스,dress,noun,R3,
+2155,خطوة,하트와,step,걸음,step,noun,R3,
+2168,اللعب,일리압,playing,놀이,playing,noun,R3,
+2172,مسدس,무사다스,pistol,권총,pistol,noun,R3,
+2177,ساحرة,사흐라,witch,마녀,witch,noun,R3,
+2205,سحر,시흐르,magic,마법,magic,noun,R3,
+2211,ممثل,뭄쌀,actor,배우,actor,noun,R3,
+2212,حارس,하리스,guard,경비원,guard,noun,R3,
+2219,يرن,이린,ring,울리다(벨),to ring,verb,R3,
+2233,ارتطام,이르티뜀,crash,충돌,crash,noun,R3,
+2254,حبوب,후붑,pills,알약,pills,noun,R3,
+2272,فاضي,파디,empty,비어 있는/한가한,empty,adj,R3,
+2280,الأكبر,일아크바르,biggest,가장 큰,biggest,adj,R3,
+2288,جد,가드,grandfather,할아버지/진지함,grandfather,noun,R3,
+2313,المحكمة,일마흐카마,court,그 법원,court,noun,R3,
+2314,ديك,디크,rooster,수탉/저것,rooster,noun,R3,
+2344,مكالمة,무칼마,phone_call,통화,phone call,noun,R3,
+2356,بالنار,빈나르,with_fire,불로,with fire,noun,R3,
+2361,صلي,살리,pray,기도해,pray,verb,R3,
+2365,المطبخ,일마트바크,kitchen,부엌,kitchen,noun,R3,
+2368,المدير,일무디르,manager,그 관리자,manager,noun,R3,
+2372,تنين,티닌,dragon,용,dragon,noun,R3,
+2377,أعمى,아아마,blind,눈먼,blind,adj,R3,
+2378,الجزمة,익가즈마,shoe,그 구두,shoe,noun,R3,
+2388,نقطة,누아따,dot,점,dot,noun,R3,
+2391,السلطة,잇살라타,salad,샐러드,salad,noun,R3,
+2394,العربيات,일아라비야트,cars,그 차들,cars,noun,R3,
+2399,بيوت,비유트,houses,집들,houses,noun,R3,
+2444,راقصة,라아싸,dancer,무용수,dancer,noun,R3,
+2448,وحزينة,와하지나,and_sad,그리고 슬픈,and sad,adj,R3,
+2449,هطول,후툴,rainfall,(비)내림,rainfall,noun,R3,
+2451,اهرب,이흐랍,run_away,도망쳐,run away,verb,R3,
+2466,مطعم,마트암,restaurant,식당,restaurant,noun,R3,
+2483,علامة,알라마,sign,표시,sign,noun,R3,
+2485,مبنى,마브나,building,건물,building,noun,R3,
+2488,صلاة,살라,prayer,기도,prayer,noun,R3,
+2493,الوحش,일와흐쉬,monster,그 괴물,monster,noun,R4,
+9001,عيش بلدي,에이시 발라디,egyptian_flatbread,에이시 발라디(통밀 납작빵),Egyptian flatbread,noun,food,속이 부풀어 오른 둥근 갈색 통밀 납작빵 세 장을 겹쳐 대나무 바구니에 담고 겉에 밀기울 가루가 살짝 묻어 있다.
+9002,فول مدمس,풀 메담미스,stewed_fava_beans,풀 메담미스(잠두콩 스튜),stewed fava beans,noun,food,작은 금속 그릇에 으깬 갈색 잠두콩 스튜를 담고 위에 올리브유를 두르고 쿠민 가루와 다진 토마토·파슬리를 올린다.
+9003,طعمية,타메야,egyptian_falafel,타메야(잠두콩 튀김),Egyptian falafel,noun,food,겉은 짙은 갈색으로 바삭하고 속은 초록빛인 납작한 잠두콩 튀김 여섯 개를 깨를 뿌려 접시에 놓고 반을 갈라 하나를 보여 준다.
+9004,كشري,코샤리,koshari,코샤리(쌀·렌틸·파스타),koshari,noun,food,깊은 그릇에 쌀·갈색 렌틸·짧은 마카로니를 켜켜이 담고 위에 붉은 토마토 소스와 바삭한 갈색 튀긴 양파를 수북이 얹는다.
+9005,ملوخية,몰로케야,molokhia_soup,몰로케야(몰로키아 수프),molokhia soup,noun,food,초록색으로 걸쭉한 몰로키아 잎 수프를 하얀 그릇에 담고 옆에 흰 쌀밥 한 접시와 레몬 조각을 둔다.
+9006,محشي,마하시,stuffed_vegetables,마하시(속 채운 채소),stuffed vegetables,noun,food,쌀을 채운 작은 주키니·피망·가지와 돌돌 만 포도잎을 둥근 냄비 안에 촘촘히 세워 담고 토마토 국물이 살짝 고여 있다.
+9007,محشي ورق عنب,마하시 와라 에납,stuffed_grape_leaves,포도잎 쌈,stuffed grape leaves,noun,food,손가락 굵기로 단단히 만 초록 포도잎 쌈 열두 개를 접시에 나란히 쌓고 레몬 반쪽을 곁들인다.
+9008,حمام محشي,함맘 마하시,stuffed_pigeon,속 채운 비둘기 구이,stuffed pigeon,noun,food,쌀과 밀을 채워 노릇하게 구운 작은 새 두 마리를 하얀 접시에 담고 파슬리 잎을 곁에 놓는다.
+9009,فتة,파타,fatta,파타(빵·밥·고기 요리),fatta,noun,food,오목한 큰 접시에 바삭한 빵 조각 위로 흰 쌀밥을 깔고 마늘 토마토 소스를 두른 뒤 삶은 소고기 덩어리를 올린다.
+9010,ممبار,마므바르,stuffed_sausage_casing,마므바르(쌀 순대),stuffed sausage casing,noun,food,쌀을 채워 노릇하게 튀긴 굵고 긴 순대를 한 입 크기로 잘라 접시에 늘어놓는다.
+9011,كفتة,코프타,grilled_kofta,코프타(다진 고기 꼬치),grilled kofta,noun,food,숯불에 그을린 길쭉한 다진 고기 꼬치 네 개를 납작빵 위에 놓고 구운 토마토와 양파 링을 곁들인다.
+9012,كباب,케밥,kebab,케밥(고기 꼬치구이),kebab,noun,food,숯불 자국이 난 양고기 덩어리 꼬치 세 개를 금속 쟁반에 놓고 다진 파슬리와 양파를 옆에 수북이 담는다.
+9013,شاورما,샤와르마,shawarma,샤와르마,shawarma,noun,food,얇게 썬 구운 닭고기에 하얀 마늘 소스와 피클을 넣고 납작빵에 돌돌 말아 종이로 감싼 롤 두 개를 놓는다.
+9014,حواوشي,하와우시,hawawshi,하와우시(고기 빵),hawawshi,noun,food,다진 고기를 채워 노릇하게 구운 둥근 빵을 반으로 잘라 단면의 붉은 고기 소를 보이게 접시에 놓는다.
+9015,فطير مشلتت,피티르 메샬테트,layered_flaky_pastry,피티르(겹겹 페이스트리),layered flaky pastry,noun,food,얇은 층이 겹겹이 보이는 둥글고 노릇한 큰 페이스트리를 조각내어 쟁반에 놓고 꿀 종지와 흰 치즈 조각을 곁들인다.
+9016,بيض بالبسطرمة,베이드 빌바스티르마,eggs_with_cured_beef,바스티르마 달걀부침,eggs with cured beef,noun,food,작은 무쇠 팬에 붉은 향신료 염장 소고기 조각과 반숙 달걀 두 개를 함께 부쳐 담는다.
+9017,جبنة بيضا,기브나 베이다,white_cheese,흰 치즈,white cheese,noun,food,네모난 하얀 생치즈 덩어리를 접시에 놓고 위에 올리브유를 두르고 붉은 토마토 조각과 고추를 곁들인다.
+9018,جبنة قديمة,기브나 아디마,aged_cheese,숙성 치즈(미시),aged cheese,noun,food,유리 병에 담긴 짙은 노란 숙성 치즈를 작은 그릇에 덜어 놓고 옆에 초록 고추 한 개를 둔다.
+9019,بابا غنوج,바바 가누그,eggplant_dip,바바 가누그(구운 가지 딥),eggplant dip,noun,food,하얀 그릇에 연한 갈색의 으깬 구운 가지 딥을 펴 담고 가운데 올리브유와 석류알을 뿌린다.
+9020,طحينة,타히나,tahini_sauce,타히나(깨 소스),tahini sauce,noun,food,작은 그릇에 크림색의 묽은 깨 소스를 담고 위에 다진 파슬리와 레몬즙을 살짝 뿌린다.
+9021,سلطة بلدي,살라타 발라디,egyptian_salad,이집트식 샐러드,Egyptian salad,noun,food,잘게 깍둑 썬 붉은 토마토·초록 오이·양파·파슬리를 하얀 그릇에 섞어 담고 레몬 조각을 올린다.
+9022,طرشي,토르시,pickled_vegetables,토르시(채소 절임),pickled vegetables,noun,food,유리 병과 작은 접시에 분홍색 순무·당근·고추·오이 절임을 담아 색이 선명하게 보이게 놓는다.
+9023,شوربة عدس,쇼르바트 아츠,lentil_soup,렌틸 수프,lentil soup,noun,food,노란 렌틸 수프를 하얀 그릇에 담고 위에 바삭한 빵 조각과 레몬 조각을 올리고 쿠민 가루를 뿌린다.
+9024,رز بالشعرية,로즈 빌셰레야,rice_with_vermicelli,버미셀리 쌀밥,rice with vermicelli,noun,food,흰 쌀밥 사이사이 노릇하게 볶은 짧은 국수 가닥이 섞인 밥을 둥글게 접시에 담는다.
+9025,مكرونة بشاميل,마카로나 베샤멜,baked_pasta_with_b_chamel,마카로나 베샤멜(그라탱),baked pasta with béchamel,noun,food,네모난 오븐 그릇에서 한 조각을 떠낸 단면으로 아래 파스타·가운데 다진 고기·위 노릇한 하얀 소스 층이 보인다.
+9026,سمك بلطي مشوي,사막 볼티 마슈위,grilled_tilapia,구운 틸라피아,grilled tilapia,noun,food,칼집을 넣어 숯불에 노릇하게 구운 생선 한 마리를 쟁반에 놓고 레몬 조각과 파슬리를 곁들인다.
+9027,سمك صيادية,사막 사야디야,fisherman_s_fish_and_rice,사야디야(생선 덮밥),fisherman's fish and rice,noun,food,갈색으로 볶은 양파 빛 쌀밥 위에 튀긴 흰 살 생선 조각과 볶은 잣을 올린다.
+9028,فسيخ,페시크,fermented_mullet,페시크(삭힌 숭어),fermented mullet,noun,food,은빛 비늘이 있는 염장 생선 한 마리를 접시에 놓고 옆에 초록 파 한 다발과 레몬 조각을 둔다.
+9029,رنجة,렌가,smoked_herring,훈제 청어,smoked herring,noun,food,황금빛으로 훈제한 청어 한 마리를 반으로 갈라 접시에 펴 놓고 레몬과 초록 파를 곁들인다.
+9030,كبدة إسكندراني,케브다 에스켄다라니,alexandrian_liver,알렉산드리아식 간 볶음,Alexandrian liver,noun,food,잘게 썬 소간을 초록 고추·마늘과 함께 볶아 작은 팬에 담고 반으로 가른 빵을 곁에 둔다.
+9031,سجق,소고,spicy_sausage,소고(매운 소시지),spicy sausage,noun,food,짧게 자른 붉은 매운 소시지를 피망·양파와 함께 볶아 작은 팬에 담는다.
+9032,عيش شمسي,에이시 샴시,sun_risen_bread,에이시 샴시(햇볕 발효빵),sun-risen bread,noun,food,가운데가 볼록하게 부푼 둥근 빵 두 개를 짚 쟁반에 놓고 바닥에 밀기울이 묻어 있다.
+9033,بليلة,벨릴라,wheat_milk_pudding,벨릴라(우유 밀죽),wheat milk pudding,noun,food,하얀 그릇에 삶은 통밀 알갱이와 따뜻한 우유를 담고 위에 코코넛 가루·건포도·견과를 뿌린다.
+9034,أم علي,옴 알리,bread_pudding,옴 알리(빵 푸딩),bread pudding,noun,food,둥근 오븐 그릇에 페이스트리 조각과 우유를 넣고 구워 윗면이 노릇하며 견과·건포도·코코넛이 박혀 있다.
+9035,بسبوسة,바스부사,semolina_cake,바스부사(세몰리나 케이크),semolina cake,noun,food,마름모로 자른 노릇한 세몰리나 케이크 조각마다 아몬드 한 알을 박고 시럽으로 윤기가 난다.
+9036,كنافة,코나파,kunafa,코나파,kunafa,noun,food,가는 국수처럼 생긴 금빛 반죽 사이에 크림을 넣어 구운 둥근 디저트를 조각내고 다진 피스타치오를 뿌린다.
+9037,قطايف,아타예프,stuffed_pancakes,아타예프(속 채운 팬케이크),stuffed pancakes,noun,food,반달 모양으로 접어 견과를 채운 작은 팬케이크 여섯 개를 시럽을 둘러 접시에 쌓는다.
+9038,زلابية,잘라비야,syrup_soaked_dough_balls,잘라비야(꿀 도넛),syrup-soaked dough balls,noun,food,동그랗고 노릇하게 튀긴 작은 반죽 공들을 시럽으로 반짝이게 해서 그릇에 수북이 담는다.
+9039,رز بلبن,로즈 빌라반,rice_pudding,쌀 우유 푸딩,rice pudding,noun,food,작은 유리 그릇에 하얀 쌀 우유 푸딩을 담고 위에 계핏가루와 견과를 살짝 뿌린다.
+9040,مهلبية,마할라베야,milk_pudding,마할라베야(우유 푸딩),milk pudding,noun,food,작은 그릇에 매끄러운 하얀 우유 푸딩을 굳히고 위에 다진 피스타치오와 장미 꽃잎을 올린다.
+9041,كحك,카흐크,festive_butter_cookies,카흐크(명절 쿠키),festive butter cookies,noun,food,흰 슈가파우더를 듬뿍 뿌린 둥근 무늬 쿠키 여러 개를 쟁반에 줄지어 놓는다.
+9042,شاي,샤이,black_tea,샤이(홍차),black tea,noun,food,작은 유리컵에 진한 붉은 홍차를 따르고 신선한 민트 잎 한 줄기를 꽂아 금속 쟁반에 놓는다.
+9043,قهوة تركي,아흐와 토르키,turkish_style_coffee,터키식 커피,Turkish-style coffee,noun,food,작은 손잡이 냄비와 작은 잔에 거품이 올라온 진한 커피를 따르고 물 한 잔을 곁에 둔다.
+9044,كركديه,카르카데,hibiscus_drink,카르카데(히비스커스 차),hibiscus drink,noun,food,큰 유리잔에 짙은 자줏빛 붉은 히비스커스 음료를 얼음과 함께 따르고 말린 꽃잎을 접시에 둔다.
+9045,عصير قصب,아시르 아삽,sugarcane_juice,사탕수수 주스,sugarcane juice,noun,food,큰 유리잔에 연한 초록빛 거품 낀 사탕수수 주스를 담고 옆에 껍질 벗긴 사탕수수 토막을 둔다.
+9046,سوبيا,소비아,coconut_rice_drink,소비아(코코넛 쌀 음료),coconut rice drink,noun,food,큰 유리잔에 하얗고 걸쭉한 코코넛 음료를 담고 위에 코코넛 가루를 살짝 뿌린다.
+9047,عرقسوس,에르아수스,licorice_root_drink,감초 음료,licorice root drink,noun,food,유리잔에 짙은 갈색 감초 음료를 따르고 거품이 살짝 올라와 있으며 옆에 말린 감초 뿌리를 둔다.
+9048,تمر هندي,탐르 힌디,tamarind_drink,타마린드 음료,tamarind drink,noun,food,큰 유리잔에 갈색 타마린드 음료를 얼음과 함께 따르고 옆에 깍지 열매 두 개를 둔다.
+9049,حلاوة طحينية,할라와 타히네야,sesame_halva,할라와(깨 할바),sesame halva,noun,food,결이 보이는 크림색 깨 과자 덩어리를 네모로 잘라 접시에 놓고 피스타치오가 단면에 박혀 있다.
+9050,بطاطا مشوية,바타타 마슈위야,roasted_sweet_potato,군고구마,roasted sweet potato,noun,food,숯불에 그을린 껍질이 갈라진 고구마 두 개를 반으로 갈라 주황빛 속살을 보이게 쟁반에 놓는다.

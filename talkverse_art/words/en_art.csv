@@ -281,6 +281,7 @@ rank,word,reading,romaji,ko,en,pos,level,scene_hint
 2197,actor,,actor,배우,actor,noun,R4,
 2201,chain,,chain,사슬/체인,chain,noun,R4,
 2205,cook,,cook,요리하다/요리사,cook,verb,R4,
+2213,journey,,journey,여행/여정,journey,noun,R4,
 2214,kitchen,,kitchen,부엌,kitchen,noun,R4,
 2235,aircraft,,aircraft,항공기,aircraft,noun,R4,
 2248,documents,,document,문서,document,noun,R4,
