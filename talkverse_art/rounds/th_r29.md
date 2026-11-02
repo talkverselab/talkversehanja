@@ -1,0 +1,22 @@
+# Talkverse art — Thai · round 29 · 2026-11-03
+
+**Style check (every round):** match these approved images exactly — soft matte clay, natural adult/child body proportions (NOT chibi/baby big-head), light pastel blob background, accent color on ONE small item only (do not paint everything orange):
+
+- https://raw.githubusercontent.com/talkverselab/talkversehanja/main/talkverse_art/ja/r01/95_matsu_B.jpg
+- https://raw.githubusercontent.com/talkverselab/talkversehanja/main/talkverse_art/ja/r01/112_hanashi_B.jpg
+- https://raw.githubusercontent.com/talkverselab/talkversehanja/main/talkverse_art/ja/r01/137_haha_B.jpg
+- https://raw.githubusercontent.com/talkverselab/talkversehanja/main/talkverse_art/ja/r02/19_iu_v2.jpg
+- https://raw.githubusercontent.com/talkverselab/talkversehanja/main/talkverse_art/ja/r02/71_sensei_v2.jpg
+
+Same look and tone as the previous round (style B, accent #8a5cd6 on one item only, real Thailand dishes for food words, people, clothing and places typical of Thailand, no text/logos). **Every person full body, head to feet, nothing cropped — never cut off heads. The image tool cannot output 1:1, so generate LANDSCAPE (3:2 or 16:9) with the subject centered and empty background on both sides, then center-crop to a 1024×1024 square (crop only the left/right sides, never top/bottom). Portrait images, letterboxing or any side bars are rejected.** **People: use ONLY the two fixed Thai app characters in https://raw.githubusercontent.com/talkverselab/talkversehanja/main/talkverse_art/chars/th_sheet.jpg (open it first).** Woman: clearly golden-tan / light-brown skin (as in the sheet, darker than a typical pale skin), soft round eyes, long slightly wavy black hair, bright smile; outfit = cream knit + white pleated skirt (everyday) or white visor + white tennis outfit + lilac paddle (sport). Man: short neat black hair, clean gentle features, beige SHORT-SLEEVE button shirt with a chest pocket (not a sweater) + brown trousers + white sneakers. Felt/clay doll texture as in the sheet. Same faces and outfits every time; no names, no text. A child appears only when the word needs one. **Do not reuse the curly-haired bearded man in a green sweater** (he appeared in 4 of 6 pictures in round 289) — every adult must look different: straight/short/long/grey hair, glasses, different ages and builds. **Never show a woman holding two round objects (fruit, balls) at chest height** — carry them in a basket, bag or low at the hips. **Never draw one person just standing alone doing nothing**: job, family and relation words (principal, son, employee, doctor…) must show that person WITH the people they relate to, in their place (school, shop, home), doing the typical action; left/right/direction words must be a scene, never a bare arrow; abstract words must be a person doing it. Rules: `talkverse_art/STYLE.md`. **Hard limit: this round is 6 pictures; generate at most 8 images in total including retries.** If a picture still fails after that, skip it and say so in the commit message — do not generate more.
+
+Save to `talkverse_art/th/r29/<file>` and push to GitHub exactly as `talkverse_art/PUSH.md` says (connector push tool, base64, 1024×1024 JPG quality 85 under 200 KB, one picture per commit; last commit message `Talkverse art th r29 done`).
+
+| # | word | reading | meaning (ko · en) | scene to draw | file |
+|---|---|---|---|---|---|
+| 1 | ออกแบบ | àwk bàep | 디자인하다, 설계하다 · design (verb) | 디자인 사무실 책상에서 고정 캐릭터 여자가 커다란 종이에 집 설계도를 연필로 그리고, 옆의 동료가 색 견본을 대 봄. 도면에 글자·숫자 없음, 두 사람 전신. | `talkverse_art/th/r29/602_design.jpg` |
+| 2 | ใบ | bai | 잎, 장(종이 단위), 증서 · leaf (noun) | 공원 큰 나무 아래에서 고정 캐릭터 여자가 바람에 떨어지는 커다란 초록 잎 하나를 손바닥으로 받아 들고 신기하게 살펴봄. 여자 전신, 글자 없음. | `talkverse_art/th/r29/604_leaf.jpg` |
+| 3 | แข่ง | kàeng | 경쟁하다, 시합하다 · compete (verb) | 운동회 달리기 시합: 고정 캐릭터 남자 다른 남자 둘이 나란히 결승선을 향해 전력 질주하고, 여자가 결승선 옆에서 응원. 모두 테두리 안 전신, 숫자 없음. | `talkverse_art/th/r29/609_compete.jpg` |
+| 4 | มาหา | ma hǎ | 찾아오다, 만나러 오다 · come to see (verb) | 아파트 현관에서 고정 캐릭터 여자가 문을 열자 과일 바구니를 든 친구 둘이 '놀러 왔어!' 하며 손을 흔듦. 모두 전신, 글자 없음. | `talkverse_art/th/r29/620_come_to_see.jpg` |
+| 5 | แตร | dtrae | 경적, 나팔 · horn (noun) | 방콕 도로에서 툭툭 운전사가 경적을 '빵' 울리자, 길을 건너려던 고정 캐릭터 남자 깜짝 놀라 뒤로 물러섬. 부상 없음, 사람·툭툭 전체 보이게, 글자 없음. | `talkverse_art/th/r29/624_horn.jpg` |
+| 6 | ข้าง | kâng | 옆, 측, 쪽 · side (noun) | 공원 벤치에서 고정 캐릭터 여자가 옆자리를 손바닥으로 톡톡 치며 남자 '옆에 앉아' 하고, 남자가 웃으며 다가옴. 두 사람 전신. | `talkverse_art/th/r29/627_side.jpg` |
