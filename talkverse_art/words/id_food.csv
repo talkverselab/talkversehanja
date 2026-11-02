@@ -1,0 +1,51 @@
+rank,word,reading,ko,en,desc
+1,nasi goreng,,나시고렝,fried rice,간장으로 갈색이 된 볶음밥을 접시에 담고 위에 달걀 프라이 하나와 새우 과자(크루푹)·오이·토마토 조각을 곁들인다.
+2,mie goreng,,미고렝,fried noodles,달큰한 간장 소스로 볶은 노란 국수에 양배추·청경채·닭고기를 섞고 튀긴 샬롯을 뿌린다.
+3,sate ayam,,닭꼬치 사테,chicken satay,대나무 꼬치에 꿴 작은 닭고기 조각을 숯불에 굽고 진한 땅콩 소스와 단 간장을 끼얹어 쌀떡 조각과 낸다.
+4,rendang,,른당,beef rendang,코코넛 밀크와 향신료로 오래 졸여 짙은 갈색이 된 소고기 덩어리. 흰밥 옆에 담는다.
+5,gado-gado,,가도가도,vegetable salad with peanut sauce,데친 채소·두부·템페·삶은 달걀·감자에 걸쭉한 땅콩 소스를 붓고 새우 과자를 얹는다.
+6,soto ayam,,소토 아얌,chicken soup,강황으로 노란 맑은 닭 국물에 찢은 닭고기·당면·삶은 달걀·셀러리를 넣고 라임 조각을 곁들인다.
+7,bakso,,박소,meatball soup,큰 소고기 완자 여러 개를 맑은 국물에 넣고 노란 국수·당면·청경채·튀긴 샬롯을 올린 그릇 요리.
+8,nasi uduk,,나시 우둑,coconut rice,코코넛 밀크로 지은 하얀 밥을 바나나 잎 위에 두고 튀긴 닭·달걀 지단·땅콩 멸치볶음·삼발을 곁들인다.
+9,nasi padang,,나시 파당,padang rice plate,흰밥 한 접시에 른당·카레 채소·튀긴 닭·삶은 달걀 삼발 등 여러 반찬을 조금씩 얹은 차림.
+10,ayam goreng,,아얌 고렝,fried chicken,향신료에 재워 노릇하게 튀긴 닭다리에 바삭한 튀김 부스러기를 뿌리고 삼발과 오이를 곁들인다.
+11,ayam penyet,,아얌 프녯,smashed fried chicken,튀긴 닭을 돌절구 위에서 납작하게 눌러 붉은 삼발을 듬뿍 바르고 흰밥·두부·템페와 낸다.
+12,nasi kuning,,나시 쿠닝,yellow rice,강황으로 노랗게 지은 밥을 원뿔 모양으로 쌓고 둘레에 달걀·닭고기·채소 반찬을 돌려 담는다.
+13,tumpeng,,툼펭,rice cone platter,노란 밥을 높은 원뿔로 세워 대나무 쟁반 가운데 두고 둘레에 여러 반찬을 둥글게 놓은 잔치 차림.
+14,martabak manis,,마르타박 마니스,sweet thick pancake,두툼한 팬케이크를 반으로 접어 초콜릿 가루·치즈·땅콩·연유를 채우고 버터로 번들거리게 자른다.
+15,martabak telur,,마르타박 텔루르,savory stuffed pancake,얇은 반죽에 달걀·다진 고기·파를 넣어 네모나게 부친 뒤 칸칸이 자르고 초절임 오이를 곁들인다.
+16,pempek,,펨펙,fish cake with vinegar sauce,생선 반죽 어묵(달걀을 넣은 큰 것 포함)을 튀겨 썰고 검고 새콤달콤한 식초 소스와 오이·국수를 곁들인다.
+17,siomay,,시오마이,steamed fish dumplings,찐 생선 만두와 양배추·감자·두부·달걀을 썰어 담고 땅콩 소스와 단 간장을 끼얹는다.
+18,batagor,,바타고르,fried fish dumplings,생선 반죽을 두부에 채워 튀긴 조각에 땅콩 소스를 붓고 라임을 짠다.
+19,nasi campur,,나시 짬푸르,mixed rice,흰밥 가운데 두고 고기·채소·달걀·땅콩 등 작은 반찬 여러 가지를 한 접시에 둘러 담는다.
+20,babi guling,,바비 굴링,roast suckling pig,껍질이 바삭한 통돼지 구이를 썰어 흰밥·순대 같은 소시지·매운 채소무침과 담는 발리식 접시.
+21,bebek betutu,,베벡 브투투,spiced roast duck,향신료를 채운 오리를 바나나 잎에 싸서 오래 구워 노란빛 양념이 밴 발리식 요리.
+22,ikan bakar,,이칸 바카르,grilled fish,통생선을 단 간장 양념으로 숯불에 구워 그을린 껍질에 삼발·라임·생채소를 곁들인다.
+23,sayur asem,,사유르 아슴,sour vegetable soup,타마린드로 새콤한 맑은 국물에 옥수수·땅콩·긴 콩·호박잎이 든 채소 국.
+24,sayur lodeh,,사유르 로데,vegetable coconut stew,코코넛 밀크로 뿌옇게 끓인 국물에 가지·긴 콩·호박·두부가 든 채소 스튜.
+25,opor ayam,,오포르 아얌,chicken in coconut milk,하얀 코코넛 밀크 국물에 닭고기를 은근히 끓이고 삶은 달걀을 넣어 쌀떡(크투팟)과 낸다.
+26,ketupat,,크투팟,rice cake in woven leaf,어린 야자잎으로 마름모꼴로 엮은 주머니에 쌀을 넣고 쪄서 썰면 하얀 단면이 나오는 명절 쌀떡.
+27,lontong,,론통,rice cake roll,바나나 잎에 원통으로 싸서 찐 쌀떡을 동그랗게 썰어 국물 요리에 넣는다.
+28,tempe goreng,,템페 고렝,fried tempeh,콩을 발효해 굳힌 템페를 얇게 썰어 노릇하게 튀긴 조각. 단면에 콩 알갱이가 보인다.
+29,tahu goreng,,타후 고렝,fried tofu,겉이 황금색으로 튀겨진 네모난 두부에 칼집을 내고 고추와 단 간장을 곁들인다.
+30,tahu isi,,타후 이시,stuffed fried tofu,튀긴 두부 속에 숙주·당근·양배추를 채워 튀김옷 입혀 튀기고 생고추를 곁들인다.
+31,bakwan,,박완,vegetable fritter,양배추·당근·옥수수를 반죽에 섞어 둥글게 튀긴 바삭한 채소 튀김.
+32,pisang goreng,,피상 고렝,fried banana,반으로 가르거나 부채꼴로 편 바나나를 반죽 입혀 노랗게 튀긴 간식.
+33,klepon,,클레폰,coconut rice balls,초록 판단잎 색 찹쌀 경단 속에 녹인 야자설탕이 들어 있고 겉에 흰 코코넛 가루를 묻힌다.
+34,es cendol,,에스 첸돌,cendol iced drink,"초록 판단 젤리 가닥을 코코넛 밀크와 갈색 야자설탕 시럽,  얼음과 함께 유리잔에 담는다."
+35,es teler,,에스 텔레르,mixed fruit ice,아보카도·잭프루트·코코넛 과육을 그릇에 담고 연유·코코넛 밀크·얼음을 부은 디저트.
+36,es teh manis,,에스 테 마니스,sweet iced tea,"큰 유리잔에 얼음을 가득 넣은 달콤한 홍차. 갈색 차와 얼음,  빨대."
+37,kopi tubruk,,코피 투브룩,unfiltered coffee,곱게 간 커피를 컵에 바로 넣고 뜨거운 물을 부어 위에 가루가 뜬 진한 검은 커피.
+38,teh botol,,병 홍차,bottled sweet tea,유리병에 담긴 달콤한 홍차를 빨대로 마신다. 길거리 노점의 흔한 음료.
+39,kerupuk,,크루푹,crackers,새우나 생선 맛의 크고 둥근 튀긴 과자. 비닐 봉지나 큰 유리통에 담겨 있다.
+40,rujak,,루작,spicy fruit salad,덜 익은 망고·파인애플·오이·물라 열매 조각에 매콤달콤한 야자설탕 소스를 찍어 먹는다.
+41,nasi liwet,,나시 리웻,savory rice in pot,코코넛 밀크와 레몬그라스로 지은 밥을 솥째 내고 멸치·두부·달걀을 곁들인다.
+42,gudeg,,구덱,young jackfruit stew,어린 잭프루트를 야자설탕과 코코넛 밀크로 오래 졸여 갈색으로 달게 만든 요리. 밥·달걀과 함께.
+43,rawon,,라원,black beef soup,검은 열매 양념으로 국물이 새까만 소고기 국에 숙주와 짭짤한 삶은 달걀을 곁들인다.
+44,coto makassar,,초토 마카사르,beef offal soup,땅콩을 갈아 넣어 진한 갈색 국물에 소고기·내장을 넣고 쌀떡과 함께 내는 국.
+45,papeda,,파페다,sago porridge,사고 전분으로 만든 투명하고 끈끈한 죽을 노란 생선 국물과 함께 그릇에 담는다.
+46,mie ayam,,미 아얌,chicken noodles,노란 국수 위에 간장 양념한 닭고기 조각·청경채·파를 얹고 맑은 국물을 따로 낸다.
+47,nasi kucing,,나시 쿠칭,tiny rice packet,손바닥만 한 밥 한 덩이에 매운 생선 반찬을 조금 올려 바나나 잎과 종이로 싼 작은 주먹밥 꾸러미.
+48,serabi,,스라비,coconut pancake,작은 질그릇 팬에 구운 둥근 쌀가루 팬케이크에 갈색 야자설탕 시럽을 끼얹는다.
+49,kue lapis,,쿠에 라피스,layered steamed cake,분홍·초록·흰색 줄이 겹겹이 쌓인 쫀득한 찐 쌀떡을 네모나게 썬 간식.
+50,durian,,두리안,durian,가시 돋친 초록 껍질을 갈라 노란 크림 같은 과육 덩어리가 드러난 열대 과일.
