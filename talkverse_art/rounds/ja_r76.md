@@ -6,7 +6,6 @@ Save to `talkverse_art/ja/r76/<file>` and push to GitHub exactly as `talkverse_a
 
 | # | word | reading | meaning (ko · en) | scene to draw | file |
 |---|---|---|---|---|---|
-| 1 | 必ず | かならず | 반드시 · surely (adv) | 굵은 체크 표시 | `talkverse_art/ja/r76/547_kanarazu.jpg` |
 
 ## Redo (previous rounds)
 
