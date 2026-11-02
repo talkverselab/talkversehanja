@@ -1,0 +1,1835 @@
+rank,word,reading,ko,en,pos,level,picturable
+1,я,야,나,I,pron,R1,N
+2,не,녜,~않다(부정),not,particle,R1,N
+3,ты,띄,너,you (informal),pron,R1,N
+4,а,아,"그런데, 그리고",and/but,conj,R1,N
+5,и,이,그리고,and,conj,R1,N
+6,что,쉬또,"무엇, ~라는 것",what/that,conj,R1,N
+7,в,브,"~안에, ~에",in,prep,R1,N
+8,вы,븨,당신(들),you (formal/plural),pron,R1,N
+9,он,온,그,he,pron,R1,N
+10,на,나,"~위에, ~에",on,prep,R1,N
+11,ну,누,"자, 글쎄",well,particle,R1,N
+12,это,에따,이것,this,particle,R1,N
+13,с,스,"~와 함께, ~에서부터",with,prep,R1,N
+14,мы,믜,우리,we,pron,R1,N
+15,да,다,"네, 응",yes,particle,R1,N
+16,быть,븨찌,"있다, ~이다",to be,verb,R1,N
+17,как,깍,"어떻게, ~처럼",how,conj,R1,N
+18,у,우,~에게(곁에),at/by,prep,R1,N
+19,всё,프쇼,"모두, 전부",everything,particle,R1,N
+20,вот,봇,"여기, 바로",here is,particle,R1,N
+21,так,딱,그렇게,so,conj,R1,N
+22,то,또,"그러면, 그것",then,conj,R1,N
+23,же,줴,(강조)~말이야,indeed,particle,R1,N
+24,нет,녯,"아니요, 없다",no,pred,R1,N
+25,они,아니,그들,they,pron,R1,N
+26,она,아나,그녀,she,pron,R1,N
+27,мочь,모치,~할 수 있다,can,verb,R1,N
+28,за,자,"~뒤에, ~을 위해",behind/for,prep,R1,N
+29,мой,모이,나의,my,adj,R1,N
+30,к,끄,"~쪽으로, ~에게",to,prep,R1,N
+31,знать,즈나찌,알다,to know,verb,R1,N
+32,кто,크또,누구,who,pron,R1,N
+33,но,노,그러나,but,conj,R1,N
+34,по,빠,"~을 따라, ~로",along,prep,R1,N
+35,какой,까꼬이,어떤,which/what kind,adj,R1,N
+36,такой,따꼬이,그런,such,adj,R1,N
+37,этот,에떳,이,this,adj,R1,N
+38,о,오,~에 대해,about,prep,R1,N
+39,человек,칠라볙,사람,person,noun,R1,Y
+40,бы,븨,(가정)~할 텐데,would,particle,R1,N
+41,говорить,가바리찌,말하다,to speak,verb,R1,Y
+42,весь,볘시,전체의,all,adj,R1,N
+43,хотеть,하쩨찌,원하다,to want,verb,R1,N
+44,ещё,이쇼,"아직, 더",still/more,adv,R1,N
+45,ваш,바쉬,당신의,your (formal),adj,R1,N
+46,только,똘까,오직,only,adv,R1,N
+47,надо,나다,~해야 한다,must,pred,R1,N
+48,один,아진,"하나, 혼자",one,num,R1,Y
+49,из,이스,~에서(밖으로),from,prep,R1,N
+50,наш,나쉬,우리의,our,adj,R1,N
+51,свой,스보이,자기의,one's own,adj,R1,N
+52,если,예슬리,만약,if,conj,R1,N
+53,давать,다바찌,주다,to give,verb,R1,Y
+54,есть,예스찌,"먹다, 있다",to eat / there is,verb,R1,Y
+55,сказать,스까자찌,말하다(완료),to say,verb,R1,Y
+56,там,땀,거기,there,adv,R1,N
+57,тот,똣,"그, 저",that,adj,R1,N
+58,где,그졔,어디,where,adv,R1,N
+59,сейчас,시차스,지금,now,adv,R1,N
+60,сам,삼,스스로,oneself,adj,R1,N
+61,идти,이찌,걸어가다,to go (on foot),verb,R1,Y
+62,здесь,즈졔시,여기,here,adv,R1,N
+63,от,앗,~로부터,from,prep,R1,N
+64,ничего,니치보,"아무것도, 괜찮아",nothing,adv,R1,N
+65,дело,졜라,"일, 용건",matter,noun,R1,N
+66,товарищ,따바리쉬,"동지, 동료",comrade,noun,R1,Y
+67,пойти,빠이찌,가다(출발),to set off,verb,R1,Y
+68,когда,까그다,언제,when,conj,R1,N
+69,хорошо,하라쇼,"좋아, 잘",well/good,adv,R1,N
+70,до,다,~까지,until,prep,R1,N
+71,очень,오친,매우,very,adv,R1,N
+72,себя,시뱌,자기 자신,oneself,pron,R1,N
+73,твой,뜨보이,너의,your (informal),adj,R1,N
+74,видеть,비졔찌,보다,to see,verb,R1,Y
+75,для,들랴,~을 위해,for,prep,R1,N
+76,почему,빠치무,왜,why,adv,R1,N
+77,теперь,찌뼤리,이제,now,adv,R1,N
+78,уже,우줴,벌써,already,adv,R1,N
+79,тут,뚯,여기,here,adv,R1,N
+80,ведь,볘찌,~잖아,after all,particle,R1,N
+81,понимать,빠니마찌,이해하다,to understand,verb,R1,N
+82,ли,리,~인지,whether,conj,R1,N
+83,раз,라스,"번, 회",time (once),noun,R1,N
+84,думать,두마찌,생각하다,to think,verb,R1,Y
+85,спасибо,스빠씨바,고마워,thanks,interj,R1,N
+86,год,고트,"해, 년",year,noun,R1,Y
+87,тоже,또줴,~도,also,particle,R1,N
+88,куда,꾸다,어디로,where to,conj,R1,N
+89,чем,쳄,~보다,than,conj,R1,N
+90,просить,쁘라씨찌,부탁하다,to ask (request),verb,R1,Y
+91,пожалуйста,빠좔스따,"부디, 천만에",please,particle,R1,N
+92,ни,니,~조차 않다,not a,particle,R1,N
+93,день,졘,"낮, 날",day,noun,R1,Y
+94,чтобы,쉬또븨,~하기 위해,in order to,conj,R1,N
+95,ой,오이,어머,oh,interj,R1,N
+96,дать,다찌,주다(완료),to give,verb,R1,Y
+97,должный,돌즈늬,~해야 하는,must,adj,R1,N
+98,который,까또릐,~하는(관계),which,adj,R1,N
+99,жизнь,쥐즌,삶,life,noun,R1,N
+100,без,볘스,~없이,without,prep,R1,N
+101,или,일리,또는,or,conj,R1,N
+102,можно,모즈나,~해도 된다,may,pred,R1,N
+103,значит,즈나칫,그러니까,so,conj,R1,N
+104,дом,돔,집,house,noun,R1,Y
+105,время,브례먀,시간,time,noun,R1,Y
+106,друг,드룩,친구,friend,noun,R1,Y
+107,другой,드루고이,다른,other,adj,R1,N
+108,два,드바,둘,two,num,R1,Y
+109,зачем,자쳼,무엇 때문에,what for,adv,R1,N
+110,конечно,까녜쉬나,물론,of course,conj,R1,N
+111,взять,브쟈찌,"가져가다, 잡다",to take,verb,R1,Y
+112,нибудь,니부찌,(무엇이든)~이라도,any-,particle,R1,N
+113,ж,쥐,(강조)~말이야,indeed,particle,R1,N
+114,сюда,슈다,이쪽으로,here (to),adv,R1,N
+115,тогда,따그다,그때,then,adv,R1,N
+116,сегодня,시보드냐,오늘,today,adv,R1,Y
+117,любить,류비찌,"사랑하다, 좋아하다",to love,verb,R1,Y
+118,понять,빠냐찌,이해하다(완료),to understand,verb,R1,N
+119,стоить,스또이찌,값이 ~이다,to cost,verb,R1,Y
+120,хороший,하로쉬,좋은,good,adj,R1,N
+121,смотреть,스마뜨례찌,보다,to watch,verb,R1,Y
+122,просто,쁘로스따,그냥,simply,particle,R1,N
+123,потом,빠똠,나중에,later,adv,R1,N
+124,ладно,라드나,"좋아, 알았어",okay,adv,R1,N
+125,рука,루까,"손, 팔",hand,noun,R1,Y
+126,господин,가스빠진,"~님, 신사",mister,noun,R1,Y
+127,большой,발쇼이,큰,big,adj,R1,Y
+128,мама,마마,엄마,mom,noun,R1,Y
+129,первый,뼤르븨,첫 번째,first,adj,R1,Y
+130,здравствуйте,즈드라스부이쪠,안녕하세요,hello (formal),interj,R1,Y
+131,прийти,쁘리이찌,도착하다(걸어서),to come,verb,R1,Y
+132,бог,보흐,신,god,noun,R1,N
+133,даже,다줴,~조차,even,particle,R1,N
+134,никто,니크또,아무도,nobody,pron,R1,N
+135,стать,스따찌,~이 되다,to become,verb,R1,N
+136,отец,아쪠츠,아버지,father,noun,R1,Y
+137,слово,슬로바,"단어, 말",word,noun,R1,Y
+138,пока,빠까,"~하는 동안, 안녕(작별)",while / bye,adv,R1,N
+139,слушать,슬루샤찌,듣다,to listen,verb,R1,Y
+140,место,몌스따,"자리, 장소",place,noun,R1,Y
+141,уж,우쉬,"정말, 벌써",really,adv,R1,N
+142,ребёнок,리뵤넉,아이,child,noun,R1,Y
+143,сколько,스꼴까,얼마나,how much,adv,R1,N
+144,ка,까,(부드러운 명령)~해 봐,(softening),particle,R1,N
+145,ребята,리뱌따,"얘들아, 친구들",guys,noun,R1,Y
+146,под,뽀트,~아래,under,prep,R1,Y
+147,жить,쥐찌,살다,to live,verb,R1,Y
+148,ждать,즈다찌,기다리다,to wait,verb,R1,Y
+149,самый,싸믜,가장,most,adj,R1,N
+150,работа,라보따,"일, 직장",work,noun,R1,Y
+151,слышать,슬리샤찌,들리다,to hear,verb,R1,Y
+152,дорога,다로가,길,road,noun,R2,Y
+153,деньги,졘기,돈,money,noun,R2,Y
+154,нужно,누즈나,필요하다,need,pred,R2,N
+155,сделать,즈졜라찌,하다(완료),to do,verb,R2,N
+156,добрый,도브릐,"착한, 좋은",kind,adj,R2,Y
+157,пусть,뿌스찌,~하게 두자,let,particle,R2,N
+158,делать,졜라찌,하다,to do,verb,R2,N
+159,бояться,바야짜,무서워하다,to fear,verb,R2,Y
+160,простить,쁘라스찌찌,용서하다,to forgive,verb,R2,N
+161,новый,노븨,새로운,new,adj,R2,Y
+162,послать,빠슬라찌,보내다,to send,verb,R2,Y
+163,три,뜨리,셋,three,num,R2,Y
+164,здравствуй,즈드라스부이,안녕(반말),hi,interj,R2,Y
+165,завтра,자프뜨라,내일,tomorrow,adv,R2,Y
+166,каждый,까즈듸,각각의,every,adj,R2,N
+167,помнить,뽐니찌,기억하다,to remember,verb,R2,N
+168,нужный,누즈늬,필요한,needed,adj,R2,N
+169,нельзя,닐쟈,~하면 안 된다,must not,pred,R2,Y
+170,уйти,우이찌,떠나다,to leave,verb,R2,Y
+171,извинить,이즈비니찌,용서하다(실례합니다),to excuse,verb,R2,N
+172,поехать,빠예하찌,(타고) 가다,to go (by vehicle),verb,R2,Y
+173,много,므노가,많이,a lot,adv,R2,Y
+174,правда,쁘라브다,"진실, 정말",truth,particle,R2,N
+175,совсем,사프셈,완전히,completely,adv,R2,N
+176,никогда,니까그다,결코,never,adv,R2,N
+177,про,쁘로,~에 대해,about,prep,R2,N
+178,потому,빠따무,그래서,because,adv,R2,N
+179,иметь,이몌찌,가지다,to have,verb,R2,N
+180,всегда,프시그다,항상,always,adv,R2,N
+181,опять,아뺘찌,또,again,adv,R2,N
+182,город,고럿,도시,city,noun,R2,Y
+183,ах,아흐,아!,ah,interj,R2,N
+184,через,체례스,"~을 지나서, ~후에",through,prep,R2,N
+185,посмотреть,빠스마뜨례찌,한번 보다,to have a look,verb,R2,Y
+186,голова,갈라바,머리,head,noun,R2,Y
+187,подождать,빠다즈다찌,좀 기다리다,to wait a bit,verb,R2,Y
+188,иванович,이바나비치,이바노비치(부칭),Ivanovich,noun,R2,N
+189,жена,쥐나,아내,wife,noun,R2,Y
+190,хоть,호찌,~라도,at least,particle,R2,N
+191,остаться,아스따짜,남다,to stay,verb,R2,N
+192,вон,본,저기,over there,adv,R2,N
+193,машина,마쉬나,자동차,car,noun,R2,Y
+194,при,쁘리,"~앞에서, ~할 때",in presence of,prep,R2,N
+195,земля,지믈랴,"땅, 지구",earth,noun,R2,Y
+196,работать,라보따찌,일하다,to work,verb,R2,Y
+197,ха,하,하!,ha,interj,R2,N
+198,приехать,쁘리예하찌,(타고) 도착하다,to arrive,verb,R2,Y
+199,час,차스,"시간, 1시간",hour,noun,R2,Y
+200,мать,마찌,어머니,mother,noun,R2,Y
+201,садиться,사지짜,앉다,to sit down,verb,R2,Y
+202,найти,나이찌,찾아내다,to find,verb,R2,Y
+203,глаз,글라스,눈,eye,noun,R2,Y
+204,казаться,까자짜,~처럼 보이다,to seem,verb,R2,N
+205,вообще,바압쉐,"대체로, 도대체",in general,adv,R2,N
+206,сын,씐,아들,son,noun,R2,Y
+207,забыть,자븨찌,잊다,to forget,verb,R2,N
+208,пора,빠라,~할 때다,time (it's time),noun,R2,N
+209,помочь,빠모치,돕다,to help,verb,R2,Y
+210,брать,브라찌,가져가다,to take,verb,R2,Y
+211,папа,빠빠,아빠,dad,noun,R2,Y
+212,свидание,스비다니예,"데이트, 만남",date,noun,R2,Y
+213,женщина,줸쉬나,여성,woman,noun,R2,Y
+214,любовь,류보피,사랑,love,noun,R2,Y
+215,право,쁘라바,권리,right,noun,R2,N
+216,музыка,무즤까,음악,music,noun,R2,Y
+217,правильно,쁘라빌나,"맞아, 올바르게",correctly,adv,R2,N
+218,сидеть,시졔찌,앉아 있다,to sit,verb,R2,Y
+219,душа,두샤,"영혼, 마음",soul,noun,R2,N
+220,последний,빠슬례드니,마지막의,last,adj,R2,N
+221,иван,이반,이반(이름),Ivan,noun,R2,N
+222,ага,아가,"응, 그래",uh-huh,interj,R2,N
+223,разве,라즈볘,설마,really?,particle,R2,N
+224,конец,까녜츠,끝,end,noun,R2,N
+225,вместе,브몌스쪠,함께,together,adv,R2,Y
+226,вода,바다,물,water,noun,R2,Y
+227,вопрос,바쁘로스,질문,question,noun,R2,Y
+228,свет,스볫,"빛, 세상",light,noun,R2,Y
+229,выйти,븨이찌,나가다,to go out,verb,R2,Y
+230,давно,다브노,오래전에,long ago,adv,R2,N
+231,таки,따끼,"역시, 그래도",after all,particle,R2,N
+232,звать,즈바찌,부르다,to call,verb,R2,Y
+233,брат,브랏,형제,brother,noun,R2,Y
+234,москва,마스크바,모스크바,Moscow,noun,R2,Y
+235,случиться,슬루치짜,일어나다,to happen,verb,R2,N
+236,господь,가스뽀찌,주님,Lord,noun,R2,N
+237,война,바이나,전쟁,war,noun,R2,N
+238,откуда,아꾸다,어디에서,where from,adv,R2,N
+239,вернуться,비르누짜,돌아오다,to return,verb,R2,Y
+240,чтоб,쉬또프,~하도록,so that,conj,R2,N
+241,чёрт,쵸르트,"악마, 젠장",devil,noun,R2,N
+242,после,뽀슬례,~후에,after,prep,R2,N
+243,капитан,까삐딴,"선장, 대위",captain,noun,R2,Y
+244,ночь,노치,밤,night,noun,R3,Y
+245,точно,또치나,정확히,exactly,adv,R3,N
+246,никакой,니까꼬이,아무런,no (none),adj,R3,N
+247,домой,다모이,집으로,home (to),adv,R3,Y
+248,минута,미누따,분,minute,noun,R3,Y
+249,верить,볘리찌,믿다,to believe,verb,R3,N
+250,держать,지르자찌,"쥐다, 들다",to hold,verb,R3,Y
+251,перед,뼤례트,~앞에,in front of,prep,R3,N
+252,ходить,하지찌,걸어 다니다,to walk,verb,R3,Y
+253,эй,에이,이봐,hey,interj,R3,N
+254,туда,뚜다,그쪽으로,there (to),adv,R3,N
+255,второй,프따로이,두 번째,second,adj,R3,N
+256,сразу,스라주,곧바로,at once,adv,R3,N
+257,нога,나가,"다리, 발",leg,noun,R3,Y
+258,хватить,흐바찌찌,충분하다,to be enough,verb,R3,N
+259,привет,쁘리볫,안녕,hi,interj,R3,Y
+260,сердце,셰르짜,"심장, 마음",heart,noun,R3,Y
+261,случай,슬루차이,"경우, 사건",case,noun,R3,N
+262,узнать,우즈나찌,알아내다,to find out,verb,R3,N
+263,бывать,븨바찌,종종 있다,to happen (often),verb,R3,N
+264,писать,삐사찌,쓰다,to write,verb,R3,Y
+265,петрович,삐뜨로비치,페트로비치(부칭),Petrovich,noun,R3,N
+266,тихо,찌하,조용히,quietly,adv,R3,Y
+267,сила,씰라,힘,strength,noun,R3,Y
+268,равно,라브노,어차피,anyway,conj,R3,N
+269,дядя,쟈쟈,"삼촌, 아저씨",uncle,noun,R3,Y
+270,молодец,말라졔츠,"잘했어, 장하다",well done,noun,R3,Y
+271,скоро,스꼬라,곧,soon,adv,R3,N
+272,отдать,아따찌,돌려주다,to give back,verb,R3,Y
+273,уходить,우하지찌,떠나다,to leave,verb,R3,Y
+274,школа,쉬꼴라,학교,school,noun,R3,Y
+275,мир,미르,"세계, 평화",world / peace,noun,R3,Y
+276,молодой,말라도이,젊은,young,adj,R3,Y
+277,оставить,아스따비찌,남겨 두다,to leave (something),verb,R3,N
+278,убить,우비찌,죽이다,to kill,verb,R3,N
+279,считать,쉬따찌,"세다, 여기다",to count,verb,R3,Y
+280,порядок,빠랴덕,"질서, 순서",order,noun,R3,N
+281,готовый,가또븨,준비된,ready,adj,R3,N
+282,подумать,빠두마찌,생각해 보다,to think over,verb,R3,Y
+283,старый,스따릐,"오래된, 늙은",old,adj,R3,Y
+284,имя,이먀,이름,name,noun,R3,N
+285,девушка,졔부쉬까,"아가씨, 여자친구",girl,noun,R3,Y
+286,муж,무쉬,남편,husband,noun,R3,Y
+287,русский,루스끼,러시아의,Russian,adj,R3,N
+288,далёкий,달료끼,먼,far,adj,R3,N
+289,народ,나롯,"국민, 사람들",people,noun,R3,Y
+290,наверное,나볘르나예,아마,probably,conj,R3,N
+291,мальчик,말칙,소년,boy,noun,R3,Y
+292,показать,빠까자찌,보여 주다,to show,verb,R3,Y
+293,девочка,졔버치까,소녀,little girl,noun,R3,Y
+294,проходить,쁘라하지찌,지나가다,to pass,verb,R3,N
+295,письмо,삐시모,편지,letter,noun,R3,Y
+296,ясно,야스나,"분명하다, 알겠다",clear,adv,R3,N
+297,её,이요,그녀의,her,pron,R3,N
+298,эх,에흐,에휴,eh,interj,R3,N
+299,решить,리쉬찌,"결정하다, 풀다",to decide,verb,R3,N
+300,понятно,빠냐뜨나,알겠다,understood,adv,R3,N
+301,прийтись,쁘리이찌시,~해야 하게 되다,to have to,verb,R3,N
+302,отсюда,앗슈다,여기에서,from here,adv,R3,N
+303,получить,빨루치찌,받다,to receive,verb,R3,Y
+304,нравиться,느라비짜,마음에 들다,to like,verb,R3,N
+305,б,브,(가정)~할 텐데,would,particle,R3,N
+306,искать,이스까찌,찾다,to look for,verb,R3,Y
+307,тысяча,띄시차,천(1000),thousand,num,R3,N
+308,пройти,쁘라이찌,지나가다(완료),to pass,verb,R3,N
+309,молчать,말차찌,침묵하다,to be silent,verb,R3,Y
+310,утро,우뜨라,아침,morning,noun,R3,Y
+311,увидеть,우비졔찌,보다(완료),to see,verb,R3,Y
+312,милый,밀릐,"귀여운, 사랑스러운",sweet,adj,R3,N
+313,тем,쪰,그만큼,the (more),conj,R3,N
+314,спрашивать,스쁘라쉬바찌,묻다,to ask,verb,R3,Y
+315,маленький,말린끼,작은,small,adj,R3,Y
+316,спать,스빠찌,자다,to sleep,verb,R3,Y
+317,генерал,기녜랄,장군,general,noun,R3,Y
+318,выходить,븨하지찌,나가다,to go out,verb,R3,Y
+319,назад,나잣,"뒤로, 전에",back / ago,adv,R3,N
+320,счастье,샤스찌예,행복,happiness,noun,R3,N
+321,плохо,쁠로하,"나쁘게, 아프다",badly,pred,R3,N
+322,всякий,프샤끼,온갖,any,adj,R3,N
+323,настоящий,나스따야쉬,진짜의,real,adj,R3,N
+324,между,몌주,~사이에,between,prep,R3,Y
+325,ум,움,"지혜, 머리",mind,noun,R3,N
+326,бросить,브로시찌,"던지다, 그만두다",to throw,verb,R3,Y
+327,вечер,볘체르,저녁,evening,noun,R3,Y
+328,рассказать,라스까자찌,이야기해 주다,to tell,verb,R3,Y
+329,мало,말라,적게,little,num,R3,N
+330,верно,볘르나,맞아,right,conj,R3,N
+331,пустить,뿌스찌찌,들여보내다,to let in,verb,R3,N
+332,прямо,쁘랴마,곧장,straight,adv,R3,Y
+333,разрешить,라즈리쉬찌,허락하다,to allow,verb,R3,N
+334,пять,뺘찌,다섯,five,num,R3,Y
+335,гость,고스찌,손님,guest,noun,R3,Y
+336,позволить,빠즈볼리찌,허락하다,to permit,verb,R3,N
+337,смерть,스몌르찌,죽음,death,noun,R3,N
+338,именно,이몐나,바로,exactly,particle,R3,N
+339,пить,삐찌,마시다,to drink,verb,R3,Y
+340,бежать,비좌찌,달리다,to run,verb,R3,Y
+341,общий,옵쉬,공동의,common,adj,R3,N
+342,ехать,예하찌,(타고) 가다,to ride,verb,R3,Y
+343,приходить,쁘리하지찌,오다,to come,verb,R3,Y
+344,вчера,프치라,어제,yesterday,adv,R3,Y
+345,лицо,리쪼,얼굴,face,noun,R3,Y
+346,парень,빠롄,"청년, 남자친구",guy,noun,R3,Y
+347,над,나트,~위에,above,prep,R3,Y
+348,рано,라나,일찍,early,adv,R3,Y
+349,послушать,빠슬루샤찌,좀 들어 보다,to listen a bit,verb,R3,Y
+350,здорово,즈도라바,멋지다!,great,interj,R3,N
+351,сторона,스따라나,"쪽, 편",side,noun,R3,N
+352,быстрый,븨스뜨릐,빠른,fast,adj,R3,Y
+353,хотеться,하쩨짜,~하고 싶다,to feel like,verb,R3,N
+354,путь,뿌찌,"길, 여정",way,noun,R3,Y
+355,доктор,독따르,의사,doctor,noun,R3,Y
+356,море,모례,바다,sea,noun,R3,Y
+357,вперёд,프삐룟,앞으로,forward,adv,R3,Y
+358,смочь,스모치,해내다,to manage,verb,R3,N
+359,принести,쁘리니스찌,가져오다,to bring,verb,R3,Y
+360,оно,아노,그것,it,pron,R3,N
+361,уметь,우몌찌,~할 줄 알다,can (know how),verb,R3,N
+362,виноватый,비나바띄,잘못한,guilty,adj,R3,N
+363,действительно,졔이스뜨비쩰나,정말로,really,adv,R3,N
+364,собираться,사비라짜,"~하려고 하다, 모이다",to be going to,verb,R3,N
+365,читать,치따찌,읽다,to read,verb,R3,Y
+366,неужели,니우줼리,설마,really?,particle,R3,N
+367,играть,이그라찌,"놀다, 연주하다",to play,verb,R3,Y
+368,главное,글라브나예,중요한 것,main thing,noun,R3,N
+369,командир,까만지르,지휘관,commander,noun,R3,Y
+370,прислать,쁘리슬라찌,보내오다,to send,verb,R3,Y
+371,собака,사바까,개,dog,noun,R3,Y
+372,начать,나차찌,시작하다,to begin,verb,R3,N
+373,интересно,인찌례스나,재미있다,interesting,adv,R3,N
+374,вдруг,브드룩,갑자기,suddenly,adv,R3,N
+375,внимание,브니마니예,주의,attention,noun,R3,N
+376,лес,례스,숲,forest,noun,R3,Y
+377,песня,뼤스냐,노래,song,noun,R3,Y
+378,николаевич,니깔라예비치,니콜라예비치(부칭),Nikolaevich,noun,R3,N
+379,скорее,스까례예,"빨리, 오히려",rather,conj,R3,N
+380,гора,가라,산,mountain,noun,R3,Y
+381,петь,뼤찌,노래하다,to sing,verb,R3,Y
+382,начальник,나찰닉,"상사, 대장",boss,noun,R3,Y
+383,хотя,하쨔,비록,although,conj,R3,N
+384,умереть,우미례찌,죽다,to die,verb,R3,N
+385,родной,라드노이,"고향의, 친한",native,adj,R3,N
+386,третий,뜨례찌,세 번째,third,adj,R3,N
+387,история,이스또리야,"역사, 이야기",history,noun,R3,N
+388,дурак,두락,바보,fool,noun,R3,Y
+389,николай,니깔라이,니콜라이(이름),Nikolai,noun,R3,N
+390,больше,볼셰,더 많이,more,adv,R3,N
+391,лейтенант,리이찌난트,중위,lieutenant,noun,R3,Y
+392,погодить,빠가지찌,잠깐 기다리다,to wait a moment,verb,R3,N
+393,уехать,우예하찌,(타고) 떠나다,to leave,verb,R3,Y
+394,ох,오흐,아이고,oh,interj,R3,N
+395,живой,쥐보이,살아 있는,alive,adj,R3,N
+396,дверь,드볘리,문,door,noun,R3,Y
+397,здоровый,즈다로븨,건강한,healthy,adj,R3,Y
+398,квартира,끄바르찌라,아파트,apartment,noun,R3,Y
+399,быстро,븨스뜨라,빨리,quickly,adv,R3,Y
+400,вещь,볘쉬,물건,thing,noun,R3,Y
+401,благодарить,블라가다리찌,감사하다,to thank,verb,R3,N
+402,вид,빗,"모습, 경치",view,noun,R3,Y
+403,угу,우구,응,uh-huh,interj,R3,N
+404,дорогой,다라고이,"비싼, 소중한",dear,adj,R3,N
+405,месяц,몌시츠,달(한 달),month,noun,R3,Y
+406,желать,쥘라찌,바라다,to wish,verb,R3,N
+407,фамилия,파밀리야,성(姓),surname,noun,R3,N
+408,попасть,빠빠스찌,"맞히다, 들어가다",to get into,verb,R3,N
+409,сергей,시르계이,세르게이(이름),Sergei,noun,R3,N
+410,дочь,도치,딸,daughter,noun,R3,Y
+411,рубль,루블,루블(돈),ruble,noun,R3,Y
+412,целый,쩰릐,온전한,whole,adj,R3,N
+413,долго,돌가,오래,long (time),adv,R3,N
+414,слава,슬라바,영광,glory,noun,R3,N
+415,вроде,브로졔,~같은,like,particle,R3,N
+416,великий,빌리끼,위대한,great,adj,R3,N
+417,написать,나삐사찌,쓰다(완료),to write,verb,R3,Y
+418,ай,아이,아야,ouch,interj,R3,N
+419,разговор,라즈가보르,대화,conversation,noun,R3,Y
+420,мужик,무쥑,사내,guy,noun,R3,Y
+421,конь,꼰,말(馬),horse,noun,R3,Y
+422,прощать,쁘라샤찌,용서하다,to forgive,verb,R3,N
+423,васильевич,바실리예비치,바실리예비치(부칭),Vasilievich,noun,R3,N
+424,красный,끄라스늬,빨간,red,adj,R3,Y
+425,четыре,치띄례,넷,four,num,R3,Y
+426,советский,사볫스끼,소련의,Soviet,adj,R3,N
+427,обязательно,아비자쪨나,꼭,definitely,adv,R3,N
+428,купить,꾸삐찌,사다,to buy,verb,R3,Y
+429,будто,부따,마치,as if,conj,R3,N
+430,полковник,빨꼬브닉,대령,colonel,noun,R3,Y
+431,ура,우라,만세,hooray,interj,R3,Y
+432,семья,시미야,가족,family,noun,R3,Y
+433,огонь,아곤,불,fire,noun,R3,Y
+434,против,쁘로찌프,~에 반대하여,against,prep,R3,N
+435,гражданин,그라즈다닌,시민,citizen,noun,R3,N
+436,успеть,우스뼤찌,시간에 맞추다,to make it in time,verb,R3,N
+437,судьба,수지바,운명,fate,noun,R3,N
+438,спокойно,스빠꼬이나,침착하게,calmly,adv,R3,N
+439,мужчина,무쉬나,남성,man,noun,R3,Y
+440,чуть,추찌,"조금, 하마터면",slightly,adv,R3,N
+441,полный,뽈늬,가득 찬,full,adj,R3,Y
+442,надеяться,나졔야짜,바라다,to hope,verb,R3,N
+443,любой,류보이,어떤 ~라도,any,adj,R3,N
+444,фронт,프론트,전선,front,noun,R3,N
+445,красивый,끄라시븨,아름다운,beautiful,adj,R3,Y
+446,кой,꼬이,어떤(옛말),which,adj,R3,N
+447,номер,노미르,"번호, 객실",number,noun,R3,Y
+448,хозяин,하쟈인,주인,owner,noun,R3,Y
+449,бабушка,바부쉬까,할머니,grandmother,noun,R3,Y
+450,солдат,살닷,병사,soldier,noun,R3,Y
+451,смеяться,스미야짜,웃다,to laugh,verb,R3,Y
+452,попробовать,빠쁘로바바찌,"해 보다, 맛보다",to try,verb,R3,Y
+453,прекрасно,쁘리끄라스나,훌륭하게,wonderfully,adv,R3,N
+454,обещать,아비샤찌,약속하다,to promise,verb,R3,N
+455,стол,스똘,"책상, 식탁",table,noun,R3,Y
+456,кстати,크스따찌,그런데,by the way,conj,R3,N
+457,белый,볠릐,하얀,white,adj,R3,Y
+458,страна,스뜨라나,나라,country,noun,R3,Y
+459,улица,울리짜,거리,street,noun,R3,Y
+460,более,볼리예,더,more,adv,R3,N
+461,александр,알릭산드르,알렉산드르(이름),Alexander,noun,R3,N
+462,отпустить,아뜨뿌스찌찌,놓아주다,to let go,verb,R3,N
+463,передать,삐리다찌,전하다,to pass on,verb,R3,Y
+464,бой,보이,전투,battle,noun,R3,N
+465,коля,꼴랴,콜랴(애칭),Kolya,noun,R3,N
+466,спросить,스쁘라시찌,묻다(완료),to ask,verb,R3,Y
+467,совершенно,사비르셴나,완전히,absolutely,adv,R3,N
+468,армия,아르미야,군대,army,noun,R3,Y
+469,бить,비찌,때리다,to beat,verb,R3,N
+470,волноваться,발나바짜,걱정하다,to worry,verb,R3,N
+471,перестать,삐리스따찌,그만두다,to stop,verb,R3,N
+472,неделя,니졜랴,주(週),week,noun,R3,Y
+473,немец,녜미츠,독일인,German,noun,R3,N
+474,наконец,나까녜츠,마침내,finally,adv,R3,N
+475,успокоиться,우스빠꼬이짜,진정하다,to calm down,verb,R3,N
+476,честь,체스찌,명예,honor,noun,R3,N
+477,сергеевич,시르계예비치,세르게예비치(부칭),Sergeevich,noun,R3,N
+478,беда,비다,불행,trouble,noun,R3,N
+479,звонить,즈바니찌,전화하다,to call,verb,R3,Y
+480,трудно,뜨루드나,어렵다,hard,adv,R3,N
+481,язык,이즥,"언어, 혀",language / tongue,noun,R3,Y
+482,глядеть,글리졔찌,바라보다,to look,verb,R3,Y
+483,старик,스따릭,노인,old man,noun,R3,Y
+484,э,에,어…,uh,interj,R3,N
+485,класс,끌라스,"반, 교실",class,noun,R3,Y
+486,принять,쁘리냐찌,받아들이다,to accept,verb,R3,N
+487,кровь,끄로피,피,blood,noun,R3,N
+488,дед,졧,할아버지,grandpa,noun,R3,Y
+489,пётр,뾰뜨르,표트르(이름),Pyotr,noun,R3,N
+490,саша,사샤,사샤(애칭),Sasha,noun,R3,N
+491,баба,바바,"아줌마, 할머니",old woman,noun,R3,Y
+492,павлович,빠블라비치,파블로비치(부칭),Pavlovich,noun,R3,N
+493,пропасть,쁘라빠스찌,사라지다,to vanish,verb,R3,N
+494,андрей,안드례이,안드레이(이름),Andrei,noun,R3,N
+495,корабль,까라블,배(선박),ship,noun,R3,Y
+496,согласный,사글라스늬,동의하는,agreed,adj,R3,N
+497,приказ,쁘리까스,명령,order,noun,R3,N
+498,вести,비스찌,이끌다,to lead,verb,R3,N
+499,прекрасный,쁘리끄라스늬,훌륭한,wonderful,adj,R3,N
+500,враг,브락,적,enemy,noun,R3,N
+501,поставить,빠스따비찌,세워 놓다,to put,verb,R3,Y
+502,вера,볘라,믿음,faith,noun,R3,N
+503,ночью,노치유,밤에,at night,adv,R3,Y
+504,врать,브라찌,거짓말하다,to lie,verb,R3,N
+505,михайлович,미하일라비치,미하일로비치(부칭),Mikhailovich,noun,R3,N
+506,открыть,아뜨끄릐찌,열다,to open,verb,R3,Y
+507,комната,꼼나따,방,room,noun,R3,Y
+508,царь,짜리,황제(차르),tsar,noun,R3,Y
+509,князь,끄냐시,공작(귀족),prince,noun,R3,Y
+510,лежать,리좌찌,누워 있다,to lie (down),verb,R3,Y
+511,встреча,프스뜨례차,만남,meeting,noun,R3,Y
+512,россия,라씨야,러시아,Russia,noun,R3,Y
+513,майор,마요르,소령,major,noun,R3,Y
+514,честный,체스늬,정직한,honest,adj,R3,N
+515,получиться,빨루치짜,잘되다,to turn out,verb,R3,N
+516,поговорить,빠가바리찌,이야기 나누다,to have a talk,verb,R3,Y
+517,сон,손,"잠, 꿈",sleep / dream,noun,R3,Y
+518,никак,니깍,도저히,in no way,adv,R3,N
+519,ради,라지,~을 위해,for the sake of,prep,R3,N
+520,заходить,자하지찌,들르다,to drop in,verb,R3,Y
+521,чёрный,쵸르늬,검은,black,adj,R3,Y
+522,поэтому,빠에따무,그래서,therefore,adv,R3,N
+523,чужой,추조이,남의,someone else's,adj,R3,N
+524,нечего,녜치바,~할 것이 없다,nothing to,pron,R3,N
+525,плакать,쁠라까찌,울다,to cry,verb,R3,Y
+526,сначала,스나찰라,처음에,at first,adv,R3,N
+527,профессор,쁘라폐사르,교수,professor,noun,R3,Y
+528,власть,블라스찌,권력,power,noun,R3,N
+529,помощь,뽀마쉬,도움,help,noun,R3,N
+530,рад,랏,기쁜,glad,adj,R3,N
+531,поздравлять,빠즈드라블랴찌,축하하다,to congratulate,verb,R3,Y
+532,чувствовать,추스뜨바바찌,느끼다,to feel,verb,R3,N
+533,оставаться,아스따바짜,남아 있다,to remain,verb,R3,N
+534,голос,골라스,목소리,voice,noun,R3,N
+535,представлять,쁘리쯔따블랴찌,"상상하다, 소개하다",to imagine,verb,R3,N
+536,несколько,녜스깔까,몇몇,several,adv,R3,N
+537,жаль,좔,아쉽다,it's a pity,pred,R3,N
+538,немедленно,니몌들렌나,즉시,immediately,adv,R3,N
+539,лошадь,로샤찌,말(馬),horse,noun,R3,Y
+540,кроме,끄로몌,~외에,except,prep,R3,N
+541,видно,비드나,보아하니,apparently,conj,R3,N
+542,чай,차이,차,tea,noun,R3,Y
+543,хватать,흐바따찌,"붙잡다, 충분하다",to grab,verb,R3,N
+544,сестра,시스뜨라,"자매, 누나·언니",sister,noun,R3,Y
+545,кричать,끄리차찌,소리치다,to shout,verb,R3,Y
+546,план,쁠란,계획,plan,noun,R3,N
+547,немой,니모이,말을 못 하는,mute,adj,R3,N
+548,здоровье,즈다로비예,건강,health,noun,R3,N
+549,далеко,달리꼬,멀리,far away,adv,R3,N
+550,закон,자꼰,법,law,noun,R3,N
+551,слишком,슬리쉬깜,너무,too,adv,R3,N
+552,милиция,밀리찌야,경찰(옛),police,noun,R3,Y
+553,ваня,바냐,바냐(애칭),Vanya,noun,R3,N
+554,небо,녜바,하늘,sky,noun,R3,Y
+555,сей,셰이,이(옛말),this,adj,R3,N
+556,завод,자봇,공장,factory,noun,R3,Y
+557,столько,스똘까,그만큼,so much,adv,R3,N
+558,нету,녜뚜,없다(구어),there isn't,pred,R3,N
+559,документ,다꾸멘트,서류,document,noun,R3,Y
+560,предлагать,쁘리들라가찌,제안하다,to offer,verb,R3,N
+561,алло,알로,여보세요,hello (phone),interj,R3,Y
+562,хлеб,흘롑,빵,bread,noun,R3,Y
+563,выпить,븨삐찌,마시다(완료),to drink up,verb,R3,Y
+564,тётя,쬬쨔,"이모, 아주머니",aunt,noun,R3,Y
+565,рядом,랴담,옆에,nearby,adv,R3,N
+566,постоять,빠스따야찌,잠시 서 있다,to stand a while,verb,R3,N
+567,начинать,나치나찌,시작하다,to begin,verb,R3,N
+568,родитель,라지쪨,부모,parent,noun,R3,Y
+569,мысль,믜슬,생각,thought,noun,R3,N
+570,мистер,미스떼르,미스터,mister,noun,R3,N
+571,вася,바샤,바샤(애칭),Vasya,noun,R3,N
+572,весёлый,비숄릐,즐거운,cheerful,adj,R3,Y
+573,поле,뽈례,들판,field,noun,R3,Y
+574,сынок,시녹,아들아,sonny,noun,R3,Y
+575,прочь,쁘로치,저리 가,away,adv,R3,N
+576,немного,니므노가,조금,a little,adv,R3,N
+577,мешать,미샤찌,"방해하다, 섞다",to disturb,verb,R3,N
+578,фёдор,표다르,표도르(이름),Fyodor,noun,R3,N
+579,величество,빌리체스뜨바,폐하,majesty,noun,R3,N
+580,иначе,이나체,그렇지 않으면,otherwise,adv,R3,N
+581,главный,글라브늬,주요한,main,adj,R3,N
+582,сесть,세스찌,앉다(완료),to sit down,verb,R3,Y
+583,директор,지렉따르,"사장, 교장",director,noun,R3,Y
+584,алексей,알릭세이,알렉세이(이름),Alexei,noun,R3,N
+585,газета,가제따,신문,newspaper,noun,R3,Y
+586,оружие,아루쥐예,무기,weapon,noun,R3,N
+587,василий,바실리,바실리(이름),Vasily,noun,R3,N
+588,поздно,뽀즈나,늦게,late,adv,R3,N
+589,павел,빠볠,파벨(이름),Pavel,noun,R3,N
+590,получаться,빨루차짜,잘되다,to work out,verb,R3,N
+591,вспомнить,프스뽐니찌,떠올리다,to recall,verb,R3,N
+592,зря,즈랴,헛되이,in vain,adv,R3,N
+593,высокий,븨소끼,"높은, 키 큰",tall,adj,R3,Y
+594,отвечать,아뜨비차찌,대답하다,to answer,verb,R3,Y
+595,самолёт,사말룟,비행기,airplane,noun,R3,Y
+596,билет,빌롓,"표, 티켓",ticket,noun,R3,Y
+597,утром,우뜨람,아침에,in the morning,adv,R3,Y
+598,сойти,사이찌,내리다,to get off,verb,R3,Y
+599,снова,스노바,다시,again,adv,R3,N
+600,суд,숫,"법원, 재판",court,noun,R3,Y
+601,известно,이즈볘스나,알려져 있다,it is known,pred,R3,N
+602,жалко,좔까,"아깝다, 불쌍하다",it's a pity,adv,R3,N
+603,дедушка,졔두쉬까,할아버지,grandfather,noun,R3,Y
+604,ветер,볘쩨르,바람,wind,noun,R3,Y
+605,плохой,쁠라호이,나쁜,bad,adj,R3,N
+606,окно,아끄노,창문,window,noun,R3,Y
+607,привезти,쁘리비스찌,(차로) 가져오다,to bring (by vehicle),verb,R3,Y
+608,зайти,자이찌,들르다(완료),to drop by,verb,R3,Y
+609,следующий,슬례두쉬,다음의,next,adj,R3,N
+610,погибнуть,빠기브누찌,목숨을 잃다,to perish,verb,R3,N
+611,книга,끄니가,책,book,noun,R3,Y
+612,рассказывать,라스까즤바찌,이야기하다,to tell,verb,R3,Y
+613,дочка,도치까,딸(애칭),daughter,noun,R3,Y
+614,король,까롤,왕,king,noun,R3,Y
+615,деревня,지례브냐,시골 마을,village,noun,R3,Y
+616,лишь,리쉬,단지,only,particle,R3,N
+617,никуда,니꾸다,아무 데도,nowhere,adv,R3,N
+618,офицер,아피쩨르,장교,officer,noun,R3,Y
+619,вставать,프스따바찌,일어나다,to get up,verb,R3,Y
+620,уезжать,우이즈좌찌,(타고) 떠나다,to depart,verb,R3,Y
+621,поезд,뽀이스트,기차,train,noun,R3,Y
+622,тихий,찌히,조용한,quiet,adj,R3,Y
+623,телефон,찔리폰,전화기,phone,noun,R3,Y
+624,похожий,빠호쥐,닮은,similar,adj,R3,N
+625,солнце,손째,"해, 태양",sun,noun,R3,Y
+626,часть,차스찌,부분,part,noun,R3,N
+627,приятно,쁘리야뜨나,"기분 좋다, 반가워요",pleasant,adv,R3,N
+628,нормально,나르말나,괜찮다,okay,adv,R3,N
+629,потерять,빠찌랴찌,잃어버리다,to lose,verb,R3,Y
+630,чей,체이,누구의,whose,adj,R3,N
+631,связь,스뱌시,"연결, 연락",connection,noun,R3,N
+632,встать,프스따찌,일어나다(완료),to stand up,verb,R3,Y
+633,берег,볘리크,"해안, 강가",shore,noun,R3,Y
+634,совет,사볫,조언,advice,noun,R3,N
+635,объяснить,아브이스니찌,설명하다,to explain,verb,R3,N
+636,катя,까쨔,카탸(애칭),Katya,noun,R3,N
+637,свадьба,스바지바,결혼식,wedding,noun,R3,Y
+638,серёжа,시료좌,세료자(애칭),Seryozha,noun,R3,N
+639,герой,기로이,영웅,hero,noun,R3,Y
+640,анна,안나,안나(이름),Anna,noun,R3,N
+641,стрелять,스뜨릴랴찌,쏘다,to shoot,verb,R3,N
+642,учиться,우치짜,공부하다,to study,verb,R3,Y
+643,сто,스또,백(100),hundred,num,R3,N
+644,оказаться,아까자짜,~로 드러나다,to turn out,verb,R3,N
+645,счёт,숏,"계산서, 점수",bill / score,noun,R3,Y
+646,стоять,스따야찌,서 있다,to stand,verb,R3,Y
+647,разный,라즈늬,여러 가지의,various,adj,R3,N
+648,лететь,리쪠찌,날아가다,to fly,verb,R3,Y
+649,попросить,빠쁘라시찌,부탁하다(완료),to ask (request),verb,R3,Y
+650,век,볙,세기,century,noun,R3,N
+651,приказать,쁘리까자찌,명령하다,to order,verb,R3,N
+652,десять,졔시찌,열,ten,num,R3,Y
+653,страшно,스뜨라쉬나,무섭다,scary,adv,R3,N
+654,заниматься,자니마짜,"~에 종사하다, 운동하다",to be engaged in,verb,R4,N
+655,почти,빠치찌,거의,almost,adv,R4,N
+656,устать,우스따찌,지치다,to get tired,verb,R4,Y
+657,придумать,쁘리두마찌,생각해 내다,to come up with,verb,R4,N
+658,начало,나찰라,시작,beginning,noun,R4,N
+659,девчонка,지프촌까,여자애,girl,noun,R4,Y
+660,снять,스냐찌,"벗다, 찍다, 빌리다",to take off,verb,R4,N
+661,врач,브라치,의사,doctor,noun,R4,Y
+662,театр,찌아뜨르,극장,theater,noun,R4,Y
+663,радость,라다스찌,기쁨,joy,noun,R4,N
+664,знакомый,즈나꼬믜,아는 (사람),acquaintance,adj,R4,N
+665,надоесть,나다예스찌,질리다,to bore,verb,R4,N
+666,ух,우흐,우와,wow,interj,R4,N
+667,шаг,샥,걸음,step,noun,R4,Y
+668,надежда,나졔즈다,희망,hope,noun,R4,N
+669,больно,볼나,아프다,painful,adv,R4,Y
+670,двадцать,드바짜찌,스물,twenty,num,R4,N
+671,святой,스비또이,성스러운,holy,adj,R4,N
+672,невеста,니볘스따,신부,bride,noun,R4,Y
+673,договориться,다가바리짜,합의하다,to agree,verb,R4,N
+674,стыдно,스띄드나,부끄럽다,shameful,adv,R4,N
+675,володя,발로쟈,볼로댜(애칭),Volodya,noun,R4,N
+676,находиться,나하지짜,위치하다,to be located,verb,R4,N
+677,память,빠미찌,기억,memory,noun,R4,N
+678,сэр,세르,경(sir),sir,noun,R4,N
+679,спасти,스빠스찌,구하다,to save,verb,R4,N
+680,оба,오바,둘 다,both,num,R4,N
+681,кончиться,꼰치짜,끝나다,to end,verb,R4,N
+682,принимать,쁘리니마찌,받다,to accept,verb,R4,N
+683,братец,브라쩨츠,형제(애칭),little brother,noun,R4,Y
+684,счастливый,샤슬리븨,행복한,happy,adj,R4,Y
+685,маша,마샤,마샤(애칭),Masha,noun,R4,N
+686,команда,까만다,팀,team,noun,R4,Y
+687,двор,드보르,마당,yard,noun,R4,Y
+688,подойти,빠다이찌,다가가다,to approach,verb,R4,Y
+689,институт,인스찌뚯,"대학, 연구소",institute,noun,R4,Y
+690,отношение,아뜨나셰니예,"관계, 태도",attitude,noun,R4,N
+691,ключ,끌류치,열쇠,key,noun,R4,Y
+692,река,리까,강,river,noun,R4,Y
+693,следовать,슬례다바찌,따르다,to follow,verb,R4,N
+694,замуж,자무쉬,(여자가) 시집,marriage (for a woman),adv,R4,N
+695,золото,졸라따,금,gold,noun,R4,Y
+696,вечером,볘체람,저녁에,in the evening,adv,R4,Y
+697,минуточка,미누따치까,잠깐만,just a minute,noun,R4,N
+698,служба,슬루즈바,"근무, 복무",service,noun,R4,N
+699,наука,나우까,과학,science,noun,R4,N
+700,любимый,류비믜,좋아하는,favorite,adj,R4,N
+701,смысл,스믜슬,의미,meaning,noun,R4,N
+702,военный,바옌늬,군의,military,adj,R4,N
+703,нос,노스,코,nose,noun,R4,Y
+704,район,라이온,지역,district,noun,R4,N
+705,жениться,쥐니짜,(남자가) 결혼하다,to marry,verb,R4,Y
+706,положение,빨라줴니예,상황,situation,noun,R4,N
+707,серьёзно,시리요즈나,진지하게,seriously,adv,R4,N
+708,долг,돌크,"빚, 의무",debt,noun,R4,N
+709,иногда,이나그다,가끔,sometimes,adv,R4,N
+710,золотой,잘라또이,금으로 된,golden,adj,R4,Y
+711,наслать,나슬라찌,보내다(재앙을),to send upon,verb,R4,N
+712,позвонить,빠즈바니찌,전화하다(완료),to call,verb,R4,Y
+713,страшный,스뜨라쉬늬,무서운,scary,adj,R4,N
+714,ответить,아뜨볘찌찌,대답하다(완료),to answer,verb,R4,Y
+715,владимир,블라지미르,블라디미르(이름),Vladimir,noun,R4,N
+716,воля,볼랴,"의지, 자유",will,noun,R4,N
+717,держаться,지르좌짜,버티다,to hold on,verb,R4,N
+718,мальчишка,말치쉬까,사내아이,boy,noun,R4,Y
+719,цель,쩰,목표,goal,noun,R4,N
+720,остальной,아스딸노이,나머지의,the rest,adj,R4,N
+721,возможно,바즈모즈나,아마,possibly,conj,R4,N
+722,привести,쁘리비스찌,데려오다,to bring (someone),verb,R4,Y
+723,птица,쁘찌짜,새,bird,noun,R4,Y
+724,кино,끼노,영화(관),cinema,noun,R4,Y
+725,сметь,스몌찌,감히 ~하다,to dare,verb,R4,N
+726,нести,니스찌,들고 가다,to carry,verb,R4,Y
+727,произойти,쁘라이자이찌,일어나다,to happen,verb,R4,N
+728,например,나쁘리몌르,예를 들어,for example,conj,R4,N
+729,захотеть,자하쩨찌,원하게 되다,to want,verb,R4,N
+730,паша,빠샤,파샤(애칭),Pasha,noun,R4,N
+731,игра,이그라,"게임, 놀이",game,noun,R4,Y
+732,личный,리치늬,개인적인,personal,adj,R4,N
+733,слушайте,슬루샤이쪠,들어 보세요,listen,interj,R4,N
+734,миша,미샤,미샤(애칭),Misha,noun,R4,N
+735,пара,빠라,"한 쌍, 커플",pair,noun,R4,Y
+736,чистый,치스띄,깨끗한,clean,adj,R4,Y
+737,двое,드보예,두 사람,two (people),num,R4,Y
+738,заметить,자몌찌찌,알아차리다,to notice,verb,R4,N
+739,край,끄라이,"가장자리, 지방",edge,noun,R4,N
+740,труд,뜨룻,노동,labor,noun,R4,N
+741,немецкий,니몌츠끼,독일의,German,adj,R4,N
+742,запомнить,자뽐니찌,기억해 두다,to memorize,verb,R4,N
+743,батюшка,바쮸쉬까,"아버님, 신부님",father (dear),noun,R4,N
+744,требовать,뜨례바바찌,요구하다,to demand,verb,R4,N
+745,родиться,라지짜,태어나다,to be born,verb,R4,N
+746,урок,우록,수업,lesson,noun,R4,Y
+747,найтись,나이찌시,찾아지다,to be found,verb,R4,N
+748,обратно,아브라뜨나,되돌아,back,adv,R4,N
+749,отряд,아뜨랴트,부대,squad,noun,R4,N
+750,далее,달리예,이후,further,adv,R4,N
+751,проводить,쁘라바지찌,"배웅하다, 보내다(시간)",to see off,verb,R4,N
+752,александрович,알릭산드라비치,알렉산드로비치(부칭),Alexandrovich,noun,R4,N
+753,сказка,스까스까,동화,fairy tale,noun,R4,Y
+754,группа,그루빠,그룹,group,noun,R4,Y
+755,игорь,이가리,이고리(이름),Igor,noun,R4,N
+756,дух,두흐,"정신, 영",spirit,noun,R4,N
+757,слушаться,슬루샤짜,말을 듣다,to obey,verb,R4,N
+758,подарок,빠다럭,선물,gift,noun,R4,Y
+759,чудо,추다,기적,miracle,noun,R4,N
+760,поверить,빠볘리찌,믿다(완료),to believe,verb,R4,N
+761,болеть,발례찌,아프다,to be ill,verb,R4,Y
+762,стих,스찌흐,시(詩),poem,noun,R4,Y
+763,честно,체스나,솔직히,honestly,adv,R4,N
+764,разговаривать,라즈가바리바찌,대화하다,to talk,verb,R4,Y
+765,ухо,우하,귀,ear,noun,R4,Y
+766,воздух,보즈두흐,공기,air,noun,R4,N
+767,видать,비다찌,보이다(구어),to see (colloq.),verb,R4,N
+768,собственный,소프스뜨볜늬,자신의,own,adj,R4,N
+769,лично,리치나,개인적으로,personally,adv,R4,N
+770,угодно,우고드나,원하는 대로,whatever,adj,R4,N
+771,партия,빠르찌야,"정당, 판",party,noun,R4,N
+772,происходить,쁘라이스하지찌,일어나다,to happen,verb,R4,N
+773,звезда,즈비즈다,별,star,noun,R4,Y
+774,чувство,추스뜨바,감정,feeling,noun,R4,N
+775,приезжать,쁘리이즈좌찌,(타고) 오다,to arrive,verb,R4,Y
+776,серьёзный,시리요즈늬,진지한,serious,adj,R4,N
+777,пол,뽈,바닥,floor,noun,R4,Y
+778,странный,스뜨란늬,이상한,strange,adj,R4,N
+779,семён,시묜,세묜(이름),Semyon,noun,R4,N
+780,среди,스리지,~가운데,among,prep,R4,N
+781,победа,빠볘다,승리,victory,noun,R4,N
+782,виктор,빅따르,빅토르(이름),Viktor,noun,R4,N
+783,тайна,따이나,비밀,secret,noun,R4,N
+784,беспокоиться,비스빠꼬이짜,걱정하다,to worry,verb,R4,N
+785,простой,쁘라스또이,간단한,simple,adj,R4,N
+786,единственный,이진스뜨볜늬,유일한,only,adj,R4,N
+787,сожаление,사좔례니예,유감,regret,noun,R4,N
+788,праздник,쁘라즈닉,"명절, 축제",holiday,noun,R4,Y
+789,называться,나즤바짜,~라고 불리다,to be called,verb,R4,N
+790,жених,쥐니흐,신랑,groom,noun,R4,Y
+791,ответ,아뜨볫,대답,answer,noun,R4,N
+792,встретить,프스뜨례찌찌,"만나다, 마중하다",to meet,verb,R4,Y
+793,сад,삿,정원,garden,noun,R4,Y
+794,адрес,아드리스,주소,address,noun,R4,N
+795,странно,스뜨란나,이상하다,strangely,adv,R4,N
+796,выход,븨하트,출구,exit,noun,R4,Y
+797,бумага,부마가,종이,paper,noun,R4,Y
+798,родина,로지나,"조국, 고향",homeland,noun,R4,N
+799,учитель,우치쩰,선생님,teacher,noun,R4,Y
+800,шесть,셰스찌,여섯,six,num,R4,Y
+801,войти,바이찌,들어가다,to enter,verb,R4,Y
+802,собраться,사브라짜,모이다,to gather,verb,R4,Y
+803,остановиться,아스따나비짜,멈추다,to stop,verb,R4,Y
+804,больной,발노이,"아픈, 환자",sick,adj,R4,Y
+805,прежде,쁘례즈졔,~전에,before,prep,R4,N
+806,камень,까민,돌,stone,noun,R4,Y
+807,идея,이졔야,"생각, 아이디어",idea,noun,R4,N
+808,познакомиться,빠즈나꼬미짜,알게 되다,to get acquainted,verb,R4,Y
+809,сосед,사셋,이웃,neighbor,noun,R4,Y
+810,артист,아르찌스트,"배우, 예술가",artist,noun,R4,Y
+811,пожалуй,빠좔루이,아마도,perhaps,conj,R4,N
+812,семь,셈,일곱,seven,num,R4,Y
+813,шутка,슛까,농담,joke,noun,R4,N
+814,некоторый,녜까따릐,어떤,some,adj,R4,N
+815,тюрьма,쮸리마,감옥,prison,noun,R4,N
+816,позвать,빠즈바찌,부르다,to call over,verb,R4,Y
+817,удаться,우다짜,성공하다,to succeed,verb,R4,N
+818,понравиться,빠느라비짜,마음에 들다(완료),to like,verb,R4,N
+819,вино,비노,와인,wine,noun,R4,Y
+820,покой,빠꼬이,평온,peace,noun,R4,N
+821,след,슬롓,"흔적, 발자국",trace,noun,R4,Y
+822,операция,아삐라찌야,"수술, 작전",operation,noun,R4,N
+823,учить,우치찌,"가르치다, 외우다",to teach,verb,R4,Y
+824,удовольствие,우다볼스뜨비예,즐거움,pleasure,noun,R4,N
+825,лёгкий,료흐끼,"가벼운, 쉬운",light / easy,adj,R4,N
+826,граница,그라니짜,국경,border,noun,R4,N
+827,важный,바즈늬,중요한,important,adj,R4,N
+828,цветок,쯔비똑,꽃,flower,noun,R4,Y
+829,обед,아볫,점심,lunch,noun,R4,Y
+830,разобраться,라자브라짜,파악하다,to figure out,verb,R4,N
+831,михаил,미하일,미하일(이름),Mikhail,noun,R4,N
+832,часто,차스따,자주,often,adv,R4,N
+833,подходить,빠트하지찌,"다가가다, 어울리다",to approach,verb,R4,N
+834,осторожно,아스따로즈나,조심해,carefully,adv,R4,N
+835,гореть,가례찌,타다,to burn,verb,R4,Y
+836,вместо,브몌스따,~대신에,instead of,prep,R4,N
+837,однако,아드나꼬,그러나,however,conj,R4,N
+838,речь,례치,"말, 연설",speech,noun,R4,N
+839,умный,움늬,똑똑한,smart,adj,R4,N
+840,федя,폐쟈,페댜(애칭),Fedya,noun,R4,N
+841,достать,다스따찌,"꺼내다, 구하다",to get,verb,R4,N
+842,совесть,소비스찌,양심,conscience,noun,R4,N
+843,станция,스딴찌야,역,station,noun,R4,Y
+844,войско,보이스까,군대,troops,noun,R4,N
+845,начаться,나차짜,시작되다,to begin,verb,R4,N
+846,свобода,스바보다,자유,freedom,noun,R4,N
+847,везти,비스찌,"(차로) 나르다, 운이 좋다",to carry (by vehicle),verb,R4,N
+848,рыба,릐바,"물고기, 생선",fish,noun,R4,Y
+849,ступать,스뚜빠찌,발을 디디다,to step,verb,R4,N
+850,спешить,스삐쉬찌,서두르다,to hurry,verb,R4,Y
+851,пан,빤,나리(폴란드어),sir (Polish),noun,R4,N
+852,борис,바리스,보리스(이름),Boris,noun,R4,N
+853,мастер,마스찌르,"장인, 달인",master,noun,R4,N
+854,лезть,례스찌,기어오르다,to climb,verb,R4,Y
+855,встретиться,프스뜨례찌짜,만나다,to meet,verb,R4,Y
+856,отлично,아뜰리치나,훌륭해,excellent,adv,R4,N
+857,пускай,뿌스까이,~하게 두다,let,conj,R4,N
+858,карта,까르따,"지도, 카드",map,noun,R4,Y
+859,ошибка,아쉽까,실수,mistake,noun,R4,N
+860,интересный,인찌례스늬,재미있는,interesting,adj,R4,N
+861,мера,몌라,"정도, 조치",measure,noun,R4,N
+862,инженер,인쥐녜르,기술자,engineer,noun,R4,Y
+863,еда,이다,음식,food,noun,R4,Y
+864,зато,자또,그 대신,but then,conj,R4,N
+865,получать,빨루차찌,받다,to receive,verb,R4,Y
+866,момент,마멘트,순간,moment,noun,R4,N
+867,продолжать,쁘라달좌찌,계속하다,to continue,verb,R4,N
+868,браво,브라바,브라보,bravo,adv,R4,N
+869,степан,스찌빤,스테판(이름),Stepan,noun,R4,N
+870,предложение,쁘리들라줴니예,"제안, 문장",proposal / sentence,noun,R4,N
+871,немножко,니므노쉬까,조금,a little bit,adv,R4,N
+872,клясться,끌랴스짜,맹세하다,to swear,verb,R4,N
+873,мария,마리야,마리야(이름),Maria,noun,R4,N
+874,прошлый,쁘로쉴릐,지난,last (previous),adj,R4,N
+875,появиться,빠이비짜,나타나다,to appear,verb,R4,N
+876,очередь,오체리찌,"줄, 차례",queue,noun,R4,Y
+877,село,실로,마을,village,noun,R4,Y
+878,грех,그례흐,죄,sin,noun,R4,N
+879,председатель,쁘리째다쪨,의장,chairman,noun,R4,N
+880,характер,하락쪠르,성격,character,noun,R4,N
+881,проклятый,쁘라끌랴띄,저주받은,damned,adj,R4,N
+882,магазин,마가진,가게,shop,noun,R4,Y
+883,старший,스따르쉬,손위의,elder,noun,R4,N
+884,наташа,나따샤,나타샤(애칭),Natasha,noun,R4,N
+885,слеза,슬리자,눈물,tear,noun,R4,Y
+886,вызывать,븨즤바찌,부르다,to call,verb,R4,N
+887,торопиться,따라삐짜,서두르다,to hurry,verb,R4,Y
+888,легко,리흐꼬,쉽게,easily,adv,R4,N
+889,служить,슬루쥐찌,근무하다,to serve,verb,R4,N
+890,ход,홋,"움직임, 수",move,noun,R4,N
+891,ольга,올가,올가(이름),Olga,noun,R4,N
+892,андреевич,안드례예비치,안드레예비치(부칭),Andreevich,noun,R4,N
+893,помогать,빠마가찌,돕다,to help,verb,R4,Y
+894,положить,빨라쥐찌,놓다,to put,verb,R4,Y
+895,весна,비스나,봄,spring,noun,R4,Y
+896,охота,아호따,"사냥, 하고 싶음",hunting,noun,R4,Y
+897,удар,우다르,타격,blow,noun,R4,N
+898,детство,졧스뜨바,어린 시절,childhood,noun,R4,N
+899,причина,쁘리치나,이유,reason,noun,R4,N
+900,называть,나즤바찌,부르다,to call (name),verb,R4,N
+901,гулять,굴랴찌,산책하다,to walk,verb,R4,Y
+902,насчёт,나숏,~에 관해,regarding,prep,R4,N
+903,женя,줴냐,제냐(애칭),Zhenya,noun,R4,N
+904,решение,리셰니예,결정,decision,noun,R4,N
+905,срочно,스로치나,급히,urgently,adv,R4,N
+906,гад,갓,나쁜 놈,scoundrel,noun,R4,N
+907,образ,오브라스,"모습, 방식",image,noun,R4,N
+908,несчастный,니샤스늬,불행한,unhappy,adj,R4,N
+909,задача,자다차,과제,task,noun,R4,N
+910,дама,다마,부인,lady,noun,R4,Y
+911,оля,올랴,올랴(애칭),Olya,noun,R4,N
+912,невозможно,니바즈모즈나,불가능하다,impossible,adv,R4,N
+913,зверь,즈볘리,짐승,beast,noun,R4,Y
+914,курс,꾸르스,"과정, 학년",course,noun,R4,N
+915,поймать,빠이마찌,잡다,to catch,verb,R4,Y
+916,стоп,스또프,멈춰,stop,interj,R4,Y
+917,бедный,볘드늬,가난한,poor,adj,R4,N
+918,рождение,라즈졔니예,탄생,birth,noun,R4,N
+919,становиться,스따나비짜,~이 되다,to become,verb,R4,N
+920,танк,딴크,탱크,tank,noun,R4,Y
+921,повезти,빠비스찌,운이 좋다,to be lucky,verb,R4,N
+922,возможность,바즈모즈나스찌,기회,opportunity,noun,R4,N
+923,трогать,뜨로가찌,만지다,to touch,verb,R4,Y
+924,забрать,자브라찌,가져가다,to take away,verb,R4,N
+925,постараться,빠스따라짜,애쓰다,to try hard,verb,R4,N
+926,таня,따냐,타냐(애칭),Tanya,noun,R4,N
+927,довольно,다볼나,꽤,quite,adv,R4,N
+928,назвать,나즈바찌,이름 짓다,to name,verb,R4,N
+929,успех,우스뼤흐,성공,success,noun,R4,N
+930,ставить,스따비찌,세우다,to put,verb,R4,Y
+931,обязан,아뱌잔,~해야 할 의무가 있다,obliged,adj,R4,N
+932,тяжёлый,찌좔릐,무거운,heavy,adj,R4,Y
+933,лодка,롯까,보트,boat,noun,R4,Y
+934,вокруг,바끄룩,주위에,around,prep,R4,N
+935,мадам,마담,부인(마담),madam,noun,R4,N
+936,дождь,도쉬,비,rain,noun,R4,Y
+937,фёдорович,표다라비치,표도로비치(부칭),Fyodorovich,noun,R4,N
+938,слыхать,슬리하찌,들리다(구어),to hear (colloq.),verb,R4,N
+939,лето,례따,여름,summer,noun,R4,Y
+940,важно,바즈나,중요하다,important,adv,R4,N
+941,стараться,스따라짜,노력하다,to try,verb,R4,N
+942,штаб,쉬땁,본부,headquarters,noun,R4,N
+943,принцесса,쁘린쩨사,공주,princess,noun,R4,Y
+944,детский,졧스끼,아이의,children's,adj,R4,N
+945,дерево,졔리바,나무,tree,noun,R4,Y
+946,отойти,아따이찌,물러서다,to step away,verb,R4,N
+947,условие,우슬로비예,조건,condition,noun,R4,N
+948,особенно,아소벤나,특히,especially,adv,R4,N
+949,дура,두라,바보(여),fool (fem.),noun,R4,N
+950,убрать,우브라찌,치우다,to tidy away,verb,R4,Y
+951,опоздать,아빠즈다찌,늦다,to be late,verb,R4,Y
+952,шутить,슈찌찌,농담하다,to joke,verb,R4,N
+953,изволить,이즈볼리찌,~하시다(옛 존대),to deign,verb,R4,N
+954,петя,뼤쨔,페탸(애칭),Petya,noun,R4,N
+955,колхоз,깔호스,집단농장,collective farm,noun,R4,Y
+956,глупый,글루쁴,어리석은,stupid,adj,R4,N
+957,испугаться,이스뿌가짜,겁먹다,to get scared,verb,R4,Y
+958,зуб,줍,이(치아),tooth,noun,R4,Y
+959,нина,니나,니나(이름),Nina,noun,R4,N
+960,будущее,부두쉬예,미래,future,noun,R4,N
+961,мамочка,마마치까,엄마(애칭),mommy,noun,R4,Y
+962,прекратить,쁘리끄라찌찌,그만두다,to stop,verb,R4,N
+963,государь,가수다리,군주,sovereign,noun,R4,Y
+964,семёнович,시묘나비치,세묘노비치(부칭),Semyonovich,noun,R4,N
+965,революция,리발류찌야,혁명,revolution,noun,R4,N
+966,итак,이딱,그래서,so,conj,R4,N
+967,курить,꾸리찌,담배 피우다,to smoke,verb,R4,Y
+968,шум,슘,소음,noise,noun,R4,N
+969,носить,나시찌,"입고 다니다, 나르다",to wear / carry,verb,R4,Y
+970,секрет,시끄롓,비밀,secret,noun,R4,N
+971,красота,끄라사따,아름다움,beauty,noun,R4,N
+972,упасть,우빠스찌,넘어지다,to fall,verb,R4,Y
+973,антон,안똔,안톤(이름),Anton,noun,R4,N
+974,больница,발니짜,병원,hospital,noun,R4,Y
+975,митя,미쨔,미탸(애칭),Mitya,noun,R4,N
+976,факт,팍트,사실,fact,noun,R4,N
+977,случайно,슬루차이나,우연히,by chance,adv,R4,N
+978,продать,쁘라다찌,팔다,to sell,verb,R4,Y
+979,явиться,이비짜,나타나다,to appear,verb,R4,N
+980,просьба,쁘로지바,부탁,request,noun,R4,N
+981,велеть,빌례찌,명하다,to order,verb,R4,N
+982,костя,꼬스쨔,코스탸(애칭),Kostya,noun,R4,N
+983,привыкнуть,쁘리븨크누찌,익숙해지다,to get used to,verb,R4,N
+984,палец,빨리츠,손가락,finger,noun,R4,Y
+985,выше,븨셰,더 높이,higher,adv,R4,N
+986,желание,쥘라니예,소원,wish,noun,R4,N
+987,лена,례나,레나(애칭),Lena,noun,R4,N
+988,миллион,밀리온,백만,million,noun,R4,N
+989,сильный,실늬,강한,strong,adj,R4,Y
+990,штука,쉬뚜까,"물건, 개",thing,noun,R4,N
+991,половина,빨라비나,절반,half,noun,R4,Y
+992,устроить,우스뜨로이찌,마련하다,to arrange,verb,R4,N
+993,мечтать,미치따찌,꿈꾸다,to dream,verb,R4,Y
+994,срок,스록,기한,term,noun,R4,N
+995,корова,까로바,소,cow,noun,R4,Y
+996,сорок,소락,마흔,forty,num,R4,N
+997,комиссар,까미사르,정치위원,commissar,noun,R4,N
+998,телеграмма,찔리그람마,전보,telegram,noun,R4,Y
+999,сволочь,스볼라치,나쁜 놈,scum,noun,R4,N
+1000,свободный,스바보드늬,"자유로운, 빈",free,adj,R4,N
+1001,волк,볼크,늑대,wolf,noun,R4,Y
+1002,близкий,블리스끼,가까운,close,adj,R4,N
+1003,проверить,쁘라볘리찌,확인하다,to check,verb,R4,N
+1004,надя,나쟈,나댜(애칭),Nadya,noun,R4,N
+1005,стена,스찌나,벽,wall,noun,R4,Y
+1006,подарить,빠다리찌,선물하다,to give (a gift),verb,R4,Y
+1007,чемодан,치마단,여행 가방,suitcase,noun,R4,Y
+1008,цена,쩨나,가격,price,noun,R4,Y
+1009,занятый,자냐띄,바쁜,busy,adj,R4,N
+1010,уверенный,우볘롄늬,확신하는,sure,adj,R4,N
+1011,левый,례븨,왼쪽의,left,adj,R4,Y
+1012,снимать,스니마찌,"벗다, 촬영하다",to take off / film,verb,R4,N
+1013,возвращаться,바즈브라샤짜,돌아오다,to return,verb,R4,Y
+1014,входить,프하지찌,들어가다,to enter,verb,R4,Y
+1015,боевой,바이보이,전투의,combat,adj,R4,N
+1016,украсть,우끄라스찌,훔치다,to steal,verb,R4,Y
+1017,восемь,보심,여덟,eight,num,R4,Y
+1018,снег,스녝,눈(雪),snow,noun,R4,Y
+1019,часы,치씌,시계,clock,noun,R4,Y
+1020,смех,스몌흐,웃음,laughter,noun,R4,Y
+1021,форма,포르마,"형태, 제복",form / uniform,noun,R4,N
+1022,звучать,즈부차찌,울리다,to sound,verb,R4,N
+1023,бригада,브리가다,작업반,team (brigade),noun,R4,N
+1024,пригласить,쁘리글라시찌,초대하다,to invite,verb,R4,Y
+1025,марш,마르쉬,"행진, 출발!",march,interj,R4,N
+1026,зелёный,질료늬,초록색의,green,adj,R4,Y
+1027,лишний,리쉬니,"남는, 불필요한",extra,adj,R4,N
+1028,свидетель,스비졔쪨,증인,witness,noun,R4,N
+1029,бывший,븨프쉬,전(前)의,former,adj,R4,N
+1030,злой,즐로이,"화난, 사나운",angry,adj,R4,Y
+1031,общество,옵쉐스뜨바,사회,society,noun,R4,N
+1032,узнавать,우즈나바찌,알아보다,to recognize,verb,R4,N
+1033,мнение,므녜니예,의견,opinion,noun,R4,N
+1034,страх,스뜨라흐,두려움,fear,noun,R4,N
+1035,побежать,빠비좌찌,뛰기 시작하다,to start running,verb,R4,Y
+1036,фотография,파따그라피야,사진,photo,noun,R4,Y
+1037,танец,따니츠,춤,dance,noun,R4,Y
+1038,глупость,글루빠스찌,어리석은 짓,nonsense,noun,R4,N
+1039,лев,롑,사자,lion,noun,R4,Y
+1040,копейка,까뼤이까,코페이카(동전),kopeck,noun,R4,Y
+1041,пример,쁘리몌르,예,example,noun,R4,N
+1042,повод,뽀바트,"이유, 계기",occasion,noun,R4,N
+1043,ишь,이쉬,"어머나, 이것 봐라",look at that,interj,R4,N
+1044,девка,졔프까,처녀(낮춤),wench,noun,R4,N
+1045,пожалеть,빠좔례찌,"불쌍히 여기다, 후회하다",to pity,verb,R4,N
+1046,точка,또치까,"점, 마침표",point,noun,R4,N
+1047,спокойный,스빠꼬이늬,차분한,calm,adj,R4,N
+1048,милость,밀라스찌,자비,mercy,noun,R4,N
+1049,вернуть,비르누찌,돌려주다,to give back,verb,R4,Y
+1050,ложиться,라쥐짜,눕다,to lie down,verb,R4,Y
+1051,сеньор,시뇨르,세뇨르,señor,noun,R4,N
+1052,мост,모스트,다리(교량),bridge,noun,R4,Y
+1053,борьба,바리바,"투쟁, 레슬링",struggle,noun,R4,N
+1054,показаться,빠까자짜,~처럼 보이다,to seem,verb,R4,N
+1055,остров,오스뜨라프,섬,island,noun,R4,Y
+1056,недавно,니다브나,최근에,recently,adv,R4,N
+1057,сходить,스하지찌,다녀오다,to go and come back,verb,R4,N
+1058,особый,아소븨,특별한,special,adj,R4,N
+1059,гнать,그나찌,"몰다, 쫓다",to drive,verb,R4,N
+1060,приходиться,쁘리하지짜,~해야 하다,to have to,verb,R4,N
+1061,вполне,프빨녜,충분히,quite,adv,R4,N
+1062,красавица,끄라사비짜,미인,beauty,noun,R4,Y
+1063,знак,즈낙,"표지, 신호",sign,noun,R4,Y
+1064,тянуть,찌누찌,당기다,to pull,verb,R4,Y
+1065,посидеть,빠시졔찌,잠시 앉아 있다,to sit a while,verb,R4,Y
+1066,тридцать,뜨리짜찌,서른,thirty,num,R4,N
+1067,пустой,뿌스또이,빈,empty,adj,R4,Y
+1068,навсегда,나프시그다,영원히,forever,adv,R4,N
+1069,кругом,끄루곰,주위에,around,adv,R4,N
+1070,водка,봇까,보드카,vodka,noun,R4,Y
+1071,роман,라만,"소설, 연애",novel,noun,R4,Y
+1072,роль,롤,역할,role,noun,R4,N
+1073,вор,보르,도둑,thief,noun,R4,Y
+1074,пятый,뺘띄,다섯 번째,fifth,adj,R4,N
+1075,уважаемый,우바좌이믜,존경하는,dear (respected),adj,R4,N
+1076,париж,빠리쉬,파리,Paris,noun,R4,Y
+1077,противник,쁘라찌브닉,"상대, 적",opponent,noun,R4,N
+1078,талант,딸란트,재능,talent,noun,R4,N
+1079,ездить,예즈지찌,(타고) 다니다,to ride,verb,R4,Y
+1080,проблема,쁘라블례마,문제,problem,noun,R4,N
+1081,впрочем,프쁘로쳄,하긴,however,conj,R4,N
+1082,необходимо,니아브하지마,반드시 필요하다,necessary,pred,R4,N
+1083,хлопец,흘로삐츠,젊은이(우크라),lad,noun,R4,N
+1084,осторожный,아스따로즈늬,조심스러운,careful,adj,R4,N
+1085,интересовать,인찌리사바찌,관심을 끌다,to interest,verb,R4,N
+1086,представить,쁘리쯔따비찌,"상상하다, 소개하다",to imagine,verb,R4,N
+1087,танцевать,딴쩨바찌,춤추다,to dance,verb,R4,Y
+1088,лёша,료샤,료샤(애칭),Lyosha,noun,R4,N
+1089,задание,자다니예,과제,assignment,noun,R4,N
+1090,картина,까르찌나,그림,painting,noun,R4,Y
+1091,поднять,빠드냐찌,들어 올리다,to lift,verb,R4,Y
+1092,встречать,프스뜨리차찌,맞이하다,to meet,verb,R4,Y
+1093,минутка,미누뜨까,잠깐,a moment,noun,R4,N
+1094,подруга,빠드루가,여자 친구(동성),girlfriend (friend),noun,R4,Y
+1095,закрыть,자끄릐찌,닫다,to close,verb,R4,Y
+1096,дружба,드루즈바,우정,friendship,noun,R4,N
+1097,состояние,사스따야니예,상태,condition,noun,R4,N
+1098,касаться,까사짜,"관련되다, 닿다",to concern,verb,R4,N
+1099,добро,다브로,"선, 좋아",good,adv,R4,N
+1100,достаточно,다스따따치나,충분히,enough,adv,R4,N
+1101,искусство,이스꾸스뜨바,예술,art,noun,R4,N
+1102,расти,라스찌,자라다,to grow,verb,R4,Y
+1103,угол,우걸,모퉁이,corner,noun,R4,Y
+1104,рабочий,라보치,노동자의,worker,adj,R4,Y
+1105,учёный,우쵸늬,학자,scientist,noun,R4,Y
+1106,пасть,빠스찌,쓰러지다,to fall,verb,R4,N
+1107,алексеевич,알릭세예비치,알렉세예비치(부칭),Alekseevich,noun,R4,N
+1108,книжка,끄니쉬까,책(작은),little book,noun,R4,Y
+1109,медведь,미드볘찌,곰,bear,noun,R4,Y
+1110,ерунда,이룬다,헛소리,nonsense,noun,R4,N
+1111,начальство,나찰스뜨바,상관들,the bosses,noun,R4,N
+1112,ужасно,우좌스나,끔찍하게,terribly,adv,R4,N
+1113,небось,니보시,아마,probably,particle,R4,N
+1114,согласиться,사글라시짜,동의하다,to agree,verb,R4,N
+1115,убежать,우비좌찌,도망치다,to run away,verb,R4,Y
+1116,ворота,바로따,대문,gate,noun,R4,Y
+1117,батя,바쨔,아버지(구어),dad,noun,R4,N
+1118,граф,그라프,백작,count,noun,R4,Y
+1119,километр,낄라몌뜨르,킬로미터,kilometer,noun,R4,N
+1120,художник,후도즈닉,화가,painter,noun,R4,Y
+1121,счастливо,샤슬리바,잘 가요,good luck,adv,R4,N
+1122,услышать,우슬리샤찌,듣다(완료),to hear,verb,R4,Y
+1123,приём,쁘리욤,"접수, 환영회",reception,noun,R4,N
+1124,мечта,미치따,꿈,dream,noun,R4,N
+1125,бандит,반지트,강도,bandit,noun,R4,Y
+1126,бросать,브라사찌,던지다,to throw,verb,R4,Y
+1127,верный,볘르늬,"충실한, 옳은",faithful,adj,R4,N
+1128,похоже,빠호줴,~인 것 같다,it seems,adv,R4,N
+1129,вызвать,븨즈바찌,부르다,to summon,verb,R4,N
+1130,действовать,졔이스뜨바바찌,행동하다,to act,verb,R4,N
+1131,также,딱줴,또한,also,particle,R4,N
+1132,союз,사유스,연합,union,noun,R4,N
+1133,нынче,늰체,요즘,nowadays,adv,R4,N
+1134,сообщить,사압쉬찌,알리다,to inform,verb,R4,N
+1135,замечательный,자미차쪨늬,멋진,wonderful,adj,R4,N
+1136,сапог,사뽁,장화,boot,noun,R4,Y
+1137,напрасно,나쁘라스나,헛되이,in vain,adv,R4,N
+1138,хе,헤,헤,heh,interj,R4,N
+1139,вырасти,븨라스찌,자라다(완료),to grow up,verb,R4,Y
+1140,зло,즐로,악,evil,noun,R4,N
+1141,журнал,주르날,잡지,magazine,noun,R4,Y
+1142,преступник,쁘리스뚜쁘닉,범죄자,criminal,noun,R4,N
+1143,витя,비쨔,비탸(애칭),Vitya,noun,R4,N
+1144,кот,꼿,고양이(수),cat,noun,R4,Y
+1145,вагон,바곤,객차,railway car,noun,R4,Y
+1146,платье,쁠라찌예,원피스,dress,noun,R4,Y
+1147,сутки,수뜨끼,하루(24시간),day (24 h),noun,R4,N
+1148,показывать,빠까즤바찌,보여 주다,to show,verb,R4,Y
+1149,юрий,유리,유리(이름),Yuri,noun,R4,N
+1150,бегать,볘가찌,뛰어다니다,to run around,verb,R4,Y
+1151,ильич,일리치,일리치(부칭),Ilyich,noun,R4,N
+1152,человеческий,칠라볘체스끼,인간의,human,adj,R4,N
+1153,собрать,사브라찌,모으다,to collect,verb,R4,Y
+1154,однажды,아드나즈듸,어느 날,once,adv,R4,N
+1155,смешно,스미쉬노,웃기다,funny,adv,R4,N
+1156,съесть,스예스찌,먹어 치우다,to eat up,verb,R4,Y
+1157,карман,까르만,주머니,pocket,noun,R4,Y
+1158,открывать,아뜨끄릐바찌,열다,to open,verb,R4,Y
+1159,подать,빠다찌,건네다,to hand,verb,R4,Y
+1160,спина,스삐나,등,back,noun,R4,Y
+1161,допустить,다뿌스찌찌,허용하다,to allow,verb,R4,N
+1162,рот,롯,입,mouth,noun,R4,Y
+1163,род,롯,"가문, 종류",kin,noun,R4,N
+1164,оказываться,아까즤바짜,드러나다,to turn out,verb,R4,N
+1165,голубчик,갈룹칙,이 사람아(다정),my dear,noun,R4,N
+1166,ресторан,리스따란,식당,restaurant,noun,R4,Y
+1167,либо,리바,또는,or,conj,R4,N
+1168,кофе,꼬페,커피,coffee,noun,R4,Y
+1169,прибыть,쁘리븨찌,도착하다,to arrive,verb,R4,N
+1170,дача,다차,다차(별장),dacha,noun,R4,Y
+1171,юра,유라,유라(애칭),Yura,noun,R4,N
+1172,умолять,우말랴찌,애원하다,to beg,verb,R4,N
+1173,новость,노바스찌,소식,news,noun,R4,N
+1174,отказаться,아뜨까자짜,거절하다,to refuse,verb,R4,N
+1175,степанович,스찌빠나비치,스테파노비치(부칭),Stepanovich,noun,R4,N
+1176,цирк,찌르크,서커스,circus,noun,R4,Y
+1177,отстать,아쯔따찌,"뒤처지다, 내버려 두다",to fall behind,verb,R4,N
+1178,дворец,드바례츠,궁전,palace,noun,R4,Y
+1179,полиция,빨리찌야,경찰,police,noun,R4,Y
+1180,синий,시니,파란,blue,adj,R4,Y
+1181,наверно,나볘르나,아마,probably,conj,R4,N
+1182,елена,일례나,옐레나(이름),Elena,noun,R4,N
+1183,красиво,끄라시바,아름답게,beautifully,adv,R4,N
+1184,забывать,자븨바찌,잊다,to forget,verb,R4,N
+1185,жалеть,좔례찌,"불쌍히 여기다, 아끼다",to pity,verb,R4,N
+1186,отпуск,오뜨뿌스크,휴가,vacation,noun,R4,Y
+1187,природа,쁘리로다,자연,nature,noun,R4,Y
+1188,иной,이노이,다른,other,adj,R4,N
+1189,дойти,다이찌,도달하다,to reach,verb,R4,N
+1190,родственник,로츠뜨볜닉,친척,relative,noun,R4,Y
+1191,собственно,소프스뜨볜나,사실은,actually,particle,R4,N
+1192,григорьевич,그리고리예비치,그리고리예비치(부칭),Grigorievich,noun,R4,N
+1193,ловить,라비찌,잡다,to catch,verb,R4,Y
+1194,проснуться,쁘라스누짜,잠에서 깨다,to wake up,verb,R4,Y
+1195,сердиться,시르지짜,화내다,to be angry,verb,R4,Y
+1196,впереди,프삐리지,앞에,ahead,adv,R4,N
+1197,поступить,빠스뚜삐찌,"입학하다, 행동하다",to enroll / act,verb,R4,N
+1198,участок,우차스떡,"구역, 파출소",plot / precinct,noun,R4,N
+1199,подобный,빠도브늬,비슷한,similar,adj,R4,N
+1200,научить,나우치찌,가르치다,to teach,verb,R4,N
+1201,ненавидеть,니나비졔찌,미워하다,to hate,verb,R4,N
+1202,компания,깜빠니야,"회사, 일행",company,noun,R4,N
+1203,королева,까랄례바,여왕,queen,noun,R4,Y
+1204,евгений,이브계니,예브게니(이름),Evgeny,noun,R4,N
+1205,вовсе,보프셰,전혀,at all,adv,R4,N
+1206,некогда,녜까그다,시간이 없다,no time,adv,R4,N
+1207,ленинград,리닌그라트,레닌그라드,Leningrad,noun,R4,N
+1208,исчезнуть,이셰즈누찌,사라지다,to disappear,verb,R4,N
+1209,хвост,흐보스트,꼬리,tail,noun,R4,Y
+1210,член,칠롄,회원,member,noun,R4,N
+1211,отправить,아뜨쁘라비찌,보내다,to send,verb,R4,Y
+1212,скажем,스까줨,말하자면,let's say,conj,R4,N
+1213,гриша,그리샤,그리샤(애칭),Grisha,noun,R4,N
+1214,пытаться,쁴따짜,시도하다,to try,verb,R4,N
+1215,молоко,말라꼬,우유,milk,noun,R4,Y
+1216,ежели,예줼리,만약(옛말),if,conj,R4,N
+1217,огромный,아그롬늬,거대한,huge,adj,R4,Y
+1218,закончить,자꼰치찌,끝내다,to finish,verb,R4,N
+1219,прежний,쁘례즈니,이전의,former,adj,R4,N
+1220,взяться,브쟈짜,착수하다,to take up,verb,R4,N
+1221,борт,보르트,(배·비행기) 기내,board,noun,R4,N
+1222,причём,쁘리쵬,게다가,moreover,conj,R4,N
+1223,интерес,인찌례스,관심,interest,noun,R4,N
+1224,шея,셰야,목,neck,noun,R4,Y
+1225,мимо,미마,~옆을 지나,past,prep,R4,N
+1226,ничто,니쉬또,아무것도,nothing,pron,R4,N
+1227,сударь,수다리,나리,sir,noun,R4,N
+1228,трое,뜨로예,세 사람,three (people),num,R4,Y
+1229,линия,리니야,선,line,noun,R4,N
+1230,тело,쪨라,몸,body,noun,R4,Y
+1231,разумеется,라주몌이짜,물론,of course,conj,R4,N
+1232,хм,흠,흠,hmm,interj,R4,N
+1233,воевать,바이바찌,싸우다,to fight a war,verb,R4,N
+1234,собрание,사브라니예,회의,meeting,noun,R4,Y
+1235,государственный,가수다르스뜨볜늬,국가의,state,adj,R4,N
+1236,возраст,보즈라스트,나이,age,noun,R4,N
+1237,обойтись,아바이찌시,~없이 지내다,to do without,verb,R4,N
+1238,четвёртый,치뜨뵤르띄,네 번째,fourth,adj,R4,N
+1239,начинаться,나치나짜,시작되다,to begin,verb,R4,N
+1240,кухня,꾸흐냐,부엌,kitchen,noun,R4,Y
+1241,отдел,아뜨졜,부서,department,noun,R4,N
+1242,заявление,자이블례니예,신청서,application,noun,R4,N
+1243,сержант,시르좐트,병장,sergeant,noun,R4,N
+1244,тяжело,찌질로,힘들다,hard,adv,R4,N
+1245,учесть,우체스찌,고려하다,to take into account,verb,R4,N
+1246,остановить,아스따나비찌,멈추게 하다,to stop,verb,R4,Y
+1247,валя,발랴,발랴(애칭),Valya,noun,R4,N
+1248,болезнь,발례즌,병,illness,noun,R4,N
+1249,около,오깔라,~근처에,near,prep,R4,N
+1250,умирать,우미라찌,죽어 가다,to be dying,verb,R4,N
+1251,отдыхать,아드듸하찌,쉬다,to rest,verb,R4,Y
+1252,труба,뜨루바,"관, 트럼펫",pipe,noun,R4,Y
+1253,записать,자삐사찌,적어 두다,to write down,verb,R4,Y
+1254,готовить,가또비찌,"요리하다, 준비하다",to cook,verb,R4,Y
+1255,посадить,빠사지찌,"앉히다, 심다",to seat / plant,verb,R4,Y
+1256,принц,쁘린츠,왕자,prince,noun,R4,Y
+1257,хозяйка,하쟈이까,여주인,hostess,noun,R4,Y
+1258,погода,빠고다,날씨,weather,noun,R4,Y
+1259,статья,스따찌야,"기사, 조항",article,noun,R4,N
+1260,железный,쥘례즈늬,철의,iron,adj,R4,N
+1261,государство,가수다르스뜨바,국가,state,noun,R4,N
+1262,встречаться,프스뜨리차짜,"만나다, 사귀다",to meet / date,verb,R4,Y
+1263,результат,리줄따트,결과,result,noun,R4,N
+1264,плечо,쁠리초,어깨,shoulder,noun,R4,Y
+1265,нормальный,나르말늬,보통의,normal,adj,R4,N
+1266,заплатить,자쁠라찌찌,지불하다,to pay,verb,R4,Y
+1267,григорий,그리고리,그리고리(이름),Grigory,noun,R4,N
+1268,взгляд,브즈글랴트,시선,look,noun,R4,N
+1269,люба,류바,류바(애칭),Lyuba,noun,R4,N
+1270,нож,노쉬,칼,knife,noun,R4,Y
+1271,пуля,뿔랴,총알,bullet,noun,R4,N
+1272,дмитрий,드미뜨리,드미트리(이름),Dmitry,noun,R4,N
+1273,илья,일리야,일리야(이름),Ilya,noun,R4,N
+1274,ударить,우다리찌,치다,to hit,verb,R4,N
+1275,славный,슬라브늬,멋진,nice,adj,R4,N
+1276,приятель,쁘리야쪨,"친구, 동료",pal,noun,R4,Y
+1277,существовать,수쉐스뜨바바찌,존재하다,to exist,verb,R4,N
+1278,зима,지마,겨울,winter,noun,R4,Y
+1279,поглядеть,빠글리졔찌,한번 보다,to take a look,verb,R4,Y
+1280,цвет,쯔볫,색,color,noun,R4,Y
+1281,морской,마르스꼬이,바다의,sea (adj.),adj,R4,N
+1282,собирать,사비라찌,모으다,to gather,verb,R4,Y
+1283,сбежать,즈비좌찌,달아나다,to escape,verb,R4,Y
+1284,мешок,미쇽,자루,sack,noun,R4,Y
+1285,ожидать,아쥐다찌,"기다리다, 예상하다",to expect,verb,R4,N
+1286,опыт,오쁴트,경험,experience,noun,R4,N
+1287,делаться,졜라짜,되다,to become,verb,R4,N
+1288,оттуда,아뚜다,거기에서,from there,adv,R4,N
+1289,поди,빠지,"가 봐, 아마",go on,interj,R4,N
+1290,правый,쁘라븨,"오른쪽의, 옳은",right,adj,R4,Y
+1291,бутылка,부띌까,병,bottle,noun,R4,Y
+1292,убивать,우비바찌,죽이다,to kill,verb,R4,N
+1293,замок,자막,성(城),castle,noun,R4,Y
+1294,число,치슬로,"숫자, 날짜",number / date,noun,R4,N
+1295,записка,자삐스까,쪽지,note,noun,R4,Y
+1296,правило,쁘라빌라,규칙,rule,noun,R4,N
+1297,звук,즈북,소리,sound,noun,R4,N
+1298,опаздывать,아빠즈듸바찌,늦다,to be late,verb,R4,Y
+1299,комиссия,까미시야,위원회,commission,noun,R4,N
+1300,марья,마리야,마리야(이름),Marya,noun,R4,N
+1301,грудь,그루찌,가슴,chest,noun,R4,Y
+1302,министр,미니스뜨르,장관,minister,noun,R4,N
+1303,богатый,바가띄,부유한,rich,adj,R4,Y
+1304,кузьмич,꾸지미치,쿠지미치(부칭),Kuzmich,noun,R4,N
+1305,обстоятельство,압스따야쪨스뜨바,사정,circumstance,noun,R4,N
+1306,повторять,빠프따랴찌,반복하다,to repeat,verb,R4,N
+1307,полка,뽈까,선반,shelf,noun,R4,Y
+1308,разведка,라즈볫까,정찰,reconnaissance,noun,R4,N
+1309,центр,쩬뜨르,"중심, 시내",center,noun,R4,N
+1310,де,졔,~라더라(전언),they say,particle,R4,N
+1311,многое,므노가예,많은 것,much,pron,R4,N
+1312,лётчик,룟칙,조종사,pilot,noun,R4,Y
+1313,сдать,즈다찌,"제출하다, 합격하다",to hand in / pass,verb,R4,N
+1314,говориться,가바리짜,말해지다,to be said,verb,R4,N
+1315,словно,슬로브나,마치,as if,conj,R4,N
+1316,техника,쪠흐니까,"기술, 기계",technology,noun,R4,N
+1317,киев,끼예프,키이우,Kyiv,noun,R4,N
+1318,трава,뜨라바,풀,grass,noun,R4,Y
+1319,приглашать,쁘리글라샤찌,초대하다,to invite,verb,R4,Y
+1320,народный,나로드늬,"민중의, 민속의",folk,adj,R4,N
+1321,паспорт,빠스빠르트,여권,passport,noun,R4,Y
+1322,вокзал,바그잘,기차역,train station,noun,R4,Y
+1323,сведение,스볘졔니예,정보,information,noun,R4,N
+1324,сигнал,시그날,신호,signal,noun,R4,N
+1325,коли,깔리,만약,if,conj,R4,N
+1326,везде,비즈졔,어디에나,everywhere,adv,R4,N
+1327,летать,리따찌,날아다니다,to fly,verb,R4,Y
+1328,английский,안글리스끼,"영국의, 영어의",English,adj,R4,N
+1329,покупать,빠꾸빠찌,사다,to buy,verb,R4,Y
+1330,трус,뜨루스,겁쟁이,coward,noun,R4,N
+1331,система,시스쪠마,체계,system,noun,R4,N
+1332,профессия,쁘라페시야,직업,profession,noun,R4,N
+1333,большевик,발쉬빅,볼셰비키,Bolshevik,noun,R4,N
+1334,костюм,까스쯈,정장,suit,noun,R4,Y
+1335,сумасшедший,수마쉐쉬,미친,crazy,adj,R4,N
+1336,забота,자보따,"걱정, 돌봄",care,noun,R4,N
+1337,матушка,마뚜쉬까,어머님,mother (dear),noun,R4,N
+1338,сыграть,싀그라찌,(경기·연주) 하다,to play,verb,R4,Y
+1339,поесть,빠예스찌,먹다(조금),to have a bite,verb,R4,Y
+1340,супруг,수쁘룩,배우자,spouse,noun,R4,N
+1341,шура,슈라,슈라(애칭),Shura,noun,R4,N
+1342,прочесть,쁘라체스찌,읽다(완료),to read,verb,R4,Y
+1343,кончать,깐차찌,끝내다,to finish,verb,R4,N
+1344,полюбить,빨류비찌,사랑하게 되다,to fall in love,verb,R4,N
+1345,платить,쁠라찌찌,지불하다,to pay,verb,R4,Y
+1346,мол,몰,~래(전언),they say,particle,R4,N
+1347,казак,까작,코사크,Cossack,noun,R4,N
+1348,горько,고리까,쓰다! (결혼식 건배),bitter,adv,R4,N
+1349,кабинет,까비녯,사무실,office,noun,R4,Y
+1350,хозяйство,하쟈이스뜨바,"살림, 농장",household,noun,R4,N
+1351,шеф,셰프,상사,chief,noun,R4,N
+1352,гостиница,가스찌니짜,호텔,hotel,noun,R4,Y
+1353,трудный,뜨루드늬,어려운,difficult,adj,R4,N
+1354,ящик,야쉭,상자,box,noun,R4,Y
+1355,метр,몌뜨르,미터,meter,noun,R4,N
+1356,действие,졔이스뜨비예,행동,action,noun,R4,N
+1357,кошка,꼬쉬까,고양이,cat,noun,R4,Y
+1358,убийство,우비이스뜨바,살인,murder,noun,R4,N
+1359,луна,루나,달,moon,noun,R4,Y
+1360,управление,우쁘라블례니예,"관리, 관청",administration,noun,R4,N
+1361,ку,꾸,(인사) 쿠,hey (greeting),interj,R4,N
+1362,зал,잘,홀,hall,noun,R4,Y
+1363,отдавать,아따바찌,돌려주다,to give back,verb,R4,N
+1364,ошибаться,아쉬바짜,틀리다,to be mistaken,verb,R4,N
+1365,малый,말릐,작은,small,adj,R4,N
+1366,константин,깐스딴찐,콘스탄틴(이름),Konstantin,noun,R4,N
+1367,заставить,자스따비찌,강요하다,to force,verb,R4,N
+1368,полагать,빨라가찌,생각하다,to suppose,verb,R4,N
+1369,слышь,슬리쉬,있잖아,listen,interj,R4,N
+1370,уважать,우바좌찌,존경하다,to respect,verb,R4,N
+1371,сильно,실나,세게,strongly,adv,R4,N
+1372,мишка,미쉬까,"곰돌이, 미시카",teddy bear,noun,R4,Y
+1373,заболеть,자발례찌,병에 걸리다,to fall ill,verb,R4,Y
+1374,работник,라보뜨닉,일꾼,worker,noun,R4,Y
+1375,польза,뽈자,이익,benefit,noun,R4,N
+1376,решать,리샤찌,"결정하다, 풀다",to decide,verb,R4,N
+1377,предупреждать,쁘리두쁘리즈다찌,경고하다,to warn,verb,R4,N
+1378,тащить,따쉬찌,끌다,to drag,verb,R4,Y
+1379,провести,쁘라비스찌,"보내다(시간), 이끌다",to spend / conduct,verb,R4,N
+1380,фильм,필름,영화,film,noun,R4,Y
+1381,выстрел,븨스뜨롈,총소리,shot,noun,R4,N
+1382,пушкин,뿌쉬낀,푸시킨(시인),Pushkin,noun,R4,N
+1383,преступление,쁘리스뚜쁠례니예,범죄,crime,noun,R4,N
+1384,банк,반크,은행,bank,noun,R4,Y
+1385,прощение,쁘라쉐니예,용서,forgiveness,noun,R4,N
+1386,германия,기르마니야,독일,Germany,noun,R4,N
+1387,обижаться,아비좌짜,서운해하다,to take offense,verb,R4,N
+1388,значение,즈나체니예,의미,meaning,noun,R4,N
+1389,ужас,우좌스,"공포, 끔찍함",horror,noun,R4,N
+1390,старшина,스따르쉬나,상사(군),sergeant major,noun,R4,N
+1391,помереть,빠미례찌,죽다(구어),to die,verb,R4,N
+1392,материал,마찌리알,"재료, 자료",material,noun,R4,N
+1393,ошибиться,아쉬비짜,틀리다(완료),to make a mistake,verb,R4,N
+1394,обыкновенный,아븨크나볜늬,평범한,ordinary,adj,R4,N
+1395,попасться,빠빠스짜,"걸리다, 마주치다",to get caught,verb,R4,N
+1396,поэт,빠엣,시인,poet,noun,R4,Y
+1397,отдохнуть,아따흐누찌,쉬다(완료),to rest,verb,R4,Y
+1398,синьор,시뇨르,시뇨르,signor,noun,R4,N
+1399,понадобиться,빠나다비짜,필요해지다,to be needed,verb,R4,N
+1400,неправда,니쁘라브다,거짓,untruth,noun,R4,N
+1401,барин,바린,나리(지주),master,noun,R4,N
+1402,ручка,루치까,"펜, 손잡이",pen,noun,R4,Y
+1403,пустяк,뿌스쨔크,사소한 일,trifle,noun,R4,N
+1404,нехорошо,니하라쇼,좋지 않다,not good,adv,R4,N
+1405,непременно,니쁘리몐나,반드시,certainly,adv,R4,N
+1406,матрос,마뜨로스,수병,sailor,noun,R4,Y
+1407,несчастье,니샤스찌예,불행,misfortune,noun,R4,N
+1408,известный,이즈볘스늬,유명한,famous,adj,R4,N
+1409,нигде,니그졔,어디에도,nowhere,adv,R4,N
+1410,крыша,끄릐샤,지붕,roof,noun,R4,Y
+1411,отличный,아뜰리치늬,훌륭한,excellent,adj,R4,N
+1412,боря,보랴,보랴(애칭),Borya,noun,R4,N
+1413,волшебный,발쉡늬,마법의,magic,adj,R4,N
+1414,абсолютно,압살류뜨나,절대적으로,absolutely,adv,R4,N
+1415,подписать,빠트삐사찌,서명하다,to sign,verb,R4,Y
+1416,скучно,스꾸쉬나,지루하다,boring,adv,R4,N
+1417,америка,아몌리까,미국,America,noun,R4,N
+1418,наоборот,나아바롯,반대로,on the contrary,adv,R4,N
+1419,довольный,다볼늬,만족한,pleased,adj,R4,N
+1420,дмитриевич,드미뜨리예비치,드미트리예비치(부칭),Dmitrievich,noun,R4,N
+1421,зина,지나,지나(애칭),Zina,noun,R4,N
+1422,крест,끄례스트,십자가,cross,noun,R4,Y
+1423,максим,막심,막심(이름),Maxim,noun,R4,N
+1424,настроение,나스뜨라예니예,기분,mood,noun,R4,N
+1425,круг,끄룩,원,circle,noun,R4,Y
+1426,дон,돈,돈(존칭),Don,noun,R4,N
+1427,миленький,밀린끼,귀여운,cute,adj,R4,N
+1428,потерпеть,빠찌르뼤찌,참다,to endure,verb,R4,N
+1429,годиться,가지짜,쓸모 있다,to be fit,verb,R4,N
+1430,приятный,쁘리야뜨늬,기분 좋은,pleasant,adj,R4,N
+1431,подлец,빠들례츠,비열한 놈,scoundrel,noun,R4,N
+1432,волна,발나,파도,wave,noun,R4,Y
+1433,догнать,다그나찌,따라잡다,to catch up,verb,R4,Y
+1434,аня,아냐,아냐(애칭),Anya,noun,R4,N
+1435,разница,라즈니짜,차이,difference,noun,R4,N
+1436,крупный,끄루쁘늬,큰,large,adj,R4,N
+1437,вечно,볘치나,영원히,eternally,adv,R4,N
+1438,божий,보쥐,신의,God's,adj,R4,N
+1439,смешной,스미쉬노이,웃긴,funny,adj,R4,N
+1440,ученик,우치닉,학생,pupil,noun,R4,Y
+1441,женский,줸스끼,여성의,women's,adj,R4,N
+1442,коль,꼴,만약,if,conj,R4,N
+1443,секретарь,시끄리따리,비서,secretary,noun,R4,Y
+1444,превосходительство,쁘리바스하지쪨스뜨바,각하,excellency,noun,R4,N
+1445,ружьё,루지요,총(소총),rifle,noun,R4,N
+1446,прошлое,쁘로쉴라예,과거,the past,noun,R4,N
+1447,обидеть,아비졔찌,상처 주다,to offend,verb,R4,N
+1448,убийца,우비이짜,살인자,murderer,noun,R4,N
+1449,тёмный,쬼늬,어두운,dark,adj,R4,Y
+1450,внук,브눅,손자,grandson,noun,R4,Y
+1451,весело,볘실라,즐겁게,merrily,adv,R4,N
+1452,мёртвый,묘르뜨븨,죽은,dead,noun,R4,N
+1453,крик,끄릭,외침,scream,noun,R4,N
+1454,доложить,달라쥐찌,보고하다,to report,verb,R4,N
+1455,татьяна,따찌야나,타티야나(이름),Tatiana,noun,R4,N
+1456,концерт,깐쩨르트,콘서트,concert,noun,R4,Y
+1457,многие,므노기예,많은 사람들,many,pron,R4,N
+1458,петров,삐뜨로프,페트로프(성),Petrov,noun,R4,N
+1459,дождаться,다즈다짜,기다려 내다,to wait until,verb,R4,N
+1460,барышня,바리쉬냐,아가씨,young lady,noun,R4,Y
+1461,вечный,볘치늬,영원한,eternal,adj,R4,N
+1462,радио,라지오,라디오,radio,noun,R4,Y
+1463,заняться,자냐짜,착수하다,to take up,verb,R4,N
+1464,моряк,마랴크,선원,sailor,noun,R4,Y
+1465,прям,쁘럄,"정말, 그냥(구어)",just (colloq.),particle,R4,N
+1466,пушка,뿌쉬까,대포,cannon,noun,R4,Y
+1467,егор,이고르,예고르(이름),Egor,noun,R4,N
+1468,могила,마길라,무덤,grave,noun,R4,N
+1469,студент,스뚜졘트,대학생,student,noun,R4,Y
+1470,обстановка,압스따노프까,"상황, 가구",situation,noun,R4,N
+1471,пистолет,삐스딸롓,권총,pistol,noun,R4,N
+1472,длинный,들린늬,긴,long,adj,R4,Y
+1473,шестой,쉬스또이,여섯 번째,sixth,adj,R4,N
+1474,строить,스뜨로이찌,짓다,to build,verb,R4,Y
+1475,тревога,뜨리보가,"불안, 경보",alarm,noun,R4,N
+1476,благородный,블라가로드늬,고귀한,noble,adj,R4,N
+1477,тьфу,찌푸,퉤,ugh,interj,R4,N
+1478,передавать,삐리다바찌,전하다,to pass on,verb,R4,N
+1479,обмануть,아브마누찌,속이다,to deceive,verb,R4,N
+1480,разбойник,라즈보이닉,강도,robber,noun,R4,N
+1481,интересоваться,인찌리사바짜,관심을 갖다,to be interested,verb,R4,N
+1482,слух,슬루흐,"청각, 소문",hearing / rumor,noun,R4,N
+1483,замолчать,자말차찌,조용해지다,to fall silent,verb,R4,N
+1484,горячий,가랴치,뜨거운,hot,adj,R4,Y
+1485,относиться,아뜨나시짜,대하다,to treat,verb,R4,N
+1486,клуб,끌룹,클럽,club,noun,R4,N
+1487,шофёр,샤표르,운전기사,driver,noun,R4,Y
+1488,одесса,아졔사,오데사,Odesa,noun,R4,N
+1489,посылать,빠싈라찌,보내다,to send,verb,R4,Y
+1490,сомневаться,삼니바짜,의심하다,to doubt,verb,R4,N
+1491,советовать,사볘따바찌,조언하다,to advise,verb,R4,N
+1492,знаменитый,즈나미니띄,유명한,famous,adj,R4,N
+1493,удача,우다차,행운,luck,noun,R4,N
+1494,девица,지비짜,처녀,maiden,noun,R4,N
+1495,пахнуть,빠흐누찌,냄새가 나다,to smell,verb,R4,Y
+1496,суметь,수몌찌,해내다,to manage,verb,R4,N
+1497,благородие,블라가로지예,나리(존칭),Your Honor,noun,R4,N
+1498,тема,쪠마,주제,topic,noun,R4,N
+1499,весьма,비시마,매우,highly,adv,R4,N
+1500,олег,알례크,올레크(이름),Oleg,noun,R4,N
+1501,барон,바론,남작,baron,noun,R4,N
+1502,беречь,비례치,아끼다,to take care of,verb,R4,N
+1503,прыгать,쁘릐가찌,뛰다,to jump,verb,R4,Y
+1504,мисс,미스,미스,Miss,noun,R4,N
+1505,сотня,소뜨냐,백(개),a hundred,noun,R4,N
+1506,звонок,즈바녹,"벨, 전화",bell / call,noun,R4,Y
+1507,приготовить,쁘리가또비찌,"준비하다, 요리하다",to prepare,verb,R4,Y
+1508,галя,갈랴,갈랴(애칭),Galya,noun,R4,N
+1509,ого,아고,오호,oho,interj,R4,N
+1510,пост,뽀스트,"초소, 직위",post,noun,R4,N
+1511,доказать,다까자찌,증명하다,to prove,verb,R4,N
+1512,товар,따바르,상품,goods,noun,R4,N
+1513,океан,아끼안,대양,ocean,noun,R4,Y
+1514,организация,아르가니자찌야,조직,organization,noun,R4,N
+1515,вдвоём,브드바욤,둘이서,the two of us,adv,R4,Y
+1516,раб,랍,노예,slave,noun,R4,N
+1517,колесо,깔리소,바퀴,wheel,noun,R4,Y
+1518,девять,졔비찌,아홉,nine,num,R4,Y
+1519,картошка,까르또쉬까,감자,potato,noun,R4,Y
+1520,впервые,프삐르븨예,처음으로,for the first time,adv,R4,N
+1521,возле,보즐례,~옆에,beside,prep,R4,N
+1522,светлый,스볘뜰릐,밝은,bright,adj,R4,N
+1523,воскресенье,바스끄리세니예,일요일,Sunday,noun,R4,N
+1524,пожар,빠좌르,화재,fire (blaze),noun,R4,Y
+1525,измениться,이즈미니짜,변하다,to change,verb,R4,N
+1526,партизан,빠르찌잔,빨치산,partisan,noun,R4,N
+1527,пропустить,쁘라뿌스찌찌,"통과시키다, 빠뜨리다",to let through / miss,verb,R4,N
+1528,старуха,스따루하,노파,old woman,noun,R4,Y
+1529,сцена,스쩨나,무대,stage,noun,R4,Y
+1530,прожить,쁘라쥐찌,살아 내다,to live through,verb,R4,N
+1531,лагерь,라기리,"캠프, 수용소",camp,noun,R4,N
+1532,мотор,마또르,엔진,motor,noun,R4,N
+1533,этаж,에따쉬,층,floor (storey),noun,R4,N
+1534,серый,세릐,회색의,gray,adj,R4,Y
+1535,сегодняшний,시보드니쉬,오늘의,today's,adj,R4,N
+1536,телевизор,찔리비자르,텔레비전,TV,noun,R4,Y
+1537,вовремя,보브리먀,제때에,on time,adv,R4,N
+1538,фашист,파쉬스트,파시스트,fascist,noun,R4,N
+1539,голубой,갈루보이,하늘색의,light blue,adj,R4,Y
+1540,крайний,끄라이니,맨 끝의,extreme,adj,R4,N
+1541,алиса,알리사,알리사(이름),Alisa,noun,R4,N
+1542,негодяй,니가쟈이,악당,scoundrel,noun,R4,N
+1543,вниз,브니스,아래로,down,adv,R4,N
+1544,волос,볼라스,머리카락,hair,noun,R4,Y
+1545,папаша,빠빠샤,"아버지, 아저씨",pops,noun,R4,N
+1546,вероятно,비라야뜨나,아마,probably,conj,R4,N
+1547,церковь,쩨르까피,교회,church,noun,R4,Y
+1548,мозг,모스크,뇌,brain,noun,R4,N
+1549,младший,믈라쉬,손아래의,younger,adj,R4,N
+1550,ленин,레닌,레닌,Lenin,noun,R4,N
+1551,охрана,아흐라나,경비,guard,noun,R4,N
+1552,дальний,달니,먼,distant,adj,R4,N
+1553,цех,쩨흐,작업장,workshop,noun,R4,N
+1554,строй,스뜨로이,"대열, 체제",formation,noun,R4,N
+1555,глянуть,글리누찌,흘끗 보다,to glance,verb,R4,N
+1556,полёт,빨룟,비행,flight,noun,R4,N
+1557,взрослый,브즈로슬릐,어른,adult,noun,R4,Y
+1558,шапка,샵까,모자,hat,noun,R4,Y
+1559,особенный,아소볜늬,특별한,special,adj,R4,N
+1560,выбрать,븨브라찌,고르다,to choose,verb,R4,N
+1561,ирина,이리나,이리나(이름),Irina,noun,R4,N
+1562,средство,스례쯔뜨바,수단,means,noun,R4,N
+1563,дышать,듸샤찌,숨 쉬다,to breathe,verb,R4,Y
+1564,занятие,자냐찌예,"수업, 일",class / activity,noun,R4,N
+1565,дяденька,쟈진까,아저씨,mister,noun,R4,N
+1566,боец,바예츠,병사,fighter,noun,R4,N
+1567,секунда,시꾼다,초,second,noun,R4,N
+1568,кормить,까르미찌,먹이다,to feed,verb,R4,Y
+1569,волга,볼가,볼가강,Volga,noun,R4,N
+1570,ровно,로브나,정확히,exactly,adv,R4,N
+1571,уверен,우볘롄,확신한다,sure,adj,R4,N
+1572,осень,오신,가을,autumn,noun,R4,Y
+1573,движение,드비줴니예,"움직임, 교통",movement,noun,R4,N
+1574,выгнать,븨그나찌,쫓아내다,to kick out,verb,R4,N
+1575,настя,나스쨔,나스탸(애칭),Nastya,noun,R4,N
+1576,падать,빠다찌,떨어지다,to fall,verb,R4,Y
+1577,дивизия,지비지야,사단,division,noun,R4,N
+1578,холодно,홀라드나,춥다,cold,adv,R4,Y
+1579,следователь,슬례다바쪨,수사관,investigator,noun,R4,Y
+1580,терять,찌랴찌,잃다,to lose,verb,R4,N
+1581,яков,야꺼프,야코프(이름),Yakov,noun,R4,N
+1582,французский,프란쭈스끼,프랑스의,French,adj,R4,N
+1583,научиться,나우치짜,배우다(완료),to learn,verb,R4,N
+1584,лиза,리자,리자(애칭),Liza,noun,R4,N
+1585,пароход,빠라홋,증기선,steamship,noun,R4,Y
+1586,безобразие,비자브라지예,창피한 일,outrage,noun,R4,N
+1587,тётка,쬿까,"아줌마, 이모",aunt,noun,R4,Y
+1588,отчий,오치,아버지의,paternal,adj,R4,N
+1589,пёс,뾰스,개,dog,noun,R4,Y
+1590,орёл,아룔,독수리,eagle,noun,R4,Y
+1591,свежий,스볘쥐,신선한,fresh,adj,R4,Y
+1592,готовиться,가또비짜,준비하다,to get ready,verb,R4,N
+1593,голод,골라트,배고픔,hunger,noun,R4,N
+1594,вспоминать,프스빠미나찌,회상하다,to recall,verb,R4,N
+1595,колено,깔례나,무릎,knee,noun,R4,Y
+1596,расчёт,라숏,계산,calculation,noun,R4,N
+1597,охотник,아홋닉,사냥꾼,hunter,noun,R4,Y
+1598,сталин,스딸린,스탈린,Stalin,noun,R4,N
+1599,естественно,이스쪠스뜨볜나,당연히,naturally,adv,R4,N
+1600,каковой,까까보이,어떤(문어),which,adj,R4,N
+1601,зоя,조야,조야(이름),Zoya,noun,R4,N
+1602,вверх,브볘르흐,위로,up,adv,R4,N
+1603,небольшой,니발쇼이,작은,small,adj,R4,N
+1604,ряд,럇,줄,row,noun,R4,Y
+1605,обидеться,아비졔짜,서운해하다(완료),to take offense,verb,R4,N
+1606,дежурный,지주르늬,당번,on duty,adj,R4,N
+1607,правительство,쁘라비쪨스뜨바,정부,government,noun,R4,N
+1608,специалист,스삐쯔알리스트,전문가,specialist,noun,R4,N
+1609,неплохо,니쁠로하,나쁘지 않다,not bad,adv,R4,N
+1610,приказывать,쁘리까즤바찌,명령하다,to order,verb,R4,N
+1611,неприятность,니쁘리야뜨나스찌,곤란한 일,trouble,noun,R4,N
+1612,мясо,먀사,고기,meat,noun,R4,Y
+1613,забирать,자비라찌,가져가다,to take away,verb,R4,N
+1614,являться,이블랴짜,"~이다, 나타나다",to be / appear,verb,R4,N
+1615,жертва,줴르뜨바,희생자,victim,noun,R4,N
+1616,местный,몌스늬,지역의,local,adj,R4,N
+1617,хата,하따,"오두막, 집",hut,noun,R4,Y
+1618,событие,사븨찌예,사건,event,noun,R4,N
+1619,степь,스쪠삐,초원,steppe,noun,R4,Y
+1620,идиот,이지옷,바보,idiot,noun,R4,N
+1621,пассажир,빠사쥐르,승객,passenger,noun,R4,Y
+1622,отделение,아뜨질례니예,"부서, 지점",department,noun,R4,N
+1623,смена,스몌나,교대,shift,noun,R4,N
+1624,экспедиция,엑스삐지찌야,탐험,expedition,noun,R4,N
+1625,зависеть,자비세찌,~에 달려 있다,to depend,verb,R4,N
+1626,петербург,삐찌르부르크,상트페테르부르크,St Petersburg,noun,R4,N
+1627,прямой,쁘리모이,곧은,straight,adj,R4,N
+1628,коллега,깔례가,동료,colleague,noun,R4,Y
+1629,устраивать,우스뜨라이바찌,마련하다,to arrange,verb,R4,N
+1630,личность,리치나스찌,"인격, 신원",personality,noun,R4,N
+1631,лечь,례치,눕다(완료),to lie down,verb,R4,Y
+1632,сниться,스니짜,꿈에 나오다,to appear in a dream,verb,R4,N
+1633,животное,쥐보뜨나예,동물,animal,noun,R4,Y
+1634,неизвестно,니이즈볘스나,알 수 없다,unknown,adv,R4,N
+1635,скорость,스꼬라스찌,속도,speed,noun,R4,N
+1636,иметься,이몌짜,있다,to exist,verb,R4,N
+1637,дьявол,지야볼,악마,devil,noun,R4,N
+1638,туман,뚜만,안개,fog,noun,R4,Y
+1639,каша,까샤,죽,porridge,noun,R4,Y
+1640,выдать,븨다찌,내주다,to issue,verb,R4,N
+1641,молодёжь,말라도쉬,젊은이들,youth,noun,R4,Y
+1642,спеть,스뼤찌,노래하다(완료),to sing,verb,R4,Y
+1643,помощник,빠모쉬닉,조수,assistant,noun,R4,N
+1644,борисович,바리사비치,보리소비치(부칭),Borisovich,noun,R4,N
+1645,серёга,시료가,세료가(애칭),Seryoga,noun,R4,N
+1646,выполнять,븨빨냐찌,수행하다,to carry out,verb,R4,N
+1647,дно,드노,바닥,bottom,noun,R4,N
+1648,флот,플롯,함대,fleet,noun,R4,N
+1649,отказываться,아뜨까즤바짜,거절하다,to refuse,verb,R4,N
+1650,область,오블라스찌,"주(州), 분야",region,noun,R4,N
+1651,автобус,아프또부스,버스,bus,noun,R4,Y
+1652,саня,사냐,사냐(애칭),Sanya,noun,R4,N
+1653,кость,꼬스찌,뼈,bone,noun,R4,Y
+1654,оставлять,아스따블랴찌,남겨 두다,to leave,verb,R4,N
+1655,опасный,아빠스늬,위험한,dangerous,adj,R4,N
+1656,плыть,쁠릐찌,헤엄치다,to swim,verb,R4,Y
+1657,неудобно,니우도브나,불편하다,awkward,adv,R4,N
+1658,старое,스따라예,옛것,the old,noun,R4,N
+1659,март,마르트,3월,March,noun,R4,N
+1660,болото,발로따,늪,swamp,noun,R4,Y
+1661,мороз,마로스,혹한,frost,noun,R4,Y
+1662,тип,찹,"유형, 녀석",type,noun,R4,N
+1663,программа,쁘라그라마,프로그램,program,noun,R4,N
+1664,слуга,슬루가,하인,servant,noun,R4,N
+1665,шляпа,쉴랴빠,(챙 있는) 모자,hat,noun,R4,Y
+1666,направо,나쁘라바,오른쪽으로,to the right,adv,R4,Y
+1667,пожаловать,빠좔라바찌,방문하다(환영합니다),to come (welcome),verb,R4,N
+1668,короче,까로체,간단히 말해,in short,conj,R4,N
+1669,многий,므노기,많은,many,adj,R4,N
+1670,пропадать,쁘라빠다찌,사라지다,to go missing,verb,R4,N
+1671,знакомиться,즈나꼬미짜,알게 되다,to get acquainted,verb,R4,Y
+1672,свинья,스비니야,돼지,pig,noun,R4,Y
+1673,поздний,뽀즈니,늦은,late,adj,R4,N
+1674,полететь,빨리쪠찌,날아가다(출발),to fly off,verb,R4,Y
+1675,предложить,쁘리들라쥐찌,제안하다,to offer,verb,R4,N
+1676,выпустить,븨뿌스찌찌,내보내다,to release,verb,R4,N
+1677,налево,날례바,왼쪽으로,to the left,adv,R4,Y
+1678,справиться,스쁘라비짜,해내다,to cope,verb,R4,N
+1679,сие,시예,이것(옛말),this,pron,R4,N
+1680,шуметь,슈몌찌,떠들다,to make noise,verb,R4,N
+1681,список,스삐석,목록,list,noun,R4,Y
+1682,соня,소냐,소냐(애칭),Sonya,noun,R4,N
+1683,комитет,까미쪳,위원회,committee,noun,R4,N
+1684,борода,바라다,턱수염,beard,noun,R4,Y
+1685,доченька,도친까,딸아(애칭),little daughter,noun,R4,N
+1686,находить,나하지찌,찾아내다,to find,verb,R4,N
+1687,тишина,찌쉬나,고요함,silence,noun,R4,N
+1688,разойтись,라자이찌시,흩어지다,to disperse,verb,R4,N
+1689,поверьте,빠볘리쪠,믿어 주세요,believe me,conj,R4,N
+1690,бригадир,브리가지르,반장,foreman,noun,R4,N
+1691,ситуация,시뚜아찌야,상황,situation,noun,R4,N
+1692,пиво,삐바,맥주,beer,noun,R4,Y
+1693,принцип,쁘린찝,원칙,principle,noun,R4,N
+1694,повесить,빠볘시찌,걸다,to hang,verb,R4,Y
+1695,позор,빠조르,치욕,shame,noun,R4,N
+1696,видимо,비지마,보아하니,evidently,adv,R4,N
+1697,марина,마리나,마리나(이름),Marina,noun,R4,N
+1698,брак,브락,"결혼, 불량품",marriage / defect,noun,R4,N
+1699,бабка,밥까,할머니(구어),granny,noun,R4,Y
+1700,порт,뽀르트,항구,port,noun,R4,Y
+1701,слышный,슬리쉬늬,들리는,audible,adj,R4,N
+1702,вадим,바짐,바딤(이름),Vadim,noun,R4,N
+1703,штаны,쉬따늬,바지,trousers,noun,R4,Y
+1704,подавать,빠다바찌,건네다,to serve,verb,R4,N
+1705,доллар,돌라르,달러,dollar,noun,R4,Y
+1706,внимательно,브니마쪨나,주의 깊게,attentively,adv,R4,N
+1707,планета,쁠라녜따,행성,planet,noun,R4,Y
+1708,площадь,쁠로샤찌,광장,square,noun,R4,Y
+1709,судья,수지야,"판사, 심판",judge,noun,R4,Y
+1710,умница,움니짜,똑똑이,clever one,noun,R4,N
+1711,холодный,할로드늬,차가운,cold,adj,R4,Y
+1712,папка,빠쁘까,서류철,folder,noun,R4,Y
+1713,распоряжение,라스빠리줴니예,지시,instruction,noun,R4,N
+1714,рота,로따,중대,company (military),noun,R4,N
+1715,радоваться,라다바짜,기뻐하다,to rejoice,verb,R4,Y
+1716,мерзавец,미르자볘츠,비열한 놈,bastard,noun,R4,N
+1717,московский,마스꼬프스끼,모스크바의,Moscow (adj.),adj,R4,N
+1718,нерв,녜르프,신경,nerve,noun,R4,N
+1719,писатель,삐사쪨,작가,writer,noun,R4,Y
+1720,баня,바냐,사우나,bathhouse,noun,R4,Y
+1721,такси,딱시,택시,taxi,noun,R4,Y
+1722,убираться,우비라짜,"청소하다, 꺼지다",to clean up / get out,verb,R4,N
+1723,орден,오르진,훈장,order (medal),noun,R4,N
+1724,трубка,뜨루쁘까,수화기,receiver,noun,R4,Y
+1725,высота,븨사따,높이,height,noun,R4,N
+1726,надеть,나졔찌,입다,to put on,verb,R4,Y
+1727,алла,알라,알라(이름),Alla,noun,R4,N
+1728,добраться,다브라짜,도착하다,to get to,verb,R4,N
+1729,банда,반다,갱단,gang,noun,R4,N
+1730,помешать,빠미샤찌,방해하다,to hinder,verb,R4,N
+1731,кусок,꾸속,조각,piece,noun,R4,Y
+1732,поцелуй,빠쩰루이,키스,kiss,noun,R4,Y
+1733,портрет,빠르뜨롓,초상화,portrait,noun,R4,Y
+1734,коллектив,깔릭찌프,단체,team,noun,R4,N
+1735,роза,로자,장미,rose,noun,R4,Y
+1736,инспектор,인스뼥따르,감독관,inspector,noun,R4,N
+1737,возражать,바즈라좌찌,반대하다,to object,verb,R4,N
+1738,основание,아스나바니예,근거,basis,noun,R4,N
+1739,выглядеть,븨글리졔찌,~해 보이다,to look,verb,R4,N
+1740,семейный,시몌이늬,가족의,family (adj.),adj,R4,N
+1741,матвеевич,마뜨볘예비치,마트베예비치(부칭),Matveevich,noun,R4,N
+1742,молодость,몰라다스찌,젊음,youth,noun,R4,N
+1743,сиятельство,시야쪨스뜨바,각하(백작),Your Excellency,noun,R4,N
+1744,направление,나쁘라블례니예,방향,direction,noun,R4,N
+1745,наталья,나딸리야,나탈리야(이름),Natalia,noun,R4,N
+1746,научный,나우치늬,과학의,scientific,adj,R4,N
+1747,ужасный,우좌스늬,끔찍한,terrible,adj,R4,N
+1748,удивительный,우지비쪨늬,놀라운,amazing,adj,R4,N
+1749,батька,바찌까,아버지(구어),dad,noun,R4,N
+1750,смирно,스미르나,차렷,attention!,adv,R4,N
+1751,соль,솔,소금,salt,noun,R4,Y
+1752,музей,무제이,박물관,museum,noun,R4,Y
+1753,догадаться,다가다짜,짐작하다,to guess,verb,R4,N
+1754,кадр,까드르,"장면, 인재",frame / staff,noun,R4,N
+1755,улыбаться,울릐바짜,미소 짓다,to smile,verb,R4,Y
+1756,терпеть,찌르뼤찌,참다,to bear,verb,R4,N
+1757,доказательство,다까자쪨스뜨바,증거,proof,noun,R4,N
+1758,слон,슬론,코끼리,elephant,noun,R4,Y
+1759,фирма,피르마,회사,firm,noun,R4,N
+1760,здравие,즈드라비예,건강(옛말),health,noun,R4,N
+1761,вынужден,븨누즈졘,어쩔 수 없이 ~하다,forced,adj,R4,N
+1762,царский,짜르스끼,황제의,tsar's,adj,R4,N
+1763,почта,뽀치따,"우체국, 우편",post office,noun,R4,Y
+1764,построить,빠스뜨로이찌,짓다(완료),to build,verb,R4,Y
+1765,лёд,룟,얼음,ice,noun,R4,Y
+1766,человечество,칠라볘체스뜨바,인류,humanity,noun,R4,N
+1767,тайга,따이가,타이가 숲,taiga,noun,R4,Y
+1768,пацан,빠짠,"녀석, 꼬마",kid,noun,R4,Y
+1769,подняться,빠드냐짜,올라가다,to go up,verb,R4,Y
+1770,антонович,안또나비치,안토노비치(부칭),Antonovich,noun,R4,N
+1771,аппарат,아빠라트,장치,device,noun,R4,N
+1772,услуга,우슬루가,"서비스, 호의",favor,noun,R4,N
+1773,подполковник,빠트빨꼬브닉,중령,lieutenant colonel,noun,R4,N
+1774,европа,이브로빠,유럽,Europe,noun,R4,N
+1775,рыцарь,릐짜리,기사(騎士),knight,noun,R4,Y
+1776,докладывать,다끌라듸바찌,보고하다,to report,verb,R4,N
+1777,рыжий,릐쥐,빨간 머리의,red-haired,adj,R4,Y
+1778,увы,우븨,아아(유감),alas,interj,R4,N
+1779,мировой,미라보이,세계의,world (adj.),adj,R4,N
+1780,камера,까몌라,"카메라, 감방",camera,noun,R4,Y
+1781,выдержать,븨지르좌찌,견뎌 내다,to withstand,verb,R4,N
+1782,георгий,기오르기,게오르기(이름),Georgy,noun,R4,N
+1783,сибирь,시비리,시베리아,Siberia,noun,R4,N
+1784,леночка,례나치까,레노치카(애칭),Lenochka,noun,R4,N
+1785,живо,쥐바,빨리,quickly,adv,R4,N
+1786,командировка,까만지로프까,출장,business trip,noun,R4,Y
+1787,васька,바시까,바시카(애칭),Vaska,noun,R4,N
+1788,малыш,말릐쉬,"아기, 꼬마",little one,noun,R4,Y
+1789,ответственность,아뜨볫스뜨볜나스찌,책임,responsibility,noun,R4,N
+1790,полтора,빨따라,1.5,one and a half,num,R4,N
+1791,пускать,뿌스까찌,들여보내다,to let,verb,R4,N
+1792,опасность,아빠스나스찌,위험,danger,noun,R4,N
+1793,змея,즈미야,뱀,snake,noun,R4,Y
+1794,выиграть,븨이그라찌,이기다,to win,verb,R4,Y
+1795,людмила,류드밀라,류드밀라(이름),Lyudmila,noun,R4,N
+1796,ужин,우쥔,저녁 식사,dinner,noun,R4,Y
+1797,агент,아곈트,요원,agent,noun,R4,N
+1798,смелый,스몔릐,용감한,brave,adj,R4,N
+1799,кушать,꾸샤찌,먹다,to eat,verb,R4,Y
+1800,утверждать,우뜨비르즈다찌,주장하다,to claim,verb,R4,N
+1801,очевидный,아치비드늬,명백한,obvious,adj,R4,N
+1802,берлин,비를린,베를린,Berlin,noun,R4,N
+1803,победить,빠비지찌,이기다,to defeat,verb,R4,N
+1804,близко,블리스까,가까이,close,adv,R4,N
+1805,влюблён,블류블룐,사랑에 빠진,in love,adj,R4,N
+1806,крыло,끄릘로,날개,wing,noun,R4,Y
+1807,вряд,브럇,(вряд ли) ~할 것 같지 않다,hardly,adv,R4,N
+1808,позволять,빠즈발랴찌,허락하다,to allow,verb,R4,N
+1809,глупо,글루빠,어리석게,foolishly,adv,R4,N
+1810,затем,자쪰,그다음에,then,adv,R4,N
+1811,украина,우끄라이나,우크라이나,Ukraine,noun,R4,N
+1812,помолчать,빠말차찌,잠시 침묵하다,to keep quiet a while,verb,R4,N
+1813,наверняка,나비르니까,틀림없이,for sure,adv,R4,N
+1814,госпожа,가스빠좌,"부인, 여사",madam,noun,R4,N
+1815,способный,스빠소브늬,유능한,capable,adj,R4,N
+1816,завидовать,자비다바찌,부러워하다,to envy,verb,R4,N
+1817,плач,쁠라치,울음,crying,noun,R4,N
+1818,лист,리스트,"잎, 한 장",leaf / sheet,noun,R4,Y
+1819,госпиталь,고스삐딸,병원(군),hospital,noun,R4,Y
+1820,бывало,븨발라,~하곤 했다,used to,conj,R4,N
+1821,север,세비르,북쪽,north,noun,R4,N
+1822,надолго,나돌가,오랫동안,for long,adv,R4,N
+1823,поступок,빠스뚜뻑,행동,deed,noun,R4,N
+1824,мяч,먀치,공,ball,noun,R4,Y
+1825,рейс,례이스,"항공편, 운항",flight / trip,noun,R4,N
+1826,крепость,끄례빠스찌,요새,fortress,noun,R4,Y
+1827,представитель,쁘리쯔따비쪨,대표,representative,noun,R4,N
+1828,склад,스끌라트,창고,warehouse,noun,R4,Y
+1829,драться,드라짜,싸우다,to fight,verb,R4,Y
+1830,пугать,뿌가찌,겁주다,to scare,verb,R4,N
+1831,дитя,지쨔,아이,child,noun,R4,Y
+1832,пятьдесят,삐지샷,쉰,fifty,num,R4,N
+1833,полно,뽈나,가득하다,plenty,adv,R4,N
+1834,рассвет,라스볫,새벽,dawn,noun,R4,Y
