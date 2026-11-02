@@ -1,0 +1,177 @@
+rank,word,reading,romaji,ko,en,pos,level,scene_hint
+65,去,qù,go,가다,go,动,R1,
+66,看,kàn,look,보다,look,动,R1,
+156,人民,rénmín,people,인민·국민,people,名,R1,
+197,高,gāo,tall,높다·키가 크다,tall,形,R1,
+247,看到,kàndào,see,보다·보이다,see,动,R1,
+267,家,jiā,home,집·가정,home,名、量,R1,
+268,市场,shìchǎng,market,시장,market,名,R1,
+283,问,wèn,ask,묻다,ask,动,R1,
+304,运动,yùndòng,exercise,운동·움직이다,exercise,动、名,R1,
+371,找,zhǎo,look_for,찾다,look for,动,R1,
+397,女,nǚ,female,여자의,female,形,R1,
+433,网,wǎng,net,그물·네트워크,net,名,R1,
+461,艺术,yìshù,art,예술,art,名,R2,
+481,告诉,gàosu,tell,알려주다,tell,动,R2,
+571,离开,líkāi,leave,떠나다,leave,动,R2,
+621,米,mǐ,rice,쌀·미터,rice,名,R3,
+673,介绍,jièshào,introduce,소개하다,introduce,动,R3,
+705,健康,jiànkāng,healthy,건강하다,healthy,形、名,R3,
+716,电视,diànshì,television,텔레비전,television,名,R3,
+717,看看,kànkan,have_a_look,좀 보다,have a look,动,R3,
+729,妈妈,māma,mom,엄마,mom,名,R3,
+757,男,nán,male,남자의,male,形,R3,
+760,靠,kào,lean,기대다·의지하다,lean,动,R3,
+783,低,dī,low,낮다,low,形、动,R3,
+788,拍,pāi,clap,치다·촬영하다,clap,动,R3,
+789,放,fàng,put,놓다·풀어주다,put,动,R3,
+814,金,jīn,gold,금·쇠,gold,名,R3,
+853,飞机,fēijī,airplane,비행기,airplane,名,R3,
+855,下来,xiàlai,come_down,내려오다 (방향보어),come down,动,R3,
+860,农民,nóngmín,farmer,농민,farmer,名,R3,
+903,谢谢,xièxie,thank,감사합니다.,thank,动,R3,
+908,黄,huáng,yellow,노랗다,yellow,形,R3,
+913,农村,nóngcūn,countryside,농촌,countryside,名,R3,
+914,分享,fēnxiǎng,share,나누다·공유하다,share,动,R3,
+939,工具,gōngjù,tool,도구,tool,名,R3,
+991,训练,xùnliàn,training,훈련하다·훈련,training,动、名,R3,
+1005,快乐,kuàilè,happy,행복하다·즐겁다,happy,形,R3,
+1028,城,chéng,castle,성·도시,castle,名,R3,
+1032,数,shǔ,count,세다·계산하다,count,动,R3,
+1056,广场,guǎngchǎng,square,광장,square,名,R3,
+1091,铁路,tiělù,railway,철도,railway,名,R3,
+1098,兄弟,xiōngdì,brother,형제,brother,名,R3,
+1121,过来,guòlai,come_over,다가오다,come over,动,R3,
+1134,回家,huíjiā,go_home,집에 가다,go home,动,R3,
+1170,毕业,bìyè,graduate,졸업하다,graduate,动,R3,
+1257,地球,dìqiú,earth,지구,earth,名,R4,
+1278,云,yún,cloud,구름,cloud,名,R4,
+1298,结婚,jiéhūn,marry,결혼하다,marry,动,R4,
+1301,苹果,píngguǒ,apple,사과,apple,名,R4,
+1303,表演,biǎoyǎn,perform,공연·공연하다,perform,动、名,R4,
+1397,出口,chūkǒu,exit,출구,exit,名,R4,
+1401,害怕,hàipà,afraid,무서워하다·두려워하다,afraid,形,R4,
+1411,漫画,mànhuà,comic,만화,comic,名,R4,
+1459,受伤,shòushāng,injured,부상당하다·다치다,injured,动,R4,
+1508,紧张,jǐnzhāng,nervous,긴장하다·긴박하다,nervous,形,R4,
+1555,粮食,liángshí,grain,식량·곡식,grain,名,R4,
+1559,观众,guānzhòng,audience,관중·관객,audience,名,R4,
+1569,同学,tóngxué,classmate,동창·급우,classmate,名,R4,
+1587,观察,guānchá,observe,관찰하다,observe,动,R4,
+1596,出发,chūfā,depart,출발하다,depart,动,R4,
+1632,投,tóu,throw,던지다·투입하다,throw,动,R4,
+1633,挂,guà,hang,걸다·매달다,hang,动,R4,
+1643,表,biǎo,watch,시계,watch,名,R4,
+1663,建,jiàn,build,건설하다·세우다,build,动,R4,
+1673,毛,máo,fur,털,fur,名,R4,
+1732,拍摄,pāishè,film,촬영하다,film,动,R4,
+1740,病,bìng,sick,병·아프다,sick,名、动,R4,
+1751,乱,luàn,messy,어지럽다·혼란,messy,形,R4,
+1778,短,duǎn,short,짧다,short,形,R4,
+1782,脚,jiǎo,foot,발,foot,名,R4,
+1798,岛,dǎo,island,섬,island,名,R4,
+1810,演员,yǎnyuán,actor,배우,actor,名,R4,
+1818,龙,lóng,dragon,용,dragon,名,R4,
+1844,照顾,zhàogù,take_care_of,돌보다·보살피다,take care of,动,R4,
+1845,牛,niú,cow,소,cow,形,R4,
+1852,跳,tiào,jump,뛰다·점프하다,jump,动,R4,
+1875,店,diàn,shop,가게·상점,shop,名,R4,
+1884,爆炸,bàozhà,explode,폭발하다,explode,动,R4,
+1885,球,qiú,ball,공,ball,名,R4,
+1926,象,xiàng,elephant,코끼리·모양,elephant,名,R4,
+1942,公路,gōnglù,highway,도로·고속도로,highway,名,R4,
+1943,出生,chūshēng,be_born,태어나다,be born,动,R4,
+1950,家长,jiāzhǎng,parent,학부모·가장,parent,名,R4,
+1956,污染,wūrǎn,pollution,오염시키다,pollution,名,R4,
+1970,进去,jìnqu,go_in,들어가다,go in,动,R4,
+1989,大学生,dàxuéshēng,college_student,대학생,college student,名,R4,
+1990,女生,nǚshēng,girl_student,여학생·소녀,girl student,名,R4,
+2001,抢,qiǎng,snatch,빼앗다·서두르다,snatch,动,R4,
+2029,将军,jiāngjūn,general,장군,general,名,R4,
+2030,布,bù,cloth,천·베,cloth,名,R4,
+2039,林,lín,woods,숲·수풀,woods,名,R4,
+2045,科学家,kēxuéjiā,scientist,과학자,scientist,名,R4,
+2058,进来,jìnlai,come_in,들어오다,come in,动,R4,
+2063,骂,mà,scold,욕하다·꾸짖다,scold,动,R4,
+2075,司机,sījī,driver,운전기사,driver,名,R4,
+2090,船,chuán,boat,배,boat,名,R4,
+2126,猪,zhū,pig,돼지,pig,名,R4,
+2130,美女,měinǚ,beauty,미녀,beauty,名,R4,
+2138,酒,jiǔ,alcohol,술,alcohol,名,R4,
+2161,摄影,shèyǐng,photography,사진 촬영,photography,名,R4,
+2164,法庭,fǎtíng,courtroom,법정,courtroom,名,R4,
+2165,皇帝,huángdì,emperor,황제,emperor,名,R4,
+2168,破,pò,broken,깨지다·낡다,broken,形、动,R4,
+2169,票,piào,ticket,표,ticket,名,R4,
+2195,年轻人,niánqīngrén,young_people,젊은이,young people,名,R4,
+2222,卫星,wèixīng,satellite,위성,satellite,名,R4,
+2225,圈,quān,circle,동그라미·원,circle,名,R4,
+2226,垃圾,lājī,garbage,쓰레기,garbage,名,R4,
+2233,抱,bào,hug,안다·껴안다,hug,动,R4,
+2243,满意,mǎnyì,satisfied,만족하다,satisfied,动,R4,
+2249,草,cǎo,grass,풀,grass,名,R4,
+2255,黑暗,hēi'àn,dark,어둡다·어둠,dark,形,R4,
+2276,对话,duìhuà,dialogue,대화하다,dialogue,动、名,R4,
+2286,校园,xiàoyuán,campus,캠퍼스·교정,campus,名,R4,
+2289,法官,fǎguān,judge,판사,judge,名,R4,
+2290,海洋,hǎiyáng,ocean,해양·바다,ocean,名,R4,
+2314,吃饭,chīfàn,eat_a_meal,밥을 먹다,eat a meal,动,R4,
+2339,腿,tuǐ,leg,다리,leg,名,R4,
+2385,游客,yóukè,tourist,관광객,tourist,名,R4,
+2390,老人,lǎorén,old_man,노인,old man,名,R4,
+2406,兴奋,xīngfèn,excited,흥분하다,excited,形,R4,
+2447,鸡,jī,chicken,닭,chicken,名,R4,
+2449,上来,shànglai,come_up,올라오다,come up,动,R4,
+2462,吓,xià,scare,놀라게 하다·겁주다,scare,动,R4,
+2465,失望,shīwàng,disappointed,실망하다,disappointed,形,R4,
+2466,女士,nǚshì,lady,여사·부인,lady,名,R4,
+9001,饺子,jiǎozi,dumplings,자오쯔(물만두),dumplings,noun,food,"흰 접시에 반달 모양으로 주름 잡힌 하얀 물만두 열 개, 옆에 흑식초와 다진 마늘을 담은 작은 종지."
+9002,包子,bāozi,steamed_bun,바오쯔(찐빵 만두),steamed bun,noun,food,"대나무 찜기에 꼭대기를 꽃처럼 오므린 둥글고 하얀 찐빵 만두 네 개, 김이 모락모락 오른다."
+9003,小笼包,xiǎolóngbāo,soup_dumplings,샤오룽바오,soup dumplings,noun,food,"흰 대나무 찜기에 주름 잡힌 작은 만두 8개, 반투명 피 속 육즙, 옆에 생강채를 띄운 흑식초 종지."
+9004,馒头,mántou,steamed_bread,만터우,steamed bread,noun,food,"대나무 찜기에 소 없이 매끈하고 하얀 둥근 찐빵 네 개, 김이 피어오른다."
+9005,油条,yóutiáo,fried_dough_stick,유탸오(꽈배기 튀김),fried dough stick,noun,food,"기름종이 위에 길쭉하게 두 줄이 붙은 황금빛 튀김빵 두 개, 겉이 바삭하게 부풀어 있다."
+9006,豆浆,dòujiāng,soy_milk,더우장(두유),soy milk,noun,food,"흰 사발에 담긴 따끈한 연한 미색 두유, 위에 얇은 김이 오른다."
+9007,米饭,mǐfàn,rice,흰쌀밥,rice,noun,food,작은 흰 도자기 공기에 소복이 담긴 윤기 나는 흰쌀밥과 나무 젓가락 한 쌍.
+9008,炒饭,chǎofàn,fried_rice,볶음밥,fried rice,noun,food,"흰 접시에 둥글게 담은 노란 달걀 볶음밥, 초록 파·분홍 새우·주황 당근·완두콩이 섞여 있다."
+9009,面条,miàntiáo,noodles,국수,noodles,noun,food,"큰 사발의 맑은 국물에 하얀 국수 가락, 위에 초록 청경채 두 잎과 송송 썬 파."
+9010,牛肉面,niúròumiàn,beef_noodle_soup,우육면,beef noodle soup,noun,food,"큰 사발의 붉은빛 맑은 국물에 굵은 국수, 큼직한 소고기 조각, 초록 고수와 붉은 고추기름이 떠 있다."
+9011,麻婆豆腐,mápódòufu,mapo_tofu,마파두부,mapo tofu,noun,food,흰 접시에 네모난 하얀 두부가 붉은 고추기름 소스와 다진 고기에 덮여 있고 위에 초록 파와 산초 가루.
+9012,宫保鸡丁,gōngbǎojīdīng,kung_pao_chicken,궁바오지딩,kung pao chicken,noun,food,"흰 접시에 깍둑 썬 닭고기와 볶은 땅콩, 붉은 마른 고추, 초록 파가 윤기 나는 갈색 소스에 버무려져 있다."
+9013,北京烤鸭,běijīngkǎoyā,peking_duck,베이징 카오야(북경 오리구이),Peking duck,noun,food,"도마 위 윤기 나는 적갈색 통오리구이와 얇게 썬 껍질 조각, 옆에 얇은 밀전병·파채·검은 춘장 종지."
+9014,火锅,huǒguō,hot_pot,훠궈,hot pot,noun,food,"식탁 가운데 반은 붉은 매운 국물, 반은 흰 국물로 나뉜 금속 냄비가 끓고, 주변 접시에 얇은 고기·채소·버섯."
+9015,糖醋排骨,tángcùpáigǔ,sweet_and_sour_ribs,탕추파이구(탕수 갈비),sweet and sour ribs,noun,food,"흰 접시에 윤기 나는 붉은 갈색 소스를 입힌 작은 갈비 조각들, 위에 흰 깨를 뿌렸다."
+9016,红烧肉,hóngshāoròu,braised_pork_belly,훙사오러우,braised pork belly,noun,food,흰 그릇에 깍둑 썬 삼겹살이 윤기 나는 진한 적갈색 소스에 조려져 있고 초록 파 몇 조각.
+9017,鱼香肉丝,yúxiāngròusī,fish_flavored_shredded_pork,위샹러우쓰,fish-flavored shredded pork,noun,food,흰 접시에 가늘게 채 썬 돼지고기·검은 목이버섯·주황 당근·초록 고추가 붉은 새콤달콤 소스에 볶여 있다.
+9018,西红柿炒鸡蛋,xīhóngshìchǎojīdàn,tomato_and_egg_stir_fry,토마토 달걀 볶음,tomato and egg stir-fry,noun,food,흰 접시에 큼직한 빨간 토마토 조각과 노란 스크램블 달걀이 섞여 있고 초록 파를 뿌렸다.
+9019,煎饼果子,jiānbingguǒzi,chinese_crepe,젠빙궈쯔,Chinese crepe,noun,food,노릇한 얇은 전병에 달걀을 바르고 파·고수를 뿌린 뒤 바삭한 튀김을 넣어 반으로 접어 종이봉투에 꽂았다.
+9020,凉皮,liángpí,cold_skin_noodles,량피(냉면피),cold skin noodles,noun,food,"흰 사발에 넓적하고 반투명한 면, 붉은 고추기름 소스, 채 썬 오이와 콩나물, 사각 밀글루텐 조각."
+9021,粥,zhōu,rice_porridge,죽,rice porridge,noun,food,"흰 사발에 하얗고 걸쭉한 쌀죽, 위에 송송 썬 파와 짠지 반찬 한 종지."
+9022,月饼,yuèbing,mooncake,월병,mooncake,noun,food,"나무 접시에 꽃무늬가 찍힌 동그란 황금색 과자 두 개, 하나는 반으로 잘려 노란 노른자 소가 보인다."
+9023,汤圆,tāngyuán,sweet_rice_balls,탕위안(찹쌀 경단),sweet rice balls,noun,food,"흰 사발의 맑은 단물에 하얗고 동글동글한 찹쌀 경단 다섯 개, 하나는 터져 검은 깨 소가 보인다."
+9024,粽子,zòngzi,sticky_rice_dumpling,쭝쯔(대나무잎 찰밥),sticky rice dumpling,noun,food,"초록 대나무 잎으로 세모나게 싸서 끈으로 묶은 찰밥 두 개, 하나는 펼쳐져 갈색 찹쌀 속이 보인다."
+9025,春卷,chūnjuǎn,spring_roll,춘권,spring roll,noun,food,"흰 접시에 가늘고 길쭉한 황금색 바삭한 튀김말이 네 개, 옆에 붉은 칠리소스 종지."
+9026,烧卖,shāomai,shumai,사오마이,shumai,noun,food,"대나무 찜기에 위가 열린 컵 모양 만두 네 개, 노란 피 속 고기소 위에 주황 게알을 얹었다."
+9027,担担面,dàndànmiàn,dandan_noodles,단단면,dandan noodles,noun,food,"작은 사발에 하얀 국수와 붉은 고추기름, 위에 볶은 다진 고기와 초록 채소, 땅콩 가루."
+9028,酸菜鱼,suāncàiyú,fish_with_pickled_cabbage,쏸차이위(갓절임 생선탕),fish with pickled cabbage,noun,food,"큰 사발의 노르스름한 국물에 하얀 생선살 조각과 노란 갓절임, 위에 붉은 고추와 초록 파."
+9029,水煮鱼,shuǐzhǔyú,spicy_boiled_fish,수이주위,spicy boiled fish,noun,food,큰 사발의 붉은 고추기름 국물에 하얀 생선살이 잠기고 위에 붉은 마른 고추와 산초가 수북하다.
+9030,东坡肉,dōngpōròu,dongpo_pork,둥포러우,Dongpo pork,noun,food,작은 도기 단지에 네모난 두툼한 삼겹살 한 덩이가 끈으로 묶여 윤기 나는 적갈색 소스에 잠겨 있다.
+9031,麻辣烫,málàtàng,spicy_hot_soup,마라탕,spicy hot soup,noun,food,큰 사발의 붉은 매운 국물에 꼬치 어묵·두부·버섯·청경채·당면이 가득 담겨 있다.
+9032,羊肉串,yángròuchuàn,lamb_skewers,양러우촨(양꼬치),lamb skewers,noun,food,"쇠꼬챙이에 꿴 작은 양고기 조각 다섯 꼬치, 위에 붉은 고춧가루와 쯔란이 뿌려져 있다."
+9033,臭豆腐,chòudòufu,stinky_tofu,처우더우푸,stinky tofu,noun,food,"작은 종이 그릇에 겉이 노릇하게 튀긴 네모난 두부 조각, 위에 붉은 소스와 초록 고수, 하얀 양배추 절임."
+9034,葱油饼,cōngyóubǐng,scallion_pancake,충유빙(파기름 전병),scallion pancake,noun,food,나무 도마에 둥글고 노릇한 겹겹의 전병을 부채꼴로 잘랐고 단면에 초록 파가 보인다.
+9035,馄饨,húntun,wonton_soup,훈툰,wonton soup,noun,food,"흰 사발의 맑은 국물에 꼬리가 하늘거리는 얇은 피 완자 만두, 위에 초록 파와 김 조각."
+9036,炸酱面,zhájiàngmiàn,noodles_with_soybean_paste,자장몐(중국식 짜장면),noodles with soybean paste,noun,food,"흰 사발에 하얀 굵은 국수 위로 진갈색 된장 고기볶음, 옆에 가늘게 채 썬 오이·당근·콩나물."
+9037,回锅肉,huíguōròu,twice_cooked_pork,후이궈러우,twice-cooked pork,noun,food,흰 접시에 얇게 썬 삼겹살이 붉은 두반장 소스에 초록 마늘종·피망과 함께 볶여 있다.
+9038,叉烧,chāshāo,barbecued_pork,차사오,barbecued pork,noun,food,나무 도마 위 겉이 붉게 윤기 나는 구운 돼지고기를 도톰하게 썰었고 단면은 분홍빛.
+9039,肠粉,chángfěn,rice_noodle_roll,창펀,rice noodle roll,noun,food,"흰 접시에 반투명하고 매끈한 쌀피 말이 세 줄, 위에 갈색 간장 소스와 초록 파."
+9040,豆腐脑,dòufunǎo,tofu_pudding,더우푸나오(순두부),tofu pudding,noun,food,"흰 사발에 몽글몽글한 하얀 순두부, 위에 갈색 소스·붉은 고추기름·초록 고수."
+9041,珍珠奶茶,zhēnzhūnǎichá,bubble_tea,버블티,bubble tea,noun,food,"투명한 플라스틱 컵에 연갈색 밀크티와 바닥의 검은 타피오카 펄, 굵은 빨대가 꽂혀 있다."
+9042,绿茶,lǜchá,green_tea,녹차,green tea,noun,food,하얀 찻잔에 맑은 연둣빛 차가 담기고 찻잎 몇 장이 떠 있으며 옆에 작은 찻주전자.
+9043,啤酒,píjiǔ,beer,맥주,beer,noun,food,"유리잔에 거품이 넘칠 듯한 황금빛 맥주, 옆에 초록 맥주병 하나."
+9044,白酒,báijiǔ,chinese_liquor,바이주(고량주),Chinese liquor,noun,food,"작은 투명 유리잔 두 개에 맑은 술, 옆에 붉은 끈을 감은 흰 도자기 술병."
+9045,锅贴,guōtiē,potstickers,궈톄(군만두),potstickers,noun,food,검은 철판 위에 바닥이 노릇하게 눌어붙은 길쭉한 군만두 여섯 개가 나란히 붙어 있고 옆에 흑식초 종지.
+9046,茶叶蛋,cháyèdàn,tea_egg,차예단(찻잎 달걀),tea egg,noun,food,"작은 냄비의 갈색 찻물 속에 껍질이 거미줄처럼 금 간 삶은 달걀들, 하나는 껍질을 벗겨 대리석 무늬가 보인다."
+9047,冰糖葫芦,bīngtánghúlu,candied_haws,탕후루,candied haws,noun,food,긴 나무 꼬치에 빨간 산사 열매 여섯 알이 꿰어져 투명한 설탕 껍질로 반짝인다.
+9048,糖炒栗子,tángchǎolìzi,roasted_chestnuts,군밤,roasted chestnuts,noun,food,"종이봉투에 윤기 나는 짙은 갈색 군밤이 가득, 몇 개는 껍질이 벌어져 노란 속살이 보인다."
+9049,酸辣汤,suānlàtāng,hot_and_sour_soup,쏸라탕,hot and sour soup,noun,food,흰 사발의 걸쭉한 갈색 국물에 채 썬 두부·목이버섯·달걀 꽃이 풀려 있고 위에 초록 파.
+9050,蛋挞,dàntà,egg_tart,에그타르트,egg tart,noun,food,"흰 접시에 결이 겹겹인 노릇한 파이 컵 세 개, 속은 매끈한 노란 커스터드에 갈색 그을음 점."

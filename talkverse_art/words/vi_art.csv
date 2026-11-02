@@ -1,0 +1,110 @@
+rank,word,reading,romaji,ko,en,pos,level,scene_hint
+6,đi,디,go,가다,to go,v,R1,
+8,em,엠,younger_sibling,동생(연하 호칭),younger sibling (you/I),pron,R1,
+19,làm,람,do,하다·만들다,to do / make,v,R1,
+28,cô,꼬,miss,아가씨·선생님(여성 호칭),miss / aunt (female address),pron,R1,
+45,giờ,여,hour,시간·지금,hour / now,n,R1,
+48,dạ,야,yes,네(공손),yes (polite),part,R1,
+50,ông,옹,grandfather,할아버지·씨(남성),grandfather / mister,n,R1,
+55,thấy,터이,see,보이다·느끼다,to see / feel,v,R1,
+62,bà,바,grandmother,할머니·부인,grandmother / madam,n,R1,
+68,hai,하이,two,둘,two,num,R1,
+70,má,마,mom,엄마(남부),mom (southern),n,R1,
+88,đừng,등,don_t,~하지 마,don't,adv,R1,
+97,xin,씬,ask_for,청하다·부디,to ask for / please,v,R2,
+98,qua,꽈,pass,지나다·건너다,to pass / cross,v,R2,
+118,ừ,으,yeah,응,yeah,part,R3,
+122,ngày,응아이,day,날·일,day,n,R3,
+124,coi,꼬이,watch,보다(남부),to watch / look (southern),v,R3,
+127,tìm,띰,look_for,찾다,to look for,v,R3,
+135,ý,이,idea,뜻·생각,idea / meaning,n,R3,
+144,nhìn,닌,look,보다,to look,v,R3,
+146,gặp,갑,meet,만나다,to meet,v,R3,
+148,sau,싸우,after,뒤·후에,after / behind,prep,R3,
+149,hỏi,호이,ask,묻다,to ask,v,R3,
+151,theo,테오,follow,따르다,to follow,v,R3,
+176,khác,칵,different,다르다,different / other,adj,R3,
+177,lỗi,로이,fault,잘못·오류,fault / error,n,R3,
+179,tình,띤,affection,정·사랑,affection / love,n,R3,
+180,đồ,도,thing,물건,thing / stuff,n,R3,
+181,xong,쏭,finished,끝나다,finished,v,R3,
+182,bỏ,보,leave,버리다·그만두다,to leave / give up,v,R3,
+196,lời,러이,words,말,words,n,R3,
+199,đồng,동,dong,동(화폐)·함께,dong (currency) / same,n,R3,
+208,vui,부이,happy,즐겁다,happy / fun,adj,R4,
+212,dễ,예,easy,쉽다,easy,adj,R4,
+218,xe,쎄,vehicle,차·탈것,vehicle,n,R4,
+222,trên,쩬,on,위,on / above,prep,R4,
+228,giống,용,similar,닮다·같다,similar,adj,R4,
+229,thử,트,try,시도하다,to try,v,R4,
+243,cố,꼬,try_hard,노력하다,to try hard,v,R4,
+266,kêu,께우,call_out,부르다·소리내다,to call out,v,R4,
+271,yên,옌,calm,조용한,calm / quiet,adj,R4,
+273,tiếng,띠엥,language,언어·소리·시간,language / sound / hour,n,R4,
+276,chủ,쭈,owner,주인,owner,n,R4,
+279,nam,남,male,남자·남쪽,male / south,n,R4,
+288,điện,디엔,electricity,전기·전화,electricity / phone,n,R4,
+290,sinh,씬,be_born,태어나다·학생,to be born / student,v,R4,
+294,giữ,이으,keep,지키다,to keep,v,R4,
+295,dữ,이으,fierce,사납다,fierce,adj,R4,
+314,cảnh,깐,scenery,경치·장면,scenery / scene,n,R4,
+323,báo,바오,inform,알리다·신문,to inform / newspaper,v,R4,
+324,mệt,멧,tired,피곤하다,tired,adj,R4,
+330,tối,또이,evening,저녁·어둡다,evening / dark,n,R4,
+332,sớm,썸,early,일찍,early,adv,R4,
+335,đàn,단,instrument,악기·무리,instrument / flock,n,R4,
+336,hồng,홍,pink,분홍·장미,pink / rose,adj,R4,
+348,diễn,이엔,act,연기하다·공연,to act / perform,v,R4,
+351,khách,카익,guest,손님,guest / customer,n,R4,
+355,dù,유,although,비록·우산,although / umbrella,conj,R4,
+360,tuyệt,뚜옛,excellent,훌륭한,excellent,adj,R4,
+9001,phở bò,퍼 보,beef_pho,소고기 쌀국수,beef pho,noun,food,"넓은 흰 사발에 맑은 갈색 소고기 육수, 납작한 흰 쌀국수, 얇게 썬 소고기 편육, 양파 슬라이스, 파·고수 고명. 옆에 숙주·라임 조각·고추·바질 접시."
+9002,phở gà,퍼 가,chicken_pho,닭고기 쌀국수,chicken pho,noun,food,"흰 사발에 노란빛 맑은 닭 육수, 흰 쌀국수, 찢은 닭고기, 파·고수, 라임 조각 곁들임."
+9003,bún bò Huế,분 보 후에,hue_spicy_beef_noodle,후에식 매운 소고기 국수,Hue spicy beef noodle,noun,food,"붉은 기름이 도는 매운 소고기 육수, 굵고 둥근 쌀국수, 소고기 편육과 족발 한 덩이, 파·양파, 옆에 바나나꽃·숙주·라임."
+9004,bún chả,분 짜,grilled_pork_with_rice_noodles,숯불 돼지고기 쌀국수,grilled pork with rice noodles,noun,food,"작은 그릇에 달콤새콤한 느억맘 국물 속 숯불 돼지고기 완자와 삼겹살 조각, 옆에 흰 가는 쌀국수 한 접시와 허브 바구니."
+9005,bún thịt nướng,분 팃 느엉,rice_noodles_with_grilled_pork,구운 돼지고기 비빔국수,rice noodles with grilled pork,noun,food,"깊은 그릇에 가는 흰 쌀국수, 위에 숯불 돼지고기 구이, 다진 땅콩, 당근·무 절임, 오이·상추·민트, 느억맘 소스 종지."
+9006,bún riêu,분 리에우,crab_tomato_noodle_soup,게살 토마토 국수,crab tomato noodle soup,noun,food,"붉은 토마토 육수에 가는 쌀국수, 게살 두부 덩어리, 튀긴 두부, 토마토 조각, 파·고수, 옆에 숙주·채썬 양배추."
+9007,hủ tiếu,후 띠에우,southern_clear_noodle_soup,남부식 맑은 국수,southern clear noodle soup,noun,food,"맑은 돼지뼈 육수에 쫄깃한 가는 면, 새우 두어 마리, 돼지고기 편육, 메추리알, 다진 돼지고기, 쪽파·마늘 튀김."
+9008,mì Quảng,미 꽝,quang_style_turmeric_noodles,꽝남식 비빔면,Quang-style turmeric noodles,noun,food,"노란 강황 넓은 면이 얕은 국물에 담기고, 새우·돼지고기·삶은 달걀 반쪽, 땅콩 가루, 구운 쌀 과자 조각, 바나나꽃·허브."
+9009,cao lầu,까오 러우,hoi_an_noodles,호이안 국수,Hoi An noodles,noun,food,"진한 갈색 굵은 면 위에 간장 양념 돼지고기 편육, 바삭한 면 튀김 조각, 숙주·허브, 국물은 아주 적음. 작은 흰 사발."
+9010,bánh canh cua,반 깐 꾸어,crab_thick_noodle_soup,게살 굵은 면 국,crab thick noodle soup,noun,food,"걸쭉한 주황빛 국물에 굵고 투명한 타피오카 면, 게살·새우·게 집게, 메추리알, 파·고수. 흰 사발."
+9011,miến gà,미엔 가,chicken_glass_noodle_soup,닭고기 당면 국,chicken glass noodle soup,noun,food,"맑은 닭 육수에 투명 당면, 찢은 닭고기, 목이버섯 채, 파·고수. 흰 사발."
+9012,cháo lòng,짜오 롱,pork_offal_porridge,돼지 내장 죽,pork offal porridge,noun,food,"흰 쌀죽에 썬 돼지 내장과 선지 조각, 파·고수, 후추, 옆에 튀김빵(꽈이) 조각."
+9013,cơm tấm,껌 떰,broken_rice_with_grilled_pork,사이공 깨진쌀밥,broken rice with grilled pork,noun,food,"흰 깨진쌀밥 한 접시에 구운 돼지갈비(설탕 간장 양념, 윤기), 달걀 미트로프 한 조각, 돼지껍질 채, 오이·토마토, 느억맘 종지."
+9014,cơm gà Hội An,껌 가 호이안,hoi_an_chicken_rice,호이안 닭고기 밥,Hoi An chicken rice,noun,food,"강황빛 노란 밥 한 접시, 찢은 닭고기, 양파 슬라이스·라우람 허브, 라임 조각, 작은 국물 그릇."
+9015,cơm chiên,껌 찌엔,fried_rice,볶음밥,fried rice,noun,food,"달걀·당근·완두·소시지가 섞인 노란 볶음밥 한 접시, 파 고명, 오이 두 조각."
+9016,xôi,쏘이,sticky_rice,찰밥,sticky rice,noun,food,"바나나잎 위에 흰 찰밥 한 덩이, 위에 녹두 가루·파 기름·건새우 또는 닭고기 찢은 것, 바삭한 양파 튀김."
+9017,bánh mì,반 미,vietnamese_baguette_sandwich,베트남식 바게트 샌드위치,Vietnamese baguette sandwich,noun,food,"바삭한 짧은 바게트를 갈라 돼지고기 편육·파테·오이 스틱·당근무 절임·고수·고추, 종이에 반쯤 싸여 있음."
+9018,bánh mì thịt nướng,반 미 팃 느엉,grilled_pork_banh_mi,구운 돼지고기 반미,grilled pork banh mi,noun,food,"바게트 안에 숯불 돼지고기 구이, 당근무 절임, 오이, 고수, 느억맘 소스가 배어 있음."
+9019,bánh xèo,반 쎄오,sizzling_crepe,베트남식 부침개,sizzling crepe,noun,food,"노란 강황 쌀가루 반달 부침, 안에 새우·돼지고기·숙주, 가장자리 바삭, 옆에 상추·허브와 느억맘 종지."
+9020,bánh khọt,반 콧,mini_shrimp_pancakes,미니 새우 부침,mini shrimp pancakes,noun,food,"둥근 무쇠 틀에서 나온 지름 5cm 노란 미니 부침 여러 개, 각각 위에 새우 한 마리, 파 기름, 상추 접시."
+9021,bánh cuốn,반 꾸온,steamed_rice_rolls,쌀피 롤,steamed rice rolls,noun,food,"얇고 반투명한 흰 쌀피 롤 여러 개, 안에 다진 돼지고기·목이버섯, 위에 바삭한 양파 튀김·고수, 베트남 햄(짜 루어) 조각, 느억맘 종지."
+9022,bánh bèo,반 베오,hue_steamed_rice_cakes,후에식 쌀떡 종지,Hue steamed rice cakes,noun,food,"작은 흰 종지 6~8개에 담긴 납작한 쌀떡, 각각 위에 주황색 건새우 가루·돼지껍질 튀김·파 기름, 느억맘 종지."
+9023,bánh bột lọc,반 봇 록,tapioca_shrimp_dumplings,타피오카 새우 만두,tapioca shrimp dumplings,noun,food,"투명한 쫄깃한 반달 만두 여러 개, 안에 주황 새우와 돼지고기가 비쳐 보임, 파 기름, 바나나잎 받침."
+9024,bánh bao,반 바오,steamed_pork_bun,고기 찐빵,steamed pork bun,noun,food,"하얀 둥근 찐빵 하나, 반 갈라 안에 다진 돼지고기·메추리알·중국 소시지 조각이 보임."
+9025,gỏi cuốn,고이 꾸온,fresh_spring_rolls,월남쌈(생춘권),fresh spring rolls,noun,food,"투명 라이스페이퍼에 새우·돼지고기·쌀국수·상추·허브가 비치는 롤 3~4개, 반으로 잘라 세움, 땅콩 호이신 소스 종지."
+9026,chả giò,짜 요,fried_spring_rolls,튀긴 춘권,fried spring rolls,noun,food,"황금빛 바삭한 튀긴 롤 여러 개, 안에 다진 돼지고기·당면·당근, 상추·허브에 싸 먹도록 배치, 느억맘 종지."
+9027,nem nướng,넴 느엉,grilled_pork_sausage_skewers,구운 돼지고기 완자 꼬치,grilled pork sausage skewers,noun,food,"막대에 꿴 분홍빛 구운 돼지고기 완자, 라이스페이퍼·상추·허브·바삭한 튀김 롤과 함께 싸 먹는 한 상, 땅콩 소스."
+9028,bò lá lốt,보 라 롯,beef_in_betel_leaves,롯잎 소고기 구이,beef in betel leaves,noun,food,"짙은 초록 롯잎으로 돌돌 만 작은 소고기 롤 여러 개, 숯불 자국, 다진 땅콩·파 기름, 쌀국수·허브 곁들임."
+9029,bò kho,보 코,vietnamese_beef_stew,베트남식 소고기 스튜,Vietnamese beef stew,noun,food,"붉은 주황빛 걸쭉한 스튜에 소고기 덩어리·당근, 레몬그라스·팔각 향, 옆에 바게트 조각, 고수."
+9030,cà ri gà,까 리 가,vietnamese_chicken_curry,베트남식 치킨 카레,Vietnamese chicken curry,noun,food,"노란 코코넛 카레에 닭다리·감자·당근·고구마, 옆에 바게트 또는 쌀국수, 파·고수."
+9031,thịt kho tàu,팃 코 따우,caramelized_pork_with_eggs,돼지고기 달걀 조림,caramelized pork with eggs,noun,food,"진한 갈색 코코넛 물 조림에 삼겹살 큰 덩어리와 삶은 달걀, 윤기 나는 국물, 흰 쌀밥과 함께."
+9032,cá kho tộ,까 코 또,caramelized_fish_in_clay_pot,뚝배기 생선 조림,caramelized fish in clay pot,noun,food,"작은 갈색 뚝배기에 캐러멜 간장으로 조린 생선 토막(가물치/메기), 고추·파·후추, 진한 갈색 국물."
+9033,canh chua cá,깐 쭈어 까,sour_fish_soup,새콤한 생선 국,sour fish soup,noun,food,"큰 사발에 노란빛 새콤한 국물, 생선 토막, 토마토·파인애플·오크라·숙주·토란줄기, 라우옴 허브·마늘 튀김."
+9034,lẩu,러우,hot_pot,베트남식 전골,hot pot,noun,food,"가운데 버너 위 냄비에 끓는 국물, 둘레 접시에 생선·새우·소고기·채소·국수가 담긴 한 상, 여럿이 둘러앉는 구도."
+9035,gà nướng,가 느엉,grilled_chicken,숯불 닭구이,grilled chicken,noun,food,"레몬그라스·강황 양념으로 숯불에 구운 닭 반 마리, 껍질이 갈색으로 바삭, 찰밥 또는 밥과 느억맘·고추 소금."
+9036,ốc,옥,snails,조개·고둥 요리,snails,noun,food,"길가 식당 스타일 — 여러 접시에 레몬그라스 볶음 고둥, 타마린드 소스 조개, 소금 고추 종지, 플라스틱 테이블."
+9037,chè ba màu,쩨 바 마우,three_color_dessert,삼색 디저트,three-color dessert,noun,food,"긴 유리컵에 층층이 — 아래 빨간 팥, 가운데 노란 녹두, 위 초록 젤리, 코코넛 밀크와 얼음."
+9038,chè đậu xanh,쩨 더우 싼,mung_bean_sweet_soup,녹두 단팥죽,mung bean sweet soup,noun,food,"작은 그릇에 노란 녹두 달콤한 죽, 코코넛 밀크 한 줄기, 참깨."
+9039,bánh flan,반 플랑,caramel_flan,베트남식 커스터드 푸딩,caramel flan,noun,food,"작은 둥근 노란 푸딩, 위에 진한 갈색 캐러멜, 얼음과 블랙커피 한 스푼 끼얹음."
+9040,sữa chua nếp cẩm,쓰어 쭈어 넵 껌,black_sticky_rice_yogurt,흑미 찰밥 요거트,black sticky rice yogurt,noun,food,"유리컵에 보랏빛 흑미 찰밥 위로 흰 요거트, 코코넛 밀크."
+9041,kem dừa,껨 즈어,coconut_ice_cream,코코넛 아이스크림,coconut ice cream,noun,food,"반 갈라진 코코넛 껍질 안에 흰 코코넛 아이스크림 두 스쿱, 땅콩·코코넛 채·젤리 토핑."
+9042,cà phê sữa đá,까 페 쓰어 다,iced_coffee_with_condensed_milk,연유 아이스커피,iced coffee with condensed milk,noun,food,"키 큰 유리컵에 진한 커피와 흰 연유가 층을 이루고 얼음 가득, 옆에 작은 금속 드립 필터(핀)."
+9043,cà phê trứng,까 페 쯩,egg_coffee,달걀 커피,egg coffee,noun,food,"작은 잔에 진한 커피 위로 노란 달걀 거품 크림이 두껍게, 뜨거운 물 담긴 그릇에 잔이 놓임."
+9044,bạc xỉu,박 씨우,milky_coffee,연유 우유 커피,milky coffee (saigon),noun,food,"유리컵에 우유가 많고 커피가 적은 연한 갈색 음료, 얼음, 연유."
+9045,nước mía,느억 미어,sugarcane_juice,사탕수수 주스,sugarcane juice,noun,food,"초록빛 노란 사탕수수 즙이 담긴 플라스틱 컵, 얼음, 옆에 사탕수수 줄기와 압착기."
+9046,sinh tố bơ,씬 또 버,avocado_smoothie,아보카도 스무디,avocado smoothie,noun,food,"두꺼운 연두색 스무디가 담긴 유리컵, 연유, 빨대, 옆에 반 가른 아보카도."
+9047,nước dừa,느억 즈어,coconut_water,코코넛 물,coconut water,noun,food,"윗부분을 잘라낸 초록 코코넛에 빨대, 옆에 얼음."
+9048,bia hơi,비어 허이,draft_beer,생맥주,draft beer,noun,food,"플라스틱 의자 길가 가게의 두꺼운 유리잔에 연노랑 생맥주와 거품, 땅콩 접시."
+9049,rau muống xào tỏi,라우 무옹 싸오 또이,stir_fried_water_spinach_with_garlic,공심채 마늘 볶음,stir-fried water spinach with garlic,noun,food,"초록 공심채를 마늘과 센 불에 볶은 한 접시, 윤기, 마늘 조각이 보임."
+9050,đậu hũ chiên sả,더우 후 찌엔 싸,lemongrass_fried_tofu,레몬그라스 두부 튀김,lemongrass fried tofu,noun,food,"황금빛 바삭한 두부 조각 위에 다진 레몬그라스·고추, 간장 종지."
