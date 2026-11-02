@@ -1,0 +1,22 @@
+# Talkverse art — Thai · round 17 · 2026-11-03
+
+**Style check (every round):** match these approved images exactly — soft matte clay, natural adult/child body proportions (NOT chibi/baby big-head), light pastel blob background, accent color on ONE small item only (do not paint everything orange):
+
+- https://raw.githubusercontent.com/talkverselab/talkversehanja/main/talkverse_art/ja/r01/95_matsu_B.jpg
+- https://raw.githubusercontent.com/talkverselab/talkversehanja/main/talkverse_art/ja/r01/112_hanashi_B.jpg
+- https://raw.githubusercontent.com/talkverselab/talkversehanja/main/talkverse_art/ja/r01/137_haha_B.jpg
+- https://raw.githubusercontent.com/talkverselab/talkversehanja/main/talkverse_art/ja/r02/19_iu_v2.jpg
+- https://raw.githubusercontent.com/talkverselab/talkversehanja/main/talkverse_art/ja/r02/71_sensei_v2.jpg
+
+Same look and tone as the previous round (style B, accent #8a5cd6 on one item only, real Thailand dishes for food words, people, clothing and places typical of Thailand, no text/logos). **Every person full body, head to feet, nothing cropped — never cut off heads. The image tool cannot output 1:1, so generate LANDSCAPE (3:2 or 16:9) with the subject centered and empty background on both sides, then center-crop to a 1024×1024 square (crop only the left/right sides, never top/bottom). Portrait images, letterboxing or any side bars are rejected.** **People: use ONLY the two fixed Thai app characters in https://raw.githubusercontent.com/talkverselab/talkversehanja/main/talkverse_art/chars/th_sheet.jpg (open it first).** Woman: clearly golden-tan / light-brown skin (as in the sheet, darker than a typical pale skin), soft round eyes, long slightly wavy black hair, bright smile; outfit = cream knit + white pleated skirt (everyday) or white visor + white tennis outfit + lilac paddle (sport). Man: short neat black hair, clean gentle features, beige SHORT-SLEEVE button shirt with a chest pocket (not a sweater) + brown trousers + white sneakers. Felt/clay doll texture as in the sheet. Same faces and outfits every time; no names, no text. A child appears only when the word needs one. **Do not reuse the curly-haired bearded man in a green sweater** (he appeared in 4 of 6 pictures in round 289) — every adult must look different: straight/short/long/grey hair, glasses, different ages and builds. **Never show a woman holding two round objects (fruit, balls) at chest height** — carry them in a basket, bag or low at the hips. **Never draw one person just standing alone doing nothing**: job, family and relation words (principal, son, employee, doctor…) must show that person WITH the people they relate to, in their place (school, shop, home), doing the typical action; left/right/direction words must be a scene, never a bare arrow; abstract words must be a person doing it. Rules: `talkverse_art/STYLE.md`. **Hard limit: this round is 6 pictures; generate at most 8 images in total including retries.** If a picture still fails after that, skip it and say so in the commit message — do not generate more.
+
+Save to `talkverse_art/th/r17/<file>` and push to GitHub exactly as `talkverse_art/PUSH.md` says (connector push tool, base64, 1024×1024 JPG quality 85 under 200 KB, one picture per commit; last commit message `Talkverse art th r17 done`).
+
+| # | word | reading | meaning (ko · en) | scene to draw | file |
+|---|---|---|---|---|---|
+| 1 | ค่า | kâ | 값, 요금, 비용 · fee (noun) | 주차장 출구에서 고정 캐릭터 남자가 차 창문 밖으로 주차 요금을 내고, 요금소 직원(모자)이 거스름돈을 건넴. 두 사람 보이게, 숫자·글자 없음. | `talkverse_art/th/r17/330_fee.jpg` |
+| 2 | ฝาก | fàk | 맡기다, 부탁하다, 예금하다 · entrust (verb) | 이웃집 현관에서 고정 캐릭터 여자가 여행 가방을 든 채 이웃 아주머니에게 화분과 고양이를 맡기며 두 손 모아 부탁하고, 아주머니가 웃으며 받음. 두 사람 전신. | `talkverse_art/th/r17/334_entrust.jpg` |
+| 3 | ผิด | pìt | 틀리다, 잘못된 · wrong (adj) | 교실에서 고정 캐릭터 여자(선생님 역)가 칠판 앞에서 학생 공책을 보며 손가락으로 X 표시 대신 고개를 저어 '틀렸어' 하고, 학생이 머리를 긁적임. 두 사람 전신, 글자·숫자 없음. | `talkverse_art/th/r17/335_wrong.jpg` |
+| 4 | ทัน | tan | 제때 맞추다, 따라잡다 · in time (verb) | 방콕 고가철도(BTS) 승강장에서 고정 캐릭터 남자가 문이 닫히기 직전에 전력으로 뛰어 겨우 올라타고, 열차 안의 여자가 두 손을 들고 환호. 두 사람 전신, 노선도·글자 없음. | `talkverse_art/th/r17/367_in_time.jpg` |
+| 5 | ไส้อั่ว | sai ua | 싸이우아 · northern Thai sausage (noun) | 허브와 고추를 넣은 북부식 돼지고기 소시지를 숯불에 구워 동그랗게 만 모양. | `talkverse_art/th/r17/9031_northern_thai_sausage.jpg` |
+| 6 | น้ำพริกหนุ่ม | nam phrik num | 남프릭눔 · green chili dip (noun) | 구운 초록 고추를 찧은 딥 소스, 삶은 채소와 돼지껍질 튀김(캡무) 곁들임. | `talkverse_art/th/r17/9032_green_chili_dip.jpg` |
