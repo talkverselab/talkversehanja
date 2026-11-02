@@ -1,0 +1,105 @@
+rank,word,reading,romaji,ko,en,pos,level,scene_hint
+166,emberek,엠베렉,people,사람들,people,noun,R1,
+241,film,필름,film,영화,film,noun,R1,
+298,óra,오러,clock,"시간, 시계",clock,noun,R1,
+337,város,버로슈,city,도시,city,noun,R1,
+427,rövid,뢰비드,short,짧은,short,adj,R1,
+443,boldog,볼도그,happy,행복한,happy,adj,R1,
+461,magas,머거시,tall,"높은, 키 큰",tall,adj,R1,
+551,tv,테베,television,텔레비전,television,noun,R1,
+570,néz,네즈,look,본다,to look,verb,R1,
+611,tér,테르,square,광장,square,noun,R1,
+635,tiszta,티스터,clean,깨끗한,clean,adj,R1,
+654,nők,뇌크,women,여자들,women,noun,R1,
+676,képek,케펙,pictures,"그림들, 사진들",pictures,noun,R1,
+686,arany,어러니,gold,금,gold,noun,R1,
+715,beteg,베테그,sick,아픈,sick,adj,R1,
+755,sport,슈포르트,sport,스포츠,sport,noun,R2,
+764,föld,푈드,earth,"땅, 지구",earth,noun,R2,
+810,verseny,베르셰니,race,"경주, 대회",race,noun,R2,
+914,sötét,쇠테트,dark,어두운,dark,adj,R2,
+944,sziget,씨게트,island,섬,island,noun,R2,
+1015,gép,게프,machine,기계,machine,noun,R2,
+1020,nézni,네즈니,watch,보다,to watch,verb,R2,
+1061,épület,에퓔레트,building,건물,building,noun,R2,
+1119,zenekar,제네커르,band,"밴드, 오케스트라",band,noun,R2,
+1134,színház,씬하즈,theater,극장,theater,noun,R2,
+1162,rádió,라디오,radio,라디오,radio,noun,R2,
+1166,vezet,베제트,drive,"운전한다, 이끈다",to drive,verb,R2,
+1258,galéria,거레리어,gallery,갤러리,gallery,noun,R2,
+1288,kiállítás,키알리타시,exhibition,전시회,exhibition,noun,R2,
+1290,labdarúgó,러브더루고,footballer,축구선수,footballer,noun,R2,
+1291,lap,러프,sheet,"종이, 장",sheet,noun,R2,
+1309,alacsony,어러촌,low,"낮은, 키가 작은",low,adj,R3,
+1322,kislány,키시라니,little_girl,작은 소녀,little girl,noun,R3,
+1328,srác,슈라츠,guy,"녀석, 사내아이",guy,noun,R3,
+1348,játékok,야테콕,games,"게임들, 장난감들",games,noun,R3,
+1359,pápa,파퍼,pope,교황,pope,noun,R3,
+1368,bíró,비로,judge,"판사, 심판",judge,noun,R3,
+1374,estét,에슈테트,evening,저녁을,evening,noun,R3,
+1375,férfiak,페르피억,men,남자들,men,noun,R3,
+1390,rohadt,로허트,rotten,"썩은, 망할",rotten,adj,R3,
+1401,ajándék,어얀데크,gift,선물,gift,noun,R3,
+1411,intézet,인테제트,institute,"연구소, 기관",institute,noun,R3,
+1415,kör,쾨르,circle,원,circle,noun,R3,
+1434,bajnok,버이녹,champion,챔피언,champion,noun,R3,
+1436,farkas,퍼르커시,wolf,늑대,wolf,noun,R3,
+1441,hotel,호텔,hotel,호텔,hotel,noun,R3,
+1447,kupa,꾸퍼,cup,컵(대회),cup,noun,R3,
+1452,mennek,멘넥,go,그들은 간다,to go,verb,R3,
+1455,múzeum,무제움,museum,박물관,museum,noun,R3,
+1463,színes,씨네시,colorful,색깔 있는,colorful,adj,R3,
+1467,író,이로,writer,작가,writer,noun,R3,
+1470,bíróság,비로샤그,court,법원,court,noun,R3,
+1488,katona,커토너,soldier,군인,soldier,noun,R3,
+1494,miniszterelnök,미니스테렐뇌크,prime_minister,총리,prime minister,noun,R3,
+9001,gulyásleves,굴야시레베시,goulash_soup,굴라시 수프,goulash soup,noun,food,"깊은 흰 사발에 파프리카로 붉게 물든 소고기 수프, 깍둑 썬 감자·당근 조각과 작은 반죽 알갱이(치페치케)가 떠 있고 위에 파슬리 한 줄기."
+9002,pörkölt,푀르쾰트,paprika_stew,푀르쾰트(파프리카 고기 스튜),paprika stew,noun,food,걸쭉한 진홍색 파프리카 소스에 졸인 돼지고기 덩어리를 접시에 담고 옆에 작은 달걀 수제비(노케들리)와 오이 피클.
+9003,paprikás csirke,퍼프리카시 치르께,paprika_chicken,파프리카 치킨,paprika chicken,noun,food,"주황빛 크림 파프리카 소스에 잠긴 닭다리, 위에 사워크림 한 숟갈이 하얗게 번지고 옆에 노케들리 한 무더기."
+9004,halászlé,헐라쓸레,fisherman_s_soup,헐라슬레(어부의 생선 수프),fisherman's soup,noun,food,"냄비 모양 그릇에 새빨간 파프리카 국물, 잉어 토막과 동그란 고추 링이 떠 있다. 옆에 흰 빵 한 조각."
+9005,lángos,랑고시,fried_flatbread,랑고시(튀긴 납작빵),fried flatbread,noun,food,기름에 튀긴 큼직한 둥근 납작빵 위에 흰 사워크림을 펴 바르고 노란 강판 치즈를 수북이 얹는다. 종이 접시.
+9006,töltött káposzta,퇼퇴트 카포쓰떠,stuffed_cabbage,속 채운 양배추,stuffed cabbage,noun,food,양배추 잎으로 감싼 고기·쌀 말이 세 개가 붉은 소스와 잘게 썬 사우어크라우트 위에 놓이고 사워크림을 얹는다.
+9007,töltött paprika,퇼퇴트 퍼프리꺼,stuffed_peppers,속 채운 피망,stuffed peppers,noun,food,연노랑 피망 두 개 속에 다진 고기와 쌀을 채워 묽은 빨간 토마토 소스에 담근 깊은 접시.
+9008,lecsó,레초,pepper_stew,레초(피망·토마토 스튜),pepper stew,noun,food,"노랑·초록 피망과 토마토·양파를 졸인 주황빛 스튜에 동그랗게 썬 소시지 몇 조각, 팬째 낸다."
+9009,rántott hús,란토트 후시,breaded_cutlet,돈가스식 커틀릿,breaded cutlet,noun,food,"얇게 편 고기에 빵가루를 입혀 노릇하게 튀긴 커틀릿 한 장, 레몬 조각과 감자 샐러드를 곁들인다."
+9010,hortobágyi palacsinta,호르또바지 펄러친떠,meat_filled_crepe,고기 넣은 크레페,meat-filled crepe,noun,food,고기 소를 넣고 네모나게 접은 크레페 두 개 위에 분홍빛 파프리카 크림소스를 끼얹고 사워크림 한 줄.
+9011,túrós csusza,투로시 추써,cottage_cheese_pasta,코티지치즈 파스타,cottage cheese pasta,noun,food,넓적한 국수 위에 흰 코티지치즈를 뿌리고 사워크림을 덮은 뒤 바삭한 베이컨 조각을 흩뿌린다.
+9012,nokedli,노께들리,egg_dumplings,노케들리(달걀 수제비),egg dumplings,noun,food,작고 울퉁불퉁한 노란 수제비 알갱이를 버터에 버무려 흰 그릇에 소복이 담는다.
+9013,főzelék,푀젤레크,vegetable_stew,푀젤레크(채소 걸쭉 수프),vegetable stew,noun,food,걸쭉한 초록 완두콩 퓌레를 깊은 접시에 담고 위에 반으로 자른 삶은 달걀과 구운 소시지 한 개.
+9014,babgulyás,법굴야시,bean_goulash,콩 굴라시,bean goulash,noun,food,"붉은 국물에 강낭콩과 훈제 고기 조각이 가득한 수프, 위에 사워크림 한 점과 파슬리."
+9015,jókai bableves,요까이 법레베시,bean_soup_with_sausage,요커이 콩 수프,bean soup with sausage,noun,food,"흰 콩과 당근이 든 연붉은 수프에 동그랗게 썬 훈제 소시지, 위에 사워크림 한 숟갈."
+9016,hideg meggyleves,히데그 메지레베시,cold_sour_cherry_soup,차가운 체리 수프,cold sour cherry soup,noun,food,"분홍빛 크림 수프에 검붉은 체리 알이 떠 있는 유리 그릇, 위에 휘핑크림 한 점과 민트 잎."
+9017,újházi tyúkhúsleves,우이하지 튜크후시레베시,chicken_soup,닭고기 수프,chicken soup,noun,food,"맑은 황금색 닭 국물에 가는 국수, 당근·셀러리 조각, 닭고기 덩어리가 들어간 흰 사발."
+9018,rakott krumpli,러꼬트 크룸쁠리,layered_potato_bake,감자 그라탱,layered potato bake,noun,food,얇게 썬 감자·삶은 달걀·소시지를 겹겹이 쌓고 사워크림을 덮어 노릇하게 구운 사각 오븐 접시.
+9019,kolbász,꼴바쓰,sausage,헝가리 소시지,sausage,noun,food,파프리카로 붉게 물든 굵은 훈제 소시지를 나무 도마 위에 비스듬히 썰어 놓고 머스터드 한 종지.
+9020,szalámi,썰라미,salami,살라미,salami,noun,food,"하얀 껍질을 두른 굵은 살라미를 얇게 썰어 원형으로 펼친 나무 도마, 옆에 빨간 고추 하나."
+9021,libamáj,리버마이,goose_liver,거위 간,goose liver,noun,food,노릇하게 구운 거위 간 한 덩이를 흰 접시에 놓고 사과 슬라이스와 짙은 소스를 곁들인다.
+9022,kürtőskalács,퀴르퇴쉬깔라치,chimney_cake,굴뚝빵,chimney cake,noun,food,속이 빈 원통형 빵을 나선형으로 감아 구워 겉에 설탕·계피가 반짝이고 김이 오른다. 종이에 싸서 세운다.
+9023,rétes,레테시,strudel,레테시(얇은 페이스트리),strudel,noun,food,"종이처럼 얇은 반죽을 말아 구운 길쭉한 페이스트리 두 조각, 단면에 사과·양귀비씨 소가 보이고 슈거파우더."
+9024,dobostorta,도보시또르떠,layered_caramel_cake,도보시 케이크,layered caramel cake,noun,food,얇은 스펀지와 초콜릿 크림을 여러 겹 쌓고 맨 위에 반짝이는 캐러멜 판을 부채꼴로 얹은 케이크 한 조각.
+9025,somlói galuska,숌로이 걸루쉬꺼,sponge_trifle,숌로이 걸루슈카,sponge trifle,noun,food,스펀지 조각에 초콜릿 소스를 듬뿍 끼얹고 휘핑크림·호두를 얹은 유리 컵 디저트.
+9026,Rákóczi túrós,라꼬치 투로시,cottage_cheese_cake,라코치 치즈케이크,cottage cheese cake,noun,food,코티지치즈 층 위에 머랭 격자를 올리고 살구잼을 점점이 넣은 네모난 케이크 한 조각.
+9027,Gerbeaud szelet,제르보 쎌레트,walnut_apricot_slice,제르보 케이크,walnut apricot slice,noun,food,호두와 살구잼을 겹겹이 넣은 얇은 층 케이크를 초콜릿으로 덮어 네모나게 자른 조각.
+9028,krémes,끄레메시,custard_slice,크레메시(바닐라 크림 케이크),custard slice,noun,food,"바삭한 페이스트리 두 장 사이에 두툼한 노란 바닐라 크림, 위에 슈거파우더를 뿌린 네모 조각."
+9029,palacsinta,펄러친떠,crepe,펄러친터(크레페),crepe,noun,food,"돌돌 만 얇은 크레페 세 개 위에 살구잼과 슈거파우더, 흰 접시."
+9030,Gundel palacsinta,군델 펄러친떠,walnut_crepe_with_chocolate,군델 크레페,walnut crepe with chocolate,noun,food,호두 소를 넣어 삼각형으로 접은 크레페에 진한 초콜릿 소스를 끼얹은 접시.
+9031,túró rudi,투로 루디,chocolate_cottage_cheese_bar,투로 루디(초콜릿 치즈바),chocolate cottage cheese bar,noun,food,"초콜릿을 입힌 손가락 크기 치즈 바, 빨간 물방울무늬 포장지를 반쯤 벗긴 모습."
+9032,mákos guba,마꼬시 구버,poppy_seed_bread_pudding,양귀비씨 빵푸딩,poppy seed bread pudding,noun,food,"빵 조각을 우유에 적셔 검은 양귀비씨와 설탕을 수북이 뿌린 그릇, 바닐라 소스 한 줄."
+9033,bejgli,베이글리,nut_roll,베이글리(양귀비씨 롤),nut roll,noun,food,반들반들한 갈색 롤을 썰어 단면에 소용돌이 모양 호두·양귀비씨 소가 보이는 조각들.
+9034,pogácsa,뽀가처,savory_scone,포가차(짭짤한 작은 빵),savory scone,noun,food,"동그랗고 작은 빵 여러 개, 윗면에 격자 칼집과 녹은 치즈가 노릇하다. 바구니에 담는다."
+9035,kifli,끼플리,crescent_roll,키플리(초승달 빵),crescent roll,noun,food,반달처럼 구부러진 하얀 빵 두세 개를 나무 도마 위에 놓는다.
+9036,zsíros kenyér,지로시 께녜르,bread_with_lard,라드 빵,bread with lard,noun,food,두툼한 시골빵에 흰 라드를 바르고 빨간 파프리카 가루와 얇은 적양파 링을 얹는다.
+9037,körözött,꾀뢰죄트,paprika_cheese_spread,쾨뢰죄트(파프리카 치즈 스프레드),paprika cheese spread,noun,food,주홍빛 크림치즈 스프레드를 작은 그릇에 담고 옆에 빵 조각과 쪽파.
+9038,lilahagyma,릴러허지머,red_onion,적양파,red onion,noun,food,보랏빛 적양파 하나와 반으로 자른 단면의 고리 무늬.
+9039,pirospaprika,삐로시퍼프리꺼,paprika_powder,파프리카 가루,paprika powder,noun,food,작은 천 주머니에서 쏟아진 새빨간 파프리카 가루와 옆에 말린 붉은 고추 다발.
+9040,savanyúság,셔버뉴샤그,pickles,헝가리식 피클,pickles,noun,food,"유리병에 담긴 오이·고추·양배추 피클, 노란 국물과 딜 잎이 보인다."
+9041,uborkasaláta,우보르꺼샬라떠,cucumber_salad,오이 샐러드,cucumber salad,noun,food,얇게 썬 오이를 식초 국물에 담그고 빨간 파프리카 가루를 살짝 뿌린 유리 그릇.
+9042,hurka,후르꺼,rice_sausage,후르커(쌀 소시지),rice sausage,noun,food,구워서 껍질이 터진 회갈색 소시지 두 줄을 감자와 사우어크라우트 옆에 담는다.
+9043,cigánypecsenye,치가니뻬첸예,roast_pork_with_bacon,구운 돼지고기와 베이컨,roast pork with bacon,noun,food,구운 돼지 목살 한 장 위에 튀겨 부푼 베이컨 조각을 얹고 감자튀김과 머스터드.
+9044,sült kacsacomb,쉴트 꺼처쫌브,roast_duck_leg,구운 오리 다리,roast duck leg,noun,food,껍질이 바삭하게 구워진 오리 다리 하나를 보랏빛 적양배추 조림과 감자 위에 올린 접시.
+9045,meggyes pite,메제시 삐떼,sour_cherry_pie,체리 파이,sour cherry pie,noun,food,"격자 무늬 반죽 사이로 검붉은 체리가 보이는 네모 파이 한 조각, 슈거파우더."
+9046,almás pite,알마시 삐떼,apple_pie,사과 파이,apple pie,noun,food,"두 겹 반죽 사이에 계피 사과 소가 든 네모 파이 한 조각, 위에 슈거파우더."
+9047,rigó jancsi,리고 연치,chocolate_mousse_cake,리고 연치(초콜릿 무스 케이크),chocolate mousse cake,noun,food,초콜릿 스펀지 사이에 두툼한 초콜릿 무스를 넣고 반짝이는 초콜릿을 입힌 정육면체 조각.
+9048,lekvár,레끄바르,jam,잼,jam,noun,food,"유리병에 담긴 주황 살구잼, 숟가락으로 한 번 뜬 자국."
+9049,tokaji aszú,또까이 어쑤,sweet_dessert_wine,토카이 디저트 와인,sweet dessert wine,noun,food,작은 와인잔에 담긴 황금빛 디저트 와인과 옆에 납작한 병.
+9050,pálinka,빨링꺼,fruit_brandy,팔링카(과일 증류주),fruit brandy,noun,food,"가늘고 작은 튤립 모양 잔에 투명한 술, 옆에 살구 두 알과 작은 병."
