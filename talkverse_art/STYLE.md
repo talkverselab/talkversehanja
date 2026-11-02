@@ -27,4 +27,4 @@ Talkverse makes one language-learning app per language for Korean learners. Thes
 
 ## Framing (2026-11-02)
 - People are shown **full body, head to feet**; never crop heads or faces at the frame edge. Keep a margin around the subject. Output exactly 1024×1024.
-- Generate at 1:1 directly. If an image comes out non-square, **pad** it with the pastel background to 1024×1024 — never crop (cropping cut off heads in r97–r98).
+- The image tool has no 1:1 output (2026-11-02). **Generate LANDSCAPE (3:2) with the subject centered and empty pastel background on both sides, then center-crop the sides to 1024×1024.** Never crop top/bottom, never pad with bars, never use portrait.
