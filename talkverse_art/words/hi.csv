@@ -1,0 +1,1501 @@
+rank,word,reading,ko,en,pos,level,picturable
+1,मैं,메,나·저,I,pron,R1,N
+2,है,헤,~이다·있다,is,verb,R1,N
+3,नहीं,나힝,아니다·않다,not,particle,R1,N
+4,तुम,툼,너·당신,you,pron,R1,N
+5,क्या,캬,무엇·~니?,what,pron,R1,N
+6,तो,토,그러면·그래서,then,particle,R1,N
+7,मुझे,무제,나에게·나를,to me,pron,R1,N
+8,हो,호,~이다(너),be,verb,R1,N
+9,आप,아프,당신(존칭),you (formal),pron,R1,N
+10,यह,예,이것·이,this,pron,R1,N
+11,और,아우르,그리고·더,and,conj,R1,N
+12,के,케,~의(복수·사격),of,postp,R1,N
+13,में,멩,~안에·~에서,in,postp,R1,N
+14,की,키,~의(여성),of,postp,R1,N
+15,का,카,~의(남성),of,postp,R1,N
+16,को,코,~에게·~을,to,postp,R1,N
+17,हैं,헹,~이다(복수·존칭),are,verb,R1,N
+18,से,세,~에서·~로부터,from,postp,R1,N
+19,भी,비,~도,also,particle,R1,N
+20,ही,히,바로·~만,only,particle,R1,N
+21,था,타,~였다(남),was,verb,R1,N
+22,कर,카르,하다(어간),do,verb,R1,N
+23,हम,함,우리,we,pron,R1,N
+24,वो,워,그·저것,that,pron,R1,N
+25,एक,에크,하나·1,one,num,R1,Y
+26,तुम्हें,툼헹,너에게·너를,to you,pron,R1,N
+27,थी,티,~였다(여),was,verb,R1,N
+28,जो,조,~하는 (관계사),who·which,pron,R1,N
+29,कुछ,쿠치,무언가·조금,something,pron,R1,N
+30,ना,나,아니·~잖아,no,particle,R1,N
+31,अब,아브,이제·지금,now,adv,R1,N
+32,हाँ,항,네·응,yes,interj,R1,N
+33,रहा,라하,~하는 중(남),staying,verb,R1,N
+34,पर,파르,~위에·하지만,on·but,postp,R1,N
+35,तुम्हारे,툼하레,너의(복수·사격),your,pron,R1,N
+36,मेरी,메리,나의(여),my,pron,R1,N
+37,मेरा,메라,나의(남),my,pron,R1,N
+38,अपने,아프네,자기의(복수·사격),own,pron,R1,N
+39,चल,찰,가자·걷다(어간),go·walk,verb,R1,Y
+40,लिए,리에,~위해(के लिए),for,postp,R1,N
+41,सकता,사크타,~할 수 있다(남),can,verb,R1,N
+42,कोई,코이,누군가·어떤,someone,pron,R1,N
+43,कैसे,케세,어떻게,how,adv,R1,N
+44,कहाँ,카항,어디,where,adv,R1,N
+45,जा,자,가다(어간),go,verb,R1,Y
+46,मेरे,메레,나의(복수·사격),my,pron,R1,N
+47,दो,도,둘·줘,two·give,num,R1,Y
+48,ये,예,이것·이들,this,pron,R1,N
+49,क्यों,쿙,왜,why,adv,R1,N
+50,बात,바트,말·일,talk,noun,R1,N
+51,रहे,라헤,~하는 중(복수),staying,verb,R1,N
+52,सब,사브,모두,all,pron,R1,N
+53,थे,테,~였다(복수),were,verb,R1,N
+54,गया,가야,갔다(남),went,verb,R1,N
+55,वह,와흐,그·저것,that,pron,R1,N
+56,जी,지,네(존칭)·~님,yes (polite),particle,R1,N
+57,कह,카흐,말하다(어간),say,verb,R1,N
+58,उसे,우세,그에게·그를,to him·her,pron,R1,N
+59,अरे,아레,어이·아이고,hey,interj,R1,N
+60,हूँ,훙,~이다(나),am,verb,R1,N
+61,होगा,호가,~일 것이다(남),will be,verb,R1,N
+62,करना,카르나,하다,do,verb,R1,N
+63,देख,데크,보다(어간),see,verb,R1,Y
+64,बस,바스,그만·단지,enough,adv,R1,N
+65,बहुत,바후트,매우·많이,very,adv,R1,N
+66,रही,라히,~하는 중(여),staying,verb,R1,N
+67,लो,로,가져·받아,take,verb,R1,N
+68,किया,키야,했다(남),did,verb,R1,N
+69,साथ,사트,함께,with,adv,R1,N
+70,सच,사치,진실·정말,truth,noun,R1,N
+71,आज,아즈,오늘,today,adv,R1,N
+72,ऐसा,에사,이런,such,adj,R1,N
+73,उस,우스,그(사격),that,pron,R1,N
+74,चाहिए,차히에,필요하다,need,verb,R1,N
+75,यहाँ,야항,여기,here,adv,R1,N
+76,तुम्हारी,툼하리,너의(여),your,pron,R1,N
+77,सकते,사크테,~할 수 있다(복수),can,verb,R1,N
+78,अगर,아가르,만약,if,conj,R1,N
+79,कभी,카비,언젠가·가끔,ever,adv,R1,N
+80,करो,카로,해라,do,verb,R1,N
+81,लेकिन,레킨,하지만,but,conj,R1,N
+82,पता,파타,앎·주소,know,noun,R1,N
+83,वाला,왈라,~하는 사람·것,one who,particle,R1,N
+84,हमें,하멩,우리에게·우리를,to us,pron,R1,N
+85,अच्छा,앗차,좋은·그래,good,adj,R1,N
+86,तक,타크,~까지,until,postp,R1,N
+87,दे,데,주다(어간),give,verb,R1,Y
+88,यार,야르,친구·야,buddy,noun,R1,N
+89,किसी,키시,누군가(사격),someone,pron,R1,N
+90,कौन,카운,누구,who,pron,R1,N
+91,प्यार,퍄르,사랑,love,noun,R1,Y
+92,बाद,바드,나중·~후,after,adv,R1,N
+93,घर,가르,집,house,noun,R1,Y
+94,ले,레,가지다·받다(어간),take,verb,R1,Y
+95,लोग,로그,사람들,people,noun,R1,Y
+96,दिया,디야,주었다(남),gave,verb,R1,N
+97,कि,키,~라고·~것(접속),that,conj,R1,N
+98,माँ,망,엄마,mother,noun,R1,Y
+99,अपनी,아프니,자기의(여),own,pron,R1,N
+100,करता,카르타,하다(습관·남),does,verb,R1,N
+101,मत,마트,~하지 마,don't,particle,R1,N
+102,जब,자브,~할 때,when,conj,R1,N
+103,ठीक,티크,괜찮은·맞는,okay,adj,R1,N
+104,हमारे,하마레,우리의(복수·사격),our,pron,R1,N
+105,उसके,우스케,그의(복수·사격),his·her,pron,R1,N
+106,लग,라그,느껴지다(어간),seem,verb,R1,N
+107,करने,카르네,하기(사격),doing,verb,R1,N
+108,सकती,사크티,~할 수 있다(여),can,verb,R1,N
+109,आया,아야,왔다(남),came,verb,R1,N
+110,जाओ,자오,가라,go,verb,R1,Y
+111,वाले,왈레,~하는 사람들,ones who,particle,R1,N
+112,देखो,데코,봐라,look,verb,R1,Y
+113,काम,캄,일,work,noun,R1,Y
+114,पहले,파흘레,먼저·전에,before,adv,R1,N
+115,चाहता,차흐타,원하다(남),want,verb,R1,N
+116,समझ,사마즈,이해하다(어간),understand,verb,R1,N
+117,आ,아,오다(어간),come,verb,R1,Y
+118,दिन,딘,날·낮,day,noun,R1,Y
+119,गई,가이,갔다(여),went,verb,R1,N
+120,वहाँ,와항,거기,there,adv,R1,N
+121,करूँ,카룽,할까(나),should I do,verb,R1,N
+122,जाने,자네,가기·알기(사격),going,verb,R1,N
+123,होता,호타,되다(습관·남),happens,verb,R1,N
+124,सिर्फ,시르프,단지·~만,only,adv,R1,N
+125,बोल,볼,말하다(어간),speak,verb,R1,Y
+126,बोलो,볼로,말해라,speak,verb,R1,Y
+127,जान,잔,생명·자기야·알다,life·darling,noun,R1,N
+128,सुनो,수노,들어라,listen,verb,R1,Y
+129,बताओ,바타오,말해 줘,tell,verb,R1,N
+130,आपको,아프코,당신에게,to you (formal),pron,R1,N
+131,रात,라트,밤,night,noun,R1,Y
+132,पास,파스,가까이·곁,near,adv,R1,N
+133,आपके,아프케,당신의(복수·사격),your (formal),pron,R1,N
+134,नाम,남,이름,name,noun,R1,N
+135,तरह,타라흐,방식·~처럼,way,noun,R1,N
+136,इतना,이트나,이만큼(남),so much,adv,R1,N
+137,आपकी,아프키,당신의(여),your (formal),pron,R1,N
+138,पापा,파파,아빠,father,noun,R1,Y
+139,दिल,딜,마음·심장,heart,noun,R1,Y
+140,उन्हें,운헹,그들에게·그분께,to them,pron,R1,N
+141,अभी,아비,지금 바로,right now,adv,R1,N
+142,जैसे,제세,~처럼,like,adv,R1,N
+143,मैंने,멩네,내가(과거),I (did),pron,R1,N
+144,कहा,카하,말했다(남),said,verb,R1,N
+145,हुआ,후아,되었다·일어났다,happened,verb,R1,N
+146,जाता,자타,가다(습관·남),goes,verb,R1,N
+147,भाई,바이,형·오빠·남동생,brother,noun,R1,Y
+148,करें,카렝,합시다·하세요,do,verb,R1,N
+149,क्योंकि,쿙키,왜냐하면,because,conj,R1,N
+150,चाहती,차흐티,원하다(여),want,verb,R1,N
+151,उसकी,우스키,그의(여),his·her,pron,R1,N
+152,वापस,와파스,돌아와·다시,back,adv,R1,N
+153,थोड़ा,토라,조금,a little,adv,R1,N
+154,शायद,샤야드,아마,maybe,adv,R1,N
+155,जिंदगी,진다기,인생·삶,life,noun,R1,N
+156,उन,운,그들(사격),those,pron,R1,N
+157,होगी,호기,~일 것이다(여),will be,verb,R1,N
+158,ज़रूर,자루르,꼭·물론,surely,adv,R1,N
+159,मिल,밀,만나다·얻다(어간),meet,verb,R1,Y
+160,आओ,아오,와라,come,verb,R1,Y
+161,कल,칼,어제·내일,tomorrow·yesterday,adv,R1,N
+162,पैसे,페세,돈,money,noun,R1,Y
+163,बड़ा,바라,큰(남),big,adj,R1,Y
+164,जल्दी,잘디,빨리,quickly,adv,R1,N
+165,बहन,바한,언니·누나·여동생,sister,noun,R1,Y
+166,वक्त,와크트,시간·때,time,noun,R1,N
+167,हुई,후이,되었다(여),happened,verb,R1,N
+168,देना,데나,주다,give,verb,R1,Y
+169,खुद,쿠드,스스로,oneself,pron,R1,N
+170,सारे,사레,전부의(복수),all,adj,R1,N
+171,कहते,카흐테,말하다(습관·복수),say,verb,R1,N
+172,इसे,이세,이것을·이것에게,this (obj),pron,R1,N
+173,इसलिए,이스리에,그래서,so,conj,R1,N
+174,आदमी,아드미,남자·사람,man,noun,R1,Y
+175,तेरे,테레,너의(친밀·복수·사격),your,pron,R1,N
+176,तू,투,너(아주 친밀),you,pron,R1,N
+177,तेरी,테리,너의(친밀·여),your,pron,R1,N
+178,तेरा,테라,너의(친밀·남),your,pron,R1,N
+179,तुझे,투제,너에게(친밀),to you,pron,R1,N
+180,मुझसे,무즈세,나에게서·나와,from me,pron,R1,N
+181,तुमसे,툼세,너에게서·너와,from you,pron,R1,N
+182,बेटा,베타,아들·얘야,son,noun,R1,Y
+183,बेटी,베티,딸,daughter,noun,R1,Y
+184,पूरा,푸라,전부의·완전한,whole,adj,R1,N
+185,नया,나야,새로운(남),new,adj,R1,Y
+186,सही,사히,맞는·옳은,right,adj,R1,N
+187,ग़लत,갈라트,틀린,wrong,adj,R1,N
+188,चीज़,치즈,물건·것,thing,noun,R1,N
+189,लड़की,라르키,소녀·여자,girl,noun,R1,Y
+190,लड़का,라르카,소년·남자,boy,noun,R1,Y
+191,दोस्त,도스트,친구,friend,noun,R1,Y
+192,शादी,샤디,결혼,wedding,noun,R1,Y
+193,हाथ,하트,손,hand,noun,R1,Y
+194,अंदर,안다르,안에,inside,adv,R1,Y
+195,बाहर,바하르,밖에,outside,adv,R1,Y
+196,ऊपर,우파르,위에,up,adv,R1,Y
+197,नीचे,니체,아래에,down,adv,R1,Y
+198,चलो,찰로,가자,let's go,verb,R1,Y
+199,रुको,루코,멈춰·기다려,stop,verb,R1,Y
+200,सुन,순,듣다(어간),listen,verb,R1,Y
+201,बैठो,베토,앉아라,sit,verb,R1,Y
+202,उठो,우토,일어나라,get up,verb,R1,Y
+203,खाना,카나,음식·먹다,food·eat,noun,R1,Y
+204,पानी,파니,물,water,noun,R1,Y
+205,फ़ोन,폰,전화,phone,noun,R1,Y
+206,सुबह,수바흐,아침,morning,noun,R1,Y
+207,साल,살,해·년,year,noun,R1,N
+208,दुनिया,두니야,세상,world,noun,R1,Y
+209,पुलिस,풀리스,경찰,police,noun,R1,Y
+210,सर,사르,선생님·머리,sir,noun,R1,N
+211,भगवान,바그완,신,God,noun,R1,N
+212,सॉरी,소리,미안,sorry,interj,R1,N
+213,गए,가에,갔다(복수),went,verb,R1,N
+214,जाएगा,자에가,갈 것이다(남),will go,verb,R1,N
+215,मिला,밀라,만났다·얻었다(남),met·got,verb,R1,N
+216,लगता,라그타,~같다(남),seems,verb,R1,N
+217,लगा,라가,느꼈다·~같았다,felt,verb,R1,N
+218,लगती,라그티,~같다(여),seems,verb,R1,N
+219,सोच,소치,생각하다(어간),think,verb,R1,Y
+220,सोचा,소차,생각했다,thought,verb,R1,N
+221,बोला,볼라,말했다(남),said,verb,R1,N
+222,करेंगे,카렝게,할 것이다(복수),will do,verb,R1,N
+223,करेगा,카레가,할 것이다(남),will do,verb,R1,N
+224,करोगे,카로게,할 거니(너),will you do,verb,R1,N
+225,करती,카르티,하다(습관·여),does,verb,R1,N
+226,करते,카르테,하다(습관·복수),do,verb,R1,N
+227,उसने,우스네,그가(과거),he·she (did),pron,R1,N
+228,उनके,운케,그들의(복수·사격),their,pron,R1,N
+229,उनकी,운키,그들의(여),their,pron,R1,N
+230,उनका,운카,그들의(남),their,pron,R2,N
+231,इसके,이스케,이것의(복수·사격),its,pron,R2,N
+232,इसकी,이스키,이것의(여),its,pron,R2,N
+233,इसका,이스카,이것의(남),its,pron,R2,N
+234,हमारी,하마리,우리의(여),our,pron,R2,N
+235,हमारा,하마라,우리의(남),our,pron,R2,N
+236,उससे,우스세,그에게서·그와,from him·her,pron,R2,N
+237,आपसे,아프세,당신에게서·당신과,from you,pron,R2,N
+238,सबसे,사브세,가장·모두에게서,most,adv,R2,N
+239,बारे,바레,~에 대해(के बारे में),about,postp,R2,N
+240,जैसा,제사,~같은(남),like,adj,R2,N
+241,ऐसे,에세,이렇게,like this,adv,R2,N
+242,वैसे,웨세,그렇게·그런데,anyway,adv,R2,N
+243,इतनी,이트니,이만큼(여),so much,adv,R2,N
+244,कितना,키트나,얼마나(남),how much,adv,R2,N
+245,कितनी,키트니,얼마나(여),how much,adv,R2,N
+246,कितने,키트네,몇·얼마나(복수),how many,adv,R2,N
+247,ज़्यादा,쟈다,더·많이,more,adv,R2,N
+248,कम,캄,적은·덜,less,adj,R2,N
+249,पूरी,푸리,전부의(여),whole,adj,R2,N
+250,सारी,사리,전부의(여),all,adj,R2,N
+251,हर,하르,매·모든,every,det,R2,N
+252,सभी,사비,모두,all,pron,R2,N
+253,दूसरा,두스라,두 번째·다른(남),second·other,adj,R2,N
+254,सबकुछ,사브쿠치,모든 것,everything,pron,R2,N
+255,कहीं,카힝,어딘가,somewhere,adv,R2,N
+256,हमेशा,하메샤,항상,always,adv,R2,N
+257,फिर,피르,다시·그러고 나서,again,adv,R2,N
+258,तब,타브,그때,then,adv,R2,N
+259,या,야,또는,or,conj,R2,N
+260,ज़िंदगी,진다기,인생·삶,life,noun,R2,N
+261,खुश,쿠시,기쁜,happy,adj,R2,Y
+262,अच्छी,앗치,좋은(여),good,adj,R2,N
+263,अच्छे,앗체,좋은(복수),good,adj,R2,N
+264,बुरा,부라,나쁜(남),bad,adj,R2,N
+265,बड़ी,바리,큰(여),big,adj,R2,Y
+266,बड़े,바레,큰(복수),big,adj,R2,Y
+267,छोटा,초타,작은(남),small,adj,R2,Y
+268,रुक,루크,멈추다(어간),stop,verb,R2,Y
+269,आना,아나,오다,come,verb,R2,Y
+270,जाना,자나,가다,go,verb,R2,Y
+271,आई,아이,왔다(여),came,verb,R2,N
+272,आए,아에,왔다(복수·존칭),came,verb,R2,N
+273,आता,아타,온다(남),comes,verb,R2,N
+274,गयी,가이,갔다(여),went,verb,R2,N
+275,लिया,리야,가졌다(남),took,verb,R2,N
+276,जानता,잔타,안다(남),know,verb,R2,N
+277,जानती,잔티,안다(여),know,verb,R2,N
+278,जानते,잔테,안다(복수·존칭),know,verb,R2,N
+279,याद,야드,기억,memory,noun,R2,N
+280,देखा,데카,봤다(남),saw,verb,R2,N
+281,छोड़,초르,놓다·떠나다,leave,verb,R2,N
+282,भैया,베야,형·오빠,older brother,noun,R2,Y
+283,बच्चा,밧차,아이,child,noun,R2,Y
+284,बच्चे,밧체,아이들,children,noun,R2,Y
+285,लोगों,로공,사람들(사격),people,noun,R2,Y
+286,पैसा,페사,돈,money,noun,R2,Y
+287,दूसरे,두스레,다른·두 번째,other,adj,R2,N
+288,मदद,마다드,도움,help,noun,R2,N
+289,ज़रूरत,자루라트,필요,need,noun,R2,N
+290,मतलब,마틀라브,의미·그러니까,meaning,noun,R2,N
+291,बिल्कुल,빌쿨,완전히·전혀,absolutely,adv,R2,N
+292,ज़रा,자라,좀·약간,a little,adv,R2,N
+293,आगे,아게,앞으로,ahead,adv,R2,N
+294,इधर,이다르,이쪽,here,adv,R2,N
+295,जहाँ,자항,~하는 곳,where,adv,R2,N
+296,पागल,파갈,미친,crazy,adj,R2,N
+297,बिलकुल,빌쿨,완전히·물론,absolutely,adv,R2,N
+298,होने,호네,되다(부정사 사격),be,verb,R2,N
+299,होते,호테,이다(습관·남복),be,verb,R2,N
+300,होती,호티,이다(습관·여),be,verb,R2,N
+301,चला,찰라,갔다(남),went,verb,R2,Y
+302,वक़्त,와크트,시간,time,noun,R2,N
+303,कब,카브,언제,when,adv,R2,N
+304,कैसा,케사,어떤(남),how,adj,R2,N
+305,कैसी,케시,어떤(여),how,adj,R2,N
+306,अपना,아프나,자기의,own,pron,R2,N
+307,चाहते,차흐테,원하다(습관·복),want,verb,R2,N
+308,सुना,수나,들었다,heard,verb,R2,N
+309,समझे,사므제,이해했다(복),understood,verb,R2,N
+310,जगह,자가,장소·자리,place,noun,R2,N
+311,यानी,야니,즉,that is,conj,R2,N
+312,रहो,라호,있어라·지내라,stay,verb,R2,N
+313,किसने,키스네,누가(과거),who (did),pron,R2,N
+314,वरना,와르나,그렇지 않으면,otherwise,conj,R2,N
+315,सामने,사므네,앞에,in front,adv,R2,Y
+316,चाय,차이,차(밀크티),tea,noun,R2,Y
+317,दरवाज़ा,다르와자,문,door,noun,R2,Y
+318,गाड़ी,가리,차·자동차,car,noun,R2,Y
+319,शाम,샴,저녁,evening,noun,R2,Y
+320,महीने,마히네,달·개월(복수),month,noun,R2,N
+321,हफ़्ते,하프테,주·주일(복수),week,noun,R2,N
+322,घंटे,간테,시간(복수),hour,noun,R2,N
+323,मिनट,미나트,분,minute,noun,R2,N
+324,पल,팔,순간,moment,noun,R2,N
+325,देश,데시,나라,country,noun,R2,N
+326,शहर,샤하르,도시,city,noun,R2,Y
+327,गाँव,가옹,마을,village,noun,R2,Y
+328,रास्ता,라스타,길,way·path,noun,R2,Y
+329,सड़क,사라크,도로,road,noun,R2,Y
+330,डॉक्टर,도크타르,의사,doctor,noun,R2,Y
+331,मैडम,메담,마담·여사님,madam,noun,R2,N
+332,साहब,사하브,나리·선생님,sir,noun,R2,N
+333,कसम,카삼,맹세,oath,noun,R2,N
+334,शुक्रिया,슈크리야,고마워요,thank you,interj,R2,N
+335,माफ़,마프,용서(माफ़ करना),forgive,adj,R2,N
+336,प्लीज़,플리즈,제발·부탁해,please,interj,R2,N
+337,नमस्ते,나마스테,안녕하세요,hello,interj,R2,Y
+338,दिखा,디카,보이다·보여 줘,show,verb,R2,N
+339,मिलेगा,밀레가,만날·얻을 것이다,will get,verb,R2,N
+340,पूछ,푸치,묻다(어간),ask,verb,R2,N
+341,पूछा,푸차,물었다,asked,verb,R2,N
+342,बोली,볼리,말했다(여)·말투,said,verb,R2,N
+343,कहो,카호,말해라,say,verb,R2,N
+344,कहूँ,카훙,말할까(나),should I say,verb,R2,N
+345,किए,키에,했다(복수),did,verb,R2,N
+346,किसका,키스카,누구의(남),whose,pron,R2,N
+347,जिसे,지세,~하는 사람을,whom,pron,R2,N
+348,जिसने,지스네,~한 사람이,who (did),pron,R2,N
+349,इनके,인케,이들의,their,pron,R2,N
+350,हमसे,함세,우리에게서·우리와,from us,pron,R2,N
+351,इससे,이스세,이것에서·이것보다,from this,pron,R2,N
+352,सबको,사브코,모두에게,to everyone,pron,R2,N
+353,किसको,키스코,누구에게,to whom,pron,R2,N
+354,किसकी,키스키,누구의(여),whose,pron,R2,N
+355,बिना,비나,~없이,without,postp,R2,N
+356,वजह,와자흐,이유,reason,noun,R2,N
+357,तरफ़,타라프,쪽·방향,side,noun,R2,N
+358,अलावा,알라와,~외에,besides,postp,R2,N
+359,वैसा,웨사,그런,such,adj,R2,N
+360,उतना,우트나,그만큼,that much,adv,R2,N
+361,काफ़ी,카피,꽤·충분히,quite,adv,R2,N
+362,दूसरी,두스리,두 번째·다른(여),second·other,adj,R2,N
+363,पहला,파흘라,첫 번째(남),first,adj,R2,N
+364,पहली,파흘리,첫 번째(여),first,adj,R2,N
+365,आख़िरी,아키리,마지막,last,adj,R2,N
+366,अगला,아글라,다음(남),next,adj,R3,N
+367,अकेला,아켈라,혼자인(남),alone,adj,R3,Y
+368,अकेले,아켈레,혼자서,alone,adv,R3,Y
+369,ताकि,타키,~하도록,so that,conj,R3,N
+370,मगर,마가르,하지만,but,conj,R3,N
+371,सिर,시르,머리,head,noun,R3,Y
+372,आँख,앙크,눈,eye,noun,R3,Y
+373,आँखें,앙켕,눈(복수),eyes,noun,R3,Y
+374,मुँह,뭉흐,입·얼굴,mouth,noun,R3,Y
+375,पैर,페르,발·다리,foot,noun,R3,Y
+376,कान,칸,귀,ear,noun,R3,Y
+377,चेहरा,체흐라,얼굴,face,noun,R3,Y
+378,बाल,발,머리카락,hair,noun,R3,Y
+379,पेट,페트,배,belly,noun,R3,Y
+380,खून,쿤,피,blood,noun,R3,Y
+381,दर्द,다르드,아픔·통증,pain,noun,R3,Y
+382,बीमार,비마르,아픈,sick,adj,R3,Y
+383,दवा,다와,약,medicine,noun,R3,Y
+384,अस्पताल,아스파탈,병원,hospital,noun,R3,Y
+385,ज़िंदा,진다,살아 있는,alive,adj,R3,N
+386,मर,마르,죽다(어간),die,verb,R3,N
+387,मरना,마르나,죽다,die,verb,R3,N
+388,मार,마르,때리다·죽이다(어간),hit,verb,R3,Y
+389,मारा,마라,때렸다·죽였다,hit (past),verb,R3,N
+390,मारो,마로,때려라,hit,verb,R3,Y
+391,मौत,마우트,죽음,death,noun,R3,N
+392,डर,다르,두려움,fear,noun,R3,Y
+393,डरो,다로,두려워해라(मत 와 함께),fear,verb,R3,N
+394,गुस्सा,굿사,화·분노,anger,noun,R3,Y
+395,खुशी,쿠시,기쁨,happiness,noun,R3,Y
+396,दुख,두크,슬픔,sorrow,noun,R3,Y
+397,रोना,로나,울다,cry,verb,R3,Y
+398,रो,로,울다(어간),cry,verb,R3,Y
+399,हँस,항스,웃다(어간),laugh,verb,R3,Y
+400,प्यारा,퍄라,사랑스러운(남),lovely,adj,R3,N
+401,प्यारी,퍄리,사랑스러운(여),lovely,adj,R3,N
+402,सुंदर,순다르,아름다운,beautiful,adj,R3,Y
+403,खूबसूरत,쿠브수라트,아름다운,beautiful,adj,R3,Y
+404,बुरी,부리,나쁜(여),bad,adj,R3,N
+405,छोटी,초티,작은(여),small,adj,R3,Y
+406,छोटे,초테,작은(복수),small,adj,R3,Y
+407,नई,나이,새로운(여),new,adj,R3,Y
+408,नए,나에,새로운(복수),new,adj,R3,Y
+409,पुराना,푸라나,오래된,old,adj,R3,Y
+410,पुरानी,푸라니,오래된(여),old,adj,R3,N
+411,लंबा,람바,긴·키 큰,long,adj,R3,Y
+412,गरम,가람,뜨거운,hot,adj,R3,Y
+413,ठंडा,탄다,차가운,cold,adj,R3,Y
+414,भूख,부크,배고픔,hunger,noun,R3,Y
+415,नींद,닌드,잠,sleep,noun,R3,Y
+416,सो,소,자다(어간),sleep,verb,R3,Y
+417,सोना,소나,자다·금,sleep,verb,R3,Y
+418,उठ,우트,일어나다(어간),get up,verb,R3,Y
+419,बैठ,베트,앉다(어간),sit,verb,R3,Y
+420,खड़ा,카라,서 있는,standing,adj,R3,Y
+421,चलना,찰나,걷다·가다,walk,verb,R3,Y
+422,भाग,바그,도망치다(어간),run away,verb,R3,Y
+423,भागो,바고,도망쳐(명령),run away,verb,R3,Y
+424,आएगा,아에가,올 것이다(남),will come,verb,R3,N
+425,आती,아티,온다(여),comes,verb,R3,N
+426,आते,아테,온다(복수),come,verb,R3,N
+427,जाती,자티,간다(여),goes,verb,R3,N
+428,जाते,자테,간다(복수),go,verb,R3,N
+429,लाओ,라오,가져와(명령),bring,verb,R3,Y
+430,लेना,레나,받다·가지다,take,verb,R3,Y
+431,ली,리,가졌다(여),took,verb,R3,N
+432,दी,디,주었다(여),gave,verb,R3,N
+433,दिए,디에,주었다(복수),gave,verb,R3,N
+434,देता,데타,준다(남),gives,verb,R3,N
+435,देती,데티,준다(여),gives,verb,R3,N
+436,देते,데테,준다(복수),give,verb,R3,N
+437,देंगे,뎅게,줄 것이다(복수),will give,verb,R3,N
+438,दूँगा,둥가,주겠다(남),will give,verb,R3,N
+439,लूँगा,룽가,가지겠다(남),will take,verb,R3,N
+440,पाया,파야,얻었다·해냈다(남),got,verb,R3,N
+441,मिलना,밀나,만나다,meet,verb,R3,Y
+442,मिलते,밀테,만난다(복수),meet,verb,R3,N
+443,मिली,밀리,만났다·얻었다(여),met,verb,R3,N
+444,बताना,바타나,말해 주다,tell,verb,R3,N
+445,बताया,바타야,말했다(남),told,verb,R3,N
+446,बताऊँ,바타웅,말할까(나),tell,verb,R3,N
+447,समझा,삼자,이해했다(남),understood,verb,R3,N
+448,समझो,삼조,이해해(명령),understand,verb,R3,N
+449,समझती,사마즈티,이해한다(여),understands,verb,R3,N
+450,समझता,사마즈타,이해한다(남),understands,verb,R3,N
+451,पहचान,파흐찬,알아봄·정체,recognize,noun,R3,N
+452,भूल,불,잊다·실수,forget,verb,R3,N
+453,पढ़,파르,읽다·공부하다(어간),read,verb,R3,Y
+454,पढ़ना,파르나,읽다·공부하다,read,verb,R3,Y
+455,सुनना,순나,듣다,listen,verb,R3,Y
+456,देखना,데크나,보다,see,verb,R3,Y
+457,देखी,데키,봤다(여),saw,verb,R3,N
+458,देखते,데크테,본다(복수),see,verb,R3,N
+459,खेल,켈,놀이·경기,game,noun,R3,Y
+460,गाना,가나,노래·노래하다,song,noun,R3,Y
+461,पीना,피나,마시다,drink,verb,R3,Y
+462,खाओ,카오,먹어(명령),eat,verb,R3,N
+463,खाया,카야,먹었다(남),ate,verb,R3,N
+464,खा,카,먹다(어간),eat,verb,R3,Y
+465,बनाना,바나나,만들다,make,verb,R3,Y
+466,बना,바나,만들어진·되다,made,verb,R3,N
+467,खोल,콜,열다,open,verb,R3,Y
+468,बंद,반드,닫힌·닫다,closed,adj,R3,Y
+469,रख,라크,두다(어간),put,verb,R3,Y
+470,रखो,라코,둬(명령),put,verb,R3,N
+471,छोड़ो,초로,놔·그만둬(명령),let go,verb,R3,N
+472,पकड़,파카르,잡다,catch,verb,R3,Y
+473,भेज,베즈,보내다,send,verb,R3,N
+474,पिताजी,피타지,아버지(존칭),father,noun,R3,Y
+475,बाप,바프,아버지(구어),dad,noun,R3,Y
+476,दीदी,디디,누나·언니,older sister,noun,R3,Y
+477,चाचा,차차,삼촌(친가),uncle,noun,R3,Y
+478,मामा,마마,외삼촌,uncle,noun,R3,Y
+479,दादा,다다,할아버지(친가),grandfather,noun,R3,Y
+480,दादी,다디,할머니(친가),grandmother,noun,R3,Y
+481,पति,파티,남편,husband,noun,R3,Y
+482,पत्नी,파트니,아내,wife,noun,R3,Y
+483,बीवी,비위,아내(구어),wife,noun,R3,Y
+484,बच्ची,밧치,여자아이,little girl,noun,R3,Y
+485,परिवार,파리와르,가족,family,noun,R3,Y
+486,रिश्ता,리시타,관계·혼담,relationship,noun,R3,N
+487,रिश्ते,리시테,관계(복수·사격),relationships,noun,R3,N
+488,औरत,아우라트,여자,woman,noun,R3,Y
+489,मर्द,마르드,남자,man,noun,R3,Y
+490,लड़कियाँ,라르키양,소녀들,girls,noun,R3,Y
+491,लड़के,라르케,소년들·소년(사격),boys,noun,R3,Y
+492,इंसान,인산,인간,human,noun,R3,Y
+493,दुकान,두칸,가게,shop,noun,R3,Y
+494,रुपये,루페,루피(복수),rupees,noun,R3,Y
+495,हज़ार,하자르,천(1000),thousand,num,R3,N
+496,लाख,라크,10만,lakh,num,R3,N
+497,सौ,사우,백(100),hundred,num,R3,N
+498,तीन,틴,셋,three,num,R3,Y
+499,चार,차르,넷,four,num,R3,Y
+500,पाँच,팡치,다섯,five,num,R3,Y
+501,दस,다스,열,ten,num,R3,Y
+502,आधा,아다,절반,half,adj,R3,Y
+503,कमरा,카므라,방,room,noun,R3,Y
+504,कपड़े,카프레,옷,clothes,noun,R3,Y
+505,किताब,키타브,책,book,noun,R3,Y
+506,तस्वीर,타스위르,사진·그림,picture,noun,R3,Y
+507,फ़ोटो,포토,사진,photo,noun,R3,Y
+508,फ़िल्म,필름,영화,movie,noun,R3,Y
+509,कहानी,카하니,이야기,story,noun,R3,Y
+510,ख़बर,카바르,소식,news,noun,R3,Y
+511,मोबाइल,모바일,휴대폰,mobile phone,noun,R3,Y
+512,नंबर,남바르,번호,number,noun,R3,N
+513,ऑफ़िस,오피스,사무실,office,noun,R3,Y
+514,कॉलेज,콜레즈,대학,college,noun,R3,Y
+515,स्कूल,스쿨,학교,school,noun,R3,Y
+516,पढ़ाई,파라이,공부,study,noun,R3,Y
+517,नौकरी,나우카리,일자리,job,noun,R3,N
+518,प्लान,플란,계획,plan,noun,R3,N
+519,मौका,마우카,기회,chance,noun,R3,N
+520,सवाल,사왈,질문,question,noun,R3,N
+521,जवाब,자와브,대답,answer,noun,R3,N
+522,झूठ,주트,거짓말,lie,noun,R3,N
+523,वादा,와다,약속,promise,noun,R3,N
+524,सपना,사프나,꿈,dream,noun,R3,N
+525,सपने,사프네,꿈(복수·사격),dreams,noun,R3,N
+526,उम्मीद,움미드,희망·기대,hope,noun,R3,N
+527,भरोसा,바로사,믿음,trust,noun,R3,N
+528,इज़्ज़त,잇자트,명예·체면,honor,noun,R3,N
+529,शर्म,샤름,부끄러움,shame,noun,R3,Y
+530,ग़लती,갈티,실수,mistake,noun,R3,N
+531,माफ़ी,마피,용서·사과,apology,noun,R3,N
+532,इंतज़ार,인타자르,기다림,waiting,noun,R3,N
+533,फ़ैसला,페슬라,결정,decision,noun,R3,N
+534,किस्मत,키스마트,운명·운,fate,noun,R3,N
+535,ख़्याल,캴,생각·돌봄,thought,noun,R3,N
+536,आदत,아다트,습관,habit,noun,R3,N
+537,हिम्मत,힘마트,용기,courage,noun,R3,N
+538,मुसीबत,무시바트,곤경,trouble,noun,R3,N
+539,परेशानी,파레샤니,곤란·걱정,trouble,noun,R3,N
+540,चिंता,친타,걱정,worry,noun,R3,Y
+541,फ़िक्र,피크르,걱정,worry,noun,R3,N
+542,तकलीफ़,타클리프,고통·불편,pain,noun,R3,N
+543,आराम,아람,휴식·편안함,rest,noun,R3,Y
+544,मज़ा,마자,재미,fun,noun,R3,N
+545,मज़ाक,마자크,농담,joke,noun,R3,N
+546,पार्टी,파르티,파티,party,noun,R3,Y
+547,छुट्टी,춧티,휴가·쉬는 날,holiday,noun,R3,N
+548,खाने,카네,음식·먹기(사격),food,noun,R3,N
+549,बारिश,바리시,비,rain,noun,R3,Y
+550,आग,아그,불,fire,noun,R3,Y
+551,कुत्ता,쿳타,개,dog,noun,R3,Y
+552,लाल,랄,빨강,red,adj,R3,Y
+553,काला,칼라,검정,black,adj,R3,Y
+554,अगले,아글레,다음(사격),next,adj,R3,N
+555,पिछले,피츨레,지난(사격),last,adj,R3,N
+556,रोज़,로즈,매일,every day,adv,R3,N
+557,धीरे,디레,천천히,slowly,adv,R3,N
+558,सचमुच,사치무치,정말로,really,adv,R3,N
+559,एकदम,에크담,완전히·당장,totally,adv,R3,N
+560,सीधा,시다,곧은·똑바른,straight,adj,R3,Y
+561,सीधे,시데,곧장,straight,adv,R3,N
+562,पीछे,피체,뒤에,behind,adv,R3,N
+563,बीच,비치,가운데,middle,noun,R3,N
+564,दूर,두르,먼,far,adj,R3,N
+565,उधर,우다르,저쪽,there,adv,R3,N
+566,वहीं,와힝,바로 거기,right there,adv,R3,N
+567,यहीं,야힝,바로 여기,right here,adv,R3,N
+568,तभी,타비,바로 그때·그래서,just then,adv,R3,N
+569,आजकल,아즈칼,요즘,nowadays,adv,R3,N
+570,दिमाग़,디마그,머리·두뇌,brain,noun,R3,Y
+571,बेवकूफ़,베와쿠프,바보,fool,adj,R3,N
+572,बदमाश,바드마시,악당·건달,rascal,noun,R3,N
+573,चोर,초르,도둑,thief,noun,R3,Y
+574,दुश्मन,두시만,적,enemy,noun,R3,N
+575,ख़ून,쿤,피·살인,blood,noun,R3,Y
+576,आवाज़,아와즈,목소리·소리,voice,noun,R3,N
+577,बातें,바텡,이야기들,talks,noun,R3,N
+578,चुप,춥,조용한,quiet,adj,R3,Y
+579,पक्का,파카,확실한,sure,adj,R3,N
+580,तैयार,테야르,준비된,ready,adj,R3,N
+581,ज़रूरी,자루리,필요한,necessary,adj,R3,N
+582,मुश्किल,무슈킬,어려운,difficult,adj,R3,N
+583,आसान,아산,쉬운,easy,adj,R3,N
+584,बेटे,베테,아들(복수·호격),son,noun,R3,Y
+585,दोस्तों,도스통,친구들(사격·호격),friends,noun,R3,Y
+586,मोहब्बत,모합바트,사랑,love,noun,R3,N
+587,बाबा,바바,아버지·할아버지·도사,father,noun,R3,Y
+588,मरने,마르네,죽다(부정사 사격),die,verb,R3,N
+589,जीना,지나,살다,live,verb,R3,N
+590,बचाओ,바차오,살려줘·구해라,save,verb,R3,Y
+591,बचा,바차,구하다·남다,save,verb,R3,N
+592,ध्यान,디얀,주의,attention,noun,R3,N
+593,रुकिए,루키에,멈추세요,stop,verb,R3,Y
+594,बैठिए,베티에,앉으세요,sit,verb,R3,Y
+595,आइए,아이에,오세요,come,verb,R3,Y
+596,जाइए,자이에,가세요,go,verb,R3,Y
+597,सुनिए,수니에,들어 보세요,listen,verb,R3,Y
+598,देखिए,데키에,보세요,look,verb,R3,Y
+599,बताइए,바타이에,말해 주세요,tell,verb,R3,N
+600,कीजिए,키지에,하세요,do,verb,R3,N
+601,दीजिए,디지에,주세요,give,verb,R3,Y
+602,लीजिए,리지에,받으세요,take,verb,R3,Y
+603,चलिए,찰리에,갑시다,go,verb,R3,N
+604,हाय,하이,아아·안녕,alas,interj,R3,N
+605,वाह,와흐,와,wow,interj,R3,N
+606,ओह,오흐,오,oh,interj,R3,N
+607,हम्म,함,음,hmm,interj,R3,N
+608,ओए,오에,야,hey,interj,R3,N
+609,बकवास,박와스,헛소리,nonsense,noun,R3,N
+610,कमाल,카말,놀라움·대단함,amazing,noun,R3,N
+611,बढ़िया,바리야,좋은,great,adj,R3,N
+612,होंगे,홍게,일 것이다(복),will be,verb,R3,N
+613,होगे,호게,일 것이다(너희),will be,verb,R3,N
+614,थीं,팅,이었다(여복),was,verb,R3,N
+615,रहेगा,라헤가,있을 것이다(남),will stay,verb,R3,N
+616,रहेगी,라헤기,있을 것이다(여),will stay,verb,R3,N
+617,रहेंगे,라헹게,있을 것이다(복),will stay,verb,R3,N
+618,रहना,라흐나,살다·머물다,stay,verb,R3,N
+619,रहती,라흐티,살다(습관·여),live,verb,R3,N
+620,रहता,라흐타,살다(습관·남),live,verb,R3,N
+621,रहते,라흐테,살다(습관·복),live,verb,R3,N
+622,चली,찰리,갔다(여),went,verb,R3,Y
+623,चले,찰레,갔다(복)·가자,went,verb,R3,Y
+624,चलेगा,찰레가,갈 것이다·괜찮다,okay,verb,R3,N
+625,चलते,찰테,가다(습관·복),go,verb,R3,N
+626,पहुँचा,파훙차,도착했다,arrived,verb,R3,N
+627,निकल,니칼,나가다,go out,verb,R3,Y
+628,निकलो,니클로,나가라,get out,verb,R3,Y
+629,निकला,니클라,나갔다,went out,verb,R3,N
+630,ख़त्म,카탐,끝난,finished,adj,R3,N
+631,शुरू,슈루,시작,start,noun,R3,N
+632,आख़िर,아키르,결국,finally,adv,R3,N
+633,कोशिश,코시시,노력,effort,noun,R3,N
+634,मानो,마노,인정해라·믿어라,accept,verb,R3,N
+635,मान,만,인정하다·존중,accept,verb,R3,N
+636,यक़ीन,야킨,확신,belief,noun,R3,N
+637,समय,사마이,시간,time,noun,R3,N
+638,देर,데르,늦음,late,noun,R3,N
+639,किधर,키다르,어디로,where,adv,R3,N
+640,अलग,알라그,다른·따로,separate,adj,R3,N
+641,थोड़ी,토리,조금(여),a little,adj,R3,N
+642,थोड़े,토레,조금(복),a little,adj,R3,N
+643,सारा,사라,전부,whole,adj,R3,N
+644,पूरे,푸레,전체의,whole,adj,R3,N
+645,रास्ते,라스테,길(사격),road,noun,R3,Y
+646,ख़ुदा,쿠다,신,God,noun,R3,N
+647,सबके,사브케,모두의,everyone's,pron,R3,N
+648,बोलना,볼나,말하다,speak,verb,R3,Y
+649,बोलते,볼테,말하다(습관·복),speak,verb,R3,N
+650,बोलती,볼티,말하다(습관·여),speak,verb,R3,N
+651,बोलेगा,볼레가,말할 것이다,will speak,verb,R3,N
+652,कहना,카흐나,말하다,say,verb,R3,N
+653,कहती,카흐티,말하다(습관·여),say,verb,R3,N
+654,कहता,카흐타,말하다(습관·남),say,verb,R3,N
+655,पूछो,푸초,물어봐,ask,verb,R3,N
+656,सकोगे,사코게,할 수 있을 것이다(너희),can,verb,R3,N
+657,पाता,파타,해내다(습관·남),manage,verb,R3,N
+658,लगेगा,라게가,느껴질 것이다,seem,verb,R3,N
+659,लगते,라그테,보이다·느껴지다(복),seem,verb,R3,N
+660,लगी,라기,느껴졌다(여)·붙었다,seem,verb,R3,N
+661,लगे,라게,느껴졌다(복),seem,verb,R3,N
+662,दिखता,디크타,보이다(습관·남),appear,verb,R3,N
+663,दिखाओ,디카오,보여줘,show,verb,R3,Y
+664,सुनी,수니,들었다(여),heard,verb,R3,N
+665,सुनते,순테,듣다(습관·복),listen,verb,R3,N
+666,समझते,사마즈테,이해하다(습관·복),understand,verb,R3,N
+667,सोचो,소초,생각해 봐,think,verb,R3,N
+668,सोचता,소치타,생각하다(습관·남),think,verb,R3,N
+669,सोचती,소치티,생각하다(습관·여),think,verb,R3,N
+670,सोचते,소치테,생각하다(습관·복),think,verb,R3,N
+671,सोचना,소치나,생각하다,think,verb,R3,N
+672,रोको,로코,막아라,stop,verb,R3,Y
+673,भेजा,베자,보냈다·뇌,sent,verb,R3,N
+674,लाया,라야,가져왔다(남),brought,verb,R3,N
+675,लाई,라이,가져왔다(여),brought,verb,R3,N
+676,उठा,우타,일어났다·들어 올리다,lift,verb,R3,Y
+677,बैठा,베타,앉았다(남),sat,verb,R3,Y
+678,बैठी,베티,앉았다(여),sat,verb,R3,Y
+679,बैठे,베테,앉았다(복),sat,verb,R3,Y
+680,खड़े,카레,서 있는(복),standing,adj,R3,Y
+681,बुलाओ,불라오,불러라,call,verb,R3,Y
+682,बुलाया,불라야,불렀다,called,verb,R3,N
+683,पहुँचना,파훙치나,도착하다,arrive,verb,R3,N
+684,पहुँचे,파훙체,도착했다(복수),arrive,verb,R3,N
+685,घूम,굼,돌아다니다(어간),wander,verb,R3,N
+686,घूमना,굼나,돌아다니다·산책하다,go around,verb,R3,Y
+687,घूमने,굼네,돌아다니러,go around,verb,R3,N
+688,डाल,달,넣다·붓다(어간),put in,verb,R3,N
+689,खेलो,켈로,놀아라·경기해라,play,verb,R3,Y
+690,मारना,마르나,때리다·죽이다,hit,verb,R3,Y
+691,बचाया,바차야,구했다(남),save,verb,R3,N
+692,तेज़,테즈,빠른·날카로운,fast,adj,R3,Y
+693,नाराज़,나라즈,화난·언짢은,angry,adj,R3,Y
+694,परेशान,파레샨,걱정하는·곤란한,worried,adj,R3,Y
+695,अजीब,아집,이상한,strange,adj,R3,N
+696,ख़ास,카스,특별한,special,adj,R3,N
+697,साफ़,사프,깨끗한,clean,adj,R3,Y
+698,फ़ायदा,파이다,이익,benefit,noun,R3,N
+699,तबीयत,타비야트,몸 상태,health,noun,R3,N
+700,मिलकर,밀카르,함께·만나서,together,adv,R3,N
+701,ख़याल,카얄,생각·돌봄,thought,noun,R3,N
+702,धन्यवाद,단야와드,감사합니다,thank you,interj,R3,N
+703,अलविदा,알위다,안녕히(작별),goodbye,interj,R3,Y
+704,सिवा,시와,~외에는,except,postp,R3,N
+705,पिछला,피칠라,지난(남),previous,adj,R3,N
+706,जबकि,자브키,~인데도·반면,whereas,conj,R3,N
+707,बल्कि,발키,오히려,rather,conj,R3,N
+708,दाँत,당트,이·치아,tooth,noun,R3,Y
+709,हँसी,항시,웃음,laughter,noun,R3,Y
+710,मुस्कुरा,무스쿠라,미소 짓다(어간),smile,verb,R3,Y
+711,ऊँचा,웅차,높은,high,adj,R3,Y
+712,मीठा,미타,단,sweet,adj,R3,Y
+713,तीखा,티카,매운,spicy,adj,R3,Y
+714,प्यास,퍄스,목마름,thirst,noun,R3,Y
+715,जाग,자그,깨다(어간),wake up,verb,R3,Y
+716,दौड़,다우르,달리다,run,verb,R3,Y
+717,रुकना,루크나,멈추다,stop,verb,R3,Y
+718,लाना,라나,가져오다,bring,verb,R3,Y
+719,दूँगी,둥기,주겠다(여),will give,verb,R3,N
+720,लूँगी,룽기,가지겠다(여),will take,verb,R3,N
+721,चाहे,차헤,~든지·원하면,whether,conj,R3,N
+722,चाहो,차호,원하다(너희·가정),want,verb,R3,N
+723,सकूँ,사쿵,~할 수 있다(가정·나),can,verb,R3,N
+724,पाऊँ,파웅,할 수 있다(가정·나),be able,verb,R3,N
+725,मिलो,밀로,만나(명령),meet,verb,R3,N
+726,जानो,자노,알아라(명령),know,verb,R3,N
+727,भूलना,불나,잊다,forget,verb,R3,N
+728,सीख,시크,배우다(어간)·교훈,learn,verb,R3,N
+729,सीखना,시크나,배우다,learn,verb,R3,Y
+730,लिख,리크,쓰다(어간),write,verb,R3,Y
+731,लिखना,리크나,쓰다,write,verb,R3,Y
+732,खेलना,켈나,놀다·경기하다,play,verb,R3,Y
+733,नाच,나치,춤,dance,noun,R3,Y
+734,पियो,피요,마셔(명령),drink,verb,R3,N
+735,बनाओ,바나오,만들어(명령),make,verb,R3,N
+736,तोड़,토르,부수다,break,verb,R3,Y
+737,उठाओ,우타오,들어 올려(명령),lift,verb,R3,N
+738,भेजो,베조,보내(명령),send,verb,R3,N
+739,पिता,피타,아버지,father,noun,R3,Y
+740,माता,마타,어머니,mother,noun,R3,Y
+741,चाची,차치,숙모(친가),aunt,noun,R3,Y
+742,मामी,마미,외숙모,aunt,noun,R3,Y
+743,नाना,나나,외할아버지,grandfather,noun,R3,Y
+744,नानी,나니,외할머니,grandmother,noun,R3,Y
+745,ससुर,사수르,시아버지·장인,father-in-law,noun,R3,Y
+746,सास,사스,시어머니·장모,mother-in-law,noun,R3,Y
+747,बहू,바후,며느리,daughter-in-law,noun,R3,Y
+748,मोहल्ला,모할라,동네,neighborhood,noun,R3,Y
+749,पड़ोसी,파로시,이웃,neighbor,noun,R3,Y
+750,मेहमान,메흐만,손님,guest,noun,R3,Y
+751,बॉस,보스,상사,boss,noun,R3,Y
+752,मालिक,말리크,주인,owner,noun,R3,Y
+753,नौकर,나우카르,하인,servant,noun,R3,Y
+754,दुकानदार,두칸다르,가게 주인,shopkeeper,noun,R3,Y
+755,बाज़ार,바자르,시장,market,noun,R3,Y
+756,रुपया,루파야,루피,rupee,noun,R3,Y
+757,करोड़,카로르,1000만,crore,num,R3,N
+758,छह,체,여섯,six,num,R3,Y
+759,सात,사트,일곱,seven,num,R3,Y
+760,आठ,아트,여덟,eight,num,R3,Y
+761,नौ,나우,아홉,nine,num,R3,Y
+762,बीस,비스,스물,twenty,num,R3,Y
+763,पचास,파차스,쉰,fifty,num,R3,Y
+764,तीसरा,티스라,세 번째,third,adj,R3,N
+765,रसोई,라소이,부엌,kitchen,noun,R3,Y
+766,छत,차트,지붕·옥상,roof,noun,R3,Y
+767,खिड़की,키르키,창문,window,noun,R3,Y
+768,दीवार,디와르,벽,wall,noun,R3,Y
+769,बिस्तर,비스타르,침대,bed,noun,R3,Y
+770,कुर्सी,쿠르시,의자,chair,noun,R3,Y
+771,मेज़,메즈,탁자,table,noun,R3,Y
+772,जूते,주테,신발,shoes,noun,R3,Y
+773,साड़ी,사리,사리(전통 의상),sari,noun,R3,Y
+774,बैग,베그,가방,bag,noun,R3,Y
+775,चाबी,차비,열쇠,key,noun,R3,Y
+776,कागज़,카가즈,종이,paper,noun,R3,Y
+777,पेन,펜,펜,pen,noun,R3,Y
+778,चिट्ठी,칫티,편지,letter,noun,R3,Y
+779,ख़त,카트,편지,letter,noun,R3,Y
+780,टीवी,티비,텔레비전,TV,noun,R3,Y
+781,मैसेज,메세즈,메시지,message,noun,R3,Y
+782,क्लास,클라스,수업·교실,class,noun,R3,Y
+783,इम्तिहान,임티한,시험,exam,noun,R3,Y
+784,कंपनी,캄파니,회사,company,noun,R3,N
+785,मीटिंग,미팅,회의,meeting,noun,R3,Y
+786,प्रोजेक्ट,프로젝트,프로젝트,project,noun,R3,N
+787,सच्चाई,삿차이,진실,truth,noun,R3,N
+788,राज़,라즈,비밀,secret,noun,R3,N
+789,सज़ा,사자,벌,punishment,noun,R3,N
+790,मर्ज़ी,마르지,뜻·마음대로,will,noun,R3,N
+791,हक़,하크,권리,right,noun,R3,N
+792,इरादा,이라다,의도,intention,noun,R3,N
+793,ताक़त,타카트,힘,strength,noun,R3,Y
+794,ख़तरा,카트라,위험,danger,noun,R3,N
+795,दिक़्क़त,딕카트,어려움,difficulty,noun,R3,N
+796,तमाशा,타마샤,구경거리·소동,spectacle,noun,R3,N
+797,त्योहार,툐하르,축제·명절,festival,noun,R3,Y
+798,दिवाली,디왈리,디왈리(빛의 축제),Diwali,noun,R3,Y
+799,होली,홀리,홀리(색의 축제),Holi,noun,R3,Y
+800,पूजा,푸자,예배,worship,noun,R3,Y
+801,मंदिर,만디르,사원,temple,noun,R3,Y
+802,दुआ,두아,기도,prayer,noun,R3,Y
+803,आशीर्वाद,아시르와드,축복,blessing,noun,R3,N
+804,जन्मदिन,잔므딘,생일,birthday,noun,R3,Y
+805,सफ़र,사파르,여행,journey,noun,R3,Y
+806,ट्रेन,트렌,기차,train,noun,R3,Y
+807,ऑटो,오토,오토릭샤,auto rickshaw,noun,R3,Y
+808,टैक्सी,텍시,택시,taxi,noun,R3,Y
+809,हवाई,하와이,항공의,air,adj,R3,N
+810,जहाज़,자하즈,배·비행기,ship,noun,R3,Y
+811,स्टेशन,스테샨,역,station,noun,R3,Y
+812,टिकट,티카트,표,ticket,noun,R3,Y
+813,होटल,호탈,호텔,hotel,noun,R3,Y
+814,रोटी,로티,로티(납작빵),flatbread,noun,R3,Y
+815,चावल,차왈,쌀·밥,rice,noun,R3,Y
+816,दाल,달,달(콩 요리),lentils,noun,R3,Y
+817,सब्ज़ी,사브지,채소,vegetable,noun,R3,Y
+818,दूध,두드,우유,milk,noun,R3,Y
+819,चीनी,치니,설탕·중국의,sugar,noun,R3,Y
+820,नमक,나마크,소금,salt,noun,R3,Y
+821,फल,팔,과일,fruit,noun,R3,Y
+822,आम,암,망고·보통의,mango,noun,R3,Y
+823,अंडा,안다,달걀,egg,noun,R3,Y
+824,मुर्गा,무르가,수탉·닭,rooster,noun,R3,Y
+825,मछली,마츨리,물고기·생선,fish,noun,R3,Y
+826,मिठाई,미타이,단 과자,sweets,noun,R3,Y
+827,लड्डू,랏두,라두(둥근 과자),laddu,noun,R3,Y
+828,कॉफ़ी,코피,커피,coffee,noun,R3,Y
+829,पेड़,페르,나무,tree,noun,R3,Y
+830,फूल,풀,꽃,flower,noun,R3,Y
+831,धूप,두프,햇볕,sunshine,noun,R3,Y
+832,हवा,하와,바람·공기,wind,noun,R3,Y
+833,आसमान,아스만,하늘,sky,noun,R3,Y
+834,चाँद,창드,달,moon,noun,R3,Y
+835,सूरज,수라즈,해,sun,noun,R3,Y
+836,तारे,타레,별들,stars,noun,R3,Y
+837,समंदर,사만다르,바다,sea,noun,R3,Y
+838,नदी,나디,강,river,noun,R3,Y
+839,पहाड़,파하르,산,mountain,noun,R3,Y
+840,जंगल,장갈,숲·정글,forest,noun,R3,Y
+841,ज़मीन,자민,땅,ground,noun,R3,Y
+842,पत्थर,팟타르,돌,stone,noun,R3,Y
+843,मिट्टी,밋티,흙,soil,noun,R3,Y
+844,बिल्ली,빌리,고양이,cat,noun,R3,Y
+845,गाय,가이,소(암소),cow,noun,R3,Y
+846,घोड़ा,고라,말,horse,noun,R3,Y
+847,शेर,셰르,사자·호랑이,lion,noun,R3,Y
+848,चिड़िया,치리야,새,bird,noun,R3,Y
+849,रंग,랑,색,color,noun,R3,Y
+850,नीला,닐라,파랑,blue,adj,R3,Y
+851,हरा,하라,초록,green,adj,R3,Y
+852,पीला,필라,노랑,yellow,adj,R3,Y
+853,सफ़ेद,사페드,하양,white,adj,R3,Y
+854,सोमवार,솜와르,월요일,Monday,noun,R3,N
+855,मंगलवार,망갈와르,화요일,Tuesday,noun,R3,N
+856,शुक्रवार,슈크라와르,금요일,Friday,noun,R3,N
+857,शनिवार,샤니와르,토요일,Saturday,noun,R3,N
+858,रविवार,라위와르,일요일,Sunday,noun,R3,N
+859,परसों,파르송,모레·그저께,two days away,adv,R3,N
+860,जल्द,잘드,곧·빨리,soon,adv,R3,N
+861,ज़ोर,조르,힘·세게,force,noun,R3,N
+862,अचानक,아차나크,갑자기,suddenly,adv,R3,N
+863,वाक़ई,와카이,정말로,really,adv,R3,N
+864,असल,아살,실제,real,adj,R3,N
+865,उल्टा,울타,거꾸로·반대,upside down,adj,R3,Y
+866,दाएँ,다엥,오른쪽,right,adv,R3,Y
+867,बाएँ,바엥,왼쪽,left,adv,R3,Y
+868,नज़दीक,나즈디크,가까이,near,adv,R3,N
+869,किनारे,키나레,가장자리·물가,edge,noun,R3,N
+870,चारों,차롱,넷 다·사방,all four,num,R3,N
+871,उस्ताद,우스타드,스승·명인,master,noun,R3,Y
+872,होश,호시,의식·정신,senses,noun,R3,N
+873,समझदार,사마즈다르,현명한,wise,adj,R3,N
+874,होशियार,호시야르,영리한,clever,adj,R3,N
+875,शरीफ़,샤리프,점잖은,decent,adj,R3,N
+876,गुंडा,군다,깡패,thug,noun,R3,Y
+877,हीरो,히로,영웅·주인공,hero,noun,R3,Y
+878,राजा,라자,왕,king,noun,R3,Y
+879,रानी,라니,여왕,queen,noun,R3,Y
+880,सरकार,사르카르,정부,government,noun,R3,N
+881,नेता,네타,지도자·정치인,leader,noun,R3,Y
+882,कानून,카눈,법,law,noun,R3,N
+883,अदालत,아달라트,법원,court,noun,R3,Y
+884,जेल,젤,감옥,jail,noun,R3,Y
+885,वकील,와킬,변호사,lawyer,noun,R3,Y
+886,जज,자즈,판사,judge,noun,R3,Y
+887,सबूत,사부트,증거,evidence,noun,R3,N
+888,गवाह,가와흐,증인,witness,noun,R3,N
+889,क़त्ल,카틀,살인,murder,noun,R3,N
+890,गोली,골리,총알·알약,bullet,noun,R3,Y
+891,बंदूक,반두크,총,gun,noun,R3,Y
+892,लड़ाई,라라이,싸움,fight,noun,R3,Y
+893,झगड़ा,자그라,다툼,quarrel,noun,R3,Y
+894,आज़ादी,아자디,자유,freedom,noun,R3,N
+895,हिंदी,힌디,힌디어,Hindi,noun,R3,N
+896,अंग्रेज़ी,앙그레지,영어,English,noun,R3,N
+897,शब्द,샤브드,단어,word,noun,R3,N
+898,बातचीत,바트치트,대화,conversation,noun,R3,Y
+899,चुपचाप,춥참,조용히,quietly,adv,R3,N
+900,सच्चा,사차,진실한(남),true,adj,R3,N
+901,सच्ची,사치,진실한(여),true,adj,R3,N
+902,झूठा,주타,거짓된·거짓말쟁이,liar,adj,R3,N
+903,ज़िम्मेदार,짐메다르,책임 있는,responsible,adj,R3,N
+904,सस्ता,사스타,싼,cheap,adj,R3,N
+905,महँगा,마항가,비싼,expensive,adj,R3,N
+906,अमीर,아미르,부유한,rich,adj,R3,Y
+907,ग़रीब,가리브,가난한,poor,adj,R3,Y
+908,भूखा,부카,배고픈,hungry,adj,R3,Y
+909,थका,타카,피곤한,tired,adj,R3,Y
+910,बीमारी,비마리,병,disease,noun,R3,N
+911,जानबूझकर,잔부즈카르,일부러,deliberately,adv,R3,N
+912,बेचारा,베차라,불쌍한(남),poor thing,adj,R3,N
+913,बेचारी,베차리,불쌍한(여),poor thing,adj,R3,N
+914,बेटियाँ,베티양,딸들,daughters,noun,R3,Y
+915,यारों,야롱,친구들(호격),buddies,noun,R3,Y
+916,भाइयों,바이용,형제들(사격·호격),brothers,noun,R3,Y
+917,जनाब,자납,선생님(존칭),sir,noun,R3,N
+918,बाबू,바부,나리·아가,sir,noun,R3,N
+919,अंकल,앙칼,아저씨,uncle,noun,R3,Y
+920,आंटी,안티,아주머니,aunt,noun,R3,Y
+921,भाभी,바비,형수,sister-in-law,noun,R3,Y
+922,दोस्ती,도스티,우정,friendship,noun,R3,N
+923,इश्क़,이슈크,사랑,love,noun,R3,N
+924,दीवाना,디와나,푹 빠진(남),crazy lover,adj,R3,N
+925,दीवानी,디와니,푹 빠진(여),crazy lover,adj,R3,N
+926,गले,갈레,목(에)·포옹,neck,noun,R3,Y
+927,यादें,야뎅,추억들,memories,noun,R3,N
+928,आँसू,앙수,눈물,tears,noun,R3,Y
+929,मुस्कान,무스칸,미소,smile,noun,R3,Y
+930,दिलों,딜롱,마음들(사격),hearts,noun,R3,N
+931,साँस,상스,숨,breath,noun,R3,Y
+932,किस्से,키세,이야기들,stories,noun,R3,N
+933,बचपन,바치판,어린 시절,childhood,noun,R3,N
+934,जवानी,자와니,젊음,youth,noun,R3,N
+935,उम्र,우므르,나이,age,noun,R3,N
+936,जन्म,잔므,탄생,birth,noun,R3,N
+937,जीने,지네,살다(부정사 사격),live,verb,R3,N
+938,जियो,지요,살아라,live,verb,R3,N
+939,मरो,마로,죽어라,die,verb,R3,N
+940,बचाना,바차나,구하다,save,verb,R3,Y
+941,संभाल,삼발,돌보다·간수하다,handle,verb,R3,N
+942,संभालो,삼발로,챙겨라·진정해라,take care,verb,R3,N
+943,सावधान,사와단,조심·주의하는,careful,adj,R3,N
+944,उफ़,우프,아이고,ugh,interj,R3,N
+945,छी,치,으엑,yuck,interj,R4,N
+946,अहा,아하,아하,aha,interj,R4,N
+947,घटिया,가티야,형편없는,lousy,adj,R4,N
+948,फ़ालतू,팔투,쓸데없는,useless,adj,R4,N
+949,बेकार,베카르,쓸모없는,useless,adj,R4,N
+950,शानदार,샨다르,훌륭한,splendid,adj,R4,N
+951,ज़बरदस्त,자바르다스트,굉장한,awesome,adj,R4,N
+952,मस्त,마스트,멋진·신나는,cool,adj,R4,N
+953,करवा,카르와,시키다,have done,verb,R4,N
+954,कराओ,카라오,하게 해라,get done,verb,R4,N
+955,रहूँ,라훙,있을까(나),stay,verb,R4,N
+956,बने,바네,되었다(복),become,verb,R4,N
+957,बनी,바니,되었다(여),become,verb,R4,N
+958,बनता,반타,되다(습관),become,verb,R4,N
+959,बनेगा,바네가,될 것이다,will become,verb,R4,N
+960,चलती,찰티,가다(습관·여),go,verb,R4,N
+961,पहुँच,파훙치,도착하다,arrive,verb,R4,N
+962,पहुँचो,파훙초,도착해라,arrive,verb,R4,N
+963,लौट,라우트,돌아오다,return,verb,R4,N
+964,लौटा,라우타,돌아왔다,returned,verb,R4,N
+965,लौटो,라우토,돌아와라,return,verb,R4,N
+966,घुस,구스,들어가다,enter,verb,R4,Y
+967,गिर,기르,떨어지다,fall,verb,R4,Y
+968,गिरा,기라,떨어졌다,fell,verb,R4,Y
+969,उतर,우타르,내리다,get off,verb,R4,Y
+970,चढ़,차르,오르다,climb,verb,R4,Y
+971,खो,코,잃다,lose,verb,R4,N
+972,खोया,코야,잃었다,lost,verb,R4,N
+973,ढूँढ,둔드,찾다,search,verb,R4,Y
+974,ढूँढो,둔도,찾아라,search,verb,R4,Y
+975,मिलाओ,밀라오,섞어라·연결해라,mix,verb,R4,N
+976,जोड़,조르,잇다,join,verb,R4,N
+977,बाँट,반트,나누다,share,verb,R4,Y
+978,बेच,베치,팔다,sell,verb,R4,Y
+979,ख़रीद,카리드,사다,buy,verb,R4,Y
+980,ख़रीदा,카리다,샀다,bought,verb,R4,Y
+981,कमा,카마,벌다,earn,verb,R4,N
+982,कमाना,카마나,벌다,earn,verb,R4,N
+983,ख़र्च,카르치,비용·지출,expense,noun,R4,N
+984,भर,바르,채우다·가득,fill,verb,R4,Y
+985,भरो,바로,채워라,fill,verb,R4,Y
+986,ख़ाली,칼리,빈,empty,adj,R4,Y
+987,शुरुआत,슈루아트,시작,beginning,noun,R4,N
+988,जीत,지트,승리,victory,noun,R4,Y
+989,हार,하르,패배·목걸이,defeat,noun,R4,N
+990,जीता,지타,이겼다,won,verb,R4,Y
+991,हारा,하라,졌다,lost,verb,R4,N
+992,मेहनत,메흐나트,수고·노력,hard work,noun,R4,N
+993,काबिल,카빌,유능한,capable,adj,R4,N
+994,तारीफ़,타리프,칭찬,praise,noun,R4,N
+995,शिकायत,시카야트,불평,complaint,noun,R4,N
+996,मंज़ूर,만주르,승인된,approved,adj,R4,N
+997,इजाज़त,이자자트,허락,permission,noun,R4,N
+998,हुक्म,후큼,명령,order,noun,R4,N
+999,सलाह,살라흐,조언,advice,noun,R4,N
+1000,राय,라이,의견,opinion,noun,R4,N
+1001,बहस,바하스,논쟁,argument,noun,R4,Y
+1002,माना,마나,인정했다,admitted,verb,R4,N
+1003,मानना,만나,인정하다,accept,verb,R4,N
+1004,मानती,만티,인정하다(습관·여),accept,verb,R4,N
+1005,मानता,만타,인정하다(습관·남),accept,verb,R4,N
+1006,विश्वास,비슈와스,믿음,trust,noun,R4,N
+1007,शक,샤크,의심,doubt,noun,R4,N
+1008,इल्ज़ाम,일잠,혐의,accusation,noun,R4,N
+1009,धोखा,도카,속임·배신,betrayal,noun,R4,N
+1010,बदला,바들라,복수·바뀌었다,revenge,noun,R4,N
+1011,बदल,바달,바꾸다,change,verb,R4,N
+1012,बदलो,바들로,바꿔라,change,verb,R4,N
+1013,बदलना,바달나,바꾸다,change,verb,R4,N
+1014,ज़माना,자마나,시대·세상,era,noun,R4,N
+1015,घड़ी,가리,시계,clock,noun,R4,Y
+1016,तारीख़,타리크,날짜,date,noun,R4,N
+1017,किसलिए,키스리에,무엇 때문에,why,adv,R4,N
+1018,बराबर,바라바르,같은,equal,adj,R4,N
+1019,ढेर,데르,더미·많이,heap,noun,R4,Y
+1020,आधी,아디,절반(여),half,adj,R4,Y
+1021,जोड़ा,조라,한 쌍,couple,noun,R4,Y
+1022,दूरी,두리,거리,distance,noun,R4,N
+1023,मंज़िल,만질,목적지·층,destination,noun,R4,N
+1024,कामयाब,캄야브,성공한,successful,adj,R4,N
+1025,सपनों,사프농,꿈들(사격),dreams,noun,R4,N
+1026,ख्वाब,크와브,꿈,dream,noun,R4,N
+1027,नसीब,나시브,운명,fate,noun,R4,N
+1028,क़िस्मत,키스마트,운,luck,noun,R4,N
+1029,रब,라브,신,God,noun,R4,N
+1030,अल्लाह,알라흐,알라,Allah,noun,R4,N
+1031,पाप,파프,죄,sin,noun,R4,N
+1032,धर्म,다름,종교,religion,noun,R4,N
+1033,समाज,사마즈,사회,society,noun,R4,N
+1034,घरवाले,가르왈레,가족,family,noun,R4,Y
+1035,ख़ैर,케르,아무튼,anyway,interj,R4,N
+1036,ठहरो,타흐로,기다려라·멈춰라,wait,verb,R4,Y
+1037,बोलूँ,볼룽,말할까(나),speak,verb,R4,N
+1038,कहेगा,카헤가,말할 것이다(남),will say,verb,R4,N
+1039,कहेंगे,카헹게,말할 것이다(복),will say,verb,R4,N
+1040,कहोगे,카호게,말할 것이다(너희),will say,verb,R4,N
+1041,पूछना,푸치나,묻다,ask,verb,R4,N
+1042,पूछती,푸치티,묻다(습관·여),ask,verb,R4,N
+1043,पूछता,푸치타,묻다(습관·남),ask,verb,R4,N
+1044,चिल्ला,칠라,소리치다,shout,verb,R4,Y
+1045,चिल्लाओ,칠라오,소리쳐라,shout,verb,R4,Y
+1046,डाँट,단트,꾸짖다,scold,verb,R4,Y
+1047,गाली,갈리,욕,swear word,noun,R4,N
+1048,तमीज़,타미즈,예의,manners,noun,R4,N
+1049,बदतमीज़,바드타미즈,무례한,rude,adj,R4,N
+1050,सलाम,살람,인사,salute,interj,R4,Y
+1051,नमस्कार,나마스카르,안녕하세요,hello,interj,R4,Y
+1052,राम,람,라마(신),Ram,noun,R4,N
+1053,जय,자이,승리·만세,victory,interj,R4,N
+1054,चाहा,차하,원했다,wanted,verb,R4,N
+1055,चाहूँ,차훙,원할까(나),want,verb,R4,N
+1056,चाहेगा,차헤가,원할 것이다,will want,verb,R4,N
+1057,सकें,사켕,할 수 있다(가정·복),can,verb,R4,N
+1058,सकेगा,사케가,할 수 있을 것이다(남),can,verb,R4,N
+1059,पाओगे,파오게,해낼 수 있을 것이다,manage,verb,R4,N
+1060,पाती,파티,해내다(습관·여),manage,verb,R4,N
+1061,पाते,파테,해내다(습관·복),manage,verb,R4,N
+1062,लगाओ,라가오,붙여라·달아라,apply,verb,R4,N
+1063,लगाना,라가나,붙이다,attach,verb,R4,N
+1064,दिखती,디크티,보이다(습관·여),appear,verb,R4,N
+1065,दिखाया,디카야,보여줬다,showed,verb,R4,N
+1066,दिखे,디케,보였다(복),appeared,verb,R4,N
+1067,सुनाओ,수나오,들려줘,tell,verb,R4,N
+1068,सुनाया,수나야,들려줬다,told,verb,R4,N
+1069,समझाओ,사므자오,설명해라,explain,verb,R4,N
+1070,समझाया,사므자야,설명했다,explained,verb,R4,N
+1071,समझेगा,사므제가,이해할 것이다,will understand,verb,R4,N
+1072,जानेगा,자네가,알 것이다,will know,verb,R4,N
+1073,जानी,자니,알았다(여)·자기야,know,verb,R4,N
+1074,माँग,망그,요구하다·요구,demand,verb,R4,N
+1075,माँगो,망고,요구해라,demand,verb,R4,N
+1076,माँगा,망가,요구했다,demanded,verb,R4,N
+1077,रोका,로카,막았다,stopped,verb,R4,N
+1078,रोकना,로크나,막다,stop,verb,R4,N
+1079,भेजना,베즈나,보내다,send,verb,R4,Y
+1080,लाता,라타,가져오다(습관),bring,verb,R4,N
+1081,उठी,우티,일어났다(여),got up,verb,R4,N
+1082,उठाया,우타야,들어 올렸다,lifted,verb,R4,N
+1083,बैठना,베트나,앉다,sit,verb,R4,Y
+1084,खड़ी,카리,서 있는(여),standing,adj,R4,Y
+1085,सोया,소야,잤다(남),slept,verb,R4,Y
+1086,सोई,소이,잤다(여),slept,verb,R4,Y
+1087,सोते,소테,자다(습관·복),sleep,verb,R4,Y
+1088,जागो,자고,일어나라,wake up,verb,R4,Y
+1089,जागा,자가,깼다,woke,verb,R4,Y
+1090,नहा,나하,목욕하다,bathe,verb,R4,Y
+1091,नहाना,나하나,목욕하다,bathe,verb,R4,Y
+1092,धो,도,씻다,wash,verb,R4,Y
+1093,धोना,도나,씻다,wash,verb,R4,Y
+1094,पहन,파한,입다,wear,verb,R4,Y
+1095,पहनो,파흐노,입어라,wear,verb,R4,Y
+1096,पहना,파흐나,입었다,wore,verb,R4,Y
+1097,बुला,불라,부르다,call,verb,R4,N
+1098,मिलाया,밀라야,섞었다·연결했다,mixed,verb,R4,N
+1099,मिलवाया,밀와야,소개시켰다(남),introduce,verb,R4,N
+1100,लौटना,라우트나,돌아오다,return,verb,R4,N
+1101,टहल,타할,산책하다(어간),stroll,verb,R4,Y
+1102,ठहर,타하르,머물다·잠깐 기다리다,stay,verb,R4,N
+1103,बचे,바체,남았다·살아남았다,remain,verb,R4,N
+1104,बची,바치,남았다(여),remain,verb,R4,N
+1105,छुप,춥,숨다(어간),hide,verb,R4,Y
+1106,छुपा,추파,숨겼다·숨은,hide,verb,R4,N
+1107,छुपाओ,추파오,숨겨라,hide,verb,R4,Y
+1108,छुपाया,추파야,숨겼다(남),hide,verb,R4,N
+1109,डालो,달로,넣어라,put in,verb,R4,Y
+1110,फेंक,펭크,던지다(어간),throw,verb,R4,Y
+1111,फेंको,펭코,던져라,throw,verb,R4,Y
+1112,काट,카트,자르다·물다,cut,verb,R4,Y
+1113,काटो,카토,잘라라,cut,verb,R4,Y
+1114,तोड़ो,토로,부숴라·꺾어라,break,verb,R4,Y
+1115,तोड़ा,토라,부쉈다(남),break,verb,R4,N
+1116,जला,잘라,탔다·태우다,burn,verb,R4,Y
+1117,जलाओ,잘라오,켜라·태워라,light,verb,R4,Y
+1118,चुन,춘,고르다(어간),choose,verb,R4,N
+1119,चुनो,추노,골라라,choose,verb,R4,N
+1120,चुना,추나,골랐다·선출된,choose,verb,R4,N
+1121,जीतना,지트나,이기다,win,verb,R4,Y
+1122,हारना,하르나,지다,lose,verb,R4,Y
+1123,खेला,켈라,놀았다(남),play,verb,R4,N
+1124,गाओ,가오,노래해라,sing,verb,R4,Y
+1125,गाया,가야,노래했다,sing,verb,R4,N
+1126,नाचो,나초,춤춰라,dance,verb,R4,Y
+1127,नाचना,나치나,춤추다,dance,verb,R4,Y
+1128,हँसो,항소,웃어라,laugh,verb,R4,Y
+1129,हँसना,항스나,웃다,laugh,verb,R4,Y
+1130,रोओ,로오,울어라,cry,verb,R4,Y
+1131,रोई,로이,울었다(여),cry,verb,R4,N
+1132,रोया,로야,울었다(남),cry,verb,R4,N
+1133,चिल्लाया,칠라야,소리쳤다,shout,verb,R4,Y
+1134,मनाओ,마나오,달래라·축하해라,celebrate,verb,R4,N
+1135,मनाया,마나야,축하했다·달랬다,celebrate,verb,R4,N
+1136,लड़ो,라로,싸워라,fight,verb,R4,Y
+1137,लड़ना,라르나,싸우다,fight,verb,R4,Y
+1138,संभाला,상발라,돌봤다·감당했다,handle,verb,R4,N
+1139,सजा,사자,꾸몄다·장식된,decorate,verb,R4,N
+1140,सँभल,상발,조심하다·정신 차리다,be careful,verb,R4,N
+1141,ईमानदार,이만다르,정직한,honest,adj,R4,N
+1142,मज़बूत,마즈부트,튼튼한·강한,strong,adj,R4,Y
+1143,कमज़ोर,카므조르,약한,weak,adj,R4,Y
+1144,धीमा,디마,느린,slow,adj,R4,Y
+1145,भारी,바리,무거운,heavy,adj,R4,Y
+1146,हल्का,할카,가벼운,light,adj,R4,Y
+1147,मोटा,모타,뚱뚱한·두꺼운,fat,adj,R4,Y
+1148,पतला,파틀라,마른·얇은,thin,adj,R4,Y
+1149,गोरा,고라,피부가 흰,fair-skinned,adj,R4,Y
+1150,जवान,자완,젊은·청년,young,adj,R4,Y
+1151,बूढ़ा,부라,늙은·노인(남),old,adj,R4,Y
+1152,बूढ़ी,부리,늙은(여)·할머니,old woman,adj,R4,Y
+1153,प्यासा,퍄사,목마른,thirsty,adj,R4,Y
+1154,उदास,우다스,슬픈·우울한,sad,adj,R4,Y
+1155,हैरान,헤란,놀란,surprised,adj,R4,Y
+1156,शर्मिंदा,샤르밍다,부끄러운,ashamed,adj,R4,Y
+1157,अजनबी,아즈나비,낯선 사람,stranger,noun,R4,Y
+1158,अनजान,안잔,모르는·낯선,unknown,adj,R4,N
+1159,मशहूर,마슈후르,유명한,famous,adj,R4,N
+1160,असली,아슬리,진짜의,real,adj,R4,N
+1161,नकली,나클리,가짜의,fake,adj,R4,N
+1162,ख़तरनाक,카타르낙,위험한,dangerous,adj,R4,N
+1163,सुरक्षित,수락시트,안전한,safe,adj,R4,N
+1164,गंदा,강다,더러운,dirty,adj,R4,Y
+1165,ताज़ा,타자,신선한,fresh,adj,R4,Y
+1166,अंधेरा,앙데라,어둠·어두운,dark,noun,R4,Y
+1167,रोशनी,로시니,빛,light,noun,R4,Y
+1168,अंधेरे,앙데레,어둠(후치격),darkness,noun,R4,N
+1169,शोर,쇼르,소음,noise,noun,R4,Y
+1170,शांत,샹트,조용한·평온한,calm,adj,R4,Y
+1171,ख़ामोश,카모슈,조용한·말없는,silent,adj,R4,Y
+1172,ख़ामोशी,카모시,침묵,silence,noun,R4,N
+1173,भीड़,비르,군중,crowd,noun,R4,Y
+1174,लाइन,라인,줄,line,noun,R4,Y
+1175,गली,갈리,골목,alley,noun,R4,Y
+1176,दफ़्तर,다프타르,사무실,office,noun,R4,Y
+1177,बैंक,벵크,은행,bank,noun,R4,Y
+1178,सामान,사만,짐·물건,luggage,noun,R4,Y
+1179,बिजली,비즐리,전기·번개,electricity,noun,R4,Y
+1180,जेब,젭,주머니,pocket,noun,R4,Y
+1181,नोट,노트,지폐,banknote,noun,R4,Y
+1182,हिसाब,히삽,계산·셈,account,noun,R4,N
+1183,किराया,키라야,집세·요금,rent,noun,R4,N
+1184,तनख़्वाह,탄크와,월급,salary,noun,R4,N
+1185,कर्ज़,카르즈,빚,debt,noun,R4,N
+1186,उधार,우다르,외상·빌림,loan,noun,R4,N
+1187,नुक़सान,누크산,손해,loss,noun,R4,N
+1188,सौदा,사우다,거래,deal,noun,R4,N
+1189,धंधा,당다,장사·사업,business,noun,R4,N
+1190,माल,말,물건·상품,goods,noun,R4,N
+1191,क़ीमत,키마트,값,price,noun,R4,N
+1192,दाम,담,가격,price,noun,R4,N
+1193,मुफ़्त,무프트,무료,free,adj,R4,N
+1194,ऑर्डर,오르다르,주문·명령,order,noun,R4,N
+1195,विदेश,위데시,외국,abroad,noun,R4,N
+1196,अमेरिका,아메리카,미국,America,noun,R4,N
+1197,इंडिया,잉디야,인도,India,noun,R4,N
+1198,भारत,바라트,인도,India,noun,R4,N
+1199,दिल्ली,딜리,델리,Delhi,noun,R4,N
+1200,मुंबई,뭉바이,뭄바이,Mumbai,noun,R4,N
+1201,इलाक़ा,일라카,지역·동네,area,noun,R4,N
+1202,मोहल्ले,모할레,동네(복수·후치격),neighborhood,noun,R4,N
+1203,मकान,마칸,집·건물,house,noun,R4,Y
+1204,दुल्हन,둘한,신부,bride,noun,R4,Y
+1205,दूल्हा,둘하,신랑,groom,noun,R4,Y
+1206,तलाक़,탈락,이혼,divorce,noun,R4,N
+1207,जीजा,지자,형부·매형,brother-in-law,noun,R4,N
+1208,सहेली,사헬리,여자 친구(여자끼리),female friend,noun,R4,Y
+1209,ड्राइवर,드라이와르,운전사,driver,noun,R4,Y
+1210,अफ़सर,아프사르,관리·장교,officer,noun,R4,Y
+1211,इंस्पेक्टर,잉스펙타르,경감,inspector,noun,R4,Y
+1212,मास्टर,마스타르,선생·기술자,master,noun,R4,Y
+1213,टीचर,티차르,선생님,teacher,noun,R4,Y
+1214,मरीज़,마리즈,환자,patient,noun,R4,Y
+1215,दवाई,다와이,약,medicine,noun,R4,Y
+1216,इलाज,일라즈,치료,treatment,noun,R4,N
+1217,ऑपरेशन,오페레샨,수술,surgery,noun,R4,Y
+1218,बुख़ार,부카르,열,fever,noun,R4,Y
+1219,चोट,초트,다침·상처,injury,noun,R4,Y
+1220,ज़ख़्म,자큼,상처,wound,noun,R4,Y
+1221,सेहत,세하트,건강,health,noun,R4,N
+1222,इनाम,이남,상·상금,prize,noun,R4,Y
+1223,तोहफ़ा,토흐파,선물,gift,noun,R4,Y
+1224,स्वागत,스와가트,환영,welcome,noun,R4,N
+1225,बधाई,바다이,축하,congratulations,interj,R4,N
+1226,मुबारक,무바락,축하합니다,congratulations,interj,R4,N
+1227,अफ़सोस,아프소스,유감,regret,noun,R4,N
+1228,रहम,라함,자비,mercy,noun,R4,N
+1229,नफ़रत,나프라트,증오,hatred,noun,R4,N
+1230,जलन,잘란,질투·화끈거림,jealousy,noun,R4,N
+1231,नख़रे,나크레,투정·까탈,tantrums,noun,R4,N
+1232,शरारत,샤라라트,장난,mischief,noun,R4,N
+1233,शैतान,셰탄,악마·장난꾸러기,devil,noun,R4,Y
+1234,भूत,부트,귀신,ghost,noun,R4,Y
+1235,जादू,자두,마법,magic,noun,R4,Y
+1236,नाटक,나탁,연극·연기,drama,noun,R4,Y
+1237,गीत,기트,노래,song,noun,R4,N
+1238,वीडियो,위디요,동영상,video,noun,R4,N
+1239,खिलाओ,킬라오,먹여라,feed,verb,R4,Y
+1240,पिलाओ,필라오,마시게 해라,give drink,verb,R4,Y
+1241,सिखाओ,시카오,가르쳐라,teach,verb,R4,N
+1242,पढ़ाओ,파라오,가르쳐라(공부),teach,verb,R4,Y
+1243,लिखो,리코,써라,write,verb,R4,Y
+1244,पढ़ो,파로,읽어라,read,verb,R4,Y
+1245,सुनाना,수나나,들려주다,tell,verb,R4,N
+1246,साथी,사티,동료·동반자,companion,noun,R4,N
+1247,जोड़ी,조리,짝·커플,pair,noun,R4,Y
+1248,मुलाक़ात,물라카트,만남,meeting,noun,R4,N
+1249,पहचानो,파하차노,알아봐라,recognize,verb,R4,N
+1250,पहचाना,파하차나,알아봤다,recognize,verb,R4,N
+1251,ज़ुबान,주반,혀·말,tongue,noun,R4,Y
+1252,गर्मी,가르미,더위·여름,heat,noun,R4,Y
+1253,सर्दी,사르디,추위·겨울·감기,cold,noun,R4,Y
+1254,मौसम,마우삼,날씨·계절,weather,noun,R4,Y
+1255,दामाद,다마드,사위,son-in-law,noun,R4,Y
+1256,शौहर,샤우하르,남편(구어),husband,noun,R4,Y
+1257,कुर्ता,쿠르타,쿠르타(긴 상의),kurta,noun,R4,Y
+1258,ताला,탈라,자물쇠,lock,noun,R4,Y
+1259,रेस्टोरेंट,레스토렌트,식당,restaurant,noun,R4,Y
+1260,मिर्च,미르치,고추,chili,noun,R4,Y
+1261,केला,켈라,바나나,banana,noun,R4,Y
+1262,मीट,미트,고기,meat,noun,R4,Y
+1263,समोसा,사모사,사모사,samosa,noun,R4,Y
+1264,बिरयानी,비르야니,비리야니(볶음밥),biryani,noun,R4,Y
+1265,गुलाबी,굴라비,분홍,pink,adj,R4,Y
+1266,बुधवार,부드와르,수요일,Wednesday,noun,R4,N
+1267,गुरुवार,구루와르,목요일,Thursday,noun,R4,N
+1268,जंग,장,전쟁,war,noun,R4,N
+1269,शांति,샨티,평화,peace,noun,R4,N
+1270,इतिहास,이티하스,역사,history,noun,R4,N
+1271,भाषा,바샤,언어,language,noun,R4,N
+1272,भतीजा,바티자,조카,nephew,noun,R4,Y
+1273,मिलन,밀란,만남·결합,union,noun,R4,N
+1274,जुदाई,주다이,이별,separation,noun,R4,N
+1275,धड़कन,다르칸,심장 박동,heartbeat,noun,R4,N
+1276,जन्नत,잔나트,천국,heaven,noun,R4,N
+1277,नरक,나라크,지옥,hell,noun,R4,N
+1278,बुढ़ापा,부라파,노년,old age,noun,R4,N
+1279,हुज़ूर,후주르,나리,sir,noun,R4,N
+1280,धमाकेदार,다마케다르,폭발적인,explosive,adj,R4,N
+1281,बचत,바차트,저축,savings,noun,R4,N
+1282,अंत,안트,끝,end,noun,R4,N
+1283,इनकार,인카르,거절,refusal,noun,R4,N
+1284,गवाही,가와히,증언,testimony,noun,R4,N
+1285,बदलाव,바들라브,변화,change,noun,R4,N
+1286,दौर,다우르,시기,period,noun,R4,N
+1287,अकेलापन,아켈라판,외로움,loneliness,noun,R4,N
+1288,सफ़ल,사팔,성공한,successful,adj,R4,N
+1289,नाकाम,나캄,실패한,failed,adj,R4,N
+1290,ख़्वाहिश,크와히시,소원,wish,noun,R4,N
+1291,आरज़ू,아르주,염원,desire,noun,R4,N
+1292,तमन्ना,타만나,소망,wish,noun,R4,N
+1293,तक़दीर,타크디르,운명,destiny,noun,R4,N
+1294,मुक़द्दर,무카다르,운명,destiny,noun,R4,N
+1295,ईश्वर,이슈와르,신,God,noun,R4,N
+1296,प्रभु,프라부,주님,Lord,noun,R4,N
+1297,जात,자트,카스트,caste,noun,R4,N
+1298,शराफ़त,샤라파트,품위,decency,noun,R4,N
+1299,अदब,아다브,예절,courtesy,noun,R4,N
+1300,प्रणाम,프라남,절·인사,greeting,interj,R4,Y
+1301,बुझा,부자,껐다·꺼진,extinguish,verb,R4,Y
+1302,गिनो,기노,세어라,count,verb,R4,Y
+1303,गिन,긴,세다(어간),count,verb,R4,Y
+1304,नाप,납,재다·치수,measure,verb,R4,Y
+1305,तौल,타울,무게를 달다,weigh,verb,R4,Y
+1306,रूठ,루트,삐지다(어간),sulk,verb,R4,Y
+1307,रूठो,루토,삐져라,sulk,verb,R4,N
+1308,झगड़ो,자가로,다퉈라,quarrel,verb,R4,N
+1309,पीटो,피토,때려라,beat,verb,R4,N
+1310,सँवार,상와르,다듬다·꾸미다,groom,verb,R4,N
+1311,सजाओ,사자오,꾸며라,decorate,verb,R4,Y
+1312,भरोसेमंद,바로세망드,믿음직한,reliable,adj,R4,N
+1313,बेईमान,베이만,부정직한,dishonest,adj,R4,N
+1314,साँवला,상블라,까무잡잡한,dusky,adj,R4,Y
+1315,नन्हा,난하,아주 작은·꼬마,tiny,adj,R4,Y
+1316,ख़ुशनसीब,쿠슈나십,운 좋은,lucky,adj,R4,N
+1317,बदनसीब,바드나십,불운한,unlucky,adj,R4,N
+1318,बासी,바시,상한·묵은,stale,adj,R4,N
+1319,गीला,길라,젖은,wet,adj,R4,Y
+1320,सूखा,수카,마른·가뭄,dry,adj,R4,Y
+1321,उजाला,우잘라,밝음·빛,light,noun,R4,Y
+1322,चमक,차막,반짝임,shine,noun,R4,Y
+1323,हलचल,할찰,술렁임·움직임,commotion,noun,R4,N
+1324,कतार,카타르,줄·행렬,queue,noun,R4,Y
+1325,कोना,코나,구석,corner,noun,R4,Y
+1326,मोड़,모르,모퉁이·전환점,turn,noun,R4,Y
+1327,चौराहा,차우라하,사거리,crossroads,noun,R4,Y
+1328,पुल,풀,다리,bridge,noun,R4,Y
+1329,बगीचा,바기차,정원,garden,noun,R4,Y
+1330,पार्क,파르크,공원,park,noun,R4,Y
+1331,मैदान,메단,운동장·들판,field,noun,R4,Y
+1332,गेट,게트,문·대문,gate,noun,R4,Y
+1333,पेट्रोल,페트롤,휘발유,petrol,noun,R4,Y
+1334,एयरपोर्ट,에야르포르트,공항,airport,noun,R4,Y
+1335,थैला,텔라,가방·자루,bag,noun,R4,Y
+1336,डिब्बा,딥바,상자·칸,box,noun,R4,Y
+1337,बोतल,보탈,병,bottle,noun,R4,Y
+1338,गिलास,길라스,유리잔,glass,noun,R4,Y
+1339,कप,캅,컵,cup,noun,R4,Y
+1340,प्लेट,플레트,접시,plate,noun,R4,Y
+1341,चम्मच,참마치,숟가락,spoon,noun,R4,Y
+1342,थाली,탈리,쟁반 접시,platter,noun,R4,Y
+1343,फ्रिज,프리지,냉장고,fridge,noun,R4,Y
+1344,पंखा,팡카,선풍기,fan,noun,R4,Y
+1345,बत्ती,바티,불·등,lamp,noun,R4,Y
+1346,नल,날,수도꼭지,tap,noun,R4,Y
+1347,साबुन,사분,비누,soap,noun,R4,Y
+1348,तौलिया,타울리야,수건,towel,noun,R4,Y
+1349,शीशा,시샤,거울·유리,mirror,noun,R4,Y
+1350,घड़ियाँ,가리양,시계들,clocks,noun,R4,Y
+1351,चश्मा,차슈마,안경,glasses,noun,R4,Y
+1352,अंगूठी,앙구티,반지,ring,noun,R4,Y
+1353,चूड़ी,추리,팔찌,bangle,noun,R4,Y
+1354,बिंदी,빙디,빈디(이마 점),bindi,noun,R4,Y
+1355,दुपट्टा,두파타,숄·스카프,scarf,noun,R4,Y
+1356,शर्ट,샤르트,셔츠,shirt,noun,R4,Y
+1357,पैंट,펭트,바지,pants,noun,R4,Y
+1358,टोपी,토피,모자,hat,noun,R4,Y
+1359,छाता,차타,우산,umbrella,noun,R4,Y
+1360,चप्पल,차팔,슬리퍼,slippers,noun,R4,Y
+1361,बटुआ,바투아,지갑,wallet,noun,R4,Y
+1362,सिक्का,시카,동전,coin,noun,R4,Y
+1363,बिल,빌,계산서,bill,noun,R4,Y
+1364,व्यापार,뱌파르,무역·장사,trade,noun,R4,N
+1365,ग्राहक,그라학,손님,customer,noun,R4,Y
+1366,छूट,추트,할인·면제,discount,noun,R4,N
+1367,डिलीवरी,딜리와리,배달,delivery,noun,R4,Y
+1368,पते,파테,주소(복수·후치격),address,noun,R4,N
+1369,चिट्ठियाँ,치티양,편지들,letters,noun,R4,Y
+1370,पासपोर्ट,파스포르트,여권,passport,noun,R4,Y
+1371,सरहद,사르하드,국경,border,noun,R4,N
+1372,परदेस,파르데스,타향·외국,foreign land,noun,R4,N
+1373,कोरिया,코리야,한국,Korea,noun,R4,N
+1374,पंजाब,팡잡,펀자브,Punjab,noun,R4,N
+1375,बंगाल,방갈,벵골,Bengal,noun,R4,N
+1376,राज्य,라지야,주(州)·왕국,state,noun,R4,N
+1377,ज़िला,질라,군·지구,district,noun,R4,N
+1378,कोठी,코티,저택,mansion,noun,R4,Y
+1379,फ़्लैट,플레트,아파트,flat,noun,R4,Y
+1380,झोपड़ी,조프리,오두막,hut,noun,R4,Y
+1381,महल,마할,궁전,palace,noun,R4,Y
+1382,क़िला,킬라,성·요새,fort,noun,R4,Y
+1383,मस्जिद,마스지드,모스크,mosque,noun,R4,Y
+1384,घाट,가트,강가 계단·나루,ghat,noun,R4,Y
+1385,मेला,멜라,축제 장터,fair,noun,R4,Y
+1386,बारात,바라트,신랑 행렬,wedding procession,noun,R4,Y
+1387,सगाई,사가이,약혼,engagement,noun,R4,Y
+1388,विधवा,위드와,과부,widow,noun,R4,N
+1389,अनाथ,아나트,고아,orphan,noun,R4,N
+1390,जुड़वाँ,주르왕,쌍둥이,twins,noun,R4,Y
+1391,पोता,포타,손자(친),grandson,noun,R4,Y
+1392,पोती,포티,손녀(친),granddaughter,noun,R4,Y
+1393,ननद,나나드,시누이,sister-in-law,noun,R4,N
+1394,देवर,데와르,시동생,brother-in-law,noun,R4,N
+1395,साली,살리,처제,sister-in-law,noun,R4,N
+1396,पड़ोसन,파로산,이웃 여자,neighbor,noun,R4,Y
+1397,मोहतरमा,모흐타르마,부인·여사,madam,noun,R4,N
+1398,बेगम,베감,부인·왕비,lady,noun,R4,N
+1399,नवाब,나왑,나와브(귀족),nawab,noun,R4,Y
+1400,सेठ,세트,부자 상인,merchant,noun,R4,Y
+1401,चपरासी,차프라시,사환,peon,noun,R4,Y
+1402,मज़दूर,마즈두르,노동자,laborer,noun,R4,Y
+1403,किसान,키산,농부,farmer,noun,R4,Y
+1404,सिपाही,시파히,병사·순경,soldier,noun,R4,Y
+1405,फ़ौजी,파우지,군인,soldier,noun,R4,Y
+1406,हवलदार,하왈다르,경사,constable,noun,R4,Y
+1407,छात्र,차트르,학생,student,noun,R4,Y
+1408,प्रिंसिपल,프링시팔,교장,principal,noun,R4,Y
+1409,नर्स,나르스,간호사,nurse,noun,R4,Y
+1410,खाँसी,캉시,기침,cough,noun,R4,Y
+1411,ज़ुकाम,주캄,코감기,cold,noun,R4,Y
+1412,पट्टी,파티,붕대,bandage,noun,R4,Y
+1413,इंजेक्शन,잉젝샨,주사,injection,noun,R4,Y
+1414,कसरत,카스라트,운동,exercise,noun,R4,Y
+1415,योग,요그,요가,yoga,noun,R4,Y
+1416,क्रिकेट,크리케트,크리켓,cricket,noun,R4,Y
+1417,फ़ुटबॉल,푸트볼,축구,football,noun,R4,Y
+1418,मैच,메치,경기,match,noun,R4,Y
+1419,टीम,팀,팀,team,noun,R4,Y
+1420,कप्तान,카프탄,주장,captain,noun,R4,Y
+1421,गेंद,겡드,공,ball,noun,R4,Y
+1422,स्कोर,스코르,점수,score,noun,R4,N
+1423,जीतो,지토,이겨라,win,verb,R4,Y
+1424,गुलदस्ता,굴다스타,꽃다발,bouquet,noun,R4,Y
+1425,कार्ड,카르드,카드,card,noun,R4,Y
+1426,दावत,다와트,잔치·초대 식사,feast,noun,R4,Y
+1427,न्योता,뇨타,초대,invitation,noun,R4,N
+1428,शुभकामना,슈브카마나,축원·좋은 바람,best wishes,noun,R4,N
+1429,हमदर्दी,하므다르디,동정·공감,sympathy,noun,R4,N
+1430,दया,다야,자비,mercy,noun,R4,N
+1431,घमंड,가망드,교만,arrogance,noun,R4,N
+1432,अकड़,아카르,거만,attitude,noun,R4,N
+1433,चमत्कार,차마트카르,기적,miracle,noun,R4,N
+1434,रहस्य,라하스야,비밀·신비,mystery,noun,R4,N
+1435,कहानियाँ,카하니양,이야기들,stories,noun,R4,N
+1436,किरदार,키르다르,배역,character,noun,R4,N
+1437,सीन,신,장면,scene,noun,R4,N
+1438,शूटिंग,슈팅,촬영,shooting,noun,R4,Y
+1439,कैमरा,케마라,카메라,camera,noun,R4,Y
+1440,एक्टर,엑타르,배우,actor,noun,R4,Y
+1441,गायक,가약,가수,singer,noun,R4,Y
+1442,संगीत,상기트,음악,music,noun,R4,Y
+1443,धुन,둔,곡조,tune,noun,R4,N
+1444,ढोल,돌,북,drum,noun,R4,Y
+1445,शायरी,샤이리,시(우르두 시),poetry,noun,R4,N
+1446,कविता,카위타,시,poem,noun,R4,N
+1447,अख़बार,아크바르,신문,newspaper,noun,R4,Y
+1448,रेडियो,레디요,라디오,radio,noun,R4,Y
+1449,इंटरनेट,잉타르네트,인터넷,internet,noun,R4,N
+1450,कंप्यूटर,캄퓨타르,컴퓨터,computer,noun,R4,Y
+1451,लैपटॉप,렙톱,노트북,laptop,noun,R4,Y
+1452,चार्जर,차르자르,충전기,charger,noun,R4,Y
+1453,बैटरी,베타리,배터리,battery,noun,R4,Y
+1454,नेटवर्क,네트와르크,네트워크,network,noun,R4,N
+1455,सिग्नल,시그날,신호,signal,noun,R4,N
+1456,रील,릴,짧은 영상,reel,noun,R4,N
+1457,पोस्ट,포스트,게시물·우편,post,noun,R4,N
+1458,लाइक,라이크,좋아요,like,noun,R4,N
+1459,दोस्ताना,도스타나,우호적인,friendly,adj,R4,N
+1460,हमसफ़र,함사파르,인생 동반자,companion,noun,R4,N
+1461,याददाश्त,야드다시트,기억력,memory,noun,R4,N
+1462,कल्पना,칼파나,상상,imagination,noun,R4,N
+1463,लहजा,라흐자,말투·억양,accent,noun,R4,N
+1464,अर्थ,아르트,뜻,meaning,noun,R4,N
+1465,अक्षर,악샤르,글자,letter,noun,R4,N
+1466,गिनती,긴티,셈·숫자 세기,counting,noun,R4,N
+1467,जोड़ना,조르나,더하다·잇다,add,verb,R4,N
+1468,बादल,바달,구름,cloud,noun,R4,Y
+1469,तूफ़ान,투판,폭풍,storm,noun,R4,Y
+1470,बर्फ़,바르프,눈·얼음,snow,noun,R4,Y
+1471,धुआँ,두앙,연기,smoke,noun,R4,Y
+1472,पुण्य,푼야,공덕,virtue,noun,R4,N
+1473,डाकघर,닥가르,우체국,post office,noun,R4,Y
+1474,कटोरी,카토리,작은 그릇,bowl,noun,R4,Y
+1475,चूल्हा,출하,화덕,stove,noun,R4,Y
+1476,बाल्टी,발티,양동이,bucket,noun,R4,Y
+1477,कंघी,캉기,빗,comb,noun,R4,Y
+1478,मोज़े,모제,양말,socks,noun,R4,Y
+1479,कूरियर,쿠리야르,택배,courier,noun,R4,Y
+1480,वीज़ा,위자,비자,visa,noun,R4,N
+1481,गुरुद्वारा,구루드와라,시크교 사원,gurdwara,noun,R4,Y
+1482,चर्च,차르치,교회,church,noun,R4,Y
+1483,मंगनी,망니,약혼,engagement,noun,R4,N
+1484,नाती,나티,외손자,grandson,noun,R4,Y
+1485,मुनीम,무님,회계원,accountant,noun,R4,N
+1486,बल्ला,발라,방망이,bat,noun,R4,Y
+1487,ईर्ष्या,이르시야,질투,envy,noun,R4,N
+1488,गिटार,기타르,기타,guitar,noun,R4,Y
+1489,तबला,타블라,타블라(북),tabla,noun,R4,Y
+1490,बाँसुरी,방수리,피리,flute,noun,R4,Y
+1491,लेख,레크,글·기사,article,noun,R4,N
+1492,पत्रिका,파트리카,잡지,magazine,noun,R4,Y
+1493,उच्चारण,웃차란,발음,pronunciation,noun,R4,N
+1494,वाक्य,와키야,문장,sentence,noun,R4,N
+1495,व्याकरण,뱌카란,문법,grammar,noun,R4,N
+1496,पहाड़ा,파하라,구구단,times table,noun,R4,N
+1497,घटाना,가타나,빼다·줄이다,subtract,verb,R4,N
+1498,ओस,오스,이슬,dew,noun,R4,Y
+1499,कोहरा,코흐라,안개,fog,noun,R4,Y
+1500,इंद्रधनुष,잉드라다누시,무지개,rainbow,noun,R4,Y
