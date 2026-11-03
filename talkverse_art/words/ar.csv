@@ -1,2501 +1,2501 @@
 rank,word,reading,ko,en,pos,level,picturable
-1,يا,야,~야(부름),hey (vocative),part,R1,N
-2,أنا,아나,나,I,pron,R1,N
-3,في,피,~에,in,prep,R1,N
-4,مش,마쉬,아니다(부정),not,part,R1,N
-5,إيه,에,무엇,what,pron,R1,N
-6,ده,다,이것(남),this,pron,R1,N
-7,من,민,~부터,from,prep,R1,N
-8,انت,인타,너(남),you,pron,R1,N
-9,اللي,일리,~하는(관계사),which,pron,R1,N
-10,على,알라,~위에,on,prep,R1,N
-11,ما,마,~않다(부정),not,part,R1,N
-12,بس,바스,"그냥, 하지만",only,adv,R1,N
-13,دي,디,이것(여),this,pron,R1,N
-14,لا,라,아니,no,interj,R1,N
-15,و,위,그리고,and,conj,R1,N
-16,كده,키다,이렇게,like this,adv,R1,N
-17,حاجة,하가,"것, 물건",thing,noun,R1,N
-18,إن,인,~라는 것,that,conj,R1,N
-19,هو,후와,그,he,pron,R1,N
-20,كل,쿨,모든,every,det,R1,N
-21,هنا,히나,여기,here,adv,R1,N
-22,احنا,이흐나,우리,we,pron,R1,N
-23,لو,라우,만약,if,conj,R1,N
-24,عشان,아샨,"~때문에, ~위해",because,conj,R1,N
-25,انتي,인티,너(여),you (f),pron,R1,N
-26,كان,칸,~였다,was,verb,R1,N
-27,ممكن,뭄킨,"가능한, 아마",maybe,adj,R1,N
-28,لازم,라짐,~해야 한다,must,part,R1,N
-29,كنت,쿤트,나는 ~였다,I was,verb,R1,N
-30,زي,자이,~처럼,like,prep,R1,N
-31,ولا,왈라,"또는, ~도 아니다",or,conj,R1,N
-32,موسيقى,무시아,음악,music,noun,R1,Y
-33,بقى,바아,~이 되다,to become,verb,R1,N
-34,أي,아이,어떤,any,det,R1,N
-35,مع,마아,~와 함께,with,prep,R1,N
-36,ليه,레,왜,why,adv,R1,N
-37,يلا,얄라,"자, 가자",let's go,interj,R1,N
-38,صوت,소트,소리,sound,noun,R1,N
-39,فيه,피,있다; 그 안에,there is,prep,R1,N
-40,يعني,야니,"즉, 그러니까",I mean,part,R1,N
-41,إنك,인낙,네가 ~라는 것,that you,conj,R1,N
-42,آه,아,"응, 아",yes,interj,R1,N
-43,عارف,아리프,알고 있는,to know,adj,R1,N
-44,عايز,아이즈,원하는,to want,adj,R1,N
-45,الله,알라,하나님,God,noun,R1,N
-46,دلوقتي,딜와티,지금,now,adv,R1,N
-47,مين,민,누구,who,pron,R1,N
-48,هي,히야,그녀,she,pron,R1,N
-49,إني,인니,내가 ~라는 것,that I,conj,R1,N
-50,تاني,타니,"다시, 두 번째",again,adv,R1,N
-51,دا,다,이것(남),this,pron,R1,N
-52,عن,안,~에 대해,about,prep,R1,N
-53,حد,핫드,누군가,someone,pron,R1,N
-54,أيوة,아이와,"응, 네",yes,interj,R1,N
-55,كدة,키다,이렇게,like this,adv,R1,N
-56,لما,람마,~할 때,when,conj,R1,N
-57,فين,펜,어디,where,adv,R1,N
-58,كمان,카만,"또, 역시",also,adv,R1,N
-59,ماشي,마쉬,좋아,okay,interj,R1,N
-60,واحد,와히드,"하나, 한 사람",one,num,R1,N
-61,إنه,인누,그가 ~라는 것,that he,conj,R1,N
-62,أوي,아위,매우,very,adv,R1,N
-63,إزاي,이자이,어떻게,how,adv,R1,N
-64,وأنا,위아나,그리고 나,and I,pron,R1,N
-65,كويس,쿠와이스,좋은,good,adj,R1,N
-66,طب,탑,그럼,well then,part,R1,N
-67,أيوه,아이와,"응, 네",yes,interj,R1,N
-68,كانت,카낫,그녀는 ~였다,she was,verb,R1,N
-69,طيب,타이엡,좋아,okay,interj,R1,N
-70,خلاص,칼라스,"끝, 됐어",enough,interj,R1,N
-71,علشان,알라샨,~때문에,because,conj,R1,N
-72,جدا,깃단,매우,very,adv,R1,N
-73,غير,게르,~외에,except,prep,R1,N
-74,رفعت,리프아트,리프아트(이름),Refaat,name,R1,N
-75,بعد,바아드,~후에,after,prep,R1,N
-76,الناس,인나스,사람들,people,noun,R1,Y
-77,شوية,슈와이야,조금,a little,adv,R1,N
-78,قبل,아블,~전에,before,prep,R1,N
-79,حاجه,하가,것,thing,noun,R1,N
-80,صح,사흐,맞다,right,adj,R1,N
-81,الموضوع,일마우두,"주제, 문제",topic,noun,R1,N
-82,لكن,라킨,하지만,but,conj,R1,N
-83,لسه,릿사,아직,still,adv,R1,N
-84,شكرا,슈크란,고마워,thank you,interj,R1,N
-85,مفيش,마피쉬,없다,there isn't,part,R1,N
-86,الي,일리,~하는(관계사),which,pron,R1,N
-87,عندي,안디,나에게 있다,I have,prep,R1,N
-88,بجد,비갓드,정말로,seriously,adv,R1,N
-89,أو,아우,또는,or,conj,R1,N
-90,استنى,이스탄나,기다려,to wait,verb,R1,N
-91,تمام,타맘,"좋아, 완벽",okay,interj,R1,N
-92,معايا,마아야,나와 함께,with me,prep,R1,N
-93,أكيد,아키드,물론,sure,adv,R1,N
-94,كتير,키티르,많이,a lot,adv,R1,N
-95,دول,돌,이것들,these,pron,R1,N
-96,يبقى,이브아,~이 되다,to become,verb,R1,N
-97,عليه,알레,그에게,on him,prep,R1,N
-98,واحدة,와흐다,하나(여),one (f),num,R1,N
-99,عارفة,아르파,알고 있는(여),to know,adj,R1,N
-100,يوم,욤,"날, 하루",day,noun,R1,N
-101,عندك,안닥,너에게 있다,you have,prep,R1,N
-102,بعض,바아드,서로,each other,pron,R1,N
-103,ال,일,정관사,the,det,R1,N
-104,فيها,피하,그 안에(여),in it,prep,R1,N
-105,دة,다,이것,this,pron,R1,N
-106,مرة,마르라,한 번,once,noun,R1,N
-107,هناك,히낙,저기,there,adv,R1,N
-108,وانت,위인타,그리고 너,and you,pron,R1,N
-109,عايزة,아이자,원하는(여),to want,adj,R1,N
-110,لي,리,나에게,to me,prep,R1,N
-111,عليا,알라야,나에게,on me,prep,R1,N
-112,البيت,일베트,집,house,noun,R1,Y
-113,أكتر,악타르,더,more,adv,R1,N
-114,تعالي,타알리,이리 와(여),to come,verb,R1,Y
-115,بص,부스,봐,to look,verb,R1,Y
-116,طول,툴,"길이, 내내",length,noun,R1,N
-117,حتى,합타,~조차,even,adv,R1,N
-118,فعلا,피알란,정말로,really,adv,R1,N
-119,طبعا,타반,물론,of course,adv,R1,N
-120,كله,쿨루,전부,all,pron,R1,N
-121,دكتور,둑투르,의사,doctor,noun,R1,Y
-122,أول,아우왈,첫째,first,adj,R1,N
-123,أهلا,아흘란,"안녕, 어서와",hello,interj,R1,N
-124,حصل,하살,일어났다,to happen,verb,R1,N
-125,أحسن,아흐산,더 나은,better,adj,R1,N
-126,لك,락,너에게,to you,prep,R1,N
-127,عليك,알렉,너에게,on you,prep,R1,N
-128,وقت,와트,시간,time,noun,R1,N
-129,أعمل,아아밀,내가 하다,to do,verb,R1,N
-130,انتوا,인투,너희,you (pl),pron,R1,N
-131,عم,암,"삼촌, 아저씨",uncle,noun,R1,Y
-132,نفسك,나프삭,너 자신,yourself,pron,R1,N
-133,لحد,리핫드,~까지,until,prep,R1,N
-134,معاك,마악,너와 함께,with you,prep,R1,N
-135,ماما,마마,엄마,mom,noun,R1,Y
-136,أوه,오,오!,oh,interj,R1,N
-137,والله,왈라히,정말로(맹세),I swear,interj,R1,N
-138,روح,루흐,가라; 영혼,go,verb,R1,N
-139,خالص,칼리스,전혀,at all,adv,R1,N
-140,يكون,이쿤,~이다,to be,verb,R1,N
-141,إنها,인나하,그녀가 ~라는 것,that she,conj,R1,N
-142,حبيبتي,하비브티,내 사랑(여),my love,noun,R1,N
-143,الوقت,일와트,시간,time,noun,R1,N
-144,قوي,아위,매우; 강한,very,adv,R1,N
-145,راجل,라길,남자,man,noun,R1,Y
-146,ابن,이븐,아들,son,noun,R1,Y
-147,حبيبي,하비비,내 사랑,my love,noun,R1,N
-148,ل,리,~에게,to,prep,R1,N
-149,آسف,아시프,미안해,sorry,adj,R1,N
-150,تحت,타흐트,아래,under,prep,R1,N
-151,النهاردة,인나하르다,오늘,today,adv,R1,N
-152,الكلام,잇칼람,말,talk,noun,R1,N
-153,إننا,인나나,우리가 ~라는 것,that we,conj,R1,N
-154,نفسي,납시,나 자신; 내 소원,myself,pron,R1,N
-155,أهو,아후,여기 있다,here it is,interj,R1,N
-156,مني,민니,나로부터,from me,prep,R1,N
-157,يمكن,임킨,아마,maybe,adv,R1,N
-158,بالإنكليزية,빌잉길리지야,영어로,in English,adv,R1,N
-159,ربنا,랍바나,하나님,God,noun,R1,N
-160,عاوز,아위즈,원하는,to want,adj,R1,N
-161,منك,민낙,너로부터,from you,prep,R1,N
-162,هما,홈마,그들,they,pron,R1,N
-163,كدا,키다,이렇게,like this,adv,R1,N
-164,وبعدين,위바데인,그리고 나서,and then,adv,R1,N
-165,حلو,힐루,"예쁜, 좋은",nice,adj,R1,N
-166,بينا,비나,우리 사이; 가자,between us,prep,R1,N
-167,دلوقت,딜와트,지금,now,adv,R1,N
-168,كلها,쿨라하,전부(여),all of it,pron,R1,N
-169,الراجل,이르라길,그 남자,man,noun,R1,Y
-170,دايما,다이만,항상,always,adv,R1,N
-171,خالد,칼리드,칼리드(이름),Khaled,name,R1,N
-172,بيه,베,~님(경칭),sir,noun,R1,N
-173,تعرف,티아라프,너는 안다,to know,verb,R1,N
-174,فاكر,파키르,기억하는,to remember,adj,R1,N
-175,الباب,일밥,문,door,noun,R1,Y
-176,عليها,알레하,그녀에게,on her,prep,R1,N
-177,الأول,일아우왈,"처음, 먼저",first,adv,R1,N
-178,الدنيا,잇돈야,세상,world,noun,R1,N
-179,إلا,일라,~외에는,except,part,R1,N
-180,باشا,바샤,나리(경칭),sir,noun,R1,N
-181,ف,파,그래서,so,conj,R1,N
-182,تبقى,티브아,~이 되다,to become,verb,R1,N
-183,أعرف,아아라프,내가 안다,to know,verb,R1,N
-184,مكان,마칸,장소,place,noun,R1,N
-185,فوق,포,위에,above,prep,R1,N
-186,بابا,바바,아빠,dad,noun,R1,Y
-187,سنة,사나,"해, 년",year,noun,R1,N
-188,ها,하,"응?, 자",huh,interj,R1,N
-189,تكون,티쿤,~이다,to be,verb,R1,N
-190,ب,비,~로,with,prep,R1,N
-191,حلوة,헬와,예쁜(여),pretty,adj,R1,N
-192,ترقب,타랏쿱,"긴장, 기대",suspense,noun,R1,N
-193,آخر,아키르,마지막,last,adj,R1,N
-194,المفروض,일마프루드,원래 ~해야,supposed to,adv,R1,N
-195,شايف,샤이프,보고 있는,to see,adj,R1,N
-196,بنت,빈트,"소녀, 딸",girl,noun,R1,Y
-197,خط,캇트,"선, 줄",line,noun,R1,Y
-198,محدش,마핫디쉬,아무도 아니다,nobody,pron,R1,N
-199,عملت,아밀트,내가 했다,did,verb,R1,N
-200,رأيك,라이약,네 의견,your opinion,noun,R1,N
-201,معاه,마아,그와 함께,with him,prep,R1,N
-202,حاضر,하디르,"네, 알겠습니다","yes, sure",interj,R1,N
-203,خد,쿠드,가져가,to take,verb,R1,Y
-204,جاي,가이,오는,coming,adj,R1,N
-205,لسة,릿사,아직,still,adv,R1,N
-206,بالك,발락,네 마음(조심),your mind,noun,R1,N
-207,عنده,안두,그에게 있다,he has,prep,R1,N
-208,أقدر,아아다르,내가 할 수 있다,can,verb,R1,N
-209,نفس,나프스,같은; 자신,same,det,R1,N
-210,فشخ,파쉬크,엄청(속어),very (slang),adv,R1,N
-211,قلت,울트,내가 말했다,said,verb,R1,N
-212,أستاذ,우스타즈,선생님,teacher,noun,R1,Y
-213,ساعة,사아,시계; 시간,clock,noun,R1,Y
-214,بقولك,바울락,내가 말하는데,I'm telling you,verb,R1,N
-215,أمي,옴미,우리 엄마,my mother,noun,R1,Y
-216,كبير,키비르,큰,big,adj,R1,Y
-217,تانية,타니야,두 번째(여); 초,second,adj,R1,N
-218,بسرعة,비소르아,빨리,quickly,adv,R1,N
-219,فاهم,파힘,이해하는,to understand,adj,R1,N
-220,بصي,부시,봐(여),to look,verb,R1,Y
-221,فندم,판담,네?(정중),pardon,interj,R1,N
-222,ست,싯트,"여자, 부인",lady,noun,R1,Y
-223,فكرة,피크라,생각,idea,noun,R1,N
-224,منه,민누,그로부터,from him,prep,R1,N
-225,حسنا,하사난,좋아,okay,interj,R1,N
-226,هذا,하자,이것(문어),this,pron,R1,N
-227,هاي,하이,안녕,hi,interj,R1,N
-228,أم,옴,어머니,mother,noun,R1,Y
-229,عندنا,안디나,우리에게 있다,we have,prep,R1,N
-230,ناس,나스,사람들,people,noun,R1,Y
-231,أكبر,아크바르,더 큰,bigger,adj,R1,N
-232,امشي,임쉬,"가라, 걸어",to walk,verb,R1,Y
-233,كنا,쿤나,우리는 ~였다,we were,verb,R1,N
-234,المكان,일마칸,그 장소,place,noun,R1,N
-235,حضرتك,하드리탁,당신(존칭),you (polite),pron,R1,N
-236,قد,아드,~만큼,as much as,prep,R1,N
-237,خلي,칼리,~하게 해,to let,verb,R1,N
-238,عايزين,아이진,원하는(복),to want,adj,R1,N
-239,انتا,인타,너(남),you,pron,R1,N
-240,كفاية,키파야,충분해,enough,adv,R1,N
-241,وهو,위후와,그리고 그,and he,pron,R1,N
-242,بتاع,비타아,~의(소유),belonging to,prep,R1,N
-243,معانا,마아나,우리와 함께,with us,prep,R1,N
-244,بتاعي,비타이,내 것,mine,pron,R1,N
-245,هادئة,하디아,조용한,calm,adj,R1,N
-246,حياتي,하야티,내 삶; 자기야,my life,noun,R1,N
-247,احا,아하,이런(비속어),damn,interj,R1,N
-248,إزيك,이직,잘 지내?,how are you,interj,R1,N
-249,ديه,디,이것(여),this,pron,R1,N
-250,بيها,비하,그것으로(여),with it,prep,R1,N
-251,بت,빗트,여자애,girl,noun,R1,Y
-252,سلام,살람,안녕; 평화,goodbye,interj,R1,N
-253,عليكي,알레키,너에게(여),on you,prep,R1,N
-254,برضه,바르두,"역시, 그래도",also,adv,R1,N
-255,معلش,마알레쉬,"괜찮아, 미안",never mind,interj,R1,N
-256,له,루,그에게,to him,prep,R1,N
-257,قادر,아디르,할 수 있는,able,adj,R1,N
-258,ع,아,~위에,on,prep,R1,N
-259,أبو,아부,아버지(~의),father,noun,R1,Y
-260,ومش,위미쉬,그리고 아니다,and not,part,R1,N
-261,ليك,릭,너에게,to you,prep,R1,N
-262,بالظبط,빗자브트,정확히,exactly,adv,R1,N
-263,اسمع,이스마아,들어,to listen,verb,R1,Y
-264,قال,알,말했다,said,verb,R1,N
-265,علينا,알레나,우리에게,on us,prep,R1,N
-266,بحب,바합브,나는 좋아한다,to love,verb,R1,N
-267,طلعت,탈라아트,"나갔다, 올라갔다",went up,verb,R1,N
-268,والا,왈라,아니면,or else,conj,R1,N
-269,أبدا,압단,절대,never,adv,R1,N
-270,عمري,오므리,내 평생,ever,adv,R1,N
-271,سيد,사예드,"주인, 씨",mister,noun,R1,N
-272,حسن,하산,하산(이름),Hassan,name,R1,N
-273,كلام,칼람,말,talk,noun,R1,N
-274,عارفه,아르파,알고 있는(여),to know,adj,R1,N
-275,أمك,옴막,네 엄마,your mother,noun,R1,Y
-276,مافيش,마피쉬,없다,there isn't,part,R1,N
-277,دولار,돌라르,달러,dollar,noun,R1,Y
-278,عبده,압두,압두(이름),Abdo,name,R1,N
-279,حزينة,하지나,슬픈(여),sad,adj,R1,Y
-280,أقول,아울,내가 말하다,to say,verb,R1,N
-281,معاكي,마아키,너와 함께(여),with you,prep,R1,N
-282,كويسة,쿠와이사,좋은(여),good,adj,R1,N
-283,اسمه,이스무,그의 이름,his name,noun,R1,N
-284,بتقول,비타울,너는 말한다,saying,verb,R1,N
-285,كلنا,쿨리나,우리 모두,all of us,pron,R1,N
-286,بين,벤,~사이에,between,prep,R1,N
-287,مشكلة,무쉬킬라,문제,problem,noun,R1,N
-288,فلوس,풀루스,돈,money,noun,R1,Y
-289,بيحصل,비요흐솔,일어나고 있다,happening,verb,R1,N
-290,هل,할,~인가?(의문),whether,part,R1,N
-291,رضا,레다,레다(이름),Reda,name,R1,N
-292,حاجات,하가트,것들,things,noun,R1,N
-293,أعتقد,아아타키드,내 생각에,I think,verb,R1,N
-294,الشغل,잇쇼골,일,work,noun,R1,N
-295,هم,홈,그들,they,pron,R1,N
-296,أما,암마,~로 말하면,as for,conj,R1,N
-297,انهم,인나홈,그들이 ~라는 것,that they,conj,R1,N
-298,لله,릴라,하나님께,for God,noun,R1,N
-299,كام,캄,몇,how many,adv,R1,N
-300,بتعمل,비티아밀,너는 하고 있다,doing,verb,R1,N
-301,جوى,구와,안에,inside,adv,R1,N
-302,عند,안드,~에게(있다),at,prep,R1,N
-303,تقدر,티아다르,너는 할 수 있다,can,verb,R1,N
-304,بيت,베트,집,house,noun,R1,Y
-305,كانوا,카누,그들은 ~였다,they were,verb,R1,N
-306,تعمل,티아밀,하다,to do,verb,R1,N
-307,وده,위다,그리고 이것,and this,pron,R1,N
-308,ليا,리야,나에게,to me,prep,R1,N
-309,بحبك,바합박,사랑해,I love you,verb,R1,N
-310,بعدين,바데인,나중에,later,adv,R1,N
-311,قصدي,아스디,내 말은,I mean,noun,R1,N
-312,مجرد,무가르라드,단지,just,adj,R1,N
-313,عايزه,아이자,원하는(여),to want,adj,R1,N
-314,أبقى,아브아,내가 ~이 되다,to become,verb,R1,N
-315,حتة,힛타,조각; 곳,piece,noun,R1,N
-316,العالم,일알람,세계,world,noun,R1,Y
-317,الحقيقة,일하이아,"사실, 진실",truth,noun,R1,N
-318,اسمها,이스마하,그녀의 이름,her name,noun,R1,N
-319,شغل,쇼골,일,work,noun,R1,N
-320,ابني,이브니,내 아들,my son,noun,R1,Y
-321,سنين,시닌,여러 해,years,noun,R1,N
-322,اليوم,일욤,오늘; 그날,today,noun,R1,N
-323,الخير,일케르,좋은 것,good,noun,R1,N
-324,منها,민하,그녀로부터,from her,prep,R1,N
-325,باي,바이,안녕(작별),bye,interj,R1,N
-326,صاحبي,사흐비,내 친구,my friend,noun,R1,Y
-327,تيجي,티기,오다,to come,verb,R1,N
-328,كنتي,쿤티,너(여)는 ~였다,you were,verb,R1,N
-329,اتنين,이트넨,둘,two,num,R1,N
-330,عارفين,아르핀,알고 있는(복),to know,adj,R1,N
-331,زاهية,자혜야,자헤야(이름),Zahia,name,R1,N
-332,خير,케르,좋은 일; 무슨 일?,good,noun,R1,N
-333,موجود,마우구드,있는,present,adj,R1,N
-334,عامل,아밀,지내는; 노동자,doing,adj,R1,N
-335,وأنتي,위인티,그리고 너(여),and you,pron,R1,N
-336,أكون,아쿤,내가 ~이다,to be,verb,R1,N
-337,اتفضل,잇파드달,"여기요, 드세요",please,interj,R1,N
-338,يحيى,야흐야,야흐야(이름),Yahya,name,R1,N
-339,نعم,나암,네,yes,interj,R1,N
-340,إيدك,이닥,네 손,your hand,noun,R1,Y
-341,خلينا,칼리나,우리 ~하자,let us,verb,R1,N
-342,أشوف,아슈프,내가 보다,to see,verb,R1,N
-343,بتاعك,비타아크,네 것,yours,pron,R1,N
-344,هيبقى,하이브아,~이 될 것이다,will be,verb,R1,N
-345,حق,하으,권리; 맞음,right,noun,R1,N
-346,اوعى,오아,조심해,watch out,interj,R1,N
-347,الليلة,일렐라,오늘 밤,tonight,adv,R1,N
-348,نروح,니루흐,우리가 가다,to go,verb,R1,N
-349,البلد,일발라드,"나라, 고향",country,noun,R1,N
-350,إمتى,임타,언제,when,adv,R1,N
-351,ورا,와라,뒤에,behind,prep,R1,N
-352,قولي,울리,말해줘,tell me,verb,R1,N
-353,مصطفى,모스타파,무스타파(이름),Mostafa,name,R1,N
-354,ألف,알프,천(1000),thousand,num,R1,N
-355,أقولك,아울락,너에게 말하다,to tell you,verb,R1,N
-356,زمان,자만,옛날,long ago,adv,R1,N
-357,شويه,슈와이야,조금,a little,adv,R1,N
-358,أتكلم,아트칼림,내가 말하다,to speak,verb,R1,Y
-359,تشويقية,타쉬위이야,긴장감 있는,suspenseful,adj,R1,N
-360,خليل,칼릴,칼릴(이름),Khalil,name,R1,N
-361,رئيفة,라이파,라이파(이름),Raifa,name,R1,N
-362,جميل,가밀,아름다운,beautiful,adj,R1,N
-363,متأكد,미트아칫드,확신하는,sure,adj,R1,N
-364,عايزك,아이자크,너를 원하다,want you,adj,R1,N
-365,حاسس,하시스,느끼는,feeling,adj,R1,N
-366,بنتي,빈티,내 딸,my daughter,noun,R1,Y
-367,واحنا,위이흐나,그리고 우리,and we,pron,R1,N
-368,الواد,일와드,"그 녀석, 소년",boy,noun,R1,Y
-369,شيء,셰,것,thing,noun,R1,N
-370,كلهم,쿨루홈,그들 모두,all of them,pron,R1,N
-371,ولو,왈라우,비록 ~라도,even if,conj,R1,N
-372,عرفت,이리프트,알았다,knew,verb,R1,N
-373,أروح,아루흐,내가 가다,to go,verb,R1,N
-374,الحاجات,일하가트,것들,things,noun,R1,N
-375,الفلوس,일풀루스,돈,money,noun,R1,Y
-376,البنات,일바낫,소녀들,girls,noun,R1,Y
-377,معرفش,마아라프쉬,몰라,I don't know,verb,R1,N
-378,جامد,가미드,대단한; 단단한,awesome,adj,R1,N
-379,الاتنين,일이트넨,둘 다; 월요일,both,pron,R1,N
-380,كبيرة,키비라,큰(여),big,adj,R1,Y
-381,صحيح,사히흐,"맞는, 정말",true,adj,R1,N
-382,العربية,일아라비야,자동차; 아랍어,car,noun,R1,Y
-383,غلط,갈라트,틀린,wrong,adj,R1,N
-384,سمحت,사마흐트,허락하다(실례합니다),excuse me,verb,R1,N
-385,محتاج,미흐타그,필요한,to need,adj,R1,N
-386,مصر,마스르,이집트,Egypt,name,R1,N
-387,لأن,리안,왜냐하면,because,conj,R1,N
-388,هتبقى,하티브아,~이 될 것이다,will be,verb,R1,N
-389,الطريق,잇타리,길,road,noun,R1,Y
-390,لوي,루아이,루아이(이름),Louay,name,R1,N
-391,انتم,인툼,너희,you (pl),pron,R1,N
-392,أيوا,아이와,네,yes,interj,R1,N
-393,البنت,일빈트,그 소녀,girl,noun,R1,Y
-394,درامية,드라미야,극적인,dramatic,adj,R1,N
-395,محمد,마하맛,무함마드(이름),Mohamed,name,R1,N
-396,جديد,기디드,새로운,new,adj,R1,N
-397,شاء,샤,원하다(뜻하다),to will,verb,R1,N
-398,الموت,일모트,죽음,death,noun,R1,N
-399,عبد,압드,종; 압드(이름),servant,noun,R1,N
-400,إذا,이자,만약,if,conj,R1,N
-401,صباح,사바흐,아침,morning,noun,R1,Y
-402,الآخر,일아카르,다른 하나,the other,adj,R1,N
-403,رب,랍브,주(하나님),lord,noun,R1,N
-404,يالا,얄라,"자, 가자",let's go,interj,R1,N
-405,حقيقي,하이이,진짜의,real,adj,R1,N
-406,أصلا,아슬란,"원래, 애초에",originally,adv,R1,N
-407,الصباح,잇사바흐,아침,morning,noun,R1,Y
-408,شكلك,샤클락,네 모습,your look,noun,R1,N
-409,آسفة,아스파,미안해(여),sorry,adj,R1,N
-410,شكله,샤클루,그의 모습,his look,noun,R1,N
-411,بعيد,비이드,먼,far,adj,R1,N
-412,أظن,아준,내 생각에,I think,verb,R1,N
-413,بره,바르라,밖에,outside,adv,R1,N
-414,الأرض,일아르드,"땅, 지구",earth,noun,R1,Y
-415,ارجع,이르가아,돌아와,to return,verb,R1,N
-416,صغير,수가이야르,작은,small,adj,R1,Y
-417,سمعت,시미트,들었다,heard,verb,R1,N
-418,امبارح,임바리흐,어제,yesterday,adv,R1,N
-419,ليلة,렐라,밤,night,noun,R1,Y
-420,ا,아,(깨진 토큰),broken,other,R1,N
-421,مهم,무힘,중요한,important,adj,R1,N
-422,آخد,아쿠드,(내가) 가지다,to take,verb,R1,Y
-423,معاها,마아하,그녀와 함께,with her,prep,R1,N
-424,جينا,기나,우리가 왔다,we came,verb,R1,N
-425,اسمي,이스미,내 이름,my name,noun,R1,N
-426,أخويا,아쿠야,내 형제,my brother,noun,R1,Y
-427,الصبح,잇쇼브흐,아침,morning,noun,R1,Y
-428,بالنسبة,빈니스바,~에 관해서,regarding,prep,R1,N
-429,الكلب,일칼브,개,dog,noun,R1,Y
-430,الحمد,일함드,찬양(감사),praise,noun,R1,N
-431,بكرة,부크라,내일,tomorrow,adv,R1,N
-432,اسم,이씸,이름,name,noun,R1,N
-433,مكنتش,마쿤티쉬,(나는) ~아니었다,I wasn't,verb,R1,N
-434,واضح,와디흐,분명한,clear,adj,R1,N
-435,منين,미닌,어디에서,from where,adv,R1,N
-436,ولاد,윌라드,아이들(소년들),boys,noun,R1,Y
-437,خايف,카이프,무서워하는,afraid,adj,R1,Y
-438,هات,하트,줘,give me,verb,R1,Y
-439,عمل,아말,했다(하다),to do,verb,R1,N
-440,موضوع,마우두아,주제(일),topic,noun,R1,N
-441,المرة,일마라,이번(회),time (occasion),noun,R1,N
-442,بكره,부크라,내일,tomorrow,adv,R1,N
-443,رجل,라굴,남자,man,noun,R1,Y
-444,أغنية,우그네야,노래,song,noun,R1,Y
-445,لنفسه,린납수,자기 자신에게,to himself,pron,R1,N
-446,مدام,마담,부인,madam,noun,R1,N
-447,جيت,기트,내가 왔다,I came,verb,R1,N
-448,نفسه,납수,그 자신,himself,pron,R1,N
-449,سعيد,사이드,행복한,happy,adj,R1,Y
-450,خليني,칼리니,나를 ~하게 해줘,let me,verb,R1,N
-451,بطل,바탈,영웅,hero,noun,R1,Y
-452,والنبي,완나비,제발(부탁),please,interj,R1,N
-453,اقعد,우우드,앉아,to sit,verb,R1,Y
-454,جديدة,기디다,새로운(여),new,adj,R1,N
-455,تقول,티울,말하다,to say,verb,R1,N
-456,بيقول,비울,말하고 있다,says,verb,R1,N
-457,نعمل,니아말,우리가 하다,we do,verb,R1,N
-458,وهي,위헤야,그리고 그녀,and she,pron,R1,N
-459,كسم,쿠삼,욕설(비속어),swear word,interj,R1,N
-460,يضحك,이드하크,웃다,to laugh,verb,R1,Y
-461,فرانك,프랑크,프랭크(이름),Frank,name,R1,N
-462,لون,론,색깔,color,noun,R1,Y
-463,بنات,바나트,소녀들,girls,noun,R1,Y
-464,خليك,칼리크,그대로 있어,stay,verb,R1,N
-465,هيكون,하이쿤,~일 것이다,will be,verb,R1,N
-466,ياض,야드,야 녀석아,hey boy,interj,R1,N
-467,أبويا,아부야,우리 아빠,my father,noun,R1,Y
-468,ياللا,얄라,"자, 가자",come on,interj,R1,N
-469,بلاش,발라쉬,하지 마,don't,part,R1,N
-470,غبي,가비,바보 같은,stupid,adj,R1,N
-471,أرجوك,아르구크,부탁해,please,interj,R1,N
-472,شباب,샤바브,젊은이들,young people,noun,R1,Y
-473,قتل,아탈,죽이다,to kill,verb,R1,N
-474,نيك,니크,비속어,swear word,other,R1,N
-475,بي,비,나를(나로),with me,prep,R1,N
-476,فيا,피야,내 안에,in me,prep,R1,N
-477,قوم,움,일어나,to get up,verb,R1,Y
-478,بتاعتي,비타아티,내 것(여),mine,pron,R1,N
-479,واحده,와흐다,하나(여),one,num,R1,N
-480,منهم,민훔,그들 중,of them,prep,R1,N
-481,أوكي,오케이,오케이,okay,interj,R1,N
-482,شوف,슈프,봐,to look,verb,R1,Y
-483,أهي,아헤,여기 있다(여),here she is,part,R1,N
-484,صغيرة,수가야라,작은(여),small,adj,R1,Y
-485,أخيرا,아키란,마침내,finally,adv,R1,N
-486,واللي,윌리,그리고 ~한 것,and which,pron,R1,N
-487,عادي,아디,보통의,normal,adj,R1,N
-488,جه,가,그가 왔다,he came,verb,R1,N
-489,الساعة,잇사아,시계(시간),clock,noun,R1,Y
-490,رايح,라예흐,가는 중,going,verb,R1,N
-491,الحب,일후브,사랑,love,noun,R1,N
-492,خطر,카타르,위험,danger,noun,R1,N
-493,التاني,잇타니,다른(두 번째),other,adj,R1,N
-494,أصل,아슬,왜냐하면,because,conj,R1,N
-495,يوسف,유수프,유수프(이름),Youssef,name,R1,N
-496,شفت,쉬프트,봤다,saw,verb,R1,N
-497,ميت,마예트,죽은,dead,adj,R1,N
-498,عمرك,오므락,네 나이(평생),your age,noun,R1,N
-499,بقول,바울,내가 말한다,I say,verb,R1,N
-500,ثريا,소라야,소라야(이름),Soraya,name,R1,N
-501,انتو,인투,너희,you (plural),pron,R1,N
-502,نص,누스,반,half,noun,R1,Y
-503,عظيم,아짐,대단한,great,adj,R1,N
-504,زيك,자예크,너처럼,like you,prep,R1,N
-505,لحظة,라흐자,잠깐,moment,noun,R1,N
-506,العظيم,일아짐,위대한,the great,adj,R1,N
-507,الكتاب,일키타브,책,book,noun,R1,Y
-508,رجالة,리갈라,남자들,men,noun,R1,Y
-509,وكل,위쿨,그리고 모든,and every,det,R1,N
-510,مالك,말락,무슨 일이야,what's wrong,interj,R1,N
-511,يقدر,이아다르,할 수 있다,can,verb,R1,N
-512,النهارده,인나하르다,오늘,today,adv,R1,N
-513,اديني,이디니,나에게 줘,give me,verb,R1,Y
-514,قول,울,말해,to say,verb,R1,N
-515,جماعة,가마아,여러분(무리),group,noun,R1,N
-516,مينفعش,마인파아쉬,안 된다,not allowed,verb,R1,N
-517,قدام,우담,앞에,in front,prep,R1,N
-518,معاهم,마아훔,그들과 함께,with them,prep,R1,N
-519,جوردن,조르단,조던(이름),Jordan,name,R1,N
-520,كارو,카로,카로(이름),Caro,name,R1,N
-521,راح,라흐,갔다,went,verb,R1,N
-522,هوا,후와,그(는),he,pron,R1,N
-523,فريق,파리,팀,team,noun,R1,Y
-524,أخبار,아크바르,소식,news,noun,R1,N
-525,عني,안니,나에 대해,about me,prep,R1,N
-526,حياتك,하야탁,네 인생,your life,noun,R1,N
-527,النار,인나르,불,fire,noun,R1,Y
-528,بيك,비크,너와(너로),with you,prep,R1,N
-529,أفضل,아프달,더 좋은,better,adj,R1,N
-530,وإيه,위에,그리고 뭐,and what,pron,R1,N
-531,قولت,울트,말했다,said,verb,R1,N
-532,كلب,칼브,개,dog,noun,R1,Y
-533,قلتلك,울틸락,너에게 말했다,I told you,verb,R1,N
-534,عليكم,알레쿰,너희에게,on you,prep,R1,N
-535,ألو,알로,여보세요,hello (phone),interj,R1,N
-536,نشوف,니슈프,우리가 보다,let's see,verb,R1,N
-537,سيدي,시디,나리,sir,noun,R1,N
-538,فهمت,피힘트,이해했다,understood,verb,R1,N
-539,الوحيد,일와히드,유일한,only,adj,R1,N
-540,المهم,일무힘,중요한 건,the main thing,adj,R1,N
-541,أسود,이스위드,검은,black,adj,R1,Y
-542,التليفون,잇틸리폰,전화,telephone,noun,R1,Y
-543,وفي,위피,그리고 ~에,and in,prep,R1,N
-544,فضلك,파들락,부디(제발),please,interj,R1,N
-545,خدي,쿠디,가져(여),take,verb,R1,Y
-546,نقدر,니아다르,우리가 할 수 있다,we can,verb,R1,N
-547,اسمك,이스막,네 이름,your name,noun,R1,N
-548,قريب,우라이브,가까운,near,adj,R1,N
-549,بالله,빌라,제발(신께),by God,interj,R1,N
-550,تعال,타알라,이리 와,come,verb,R1,Y
-551,أمين,아민,아민(이름),Amin,name,R1,N
-552,الست,잇싯트,여자(부인),woman,noun,R1,Y
-553,عندها,안다하,그녀는 가지고 있다,she has,prep,R1,N
-554,تقريبا,타으리반,대략,almost,adv,R1,N
-555,ياما,야마,얼마나 많이,so many,adv,R1,N
-556,شيراز,쉬라즈,쉬라즈(이름),Shiraz,name,R1,N
-557,ابعد,이브아드,떨어져,move away,verb,R1,N
-558,أقصد,아으사드,내 말은,I mean,verb,R1,N
-559,فيك,피크,네 안에,in you,prep,R1,N
-560,تاخد,타쿠드,가지다,to take,verb,R1,Y
-561,روحي,루히,내 영혼(가),my soul,noun,R1,N
-562,فيهم,피훔,그들 안에,in them,prep,R1,N
-563,اهدي,이흐다,진정해,calm down,verb,R1,N
-564,بتتكلم,비티트칼림,말하고 있다,to talk,verb,R1,Y
-565,ثانية,사니야,초(잠깐),second,noun,R1,N
-566,الليل,일렐,밤,night,noun,R1,Y
-567,شوفت,슈프트,봤다,saw,verb,R1,N
-568,الحياة,일하야,삶,life,noun,R1,N
-569,حالا,할란,지금 당장,right now,adv,R1,N
-570,عيني,에니,내 눈,my eye,noun,R1,Y
-571,معناه,마아나,그 뜻,its meaning,noun,R1,N
-572,مات,마트,죽었다,died,verb,R1,N
-573,جايين,가인,오고 있다(복),coming,verb,R1,N
-574,اطلع,이틀라아,올라가(나가),go up,verb,R1,Y
-575,الدكتور,잇독토르,의사,doctor,noun,R1,Y
-576,هويدا,후웨이다,후웨이다(이름),Howaida,name,R1,N
-577,جوه,구와,안에,inside,adv,R1,N
-578,كلمة,킬마,단어,word,noun,R1,N
-579,ماذا,마다,무엇,what,pron,R1,N
-580,مستحيل,무스타힐,불가능한,impossible,adj,R1,N
-581,صعب,사아브,어려운,difficult,adj,R1,N
-582,محتاجة,미흐타가,필요한(여),needing,adj,R1,N
-583,نسيت,니시트,잊었다,forgot,verb,R1,N
-584,يعرف,이아라프,알다,to know,verb,R1,N
-585,ملك,말릭,왕,king,noun,R1,Y
-586,أنيس,아니스,아니스(이름),Anis,name,R1,N
-587,وفيق,와피,와피크(이름),Wafiq,name,R1,N
-588,لها,라하,그녀에게,to her,prep,R1,N
-589,أيام,아얌,날들,days,noun,R1,N
-590,تعرفي,티아르피,알다(여),you know,verb,R1,N
-591,جميلة,가밀라,아름다운,beautiful,adj,R1,Y
-592,وحش,위히쉬,나쁜,bad,adj,R1,N
-593,ربي,랍비,나의 주님,my Lord,noun,R1,N
-594,عمر,오마르,오마르(이름),Omar,name,R1,N
-595,جاية,가야,오고 있다(여),coming,verb,R1,N
-596,بتكلم,바트칼림,말하고 있다,I'm talking,verb,R1,Y
-597,مثلا,마살란,예를 들면,for example,adv,R1,N
-598,ماغي,마기,매기(이름),Maggie,name,R1,N
-599,فيلم,필름,영화,movie,noun,R1,Y
-600,تروح,티루흐,가다,to go,verb,R1,Y
-601,هيا,헤야,그녀,she,pron,R1,N
-602,السلام,잇살람,평화(인사),peace,noun,R1,N
-603,عايش,아예쉬,살아 있는,alive,adj,R1,N
-604,بصراحة,비사라하,솔직히,honestly,adv,R1,N
-605,فايز,파예즈,파예즈(이름),Fayez,name,R1,N
-606,بقت,바아트,~이 되었다(여),became,verb,R1,N
-607,رائع,라에아,멋진,wonderful,adj,R1,N
-608,دقيقة,디이아,분,minute,noun,R1,N
-609,الكل,일쿨,모두,everyone,pron,R1,N
-610,بقيت,비이트,~이 되었다,became,verb,R1,N
-611,ساعات,사아트,시간들(가끔),hours,noun,R1,N
-612,ليكي,리키,너에게(여),for you,prep,R1,N
-613,قصدك,아스닥,네 말은,you mean,noun,R1,N
-614,مقدرش,마아다르쉬,할 수 없다,I can't,verb,R1,N
-615,فريدة,파리다,파리다(이름),Farida,name,R1,N
-616,عيد,에드,명절,holiday,noun,R1,N
-617,إيدي,이디,내 손,my hand,noun,R1,Y
-618,لوحدك,라와흐닥,너 혼자,alone,adv,R1,N
-619,برا,바라,밖에,outside,adv,R1,N
-620,شيخ,셰크,셰이크(어르신),sheikh,noun,R1,Y
-621,أبلة,아블라,언니(여선생님),big sister,noun,R1,N
-622,تيسا,테사,테사(이름),Tessa,name,R1,N
-623,لوحدي,라와흐디,나 혼자,alone,adv,R1,N
-624,سبب,사바브,이유,reason,noun,R1,N
-625,حفلة,하플라,파티,party,noun,R1,Y
-626,أشوفك,아슈팍,너를 보다,see you,verb,R1,N
-627,البوليس,일불리스,경찰,police,noun,R1,Y
-628,بيتي,베티,내 집,my house,noun,R1,Y
-629,واد,와드,소년,boy,noun,R1,Y
-630,أحلى,아흘라,더 예쁜,nicer,adj,R1,N
-631,سؤال,수알,질문,question,noun,R1,N
-632,قلبي,알비,내 마음,my heart,noun,R1,Y
-633,طريق,타리,길,road,noun,R1,Y
-634,فاكرة,팍라,기억하다(여),remember,verb,R1,N
-635,أبوك,아부크,네 아빠,your father,noun,R1,Y
-636,بيا,비야,나에게(나로),with me,prep,R2,N
-637,ينفع,인파아,된다(가능),it works,verb,R2,N
-638,بتاعتك,비타아틱,네 것(여),yours,pron,R2,N
-639,بوبى,보비,보비(이름),Bobby,name,R2,N
-640,لهوي,라흐위,아이고,oh no,interj,R2,N
-641,قرموطي,아르무티,아르무티(이름),Qarmouti,name,R2,N
-642,أحمد,아흐마드,아흐마드(이름),Ahmed,name,R2,N
-643,الصغير,잇수가야르,작은(남),small,adj,R2,Y
-644,شكلها,샤클라하,그녀의 모습,her look,noun,R2,N
-645,نمشي,님쉬,우리가 가다,let's go,verb,R2,Y
-646,العيال,일아얄,아이들,kids,noun,R2,Y
-647,معلم,미알림,사장님(선생),boss,noun,R2,N
-648,ولد,왈라드,소년,boy,noun,R2,Y
-649,لنا,리나,우리에게,to us,prep,R2,N
-650,عنه,안누,그에 대해,about him,prep,R2,N
-651,شركة,쉬르카,회사,company,noun,R2,N
-652,رقم,라암,번호,number,noun,R2,N
-653,هنعمل,하니아말,우리가 할 것이다,we will do,verb,R2,N
-654,دقايق,다아예,분(복수),minutes,noun,R2,N
-655,مره,마라,한 번,once,noun,R2,N
-656,التانية,잇타니야,두 번째(여),second,adj,R2,N
-657,نار,나르,불,fire,noun,R2,Y
-658,صاحب,사헵,친구,friend,noun,R2,Y
-659,المستشفى,일무스타슈파,병원,hospital,noun,R2,Y
-660,مليون,밀욘,백만,million,num,R2,N
-661,أليكس,알렉스,알렉스(이름),Alex,name,R2,N
-662,صراخ,수라크,비명,screaming,noun,R2,Y
-663,اتفضلي,이트파달리,여기요(드세요),please (go ahead),interj,R2,N
-664,عاملة,아밀라,하고 있다(여),doing,verb,R2,N
-665,اوك,오케이,오케이,okay,interj,R2,N
-666,شئ,셰,것,thing,noun,R2,N
-667,بسبب,비사바브,~때문에,because of,prep,R2,N
-668,معنديش,마안디쉬,나는 없다,I don't have,prep,R2,N
-669,أهم,아함,더 중요한,more important,adj,R2,N
-670,عايزني,아이즈니,나를 원하다,want me,verb,R2,N
-671,حصلت,하살리트,일어났다(여),happened,verb,R2,N
-672,شخص,샤크스,사람,person,noun,R2,Y
-673,بعمل,바아말,하고 있다,I'm doing,verb,R2,N
-674,وشك,위샥,네 얼굴,your face,noun,R2,Y
-675,مكنش,마칸쉬,~아니었다,wasn't,verb,R2,N
-676,بني,부나야,아들아,my son,noun,R2,N
-677,كويسه,퀘이사,좋은(여),good,adj,R2,N
-678,عبدالله,압달라,압달라(이름),Abdallah,name,R2,N
-679,تحب,티힙,좋아하다,to like,verb,R2,N
-680,تقولي,티울리,나에게 말하다,tell me,verb,R2,N
-681,شبه,쉽흐,~를 닮은,like,prep,R2,N
-682,ساعتها,사아잇하,그때,then,adv,R2,N
-683,هعمل,하아말,내가 할 것이다,I will do,verb,R2,N
-684,أية,아야,어떤,any,det,R2,N
-685,لينا,리나,우리에게,for us,prep,R2,N
-686,مولاي,몰라야,나의 주인님,my lord,noun,R2,N
-687,غموض,구무드,신비(모호함),mystery,noun,R2,N
-688,عليهم,알레훔,그들에게,on them,prep,R2,N
-689,بتعملي,비티아밀리,하고 있다(여),you're doing,verb,R2,N
-690,لقد,라아드,이미(완료 강조),indeed,part,R2,N
-691,موجودة,마우구다,있는(여),present,adj,R2,N
-692,الدور,잇도르,차례,turn,noun,R2,N
-693,الأقل,일아알,최소한,at least,adv,R2,N
-694,فرصة,포르사,기회,chance,noun,R2,N
-695,مبروك,마브루크,축하해,congratulations,interj,R2,N
-696,بخير,비케르,잘 지내는,fine,adj,R2,N
-697,براين,브라이언,브라이언(이름),Brian,name,R2,N
-698,تاكر,타커,터커(이름),Tucker,name,R2,N
-699,كمال,카말,카말(이름),Kamal,name,R2,N
-700,رشا,라샤,라샤(이름),Rasha,name,R2,N
-701,بدل,바달,~대신,instead of,prep,R2,N
-702,الواحد,일와헤드,사람(하나),one,num,R2,N
-703,خلصت,칼라스트,끝냈다,finished,verb,R2,N
-704,أتمنى,아트마나,바라다,I hope,verb,R2,N
-705,الوسخة,일위스카,더러운(여),dirty,adj,R2,Y
-706,برة,바라,밖,outside,adv,R2,N
-707,ودي,위디,그리고 이것(여),and this,pron,R2,N
-708,البت,일빈트,소녀,girl,noun,R2,Y
-709,ولما,윌람마,그리고 ~할 때,and when,conj,R2,N
-710,الحق,일하으,진실,truth,noun,R2,N
-711,ورايا,와라야,내 뒤에,behind me,prep,R2,N
-712,الذي,알라지,~한(관계사),which,pron,R2,N
-713,دور,도르,역할(차례),role,noun,R2,N
-714,قدامي,우다미,내 앞에,in front of me,prep,R2,N
-715,طه,타하,타하(이름),Taha,name,R2,N
-716,ومن,위민,그리고 ~에서,and from,prep,R2,N
-717,فيش,피쉬,없다,there isn't,part,R2,N
-718,الحاجة,일하가,물건(것),thing,noun,R2,N
-719,فقط,파아트,단지,only,adv,R2,N
-720,غريب,가리브,이상한,strange,adj,R2,N
-721,محتاجين,미흐타긴,필요한(복),needing,adj,R2,N
-722,المشكلة,일무슈킬라,문제,problem,noun,R2,N
-723,شمال,쉬말,왼쪽(북쪽),left,noun,R2,N
-724,مستر,미스터,미스터,mister,noun,R2,N
-725,باب,바브,문,door,noun,R2,Y
-726,نتكلم,니트칼림,우리가 이야기하다,to talk,verb,R2,Y
-727,ادخل,우드쿨,들어와,to enter,verb,R2,Y
-728,مساء,마사,저녁,evening,noun,R2,Y
-729,خدت,카트,가져갔다,took,verb,R2,N
-730,بالي,발리,내 마음(생각),my mind,noun,R2,N
-731,تفتكر,티프티키르,생각하다,you think,verb,R2,N
-732,بصوا,부수,봐(복수),look,verb,R2,Y
-733,مصدق,미사다,믿는,believing,adj,R2,N
-734,تمشي,팀쉬,걷다(가다),to walk,verb,R2,Y
-735,السجن,잇시근,감옥,prison,noun,R2,Y
-736,الأسبوع,일우스부아,주(週),week,noun,R2,N
-737,بفكر,바파카르,생각하고 있다,I'm thinking,verb,R2,N
-738,يعمل,이아말,하다,to do,verb,R2,N
-739,عاوزه,아우자,원하다(여),want,verb,R2,N
-740,وما,위마,그리고 ~않다,and not,conj,R2,N
-741,قاعد,아에드,앉아 있는,sitting,verb,R2,Y
-742,عنك,안낙,너에 대해,about you,prep,R2,N
-743,أكل,아클,음식(먹기),food,noun,R2,Y
-744,عندهم,안두훔,그들은 가지고 있다,they have,prep,R2,N
-745,جي,기,오는,coming,verb,R2,N
-746,اها,아하,아하,aha,interj,R2,N
-747,مهمة,마함마,임무,mission,noun,R2,N
-748,وكان,위칸,그리고 ~였다,and was,verb,R2,N
-749,مجنون,마그눈,미친,crazy,adj,R2,N
-750,اخرج,우크루그,나가,to go out,verb,R2,Y
-751,بيتك,베탁,네 집,your house,noun,R2,Y
-752,السبب,잇사바브,이유,reason,noun,R2,N
-753,جويل,조엘,조엘(이름),Joel,name,R2,N
-754,بودي,보디,보디(이름),Bodi,name,R2,N
-755,لبنى,로브나,로브나(이름),Lobna,name,R2,N
-756,هه,헤,흥(웃음),huh,interj,R2,N
-757,فتح,파타흐,열다,to open,verb,R2,Y
-758,ذلك,잘릭,그것,that,pron,R2,N
-759,لقيت,라에트,찾았다,found,verb,R2,N
-760,عربية,아라베야,자동차,car,noun,R2,Y
-761,بكل,비쿨,모든 ~로,with all,prep,R2,N
-762,القيصر,일에사르,황제,emperor,noun,R2,Y
-763,الأخبار,일아크바르,소식(뉴스),news,noun,R2,N
-764,مايا,마야,마야(이름),Maya,name,R2,N
-765,السلامة,잇살라마,안전,safety,noun,R2,N
-766,بتحب,비티힙,좋아하다,you love,verb,R2,N
-767,بشكل,비샤클,~방식으로,in a way,prep,R2,N
-768,حب,홉,사랑,love,noun,R2,N
-769,بعدها,바아다하,그 후에,after that,adv,R2,N
-770,الحوار,일히와르,대화(일),dialogue,noun,R2,N
-771,ماجي,마기,매기(이름),Maggie,name,R2,N
-772,حرام,하람,금지된(죄),forbidden,adj,R2,N
-773,كلامي,칼라미,내 말,my words,noun,R2,N
-774,دماغك,디마각,네 머리,your head,noun,R2,Y
-775,أعملها,아아밀하,그것을 하다,do it,verb,R2,N
-776,أمال,아말,그럼(그렇다면),then what,part,R2,N
-777,ماكنتش,마쿤티쉬,~아니었다,I wasn't,verb,R2,N
-778,يابا,야바,아빠,dad,noun,R2,N
-779,جنب,감브,옆에,next to,prep,R2,N
-780,مراتي,미라티,내 아내,my wife,noun,R2,Y
-781,باين,바옌,보이는(분명한),apparent,adj,R2,N
-782,علاقة,알라아,관계,relationship,noun,R2,N
-783,سيدنا,시드나,우리 주인님,our master,noun,R2,N
-784,الدين,잇딘,종교,religion,noun,R2,N
-785,بتاعه,비타우,그의 것,his,pron,R2,N
-786,ودلوقتي,위딜루아티,그리고 지금,and now,adv,R2,N
-787,واقف,와에프,서 있는,standing,verb,R2,Y
-788,خمس,캄스,다섯,five,num,R2,Y
-789,الولد,일왈라드,소년,boy,noun,R2,Y
-790,ياه,야흐,와,wow,interj,R2,N
-791,راحت,라흐트,갔다(여),she went,verb,R2,N
-792,إذنك,이즈낙,네 허락,your permission,noun,R2,N
-793,طلع,틸리아,올라갔다(나갔다),went up,verb,R2,N
-794,الرجالة,잇리갈라,남자들,men,noun,R2,Y
-795,بول,볼,폴(이름),Paul,name,R2,N
-796,تشوف,티슈프,보다,to see,verb,R2,Y
-797,إلهي,일라히,나의 신이여,my God,interj,R2,N
-798,ليها,리하,그녀에게,to her,prep,R2,N
-799,الحمام,일하맘,화장실,bathroom,noun,R2,Y
-800,بيقولوا,비울루,그들이 말한다,they say,verb,R2,N
-801,شغال,샤갈,일하는(작동 중),working,adj,R2,N
-802,بيعمل,비아말,하고 있다,he's doing,verb,R2,N
-803,وي,위,예(외래어),oui,other,R2,N
-804,لم,람,~않았다,did not,part,R2,N
-805,هتكون,하트쿤,~일 것이다,will be,verb,R2,N
-806,غريبة,가리바,이상한(여),strange,adj,R2,N
-807,طريقة,타리아,방법,way,noun,R2,N
-808,حل,할,해결책,solution,noun,R2,N
-809,وبعد,위바아드,그리고 후에,and after,prep,R2,N
-810,كلامك,칼라막,네 말,your words,noun,R2,N
-811,مان,만,남자(외래어),man,other,R2,N
-812,للأسف,릴아사프,유감스럽게도,unfortunately,adv,R2,N
-813,مننا,민나,우리 중,of us,prep,R2,N
-814,إبراهيم,이브라힘,이브라힘(이름),Ibrahim,name,R2,N
-815,ليلى,렐라,렐라(이름),Layla,name,R2,N
-816,أومال,우말,그럼,then what,part,R2,N
-817,الصغيرة,잇수가야라,작은(여),small,adj,R2,Y
-818,وكمان,위카만,그리고 또,and also,adv,R2,N
-819,كتاب,키타브,책,book,noun,R2,Y
-820,قالت,알리트,그녀가 말했다,she said,verb,R2,N
-821,أخي,아키,내 형제,my brother,noun,R2,Y
-822,نفسها,납사하,그녀 자신,herself,pron,R2,N
-823,دين,딘,종교,religion,noun,R2,N
-824,البحر,일바흐르,바다,sea,noun,R2,Y
-825,الستات,잇싯타트,여자들,women,noun,R2,Y
-826,وصلت,위실트,도착했다,arrived,verb,R2,N
-827,جوة,구와,안에,inside,adv,R2,N
-828,الفل,일풀,재스민(최고),jasmine,noun,R2,Y
-829,إنما,인나마,하지만,but,conj,R2,N
-830,حالة,할라,상태,condition,noun,R2,N
-831,أحب,아힙,좋아하다,to love,verb,R2,N
-832,هذه,하지히,이것(여),this,pron,R2,N
-833,لهم,라훔,그들에게,to them,prep,R2,N
-834,بدأت,바다아트,시작했다,started,verb,R2,N
-835,الشارع,잇샤레아,거리,street,noun,R2,Y
-836,وبس,위바스,그게 다야,and that's it,part,R2,N
-837,لكل,리쿨,모두에게,for every,prep,R2,N
-838,قلب,알브,마음(심장),heart,noun,R2,Y
-839,ستيف,스티브,스티브(이름),Steve,name,R2,N
-840,مايكل,마이클,마이클(이름),Michael,name,R2,N
-841,لغاية,레가예,~까지,until,prep,R2,N
-842,أميرة,아미라,공주,princess,noun,R2,Y
-843,وعلى,와알라,그리고 ~위에,and on,prep,R2,N
-844,تعالوا,탈라우,와(복수),come,verb,R2,N
-845,بتوع,비투아,~의 것(복수),belonging to,part,R2,N
-846,افتكرت,잇파카르트,기억났다,to remember,verb,R2,N
-847,اد,아드,~만큼,as much as,prep,R2,N
-848,المدينة,일마디나,도시,city,noun,R2,Y
-849,ولكن,왈라킨,그러나,but,conj,R2,N
-850,نهار,나하르,낮,daytime,noun,R2,Y
-851,قوة,우와,힘,strength,noun,R2,N
-852,إطلاق,이틀라,발사,firing,noun,R2,N
-853,شايفة,샤이파,보고 있다(여),seeing,verb,R2,N
-854,أوضة,오다,방,room,noun,R2,Y
-855,لأنه,리안누,왜냐하면 그가,because,conj,R2,N
-856,سيبني,시브니,날 내버려둬,leave me,verb,R2,N
-857,بنفسي,비나프시,나 스스로,by myself,adv,R2,N
-858,تقدري,티아르다리,할 수 있다(여),can,verb,R2,N
-859,جاهز,개헤즈,준비된,ready,adj,R2,N
-860,أمان,아만,안전,safety,noun,R2,N
-861,الملك,일말릭,왕,king,noun,R2,Y
-862,مبسوط,마브수트,기쁜,happy,adj,R2,Y
-863,روس,루스,러시아인들,Russians,noun,R2,N
-864,أختي,오크티,내 자매,my sister,noun,R2,Y
-865,بدري,바드리,일찍,early,adv,R2,N
-866,الأيام,일아얌,날들,days,noun,R2,N
-867,ترى,타라,보다(문어),to see,verb,R2,N
-868,جت,개트,그녀가 왔다,came,verb,R2,N
-869,قادرة,아드라,할 수 있는(여),able,adj,R2,N
-870,دماغي,디마기,내 머리,brain,noun,R2,Y
-871,عملته,아밀토,그걸 했다,did it,verb,R2,N
-872,فاتت,파테트,지나갔다(여),passed,verb,R2,N
-873,أقف,아아프,서다,to stand,verb,R2,Y
-874,منعم,몬엠,몬엠(이름),Monem,name,R2,N
-875,السلطان,잇술탄,술탄,sultan,noun,R2,Y
-876,هتعمل,하타으밀,할 거다,will do,verb,R2,N
-877,نوع,노으,종류,type,noun,R2,N
-878,فكرت,팍카르트,생각했다,thought,verb,R2,N
-879,تقصد,티으사드,뜻하다,to mean,verb,R2,N
-880,الشرطة,잇쇼르타,경찰,police,noun,R2,Y
-881,الوحيدة,일와히다,유일한(여),only,adj,R2,N
-882,ديني,디니,내 종교,my religion,noun,R2,N
-883,تضحك,티드하크,웃다,to laugh,verb,R2,Y
-884,ترجمة,타르가마,번역,translation,noun,R2,N
-885,الحيوانات,일하야와나트,동물들,animals,noun,R2,Y
-886,هروح,하루흐,갈 거다,will go,verb,R2,N
-887,الأمير,일아미르,왕자,prince,noun,R2,Y
-888,داني,대니,대니(이름),Danny,name,R2,N
-889,هاري,해리,해리(이름),Harry,name,R2,N
-890,يدق,예두아,두드리다,to knock,verb,R2,Y
-891,موت,모트,죽음,death,noun,R2,N
-892,الحكاية,일헤카야,이야기,story,noun,R2,N
-893,أجيب,아기브,가져오다,to bring,verb,R2,N
-894,شوفي,슈피,봐(여),look,verb,R2,N
-895,جبت,기브트,가져왔다,brought,verb,R2,N
-896,الجواز,익가와즈,결혼,marriage,noun,R2,N
-897,ترجع,티르가,돌아오다,to return,verb,R2,N
-898,زيي,제이이,나처럼,like me,prep,R2,N
-899,مشاكل,마샤켈,문제들,problems,noun,R2,N
-900,عملتها,아밀타하,그것을 했다,did it,verb,R2,N
-901,قتلت,아탈트,죽였다,killed,verb,R2,N
-902,بصوت,비소트,목소리로,with a voice,prep,R2,N
-903,حول,하울,주위에,around,prep,R2,N
-904,يللا,얄라,"자, 가자",come on,interj,R2,N
-905,عرفة,아라파,아라파(지명),Arafa,name,R2,N
-906,المصنع,일마스나,공장,factory,noun,R2,Y
-907,عز,에즈,영광·한창,glory,noun,R2,N
-908,فاطمة,파트마,파트마(이름),Fatma,name,R2,N
-909,عمي,암미,삼촌(친가),uncle,noun,R2,Y
-910,فاهمة,파흐마,이해하는(여),understanding,verb,R2,N
-911,متأكدة,메트악카다,확신하는(여),sure,adj,R2,N
-912,وليه,웰레,그리고 왜,and why,adv,R2,N
-913,طويل,타윌,긴·키 큰,tall,adj,R2,Y
-914,استنوا,이스탄누,기다려(복수),wait,verb,R2,N
-915,تعملي,티으밀리,하다(여),to do,verb,R2,N
-916,أنسة,아네사,아가씨,miss,noun,R2,N
-917,غيرك,게이락,너 말고,other than you,pron,R2,N
-918,سهل,사흘,쉬운,easy,adj,R2,N
-919,رئيس,라이스,대통령·장,president,noun,R2,N
-920,سنه,사나,해·년,year,noun,R2,N
-921,الفيلم,일필름,영화,movie,noun,R2,Y
-922,أصوات,아스와트,소리들,sounds,noun,R2,N
-923,الشيخ,잇셰이크,셰이크·어르신,sheikh,noun,R2,Y
-924,لأني,리안니,왜냐하면 내가,because I,conj,R2,N
-925,جنيه,기네,파운드(화폐),pound (money),noun,R2,Y
-926,نعرف,니으라프,우리는 알다,to know,verb,R2,N
-927,الآن,알안,지금,now,adv,R2,N
-928,فترة,파트라,기간,period,noun,R2,N
-929,الحقيقي,일하이이,진짜의,real,adj,R2,N
-930,عنها,안하,그녀에 대해,about her,prep,R2,N
-931,وحشة,웨샤,나쁜·못생긴(여),bad,adj,R2,N
-932,نبدأ,니브다,우리가 시작하다,to start,verb,R2,N
-933,بحاول,바하윌,노력하고 있다,trying,verb,R2,N
-934,نرجع,니르가,우리가 돌아가다,to go back,verb,R2,N
-935,واو,와우,와우,wow,interj,R2,N
-936,سوا,사와,함께,together,adv,R2,N
-937,مكانك,마카낙,네 자리,your place,noun,R2,N
-938,الجديد,익가디드,새로운,new,adj,R2,N
-939,سيندي,신디,신디(이름),Cindy,name,R2,N
-940,الفرح,일파라흐,결혼식·기쁨,wedding,noun,R2,Y
-941,بكاء,부카,울음,crying,noun,R2,Y
-942,صدقي,사다이,믿어(여),believe,verb,R2,N
-943,هاتي,하티,줘(여),give me,verb,R2,N
-944,المكتب,일마크타브,사무실·책상,office,noun,R2,Y
-945,آجي,아기,내가 오다,to come,verb,R2,N
-946,دم,담,피,blood,noun,R2,Y
-947,خليكي,칼리키,있어(여),stay,verb,R2,N
-948,رجع,리기으,돌아왔다,returned,verb,R2,N
-949,الطريقة,잇타리아,방법,way,noun,R2,N
-950,اللعنة,일라나,젠장,damn,interj,R2,N
-951,كيف,케이프,어떻게,how,adv,R2,N
-952,خلال,칼랄,~동안,during,prep,R2,N
-953,خاطري,카트리,내 마음·나를 위해,for my sake,noun,R2,N
-954,حاولت,하월트,노력했다,tried,verb,R2,N
-955,وش,위쉬,얼굴,face,noun,R2,Y
-956,عالم,알람,세계,world,noun,R2,Y
-957,راس,라스,머리,head,noun,R2,Y
-958,هيحصل,하예흐살,일어날 것이다,will happen,verb,R2,N
-959,الواقع,일와아,현실,reality,noun,R2,N
-960,هاخد,하코드,가져갈 거다,will take,verb,R2,N
-961,جوا,구와,안에,inside,adv,R2,N
-962,ياختي,야크티,이봐 언니,sister (address),interj,R2,N
-963,جدع,가다,의리 있는 녀석,good guy,adj,R2,N
-964,كيفين,케빈,케빈(이름),Kevin,name,R2,N
-965,موتة,모타,죽음(한 번),death,noun,R2,N
-966,عاوزة,아우자,원하다(여),want,verb,R2,N
-967,اسمعي,이스마이,들어(여),listen,verb,R2,N
-968,عين,에인,눈,eye,noun,R2,Y
-969,النور,인누르,빛·전기,light,noun,R2,Y
-970,تفضل,이트파달,여기요·드세요,please (offering),interj,R2,N
-971,تلاقي,티라이,찾다,to find,verb,R2,N
-972,جرى,가라,일어났다·달렸다,happened,verb,R2,N
-973,لطيف,라티프,친절한,nice,adj,R2,N
-974,رايحين,라이힌,가는 중(복수),going,verb,R2,N
-975,بردو,바르두,역시·또한,also,adv,R2,N
-976,تكوني,티쿠니,~이다(여),to be,verb,R2,N
-977,لكم,리쿰,너희에게,to you (pl),prep,R2,N
-978,ديڤاين,디바인,디바인(이름),Divine,name,R2,N
-979,بنتك,빈탁,네 딸,your daughter,noun,R2,Y
-980,بكتير,비키티르,훨씬,much more,adv,R2,N
-981,حياة,하야,삶,life,noun,R2,N
-982,فينا,피나,우리 안에,in us,prep,R2,N
-983,الجديدة,익가디다,새로운(여),new,adj,R2,N
-984,مرات,마라트,아내,wife,noun,R2,Y
-985,يروح,예루흐,가다,to go,verb,R2,N
-986,أنهي,안헤,어느,which,det,R2,N
-987,واخد,와케드,가져간·가진,taking,verb,R2,N
-988,دخل,다칼,들어갔다,to enter,verb,R2,Y
-989,امسك,임시크,잡아,hold,verb,R2,Y
-990,الأطفال,일아트팔,아이들,children,noun,R2,Y
-991,برضو,바르두,역시,also,adv,R2,N
-992,بسرعه,비소르아,빨리,quickly,adv,R2,N
-993,افتح,이프타흐,열어,open,verb,R2,Y
-994,عيب,에이브,부끄러운 일,shame,noun,R2,N
-995,أقل,아알,더 적은,less,adj,R2,N
-996,حلوه,헬와,예쁜·달콤한(여),pretty,adj,R2,Y
-997,جدعان,게드안,친구들,guys,noun,R2,N
-998,مكانش,마칸쉬,~아니었다,wasn't,verb,R2,N
-999,رنين,라닌,울리는 소리,ringing,noun,R2,N
-1000,هيام,하얌,하얌(이름),Hayam,name,R3,N
-1001,اجري,이그리,달려,run,verb,R3,Y
-1002,الحفلة,일하플라,파티,party,noun,R3,Y
-1003,يظهر,요즈하르,나타나다,to appear,verb,R3,N
-1004,أنزل,안질,내려가다,to go down,verb,R3,N
-1005,اتفقنا,잇타파아나,약속했지·오케이,agreed,verb,R3,N
-1006,نحن,나흐누,우리,we,pron,R3,N
-1007,اسكت,오스코트,조용히 해,be quiet,verb,R3,N
-1008,وخلاص,와칼라스,그리고 끝,and that's it,interj,R3,N
-1009,غالبا,갈반,아마도,probably,adv,R3,N
-1010,اسفه,아스파,미안해(여),sorry,adj,R3,N
-1011,الأمر,일암르,일·문제,matter,noun,R3,N
-1012,وشي,위쉬,내 얼굴,my face,noun,R3,Y
-1013,دخلت,다칼트,들어갔다,entered,verb,R3,N
-1014,خلص,칼라스,끝났다·됐어,finished,verb,R3,N
-1015,لابس,라베스,입고 있는,wearing,verb,R3,Y
-1016,ضرب,다랍,때렸다,to hit,verb,R3,Y
-1017,كلكم,쿨루쿰,너희 모두,all of you,pron,R3,N
-1018,كريم,카림,관대한,generous,adj,R3,N
-1019,ابنك,이브낙,네 아들,your son,noun,R3,Y
-1020,بسم,비스미,~의 이름으로,in the name of,prep,R3,N
-1021,الراوي,이라위,내레이터,narrator,noun,R3,N
-1022,المدرسة,일마드라사,학교,school,noun,R3,Y
-1023,عمره,오므로,그의 나이·평생,his age,noun,R3,N
-1024,شهر,샤흐르,달(월),month,noun,R3,N
-1025,ضحك,디히크,웃었다,laughed,verb,R3,Y
-1026,م,므,(조각),fragment,other,R3,N
-1027,قومي,우미,일어나(여),get up,verb,R3,Y
-1028,ريت,레트,~였으면,wish,part,R3,N
-1029,افتكر,잇파카르,기억하다,to remember,verb,R3,N
-1030,حسيت,하세이트,느꼈다,felt,verb,R3,N
-1031,اهوه,아호,여기 있다,here it is,interj,R3,N
-1032,السرير,잇사리르,침대,bed,noun,R3,Y
-1033,الحكومة,일호쿠마,정부,government,noun,R3,N
-1034,جزء,고즈,부분,part,noun,R3,N
-1035,فات,파트,지나갔다,passed,verb,R3,N
-1036,براون,브라운,브라운(이름),Brown,name,R3,N
-1037,بتاعة,비타아트,~의 것(여),belonging to,part,R3,N
-1038,فيكي,피키,너(여) 안에,in you,prep,R3,N
-1039,الموسيقى,일무시아,음악,music,noun,R3,Y
-1040,الأغنية,일오그니야,노래,song,noun,R3,Y
-1041,يوجين,유진,유진(이름),Eugene,name,R3,N
-1042,نرجس,나르기스,나르기스(이름),Narges,name,R3,N
-1043,بركات,바라카트,축복들,blessings,noun,R3,N
-1044,سعيدة,사이다,행복한(여),happy,adj,R3,Y
-1045,أنام,아남,자다,to sleep,verb,R3,Y
-1046,انسى,인사,잊어,forget,verb,R3,N
-1047,مخدرات,모카드라트,마약,drugs,noun,R3,N
-1048,النهاية,인니하야,끝,end,noun,R3,N
-1049,وكده,와케다,그리고 그런 것,and so on,adv,R3,N
-1050,طفل,티플,아이·아기,child,noun,R3,Y
-1051,الأولى,일울라,첫 번째(여),first,num,R3,N
-1052,بيتكلم,비이트칼림,말하고 있다,talking,verb,R3,Y
-1053,رد,루드,대답해,to answer,verb,R3,N
-1054,هتقدر,하티아다르,할 수 있을 거다,will be able,verb,R3,N
-1055,كفايه,키파야,그만·충분해,enough,interj,R3,N
-1056,سيب,시브,놔둬,leave,verb,R3,N
-1057,بيحب,비이헵,사랑한다,loves,verb,R3,N
-1058,قالك,알락,너에게 말했다,told you,verb,R3,N
-1059,يابني,야브니,얘야,my son (address),interj,R3,N
-1060,الفرعون,일파르온,파라오,pharaoh,noun,R3,Y
-1061,بومبا,붐바,인명,personal name,name,R3,N
-1062,رمزي,람지,람지(이름),Ramzy,name,R3,N
-1063,السنة,잇사나,해·올해,year,noun,R3,N
-1064,انكم,인나쿰,너희가 ~라는 것,that you (pl),conj,R3,N
-1065,ارجوكي,아르구키,제발(여),please,interj,R3,N
-1066,قولتلك,울틸락,너에게 말했잖아,I told you,verb,R3,N
-1067,إيد,이드,손,hand,noun,R3,Y
-1068,رايحة,라이하,가는 중(여),going,verb,R3,N
-1069,بن,빈,~의 아들,son of,noun,R3,N
-1070,حاسة,하사,느끼는(여),feeling,verb,R3,N
-1071,هينفع,하옌파,될 거다,will work,verb,R3,N
-1072,كسمك,코스목,욕설,insult (vulgar),interj,R3,N
-1073,لدرجة,리다라가,~할 정도로,to the extent,prep,R3,N
-1074,حاول,하월,노력하다,to try,verb,R3,N
-1075,هدية,하데야,선물,gift,noun,R3,Y
-1076,بشر,바샤르,인간,humans,noun,R3,Y
-1077,تلاتة,탈라타,셋,three,num,R3,Y
-1078,الغابة,일가바,숲·정글,forest,noun,R3,Y
-1079,بتقولي,비트울리,너 말하고 있다,you're saying,verb,R3,N
-1080,تيمون,티몬,인명,personal name,name,R3,N
-1081,الهادي,일하디,조용한,calm,adj,R3,N
-1082,ويد,웨이드,웨이드(이름),Wade,name,R3,N
-1083,يصرخ,요스로크,소리치다,to scream,verb,R3,Y
-1084,جرو,기루,강아지,puppy,noun,R3,Y
-1085,إيقاعية,이아이야,리드미컬한,rhythmic,adj,R3,N
-1086,أدي,아디,여기 있다,here is,interj,R3,N
-1087,يقول,이울,말하다,to say,verb,R3,N
-1088,مراتك,마라탁,네 아내,your wife,noun,R3,Y
-1089,أشتغل,아쉬타갈,일하다,to work,verb,R3,N
-1090,أمر,아므르,명령·일,order,noun,R3,N
-1091,يسوع,야수,예수,Jesus,name,R3,N
-1092,عملنا,아밀나,우리가 했다,we did,verb,R3,N
-1093,شكل,샤클,모양·외모,shape,noun,R3,N
-1094,الكبير,일케비르,큰,big,adj,R3,Y
-1095,مستني,미스탄니,기다리는,waiting,verb,R3,N
-1096,أساعدك,아사에닥,너를 돕다,help you,verb,R3,N
-1097,الصح,잇사흐,옳은 것,right,adj,R3,N
-1098,يحصل,예흐살,일어나다,to happen,verb,R3,N
-1099,مولانا,몰라나,우리 주인님,our master,noun,R3,N
-1100,باللغة,빌로가,~언어로,in the language,prep,R3,N
-1101,يجي,예기,오다,to come,verb,R3,N
-1102,الشمال,잇시말,북쪽·왼쪽,north,noun,R3,N
-1103,رسالة,리살라,편지·메시지,letter,noun,R3,Y
-1104,بيلي,빌리,빌리(이름),Billy,name,R3,N
-1105,سميث,스미스,스미스(이름),Smith,name,R3,N
-1106,ورحمة,와라흐마트,그리고 자비,and mercy,noun,R3,N
-1107,إلسا,엘사,인명,personal name,name,R3,N
-1108,مؤاخذة,모아크자,실례지만,excuse me,interj,R3,N
-1109,زيادة,지야다,증가·더,extra,noun,R3,N
-1110,شكلي,샤클리,내 모습,my looks,noun,R3,N
-1111,الرجل,이라갈,남자,man,noun,R3,Y
-1112,دايڤيد,데이비드,데이비드(이름),David,name,R3,N
-1113,العرض,일아르드,쇼·공연,show,noun,R3,N
-1114,أداء,아다,연기·수행,performance,noun,R3,N
-1115,عايزاه,아이자,그를 원하다(여),want him,verb,R3,N
-1116,متقلقيش,마티라이쉬,걱정하지 마(여),don't worry,verb,R3,N
-1117,الأكل,일아클,음식,food,noun,R3,Y
-1118,إنكوا,인나쿠,너희가 ~라는 것,that you (pl),conj,R3,N
-1119,هقدر,하아다르,할 수 있을 거다,I'll be able,verb,R3,N
-1120,بيكي,비키,너(여)로,with you,prep,R3,N
-1121,تتكلم,티트칼림,말하다,to speak,verb,R3,Y
-1122,الأمور,일우무르,일들,matters,noun,R3,N
-1123,وإن,와인,그리고 만약,and if,conj,R3,N
-1124,إيڤان,이반,이반(이름),Ivan,name,R3,N
-1125,الحلوة,일헬와,예쁜(여),pretty,adj,R3,Y
-1126,عيل,아일,꼬마,kid,noun,R3,Y
-1127,اختبار,이크티바르,시험,test,noun,R3,Y
-1128,الحصان,일호산,말(동물),horse,noun,R3,Y
-1129,هوه,후와,그,he,pron,R3,N
-1130,خطوات,코투와트,걸음들,steps,noun,R3,N
-1131,صلاح,살라흐,살라흐(이름),Salah,name,R3,N
-1132,ناقوس,나우스,종,bell,noun,R3,Y
-1133,د,드,(조각),fragment,other,R3,N
-1134,محل,마할,가게,shop,noun,R3,Y
-1135,النوم,인놈,잠,sleep,noun,R3,Y
-1136,إذن,이잔,그러면,so,conj,R3,N
-1137,ياريت,야레트,~였으면 좋겠다,I wish,interj,R3,N
-1138,ناخد,나코드,우리가 가져가다,we take,verb,R3,N
-1139,ليس,라이사,아니다(문어 부정),is not,part,R3,N
-1140,عملتي,아밀티,너(여)가 했다,you did,verb,R3,N
-1141,تعالا,탈라,이리 와,come,verb,R3,N
-1142,اسمعني,이스마으니,내 말 들어,listen to me,verb,R3,N
-1143,الشرموطة,잇샤르무타,욕설(창녀),whore (vulgar),noun,R3,N
-1144,عينك,에낙,네 눈,your eye,noun,R3,Y
-1145,وسخة,위스카,더러운(여),dirty,adj,R3,Y
-1146,شهور,슈후르,개월들,months,noun,R3,N
-1147,أسرع,아스라,더 빠른,faster,adj,R3,N
-1148,وصل,위실,도착했다,arrived,verb,R3,N
-1149,أموت,아무트,죽다,to die,verb,R3,N
-1150,قلبك,알바크,네 마음,your heart,noun,R3,Y
-1151,القلعة,일알아,성,castle,noun,R3,Y
-1152,قوليلي,울릴리,말해 줘(여),tell me,verb,R3,N
-1153,افتحي,이프타히,열어(여),open,verb,R3,Y
-1154,وقف,위이프,멈췄다·섰다,to stop,verb,R3,N
-1155,ثواني,사와니,몇 초,seconds,noun,R3,N
-1156,رجعت,리기트,돌아왔다,came back,verb,R3,N
-1157,فلورا,플로라,플로라(이름),Flora,name,R3,N
-1158,إف,에프,F(글자),letter F,other,R3,N
-1159,مهما,마흐마,아무리 ~해도,no matter,conj,R3,N
-1160,الصوت,잇소트,소리·목소리,sound,noun,R3,N
-1161,الشخص,잇샤크스,사람,person,noun,R3,Y
-1162,نات,내트,내트(이름),Nat,name,R3,N
-1163,العمال,일우말,일꾼들,workers,noun,R3,Y
-1164,تصرخ,티스로크,소리치다,to scream,verb,R3,Y
-1165,زكريا,자카리야,자카리야(이름),Zakaria,name,R3,N
-1166,ستي,시티,할머니,grandmother,noun,R3,Y
-1167,وحيد,와히드,외로운·혼자인,alone,adj,R3,N
-1168,تم,탐,완료됐다,done,verb,R3,N
-1169,الجو,익가우,날씨,weather,noun,R3,Y
-1170,أمل,아말,희망,hope,noun,R3,N
-1171,امرأة,이므라아,여자,woman,noun,R3,Y
-1172,لبعض,리바아드,서로에게,to each other,pron,R3,N
-1173,المخدرات,일모카드라트,마약,drugs,noun,R3,N
-1174,متهيألي,미트하얄리,내 생각엔,I think,verb,R3,N
-1175,لأي,리아이,어떤 ~에게,for any,det,R3,N
-1176,مساعدة,모사다,도움,help,noun,R3,N
-1177,جوزي,고지,내 남편,my husband,noun,R3,Y
-1178,شرموطة,샤르무타,욕설(창녀),whore (vulgar),noun,R3,N
-1179,اصحاب,아스하브,친구들,friends,noun,R3,Y
-1180,نهاية,니하야,끝,end,noun,R3,N
-1181,جهاز,기하즈,기기·장치,device,noun,R3,Y
-1182,ومين,와민,그리고 누구,and who,pron,R3,N
-1183,همم,흠,흠,hmm,interj,R3,N
-1184,شايفه,샤이파,보고 있다(여),seeing,verb,R3,N
-1185,كويسين,쿠와이시인,좋은(복수),fine,adj,R3,N
-1186,بدون,비둔,~없이,without,prep,R3,N
-1187,طرق,토로아,길들,roads,noun,R3,Y
-1188,بالليل,빌레일,밤에,at night,adv,R3,N
-1189,السيارة,잇사야라,자동차,car,noun,R3,Y
-1190,باسم,비이스므,~의 이름으로,in the name of,prep,R3,N
-1191,إله,일라,신,god,noun,R3,N
-1192,ماينفعش,마옌파아쉬,안 돼,not allowed,verb,R3,N
-1193,فأنا,파아나,그러니까 나는,so I,pron,R3,N
-1194,يخرب,예크라브,망치다,to ruin,verb,R3,N
-1195,أختك,오크탁,네 자매,your sister,noun,R3,Y
-1196,العزيز,일아지즈,사랑하는,dear,adj,R3,N
-1197,عبر,아브르,~을 통해,through,prep,R3,N
-1198,تبكي,티브키,울다,to cry,verb,R3,Y
-1199,خلاويص,칼라위스,다 됐어?(숨바꼭질),ready?,interj,R3,N
-1200,مستعد,미스타에드,준비된,ready,adj,R3,N
-1201,للي,릴리,~한 사람에게,to the one who,pron,R3,N
-1202,عرف,이리프,알았다,knew,verb,R3,N
-1203,حبة,함바,조금·알약,a bit,noun,R3,N
-1204,أشكرك,아쉬쿠락,고마워,thank you,interj,R3,N
-1205,وصلنا,웨셀나,우리 도착했다,we arrived,verb,R3,N
-1206,لوحده,레와흐도,혼자서,alone,adv,R3,N
-1207,ياخد,야코드,가져가다,to take,verb,R3,N
-1208,معقول,마으울,말이 돼?·합리적인,reasonable,adj,R3,N
-1209,خايفة,카이파,무서워하는(여),scared,adj,R3,Y
-1210,وقعت,위이트,떨어졌다,fell,verb,R3,Y
-1211,بما,비마,~으로 인해,with what,prep,R3,N
-1212,تفتكري,티프티키리,네 생각엔(여),do you think,verb,R3,N
-1213,بدأ,바다,시작했다,started,verb,R3,N
-1214,الكبيرة,일케비라,큰(여),big,adj,R3,Y
-1215,صوتك,소탁,네 목소리,your voice,noun,R3,N
-1216,ساعدني,사에드니,도와줘,help me,verb,R3,N
-1217,كمل,캄밀,계속해,continue,verb,R3,N
-1218,أكلم,아칼림,통화하다·말 걸다,to talk to,verb,R3,N
-1219,أفكر,아팍카르,생각하다,to think,verb,R3,N
-1220,هبقى,하바아,~이 될 거다,I will be,verb,R3,N
-1221,شغلي,쇼글리,내 일,my work,noun,R3,N
-1222,بتاعنا,비타아나,우리 것,ours,pron,R3,N
-1223,اشرب,이쉬랍,마셔,drink,verb,R3,Y
-1224,سيادة,시야다트,각하,Your Excellency,noun,R3,N
-1225,هاعمل,하아밀,할 거다,I will do,verb,R3,N
-1226,سيارة,사야라,자동차,car,noun,R3,Y
-1227,دوني,도니,도니(이름),Donny,name,R3,N
-1228,زئير,자이르,포효,roar,noun,R3,Y
-1229,سماح,사마흐,사마흐(이름),Samah,name,R3,N
-1230,فاهيتا,파히타,인명,personal name,name,R3,N
-1231,ح,하,~할 것(미래),will (future),part,R3,N
-1232,ميرسي,메르시,고마워,thanks,interj,R3,N
-1233,مبسوطة,마브수타,기쁜(여),happy,adj,R3,Y
-1234,عايزاك,아이자크,너를 원하다(여),want you,verb,R3,N
-1235,طلب,탈랍,요청·주문,request,noun,R3,N
-1236,اسبوع,우스부,주(일주일),week,noun,R3,N
-1237,بتاعتنا,비타아트나,우리 것(여),ours,pron,R3,N
-1238,ييجي,이기,오다,to come,verb,R3,N
-1239,عمرها,오므라하,그녀의 나이·결코,her age,noun,R3,N
-1240,الدم,잇담,피,blood,noun,R3,Y
-1241,جامدة,가므다,단단한·멋진(여),hard,adj,R3,N
-1242,مدينة,마디나,도시,city,noun,R3,Y
-1243,يهمك,예힘막,네게 중요하다,matters to you,verb,R3,N
-1244,هاروح,하루흐,갈 거다,will go,verb,R3,N
-1245,هقولك,하울락,너에게 말할게,I'll tell you,verb,R3,N
-1246,اتصل,잇타살,전화하다,to call,verb,R3,Y
-1247,فكره,피크라,생각·아이디어,idea,noun,R3,N
-1248,أمريكا,암리카,미국,America,name,R3,N
-1249,باري,배리,배리(이름),Barry,name,R3,N
-1250,جاك,잭,잭(이름),Jack,name,R3,N
-1251,اهدا,이흐다,진정해,calm down,verb,R3,N
-1252,مختار,모크타르,모크타르(이름),Mokhtar,name,R3,N
-1253,نجاة,나가,구조·생존,survival,noun,R3,N
-1254,مرتفعة,모르타파아,높은(여),high,adj,R3,N
-1255,كبائر,카바예르,큰 죄들,major sins,noun,R3,N
-1256,قاعدين,아딘,앉아 있는(복수),sitting,verb,R3,Y
-1257,حال,할,상태,condition,noun,R3,N
-1258,قهوة,아흐와,커피·카페,coffee,noun,R3,Y
-1259,قاعدة,아다,앉아 있는(여),sitting,verb,R3,Y
-1260,وريني,와리니,보여 줘,show me,verb,R3,N
-1261,شاف,샤프,봤다,to see,verb,R3,Y
-1262,شغالة,쇼갈라,일하는(여),working,adj,R3,N
-1263,قانون,아눈,법,law,noun,R3,N
-1264,ألاقي,알라이,찾다,to find,verb,R3,N
-1265,الصورة,잇수라,사진,photo,noun,R3,Y
-1266,فيكم,피쿰,너희 안에,in you (pl),prep,R3,N
-1267,تدخل,티드콜,들어가다,to enter,verb,R3,Y
-1268,اقفل,이으필,닫아라,to close,verb,R3,Y
-1269,بتهزر,비티하자르,농담하다,to joke,verb,R3,N
-1270,خمسه,캄사,다섯,five,num,R3,Y
-1271,بقالي,바알리,~한 지 (나),it's been,part,R3,N
-1272,أخوك,아쿠크,너의 형제,your brother,noun,R3,N
-1273,خويا,코야,내 형제,my brother,noun,R3,N
-1274,زب,조브,성기(비속어),penis (vulgar),noun,R3,N
-1275,تتصاعد,테타사아드,증가하다,to rise,verb,R3,N
-1276,الأمازيغية,일아마지그야,베르베르어,Berber language,noun,R3,N
-1277,حط,핫트,놓다,to put,verb,R3,Y
-1278,يطلع,이틀라,올라가다,to go up,verb,R3,Y
-1279,نور,누르,빛,light,noun,R3,Y
-1280,مانع,마네,반대하는,objecting,adj,R3,N
-1281,أبوه,아부,그의 아버지,his father,noun,R3,N
-1282,أكثر,악타르,더,more,adv,R3,N
-1283,الجميل,일가밀,아름다운,beautiful,adj,R3,Y
-1284,أصدق,아사다아,믿다,to believe,verb,R3,N
-1285,داخل,다켈,안으로,inside,adv,R3,N
-1286,مهتم,모흐탐,관심 있는,interested,adj,R3,N
-1287,هكون,하쿤,~일 것이다(나),I will be,verb,R3,N
-1288,عايشة,아이샤,살아있는(여),alive,adj,R3,N
-1289,عمال,암말,계속 ~하는 중,keep doing,part,R3,N
-1290,تعبان,타으반,피곤한,tired,adj,R3,Y
-1291,فظيع,파지,끔찍한,terrible,adj,R3,N
-1292,بحبها,바합비하,그녀를 사랑해,I love her,verb,R3,N
-1293,مكتوب,마크툽,쓰여진/운명,written,adj,R3,N
-1294,صندوق,산두아,상자,box,noun,R3,Y
-1295,ظابط,자비트,장교,officer,noun,R3,Y
-1296,بيتهيألي,비트하야알리,~인 것 같아,I think,verb,R3,N
-1297,تلاته,탈라타,셋,three,num,R3,Y
-1298,يومين,요메인,이틀,two days,noun,R3,N
-1299,الحرب,일하르브,전쟁,war,noun,R3,N
-1300,قصة,잇사,이야기,story,noun,R3,N
-1301,قالي,알리,나에게 말했다,told me,verb,R3,N
-1302,جون,존,존(이름),John,name,R3,N
-1303,معنى,마나,의미,meaning,noun,R3,N
-1304,نخلص,니클라스,끝내다(우리),to finish,verb,R3,N
-1305,فكر,팍카르,생각하다,to think,verb,R3,N
-1306,كاس,카스,잔,cup,noun,R3,Y
-1307,بإيه,비에,무엇으로,with what,pron,R3,N
-1308,صاحبك,사흐박,너의 친구,your friend,noun,R3,N
-1309,دليل,달릴,증거,evidence,noun,R3,N
-1310,أخ,아크,형제,brother,noun,R3,N
-1311,نقول,니울,말하다(우리),to say,verb,R3,N
-1312,لعبة,레바,장난감,toy,noun,R3,Y
-1313,الأسود,일이스위드,검은,black,adj,R3,Y
-1314,بالضبط,비잡트,정확히,exactly,adv,R3,N
-1315,أهل,아흘,가족/친척,family,noun,R3,N
-1316,المية,일마야,물,water,noun,R3,Y
-1317,الهاتف,일하티프,전화,telephone,noun,R3,Y
-1318,اوسكار,오스카르,오스카(이름),Oscar,name,R3,N
-1319,كارسون,카르손,카슨(이름),Carson,name,R3,N
-1320,نادين,나딘,나딘(이름),Nadine,name,R3,N
-1321,شرطية,쇼르테야,여경찰,policewoman,noun,R3,Y
-1322,هوبس,홉스,홉스(이름),Hobbs,name,R3,N
-1323,أكلمك,아칼라막,너와 말하다,to talk to you,verb,R3,N
-1324,غني,가니,부자,rich,adj,R3,Y
-1325,وسهلا,와사흘란,환영,welcome,interj,R3,N
-1326,أمرك,암락,분부대로,at your service,interj,R3,N
-1327,دعوة,다와,초대/기도,invitation,noun,R3,N
-1328,بيني,베니,나 사이에,between me,prep,R3,N
-1329,كم,캄,얼마나,how many,pron,R3,N
-1330,تماما,타망,완전히,completely,adv,R3,N
-1331,كتيرة,키티라,많은(여),many,adj,R3,N
-1332,يموت,이무트,죽다,to die,verb,R3,N
-1333,بتفكر,비트팍카르,생각하다,to think,verb,R3,N
-1334,آدم,아담,아담(이름),Adam,name,R3,N
-1335,وهما,와홈마,그리고 그들,and they,pron,R3,N
-1336,الخاصة,일카사,특별한/개인의,private,adj,R3,N
-1337,حته,헷타,조각/곳,piece,noun,R3,N
-1338,أصلي,아슬리,원래/진짜,original,adj,R3,N
-1339,السيد,잇사예드,~씨/선생님,mister,noun,R3,N
-1340,تانيه,타니아,다시,again,adv,R3,N
-1341,اخرس,오크로스,닥쳐,shut up,interj,R3,N
-1342,رحت,로흐트,갔다(나),went,verb,R3,N
-1343,حلم,헬름,꿈,dream,noun,R3,N
-1344,أبيض,아브야드,흰,white,adj,R3,Y
-1345,ساتر,사테르,보호하소서,God protect,interj,R3,N
-1346,تنام,티남,자다,to sleep,verb,R3,Y
-1347,بوسة,보사,뽀뽀,kiss,noun,R3,Y
-1348,الجامعة,일가마,대학,university,noun,R3,Y
-1349,الجربوع,일가르부,부랑자(욕),lowlife,noun,R3,N
-1350,طلق,탈라아,이혼하다,to divorce,verb,R3,N
-1351,معاد,마아드,약속 시간,appointment,noun,R3,N
-1352,لويس,루이스,루이스(이름),Louis,name,R3,N
-1353,ميدو,미도,미도(이름),Mido,name,R3,N
-1354,وخطر,와카타르,그리고 위험,and danger,noun,R3,N
-1355,سي,시,~씨(호칭),Mr.,noun,R3,N
-1356,نكون,니쿤,~이다(우리),to be,verb,R3,N
-1357,أعيش,아이시,살다,to live,verb,R3,N
-1358,ولازم,와라짐,그리고 ~해야,and must,part,R3,N
-1359,كنتش,콘테시,~아니었다,wasn't,verb,R3,N
-1360,نبقى,니바,되다(우리),to become,verb,R3,N
-1361,بتتكلمي,비티트칼레미,말하다(너 여),to speak,verb,R3,N
-1362,مفاجأة,무파그아,깜짝 놀람,surprise,noun,R3,N
-1363,الشمس,잇샴스,해,sun,noun,R3,Y
-1364,الجنس,일긴스,성(性),sex,noun,R3,N
-1365,طويلة,타윌라,긴,long,adj,R3,Y
-1366,المنطقة,일만티아,지역,area,noun,R3,N
-1367,نخرج,니크라그,나가다(우리),to go out,verb,R3,N
-1368,ناحية,나혜야,쪽,direction,noun,R3,N
-1369,تعيش,티이시,살다,to live,verb,R3,N
-1370,عرض,아르드,제안/쇼,offer,noun,R3,N
-1371,ودلوقت,와딜와티,그리고 지금,and now,adv,R3,N
-1372,عيش,에시,빵,bread,noun,R3,Y
-1373,الكلاب,일킬랍,개들,dogs,noun,R3,Y
-1374,الوضع,일와드,상황,situation,noun,R3,N
-1375,هتاخد,하타코드,가져갈 것이다,will take,verb,R3,N
-1376,سمحتي,사마흐티,부디(여),please,interj,R3,N
-1377,أسئلة,아스일라,질문들,questions,noun,R3,N
-1378,هفضل,하파달,계속 ~할 것,will stay,verb,R3,N
-1379,سر,세르,비밀,secret,noun,R3,N
-1380,قربت,아랍트,가까워졌다,got close,verb,R3,N
-1381,بنعمل,비니밀,우리가 하다,we do,verb,R3,N
-1382,أحمر,아흐마르,빨간,red,adj,R3,Y
-1383,قدامك,우다막,네 앞에,in front of you,prep,R3,N
-1384,ضد,데드,~에 반대,against,prep,R3,N
-1385,الجاية,일가야,다음(여),next,adj,R3,N
-1386,قلعة,알아,성,castle,noun,R3,Y
-1387,النص,인누스,반/가운데,half,noun,R3,N
-1388,مفتاح,무프타흐,열쇠,key,noun,R3,Y
-1389,يخليك,이칼릭,너를 ~하게 하다,let you,verb,R3,N
-1390,القبيلة,일아빌라,부족,tribe,noun,R3,N
-1391,أفلام,아플람,영화들,movies,noun,R3,N
-1392,لاء,라,아니(강조),no,interj,R3,N
-1393,عايزها,아이자하,그것을 원해,want it,verb,R3,N
-1394,يمشي,이므시,걷다,to walk,verb,R3,Y
-1395,أبوكي,아부키,너(여)의 아버지,your father,noun,R3,N
-1396,خبر,카바르,소식,news,noun,R3,N
-1397,تطلع,티틀라,나가다/올라가다,to go out,verb,R3,N
-1398,الشنطة,잇샨타,가방,bag,noun,R3,Y
-1399,حبيت,합베트,좋아했다,loved,verb,R3,N
-1400,ريحة,리하,냄새,smell,noun,R3,N
-1401,طبيعي,타비이,보통의,normal,adj,R3,N
-1402,أربع,아르바,넷,four,num,R3,Y
-1403,قررت,아라르트,결정했다,decided,verb,R3,N
-1404,للناس,린나스,사람들에게,to people,noun,R3,N
-1405,أخرى,오크라,다른(여),other,adj,R3,N
-1406,حظ,하즈,운,luck,noun,R3,N
-1407,خرا,카라,똥(비속어),crap,noun,R3,N
-1408,مشي,미시,갔다/걸었다,walked,verb,R3,Y
-1409,الغلط,일갈라트,잘못,mistake,noun,R3,N
-1410,باقي,바이,나머지,rest,noun,R3,N
-1411,شاب,샵,청년,young man,noun,R3,Y
-1412,تخلي,티칼리,~하게 하다,to let,verb,R3,N
-1413,تليفون,틸리폰,전화,telephone,noun,R3,Y
-1414,إيده,이도,그의 손,his hand,noun,R3,Y
-1415,فجأة,파그아,갑자기,suddenly,adv,R3,N
-1416,مدرسة,마드라사,학교,school,noun,R3,Y
-1417,شاي,샤이,차,tea,noun,R3,Y
-1418,القصر,일아스르,궁전,palace,noun,R3,Y
-1419,صور,소와르,사진들,photos,noun,R3,Y
-1420,تسلم,티슬람,고마워,thanks,interj,R3,N
-1421,المياه,일마야,물,water,noun,R3,Y
-1422,الحظ,일하즈,운,luck,noun,R3,N
-1423,نايم,나임,자는,sleeping,adj,R3,Y
-1424,مانا,마아나,그런데 나는,but I,pron,R3,N
-1425,معاكم,마아쿰,너희와 함께,with you (pl),prep,R3,N
-1426,تصدق,티사다아,믿다,to believe,verb,R3,N
-1427,دكتورة,독토라,여의사,doctor,noun,R3,Y
-1428,قشطة,이시타,좋아!/크림,cool,interj,R3,N
-1429,اهه,아호,여기 있어,here it is,interj,R3,N
-1430,صالح,살레흐,살레흐(이름),Saleh,name,R3,N
-1431,الأمريكان,일아마리칸,미국인들,Americans,noun,R3,N
-1432,رعب,로브,공포,horror,noun,R3,N
-1433,مصنع,마스나,공장,factory,noun,R3,Y
-1434,ناري,나리,불의,fiery,adj,R3,N
-1435,ياخويا,야코야,이봐 형제,hey brother,interj,R3,N
-1436,فرانكلين,프랭클린,프랭클린(이름),Franklin,name,R3,N
-1437,حماسية,하마세야,흥미진진한,exciting,adj,R3,N
-1438,زوبا,주바,주바(이름),Zuba,name,R3,N
-1439,مدحت,메드하트,메드하트(이름),Medhat,name,R3,N
-1440,حاسب,하세브,조심해,watch out,interj,R3,N
-1441,حكاية,헤카야,이야기,story,noun,R3,N
-1442,ميه,마야,물,water,noun,R3,Y
-1443,مثل,미슬,~처럼,like,prep,R3,N
-1444,حوالي,하왈레,약,about,adv,R3,N
-1445,تصبح,토스바흐,되다,to become,verb,R3,N
-1446,الماضي,일마디,과거,past,noun,R3,N
-1447,حسب,하삽,~에 따라,according to,prep,R3,N
-1448,السؤال,잇소알,질문,question,noun,R3,N
-1449,بنفسك,비납삭,너 스스로,yourself,pron,R3,N
-1450,متشكر,무타샤케르,고마워,thank you,interj,R3,N
-1451,فاضل,파델,남은,remaining,adj,R3,N
-1452,الخرا,일카라,똥(비속어),crap,noun,R3,N
-1453,نوصل,니우살,도착하다(우리),to arrive,verb,R3,N
-1454,تحبي,티합비,좋아하다(너 여),to like,verb,R3,N
-1455,القانون,일아눈,법,law,noun,R3,N
-1456,الفريق,일파리아,팀,team,noun,R3,N
-1457,قصر,아스르,궁전,palace,noun,R3,Y
-1458,شايفين,샤이핀,보고 있는(복),seeing,verb,R3,N
-1459,يابن,야브느,이 ~의 아들아,hey son of,interj,R3,N
-1460,الجيش,일게시,군대,army,noun,R3,Y
-1461,المتناكة,일미트나카,빌어먹을(비속어),damn (vulgar),adj,R3,N
-1462,سلاح,살라흐,무기,weapon,noun,R3,Y
-1463,صورة,수라,사진,photo,noun,R3,Y
-1464,ليهم,리홈,그들에게,to them,prep,R3,N
-1465,منا,민나,우리 중,from us,prep,R3,N
-1466,القسم,일이슴,경찰서,police station,noun,R3,Y
-1467,ياعم,야암,이봐,hey man,interj,R3,N
-1468,أخلص,아클라스,끝내다,to finish,verb,R3,N
-1469,اتحرك,잇하락,움직여,to move,verb,R3,N
-1470,شفته,숩토,그를 봤다,saw him,verb,R3,N
-1471,علم,알람,깃발,flag,noun,R3,Y
-1472,جملة,고믈라,문장,sentence,noun,R3,N
-1473,نجم,나그므,별/스타,star,noun,R3,Y
-1474,وبين,와베인,그리고 사이,and between,prep,R3,N
-1475,جماعه,가마아,여러분,guys,noun,R3,N
-1476,الشر,잇샤르,악,evil,noun,R3,N
-1477,حي,하이,살아있는,alive,adj,R3,N
-1478,سعادة,사아다,행복,happiness,noun,R3,N
-1479,بيجي,비기,오다,comes,verb,R3,N
-1480,لأنك,리안낙,네가 ~때문에,because you,conj,R3,N
-1481,ميعاد,미아드,약속 시간,appointment,noun,R3,N
-1482,يرجع,이르가,돌아오다,to return,verb,R3,N
-1483,الشباب,잇샤밥,젊은이들,youth,noun,R3,N
-1484,زعلان,자알란,속상한,upset,adj,R3,Y
-1485,وعشان,와아샨,그리고 ~때문에,and because,conj,R3,N
-1486,حقيقية,하이이야,진짜(여),real,adj,R3,N
-1487,عينيك,에네크,너의 눈,your eyes,noun,R3,Y
-1488,وقتك,와타크,너의 시간,your time,noun,R3,N
-1489,جيد,가예드,좋은,good,adj,R3,N
-1490,خطة,코타,계획,plan,noun,R3,N
-1491,أخدت,아카트,가졌다(나),took,verb,R3,N
-1492,بتاعت,비타아트,~의(여),of,part,R3,N
-1493,مستشفى,무스타슈파,병원,hospital,noun,R3,Y
-1494,عظيمة,아지마,훌륭한,great,adj,R3,N
-1495,ماشية,마시야,가는/괜찮아,going,adj,R3,N
-1496,اللحظة,일라흐자,순간,moment,noun,R3,N
-1497,اسأل,이스알,물어봐,to ask,verb,R3,N
-1498,أحس,아해스,느끼다,to feel,verb,R3,N
-1499,متقلقش,마티을라쉬,걱정 마,don't worry,verb,R3,N
-1500,راسك,라삭,너의 머리,your head,noun,R3,Y
-1501,مشغول,마슈굴,바쁜,busy,adj,R3,N
-1502,عزيزتى,아지자티,내 사랑(여),my dear,noun,R3,N
-1503,اصحى,이스하,일어나,wake up,verb,R3,Y
-1504,هاكون,하쿤,~일 것이다(나),I will be,verb,R3,N
-1505,راحوا,라후,갔다(그들),went,verb,R3,N
-1506,أوعدك,아우으닥,약속해,I promise you,verb,R3,N
-1507,الشقة,잇샤아,아파트,apartment,noun,R3,Y
-1508,هتفضل,하티프달,계속 ~할 것,will stay,verb,R3,N
-1509,منطقة,만티아,지역,area,noun,R3,N
-1510,أفهم,아프함,이해하다,to understand,verb,R3,N
-1511,أوصل,아우살,도착하다,to arrive,verb,R3,N
-1512,بيعملوا,비이밀루,그들이 하다,they do,verb,R3,N
-1513,العب,일압,놀아,to play,verb,R3,Y
-1514,أعرفه,아라포,그를 알다,know him,verb,R3,N
-1515,أسألك,아스알락,너에게 묻다,ask you,verb,R3,N
-1516,بوركي,보르키,보르키(이름),Porky,name,R3,N
-1517,الآلهة,일알리하,신들,gods,noun,R3,N
-1518,ماهو,마후,그런데 그건,but it is,part,R3,N
-1519,حامل,하멜,임신한,pregnant,adj,R3,Y
-1520,عيلة,엘라,가족,family,noun,R3,Y
-1521,يرحمه,이르하모,고인에게 자비를,rest in peace,interj,R3,N
-1522,الرحمن,아르라흐만,자비로운 분,the Merciful,noun,R3,N
-1523,ولى,왈리,후견인,guardian,noun,R3,N
-1524,بريندا,브렌다,브렌다(이름),Brenda,name,R3,N
-1525,وقته,와토,그 시간,its time,noun,R3,N
-1526,تجيب,티깁,가져오다,to bring,verb,R3,N
-1527,العمل,일아말,일,work,noun,R3,N
-1528,وله,왈라,아니면,or,conj,R3,N
-1529,توقف,타왓아프,멈추다,to stop,verb,R3,N
-1530,مختلفة,묵탈리파,다른(여),different,adj,R3,N
-1531,سوف,사우파,~할 것이다,will,part,R3,N
-1532,غبية,가베야,멍청한(여),stupid,adj,R3,N
-1533,بيبقى,비이바,되다,becomes,verb,R3,N
-1534,بطلي,바탈리,그만해(여),stop it,verb,R3,N
-1535,بتحاول,비트하윌,시도하다,to try,verb,R3,N
-1536,شغلك,쇼글락,너의 일,your work,noun,R3,N
-1537,المستقبل,일무스타으발,미래,future,noun,R3,N
-1538,ناوي,나위,~할 생각인,intending,adj,R3,N
-1539,يالهوي,야라흐위,세상에!,oh my God,interj,R3,N
-1540,وانتوا,와인투,그리고 너희,and you (pl),pron,R3,N
-1541,اعمله,이밀루,그것을 해,do it,verb,R3,N
-1542,بتبقى,비티바,되다,becomes,verb,R3,N
-1543,نعملها,니밀하,우리가 그것을 하다,we do it,verb,R3,N
-1544,غيري,게리,나 말고 다른,other than me,pron,R3,N
-1545,اعملي,이밀리,해(여),do,verb,R3,N
-1546,البتاع,일비타,그거(물건),thing,noun,R3,N
-1547,شرف,샤라프,명예,honor,noun,R3,N
-1548,تعويذة,타위자,주문,spell,noun,R3,N
-1549,السر,잇세르,비밀,secret,noun,R3,N
-1550,عزيزي,아지지,내 사랑,my dear,noun,R3,N
-1551,بدور,바다와르,찾고 있다,looking for,verb,R3,N
-1552,ڤاسيليڤيتش,바실리예비치,바실리예비치(이름),Vasilyevich,name,R3,N
-1553,عايشين,아이신,살고 있는(복),living,adj,R3,N
-1554,الحقني,일하으니,도와줘,help me,verb,R3,N
-1555,وسط,와사트,가운데,middle,noun,R3,N
-1556,هممم,흠,흠,hmm,interj,R3,N
-1557,عاوزين,아우진,원하는(복),want,verb,R3,N
-1558,ذكي,자키,똑똑한,smart,adj,R3,N
-1559,البحث,일바흐스,검색/연구,search,noun,R3,N
-1560,الولاد,일윌라드,아이들,kids,noun,R3,Y
-1561,اللعبة,일레바,게임/장난감,game,noun,R3,Y
-1562,خمسة,캄사,다섯,five,num,R3,Y
-1563,جامده,감다,멋진/단단한,awesome,adj,R3,N
-1564,بيب,비브,삐(소리),beep,other,R3,N
-1565,هيه,헤야,그녀,she,pron,R3,N
-1566,التلاتة,잇탈라타,셋,three,num,R3,Y
-1567,ديت,데이트,데이트,date,noun,R3,N
-1568,الفجر,일파그르,새벽,dawn,noun,R3,Y
-1569,القضية,일아데야,사건,case,noun,R3,N
-1570,كلاين,클라인,클라인(이름),Klein,name,R3,N
-1571,بريك,브레이크,휴식,break,noun,R3,N
-1572,ممم,음,음,mmm,interj,R3,N
-1573,الموبايل,일모바일,휴대폰,mobile phone,noun,R3,Y
-1574,جودي,주디,주디(이름),Judy,name,R3,N
-1575,توفيق,타우피아,타우피크(이름),Tawfik,name,R3,N
-1576,سماحة,사마하,관용/성하(존칭),tolerance,noun,R3,N
-1577,زينب,제납,자이납(이름),Zeinab,name,R3,N
-1578,بالمصرية,빌마스레야,이집트어로,in Egyptian,adv,R3,N
-1579,دكترة,다크타라,의사(속어),doc,other,R3,N
-1580,أفندم,아판담,네?/뭐라고요,pardon,interj,R3,N
-1581,ي,야,(조각),fragment,other,R3,N
-1582,وكنت,와콘트,그리고 ~였다(나),and I was,verb,R3,N
-1583,سامع,사메,듣고 있는,hearing,adj,R3,N
-1584,طلبت,탈랍트,요청했다,asked for,verb,R3,N
-1585,راجع,라게,돌아오는,coming back,adj,R3,N
-1586,ياد,야드,이봐 꼬마,hey kid,interj,R3,N
-1587,بخصوص,비코수스,~에 관해,about,prep,R3,N
-1588,جعان,가안,배고픈,hungry,adj,R3,Y
-1589,شارع,샤레,거리,street,noun,R3,Y
-1590,لماذا,리마자,왜,why,pron,R3,N
-1591,اووه,오,오!,oh,interj,R3,N
-1592,خلصنا,칼라스나,끝냈다(우리),we finished,verb,R3,N
-1593,التي,알라티,~하는(관계사),which,pron,R3,N
-1594,شخصية,샤크세야,인물/성격,character,noun,R3,N
-1595,عملية,아마레야,수술/작전,operation,noun,R3,N
-1596,معندكش,마안다크쉬,너는 없다,you don't have,verb,R3,N
-1597,بالطريقة,빗타리아,방식으로,in the way,noun,R3,N
-1598,بتعمله,비티밀루,그것을 하다,doing it,verb,R3,N
-1599,منكم,민쿰,너희에게서,from you,prep,R3,N
-1600,طريقه,타리아,방법/길,way,noun,R3,N
-1601,قضية,아데야,사건,case,noun,R3,N
-1602,وبعدها,와바다하,그리고 그 후,and after that,adv,R3,N
-1603,الطفل,잇티플,아이,child,noun,R3,Y
-1604,اضرب,이드랍,때려,to hit,verb,R3,Y
-1605,فاهمني,파햄니,내 말 이해해?,understand me,verb,R3,N
-1606,مظبوط,마즈붓,맞다/정확한,correct,adj,R3,N
-1607,كلكوا,쿨루쿠,너희 모두,all of you,pron,R3,N
-1608,داهية,다히아,재앙,disaster,noun,R3,N
-1609,مصيبة,무시바,재앙,disaster,noun,R3,N
-1610,صحاب,소합,친구들,friends,noun,R3,Y
-1611,راضي,라디,만족한,satisfied,adj,R3,N
-1612,قلقان,알란,걱정하는,worried,adj,R3,N
-1613,وراه,와라,그의 뒤,behind him,prep,R3,N
-1614,الشيطان,잇셰탄,악마,devil,noun,R3,N
-1615,هتيجي,하티기,올 것이다,will come,verb,R3,N
-1616,بحبه,바합보,그를 사랑해,I love him,verb,R3,N
-1617,هتروح,하트루흐,갈 것이다,will go,verb,R3,N
-1618,انني,인니,내가 ~라는 것,that I,conj,R3,N
-1619,الهوا,일하와,공기/바람,air,noun,R3,N
-1620,الجدعان,일가다안,좋은 녀석들,guys,noun,R3,N
-1621,الساحل,잇사헬,해안,coast,noun,R3,Y
-1622,الجنة,일간나,천국,paradise,noun,R3,N
-1623,وظيفة,와지파,직업,job,noun,R3,N
-1624,الرحيم,아르라힘,자비로운 분,the Merciful,noun,R3,N
-1625,أستغفر,아스타그파르,용서를 구하다,seek forgiveness,verb,R3,N
-1626,رعد,라아드,천둥,thunder,noun,R3,Y
-1627,زوتوبيا,주토비야,고유명사,proper name,name,R3,N
-1628,سعد,사아드,사아드(이름),Saad,name,R3,N
-1629,بانفعال,비인피알,흥분하여,emotionally,adv,R3,N
-1630,تبادل,타바돌,교환,exchange,noun,R3,N
-1631,سعادتك,사아다탁,당신(존칭),sir,pron,R3,N
-1632,أخوه,아쿠,그의 형제,his brother,noun,R3,N
-1633,يجب,야기브,~해야 한다,must,verb,R3,N
-1634,قطع,아타,자르다,to cut,verb,R3,Y
-1635,جاب,갑,가져왔다,brought,verb,R3,N
-1636,كتر,키테르,많이,a lot,adv,R3,N
-1637,حياته,하야토,그의 인생,his life,noun,R3,N
-1638,مكانه,마카노,그의 자리,his place,noun,R3,N
-1639,انتهى,인타하,끝났다,ended,verb,R3,N
-1640,الجزء,일고즈,부분,part,noun,R3,N
-1641,خارج,카레그,밖,outside,adv,R3,N
-1642,الموقف,일마우아프,상황,situation,noun,R3,N
-1643,باللي,빌리,~하는 것으로,with what,pron,R3,N
-1644,رحلة,레흘라,여행,trip,noun,R3,N
-1645,متأكده,메타악다,확실한(여),sure,adj,R3,N
-1646,عشانك,아샤낙,너를 위해,for you,prep,R3,N
-1647,ألبس,알바스,입다,to wear,verb,R3,Y
-1648,تلات,탈랏,셋,three,num,R3,Y
-1649,القصة,일잇사,이야기,story,noun,R3,N
-1650,فاكره,파크라,기억하다(여),to remember,verb,R3,N
-1651,عالي,알리,높은,high,adj,R3,Y
-1652,أمه,오모,그의 어머니,his mother,noun,R3,N
-1653,الأوضة,일오다,방,room,noun,R3,Y
-1654,بيكون,비쿤,~이다,is,verb,R3,N
-1655,عينيا,에네야,내 눈,my eyes,noun,R3,Y
-1656,لازمة,라즈마,필요한,necessary,adj,R3,N
-1657,مفهوم,마프훔,알겠다,understood,adj,R3,N
-1658,ملهاش,말하쉬,그것은 없다,it has no,part,R3,N
-1659,شعر,샤르,머리카락,hair,noun,R3,Y
-1660,السوق,잇수,시장,market,noun,R3,Y
-1661,يمين,이민,오른쪽,right,noun,R3,N
-1662,ماحدش,마하드쉬,아무도 ~않다,nobody,pron,R3,N
-1663,نام,남,잤다,slept,verb,R3,Y
-1664,هسيبك,하시박,너를 두고 갈게,I'll leave you,verb,R3,N
-1665,أكمل,아카밀,계속하다,to continue,verb,R3,N
-1666,مكتب,마크탑,사무실/책상,office,noun,R3,Y
-1667,حقيقة,하이아,사실,truth,noun,R3,N
-1668,تشرب,티쉬랍,마시다,to drink,verb,R3,Y
-1669,محتاجه,메흐타가,필요한(여),need,adj,R3,N
-1670,أمن,암느,보안,security,noun,R3,N
-1671,معلومات,마알루마트,정보,information,noun,R3,N
-1672,هقول,하울,말할 것이다,will say,verb,R3,N
-1673,سو,소,그래서,so,other,R3,N
-1674,ششش,쉬,쉿,shh,interj,R3,N
-1675,اختار,이크타르,고르다,to choose,verb,R3,N
-1676,العيلة,일엘라,가족,family,noun,R3,Y
-1677,لورد,로르드,경(귀족),lord,noun,R3,N
-1678,الجثة,일구사,시체,corpse,noun,R3,N
-1679,الحج,일하그,순례/어르신,pilgrimage,noun,R3,N
-1680,هيكتور,헥토르,헥토르(이름),Hector,name,R3,N
-1681,الأرجنتين,일아르겐틴,아르헨티나,Argentina,name,R3,N
-1682,شاركس,샤르크스,(이름),(name),name,R3,N
-1683,التشجيع,잇타슈기,응원,cheering,noun,R3,N
-1684,ستراتون,스트라툰,(인명),(name),name,R3,N
-1685,البقية,일바이야,나머지,the rest,noun,R3,N
-1686,القرموطي,일아르무티,(인명),(name),name,R3,N
-1687,أشواق,아슈와아,그리움,longing,noun,R3,N
-1688,أبوها,아부하,그녀의 아버지,her father,noun,R3,N
-1689,معلهش,마알레시,괜찮아,never mind,interj,R3,N
-1690,أهلك,아흘락,네 가족,your family,noun,R3,N
-1691,مالي,말리,내 것이 무슨,what's with me,pron,R3,N
-1692,وقع,와아아,떨어지다,to fall,verb,R3,Y
-1693,جايه,가이야,오는(여),coming,adj,R3,N
-1694,ورد,와르드,장미,rose,noun,R3,Y
-1695,مرحبا,마르하반,안녕하세요,hello,interj,R3,N
-1696,اثبت,이스밧,증명하다,to prove,verb,R3,N
-1697,بطريقة,비타리아,~방식으로,in a way,prep,R3,N
-1698,نادي,나디,클럽,club,noun,R3,N
-1699,بحاجة,비하가,~가 필요한,in need of,adj,R3,N
-1700,عندما,인다마,~할 때,when,conj,R3,N
-1701,الجميع,일가미,모두,everyone,pron,R3,N
-1702,معناها,마나하,그 뜻은,meaning,noun,R3,N
-1703,احساس,에흐사스,느낌,feeling,noun,R3,N
-1704,خنزير,칸지르,돼지,pig,noun,R3,Y
-1705,سيداتي,사이다티,숙녀 여러분,ladies,noun,R3,N
-1706,أقرب,아으랍,더 가까운,closer,adj,R3,N
-1707,حبي,홉비,내 사랑,my love,noun,R3,N
-1708,قرب,우르브,가까움,near,adv,R3,N
-1709,مشهور,마슈후르,유명한,famous,adj,R3,N
-1710,النفس,인나프스,자신/영혼,self,noun,R3,N
-1711,رغم,라그무,~에도 불구하고,despite,prep,R3,N
-1712,حلوين,헬윈,예쁜(복수),pretty,adj,R3,N
-1713,أعلى,아알라,더 높은,higher,adj,R3,N
-1714,جو,고,분위기/날씨,weather,noun,R3,N
-1715,كتب,카탑,쓰다,to write,verb,R3,Y
-1716,كابتن,카브틴,주장/기사님,captain,noun,R3,N
-1717,اليمين,일야민,오른쪽,right side,noun,R3,N
-1718,الميه,일마야,물,water,noun,R3,Y
-1719,الإله,일일라,신,god,noun,R3,N
-1720,أشتري,아슈티리,사다,to buy,verb,R3,Y
-1721,كلمني,칼리미니,나한테 말해,talk to me,verb,R3,N
-1722,الوزير,일와지르,장관,minister,noun,R3,N
-1723,تلعب,틸압,놀다(너),to play,verb,R3,Y
-1724,مليان,말얀,가득 찬,full,adj,R3,Y
-1725,حياتنا,하야트나,우리 삶,our life,noun,R3,N
-1726,بنتكلم,빈니트칼림,우리가 말하고 있다,we talk,verb,R3,N
-1727,الطلاق,잇탈라아,이혼,divorce,noun,R3,N
-1728,اتجوز,잇가우와즈,결혼하다,to marry,verb,R3,N
-1729,المركب,일마르캅,배,boat,noun,R3,Y
-1730,الرئيس,잇라이스,대통령,president,noun,R3,N
-1731,شريف,샤리프,정직한,honest,adj,R3,N
-1732,الحتة,일힛타,그곳/조각,place,noun,R3,N
-1733,ايس,아이스,얼음,ice,noun,R3,Y
-1734,ومفيش,우마피시,그리고 없다,and there is no,part,R3,N
-1735,تعديل,타으딜,수정,modification,noun,R3,N
-1736,عقلك,아을락,네 정신,your mind,noun,R3,N
-1737,ماكس,막스,(인명),(name),name,R3,N
-1738,تايه,타예흐,길을 잃은,lost,adj,R3,N
-1739,ديدبول,데드풀,(이름),(name),name,R3,N
-1740,فرانسيس,프란시스,(인명),(name),name,R3,N
-1741,ربيعة,라비아,(인명),(name),name,R3,N
-1742,لورانس,로렌스,(인명),(name),name,R3,N
-1743,بيلفورت,벨포트,(인명),(name),name,R3,N
-1744,قرمط,아르마트,(인명),(name),name,R3,N
-1745,العساس,일앗사스,(인명),(name),name,R3,N
-1746,إلهام,일함,영감,inspiration,noun,R3,N
-1747,خرج,카라그,나가다,to go out,verb,R3,Y
-1748,ينفعش,옌파아시,안 된다,not allowed,verb,R3,N
-1749,قلبه,알부,그의 마음,his heart,noun,R3,N
-1750,ت,트,(조각),(fragment),other,R3,N
-1751,كأنه,카에누,마치 ~처럼,as if,conj,R3,N
-1752,اجل,아갈,그래/네,yes,interj,R3,N
-1753,معملتش,마아말티시,안 했어,I didn't do,verb,R3,N
-1754,الصراحة,잇사라하,솔직히,honesty,noun,R3,N
-1755,وأي,와아이,그리고 어떤,and any,det,R3,N
-1756,اهيه,아헤,여기 있다,here it is,part,R3,N
-1757,طالما,탈라마,~하는 한,as long as,conj,R3,N
-1758,بيدور,비이다우와르,찾고 있다,looking for,verb,R3,N
-1759,زفت,제프트,엉망/아스팔트,crap,noun,R3,N
-1760,هنروح,한루흐,우리는 갈 것이다,we will go,verb,R3,N
-1761,النوع,인노으,종류,kind,noun,R3,N
-1762,نجيب,니깁,가져오다(우리),to bring,verb,R3,N
-1763,عبيط,아비트,바보 같은,silly,adj,R3,N
-1764,ندخل,니드칼,들어가다(우리),to enter,verb,R3,Y
-1765,سنتين,사나테인,2년,two years,noun,R3,N
-1766,القديمة,일아디마,오래된(여),old,adj,R3,N
-1767,تموت,티무트,죽다(너),to die,verb,R3,N
-1768,لنفسك,리나프삭,너 자신에게,for yourself,pron,R3,N
-1769,خاصة,카사,특히,especially,adv,R3,N
-1770,حيوان,하야완,동물,animal,noun,R3,Y
-1771,بتحبي,비트힙비,너 좋아하니(여),you love,verb,R3,N
-1772,عكس,아크스,반대,opposite,noun,R3,N
-1773,بسيط,바시트,간단한,simple,adj,R3,N
-1774,ايمي,에이미,(인명),(name),name,R3,N
-1775,خدمة,키드마,서비스/부탁,service,noun,R3,N
-1776,جوانا,조아나,(인명),(name),name,R3,N
-1777,روب,로브,가운,robe,noun,R3,Y
-1778,عشر,아샤르,10,ten,num,R3,Y
-1779,أرض,아르드,땅,ground,noun,R3,Y
-1780,غيره,게이루,그 외 다른 것,other,pron,R3,N
-1781,عشرة,아샤라,10,ten,num,R3,Y
-1782,ويل,웨일,재앙,woe,noun,R3,N
-1783,النسوان,인니스완,여자들,women,noun,R3,Y
-1784,أنيك,아닉,(비속어),(vulgar),verb,R3,N
-1785,يدخل,이드칼,들어가다(그),to enter,verb,R3,Y
-1786,بقالنا,바알레나,우리가 ~한 지,we have been,part,R3,N
-1787,أصلانيان,아슬라니얀,(인명),(name),name,R3,N
-1788,سيادتك,시야다탁,당신(존칭),you (formal),pron,R3,N
-1789,معسكر,모아스카르,캠프,camp,noun,R3,Y
-1790,بوو,부,부(소리),boo,interj,R3,N
-1791,لسا,리사,아직,still,adv,R3,N
-1792,هاتف,하티프,전화기,phone,noun,R3,Y
-1793,وفاء,와파,충실함,loyalty,noun,R3,N
-1794,ثم,숨마,그리고 나서,then,conj,R3,N
-1795,اكتب,에크팁,써라,write,verb,R3,Y
-1796,النهار,인나하르,낮/오늘,daytime,noun,R3,Y
-1797,نفسنا,나프시나,우리 자신,ourselves,pron,R3,N
-1798,قالوا,알루,그들이 말했다,they said,verb,R3,N
-1799,السلم,잇실림,계단,stairs,noun,R3,Y
-1800,ونص,우누스,반,and a half,num,R3,N
-1801,العسل,일아살,꿀,honey,noun,R3,Y
-1802,مالها,말하,그녀가 무슨 일,what's with her,pron,R3,N
-1803,حصان,호산,말,horse,noun,R3,Y
-1804,أولا,아왈란,첫째로,first,adv,R3,N
-1805,بالذات,빗자트,특히,specifically,adv,R3,N
-1806,شرطة,슈르타,경찰,police,noun,R3,Y
-1807,الزمن,잇자만,시대,time,noun,R3,N
-1808,داعي,다이,이유,need,noun,R3,N
-1809,عموما,오무만,대체로,generally,adv,R3,N
-1810,متقولش,마트울시,말하지 마,don't say,verb,R3,N
-1811,بعده,바아두,그 후,after him,adv,R3,N
-1812,خدوا,쿠두,가져가(복수),take,verb,R3,N
-1813,هعرف,하아라프,알게 될 것이다,I will know,verb,R3,N
-1814,برده,바르두,역시,also,adv,R3,N
-1815,كوكيي,쿠키,쿠키,cookie,noun,R3,Y
-1816,أقوله,아울루,그에게 말하다,tell him,verb,R3,N
-1817,أحيانا,아흐야난,가끔,sometimes,adv,R3,N
-1818,باله,발루,그의 주의,his mind,noun,R3,N
-1819,زهقت,지히이트,지겹다,fed up,verb,R3,N
-1820,الأخيرة,일아키라,마지막(여),last,adj,R3,N
-1821,متجوزين,미트가우와진,결혼한(복수),married,adj,R3,N
-1822,عمله,아말루,그가 한 것,what he did,noun,R3,N
-1823,الراديو,일라디유,라디오,radio,noun,R3,Y
-1824,هدوم,후둠,옷,clothes,noun,R3,Y
-1825,تقعد,티아드,앉다(너),to sit,verb,R3,Y
-1826,رأيي,라이이,내 의견,my opinion,noun,R3,N
-1827,بتعملوا,비티아밀루,너희 하고 있다,you do,verb,R3,N
-1828,بقالك,바알락,네가 ~한 지,you have been,part,R3,N
-1829,ضربة,다르바,타격,hit,noun,R3,Y
-1830,للبيت,릴베이트,집으로,to the house,noun,R3,N
-1831,خرجت,카라그트,나갔다,I went out,verb,R3,N
-1832,حلاوة,할라와,달콤함,sweetness,noun,R3,N
-1833,نلاقي,닐라이,찾다(우리),to find,verb,R3,N
-1834,قطة,옷타,고양이,cat,noun,R3,Y
-1835,هتلاقي,히틀라이,찾게 될 것이다,you will find,verb,R3,N
-1836,العمر,일오므르,나이/일생,age,noun,R3,N
-1837,غرفة,고르파,방,room,noun,R3,Y
-1838,أقوى,아으와,더 강한,stronger,adj,R3,N
-1839,القديم,일아딤,오래된,old,adj,R3,N
-1840,المشاكل,일마샤킬,문제들,problems,noun,R3,N
-1841,جرب,가랍,시도하다,to try,verb,R3,N
-1842,شفتي,슈프티,너 봤니(여),you saw,verb,R3,N
-1843,السنين,잇시닌,세월,years,noun,R3,N
-1844,زيه,제이유,그처럼,like him,prep,R3,N
-1845,يعيش,예이시,살다,to live,verb,R3,N
-1846,أجازة,아가자,휴가,vacation,noun,R3,Y
-1847,خبط,카바트,두드리다,to knock,verb,R3,Y
-1848,ميلاد,밀라드,생일/탄생,birth,noun,R3,N
-1849,مراته,미라투,그의 아내,his wife,noun,R3,N
-1850,لابسة,라브사,입고 있는(여),wearing,adj,R3,Y
-1851,حمام,함맘,화장실,bathroom,noun,R3,Y
-1852,الشهر,잇샤흐르,달(월),month,noun,R3,N
-1853,شوفتك,슈프탁,너를 봤다,I saw you,verb,R3,N
-1854,جين,진,(인명),(name),name,R3,N
-1855,بيهم,비훔,그들과 함께,with them,prep,R3,N
-1856,الخط,일카트,선,line,noun,R3,Y
-1857,رجلك,리글락,네 다리,your leg,noun,R3,Y
-1858,عايزينه,아이지누,그를 원한다(우리),we want him,verb,R3,N
-1859,أربعة,아르바아,4,four,num,R3,Y
-1860,الحلم,일헬름,꿈,dream,noun,R3,N
-1861,هنموت,한무트,우리는 죽을 것이다,we will die,verb,R3,N
-1862,نمت,님트,잤다,I slept,verb,R3,Y
-1863,به,비,그것으로,with it,prep,R3,N
-1864,عريس,아리스,신랑,groom,noun,R3,Y
-1865,سته,싯타,6,six,num,R3,Y
-1866,اس,에스,(조각),(fragment),other,R3,N
-1867,بوتر,포터,(인명),(name),name,R3,N
-1868,يختي,야크티,이봐(여),hey sister,interj,R3,N
-1869,لحضرتك,리하드라탁,당신께,for you (formal),pron,R3,N
-1870,طلاق,탈라,이혼,divorce,noun,R3,N
-1871,حمدي,함디,(인명),(name),name,R3,N
-1872,ياسطى,야스타,기사님,driver,interj,R3,N
-1873,الكباريه,일카바레,카바레,cabaret,noun,R3,N
-1874,أريندال,아렌달,(지명),(name),name,R3,N
-1875,زياد,지야드,(인명),(name),name,R3,N
-1876,كركورة,코르코라,(인명),(name),name,R3,N
-1877,برزك,바르자크,(조각),(fragment),other,R3,N
-1878,تفضلي,이트파달리,어서 오세요(여),please,interj,R3,N
-1879,يكونوا,위쿠누,그들이 ~이다,they be,verb,R3,N
-1880,خاطر,카테르,마음/~를 위해,sake,noun,R3,N
-1881,اتفضلوا,이트파달루,어서 오세요(복수),please,interj,R3,N
-1882,نطلع,니틀라,올라가다(우리),to go up,verb,R3,N
-1883,دنيا,돈야,세상,world,noun,R3,N
-1884,عزيز,아지즈,소중한,dear,adj,R3,N
-1885,يارب,야랍,주여,oh God,interj,R3,N
-1886,اللعنه,일라나,저주,curse,noun,R3,N
-1887,توني,토니,(인명),(name),name,R3,N
-1888,بنفس,비나프스,같은,same,det,R3,N
-1889,محظوظ,마흐주즈,운 좋은,lucky,adj,R3,N
-1890,عشاني,아샤니,나 때문에,for me,prep,R3,N
-1891,جميعا,가미안,모두 함께,all together,adv,R3,N
-1892,أطلب,아틀랍,요청하다,to order,verb,R3,N
-1893,فاكرين,파크리인,기억하다(복수),remember,verb,R3,N
-1894,تروحي,티루히,가다(너 여),to go,verb,R3,N
-1895,جريمة,가리마,범죄,crime,noun,R3,N
-1896,أعملك,아아말락,해 주다,to do for you,verb,R3,N
-1897,حاسه,하사,느끼는(여),feeling,adj,R3,N
-1898,تساعدني,티사이디니,나를 돕다,help me,verb,R3,N
-1899,مصدقة,미사다아,믿는(여),believing,adj,R3,N
-1900,مريم,마르얌,(인명),(name),name,R3,N
-1901,السحرية,잇세흐레야,마법의,magic,adj,R3,N
-1902,عدل,아들,공정함/바로,straight,adj,R3,N
-1903,اقعدي,오우디,앉아(여),sit,verb,R3,Y
-1904,ممتاز,뭄타즈,훌륭한,excellent,adj,R3,N
-1905,مرتين,마르테인,두 번,twice,adv,R3,N
-1906,مفروض,마프루드,당연한,supposed,adj,R3,N
-1907,حكم,훅름,판결,ruling,noun,R3,N
-1908,تروحوا,티루후,가다(너희),to go,verb,R3,N
-1909,المناسب,일무나십,적절한,suitable,adj,R3,N
-1910,شباك,샵박,창문,window,noun,R3,Y
-1911,لبس,립스,옷,clothes,noun,R3,Y
-1912,بحر,바흐르,바다,sea,noun,R3,Y
-1913,هادي,하디,조용한,calm,adj,R3,N
-1914,فرحان,파르한,기쁜,happy,adj,R3,Y
-1915,كلير,클레어,(인명),(name),name,R3,N
-1916,إثارة,이사라,흥분,excitement,noun,R3,N
-1917,ستبفورد,스텝포드,(이름),(name),name,R3,N
-1918,أساسا,아사산,원래,basically,adv,R3,N
-1919,مامي,마미,엄마,mommy,noun,R3,Y
-1920,بكده,비키다,그렇게,like this,adv,R3,N
-1921,زوجة,조우가,아내,wife,noun,R3,N
-1922,تيد,테드,(인명),(name),name,R3,N
-1923,عاوزك,아우작,너를 원해,I want you,verb,R3,N
-1924,تبدأ,티브다,시작하다,to start,verb,R3,N
-1925,هتعرف,히타라프,알게 될 것이다,you will know,verb,R3,N
-1926,باخد,바쿠드,가져가다,I take,verb,R3,N
-1927,ماتت,마타트,죽었다(여),she died,verb,R3,N
-1928,بداية,비다야,시작,beginning,noun,R3,N
-1929,العيش,일에이시,빵,bread,noun,R3,Y
-1930,عاجبك,아집발락,마음에 드니,you like,adj,R3,N
-1931,بيل,빌,(인명),(name),name,R3,N
-1932,مجموعة,마그무아,그룹,group,noun,R3,N
-1933,أخو,아쿠,~의 형제,brother,noun,R3,Y
-1934,مايك,마이크,(인명),(name),name,R3,N
-1935,ماشيين,마시인,가고 있는(복수),walking,adj,R3,Y
-1936,جنبك,감박,네 옆에,next to you,prep,R3,N
-1937,العجوز,일아구즈,노인,old man,noun,R3,Y
-1938,اتجاه,잇티가,방향,direction,noun,R3,N
-1939,مليش,말리시,나는 없다,I have no,part,R3,N
-1940,كارل,칼,(인명),(name),name,R3,N
-1941,العصايه,일아사야,막대기,stick,noun,R3,Y
-1942,اختيار,이크티야르,선택,choice,noun,R3,N
-1943,جيري,게리,(인명),(name),name,R3,N
-1944,البيتزا,일비짜,피자,pizza,noun,R3,Y
-1945,النبي,인나비,선지자,prophet,noun,R3,N
-1946,همس,함스,속삭임,whisper,noun,R3,N
-1947,خش,코시,들어가,go in,verb,R3,N
-1948,جيتس,게이츠,(인명),(name),name,R3,N
-1949,لعبه,리바,그의 놀이,game,noun,R3,Y
-1950,لذا,리자,그러므로,therefore,conj,R3,N
-1951,كاندس,칸디스,(인명),(name),name,R3,N
-1952,روضة,라우다,유치원,kindergarten,noun,R3,Y
-1953,يضحكان,야드하칸,둘이 웃다,laugh,verb,R3,Y
-1954,صقلية,시킬리야,시칠리아,Sicily,name,R3,N
-1955,برات,바라트,(인명),(name),name,R3,N
-1956,لأنها,리안나하,그녀가 ~때문에,because she,conj,R3,N
-1957,قعدت,아아트,앉았다,I sat,verb,R3,N
-1958,اخلي,아칼리,두다/시키다,to let,verb,R3,N
-1959,الاسم,일이슴,이름,name,noun,R3,N
-1960,اكتشفت,이크타샤프트,발견했다,I discovered,verb,R3,N
-1961,فاكرني,파크르니,나를 기억하다,remember me,verb,R3,N
-1962,نكمل,니캄밀,계속하다(우리),to continue,verb,R3,N
-1963,حساب,헤삽,계산서,bill,noun,R3,N
-1964,لولا,룰라,~이 없었다면,if not for,conj,R3,N
-1965,اتأخرت,잇아카르트,늦었다,I was late,verb,R3,N
-1966,خليها,칼리하,그대로 둬,leave it,verb,R3,N
-1967,لوحدها,리와흐다하,혼자서(여),alone,adv,R3,N
-1968,صغيرين,사이아린,작은(복수),small,adj,R3,N
-1969,شكلهم,샤클롬,그들의 모습,their look,noun,R3,N
-1970,المشهد,일마샤드,장면,scene,noun,R3,N
-1971,ك,크,(조각),(fragment),other,R3,N
-1972,غالي,갈리,비싼,expensive,adj,R3,N
-1973,قديم,아딤,오래된,old,adj,R3,N
-1974,اخرسي,이크라시,닥쳐(여),shut up,verb,R3,N
-1975,شك,샥,의심,doubt,noun,R3,N
-1976,البطل,일바탈,영웅,hero,noun,R3,Y
-1977,بالشكل,빗샤클,그런 식으로,that way,adv,R3,N
-1978,قالتلي,알리틀리,그녀가 나에게 말했다,she told me,verb,R3,N
-1979,بتشتغل,비티슈타알,일하다(너),working,verb,R3,N
-1980,شوفتها,슈프타하,그녀를 봤다,I saw her,verb,R3,N
-1981,غور,고르,꺼져,get lost,verb,R3,N
-1982,كيلو,킬루,킬로,kilo,noun,R3,N
-1983,راسي,라시,내 머리,my head,noun,R3,Y
-1984,الجميلة,일가밀라,아름다운(여),beautiful,adj,R3,N
-1985,الأحسن,일아흐산,더 좋은,the best,adj,R3,N
-1986,المفتاح,일무프타흐,열쇠,key,noun,R3,Y
-1987,الخوف,일코프,두려움,fear,noun,R3,N
-1988,بليل,빌릴,밤에,at night,adv,R3,N
-1989,غلطة,갈타,실수,mistake,noun,R3,N
-1990,بريس,브리스,(인명),(name),name,R3,N
-1991,لندن,런던,런던,London,name,R3,N
-1992,عيال,이얄,아이들,kids,noun,R3,Y
-1993,سمك,사막,생선,fish,noun,R3,Y
-1994,رأي,라이,의견,opinion,noun,R3,N
-1995,هايل,하일,멋진,great,adj,R3,N
-1996,السحر,잇세흐르,마법,magic,noun,R3,N
-1997,صديق,사디,친구,friend,noun,R3,N
-1998,القرن,일아른,세기/뿔,century,noun,R3,N
-1999,مركب,마르캅,배,boat,noun,R3,Y
-2000,يشوف,위슈프,보다(그),to see,verb,R3,N
-2001,البيض,일베이드,달걀,egg,noun,R3,Y
-2002,جرس,가라스,종,bell,noun,R3,Y
-2003,القهوة,일아흐와,커피,coffee,noun,R3,Y
-2004,خشي,코시,들어가(여),go in,verb,R3,N
-2005,متأخر,미트악카르,늦은,late,adj,R3,N
-2006,ماله,말루,그에게 무슨 일,what's with him,pron,R3,N
-2007,مشهد,마샤드,장면,scene,noun,R3,N
-2008,خدها,코드하,가져가,take it,verb,R3,N
-2009,مركز,마르카즈,센터,center,noun,R3,N
-2010,غلطان,갈탄,틀린,wrong,adj,R3,N
-2011,بالمناسبة,마이아다르시,할 수 없다,you can't,verb,R3,N
-2012,متقدرش,빗무나사바,그런데,by the way,adv,R3,N
-2013,بوسي,부시,(인명),(name),name,R3,N
-2014,مليانة,말야나,가득 찬(여),full,adj,R3,Y
-2015,فريد,파리드,(인명),(name),name,R3,N
-2016,ملوش,말루시,그는 없다,he has no,part,R3,N
-2017,الساعه,잇사아,시계,clock,noun,R3,Y
-2018,بهزر,바하자르,농담이야,I'm joking,verb,R3,N
-2019,الخطة,일카타,계획,plan,noun,R3,N
-2020,العملية,일아마레야,수술/작전,operation,noun,R3,N
-2021,طالع,탈레아,올라가는,going up,adj,R3,N
-2022,عصفورة,아스푸라,작은 새,bird,noun,R3,Y
-2023,يجيب,위깁,가져오다(그),to bring,verb,R3,N
-2024,براحتك,바라흐탁,편할 대로,as you like,adv,R3,N
-2025,هرب,히리브,도망치다,to escape,verb,R3,Y
-2026,بيتنا,베이티나,우리 집,our house,noun,R3,Y
-2027,مية,메야,100,hundred,num,R3,N
-2028,حبيب,하빕,사랑하는 사람,lover,noun,R3,N
-2029,الجاي,잇가이,다음의,next,adj,R3,N
-2030,نلعب,닐아브,놀다(우리),to play,verb,R3,Y
-2031,الحلو,일헬루,예쁜 것,the sweet,adj,R3,N
-2032,إنسان,인산,인간,human,noun,R3,Y
-2033,اللعبه,일리바,게임,game,noun,R3,Y
-2034,أوامر,아와미르,명령,orders,noun,R3,N
-2035,ليبيا,리비야,리비아,Libya,name,R3,N
-2036,العسكري,일아스카리,군인,soldier,noun,R3,Y
-2037,بروك,브룩,(인명),(name),name,R3,N
-2038,سوري,소리,미안,sorry,interj,R3,N
-2039,فادي,파디,(인명),(name),name,R3,N
-2040,تشهق,티스하아,헉하다,to gasp,verb,R3,N
-2041,مرتفع,무르타파아,높은,high,adj,R3,N
-2042,حتشبسوت,하트솁수트,(인명),(name),name,R3,N
-2043,الألماظ,일알마즈,다이아몬드,diamond,noun,R3,Y
-2044,البيه,일베이,나리,sir,noun,R3,N
-2045,ستات,시탓,여자들,women,noun,R3,Y
-2046,جاهزة,가흐자,준비된(여),ready,adj,R3,N
-2047,بيشتغل,비이슈타알,일하다(그),working,verb,R3,N
-2048,الحقوني,일하우니,도와줘,help me,interj,R3,N
-2049,رقص,라으스,춤,dance,noun,R3,Y
-2050,كانش,칸시,아니었다,wasn't,verb,R3,N
-2051,حالي,할리,내 상태,my state,noun,R3,N
-2052,حيث,하이스,~인 곳에,where,conj,R3,N
-2053,الكرسي,일쿠르시,의자,chair,noun,R3,Y
-2054,رجلي,리글리,내 다리,my leg,noun,R3,Y
-2055,أحد,아하드,누군가,anyone,pron,R3,N
-2056,عالية,알리야,높은(여),high,adj,R3,N
-2057,الأفضل,일아프달,더 나은,better,adj,R3,N
-2058,قلتي,울티,네가 말했다(여),you said,verb,R3,N
-2059,عدى,아다,지나가다,to pass,verb,R3,N
-2060,ياربي,야랍비,오 주여,oh my God,interj,R3,N
-2061,قوية,아위야,강한(여),strong,adj,R3,N
-2062,القرف,일아라프,역겨움,disgust,noun,R3,N
-2063,كبرت,키브리트,자랐다,I grew up,verb,R3,N
-2064,مكاني,마카니,내 자리,my place,noun,R3,N
-2065,بوي,보이,소년,boy,noun,R3,Y
-2066,الخنزير,일칸지르,돼지,pig,noun,R3,Y
-2067,تاكل,타쿨,먹다(너),to eat,verb,R3,Y
-2068,ابي,아비,내 아버지,my father,noun,R3,N
-2069,وشه,위샤,그의 얼굴,his face,noun,R3,Y
-2070,لل,릴,(조각),(fragment),other,R3,N
-2071,هموت,하무트,죽을 것이다,I will die,verb,R3,N
-2072,صعبة,사바,어려운(여),difficult,adj,R3,N
-2073,اطفال,아트팔,아이들,children,noun,R3,Y
-2074,تعملها,티아밀하,그것을 하다,to do it,verb,R3,N
-2075,هدومك,후두막,네 옷,your clothes,noun,R3,Y
-2076,مثيرة,무시라,흥미로운(여),exciting,adj,R3,N
-2077,آسامي,아사미,(인명),(name),name,R3,N
-2078,العشاء,일아샤,저녁 식사,dinner,noun,R3,Y
-2079,بيرة,비라,맥주,beer,noun,R3,Y
-2080,احتمال,에흐티말,가능성,possibility,noun,R3,N
-2081,أيها,아이유하,오 ~여,O,part,R3,N
-2082,الشباك,잇샵박,창문,window,noun,R3,Y
-2083,ساكن,사킨,사는,resident,adj,R3,N
-2084,لعب,리입,놀이/놀았다,play,verb,R3,Y
-2085,تاريخ,타리크,역사/날짜,history,noun,R3,N
-2086,السمك,잇사막,생선,fish,noun,R3,Y
-2087,برافو,브라보,잘했어,bravo,interj,R3,N
-2088,الحكم,일하캄,심판,referee,noun,R3,Y
-2089,حمار,후마르,당나귀,donkey,noun,R3,Y
-2090,قدر,아다르,운명/할 수 있었다,fate,noun,R3,N
-2091,اتغيرت,잇가야르트,변했다,I changed,verb,R3,N
-2092,الاولاد,아믈라,하고 있는(여),doing,adj,R3,N
-2093,عامله,일아울라드,아이들,children,noun,R3,Y
-2094,قرار,아라르,결정,decision,noun,R3,N
-2095,لطيفة,라티파,친절한(여),nice,adj,R3,N
-2096,أقولها,아울하,그것을 말하다,to say it,verb,R3,N
-2097,خليه,칼리,그를 둬,leave him,verb,R3,N
-2098,الحقيقه,일하이아,진실,truth,noun,R3,N
-2099,فرصه,포르사,기회,chance,noun,R3,N
-2100,بيقولك,비이울락,그가 너에게 말한다,he tells you,verb,R3,N
-2101,قوله,울루,그에게 말해,tell him,verb,R3,N
-2102,جينى,기니,내게 와(여),come to me,verb,R3,N
-2103,مشيت,미쉬트,걸었다/떠났다,to leave,verb,R3,Y
-2104,الورق,일와라으,그 종이,paper,noun,R3,Y
-2105,دماغه,디마우,그의 머리,head,noun,R3,Y
-2106,كداب,캇답,거짓말쟁이,liar,noun,R3,N
-2107,مصدر,마스다르,출처,source,noun,R3,N
-2108,تومي,토미,토미,Tommy,name,R3,N
-2109,صدى,사다,메아리,echo,noun,R3,N
-2110,أبص,아부쓰,보다,to look,verb,R3,Y
-2111,بيضة,베이다,달걀,egg,noun,R3,Y
-2112,الظاهر,잇자헤르,보아하니,apparently,adv,R3,N
-2113,هايكون,하이쿤,~일 것이다,will be,verb,R3,N
-2114,ناقص,나이스,부족한,missing,adj,R3,N
-2115,اااه,아아,아아(감탄),ah,interj,R3,N
-2116,الحفله,일하플라,그 파티,party,noun,R3,Y
-2117,وحياة,와하야트,~을 걸고(맹세),I swear by,interj,R3,N
-2118,الحل,일할,해결책,solution,noun,R3,N
-2119,روحت,루흐트,갔다,went,verb,R3,N
-2120,مال,말,돈/재산,money,noun,R3,Y
-2121,سن,신,이(치아)/나이,tooth,noun,R3,Y
-2122,أخوكي,아후키,너(여)의 오빠,brother,noun,R3,Y
-2123,القلم,일알람,그 펜,pen,noun,R3,Y
-2124,نيبوم,니봄,니봄,Nebom,name,R3,N
-2125,كريس,크리스,크리스,Chris,name,R3,N
-2126,الفستان,일페스탄,그 드레스,dress,noun,R3,Y
-2127,بيتزا,비차,피자,pizza,noun,R3,Y
-2128,تيك,틱,틱(소리),tick,interj,R3,N
-2129,مؤثرة,무아쎄라,감동적인,touching,adj,R3,N
-2130,زاد,자드,늘었다,to increase,verb,R3,N
-2131,أوكيه,오케,오케이,okay,interj,R3,N
-2132,الفيديو,일피디유,그 영상,video,noun,R3,Y
-2133,انفجار,인피가르,폭발,explosion,noun,R3,Y
-2134,صدق,시디으,진실/믿었다,truth,noun,R3,N
-2135,أرنبة,아르나바,토끼,rabbit,noun,R3,Y
-2136,مصعب,무스아브,무스아브,Musab,name,R3,N
-2137,بثينة,부세이나,부세이나,Buthaina,name,R3,N
-2138,بيتشيز,비치즈,나쁜 년들(욕),bitches,other,R3,N
-2139,بعت,비아트,보냈다,to send,verb,R3,N
-2140,بالعكس,빌아크스,오히려 반대로,on the contrary,adv,R3,N
-2141,ويا,와이야,~와 함께,with,prep,R3,N
-2142,وقال,위알,그리고 말했다,and said,verb,R3,N
-2143,ودا,위다,그리고 이것,and this,pron,R3,N
-2144,السن,잇신,그 이/나이,tooth,noun,R3,Y
-2145,بينك,베이낙,너와 사이,between you,prep,R3,N
-2146,شوفتي,슈프티,봤니(여),you saw,verb,R3,N
-2147,جوزك,고작,너(여)의 남편,husband,noun,R3,Y
-2148,العنوان,일인완,그 주소,address,noun,R3,N
-2149,ضروري,다루리,필수의,necessary,adj,R3,N
-2150,كأنك,카이낙,마치 너가,as if you,conj,R3,N
-2151,تقوم,티움,일어나다,to stand up,verb,R3,Y
-2152,ذنب,잠브,죄,sin,noun,R3,N
-2153,توصل,티우쌀,도착하다,to arrive,verb,R3,N
-2154,لوحدنا,레왈디나,우리끼리만,alone,adv,R3,N
-2155,خطوة,하트와,걸음,step,noun,R3,Y
-2156,تاخدي,타크디,가져가다(여),to take,verb,R3,N
-2157,فا,파,그래서,so,conj,R3,N
-2158,النظام,인니잠,그 체계,system,noun,R3,N
-2159,عليكوا,알레쿠,너희에게,on you,prep,R3,N
-2160,بتقوله,비트울루,그에게 말하니,you tell him,verb,R3,N
-2161,تقوليلي,티울릴리,내게 말하다(여),tell me,verb,R3,N
-2162,العموم,일우무,어쨌든,anyway,adv,R3,N
-2163,محترم,무흐타람,예의 바른,respectable,adj,R3,N
-2164,بيحبوا,비이힙부,좋아하다(그들),they love,verb,R3,N
-2165,ياديني,야디니,어머나,oh my,interj,R3,N
-2166,الأداء,일아다,공연/수행,performance,noun,R3,N
-2167,هيموت,하이무트,죽을 것이다,will die,verb,R3,N
-2168,اللعب,일리압,놀이,playing,noun,R3,Y
-2169,أستحمل,아스타함말,참다,to endure,verb,R3,N
-2170,سامعني,사미아니,내 말 들려?,hear me,verb,R3,N
-2171,الكلمات,일킬리마트,그 단어들,words,noun,R3,N
-2172,مسدس,무사다스,권총,pistol,noun,R3,Y
-2173,الجمعة,익굼아,금요일,Friday,noun,R3,N
-2174,القتل,일아틀,살인,killing,noun,R3,N
-2175,لية,레,왜,why,adv,R3,N
-2176,علية,알레,그에게/위에,on him,prep,R3,N
-2177,ساحرة,사흐라,마녀,witch,noun,R3,Y
-2178,عدت,아데트,지나갔다/세었다,passed,verb,R3,N
-2179,مناسب,무나십,적당한,suitable,adj,R3,N
-2180,وعايز,와아이즈,그리고 원하다,and want,adj,R3,N
-2181,نجمة,니그마,별,star,noun,R3,Y
-2182,تفكر,티팍카르,생각하다,to think,verb,R3,N
-2183,وزي,위지,그리고 ~처럼,and like,prep,R3,N
-2184,فاشل,파실,실패자,failure,adj,R3,N
-2185,هرجع,하르가아,돌아갈 것이다,will return,verb,R3,N
-2186,قدامنا,우담나,우리 앞에,in front of us,prep,R3,N
-2187,بتوقع,비트와아,예상하다,to expect,verb,R3,N
-2188,خفيف,카피프,가벼운,light,adj,R3,Y
-2189,أخبارك,아크바락,너의 소식,your news,noun,R3,N
-2190,الرجاله,이르링갈라,그 남자들,men,noun,R3,Y
-2191,مقرف,무리프,역겨운,disgusting,adj,R3,N
-2192,حفله,하플라,파티,party,noun,R3,Y
-2193,بلد,발라드,나라,country,noun,R3,N
-2194,خلاني,칼라니,나를 ~하게 했다,made me,verb,R3,N
-2195,حقك,하앙,너의 권리,your right,noun,R3,N
-2196,القلب,일알브,그 마음/심장,heart,noun,R3,Y
-2197,بتاعها,비타아하,그녀의 것,hers,pron,R3,N
-2198,قليل,알릴,적은,little,adj,R3,N
-2199,الجمال,익가말,아름다움,beauty,noun,R3,N
-2200,شعرك,샤아락,너의 머리카락,hair,noun,R3,Y
-2201,واجب,와깁,의무/숙제,duty,noun,R3,N
-2202,تحس,티해스,느끼다,to feel,verb,R3,N
-2203,ميكي,미키,미키,Mickey,name,R3,N
-2204,أهبل,아흐발,바보 같은,silly,adj,R3,N
-2205,سحر,시흐르,마법,magic,noun,R3,Y
-2206,ماكانش,마칸쉬,아니었다,wasn't,verb,R3,N
-2207,مقابل,무아빌,대가/맞은편,in exchange,prep,R3,N
-2208,دورك,도락,너의 차례,your turn,noun,R3,N
-2209,ماقدرش,마아다르쉬,못 하다,I can't,verb,R3,N
-2210,وراك,와락,너의 뒤에,behind you,prep,R3,N
-2211,ممثل,뭄쌀,배우,actor,noun,R3,Y
-2212,حارس,하리스,경비원,guard,noun,R3,Y
-2213,وجه,와그,얼굴,face,noun,R3,Y
-2214,مونيكا,모니카,모니카,Monica,name,R3,N
-2215,تشاندلر,챈들러,챈들러,Chandler,name,R3,N
-2216,يفتح,이프타흐,열다,to open,verb,R3,Y
-2217,جنبي,감비,내 옆에,next to me,prep,R3,N
-2218,ماعنديش,마안디쉬,없다(나는),I don't have,verb,R3,N
-2219,يرن,이린,울리다(벨),to ring,verb,R3,Y
-2220,ماكنش,마칸쉬,아니었다,wasn't,verb,R3,N
-2221,القاهرة,일아헤라,카이로,Cairo,name,R3,N
-2222,بوول,불,불(이름),Bool,other,R3,N
-2223,يلى,일리,~하는(관계사),that,pron,R3,N
-2224,ستريت,스트리트,거리,street,noun,R3,Y
-2225,استنا,이스탄나,기다려,wait,verb,R3,N
-2226,جيسيكا,제시카,제시카,Jessica,name,R3,N
-2227,اخترت,이크타르트,골랐다,to choose,verb,R3,N
-2228,اطمن,잇땀만,안심해,relax,verb,R3,N
-2229,خارق,카리으,초인적인,super,adj,R3,N
-2230,نانسي,낸시,낸시,Nancy,name,R3,N
-2231,وبركاته,와바라카투,그리고 축복이,and blessings,noun,R3,N
-2232,المصري,일마스리,그 이집트인,Egyptian,adj,R3,N
-2233,ارتطام,이르티뜀,충돌,crash,noun,R3,Y
-2234,رانيا,라니아,라니아,Rania,name,R3,N
-2235,الخضراوي,일카드라위,카드라위,Khadrawi,name,R3,N
-2236,نعمات,니아마트,니아마트,Neamat,name,R3,N
-2237,أصفهان,아스파한,이스파한,Isfahan,name,R3,N
-2238,بصراخ,비스라크,비명 지르며,screaming,adv,R3,Y
-2239,أولاف,올라프,올라프,Olaf,name,R3,N
-2240,خسارة,카사라,손해/아깝다,loss,noun,R3,N
-2241,تغير,티가야르,바꾸다,to change,verb,R3,N
-2242,حاج,하그,순례자/어르신,pilgrim,noun,R3,N
-2243,محامي,무하미,변호사,lawyer,noun,R3,Y
-2244,وآدي,와아디,그리고 여기,and here is,part,R3,N
-2245,سوسو,소소,소소,Soso,name,R3,N
-2246,تحاول,티하윌,시도하다,to try,verb,R3,N
-2247,طريقي,타리이,내 길,my way,noun,R3,N
-2248,عشرين,이쉬린,20,twenty,num,R3,N
-2249,لذيذ,라지즈,맛있는,delicious,adj,R3,Y
-2250,كرسي,쿠르시,의자,chair,noun,R3,Y
-2251,مختلف,무크탈리프,다른,different,adj,R3,N
-2252,هاتلي,하틀리,나에게 가져와,bring me,verb,R3,N
-2253,الخاتم,일카팀,그 반지,ring,noun,R3,Y
-2254,حبوب,후붑,알약,pills,noun,R3,Y
-2255,المتناك,일무타낙,빌어먹을 놈(욕),motherfucker,other,R3,N
-2256,السكة,잇시카,그 길,road,noun,R3,Y
-2257,كلمات,킬리마트,단어들,words,noun,R3,N
-2258,وجود,우구드,존재,existence,noun,R3,N
-2259,حطيت,핫테트,놓았다,to put,verb,R3,Y
-2260,معظم,무아잠,대부분,most,det,R3,N
-2261,همشي,하므쉬,갈 것이다,will go,verb,R3,N
-2262,أحسنلك,아흐산락,너에게 낫다,better for you,adj,R3,N
-2263,تخلص,티클라스,끝내다,to finish,verb,R3,N
-2264,بتاعته,비타아투,그의 것(여),his,pron,R3,N
-2265,شارلى,샬리,찰리,Charlie,name,R3,N
-2266,الفكرة,일피크라,그 생각,idea,noun,R3,N
-2267,ماعرفش,마아라프쉬,모르겠다,I don't know,verb,R3,N
-2268,امسكي,임시키,잡아(여),hold,verb,R3,Y
-2269,غلطتي,갈라티,내 잘못,my mistake,noun,R3,N
-2270,عاجبني,아그베니,마음에 든다,I like it,verb,R3,N
-2271,العقد,일아으드,그 계약/목걸이,contract,noun,R3,N
-2272,فاضي,파디,비어 있는/한가한,empty,adj,R3,Y
-2273,بشتغل,바쉬타갈,일하다(나),I work,verb,R3,N
-2274,قديمة,아디마,오래된,old,adj,R3,Y
-2275,بتضحك,비티드하크,웃다,to laugh,verb,R3,Y
-2276,أب,아브,아버지,father,noun,R3,Y
-2277,شفتك,슈프탁,너를 봤다,I saw you,verb,R3,N
-2278,اتقتل,잇아탈,살해당했다,was killed,verb,R3,N
-2279,عيلتي,에일리티,내 가족,family,noun,R3,Y
-2280,الأكبر,일아크바르,가장 큰,biggest,adj,R3,Y
-2281,شيطان,셰이탄,악마,devil,noun,R3,Y
-2282,القمر,일아마르,달,moon,noun,R3,Y
-2283,عاش,아쉬,살았다,to live,verb,R3,N
-2284,يلعب,일압,놀다,to play,verb,R3,Y
-2285,كارول,캐럴,캐럴,Carol,name,R3,N
-2286,روحوا,루후,가(복수),go,verb,R3,N
-2287,سبعه,사바아,7,seven,num,R3,N
-2288,جد,가드,할아버지/진지함,grandfather,noun,R3,Y
-2289,اديله,아디루,그에게 줘,give him,verb,R3,N
-2290,بوب,밥,밥,Bob,name,R3,N
-2291,فرح,파라흐,결혼식/기쁨,wedding,noun,R3,Y
-2292,ريس,라이스,사장/대장,boss,noun,R3,N
-2293,الشركة,잇쉬르카,그 회사,company,noun,R3,N
-2294,ميل,밀,마일,mile,noun,R3,N
-2295,وأمي,와움미,그리고 내 엄마,mother,noun,R3,Y
-2296,معروف,마아루프,호의/유명한,favor,noun,R3,N
-2297,أقسم,우으심,맹세하다,to swear,verb,R3,N
-2298,الرسالة,이르리살라,그 편지/메시지,message,noun,R3,Y
-2299,هاقدر,하아다르,할 수 있을 것이다,will be able,verb,R3,N
-2300,بأحاول,바하윌,노력하다(나),I try,verb,R3,N
-2301,ميراندا,미란다,미란다,Miranda,name,R3,N
-2302,موظف,무왓다프,직원,employee,noun,R3,Y
-2303,نخش,니코쉬,들어가다(우리),we enter,verb,R3,N
-2304,الجملة,익구믈라,그 문장,sentence,noun,R3,N
-2305,السلاح,잇실라흐,그 무기,weapon,noun,R3,Y
-2306,الغبي,일가비,그 바보,idiot,adj,R3,N
-2307,هاملت,햄릿,햄릿,Hamlet,name,R3,N
-2308,جنون,구눈,광기,madness,noun,R3,N
-2309,سجن,시근,감옥,prison,noun,R3,Y
-2310,وهم,와흠,환상/그리고 그들,illusion,noun,R3,N
-2311,مقدرتش,마이드르티쉬,할 수 없었다,couldn't,verb,R3,N
-2312,قدرت,이드리트,할 수 있었다,could,verb,R3,N
-2313,المحكمة,일마흐카마,그 법원,court,noun,R3,Y
-2314,ديك,디크,수탉/저것,rooster,noun,R3,Y
-2315,السنه,잇사나,그 해/올해,year,noun,R3,N
-2316,هامونابترا,하무나프트라,하무나프트라,Hamunaptra,name,R3,N
-2317,البرنامج,일바르나마그,그 프로그램,program,noun,R3,N
-2318,عمو,아무,삼촌,uncle,noun,R3,Y
-2319,تريبيانى,트리비아니,트리비아니,Tribbiani,name,R3,N
-2320,كندا,카나다,캐나다,Canada,name,R3,N
-2321,زانون,자눈,자눈,Zanoun,name,R3,N
-2322,اربعه,아르바아,4,four,num,R3,N
-2323,بيبر,비버,비버,Bieber,name,R3,N
-2324,تمانيه,타만야,8,eight,num,R3,N
-2325,مونيلا,모닐라,모닐라,Monilla,name,R3,N
-2326,براد,브래드,브래드,Brad,name,R3,N
-2327,حماصة,하마싸,하마싸,Hamassa,name,R3,N
-2328,مبقاش,마바아쉬,더는 아니다,no longer,verb,R3,N
-2329,وول,월,벽(영어),wall,other,R3,N
-2330,شرير,쉬리르,악당/사악한,evil,adj,R3,N
-2331,أوترتن,오테르텐,오테르텐,Ottertun,name,R3,N
-2332,محي,무히,무히,Mohy,name,R3,N
-2333,بيث,베스,베스,Beth,name,R3,N
-2334,العشا,일아샤,저녁 식사,dinner,noun,R3,Y
-2335,ذي,지,~의(소유),of,part,R3,N
-2336,ندور,니다와르,찾다(우리),we look for,verb,R3,N
-2337,العفو,일아프우,천만에/용서,you're welcome,interj,R3,N
-2338,أصدقاء,아스디아,친구들,friends,noun,R3,Y
-2339,صدقني,사다아니,내 말 믿어,believe me,verb,R3,N
-2340,ه,헤,으(소리),h,other,R3,N
-2341,بيجري,비이그리,달리다,to run,verb,R3,Y
-2342,جانيت,재닛,재닛,Janet,name,R3,N
-2343,حابب,합비브,원하는/좋아하는,willing,adj,R3,N
-2344,مكالمة,무칼마,통화,phone call,noun,R3,Y
-2345,العين,일에인,그 눈,eye,noun,R3,Y
-2346,الثاني,잇타니,두 번째,second,num,R3,N
-2347,شخصيا,샤크시얀,개인적으로,personally,adv,R3,N
-2348,والدي,왈디,내 아버지,father,noun,R3,Y
-2349,بتحبها,비트힙바하,그녀를 사랑하니,you love her,verb,R3,N
-2350,رومانسية,로만시야,로맨틱한,romantic,adj,R3,N
-2351,قسم,아쌈,맹세/부서,oath,noun,R3,N
-2352,بينهم,베인훔,그들 사이,between them,prep,R3,N
-2353,يخلص,이클라스,끝나다,to finish,verb,R3,N
-2354,الجامد,익감드,센/멋진,tough,adj,R3,N
-2355,للأبد,릴아바드,영원히,forever,adv,R3,N
-2356,بالنار,빈나르,불로,with fire,noun,R3,Y
-2357,أسوأ,아스와아,최악의,worst,adj,R3,N
-2358,أعترف,아아타리프,인정하다,to admit,verb,R3,N
-2359,وساعتها,위사아타하,그리고 그때,and then,adv,R3,N
-2360,أقتل,아으틸,죽이다(나),to kill,verb,R3,N
-2361,صلي,살리,기도해,pray,verb,R3,Y
-2362,ربع,루브,4분의 1,quarter,num,R3,N
-2363,الباقي,일바이,나머지,rest,noun,R3,N
-2364,بابي,바비,아빠,dad,noun,R3,Y
-2365,المطبخ,일마트바크,부엌,kitchen,noun,R3,Y
-2366,ميتين,마이틴,죽은(복수),dead,adj,R3,N
-2367,بتعرف,비티아라프,알다,you know,verb,R3,N
-2368,المدير,일무디르,그 관리자,manager,noun,R3,Y
-2369,سرير,시리르,침대,bed,noun,R3,Y
-2370,صحتك,싸흐탁,너의 건강,health,noun,R3,N
-2371,سهلة,사흘라,쉬운,easy,adj,R3,N
-2372,تنين,티닌,용,dragon,noun,R3,Y
-2373,أجمل,아그말,더 아름다운,more beautiful,adj,R3,N
-2374,الشيء,잇셰이,그 것,thing,noun,R3,N
-2375,لمدة,리무다트,~동안,for (duration),prep,R3,N
-2376,سليم,살림,건강한/온전한,healthy,adj,R3,N
-2377,أعمى,아아마,눈먼,blind,adj,R3,Y
-2378,الجزمة,익가즈마,그 구두,shoe,noun,R3,Y
-2379,العام,일암,그 해/공공의,year,noun,R3,N
-2380,بالراحة,빗라하,천천히,slowly,adv,R3,N
-2381,لحسن,리후스닌,다행히,luckily,adv,R3,N
-2382,وحتى,와하타,그리고 ~조차,and even,conj,R3,N
-2383,تتكلمي,티트칼리미,말하다(여),to speak,verb,R3,Y
-2384,ماتوا,마투,죽었다(그들),died,verb,R3,N
-2385,يو,유,너(영어),you,other,R3,N
-2386,هتقول,하트울,말할 것이다,will say,verb,R3,N
-2387,يقتل,이으틸,죽이다,to kill,verb,R3,N
-2388,نقطة,누아따,점,dot,noun,R3,Y
-2389,مالوش,말루쉬,그에겐 없다,he has no,verb,R3,N
-2390,قابلت,아빌트,만났다,met,verb,R3,N
-2391,السلطة,잇살라타,샐러드,salad,noun,R3,Y
-2392,جواه,구와,그 안에,inside it,prep,R3,N
-2393,والتر,월터,월터,Walter,name,R3,N
-2394,العربيات,일아라비야트,그 차들,cars,noun,R3,Y
-2395,تستنى,티스탄나,기다리다,to wait,verb,R3,N
-2396,الرقص,이르라으스,춤,dance,noun,R3,Y
-2397,يله,얄라,"자, 가자",come on,interj,R3,N
-2398,أيا,아야,어떤 ~라도,any,det,R3,N
-2399,بيوت,비유트,집들,houses,noun,R3,Y
-2400,علاج,일라그,치료,treatment,noun,R3,N
-2401,تشتغل,티쉬타갈,일하다,to work,verb,R3,N
-2402,حر,호르,자유로운,free,adj,R3,N
-2403,ستان,스탠,스탠,Stan,name,R3,N
-2404,عسل,아쌀,꿀/자기야,honey,noun,R3,Y
-2405,الرياح,이르리야흐,바람들,wind,noun,R3,Y
-2406,معجب,무아갑,팬/반한,fan,adj,R3,N
-2407,وربنا,와랍비나,정말로(맹세),I swear,interj,R3,N
-2408,دوري,도리,내 차례/리그,my turn,noun,R3,N
-2409,وتبقى,위티바아,그리고 되다,and become,verb,R3,N
-2410,مشكلتك,무쉬킬타크,너의 문제,your problem,noun,R3,N
-2411,ضخم,다캄,거대한,huge,adj,R3,Y
-2412,فرانكي,프랭키,프랭키,Frankie,name,R3,N
-2413,ليكم,리쿰,너희에게,for you,prep,R3,N
-2414,هيرجع,하이르가아,돌아올 것이다,will return,verb,R3,N
-2415,تقلقش,티이라아쉬,걱정 마,don't worry,verb,R3,N
-2416,شش,쉬,쉿,shh,interj,R3,N
-2417,فاهمين,파힘인,이해하는(복수),understand,adj,R3,N
-2418,دماغ,디마으,머리/뇌,head,noun,R3,Y
-2419,جوز,고즈,남편/한 쌍,husband,noun,R3,Y
-2420,سبيل,사빌,길/방법,way,noun,R3,N
-2421,بقينا,비이나,우리는 ~되었다,we became,verb,R3,N
-2422,نقعد,니우아드,앉다(우리),to sit,verb,R3,Y
-2423,دولة,돌라,국가,state,noun,R3,N
-2424,الباشا,일바샤,나리/사장님,sir,noun,R3,N
-2425,وممكن,위뭄킨,그리고 아마,and maybe,adv,R3,N
-2426,فلو,파로,그래서 만약,so if,conj,R3,N
-2427,جناب,기납,각하,your honor,noun,R3,N
-2428,جايز,가이즈,아마도,maybe,adv,R3,N
-2429,بقية,바이야,나머지,rest,noun,R3,N
-2430,الأحلام,일아흘람,그 꿈들,dreams,noun,R3,N
-2431,اليومين,일유메인,요 며칠,these days,noun,R3,N
-2432,يضرب,이드랍,때리다,to hit,verb,R3,Y
-2433,نكسب,니크삽,이기다(우리),to win,verb,R3,N
-2434,جزمة,가즈마,구두,shoe,noun,R3,Y
-2435,حجات,하가트,물건들,things,noun,R3,N
-2436,جاد,가드,진지한,serious,adj,R3,N
-2437,وحشتيني,와하쉬티니,보고 싶었어(여),I missed you,verb,R3,N
-2438,بيحاول,비이하윌,노력하다(그),he tries,verb,R3,N
-2439,توك,토크,토크,talk,other,R3,N
-2440,المسلسل,일무살살,그 연속극,series,noun,R3,N
-2441,ناعومي,나오미,나오미,Naomi,name,R3,N
-2442,تصفيق,타스피으,박수,applause,noun,R3,Y
-2443,إكس,엑스,엑스(X),x,other,R3,N
-2444,راقصة,라아싸,무용수,dancer,noun,R3,Y
-2445,أنغام,안감,선율들,melodies,noun,R3,N
-2446,صارخة,사르카,비명 지르는,screaming,adj,R3,Y
-2447,سارو,사루,사루,Saro,name,R3,N
-2448,وحزينة,와하지나,그리고 슬픈,and sad,adj,R3,Y
-2449,هطول,후툴,(비)내림,rainfall,noun,R3,Y
-2450,إياك,이야크,절대 ~하지 마,don't you dare,part,R3,N
-2451,اهرب,이흐랍,도망쳐,run away,verb,R3,Y
-2452,ماتخافش,마티캅쉬,겁내지 마,don't be afraid,verb,R3,N
-2453,خصوصا,쿠쑤산,특히,especially,adv,R3,N
-2454,فضلت,피딜트,계속 ~했다,kept,verb,R3,N
-2455,ياواد,야와드,이봐 꼬마,hey boy,interj,R3,N
-2456,لكي,리키,너(여)를 위해,for you,prep,R3,N
-2457,شيل,쉴,들어/치워,carry,verb,R3,Y
-2458,الإنسان,일인산,인간,human,noun,R3,Y
-2459,ربما,룹바마,아마,perhaps,adv,R3,N
-2460,لكني,라킨니,하지만 나는,but I,conj,R3,N
-2461,مدير,무디르,관리자,manager,noun,R3,Y
-2462,مثلي,미슬리,나처럼,like me,prep,R3,N
-2463,الحالة,일할라,상태,condition,noun,R3,N
-2464,كأنى,카이니,마치 내가,as if I,conj,R3,N
-2465,وقتها,와아타하,그때,at that time,adv,R3,N
-2466,مطعم,마트암,식당,restaurant,noun,R3,Y
-2467,خول,콜,호모(욕),faggot,other,R3,N
-2468,اختفت,이크타파트,사라졌다(그녀),disappeared,verb,R3,N
-2469,البداية,일비다야,시작,beginning,noun,R3,N
-2470,حصلك,하쌀락,너에게 일어났다,happened to you,verb,R3,N
-2471,عايزاني,아이자니,날 원하니(여),want me,adj,R3,N
-2472,عملوا,아밀루,했다(그들),they did,verb,R3,N
-2473,معاكوا,마아쿠,너희와 함께,with you,prep,R3,N
-2474,كامل,카밀,완전한,complete,adj,R3,N
-2475,شاذ,샤즈,동성애자/비정상,deviant,adj,R3,N
-2476,عننا,안나,우리에 대해,about us,prep,R3,N
-2477,عسكري,아스카리,군인,soldier,noun,R3,Y
-2478,متناكة,무타나카,빌어먹을(욕),fucking,other,R3,N
-2479,عرص,아르스,포주(욕),pimp,other,R3,N
-2480,بشوية,비슈와이야,조금씩,gradually,adv,R3,N
-2481,الظابط,잇자비뜨,그 경찰관,officer,noun,R3,Y
-2482,ماليش,말리쉬,나에겐 없다,I have no,verb,R3,N
-2483,علامة,알라마,표시,sign,noun,R3,Y
-2484,أساس,아사스,기초,basis,noun,R3,N
-2485,مبنى,마브나,건물,building,noun,R3,Y
-2486,لأول,리아왈,처음으로,for the first time,adv,R3,N
-2487,بعيدة,비이다,먼,far,adj,R3,N
-2488,صلاة,살라,기도,prayer,noun,R3,Y
-2489,لحمة,라흐마,고기,meat,noun,R3,Y
-2490,حركة,하라카,움직임,movement,noun,R3,N
-2491,السبت,잇삽트,토요일,Saturday,noun,R3,N
-2492,حوار,히와르,대화,dialogue,noun,R4,N
-2493,الوحش,일와흐쉬,그 괴물,monster,noun,R4,Y
-2494,أمها,움마하,그녀의 엄마,mother,noun,R4,Y
-2495,اتصلت,잇타쌀트,전화했다,called,verb,R4,N
-2496,هتكوني,하트쿠니,~일 것이다(여),you will be,verb,R4,N
-2497,هاجي,하기,올 것이다(나),I will come,verb,R4,N
-2498,هتموت,하트무트,죽을 것이다,will die,verb,R4,N
-2499,مبسوطين,마부수틴,기쁜(복수),happy,adj,R4,Y
-2500,وسخ,위시크,더러운,dirty,adj,R4,Y
+1,ال,일,정관사,the,det,R1,N
+2,ـي/ني,이/니,나의/나를(접미),my/me,pron,R1,N
+3,و,위,그리고,and,conj,R1,N
+4,ـه,우/후,그의/그를(접미),his/him,pron,R1,N
+5,ـك(남),악,"너의/너를(남, 접미)",your (m.),pron,R1,N
+6,انا,아나,나,I,pron,R1,N
+7,يا,야,~야(부름),hey (vocative),part,R1,N
+8,في,피,~에,in,prep,R1,N
+9,ب,비,~로,with,prep,R1,N
+10,من,민,~부터,from,prep,R1,N
+11,ـها,하,그녀의/그녀를(접미),her,pron,R1,N
+12,ده,다,이것(남),this,pron,R1,N
+13,إن,인,~라는 것,that,conj,R1,N
+14,كان,칸,~였다,was,verb,R1,N
+15,مش,마쉬,아니다(부정),not,part,R1,N
+16,على,알라,~위에,on,prep,R1,N
+17,ل,리,~에게,to,prep,R1,N
+18,ايه,에,무엇,what,pron,R1,N
+19,اللي,일리,~하는(관계사),which,pron,R1,N
+20,انت,인타,너(남),you,pron,R1,N
+21,ـنا,나,우리의/우리를(접미),our/us,pron,R1,N
+22,ـش(부정),쉬,~아니다(부정 접미),not,part,R1,N
+23,دي,디,이것(여),this,pron,R1,N
+24,ما,마,~않다(부정),not,part,R1,N
+25,قال,알,말했다,said,verb,R1,N
+26,لا,라,아니,no,interj,R1,N
+27,بس,바스,"그냥, 하지만",only,adv,R1,N
+28,كده,키다,이렇게,like this,adv,R1,N
+29,كل,쿨,모든,every,det,R1,N
+30,حاجة,하가,"것, 물건",thing,noun,R1,N
+31,عمل,아말,했다(하다),to do,verb,R1,N
+32,بقى,바아,~이 되다,to become,verb,R1,N
+33,مع,마아,~와 함께,with,prep,R1,N
+34,ـهم,홈,그들의/그들을(접미),their/them,pron,R1,N
+35,هو,후와,그,he,pron,R1,N
+36,عشان,아샨,"~때문에, ~위해",because,conj,R1,N
+37,عايز,아이즈,원하는,to want,adj,R1,N
+38,هنا,히나,여기,here,adv,R1,N
+39,احنا,이흐나,우리,we,pron,R1,N
+40,عند,안드,~에게(있다),at,prep,R1,N
+41,عارف,아리프,알고 있는,to know,adj,R1,N
+42,لو,라우,만약,if,conj,R1,N
+43,ف,파,그래서,so,conj,R1,N
+44,ـك(여),이크,"너의/너를(여, 접미)",your (f.),pron,R1,N
+45,عرف,이리프,알았다,knew,verb,R1,N
+46,انتي,인티,너(여),you (f),pron,R1,N
+47,ـكو,코,너희의/너희를(접미),your (pl.),pron,R1,N
+48,شاف,샤프,봤다,to see,verb,R1,Y
+49,حب,홉,사랑,love,noun,R1,N
+50,حد,핫드,누군가,someone,pron,R1,N
+51,الله,알라,하나님,God,noun,R1,N
+52,أي,아이,어떤,any,det,R1,N
+53,زي,자이,~처럼,like,prep,R1,N
+54,لازم,라짐,~해야 한다,must,part,R1,N
+55,ممكن,뭄킨,"가능한, 아마",maybe,adj,R1,N
+56,نفس,나프스,같은; 자신,same,det,R1,N
+57,تاني,타니,"다시, 두 번째",again,adv,R1,N
+58,خلى,칼리,~하게 해,to let,verb,R1,N
+59,صوت,소트,소리,sound,noun,R1,N
+60,موسيقى,무시아,음악,music,noun,R1,Y
+61,ولا,왈라,"또는, ~도 아니다",or,conj,R1,N
+62,راح,라흐,갔다,went,verb,R1,N
+63,جد,가드,할아버지/진지함,grandfather,noun,R1,Y
+64,عن,안,~에 대해,about,prep,R1,N
+65,هي,히야,그녀,she,pron,R1,N
+66,ليه,레,왜,why,adv,R1,N
+67,قدر,아다르,운명/할 수 있었다,fate,noun,R1,N
+68,يلا,얄라,"자, 가자",let's go,interj,R1,N
+69,عنى,안니,나에 대해,about me,prep,R2,N
+70,آه,아,"응, 아",yes,interj,R2,N
+71,قوي,아위,매우; 강한,very,adv,R2,N
+72,دلوقتي,딜와티,지금,now,adv,R2,N
+73,مين,민,누구,who,pron,R2,N
+74,بعد,바아드,~후에,after,prep,R2,N
+75,كويس,쿠와이스,좋은,good,adj,R2,N
+76,لما,람마,~할 때,when,conj,R2,N
+77,بتاع,비타아,~의(소유),belonging to,prep,R2,N
+78,غير,게르,~외에,except,prep,R2,N
+79,حصل,하살,일어났다,to happen,verb,R2,N
+80,اسم,이씸,이름,name,noun,R2,N
+81,أيوة,아이와,"응, 네",yes,interj,R2,N
+82,بيت,베트,집,house,noun,R2,Y
+83,جه,가,그가 왔다,he came,verb,R2,N
+84,بص,부스,봐,to look,verb,R2,Y
+85,ناس,나스,사람들,people,noun,R2,Y
+86,بنت,빈트,"소녀, 딸",girl,noun,R2,Y
+87,مرة,마르라,한 번,once,noun,R2,N
+88,ك,크,(조각),(fragment),other,R2,N
+89,راجل,라길,남자,man,noun,R2,Y
+90,يوم,욤,"날, 하루",day,noun,R2,N
+91,فين,펜,어디,where,adv,R2,N
+92,وقت,와트,시간,time,noun,R2,N
+93,ماشي,마쉬,좋아,okay,interj,R2,N
+94,سمع,세미으,듣다,to hear,verb,R2,Y
+95,واحد,와히드,"하나, 한 사람",one,num,R2,N
+96,جاب,갑,가져왔다,brought,verb,R2,N
+97,كمان,카만,"또, 역시",also,adv,R2,N
+98,أم,옴,어머니,mother,noun,R2,Y
+99,اتكلم,아트칼림,내가 말하다,to speak,verb,R2,Y
+100,لسه,릿사,아직,still,adv,R2,N
+101,أول,아우왈,첫째,first,adj,R2,N
+102,رجع,리기으,돌아왔다,returned,verb,R3,N
+103,ساب,사브,"내버려두다, 떠나다",to leave,verb,R3,N
+104,شوية,슈와이야,조금,a little,adv,R3,N
+105,استنى,이스탄나,기다려,to wait,verb,R3,N
+106,مشى,미시,갔다/걸었다,walked,verb,R3,Y
+107,قتل,아탈,죽이다,to kill,verb,R3,N
+108,شكر,샤카르,감사하다,to thank,verb,R3,N
+109,موضوع,마우두아,주제(일),topic,noun,R3,N
+110,طلع,틸리아,올라갔다(나갔다),went up,verb,R3,N
+111,ابن,이븐,아들,son,noun,R3,Y
+112,قبل,아블,~전에,before,prep,R3,N
+113,آدي,아디,여기 있다,here is,interj,R3,N
+114,ازاي,이자이,어떻게,how,adv,R3,N
+115,لكن,라킨,하지만,but,conj,R3,N
+116,طب,탑,그럼,well then,part,R3,N
+117,مات,마트,죽었다,died,verb,R3,N
+118,أخذ,카드,"가져가다, 받다",to take,verb,R3,Y
+119,كلام,칼람,말,talk,noun,R3,N
+120,رفع,라파으,들어올리다,to lift,verb,R3,Y
+121,طيب,타이엡,좋아,okay,interj,R3,N
+122,خلاص,칼라스,"끝, 됐어",enough,interj,R3,N
+123,صح,사흐,맞다,right,adj,R3,N
+124,حلو,힐루,"예쁜, 좋은",nice,adj,R3,N
+125,أيوه,아이와,"응, 네",yes,interj,R3,N
+126,هم,홈,그들,they,pron,R3,N
+127,رأي,라이,의견,opinion,noun,R3,N
+128,مكان,마칸,장소,place,noun,R3,N
+129,فضل,파들,"호의, 부디",favor,noun,R3,N
+130,سنة,사나,"해, 년",year,noun,R3,N
+131,حياة,하야,삶,life,noun,R3,N
+132,صاحب,사헵,친구,friend,noun,R3,Y
+133,رب,랍브,주(하나님),lord,noun,R3,N
+134,واحدة,와흐다,하나(여),one (f),num,R3,N
+135,جا,가,오다,to come,verb,R3,Y
+136,أو,아우,또는,or,conj,R3,N
+137,دكتور,둑투르,의사,doctor,noun,R3,Y
+138,ساعة,사아,시계; 시간,clock,noun,R3,Y
+139,إيد,이드,손,hand,noun,R3,Y
+140,شكل,샤클,모양·외모,shape,noun,R3,N
+141,مفيش,마피쉬,없다,there isn't,part,R3,N
+142,كثير,키티르,많은,many,adj,R3,N
+143,شغل,쇼골,일,work,noun,R3,N
+144,تمام,타맘,"좋아, 완벽",okay,interj,R3,N
+145,بعض,바아드,서로,each other,pron,R3,N
+146,عاوز,아위즈,원하는,to want,adj,R3,N
+147,جاي,가이,오는,coming,adj,R3,N
+148,دخل,다칼,들어갔다,to enter,verb,R3,Y
+149,آسف,아시프,미안해,sorry,adj,R3,N
+150,عمر,오마르,오마르(이름),Omar,name,R3,N
+151,عم,암,"삼촌, 아저씨",uncle,noun,R3,Y
+152,على,알라,"~위에, ~에게",on,prep,R3,N
+153,اكيد,아키드,물론,sure,adv,R3,N
+154,فعل,피을,"행동, 정말(فعلا)",indeed,noun,R3,N
+155,فكر,팍카르,생각하다,to think,verb,R3,N
+156,فاكر,파키르,기억하는,to remember,adj,R3,N
+157,خد,쿠드,가져가,to take,verb,R3,Y
+158,قصد,아사드,"의도하다, 뜻하다",to mean,verb,R3,N
+159,وصل,위실,도착했다,arrived,verb,R3,N
+160,تعالى,타알리,이리 와(여),to come,verb,R3,Y
+161,سيد,사예드,"주인, 씨",mister,noun,R3,N
+162,أكثر,악타르,더,more,adv,R3,N
+163,انتو,인투,너희,you (plural),pron,R3,N
+164,أب,아브,아버지,father,noun,R3,Y
+165,دول,돌,이것들,these,pron,R3,N
+166,كبير,키비르,큰,big,adj,R3,Y
+167,أخ,아크,형제,brother,noun,R3,N
+168,طول,툴,"길이, 내내",length,noun,R3,N
+169,ست,싯트,"여자, 부인",lady,noun,R3,Y
+170,آخر,아키르,마지막,last,adj,R3,N
+171,خلص,칼라스,끝났다·됐어,finished,verb,R3,N
+172,دور,도르,역할(차례),role,noun,R3,N
+173,روح,루흐,가라; 영혼,go,verb,R3,N
+174,ولد,왈라드,소년,boy,noun,R3,Y
+175,لاقى,라아,찾다,to find,verb,R3,N
+176,ساعد,사아드,돕다,to help,verb,R3,Y
+177,هناك,히낙,저기,there,adv,R3,N
+178,طبع,타브,물론(طبعا),of course,adv,R3,N
+179,أحسن,아흐산,더 나은,better,adj,R3,N
+180,إلا,일라,~외에는,except,part,R3,N
+181,خرج,카라그,나가다,to go out,verb,R3,Y
+182,ليلة,렐라,밤,night,noun,R3,Y
+183,حبيب,하빕,사랑하는 사람,lover,noun,R3,N
+184,صغير,수가이야르,작은,small,adj,R3,Y
+185,نسي,니시,잊다,to forget,verb,R3,N
+186,وقف,위이프,멈췄다·섰다,to stop,verb,R3,N
+187,عين,에인,눈,eye,noun,R3,Y
+188,حتى,합타,~조차,even,adv,R3,N
+189,حاول,하월,노력하다,to try,verb,R3,N
+190,باب,바브,문,door,noun,R3,Y
+191,بعدين,바데인,나중에,later,adv,R3,N
+192,خير,케르,좋은 일; 무슨 일?,good,noun,R3,N
+193,ضحك,디히크,웃었다,laughed,verb,R3,Y
+194,مشكلة,무쉬킬라,문제,problem,noun,R3,N
+195,حث,하스,느끼다,to feel,verb,R3,N
+196,أكل,아클,음식(먹기),food,noun,R3,Y
+197,فهم,피힘,이해하다,to understand,verb,R3,N
+198,نهارده,인나하르다,오늘,today,adv,R3,N
+199,اخد,아쿠드,(내가) 가지다,to take,verb,R3,Y
+200,بال,발,"마음, 생각",mind,noun,R3,N
+201,جديد,기디드,새로운,new,adj,R3,N
+202,قعد,아아드,앉다,to sit,verb,R3,Y
+203,محتاج,미흐타그,필요한,to need,adj,R3,N
+204,نفع,나파아,"쓸모있다, 되다",to be possible,verb,R3,N
+205,افتكر,잇파카르,기억하다,to remember,verb,R3,N
+206,اهلا,아흘란,"안녕, 어서와",hello,interj,R3,N
+207,فلوس,풀루스,돈,money,noun,R3,Y
+208,أصل,아슬,왜냐하면,because,conj,R3,N
+209,سأل,사알,묻다,to ask,verb,R3,N
+210,فتح,파타흐,열다,to open,verb,R3,Y
+211,بدأ,바다,시작했다,started,verb,R3,N
+212,صدق,시디으,진실/믿었다,truth,noun,R3,N
+213,رجل,라굴,남자,man,noun,R3,Y
+214,أمر,아므르,명령·일,order,noun,R3,N
+215,فكرة,피크라,생각,idea,noun,R3,N
+216,قلب,알브,마음(심장),heart,noun,R3,Y
+217,كلم,칼림,말을 걸다,to talk to,verb,R4,Y
+218,بين,벤,~사이에,between,prep,R4,N
+219,ماما,마마,엄마,mom,noun,R4,Y
+220,فاهم,파힘,이해하는,to understand,adj,R4,N
+221,شايف,샤이프,보고 있는,to see,adj,R4,N
+222,طلب,탈랍,요청·주문,request,noun,R4,N
+223,بطل,바탈,영웅,hero,noun,R4,Y
+224,برضه,바르두,"역시, 그래도",also,adv,R4,N
+225,مهم,무힘,중요한,important,adj,R4,N
+226,لعب,리입,놀이/놀았다,play,verb,R4,Y
+227,جميل,가밀,아름다운,beautiful,adj,R4,N
+228,تحت,타흐트,아래,under,prep,R4,N
+229,أوه,오,오!,oh,interj,R4,N
+230,خالص,칼리스,전혀,at all,adv,R4,N
+231,جري,가라,일어났다·달렸다,happened,verb,R4,N
+232,هذا,하자,이것(문어),this,pron,R4,N
+233,سبب,사바브,이유,reason,noun,R4,N
+234,حبيبة,하비바,연인(여),darling,noun,R4,N
+235,ضرب,다랍,때렸다,to hit,verb,R4,Y
+236,ولي,왈리,후견인,guardian,noun,R4,N
+237,حق,하으,권리; 맞음,right,noun,R4,N
+238,اشتغل,아쉬타갈,일하다,to work,verb,R4,N
+239,سلام,살람,안녕; 평화,goodbye,interj,R4,N
+240,اثنين,이트닌,둘,two,num,R4,Y
+241,وحد,와흐드,혼자(لوحد),alone,adv,R4,Y
+242,أمكن,암칸,가능하다,to be possible,verb,R4,N
+243,ورا,와라,뒤에,behind,prep,R4,N
+244,قد,아드,~만큼,as much as,prep,R4,N
+245,شيء,셰,것,thing,noun,R4,N
+246,طريق,타리,길,road,noun,R4,Y
+247,كلب,칼브,개,dog,noun,R4,Y
+248,دلوقت,딜와트,지금,now,adv,R4,N
+249,سرعة,수르아,"속도, 빨리(بسرعة)",speed,noun,R4,N
+250,دنيا,돈야,세상,world,noun,R4,N
+251,عامل,아밀,지내는; 노동자,doing,adj,R4,N
+252,نام,남,잤다,slept,verb,R4,Y
+253,طريقة,타리아,방법,way,noun,R4,N
+254,عاش,아쉬,살았다,to live,verb,R4,N
+255,حط,핫트,놓다,to put,verb,R4,Y
+256,قدام,우담,앞에,in front,prep,R4,N
+257,مسك,미식,잡다,to hold,verb,R4,Y
+258,خط,캇트,"선, 줄",line,noun,R4,Y
+259,خاف,카프,무서워하다,to be afraid,verb,R4,Y
+260,سمح,사마흐,허락하다,to allow,verb,R4,N
+261,موت,모트,죽음,death,noun,R4,N
+262,باشا,바샤,나리(경칭),sir,noun,R4,N
+263,وحش,위히쉬,나쁜,bad,adj,R4,N
+264,عربي,아라비,"아랍의, 아랍어",Arabic,adj,R4,N
+265,اهو,아후,여기 있다,here it is,interj,R4,N
+266,إنكليزي,잉길리지,"영어, 영국의",English,adj,R4,N
+267,بابا,바바,아빠,dad,noun,R4,Y
+268,باع,바아,팔다,to sell,verb,R4,Y
+269,فوق,포,위에,above,prep,R4,N
+270,أستاذ,우스타즈,선생님,teacher,noun,R4,Y
+271,كلمة,킬마,단어,word,noun,R4,N
+272,وش,위쉬,얼굴,face,noun,R4,Y
+273,كدة,키다,이렇게,like this,adv,R4,N
+274,لقي,리이,발견하다,to find,verb,R4,N
+275,قابل,아빌,만나다,to meet,verb,R4,Y
+276,عظيم,아짐,대단한,great,adj,R4,N
+277,حال,할,상태,condition,noun,R4,N
+278,مية,메야,100,hundred,num,R4,N
+279,مفروض,마프루드,당연한,supposed,adj,R4,N
+280,دايم,다이엠,항상(دايما),always,adv,R4,N
+281,خالد,칼리드,칼리드(이름),Khaled,name,R4,N
+282,موجود,마우구드,있는,present,adj,R4,N
+283,خبر,카바르,소식,news,noun,R4,N
+284,مثل,미슬,~처럼,like,prep,R4,N
+285,قادر,아디르,할 수 있는,able,adj,R4,N
+286,شرب,시리브,마시다,to drink,verb,R4,Y
+287,غلط,갈라트,틀린,wrong,adj,R4,N
+288,رد,루드,대답해,to answer,verb,R4,N
+289,صباح,사바흐,아침,morning,noun,R4,Y
+290,بتاعة,비타아트,~의 것(여),belonging to,part,R4,N
+291,فيش,피쉬,없다,there isn't,part,R4,N
+292,ظبط,자바트,정확히(بالظبط),exactly,adv,R4,N
+293,عالم,알람,세계,world,noun,R4,Y
+294,جوه,구와,안에,inside,adv,R4,N
+295,عدى,아다,지나가다,to pass,verb,R4,N
+296,بلد,발라드,나라,country,noun,R4,N
+297,حتة,힛타,조각; 곳,piece,noun,R4,N
+298,حضرة,하드라,당신(존칭),you (polite),pron,R4,N
+299,كفاية,키파야,충분해,enough,adv,R4,N
+300,قلق,알라아,걱정하다,to worry,verb,R4,Y
+301,بكرة,부크라,내일,tomorrow,adv,R4,N
+302,حقيقي,하이이,진짜의,real,adj,R4,N
+303,نار,나르,불,fire,noun,R4,Y
+304,جامد,가미드,대단한; 단단한,awesome,adj,R4,N
+305,أكبر,아크바르,더 큰,bigger,adj,R4,N
+306,ها,하,"응?, 자",huh,interj,R4,N
+307,حاضر,하디르,"네, 알겠습니다","yes, sure",interj,R4,N
+308,شخ,샤크,오줌 누다(비속어),to piss,verb,R4,N
+309,واد,와드,소년,boy,noun,R4,Y
+310,ترقب,타랏쿱,"긴장, 기대",suspense,noun,R4,N
+311,غبي,가비,바보 같은,stupid,adj,R4,N
+312,حلم,헬름,꿈,dream,noun,R4,N
+313,مال,말,돈/재산,money,noun,R4,Y
+314,كتاب,키타브,책,book,noun,R4,Y
+315,عيل,아일,꼬마,kid,noun,R4,Y
+316,حسن,하산,하산(이름),Hassan,name,R4,N
+317,حقيقة,하이아,사실,truth,noun,R4,N
+318,متأكد,미트아칫드,확신하는,sure,adj,R4,N
+319,ندم,나담,후회하다,to regret,verb,R4,N
+320,ملك,말릭,왕,king,noun,R4,Y
+321,وقع,와아아,떨어지다,to fall,verb,R4,Y
+322,نزل,니질,내려가다,to go down,verb,R4,Y
+323,بات,바트,밤을 지내다,to stay overnight,verb,R4,N
+324,لبس,립스,옷,clothes,noun,R4,Y
+325,دين,딘,종교,religion,noun,R4,N
+326,رايح,라예흐,가는 중,going,verb,R4,N
+327,هدى,히디,진정하다,to calm down,verb,R4,N
+328,اتجوز,잇가우와즈,결혼하다,to marry,verb,R4,N
+329,حفلة,하플라,파티,party,noun,R4,Y
+330,هات,하트,줘,give me,verb,R4,Y
+331,فيلم,필름,영화,movie,noun,R4,Y
+332,علم,알람,깃발,flag,noun,R4,Y
+333,نعم,나암,네,yes,interj,R4,N
+334,حاسس,하시스,느끼는,feeling,adj,R4,N
+335,كتب,카탑,쓰다,to write,verb,R4,Y
+336,ظهر,자하르,나타나다,to appear,verb,R4,N
+337,اعتقد,아아타키드,내 생각에,I think,verb,R4,N
+338,ظن,잔,생각하다,to think,verb,R4,N
+339,اختار,이크타르,고르다,to choose,verb,R4,N
+340,اغنية,우그네야,노래,song,noun,R4,Y
+341,ورى,와라,보여주다,to show,verb,R4,Y
+342,ابد,아바단,"결코, 절대(أبدا)",never,adv,R4,N
+343,ازي,이자이,어떻게(إزيك 잘 지내?),how,adv,R4,N
+344,شاب,샵,청년,young man,noun,R4,Y
+345,دقيقة,디이아,분,minute,noun,R4,N
+346,حزين,하진,슬픈,sad,adj,R4,Y
+347,سلم,살림,인사하다,to greet,verb,R4,Y
+348,رجا,라가,부탁하다(أرجوك),to beg,verb,R4,N
+349,وحيد,와히드,외로운·혼자인,alone,adj,R4,N
+350,طفل,티플,아이·아기,child,noun,R4,Y
+351,نص,누스,반,half,noun,R4,Y
+352,رمى,라마,던지다,to throw,verb,R4,Y
+353,هادئ,하디,"조용한, 차분한",calm,adj,R4,N
+354,دماغ,디마으,머리/뇌,head,noun,R4,Y
+355,هاي,하이,안녕,hi,interj,R4,N
+356,إله,일라,신,god,noun,R4,N
+357,دولار,돌라르,달러,dollar,noun,R4,Y
+358,هوى,하와,"공기, 바람",air,noun,R4,N
+359,أرض,아르드,땅,ground,noun,R4,Y
+360,وعى,와아,조심해!(اوعى),watch out,interj,R4,N
+361,إذن,이잔,그러면,so,conj,R4,N
+362,حل,할,해결책,solution,noun,R4,N
+363,بره,바르라,밖에,outside,adv,R4,N
+364,خايف,카이프,무서워하는,afraid,adj,R4,Y
+365,خطر,카타르,위험,danger,noun,R4,N
+366,غريب,가리브,이상한,strange,adj,R4,N
+367,رقص,라으스,춤,dance,noun,R4,Y
+368,أح,아흐,"아이고, 젠장(감탄)",ouch,interj,R4,N
+369,صورة,수라,사진,photo,noun,R4,Y
+370,سعيد,사이드,행복한,happy,adj,R4,Y
+371,اسود,이스위드,검은,black,adj,R4,Y
+372,كمل,캄밀,계속해,continue,verb,R4,N
+373,جدع,가다,의리 있는 녀석,good guy,adj,R4,N
+374,أبو,아부,아버지(~의),father,noun,R4,Y
+375,الف,알프,천(1000),thousand,num,R4,N
+376,عرض,아르드,제안/쇼,offer,noun,R4,N
+377,ميت,마예트,죽은,dead,adj,R4,N
+378,ع,아,~위에,on,prep,R4,N
+379,اخير,아키란,마침내(أخيرا),finally,adv,R4,N
+380,شيخ,셰크,셰이크(어르신),sheikh,noun,R4,Y
+381,سؤال,수알,질문,question,noun,R4,N
+382,معلش,마알레쉬,"괜찮아, 미안",never mind,interj,R4,N
+383,أمير,아미르,왕자,prince,noun,R4,Y
+384,قدم,아담,"내밀다, 제출하다",to present,verb,R4,N
+385,حمد,하므드,찬미(الحمد لله),praise,noun,R4,N
+386,فريق,파리,팀,team,noun,R4,Y
+387,هل,할,~인가?(의문),whether,part,R4,N
+388,ليل,렐,밤,night,noun,R4,Y
+389,رأس,라스,머리,head,noun,R4,Y
+390,جوز,고즈,남편/한 쌍,husband,noun,R4,Y
+391,معنى,마나,의미,meaning,noun,R4,N
+392,وسخ,위시크,더러운,dirty,adj,R4,Y
+393,دام,담,계속되다(مدام ~하는 한),to last,verb,R4,N
+394,عايش,아예쉬,살아 있는,alive,adj,R4,N
+395,فات,파트,지나갔다,passed,verb,R4,N
+396,هرب,히리브,도망치다,to escape,verb,R4,Y
+397,دفع,디파아,지불하다,to pay,verb,R4,Y
+398,كام,캄,몇,how many,adv,R4,N
+399,جوي,구와,안에,inside,adv,R4,N
+400,لي,리,나에게,to me,prep,R4,N
+401,زمان,자만,옛날,long ago,adv,R4,N
+402,صعب,사아브,어려운,difficult,adj,R4,N
+403,رضا,레다,레다(이름),Reda,name,R4,N
+404,لحظة,라흐자,잠깐,moment,noun,R4,N
+405,عبده,압두,압두(이름),Abdo,name,R4,N
+406,أمة,임타,언제(إمتى),when,adv,R4,N
+407,تلفون,틸리폰,전화,telephone,noun,R4,Y
+408,لون,론,색깔,color,noun,R4,Y
+409,نور,누르,빛,light,noun,R4,Y
+410,مجرد,무가르라드,단지,just,adj,R4,N
+411,خش,코시,들어가,go in,verb,R4,N
+412,صبح,수브흐,아침,morning,noun,R4,Y
+413,غنى,가니,부자,rich,adj,R4,Y
+414,جنب,감브,옆에,next to,prep,R4,N
+415,جماعة,가마아,여러분(무리),group,noun,R4,N
+416,ودى,위디,그리고 이것(여),and this,pron,R4,N
+417,قاعد,아에드,앉아 있는,sitting,verb,R4,Y
+418,أخت,오크트,자매,sister,noun,R4,Y
+419,شهر,샤흐르,달(월),month,noun,R4,N
+420,أما,암마,~로 말하면,as for,conj,R4,N
+421,واضح,와디흐,분명한,clear,adj,R4,N
+422,دم,담,피,blood,noun,R4,Y
+423,نسبة,니스바,~에 관해(بالنسبة),regarding,prep,R4,N
+424,لحق,리히아,"따라잡다, 구하다",to catch up,verb,R4,N
+425,اشترى,아슈티리,사다,to buy,verb,R4,Y
+426,اسبوع,우스부,주(일주일),week,noun,R4,N
+427,شركة,쉬르카,회사,company,noun,R4,N
+428,عبد,압드,종; 압드(이름),servant,noun,R4,N
+429,بعيد,비이드,먼,far,adj,R4,N
+430,اوضة,오다,방,room,noun,R4,Y
+431,عزيز,아지즈,소중한,dear,adj,R4,N
+432,قول,울,말해,to say,verb,R4,N
+433,شخص,샤크스,사람,person,noun,R4,Y
+434,قوة,우와,힘,strength,noun,R4,N
+435,ثانية,사니야,초(잠깐),second,noun,R4,N
+436,فرح,파라흐,결혼식/기쁨,wedding,noun,R4,Y
+437,حكى,하카,이야기하다,to tell,verb,R4,N
+438,شوف,슈프,봐,to look,verb,R4,Y
+439,فرصة,포르사,기회,chance,noun,R4,N
+440,نبي,나비,예언자(والنبي 제발),prophet,noun,R4,N
+441,علاقة,알라아,관계,relationship,noun,R4,N
+442,عادي,아디,보통의,normal,adj,R4,N
+443,حكاية,헤카야,이야기,story,noun,R4,N
+444,حالة,할라,상태,condition,noun,R4,N
+445,أهل,아흘,가족/친척,family,noun,R4,N
+446,خليل,칼릴,칼릴(이름),Khalil,name,R4,N
+447,لم,람,~않았다,did not,part,R4,N
+448,قطع,아타,자르다,to cut,verb,R4,Y
+449,صحيح,사히흐,"맞는, 정말",true,adj,R4,N
+450,ثري,사리,부유한,rich,adj,R4,Y
+451,قام,암,일어나다,to get up,verb,R4,Y
+452,زاهي,자히,"화사한, 밝은",bright,adj,R4,N
+453,وكى,오케이,오케이,okay,interj,R4,N
+454,مستني,미스탄니,기다리는,waiting,verb,R4,N
+455,اتصل,잇타살,전화하다,to call,verb,R4,Y
+456,جرب,가랍,시도하다,to try,verb,R4,N
+457,يحيى,야흐야,야흐야(이름),Yahya,name,R4,N
+458,قفل,아팔,"닫다, 잠그다",to close,verb,R4,Y
+459,قرب,우르브,가까움,near,adv,R4,N
+460,شأن,아샨,"~때문에, ~위해(عشان)",because,conj,R4,N
+461,انتم,인툼,너희,you (pl),pron,R4,N
+462,مدرسة,마드라사,학교,school,noun,R4,Y
+463,سرق,사라아,훔치다,to steal,verb,R4,Y
+464,لوي,루아이,루아이(이름),Louay,name,R4,N
+465,أعال,타알라,이리 와(تعال),come here,interj,R4,N
+466,صراحة,사라하,솔직히(بصراحة),frankly,adv,R4,N
+467,قريب,우라이브,가까운,near,adj,R4,N
+468,شال,샬,"들다, 치우다",to carry,verb,R4,Y
+469,مصطفى,모스타파,무스타파(이름),Mostafa,name,R4,N
+470,تشويقيه,타슈위이야,스릴 있는,thrilling,adj,R4,N
+471,شاء,샤,원하다(뜻하다),to will,verb,R4,N
+472,أ,아,(깨진 토큰),broken,other,R4,N
+473,مبسوط,마브수트,기쁜,happy,adj,R4,Y
+474,حظ,하즈,운,luck,noun,R4,N
+475,حكم,훅름,판결,ruling,noun,R4,N
+476,قرا,아라,읽다,to read,verb,R4,Y
+477,رئيفه,라이파,라이파(여자 이름),female name,name,R4,N
+478,مجنون,마그눈,미친,crazy,adj,R4,N
+479,ركب,리킵,타다,to ride,verb,R4,Y
+480,مصر,마스르,이집트,Egypt,name,R4,N
+481,رقم,라암,번호,number,noun,R4,N
+482,أقل,아알,더 적은,less,adj,R4,N
+483,اذا,이자,만약,if,conj,R4,N
+484,ني,니,(비속어),vulgar,other,R4,N
+485,قوم,움,일어나,to get up,verb,R4,Y
+486,شمال,쉬말,왼쪽(북쪽),left,noun,R4,N
+487,حيوان,하야완,동물,animal,noun,R4,Y
+488,لعبة,레바,장난감,toy,noun,R4,Y
+489,أمن,암느,보안,security,noun,R4,N
+490,صديق,사디,친구,friend,noun,R4,N
+491,بلاش,발라쉬,하지 마,don't,part,R4,N
+492,آر,아르,"(단편, 의미 불명)",(fragment),other,R4,N
+493,نوع,노으,종류,type,noun,R4,N
+494,سم,이슴,이름(بسم),name,noun,R4,N
+495,صرخ,사라크,소리치다,to scream,verb,R4,Y
+496,أبيض,아브야드,흰,white,adj,R4,Y
+497,سلامة,살라마,"안전, 무사",safety,noun,R4,N
+498,عقل,아을,"정신, 머리",mind,noun,R4,N
+499,عجب,아갑,마음에 들다,to please,verb,R4,N
+500,ايوا,아이와,네,yes,interj,R4,N
+501,سكت,시키트,조용히 하다,to be quiet,verb,R4,Y
+502,نهاية,니하야,끝,end,noun,R4,N
+503,مصنع,마스나,공장,factory,noun,R4,Y
+504,كسب,키시브,"이기다, 벌다",to win,verb,R4,Y
+505,درامي,드라미,극적인,dramatic,adj,R4,N
+506,محمد,마하맛,무함마드(이름),Mohamed,name,R4,N
+507,أنقذ,안아드,구하다,to rescue,verb,R4,Y
+508,مدينة,마디나,도시,city,noun,R4,Y
+509,باس,바스,키스하다,to kiss,verb,R4,Y
+510,أفضل,아프달,더 좋은,better,adj,R4,N
+511,قديم,아딤,오래된,old,adj,R4,N
+512,لف,랍프,"돌다, 감다",to turn around,verb,R4,Y
+513,عيلة,엘라,가족,family,noun,R5,Y
+514,ريح,라야흐,"쉬다, 편하게 하다",to rest,verb,R5,Y
+515,ذلك,잘릭,그것,that,pron,R5,N
+516,نادى,나디,클럽,club,noun,R5,N
+517,حي,하이,살아있는,alive,adj,R5,N
+518,نظر,나자르,보다,to look,verb,R5,Y
+519,امبارح,임바리흐,어제,yesterday,adv,R5,N
+520,مصدق,미사다,믿는,believing,adj,R5,N
+521,وعد,와아드,약속하다,to promise,verb,R5,N
+522,سمى,삼마,이름 짓다,to name,verb,R5,N
+523,قولة,울,말하다,to say,verb,R5,Y
+524,مستشفى,무스타슈파,병원,hospital,noun,R5,Y
+525,قانون,아눈,법,law,noun,R5,N
+526,سر,세르,비밀,secret,noun,R5,N
+527,شارع,샤레,거리,street,noun,R5,Y
+528,لابس,라베스,입고 있는,wearing,verb,R5,Y
+529,راحة,라하,"휴식, 편함",rest,noun,R5,Y
+530,رائع,라에아,멋진,wonderful,adj,R5,N
+531,بلا,발라,~없이,without,prep,R5,N
+532,سيارة,사야라,자동차,car,noun,R5,Y
+533,زعل,지일,속상하다,to be upset,verb,R5,Y
+534,منين,미닌,어디에서,from where,adv,R5,N
+535,ونى,니,(비속어),vulgar,other,R5,N
+536,حرك,하락,움직이다,to move,verb,R5,Y
+537,بي,비,나를(나로),with me,prep,R5,N
+538,يوسف,유수프,유수프(이름),Youssef,name,R5,N
+539,شبه,쉽흐,~를 닮은,like,prep,R5,N
+540,نهار,나하르,낮,daytime,noun,R5,Y
+541,طويل,타윌,긴·키 큰,tall,adj,R5,Y
+542,كن,칸,~이었다(كان),was,verb,R5,N
+543,أتى,아타,오다(문어),to come,verb,R5,N
+544,معلم,미알림,사장님(선생),boss,noun,R5,N
+545,بدل,바달,~대신,instead of,prep,R5,N
+546,حول,하울,주위에,around,prep,R5,N
+547,مخدر,무카다르,마약,drug,noun,R5,Y
+548,فرنك,프랑크,프랑크(이름),male name,name,R5,N
+549,للا,얄라,"자, 어서(يللا)",come on,interj,R5,N
+550,رود,루드,"(단편, 의미 불명)",(fragment),other,R5,N
+551,مليون,밀욘,백만,million,num,R5,N
+552,اتمنى,아트마나,바라다,I hope,verb,R5,N
+553,سجن,시근,감옥,prison,noun,R5,Y
+554,عز,에즈,영광·한창,glory,noun,R5,N
+555,خاطر,카테르,마음/~를 위해,sake,noun,R5,N
+556,تم,탐,완료됐다,done,verb,R5,N
+557,سلاح,살라흐,무기,weapon,noun,R5,Y
+558,بوليس,볼리스,경찰,police,noun,R5,Y
+559,حمام,함맘,화장실,bathroom,noun,R5,Y
+560,عاد,아드,"돌아오다, 반복하다",to return,verb,R5,N
+561,خطة,코타,계획,plan,noun,R5,N
+562,مالك,말락,무슨 일이야,what's wrong,interj,R5,N
+563,صراخ,수라크,비명,screaming,noun,R5,Y
+564,رئيس,라이스,대통령·장,president,noun,R5,N
+565,يد,이드,손,hand,noun,R5,Y
+566,قلع,알라아,벗다,to take off,verb,R5,Y
+567,شعر,샤르,머리카락,hair,noun,R5,Y
+568,تعب,티비브,피곤하다,to be tired,verb,R5,Y
+569,آمين,아민,아민(이름),Amin,name,R5,N
+570,لعنة,라아나,"저주, 젠장",curse,noun,R5,N
+571,هزر,하자르,농담하다,to joke,verb,R5,N
+572,نجم,나그므,별/스타,star,noun,R5,Y
+573,عام,암,"해(년), 일반적",year,noun,R5,N
+574,بث,비트,여자애,girl,noun,R5,Y
+575,قرر,아라르,결정하다,to decide,verb,R5,N
+576,تيس,테스,숫염소,billy goat,noun,R5,Y
+577,بوب,밥,밥,Bob,name,R5,N
+578,اتفضل,잇파드달,"여기요, 드세요",please,interj,R5,N
+579,أهم,아함,더 중요한,more important,adj,R5,N
+580,جاهز,개헤즈,준비된,ready,adj,R5,N
+581,ريس,라이스,사장/대장,boss,noun,R5,N
+582,درجة,다라가,"정도, 등급",degree,noun,R5,N
+583,سامع,사메,듣고 있는,hearing,adj,R5,N
+584,حركة,하라카,움직임,movement,noun,R5,N
+585,قضى,아다,(시간을) 보내다,to spend time,verb,R5,N
+586,واقف,와에프,서 있는,standing,verb,R5,Y
+587,بركة,바라카,축복,blessing,noun,R5,N
+588,دون,둔,~없이(بدون),without,prep,R5,N
+589,قصة,잇사,이야기,story,noun,R5,N
+590,قسم,아쌈,맹세/부서,oath,noun,R5,N
+591,شرف,샤라프,명예,honor,noun,R5,N
+592,عاملة,아밀라,하고 있다(여),doing,verb,R5,N
+593,أمان,아만,안전,safety,noun,R5,N
+594,لغة,루가,언어,language,noun,R5,N
+595,ليس,라이사,아니다(문어 부정),is not,part,R5,N
+596,مصري,마스리,이집트의,Egyptian,adj,R5,N
+597,عملية,아마레야,수술/작전,operation,noun,R5,N
+598,انتهى,인타하,끝났다,ended,verb,R5,N
+599,مستحيل,무스타힐,불가능한,impossible,adj,R5,N
+600,شرطة,슈르타,경찰,police,noun,R5,Y
+601,مكتب,마크탑,사무실/책상,office,noun,R5,Y
+602,رسالة,리살라,편지·메시지,letter,noun,R5,Y
+603,جوردن,조르단,조던(이름),Jordan,name,R5,N
+604,خطوة,하트와,걸음,step,noun,R5,Y
+605,كبر,키비르,자라다,to grow up,verb,R5,Y
+606,بحر,바흐르,바다,sea,noun,R5,Y
+607,جواز,가와즈,결혼,marriage,noun,R5,Y
+608,صحي,시히,"깨다, 일어나다",to wake up,verb,R5,Y
+609,خوف,코프,두려움,fear,noun,R5,N
+610,سن,신,이(치아)/나이,tooth,noun,R5,Y
+611,كسر,카사르,"깨다, 부수다",to break,verb,R5,Y
+612,حوار,히와르,대화,dialogue,noun,R5,N
+613,سعادة,사아다,행복,happiness,noun,R5,N
+614,أذي,아다,해치다,to harm,verb,R5,N
+615,عيد,에드,명절,holiday,noun,R5,N
+616,شغال,샤갈,일하는(작동 중),working,adj,R5,N
+617,مر,마르,지나가다,to pass,verb,R5,N
+618,ابتدا,이브타다,시작하다,to begin,verb,R5,N
+619,رحم,리힘,자비를 베풀다,to have mercy,verb,R5,N
+620,جميع,가미아,모두,all,det,R5,N
+621,اتعلم,잇알림,배우다,to learn,verb,R5,Y
+622,خسر,키시르,"지다, 잃다",to lose,verb,R5,N
+623,تقريب,타으리반,거의(تقريبا),almost,adv,R5,N
+624,ياما,야마,얼마나 많이,so many,adv,R5,N
+625,الذي,알라지,~한(관계사),which,pron,R5,N
+626,فل,풀,"재스민, 최고",jasmine,noun,R5,Y
+627,صرف,사라프,"처신하다, 쓰다",to handle,verb,R5,N
+628,شيراز,쉬라즈,쉬라즈(이름),Shiraz,name,R5,N
+629,حرام,하람,금지된(죄),forbidden,adj,R5,N
+630,سرير,시리르,침대,bed,noun,R5,Y
+631,تلاتة,탈라타,셋,three,num,R5,Y
+632,استخدم,이스타크담,사용하다,to use,verb,R5,N
+633,منطقة,만티아,지역,area,noun,R5,N
+634,مناسب,무나십,적당한,suitable,adj,R5,N
+635,حمى,하마,보호하다,to protect,verb,R5,Y
+636,ماذا,마다,무엇,what,pron,R5,N
+637,شك,샥,의심,doubt,noun,R5,N
+638,لطيف,라티프,친절한,nice,adj,R5,N
+639,بعث,바아트,보내다,to send,verb,R5,Y
+640,كره,키리흐,싫어하다,to hate,verb,R5,N
+641,هويدا,후웨이다,후웨이다(이름),Howaida,name,R5,N
+642,سهل,사흘,쉬운,easy,adj,R5,N
+643,اتفق,잇타파아,합의하다,to agree,verb,R5,N
+644,جزء,고즈,부분,part,noun,R5,N
+645,أنيس,아니스,아니스(이름),Anis,name,R5,N
+646,وفيق,와피,와피크(이름),Wafiq,name,R5,N
+647,فترة,파트라,기간,period,noun,R5,N
+648,ضاع,다아,"잃어버리다, 길을 잃다",to get lost,verb,R5,N
+649,دق,다아,두드리다,to knock,verb,R5,Y
+650,مساعدة,모사다,도움,help,noun,R5,N
+651,شر,샤르,악,evil,noun,R5,N
+652,كذب,키딥,거짓말하다,to lie,verb,R5,N
+653,ماغي,마기,매기(이름),Maggie,name,R5,N
+654,فايز,파예즈,파예즈(이름),Fayez,name,R5,N
+655,حصان,호산,말,horse,noun,R5,Y
+656,طار,타르,날다,to fly,verb,R5,Y
+657,قيصر,아이사르,황제,emperor,noun,R5,Y
+658,داخل,다켈,안으로,inside,adv,R5,N
+659,قضية,아데야,사건,case,noun,R5,N
+660,خصوص,쿠수스,"특히, ~에 관해(بخصوص)",especially,adv,R5,N
+661,فرق,파르아,차이,difference,noun,R5,N
+662,حدث,하다스,"일어나다, 사건",to happen,verb,R5,N
+663,رشوة,라슈와,뇌물,bribe,noun,R5,Y
+664,حكومة,후쿠마,정부,government,noun,R5,N
+665,أحمر,아흐마르,빨간,red,adj,R5,Y
+666,اعتبر,이으타바르,간주하다,to consider,verb,R5,N
+667,سافر,사피르,여행하다,to travel,verb,R5,Y
+668,صور,소와르,사진들,photos,noun,R5,Y
+669,برة,바라,밖,outside,adv,R5,N
+670,مولى,몰라,주인님,lord,noun,R5,N
+671,جي,기,오는,coming,verb,R5,N
+672,غاية,가야,~까지(لغاية),until,prep,R5,N
+673,بن,빈,~의 아들,son of,noun,R5,N
+674,مستعد,미스타에드,준비된,ready,adj,R5,N
+675,قصر,아스르,궁전,palace,noun,R5,Y
+676,حسب,하삽,~에 따라,according to,prep,R5,N
+677,جملة,고믈라,문장,sentence,noun,R5,N
+678,مستقبل,무스타으발,미래,future,noun,R5,N
+679,أثر,아사르,"흔적, 유적",trace,noun,R5,N
+680,اضطر,이드타르,어쩔 수 없이 ~하다,to be forced,verb,R5,N
+681,أحلى,아흘라,더 예쁜,nicer,adj,R5,N
+682,أحمد,아흐마드,아흐마드(이름),Ahmed,name,R5,N
+683,أليكس,알렉스,알렉스(이름),Alex,name,R5,N
+684,هدية,하데야,선물,gift,noun,R5,Y
+685,شرموطة,샤르무타,욕설(창녀),whore (vulgar),noun,R5,N
+686,طلق,탈라아,이혼하다,to divorce,verb,R5,N
+687,اربع,아르바,넷,four,num,R5,Y
+688,طمن,탐민,안심시키다,to reassure,verb,R5,N
+689,بايا,바야,"(단편, 의미 불명)",(fragment),other,R5,N
+690,قرموط,아르무트,메기,catfish,noun,R5,Y
+691,غموض,구무드,신비(모호함),mystery,noun,R5,N
+692,أداء,아다,연기·수행,performance,noun,R5,N
+693,أمل,아말,희망,hope,noun,R5,N
+694,رعب,로브,공포,horror,noun,R5,N
+695,جثة,구사,시체,corpse,noun,R5,N
+696,ذنب,잠브,죄,sin,noun,R5,N
+697,ورقة,와라아,종이,paper,noun,R5,Y
+698,إنجليزي,잉글리지,"영어, 영국의",English,adj,R5,N
+699,خلق,칼라아,창조하다,to create,verb,R5,N
+700,حضر,히디르,"참석하다, 준비하다",to attend,verb,R5,N
+701,كمال,카말,카말(이름),Kamal,name,R5,N
+702,عيب,에이브,부끄러운 일,shame,noun,R5,N
+703,بشر,바샤르,인간,humans,noun,R5,Y
+704,شقة,사아,아파트,apartment,noun,R5,Y
+705,مشهد,마샤드,장면,scene,noun,R5,N
+706,دار,다르,돌다,to turn,verb,R5,N
+707,باين,바옌,보이는(분명한),apparent,adj,R5,N
+708,كريم,카림,관대한,generous,adj,R5,N
+709,اهتم,잇함,관심 갖다,to care,verb,R5,N
+710,ناحية,나혜야,쪽,direction,noun,R5,N
+711,ناك,낙,(비속어),vulgar,other,R5,N
+712,أوك,오케이,오케이,okay,interj,R5,N
+713,عبدالله,압달라,압달라(이름),Abdallah,name,R5,N
+714,سيادة,시야다트,각하,Your Excellency,noun,R5,N
+715,وضع,와드아,상황,situation,noun,R5,N
+716,ماء,마야,물,water,noun,R5,Y
+717,عسكري,아스카리,군인,soldier,noun,R5,Y
+718,ثار,사르,봉기하다,to revolt,verb,R5,N
+719,وجع,와가아,"아프다, 통증",to hurt,verb,R5,N
+720,وافق,와피아,동의하다,to agree,verb,R5,N
+721,عيط,아야트,울다,to cry,verb,R5,Y
+722,دعا,다아,"기도하다, 빌다",to pray,verb,R5,Y
+723,مبروك,마브루크,축하해,congratulations,interj,R5,N
+724,براين,브라이언,브라이언(이름),Brian,name,R5,N
+725,مستر,미스터,미스터,mister,noun,R5,N
+726,فرعون,파라온,파라오,pharaoh,noun,R5,Y
+727,ظابط,자비트,장교,officer,noun,R5,Y
+728,حوالي,하왈레,약,about,adv,R5,N
+729,بحث,바하스,"찾다, 연구하다",to search,verb,R5,Y
+730,راجع,라게,돌아오는,coming back,adj,R5,N
+731,حساب,헤삽,계산서,bill,noun,R5,N
+732,جويل,조엘,조엘(이름),Joel,name,R5,N
+733,جو,고,분위기/날씨,weather,noun,R5,N
+734,سماح,사마흐,사마흐(이름),Samah,name,R5,N
+735,باقي,바이,나머지,rest,noun,R5,N
+736,خنزير,칸지르,돼지,pig,noun,R5,Y
+737,أرنب,아르나브,토끼,rabbit,noun,R5,Y
+738,جسم,기슴,몸,body,noun,R5,Y
+739,احتاج,이흐타그,필요하다,to need,verb,R5,N
+740,أكر,아카르,"(단편, 의미 불명)",(fragment),other,R5,N
+741,مساء,마사,저녁,evening,noun,R5,Y
+742,إطلاق,이틀라,발사,firing,noun,R5,N
+743,خمسة,캄사,다섯,five,num,R5,Y
+744,تعبان,타으반,피곤한,tired,adj,R5,Y
+745,هدمة,히드마,옷,clothes,noun,R5,Y
+746,ناقص,나이스,부족한,missing,adj,R5,N
+747,قبض,아바드,"체포하다, 받다",to arrest,verb,R5,Y
+748,ندي,나디,"(단편, 의미 불명)",(fragment),other,R5,N
+749,محل,마할,가게,shop,noun,R5,Y
+750,جهاز,기하즈,기기·장치,device,noun,R5,Y
+751,خرب,카라브,망치다,to ruin,verb,R5,N
+752,طبيعي,타비이,보통의,normal,adj,R5,N
+753,ثلاث,탈라타,셋,three,num,R5,Y
+754,بقية,바이야,나머지,rest,noun,R5,N
+755,مليان,말얀,가득 찬,full,adj,R5,Y
+756,سحر,시흐르,마법,magic,noun,R5,Y
+757,ذوق,도으,"취향, 맛",taste,noun,R5,N
+758,نقل,나알,옮기다,to move,verb,R5,Y
+759,لمس,라마스,만지다,to touch,verb,R5,Y
+760,حقق,하아아,조사하다,to investigate,verb,R5,N
+761,طه,타하,타하(이름),Taha,name,R5,N
+762,فقط,파아트,단지,only,adv,R5,N
+763,خمس,캄스,다섯,five,num,R5,Y
+764,ترجم,타르감,번역하다,to translate,verb,R5,N
+765,واخد,와케드,가져간·가진,taking,verb,R5,N
+766,غابة,가바,숲,forest,noun,R5,Y
+767,رحمة,라흐마,자비,mercy,noun,R5,N
+768,بكى,비키,울다,to cry,verb,R5,Y
+769,خاصة,카사,특히,especially,adv,R5,N
+770,مختلف,무크탈리프,다른,different,adj,R5,N
+771,ميلاد,밀라드,생일/탄생,birth,noun,R5,N
+772,حرب,하릅,전쟁,war,noun,R5,Y
+773,شرط,샤르트,조건,condition,noun,R5,N
+774,عيش,에시,빵,bread,noun,R5,Y
+775,خرا,카라,똥(비속어),crap,noun,R5,N
+776,اتحرك,잇하락,움직여,to move,verb,R5,N
+777,طلاق,탈라,이혼,divorce,noun,R5,N
+778,عربية,아라베야,자동차,car,noun,R5,Y
+779,قاتل,아틸,살인자,killer,noun,R5,N
+780,سلطان,술탄,술탄,sultan,noun,R5,Y
+781,بكاء,부카,울음,crying,noun,R5,Y
+782,اختبار,이크티바르,시험,test,noun,R5,Y
+783,دليل,달릴,증거,evidence,noun,R5,N
+784,وظيفة,와지파,직업,job,noun,R5,N
+785,عالي,알리,높은,high,adj,R5,Y
+786,عكس,아크스,반대,opposite,noun,R5,N
+787,شرير,쉬리르,악당/사악한,evil,adj,R5,N
+788,جزمة,가즈마,구두,shoe,noun,R5,Y
+789,لسان,리산,혀,tongue,noun,R5,Y
+790,سامح,사미흐,용서하다,to forgive,verb,R5,N
+791,اها,아하,아하,aha,interj,R5,N
+792,لبنى,로브나,로브나(이름),Lobna,name,R5,N
+793,بول,볼,폴(이름),Paul,name,R5,N
+794,تدني,다니,"(단편, 의미 불명)",(fragment),other,R5,N
+795,ذب,집,(비속어),vulgar,other,R5,N
+796,هاتف,하티프,전화기,phone,noun,R5,Y
+797,جامعة,감아,대학교,university,noun,R5,Y
+798,مفاجأة,무파그아,깜짝 놀람,surprise,noun,R5,N
+799,شنطة,샨타,가방,bag,noun,R5,Y
+800,أمريكي,암리키,미국의,American,adj,R5,N
+801,مصيبة,무시바,재앙,disaster,noun,R5,N
+802,خدمة,키드마,서비스/부탁,service,noun,R5,N
+803,مفتاح,무프타흐,열쇠,key,noun,R5,Y
+804,شاذ,샤즈,동성애자/비정상,deviant,adj,R5,N
+805,عميل,아밀,"고객, 요원",client,noun,R5,N
+806,سجل,시길,기록,record,noun,R5,N
+807,هه,헤,흥(웃음),huh,interj,R5,N
+808,سي,시,~씨(호칭),Mr.,noun,R5,N
+809,شيطان,셰이탄,악마,devil,noun,R5,Y
+810,خبط,카바트,두드리다,to knock,verb,R5,Y
+811,جين,진,(인명),(name),name,R5,N
+812,بداية,비다야,시작,beginning,noun,R5,N
+813,عاجب,아깁,마음에 드는,pleasing,adj,R5,N
+814,لذيذ,라지즈,맛있는,delicious,adj,R5,Y
+815,وجه,와그,얼굴,face,noun,R5,Y
+816,فاضي,파디,비어 있는/한가한,empty,adj,R5,Y
+817,ثاني,타니,"두 번째, 다시",second,adj,R5,N
+818,شخصي,샤크시,개인적인,personal,adj,R5,N
+819,والد,왈리드,아버지,father,noun,R5,Y
+820,امال,아말,그럼(그렇다면),then what,part,R5,N
+821,جنيه,기네,파운드(화폐),pound (money),noun,R5,Y
+822,عبر,아브르,~을 통해,through,prep,R5,N
+823,كاس,카스,잔,cup,noun,R5,Y
+824,بوس,보스,키스,kiss,noun,R5,Y
+825,حاسب,하세브,조심해,watch out,interj,R5,N
+826,رغم,라그무,~에도 불구하고,despite,prep,R5,N
+827,زوجة,조우가,아내,wife,noun,R5,N
+828,كرسي,쿠르시,의자,chair,noun,R5,Y
+829,طالب,탈립,학생,student,noun,R5,Y
+830,عد,아드,세다,to count,verb,R5,Y
+831,أصبح,아스바흐,~이 되다,to become,verb,R5,N
+832,واقع,와이아,현실,reality,noun,R5,N
+833,مرتفع,무르타파아,높은,high,adj,R5,N
+834,ماضي,마디,과거,past,noun,R5,N
+835,متجوز,미트가와즈,기혼의,married,adj,R5,Y
+836,إنسان,인산,인간,human,noun,R5,Y
+837,طيز,티즈,엉덩이(비속어),butt,noun,R5,N
+838,وي,위,예(외래어),oui,other,R5,N
+839,مأن,만,남자(외래어),man,other,R5,N
+840,خليك,칼리크,그대로 있어,stay,verb,R5,N
+841,كيف,케이프,어떻게,how,adv,R5,N
+842,غالب,갈립,대개(غالبا),probably,adv,R5,N
+843,رسى,메르시,고마워(ميرسي),thanks,interj,R5,N
+844,عمال,암말,계속 ~하는 중,keep doing,part,R5,N
+845,جيش,게쉬,군대,army,noun,R5,Y
+846,سعد,사아드,사아드(이름),Saad,name,R5,N
+847,يمين,이민,오른쪽,right,noun,R5,N
+848,مركب,마르캅,배,boat,noun,R5,Y
+849,قرف,아라프,역겨움,disgust,noun,R5,N
+850,تاريخ,타리크,역사/날짜,history,noun,R5,N
+851,ممثل,뭄쌀,배우,actor,noun,R5,Y
+852,نقطة,누아따,점,dot,noun,R5,Y
+853,اتفرج,잇파라그,구경하다,to watch,verb,R5,Y
+854,درس,다르스,수업,lesson,noun,R5,Y
+855,إبراهيم,이브라힘,이브라힘(이름),Ibrahim,name,R5,N
+856,ستيف,스티브,스티브(이름),Steve,name,R5,N
+857,إد,아드,~만큼,as much as,prep,R5,N
+858,روسي,루시,러시아의,Russian,adj,R5,N
+859,هادي,하디,조용한,calm,adj,R5,N
+860,صندوق,산두아,상자,box,noun,R5,Y
+861,أحث,하스,느끼다,to feel,verb,R5,N
+862,موقف,마우이프,"입장, 상황",position,noun,R5,N
+863,عسل,아쌀,꿀/자기야,honey,noun,R5,Y
+864,قطة,옷타,고양이,cat,noun,R5,Y
+865,فرحان,파르한,기쁜,happy,adj,R5,Y
+866,مسدس,무사다스,권총,pistol,noun,R5,Y
+867,ظرف,자르프,"상황, 봉투",circumstance,noun,R5,N
+868,اتخيل,잇카얄,상상하다,to imagine,verb,R5,N
+869,ركز,라카즈,집중하다,to focus,verb,R5,N
+870,مايكل,마이클,마이클(이름),Michael,name,R5,N
+871,دعوة,다와,초대/기도,invitation,noun,R5,N
+872,موبايل,모바일,휴대폰,mobile phone,noun,R5,Y
+873,قلقان,알란,걱정하는,worried,adj,R5,N
+874,جنة,간나,천국,paradise,noun,R5,N
+875,خارج,카레그,밖,outside,adv,R5,N
+876,رقبة,라아바,목,neck,noun,R5,Y
+877,أدب,아답,예의,manners,noun,R5,N
+878,ولع,왈라,불붙이다,to light,verb,R5,Y
+879,أومال,우말,그럼,then what,part,R5,N
+880,مؤاخذة,모아크자,실례지만,excuse me,interj,R5,N
+881,هوة,후와,구렁,abyss,noun,R5,N
+882,معقول,마으울,말이 돼?·합리적인,reasonable,adj,R5,N
+883,وسط,와사트,가운데,middle,noun,R5,N
+884,سوق,수으,시장,market,noun,R5,Y
+885,عصفور,아스푸르,참새,sparrow,noun,R5,Y
+886,زميل,자밀,동료,colleague,noun,R5,N
+887,أكد,악키드,확인하다,to confirm,verb,R5,N
+888,عدو,아두,적,enemy,noun,R5,N
+889,إنما,인나마,하지만,but,conj,R5,N
+890,طمى,타마,진흙,silt,noun,R5,N
+891,مول,몰,쇼핑몰,mall,noun,R5,Y
+892,غرفة,고르파,방,room,noun,R5,Y
+893,اساس,아사스,기초,basis,noun,R5,N
+894,اتغير,잇가야르,변하다,to change,verb,R5,N
+895,استحمل,아스타함말,참다,to endure,verb,R5,N
+896,مدير,무디르,관리자,manager,noun,R5,Y
+897,سهم,사흠,화살,arrow,noun,R5,Y
+898,اتعامل,잇아말,대하다,to deal with,verb,R5,N
+899,تلفزيون,틸리피지온,텔레비전,television,noun,R5,Y
+900,ثمن,타만,값,price,noun,R5,N
+901,سابق,사베으,이전의,previous,adj,R5,N
+902,وثق,위시,믿다,to trust,verb,R5,N
+903,سخن,수크은,뜨거운,hot,adj,R5,Y
+904,جمع,가마아,모으다,to collect,verb,R5,Y
+905,ديني,디니,내 종교,my religion,noun,R5,N
+906,زيادة,지야다,증가·더,extra,noun,R5,N
+907,جربوع,가르부아,천한 놈,lowlife,noun,R5,N
+908,رحلة,레흘라,여행,trip,noun,R5,N
+909,عبيط,아비트,바보 같은,silly,adj,R5,N
+910,جريمة,가리마,범죄,crime,noun,R5,N
+911,اختيار,이크티야르,선택,choice,noun,R5,N
+912,متناك,미트낙,개자식(비속어),bastard,adj,R5,N
+913,وجود,우구드,존재,existence,noun,R5,N
+914,كي,케이,~하도록,so that,conj,R5,N
+915,كامل,카밀,완전한,complete,adj,R5,N
+916,فك,팍,풀다,to untie,verb,R5,Y
+917,جهز,가하즈,준비하다,to prepare,verb,R5,N
+918,نفذ,낫파즈,실행하다,to carry out,verb,R5,N
+919,أنهي,안헤,어느,which,det,R5,N
+920,مالي,말리,내 것이 무슨,what's with me,pron,R5,N
+921,مشهور,마슈후르,유명한,famous,adj,R5,N
+922,بسيط,바시트,간단한,simple,adj,R5,N
+923,عريس,아리스,신랑,groom,noun,R5,Y
+924,نعمة,니아마,은혜,blessing,noun,R5,N
+925,سيدة,사예다,숙녀,lady,noun,R5,Y
+926,أراد,아라드,원하다,to want,verb,R5,N
+927,فارق,파레으,차이,difference,noun,R5,N
+928,مصلحة,마슬라하,이익,interest,noun,R5,N
+929,شرح,샤라흐,설명하다,to explain,verb,R5,N
+930,طرد,타라드,쫓아내다,to kick out,verb,R5,Y
+931,خان,칸,배신하다,to betray,verb,R5,N
+932,حرق,하라으,태우다,to burn,verb,R5,Y
+933,بدري,바드리,일찍,early,adv,R5,N
+934,تري,타라,보다(문어),to see,verb,R5,N
+935,كتير,키티르,많이,a lot,adv,R5,N
+936,شمس,샴스,해,sun,noun,R5,Y
+937,ضد,데드,~에 반대,against,prep,R5,N
+938,نايم,나임,자는,sleeping,adj,R5,Y
+939,ذكي,자키,똑똑한,smart,adj,R5,N
+940,أثبت,이스밧,증명하다,to prove,verb,R5,N
+941,وزير,와지르,장관,minister,noun,R5,N
+942,أجازة,아가자,휴가,vacation,noun,R5,Y
+943,محترم,무흐타람,예의 바른,respectable,adj,R5,N
+944,برنامج,바르나마그,프로그램,program,noun,R5,N
+945,فقد,파아드,잃다,to lose,verb,R5,N
+946,ستر,사타르,감싸 주다,to protect,verb,R5,N
+947,خلال,칼랄,~동안,during,prep,R5,N
+948,نحن,나흐누,우리,we,pron,R5,N
+949,أسرع,아스라,더 빠른,faster,adj,R5,N
+950,قهي,아흐와,커피,coffee,noun,R5,Y
+951,معلوم,마알룸,정보,information,noun,R5,N
+952,سحري,시흐리,마법의,magical,adj,R5,N
+953,مس,마스,만지다,to touch,verb,R5,Y
+954,حر,호르,자유로운,free,adj,R5,N
+955,ضغط,다가트,누르다,to press,verb,R5,Y
+956,نوم,놈,잠,sleep,noun,R5,Y
+957,جيد,가예드,좋은,good,adj,R5,N
+958,فجر,파그르,새벽,dawn,noun,R5,Y
+959,زمن,자만,시대,era,noun,R5,N
+960,حلاوة,할라와,달콤함,sweetness,noun,R5,N
+961,اتأخر,잇아카르,늦다,to be late,verb,R5,N
+962,غالي,갈리,비싼,expensive,adj,R5,N
+963,قرار,아라르,결정,decision,noun,R5,N
+964,سكة,씩카,길,road,noun,R5,Y
+965,شم,샴,냄새 맡다,to smell,verb,R5,Y
+966,قط,오트,고양이,cat,noun,R5,Y
+967,جايب,가입,가져온,bringing,verb,R5,N
+968,مرض,마라드,병,illness,noun,R5,N
+969,طبق,타바으,접시,plate,noun,R5,Y
+970,جار,가르,이웃,neighbor,noun,R5,N
+971,خدع,카다아,속이다,to deceive,verb,R5,N
+972,نجح,나가흐,성공하다,to succeed,verb,R5,N
+973,سوا,사와,함께,together,adv,R5,N
+974,قومي,우미,일어나(여),get up,verb,R5,Y
+975,شرموط,샤르무트,창녀(비속어),whore,noun,R5,N
+976,شاي,샤이,차,tea,noun,R5,Y
+977,رحب,라하브,환영하다,to welcome,verb,R5,N
+978,روب,로브,가운,robe,noun,R5,Y
+979,عموم,우문,대체로,generally,adv,R5,N
+980,عدل,아들,공정함/바로,straight,adj,R5,N
+981,زاد,자드,늘었다,to increase,verb,R5,N
+982,فيديو,피디우,동영상,video,noun,R5,Y
+983,ساحر,사헤르,마법사,magician,noun,R5,Y
+984,اعترف,아아타리프,인정하다,to admit,verb,R5,N
+985,شاطر,샤테르,똑똑한,clever,adj,R5,N
+986,فشل,피실,실패하다,to fail,verb,R5,N
+987,ذهب,다합,금,gold,noun,R5,Y
+988,فظيع,파지,끔찍한,terrible,adj,R5,N
+989,آدم,아담,아담(이름),Adam,name,R5,N
+990,جنس,긴스,성/성별,sex,noun,R5,N
+991,زعلان,자알란,속상한,upset,adj,R5,Y
+992,ناوي,나위,~할 생각인,intending,adj,R5,N
+993,احساس,에흐사스,느낌,feeling,noun,R5,N
+994,معسكر,모아스카르,캠프,camp,noun,R5,Y
+995,مركز,마르카즈,센터,center,noun,R5,N
+996,جمال,가말,아름다움,beauty,noun,R5,N
+997,قمر,아마르,달,moon,noun,R5,Y
+998,جاني,가니,범인,offender,noun,R5,N
+999,رومانسي,로만시,낭만적인,romantic,adj,R5,N
+1000,لها,라하,그녀에게,to her,prep,R5,N
+1001,طعم,타암,맛,taste,noun,R5,N
+1002,شغلانة,쇼글라나,일거리,job,noun,R5,N
+1003,مرحلة,마르할라,단계,stage,noun,R5,N
+1004,اتجنن,잇간닌,미치다,to go crazy,verb,R5,N
+1005,دايق,다이으,짜증 난,annoyed,adj,R5,Y
+1006,جوا,구와,안에,inside,adv,R5,N
+1007,ختي,오크티,언니/누나(부름말),sister,noun,R5,N
+1008,كيفين,케빈,케빈(이름),Kevin,name,R5,N
+1009,رنين,라닌,울리는 소리,ringing,noun,R5,N
+1010,ألس,엘스,이름 조각,fragment,other,R5,N
+1011,فاضل,파델,남은,remaining,adj,R5,N
+1012,جعان,가안,배고픈,hungry,adj,R5,Y
+1013,طالع,탈레아,올라가는,going up,adj,R5,N
+1014,ذو,두,~을 가진,possessor of,part,R5,N
+1015,سلطة,살라타,샐러드,salad,noun,R5,Y
+1016,جرح,고르흐,상처,wound,noun,R5,Y
+1017,أمام,오담,~앞에,in front of,prep,R5,N
+1018,عصب,아사브,신경,nerve,noun,R5,N
+1019,نط,낫,뛰다,to jump,verb,R5,Y
+1020,بلغ,발라그,알리다,to inform,verb,R5,N
+1021,ديڤاين,디바인,디바인(이름),Divine,name,R5,N
+1022,هيام,하얌,하얌(이름),Hayam,name,R5,N
+1023,شغالة,쇼갈라,일하는(여),working,adj,R5,N
+1024,مكتوب,마크툽,쓰여진/운명,written,adj,R5,N
+1025,صالح,살레흐,살레흐(이름),Saleh,name,R5,N
+1026,مشغول,마슈굴,바쁜,busy,adj,R5,N
+1027,إكس,엑스,엑스(X),x,other,R5,N
+1028,حين,힌,때,time,noun,R5,N
+1029,فستان,포스탄,드레스,dress,noun,R5,Y
+1030,رنا,란,울리다,to ring,verb,R5,Y
+1031,علامة,알라마,표시,sign,noun,R5,Y
+1032,طيارة,타야라,비행기,airplane,noun,R5,Y
+1033,مزاج,마자그,기분,mood,noun,R5,N
+1034,صدر,사드르,가슴,chest,noun,R5,Y
+1035,أنزل,안질,내려가다,to go down,verb,R5,N
+1036,راوي,라위,화자,narrator,noun,R5,N
+1037,يوجين,유진,유진(이름),Eugene,name,R5,N
+1038,فجأة,파그아,갑자기,suddenly,adv,R5,N
+1039,شوق,쇼으,그리움,longing,noun,R5,N
+1040,بيتزا,비차,피자,pizza,noun,R5,Y
+1041,قرن,아른,세기,century,noun,R5,N
+1042,سبع,사바아,일곱,seven,num,R5,N
+1043,ألم,알람,아픔,pain,noun,R5,N
+1044,وقى,와아,보호하다,to protect,verb,R5,N
+1045,فصل,파슬,반/학급,class,noun,R5,N
+1046,رفض,라파드,거절하다,to refuse,verb,R5,N
+1047,ذكر,자카르,기억하다,to remember,verb,R5,N
+1048,ربى,랍비,나의 주님,my Lord,noun,R5,N
+1049,م,므,(조각),fragment,other,R5,N
+1050,ريت,레트,~였으면,wish,part,R5,N
+1051,براون,브라운,브라운(이름),Brown,name,R5,N
+1052,رجس,나르기스,수선화,narcissus,noun,R5,Y
+1053,رمزي,람지,람지(이름),Ramzy,name,R5,N
+1054,إيقاعي,이아아이,리듬의,rhythmic,adj,R5,N
+1055,بقا,바아,~되다/이제,then,part,R5,N
+1056,زفت,제프트,엉망/아스팔트,crap,noun,R5,N
+1057,يخت,약트,요트,yacht,noun,R5,Y
+1058,شبكة,샤바카,그물,net,noun,R5,Y
+1059,وول,월,벽(영어),wall,other,R5,N
+1060,سكر,숙카르,설탕,sugar,noun,R5,Y
+1061,قادم,아뎀,다가오는,coming,adj,R5,N
+1062,مص,마스,빨다,to suck,verb,R5,Y
+1063,جانب,가넵,옆,side,noun,R5,N
+1064,عضو,오드우,회원,member,noun,R5,N
+1065,وحى,와히,계시,revelation,noun,R5,N
+1066,ظلم,조름,불의,injustice,noun,R5,N
+1067,زار,자르,방문하다,to visit,verb,R5,N
+1068,منع,마나아,막다,to prevent,verb,R5,N
+1069,بومبا,붐바,인명,personal name,name,R5,N
+1070,تيمون,티몬,인명,personal name,name,R5,N
+1071,يسوع,야수,예수,Jesus,name,R5,N
+1072,متهيأ,미트하야,~인 것 같다,it seems,other,R5,N
+1073,مانع,마네,반대하는,objecting,adj,R5,N
+1074,تلات,탈랏,셋,three,num,R5,Y
+1075,أعلى,아알라,더 높은,higher,adj,R5,N
+1076,ذاك,다크,저것,that,det,R5,N
+1077,حارس,하리스,경비원,guard,noun,R5,Y
+1078,دولة,돌라,국가,state,noun,R5,N
+1079,صلاة,살라,기도,prayer,noun,R5,Y
+1080,فتاة,파타,소녀,girl,noun,R5,Y
+1081,قذر,아제르,더러운,dirty,adj,R5,Y
+1082,شد,샷드,당기다,to pull,verb,R5,Y
+1083,صبر,사브르,인내,patience,noun,R5,N
+1084,ثقة,시아,신뢰,trust,noun,R5,N
+1085,ودع,와다아,작별하다,to bid farewell,verb,R5,N
+1086,سعى,사아,애쓰다,to strive,verb,R5,N
+1087,نده,나다흐,부르다,to call out,verb,R5,Y
+1088,أطلق,아틀라으,풀어 주다,to release,verb,R5,N
+1089,دمر,담마르,파괴하다,to destroy,verb,R5,Y
+1090,ياريت,야레트,~였으면 좋겠다,I wish,interj,R5,N
+1091,كم,캄,얼마나,how many,pron,R5,N
+1092,ضربة,다르바,타격,hit,noun,R5,Y
+1093,لوش,말루쉬,그에게 없다,has not,other,R5,N
+1094,مثير,무시르,흥미진진한,exciting,adj,R5,N
+1095,نظام,니잠,체계,system,noun,R5,N
+1096,جنون,구눈,광기,madness,noun,R5,N
+1097,اختفى,이크타파,사라지다,to disappear,verb,R5,N
+1098,عرص,아르스,포주(욕),pimp,other,R5,N
+1099,سفينة,사피나,배,ship,noun,R5,Y
+1100,سريع,사리아,빠른,fast,adj,R5,Y
+1101,ٱستمتع,이스탐타아,즐기다,to enjoy,verb,R5,N
+1102,ضيف,데이프,손님,guest,noun,R5,N
+1103,بان,반,보이다,to appear,verb,R5,N
+1104,حذر,하자르,경고하다,to warn,verb,R5,N
+1105,نظف,낫다프,청소하다,to clean,verb,R5,Y
+1106,سميث,스미스,스미스(이름),Smith,name,R5,N
+1107,قلعة,알아,성,castle,noun,R5,Y
+1108,همة,힘마,열의,zeal,noun,R5,N
+1109,ضبط,자바트,맞추다,to adjust,verb,R5,N
+1110,داهية,다히아,재앙,disaster,noun,R5,N
+1111,وردة,와르다,장미,rose,noun,R5,Y
+1112,ذات,자트,자신,self,noun,R5,N
+1113,مجموعة,마그무아,그룹,group,noun,R5,N
+1114,عصاية,아사야,막대기,stick,noun,R5,Y
+1115,كذاب,카답,거짓말쟁이,liar,noun,R5,N
+1116,قليل,알릴,적은,little,adj,R5,N
+1117,خارق,카리으,초인적인,super,adj,R5,N
+1118,عقد,아으드,계약,contract,noun,R5,N
+1119,صحة,사하,건강,health,noun,R5,N
+1120,سري,시르리,비밀의,secret,adj,R5,N
+1121,هدف,하다프,목표,goal,noun,R5,N
+1122,خيال,카얄,상상,imagination,noun,R5,N
+1123,طبيعة,타비아,자연,nature,noun,R5,Y
+1124,كامرا,카메라,카메라,camera,noun,R5,Y
+1125,لحم,라흠,고기,meat,noun,R5,Y
+1126,صباع,소바아,손가락,finger,noun,R5,Y
+1127,كشف,카샤프,드러내다,to uncover,verb,R5,N
+1128,زود,자우와드,늘리다,to increase,verb,R5,N
+1129,دايڤيد,데이비드,데이비드(이름),David,name,R5,N
+1130,ايڤان,이반,이반(이름),Ivan,name,R5,N
+1131,صلاح,살라흐,살라흐(이름),Salah,name,R5,N
+1132,ناقوس,나우스,종,bell,noun,R5,Y
+1133,أف,에프,F(글자),letter F,other,R5,N
+1134,ريحة,리하,냄새,smell,noun,R5,N
+1135,أعاد,아아드,반복하다,to repeat,verb,R5,N
+1136,أجل,아갈,그래/네,yes,interj,R5,N
+1137,متأخر,미트악카르,늦은,late,adj,R5,N
+1138,ساكن,사킨,사는,resident,adj,R5,N
+1139,قلم,알람,펜,pen,noun,R5,Y
+1140,خول,콜,호모(욕),faggot,other,R5,N
+1141,نيك,니크,비속어,swear word,other,R5,N
+1142,مفترس,모프타레스,포식자,predator,noun,R5,N
+1143,قاضي,아디,판사,judge,noun,R5,Y
+1144,حيطة,헤타,벽,wall,noun,R5,Y
+1145,مضى,마다,지나가다,to pass,verb,R5,N
+1146,بنى,부나야,아들아,my son,noun,R5,N
+1147,رسم,라슴,그림,drawing,noun,R5,Y
+1148,د,드,(조각),fragment,other,R5,N
+1149,مهما,마흐마,아무리 ~해도,no matter,conj,R5,N
+1150,زكريا,자카리야,자카리야(이름),Zakaria,name,R5,N
+1151,زئير,자이르,포효,roar,noun,R5,Y
+1152,جون,존,존(이름),John,name,R5,N
+1153,خرس,키리스,입 다물다,to shut up,verb,R5,N
+1154,قبيلة,아빌라,부족,tribe,noun,R5,N
+1155,آوى,아위,매우,very,adv,R5,N
+1156,كباريه,카바레,카바레,cabaret,noun,R5,N
+1157,غلطان,갈탄,틀린,wrong,adj,R5,N
+1158,حمار,후마르,당나귀,donkey,noun,R5,Y
+1159,محامي,무하미,변호사,lawyer,noun,R5,Y
+1160,كلية,쿨레야,단과대학,college,noun,R5,N
+1161,سيرة,시라,이야기/평판,story,noun,R5,N
+1162,شنط,샨타,가방,bag,noun,R5,Y
+1163,نتيجة,나티가,결과,result,noun,R5,N
+1164,فن,판,예술,art,noun,R5,N
+1165,مارس,마라스,실천하다,to practice,verb,R5,N
+1166,علق,알라으,걸다,to hang,verb,R5,Y
+1167,حلف,할라프,맹세하다,to swear,verb,R5,N
+1168,سحب,사합,당기다/빼다,to withdraw,verb,R5,Y
+1169,ارتاح,이르타흐,쉬다,to rest,verb,R5,Y
+1170,حارب,하레브,싸우다,to fight,verb,R5,Y
+1171,ٱمرأة,이므라아,여자,woman,noun,R5,Y
+1172,خلاويص,칼라위스,다 됐어?(숨바꼭질),ready?,interj,R5,N
+1173,أمريكا,암리카,미국,America,name,R5,N
+1174,أوسكار,오스카르,오스카(이름),Oscar,name,R5,N
+1175,قشطة,이시타,좋아!/크림,cool,interj,R5,N
+1176,توفيق,타우피아,타우피크(이름),Tawfik,name,R5,N
+1177,تشجيع,타시기아,응원,encouragement,noun,R5,N
+1178,زهق,지히으,지루해하다,to be fed up,verb,R5,N
+1179,أحد,아하드,누군가,anyone,pron,R5,N
+1180,صلى,살리,기도해,pray,verb,R5,Y
+1181,سليم,살림,건강한/온전한,healthy,adj,R5,N
+1182,معجب,무아갑,팬/반한,fan,adj,R5,N
+1183,مبنى,마브나,건물,building,noun,R5,Y
+1184,مطر,마타르,비,rain,noun,R5,Y
+1185,سيجارة,시가라,담배,cigarette,noun,R5,Y
+1186,متعة,무트아,즐거움,pleasure,noun,R5,N
+1187,شديد,샤디드,심한,severe,adj,R5,N
+1188,لدى,라다,~에게 있다,have,prep,R5,N
+1189,علبة,일바,상자/깡통,box,noun,R5,Y
+1190,كون,콘,우주,universe,noun,R5,N
+1191,عادة,아다,습관,habit,noun,R5,N
+1192,رضي,리디,만족하다,to be satisfied,verb,R5,N
+1193,حفظ,하파즈,외우다,to memorize,verb,R5,N
+1194,فاهيتا,파히타,인명,personal name,name,R5,N
+1195,هدأ,히디,진정하다,to calm down,verb,R5,N
+1196,خوى,쿠야,내 형제,brother,noun,R5,N
+1197,كابتن,카브틴,주장/기사님,captain,noun,R5,N
+1198,نسوان,니스완,여자들,women,noun,R5,Y
+1199,اثارة,이사라,흥분,excitement,noun,R5,N
+1200,اكتشف,이크타샤프,발견하다,to discover,verb,R5,N
+1201,فريد,파리드,(인명),(name),name,R5,N
+1202,عنوان,운완,주소,address,noun,R5,N
+1203,واجب,와깁,의무/숙제,duty,noun,R5,N
+1204,موظف,무왓다프,직원,employee,noun,R5,Y
+1205,محكمة,마흐카마,법원,court,noun,R5,Y
+1206,مكالمة,무칼마,통화,phone call,noun,R5,Y
+1207,بار,바르,술집,bar,noun,R5,Y
+1208,ممتع,무므테아,재미있는,enjoyable,adj,R5,N
+1209,اتصرف,잇사르라프,처신하다,to manage,verb,R5,N
+1210,تجربة,타그리바,경험,experience,noun,R5,N
+1211,باظ,바즈,고장 나다,to break down,verb,R5,N
+1212,مخ,무크,뇌,brain,noun,R5,Y
+1213,تألم,잇알람,아파하다,to suffer,verb,R5,N
+1214,عظمة,아드마,뼈,bone,noun,R5,Y
+1215,كفى,카파,충분하다,to be enough,verb,R5,N
+1216,وفى,위피,그리고 ~에,and in,prep,R5,N
+1217,سايب,사이브,남겨 둔,leaving,verb,R5,N
+1218,غرق,기리으,물에 빠지다,to drown,verb,R5,Y
+1219,ح,하,~할 것(미래),will (future),part,R5,N
+1220,نجاة,나가,구조·생존,survival,noun,R5,N
+1221,بائر,바이르,큰 죄,major sin,noun,R5,N
+1222,تصاعد,타사아드,고조되다,to escalate,verb,R5,N
+1223,اتهيأ,잇하야,~인 것 같다,to seem,verb,R5,N
+1224,تعويذ,타으위자,주문,spell,noun,R5,N
+1225,مظبوط,마즈붓,맞다/정확한,correct,adj,R5,N
+1226,راضي,라디,만족한,satisfied,adj,R5,N
+1227,آيس,아이스,얼음,ice,noun,R5,Y
+1228,وهى,위헤야,그리고 그녀,and she,pron,R5,N
+1229,عشر,아샤르,10,ten,num,R5,Y
+1230,داعي,다이,이유,need,noun,R5,N
+1231,غلطة,갈타,실수,mistake,noun,R5,N
+1232,معروف,마아루프,호의/유명한,favor,noun,R5,N
+1233,حجة,호가,핑계,excuse,noun,R5,N
+1234,تنين,티닌,용,dragon,noun,R5,Y
+1235,بريء,바리,무죄한,innocent,adj,R5,N
+1236,كث,코스,여성 성기(비속어),vulva,noun,R5,N
+1237,خص,캇스,관계되다,to concern,verb,R5,N
+1238,حافظ,하페즈,지키다,to preserve,verb,R5,N
+1239,بنك,반크,은행,bank,noun,R5,Y
+1240,سوى,사와,함께,together,adv,R5,N
+1241,الامازيغيه,일아마지기야,베르베르어,Berber language,name,R5,N
+1242,فتاح,파타흐,따개,opener,noun,R5,Y
+1243,أخرى,오크라,다른(여),other,adj,R5,N
+1244,آهة,아하,신음,moan,noun,R5,N
+1245,شخصية,샤크세야,인물/성격,character,noun,R5,N
+1246,ساحل,사헬,해안,coast,noun,R5,Y
+1247,ربيع,라비아,봄,spring,noun,R5,Y
+1248,ممتاز,뭄타즈,훌륭한,excellent,adj,R5,N
+1249,جرس,가라스,종,bell,noun,R5,Y
+1250,ألماظ,알마즈,다이아몬드,diamond,noun,R5,Y
+1251,خاتم,카템,반지,ring,noun,R5,Y
+1252,ضخم,다캄,거대한,huge,adj,R5,Y
+1253,نيل,닐,나일강,Nile,name,R5,N
+1254,شاهد,샤헤드,증인,witness,noun,R5,N
+1255,أصفر,아스파르,노란,yellow,adj,R5,Y
+1256,مؤمن,모으멘,신자,believer,noun,R5,N
+1257,مفضل,모파달,가장 좋아하는,favorite,adj,R5,N
+1258,جذر,가자르,당근,carrot,noun,R5,Y
+1259,ضيع,다야아,잃어버리다,to lose,verb,R5,N
+1260,نسخة,노스카,사본,copy,noun,R5,N
+1261,عفريت,아프리트,도깨비,demon,noun,R5,Y
+1262,مجرم,모그림,범죄자,criminal,noun,R5,N
+1263,حلقة,할아,회(에피소드),episode,noun,R5,N
+1264,بارك,바락,축복하다,to bless,verb,R5,N
+1265,بطولة,보툴라,주연/선수권,championship,noun,R5,N
+1266,هبل,하발,바보짓,foolishness,noun,R5,N
+1267,أصاب,아삽,맞히다,to hit,verb,R5,N
+1268,خلف,칼프,뒤에,behind,prep,R5,N
+1269,راقب,라아브,감시하다,to watch,verb,R5,N
+1270,كارسون,카르손,카슨(이름),Carson,name,R5,N
+1271,هوبس,홉스,홉스(이름),Hobbs,name,R5,N
+1272,ساتر,사테르,보호하소서,God protect,interj,R5,N
+1273,مدح,마다흐,칭찬하다,to praise,verb,R5,N
+1274,رعد,라아드,천둥,thunder,noun,R5,Y
+1275,كثر,키티르,많아지다,to increase,verb,R5,N
+1276,شريف,샤리프,정직한,honest,adj,R5,N
+1277,شره,샤라흐,탐욕,greed,noun,R5,N
+1278,سته,싯타,6,six,num,R5,Y
+1279,وتر,와타르,현(줄),string,noun,R5,Y
+1280,شهق,샤하으,숨을 들이켜다,to gasp,verb,R5,N
+1281,ورق,와라으,종이,paper,noun,R5,Y
+1282,مقرف,무리프,역겨운,disgusting,adj,R5,N
+1283,بر,바르,육지,land,noun,R5,N
+1284,واثق,와테으,자신 있는,confident,adj,R5,N
+1285,مخرج,모크레그,감독,director,noun,R5,N
+1286,قايم,아이마,목록,list,noun,R5,N
+1287,بيع,베아,판매,selling,noun,R5,N
+1288,خطير,카티르,위험한,dangerous,adj,R5,N
+1289,تهمة,토흐마,혐의,accusation,noun,R5,N
+1290,طاقة,타아,에너지,energy,noun,R5,N
+1291,شعرة,샤아라,머리카락 한 올,a hair,noun,R5,Y
+1292,قرد,이르드,원숭이,monkey,noun,R5,Y
+1293,تفكير,타프키르,생각,thinking,noun,R5,N
+1294,ترابيزة,타라베자,탁자,table,noun,R5,Y
+1295,شريك,샤리크,동업자,partner,noun,R5,N
+1296,زبون,자분,손님(고객),customer,noun,R5,N
+1297,آلة,알라,기계,machine,noun,R5,Y
+1298,متوحش,모트와헤쉬,야만적인,savage,adj,R5,N
+1299,فيل,필,코끼리,elephant,noun,R5,Y
+1300,أرضى,아르다,만족시키다,to please,verb,R5,N
+1301,خلع,칼라아,벗다,to take off,verb,R5,Y
+1302,نية,니야,의도,intention,noun,R5,N
+1303,أقنع,아나아,설득하다,to convince,verb,R5,N
+1304,سهلا,사흘란,환영해요,welcome,interj,R5,N
+1305,لويس,루이스,루이스(이름),Louis,name,R5,N
+1306,ميدو,미도,미도(이름),Mido,name,R5,N
+1307,بيانو,비야누,피아노,piano,noun,R5,Y
+1308,حج,하그,성지순례,pilgrimage,noun,R5,N
+1309,أقرب,아으랍,더 가까운,closer,adj,R5,N
+1310,تعديل,타으딜,수정,modification,noun,R5,N
+1311,تايه,타예흐,길을 잃은,lost,adj,R5,N
+1312,روى,라와,물 주다,to water,verb,R5,Y
+1313,فاشل,파실,실패자,failure,adj,R5,N
+1314,مقابل,무아빌,대가/맞은편,in exchange,prep,R5,N
+1315,عشا,아샤,저녁식사,dinner,noun,R5,Y
+1316,كارة,카르트,카드,card,noun,R5,Y
+1317,مغفل,무가팔,얼간이,fool,noun,R5,N
+1318,ين,옌,엔(화폐),yen,noun,R5,N
+1319,جندي,군디,군인,soldier,noun,R5,Y
+1320,مزيكة,미지카,음악,music,noun,R5,Y
+1321,عريان,이르얀,벌거벗은,naked,adj,R5,N
+1322,شبح,샤바흐,유령,ghost,noun,R5,Y
+1323,جواب,가왑,편지,letter,noun,R5,Y
+1324,لجنة,라그나,위원회,committee,noun,R5,N
+1325,سيطرة,사이타라,통제,control,noun,R5,N
+1326,خمرة,카므라,술,liquor,noun,R5,Y
+1327,جلد,길드,가죽/피부,skin,noun,R5,Y
+1328,ٱستحق,이스타하아,자격이 있다,to deserve,verb,R5,N
+1329,طاعة,타아,복종,obedience,noun,R5,N
+1330,ذكرى,지크라,추억,memory,noun,R5,N
+1331,طائر,타이르,새,bird,noun,R5,Y
+1332,ترك,타라크,남기다/떠나다,to leave,verb,R5,N
+1333,اتحول,이트하왈,변하다,to turn into,verb,R5,N
+1334,مسح,마사흐,닦다,to wipe,verb,R5,Y
+1335,خبى,캅바,숨기다,to hide,verb,R5,Y
+1336,واجه,와가흐,맞서다,to face,verb,R5,N
+1337,بعت,비아트,보냈다,to send,verb,R5,N
+1338,متناكة,무타나카,빌어먹을(욕),fucking,other,R5,N
+1339,لاين,라인,줄/선,line,noun,R5,N
+1340,لازمة,라즈마,필요한,necessary,adj,R5,N
+1341,ثوم,툼,마늘,garlic,noun,R5,Y
+1342,ظاهر,자헤르,분명한,apparent,adj,R5,N
+1343,انفجار,인피가르,폭발,explosion,noun,R5,Y
+1344,جمعة,굼아,금요일,Friday,noun,R5,N
+1345,شار,샤르,가리키다,to point,verb,R5,N
+1346,مسلسل,무살살,연속극,TV series,noun,R5,N
+1347,إيا,아야,어떤 ~라도,any,det,R5,N
+1348,كنز,칸즈,보물,treasure,noun,R5,Y
+1349,سفر,사파르,여행,travel,noun,R5,N
+1350,تالت,탈리트,세 번째,third,num,R5,N
+1351,استاهل,이스타할,~할 만하다,to deserve,verb,R5,N
+1352,إجابة,이가바,대답,answer,noun,R5,N
+1353,خروج,쿠루그,외출,going out,noun,R5,N
+1354,كرة,코라,공,ball,noun,R5,Y
+1355,لاء,라,아니(강조),no,interj,R5,N
+1356,فرانكلين,프랭클린,프랭클린(이름),Franklin,name,R5,N
+1357,حماسي,하마시,열정적인,enthusiastic,adj,R5,N
+1358,ذوب,다웝,녹다,to melt,verb,R5,Y
+1359,حامل,하멜,임신한,pregnant,adj,R5,Y
+1360,سوف,사우파,~할 것이다,will,part,R5,N
+1361,أفندم,아판담,네?/뭐라고요,pardon,interj,R5,N
+1362,وجب,와갑,~해야 하다,must,verb,R5,N
+1363,ثم,숨마,그리고 나서,then,conj,R5,N
+1364,إس,에스,(조각),(fragment),other,R5,N
+1365,اتجاه,잇티가,방향,direction,noun,R5,N
+1366,سمك,사막,생선,fish,noun,R5,Y
+1367,ميل,밀,마일,mile,noun,R5,N
+1368,علاج,일라그,치료,treatment,noun,R5,N
+1369,اتولد,이트왈라드,태어나다,to be born,verb,R5,N
+1370,ضعيف,다이프,약한,weak,adj,R5,N
+1371,بوظ,바와즈,망가뜨리다,to break,verb,R5,N
+1372,رئة,리아,폐,lung,noun,R5,Y
+1373,عدا,아다,~을 제외하고,except,prep,R5,N
+1374,أكرم,아크람,후하게 대하다,to honor,verb,R5,N
+1375,مضايق,무다이아,기분 상한,upset,adj,R5,N
+1376,إعدام,이으담,사형,execution,noun,R5,N
+1377,نطق,나타아,발음하다,to pronounce,verb,R5,N
+1378,ملاك,말락,천사,angel,noun,R5,Y
+1379,منتج,문타그,제품,product,noun,R5,N
+1380,استمر,이스타마르,계속하다,to continue,verb,R5,N
+1381,ربط,라바트,묶다,to tie,verb,R5,Y
+1382,فشخ,파쉬크,엄청(속어),very (slang),adv,R5,N
+1383,مد,마드,뻗다,to extend,verb,R5,N
+1384,حبس,하바스,가두다,to imprison,verb,R5,N
+1385,ورك,위르크,엉덩이,hip,noun,R5,Y
+1386,جود,구드,관대함,generosity,noun,R5,N
+1387,تبادل,타바돌,교환,exchange,noun,R5,N
+1388,أقوى,아으와,더 강한,stronger,adj,R5,N
+1389,غور,고르,꺼져,get lost,verb,R5,N
+1390,أهبل,아흐발,바보 같은,silly,adj,R5,N
+1391,عشرين,이쉬린,20,twenty,num,R5,N
+1392,ثماني,타마니야,여덟,eight,num,R5,N
+1393,مدة,무다,기간,period,noun,R5,N
+1394,رسمي,라스미,공식적인,official,adj,R5,N
+1395,مفتوح,마프투흐,열린,open,adj,R5,Y
+1396,ماسك,마시크,잡고 있는,holding,adj,R5,Y
+1397,تنهد,탄핫,한숨 쉬다,to sigh,verb,R5,Y
+1398,مسرح,마스라흐,극장/무대,theater,noun,R5,Y
+1399,كذبة,키드바,거짓말,lie,noun,R5,N
+1400,ذراع,디라아,팔,arm,noun,R5,Y
+1401,ضيق,다이아,좁은,narrow,adj,R5,N
+1402,قائد,아이드,지도자,leader,noun,R5,N
+1403,شجرة,사가라,나무,tree,noun,R5,Y
+1404,ثبت,사바트,증명하다,to prove,verb,R5,N
+1405,زرع,자라아,심다,to plant,verb,R5,Y
+1406,حرس,하라스,경비대,guard,noun,R5,Y
+1407,أنى,인니,내가 ~라는 것,that I,conj,R5,N
+1408,ٱحترم,이흐타람,존중하다,to respect,verb,R5,N
+1409,صلح,살라흐,고치다,to fix,verb,R5,Y
+1410,روق,라와아,진정하다,to calm down,verb,R5,N
+1411,جاوب,가와브,대답하다,to answer,verb,R5,N
+1412,ماهو,마후,그런데 그건,but it is,part,R5,N
+1413,رحمن,라흐만,자비로운 분(신),the Merciful,name,R5,N
+1414,بريندا,브렌다,브렌다(이름),Brenda,name,R5,N
+1415,هيه,헤야,그녀,she,pron,R5,N
+1416,بوريكة,부리카,보레크(파이),pastry,noun,R5,Y
+1417,مم,음,음(감탄),mm,interj,R5,N
+1418,دكترة,다크타라,의사(속어),doc,other,R5,N
+1419,لماذا,리마자,왜,why,pron,R5,N
+1420,إضرب,이드랍,때려,to hit,verb,R5,Y
+1421,رحيم,라힘,자비로운,merciful,adj,R5,N
+1422,هام,함,중요한,important,adj,R5,N
+1423,مرات,마라트,아내,wife,noun,R5,Y
+1424,صقلي,사일리,시칠리아의,Sicilian,adj,R5,N
+1425,قهوة,아흐와,커피·카페,coffee,noun,R5,Y
+1426,خسارة,카사라,손해/아깝다,loss,noun,R5,N
+1427,معظم,무아잠,대부분,most,det,R5,N
+1428,تصوير,타스위르,촬영,filming,noun,R5,Y
+1429,بط,바트,오리,duck,noun,R5,Y
+1430,راهن,라헨,내기하다,to bet,verb,R5,N
+1431,كاتب,카테브,작가,writer,noun,R5,Y
+1432,مرور,무루르,교통,traffic,noun,R5,Y
+1433,طلقة,탈아,총성,gunshot,noun,R5,Y
+1434,ثعلب,타알랍,여우,fox,noun,R5,Y
+1435,قيمة,이마,가치,value,noun,R5,N
+1436,حزام,히잠,허리띠,belt,noun,R5,Y
+1437,عروسة,아루사,신부/인형,bride,noun,R5,Y
+1438,سكوت,수쿠트,침묵,silence,noun,R5,N
+1439,ملعون,말운,저주받은,cursed,adj,R5,N
+1440,ضابط,다비트,장교,officer,noun,R5,Y
+1441,صدفة,수드파,우연,coincidence,noun,R5,N
+1442,مميز,미마예즈,특별한,special,adj,R5,N
+1443,سد,사드,댐,dam,noun,R5,Y
+1444,خراب,카랍,폐허,ruin,noun,R5,Y
+1445,وريث,와리스,상속자,heir,noun,R5,N
+1446,طال,탈,길어지다,to get long,verb,R5,N
+1447,كيكة,케이카,케이크,cake,noun,R5,Y
+1448,مادة,맛다,물질/과목,subject,noun,R5,N
+1449,وجد,와가드,찾다,to find,verb,R5,N
+1450,غطى,갓타,덮다,to cover,verb,R5,Y
+1451,ذاق,다아,맛보다,to taste,verb,R5,Y
+1452,داس,다스,밟다,to step on,verb,R5,Y
+1453,حرية,호레야,자유,freedom,noun,R5,N
+1454,خطط,캇타트,계획하다,to plan,verb,R5,N
+1455,شجع,샤가아,응원하다,to cheer,verb,R5,Y
+1456,أجر,아그르,품삯,wage,noun,R5,N
+1457,لهو,라흐위,아이고(감탄),oh my,interj,R5,N
+1458,ڤاسيليڤيتش,바실리예비치,바실리예비치(이름),Vasilyevich,name,R5,N
+1459,هممم,흠,흠,hmm,interj,R5,N
+1460,زينب,제납,자이납(이름),Zeinab,name,R5,N
+1461,استغفر,아스타그파르,용서를 구하다,seek forgiveness,verb,R5,N
+1462,أكمل,아카밀,계속하다,to continue,verb,R5,N
+1463,أرجنتين,아르겐틴,아르헨티나,Argentina,name,R5,N
+1464,مصدر,마스다르,출처,source,noun,R5,N
+1465,صد,사드,막다,to repel,verb,R5,N
+1466,مطعم,마트암,식당,restaurant,noun,R5,Y
+1467,تمثيل,탐실,연기,acting,noun,R5,N
+1468,بضاعة,비다아,상품,goods,noun,R5,Y
+1469,سطح,사트흐,옥상,roof,noun,R5,Y
+1470,هد,핫드,부수다,to demolish,verb,R5,Y
+1471,مرأة,마르아,여자,woman,noun,R5,Y
+1472,صيف,세프,여름,summer,noun,R5,Y
+1473,زبالة,자발라,쓰레기,trash,noun,R5,Y
+1474,خالة,칼라,이모,aunt,noun,R5,Y
+1475,نازل,나젤,내려가는,going down,adj,R5,N
+1476,شايل,샤옐,들고 있는,carrying,adj,R5,Y
+1477,مريض,마리드,아픈,sick,adj,R5,Y
+1478,سطا,우스타,기사님(호칭),master craftsman,noun,R5,N
+1479,منظر,만자르,경치,view,noun,R5,Y
+1480,تحول,타하울,변화,transformation,noun,R5,N
+1481,بطن,바튼,배(신체),belly,noun,R5,Y
+1482,تخيل,타카얄,상상하다,to imagine,verb,R5,N
+1483,نت,네트,인터넷,internet,noun,R5,N
+1484,بطاقة,비타아,카드,card,noun,R5,Y
+1485,سخيف,사키프,시시한,silly,adj,R5,N
+1486,تبع,타바아,따르다,to follow,verb,R5,N
+1487,هان,한,쉬워지다,to become easy,verb,R5,N
+1488,لغى,랏가,취소하다,to cancel,verb,R5,N
+1489,مسؤول,마스울,책임자,official,noun,R5,N
+1490,حجر,하가르,돌,stone,noun,R5,Y
+1491,أعطى,아타,주다,to give,verb,R5,Y
+1492,ظل,돌,그림자,shadow,noun,R5,Y
+1493,غسل,가살,씻다,to wash,verb,R5,Y
+1494,ي,야,(조각),fragment,other,R5,N
+1495,التي,알라티,~하는(관계사),which,pron,R5,N
+1496,زوتوبيا,주토비야,고유명사,proper name,name,R5,N
+1497,انفعال,인피알,흥분,agitation,noun,R5,N
+1498,عيني,에니,내 눈,my eye,noun,R5,Y
+1499,برز,바라즈,드러나다,to stand out,verb,R5,N
+1500,برأ,바라,밖에,outside,adv,R5,N
+1501,خفيف,카피프,가벼운,light,adj,R5,Y
+1502,كنيسة,키니사,교회,church,noun,R5,Y
+1503,نمر,니므르,호랑이,tiger,noun,R5,Y
+1504,كوساية,쿠사야,애호박,zucchini,noun,R5,Y
+1505,ايش,에쉬,뭐,what,pron,R5,N
+1506,خاص,카스,개인의/특별한,private,adj,R5,N
+1507,سكس,섹스,성관계,sex,noun,R5,N
+1508,سجق,소우,소시지,sausage,noun,R5,Y
+1509,تعويذة,타위자,주문,spell,noun,R5,N
+1510,غلق,갈라아,닫다,to close,verb,R5,Y
+1511,مقابلة,무아블라,만남/면접,interview,noun,R5,N
+1512,سهولة,수훌라,쉬움,ease,noun,R5,N
+1513,فأر,파르,쥐,mouse,noun,R5,Y
+1514,إعلان,이을란,광고,advertisement,noun,R5,N
+1515,تصرف,타사로프,행동,behavior,noun,R5,N
+1516,زهر,자흐르,꽃,flower,noun,R5,Y
+1517,شعور,슈우르,감정,feeling,noun,R5,N
+1518,رزق,리즈으,생계,livelihood,noun,R5,N
+1519,تالي,탈리,다음의,next,adj,R5,N
+1520,ودن,위단,귀,ear,noun,R5,Y
+1521,قل,알,줄다,to decrease,verb,R5,N
+1522,بوق,부으,입(속어),mouth,noun,R5,Y
+1523,ون,원,하나(차용),one,other,R5,N
+1524,حمل,하말,임신,pregnancy,noun,R5,N
+1525,حزن,후즌,슬픔,sadness,noun,R5,N
+1526,أثار,아사르,불러일으키다,to provoke,verb,R5,N
+1527,عور,아와르,다치게 하다,to injure,verb,R5,N
+1528,عجلة,아갈라,바퀴/자전거,wheel,noun,R5,Y
+1529,أخبر,아크바르,알리다,to inform,verb,R5,N
+1530,دلع,달라아,응석,pampering,noun,R5,N
+1531,عاذ,아즈,원하다,to want,verb,R5,N
+1532,لام,람,탓하다,to blame,verb,R5,N
+1533,جعل,가알,~하게 만들다,to make,verb,R5,N
+1534,مفهوم,마프훔,알겠다,understood,adj,R5,N
+1535,سو,소,그래서,so,other,R5,N
+1536,ششش,쉬,쉿,shh,interj,R5,N
+1537,هيكتور,헥토르,헥토르(이름),Hector,name,R5,N
+1538,شاركس,샤르크스,(이름),(name),name,R5,N
+1539,ستراتون,스트라툰,(인명),(name),name,R5,N
+1540,القرموطي,일아르무티,(인명),(name),name,R5,N
+1541,طالما,탈라마,~하는 한,as long as,conj,R5,N
+1542,أخرس,오크로스,닥쳐,shut up,interj,R5,N
+1543,بيرة,비라,맥주,beer,noun,R5,Y
+1544,شباك,샵박,창문,window,noun,R5,Y
+1545,قاهرة,아헤라,카이로,Cairo,name,R5,N
+1546,أسوأ,아스와아,최악의,worst,adj,R5,N
+1547,ربع,루브,4분의 1,quarter,num,R5,N
+1548,أجمل,아그말,더 아름다운,more beautiful,adj,R5,N
+1549,كال,칼,(곡식을) 되다,to measure,verb,R5,N
+1550,مذيع,무지아,아나운서,announcer,noun,R5,Y
+1551,منطق,만티으,논리,logic,noun,R5,N
+1552,طارد,타라드,쫓다,to chase,verb,R5,Y
+1553,مرعب,무르입,무서운,scary,adj,R5,N
+1554,نصيحة,나시하,충고,advice,noun,R5,N
+1555,لاحظ,라헤즈,알아차리다,to notice,verb,R5,N
+1556,مطلوب,마틀룹,필요한/수배된,wanted,adj,R5,N
+1557,معتوه,마투흐,미친 사람,lunatic,noun,R5,N
+1558,كورة,코라,축구공,football,noun,R5,Y
+1559,استريح,이스타라야흐,쉬다,to rest,verb,R5,Y
+1560,سكران,사크란,취한,drunk,adj,R5,Y
+1561,اهتمام,이흐티맘,관심,interest,noun,R5,N
+1562,إستخبى,이스타크바,숨다,to hide oneself,verb,R5,Y
+1563,أسلوب,우슬룹,방식,style,noun,R5,N
+1564,إلى,일리,~하는(관계사),which,pron,R5,N
+1565,مرتب,마르탑,월급,salary,noun,R5,N
+1566,مل,말,지루해하다,to get bored,verb,R5,N
+1567,زوج,조그,남편,husband,noun,R5,Y
+1568,هدد,핫다드,위협하다,to threaten,verb,R5,N
+1569,عالج,알레그,치료하다,to treat,verb,R5,N
+1570,معلهش,마알레시,괜찮아,never mind,interj,R5,N
+1571,ديدبول,데드풀,(이름),(name),name,R5,N
+1572,فرانسيس,프란시스,(인명),(name),name,R5,N
+1573,لورانس,로렌스,(인명),(name),name,R5,N
+1574,بيلفورت,벨포트,(인명),(name),name,R5,N
+1575,قرمط,아르마트,(인명),(name),name,R5,N
+1576,عساس,앗사스,야경꾼,watchman,noun,R5,Y
+1577,لسة,릿사,아직,still,adv,R5,N
+1578,راديو,라디유,라디오,radio,noun,R5,Y
+1579,اربعة,아르바아,4,four,num,R5,Y
+1580,جير,기르,석회,lime,noun,R5,N
+1581,روضة,라우다,유치원,kindergarten,noun,R6,Y
+1582,بيض,베드,달걀,eggs,noun,R6,Y
+1583,بيه,베,~님(경칭),sir,noun,R6,N
+1584,حيث,하이스,~인 곳에,where,conj,R6,N
+1585,عشاء,아샤,저녁식사,dinner,noun,R6,Y
+1586,موافقة,무와프아,동의,agreement,noun,R6,N
+1587,سيب,시브,놔둬,leave,verb,R6,N
+1588,غصب,고습,억지로,by force,adv,R6,N
+1589,قطر,아트르,기차,train,noun,R6,Y
+1590,معين,무아얀,특정한,specific,adj,R6,N
+1591,ملبس,말바스,옷,clothes,noun,R6,Y
+1592,إدارة,이다라,관리/부서,management,noun,R6,N
+1593,حادثة,하드사,사고,accident,noun,R6,Y
+1594,عيان,아얀,아픈,sick,adj,R6,Y
+1595,تيم,팀,팀,team,noun,R6,N
+1596,دب,답,곰,bear,noun,R6,Y
+1597,ٱحتفل,이흐타팔,축하하다,to celebrate,verb,R6,Y
+1598,سرطان,사라탄,암,cancer,noun,R6,N
+1599,تحقيق,타흐이으,수사,investigation,noun,R6,N
+1600,روك,록,록(음악),rock music,noun,R6,N
+1601,سلسلة,실실라,사슬,chain,noun,R6,Y
+1602,أزرق,아즈라으,파란,blue,adj,R6,Y
+1603,راوند,라운드,라운드(회),round,noun,R6,N
+1604,مشعر,마샤아르,감정,feelings,noun,R6,N
+1605,رخيص,라키스,싼,cheap,adj,R6,N
+1606,اتصال,잇티살,연락/통화,call,noun,R6,N
+1607,فض,파드,해산하다,to break up,verb,R6,N
+1608,تحدى,이트핫다,도전하다,to challenge,verb,R6,N
+1609,تأوه,이트아와흐,신음하다,to groan,verb,R6,N
+1610,وسع,와싸아,넓히다,to widen,verb,R6,N
+1611,ساق,사아,운전하다,to drive,verb,R6,Y
+1612,درب,다랍,훈련하다,to train,verb,R6,Y
+1613,رصاصة,루사사,총알,bullet,noun,R6,Y
+1614,ٱنهار,인하르,무너지다,to collapse,verb,R6,Y
+1615,ت,트,(조각),(fragment),other,R6,N
+1616,أيمي,에이미,(인명),(name),name,R6,N
+1617,اصلانيان,아슬라니얀,(인명),(name),name,R6,N
+1618,بوو,부,부(소리),boo,interj,R6,N
+1619,وفاء,와파,충실함,loyalty,noun,R6,N
+1620,كيلو,킬루,킬로,kilo,noun,R6,N
+1621,زاني,자니,간음한 자,adulterer,noun,R6,N
+1622,ه,헤,으(소리),h,other,R6,N
+1623,رياح,리야흐,바람,wind,noun,R6,Y
+1624,راقص,라이스,댄서,dancer,noun,R6,Y
+1625,مقفول,마으풀,잠긴,locked,adj,R6,Y
+1626,هانم,하넴,부인/마님,madam,noun,R6,N
+1627,تأكيد,타으키드,확인,confirmation,noun,R6,N
+1628,اتفاق,잇티파으,합의,agreement,noun,R6,N
+1629,كهف,카흐프,동굴,cave,noun,R6,Y
+1630,حلوي,할라웨,단것,sweets,noun,R6,Y
+1631,فنان,판난,예술가,artist,noun,R6,Y
+1632,مشروع,마슈루으,프로젝트,project,noun,R6,N
+1633,ساكت,사케트,조용한,silent,adj,R6,N
+1634,متوتر,미트와테르,긴장한,nervous,adj,R6,N
+1635,سرقة,사르아,도둑질,theft,noun,R6,Y
+1636,ثقيل,틸일,무거운,heavy,adj,R6,Y
+1637,نظرة,나즈라,시선,look,noun,R6,N
+1638,استطاع,이스타타아,~할 수 있다,to be able,verb,R6,N
+1639,مدني,마다니,민간의,civil,adj,R6,N
+1640,مقدس,무아다스,신성한,holy,adj,R6,N
+1641,اسعاف,이스아프,구급차,ambulance,noun,R6,Y
+1642,جنسية,긴세야,국적,nationality,noun,R6,N
+1643,نجاح,나가흐,성공,success,noun,R6,N
+1644,دوشة,다우샤,소음,noise,noun,R6,N
+1645,منور,미나와르,밝은,bright,adj,R6,N
+1646,وفر,왓파르,아끼다,to save,verb,R6,N
+1647,قديس,앗디스,성인(성자),saint,noun,R6,Y
+1648,رخص,루크사,면허증,license,noun,R6,Y
+1649,جيب,게브,주머니,pocket,noun,R6,Y
+1650,غار,가르,질투하다,to be jealous,verb,R6,N
+1651,أصلح,아슬라흐,고치다,to fix,verb,R6,Y
+1652,جنن,간난,미치게 하다,to drive crazy,verb,R6,N
+1653,صنع,사나아,만들다,to make,verb,R6,Y
+1654,عود,아우드,익숙해지다,to get used to,verb,R6,N
+1655,ٱكتشف,익타샤프,발견하다,to discover,verb,R6,N
+1656,كافر,카페르,불신자,unbeliever,noun,R6,N
+1657,شهد,쉬히드,증언하다,to testify,verb,R6,N
+1658,تابع,타베아,따라가다,to follow,verb,R6,N
+1659,تخانق,잇한아,서로 싸우다,to quarrel,verb,R6,Y
+1660,دفن,다판,묻다(매장),to bury,verb,R6,Y
+1661,هاجم,하감,공격하다,to attack,verb,R6,Y
+1662,كوكيي,쿠키,쿠키,cookie,noun,R6,Y
+1663,سطي,아스타,기사님(운전사),driver,noun,R6,N
+1664,اريندال,아렌달,(지명),(name),name,R6,N
+1665,زياد,지야드,(인명),(name),name,R6,N
+1666,كركوره,카르쿠라,카르쿠라(이름),name,name,R6,N
+1667,مايك,마이크,(인명),(name),name,R6,N
+1668,عجوز,아구즈,노인,old person,noun,R6,Y
+1669,سمكة,사마카,물고기,fish,noun,R6,Y
+1670,هايل,하일,멋진,great,adj,R6,N
+1671,حابب,합비브,원하는/좋아하는,willing,adj,R6,N
+1672,أعمى,아아마,눈먼,blind,adj,R6,Y
+1673,سبيل,사빌,길/방법,way,noun,R6,N
+1674,كمية,캄미야,양,quantity,noun,R6,N
+1675,حقير,하이르,비열한,despicable,adj,R6,N
+1676,إنذار,인자르,경보,alarm,noun,R6,Y
+1677,عصير,아시르,주스,juice,noun,R6,Y
+1678,شيك,쉬크,수표,check (bank),noun,R6,Y
+1679,مناخير,마나히르,콧구멍(코),nose,noun,R6,Y
+1680,متخلف,미트칼라프,멍청한,backward,adj,R6,N
+1681,تسجيل,타스길,녹음,recording,noun,R6,N
+1682,تعامل,타아물,대하다(거래),to deal with,verb,R6,N
+1683,ذاكرة,자크라,기억(력),memory,noun,R6,N
+1684,سوء,수,나쁨(악),badness,noun,R6,N
+1685,فخور,파쿠르,자랑스러운,proud,adj,R6,N
+1686,قنبلة,움불라,폭탄,bomb,noun,R6,Y
+1687,رغع,리기으,돌아오다,to return,verb,R6,N
+1688,أعذر,아아자르,용서하다(양해),to excuse,verb,R6,N
+1689,وضح,왓다흐,설명하다,to explain,verb,R6,N
+1690,محترف,무흐타리프,프로(전문가),professional,noun,R6,N
+1691,قميص,아미스,셔츠,shirt,noun,R6,Y
+1692,لاعب,라에브,선수,player,noun,R6,Y
+1693,تقال,잇탈,말해지다,to be said,verb,R6,N
+1694,سيئ,싸이에,나쁜,bad,adj,R6,N
+1695,حماية,히마야,보호,protection,noun,R6,N
+1696,سياسة,시야사,정치,politics,noun,R6,N
+1697,سعر,시으르,가격,price,noun,R6,N
+1698,مستوى,무스타와,수준,level,noun,R6,N
+1699,شريط,샤리트,테이프(띠),tape,noun,R6,Y
+1700,كاهن,카헨,사제,priest,noun,R6,Y
+1701,تاه,타흐,길을 잃다,to get lost,verb,R6,Y
+1702,كلف,칼라프,비용이 들다,to cost,verb,R6,N
+1703,توني,토니,(인명),(name),name,R6,N
+1704,ريم,마르얌,마르얌(이름),name,name,R6,N
+1705,كلير,클레어,(인명),(name),name,R6,N
+1706,ستبفورد,스텝포드,(이름),(name),name,R6,N
+1707,تيد,테드,(인명),(name),name,R6,N
+1708,كارل,칼,(인명),(name),name,R6,N
+1709,جيتس,게이츠,(인명),(name),name,R6,N
+1710,كاندس,칸디스,(인명),(name),name,R6,N
+1711,لندن,런던,런던,London,name,R6,N
+1712,سوري,소리,미안,sorry,interj,R6,N
+1713,احتمال,에흐티말,가능성,possibility,noun,R6,N
+1714,اااه,아아,아아(감탄),ah,interj,R6,N
+1715,مؤثر,무아씨르,감동적인,touching,adj,R6,N
+1716,نانسي,낸시,낸시,Nancy,name,R6,N
+1717,طنط,탄트,아주머니,auntie,noun,R6,Y
+1718,وجهة,위그하,목적지,destination,noun,R6,N
+1719,طرح,타라흐,제안하다,to propose,verb,R6,N
+1720,انتظر,인타자르,기다리다,to wait,verb,R6,Y
+1721,ظريف,자리프,재미있는(괜찮은),nice,adj,R6,N
+1722,وخى,티킨,두꺼운,thick,adj,R6,Y
+1723,عبارة,이바라,표현(문구),phrase,noun,R6,N
+1724,مسابقة,무사바아,대회,contest,noun,R6,N
+1725,رسول,라술,사도(선지자),messenger,noun,R6,N
+1726,ماتش,마치,경기(시합),match,noun,R6,Y
+1727,ثانوي,사나위,고등학교,high school,noun,R6,N
+1728,دش,두쉬,샤워기,shower,noun,R6,Y
+1729,مخلوق,마클루으,생물(존재),creature,noun,R6,N
+1730,عهد,아흐드,약속(맹세),pledge,noun,R6,N
+1731,عدم,아담,~하지 않음,lack,noun,R6,N
+1732,نيابة,니야바,검찰,prosecution,noun,R6,N
+1733,بدلة,바들라,정장,suit,noun,R6,Y
+1734,دوب,두브,겨우(막),barely,adv,R6,N
+1735,هدوء,후두,조용함,calm,noun,R6,N
+1736,تقرير,타으리르,보고서,report,noun,R6,Y
+1737,قعدة,아아다,모임(앉아 있기),gathering,noun,R6,Y
+1738,حراسة,히라사,경호(경비),guarding,noun,R6,N
+1739,بيان,바얀,성명(발표),statement,noun,R6,N
+1740,طرف,타라프,쪽(끝),side,noun,R6,N
+1741,مشروب,마쉬룹,음료,drink,noun,R6,Y
+1742,موهبة,마우히바,재능,talent,noun,R6,N
+1743,شقي,샤이,장난꾸러기,naughty,adj,R6,N
+1744,تحمل,이트함말,견디다,to endure,verb,R6,N
+1745,خطبة,쿠투바,약혼,engagement,noun,R6,N
+1746,عض,앗드,물다,to bite,verb,R6,Y
+1747,حدد,핫다드,정하다,to determine,verb,R6,N
+1748,ضمن,다만,보장하다,to guarantee,verb,R6,N
+1749,ضحى,다하,희생하다,to sacrifice,verb,R6,N
+1750,لولا,룰라,~이 없었다면,if not for,conj,R6,N
+1751,ليبيا,리비야,리비아,Libya,name,R6,N
+1752,حتشبسوت,하트솁수트,(인명),(name),name,R6,N
+1753,ضروري,다루리,필수의,necessary,adj,R6,N
+1754,مونيلا,모닐라,모닐라,Monilla,name,R6,N
+1755,جاد,가드,진지한,serious,adj,R6,N
+1756,ربما,룹바마,아마,perhaps,adv,R6,N
+1757,أ(의문),아,~인가?(의문 조사),question particle,part,R6,N
+1758,كسل,카살,게으름,laziness,noun,R6,N
+1759,لقمة,로으마,한 입(음식),bite (morsel),noun,R6,Y
+1760,لج,탈그,얼음,ice,noun,R6,Y
+1761,أوان,아완,때(시기),time,noun,R6,N
+1762,سما,사마,하늘,sky,noun,R6,Y
+1763,بساطة,바사타,간단함,simplicity,noun,R6,N
+1764,ستار,시타라,커튼,curtain,noun,R6,Y
+1765,مزة,무자,섹시한 여자(속어),hottie,noun,R6,N
+1766,خبير,카비르,전문가,expert,noun,R6,N
+1767,فندق,폰두으,호텔,hotel,noun,R6,Y
+1768,بوابة,바우와바,대문(게이트),gate,noun,R6,Y
+1769,عصر,아스르,오후,afternoon,noun,R6,N
+1770,انتباه,인티바,주의,attention,noun,R6,N
+1771,سيكة,시카,시카(이름),name,name,R6,N
+1772,تغيير,타그이르,변화,change,noun,R6,N
+1773,خرم,코름,구멍,hole,noun,R6,Y
+1774,مصروف,마스루프,용돈,pocket money,noun,R6,Y
+1775,حسين,후세인,후세인(이름),name,name,R6,N
+1776,تاجر,타게르,상인,merchant,noun,R6,Y
+1777,معركة,마아라카,전투,battle,noun,R6,Y
+1778,عوض,아와드,보상하다,to compensate,verb,R6,N
+1779,مخيف,무키프,무서운,scary,adj,R6,Y
+1780,راعى,라아,돌보다(배려),to look after,verb,R6,N
+1781,خالف,칼레프,어기다,to violate,verb,R6,N
+1782,نكتة,노크타,농담,joke,noun,R6,N
+1783,حاكم,하켐,통치자,ruler,noun,R6,Y
+1784,حرف,하르프,글자,letter,noun,R6,Y
+1785,نهائي,니하이,최종의,final,adj,R6,N
+1786,شعب,샤아브,국민,people,noun,R6,N
+1787,سيف,세이프,칼(검),sword,noun,R6,Y
+1788,سمسار,심사르,중개인,broker,noun,R6,N
+1789,فرض,파라드,가정하다,to suppose,verb,R6,N
+1790,مصاص,맛사스,흡혈귀(빠는 것),vampire,noun,R6,Y
+1791,معرفة,마아리파,앎(지식),knowledge,noun,R6,N
+1792,لبن,라반,우유,milk,noun,R6,Y
+1793,فرخة,파르카,닭,chicken,noun,R6,Y
+1794,ٱستسلم,이스타슬람,항복하다,to surrender,verb,R6,Y
+1795,جنى,기니야,요정(귀신),fairy,noun,R6,N
+1796,جاز,가즈,허용되다,to be allowed,verb,R6,N
+1797,خطيب,카티브,약혼자,fiance,noun,R6,N
+1798,حاطط,하티트,놓아둔,having put,adj,R6,N
+1799,قدرة,우드라,능력,ability,noun,R6,N
+1800,دافع,다페아,지키다(방어),to defend,verb,R6,N
+1801,خفي,카파,숨기다,to hide,verb,R6,Y
+1802,سب,삽브,욕하다,to insult,verb,R6,N
+1803,وصف,와사프,묘사하다,to describe,verb,R6,N
+1804,بوي,보이,소년,boy,noun,R6,Y
+1805,أيها,아이유하,오 ~여,O,part,R6,N
+1806,برافو,브라보,잘했어,bravo,interj,R6,N
+1807,نيبوم,니봄,니봄,Nebom,name,R6,N
+1808,وكاء,오케,오케이,okay,interj,R6,N
+1809,بثينة,부세이나,부세이나,Buthaina,name,R6,N
+1810,بيتشيز,비치즈,나쁜 년들(욕),bitches,other,R6,N
+1811,مونيكا,모니카,모니카,Monica,name,R6,N
+1812,إصفهان,아스파한,이스파한,Isfahan,name,R6,N
+1813,ستان,스탠,스탠,Stan,name,R6,N
+1814,تصفيق,타스피으,박수,applause,noun,R6,Y
+1815,نساء,니사,여자들,women,noun,R6,Y
+1816,جبان,가반,겁쟁이,coward,noun,R6,N
+1817,موافق,무와페으,동의하는,agreed,adj,R6,N
+1818,جبهة,가브하,이마,forehead,noun,R6,Y
+1819,مسى,맛사,저녁 인사하다,to say good evening,verb,R6,N
+1820,دائم,다임,늘(항상),always,adj,R6,N
+1821,ملكة,말리카,여왕,queen,noun,R6,Y
+1822,ممر,맘마르,복도,corridor,noun,R6,Y
+1823,سعل,시일,기침하다,to cough,verb,R6,Y
+1824,فاتح,파테흐,밝은(색),light (color),adj,R6,Y
+1825,نظيف,니디프,깨끗한,clean,adj,R6,Y
+1826,شاطئ,샤띠,해변,beach,noun,R6,Y
+1827,بوصة,부사,인치,inch,noun,R6,N
+1828,زهور,주후르,꽃(들),flowers,noun,R6,Y
+1829,معفن,미아판,썩은,rotten,adj,R6,Y
+1830,ذيل,딜,꼬리,tail,noun,R6,Y
+1831,لعن,라안,저주하다,to curse,verb,R6,N
+1832,كوكايين,코카인,코카인,cocaine,noun,R6,N
+1833,مسكين,미스킨,불쌍한,poor thing,adj,R6,N
+1834,نموذج,나무자그,본보기(모델),model,noun,R6,N
+1835,ضأن,다안,양(가축),sheep,noun,R6,Y
+1836,جبل,가발,산,mountain,noun,R6,Y
+1837,حنين,하닌,그리움,longing,noun,R6,N
+1838,استأذن,이스타잔,허락을 구하다,to ask permission,verb,R6,N
+1839,تفصيل,타프실,세부 사항,detail,noun,R6,N
+1840,مجتمع,무그타마아,사회,society,noun,R6,N
+1841,فقر,파으르,가난,poverty,noun,R6,N
+1842,كهربة,카라바,전기,electricity,noun,R6,Y
+1843,عرق,아라으,땀,sweat,noun,R6,Y
+1844,خادم,카뎀,하인,servant,noun,R6,Y
+1845,دخول,두쿨,입장(들어감),entry,noun,R6,N
+1846,مشجع,무샤게아,팬(응원하는 사람),fan,noun,R6,Y
+1847,شفة,샤파,입술,lip,noun,R6,Y
+1848,قبر,아브르,무덤,grave,noun,R6,Y
+1849,زن,잔,조르다(잔소리),to nag,verb,R6,N
+1850,ند,닛드,맞수,rival,noun,R6,N
+1851,هرج,하락,장난치다,to joke around,verb,R6,N
+1852,ذمة,짐마,양심,conscience,noun,R6,N
+1853,مصير,마시르,운명,fate,noun,R6,N
+1854,اشتكى,이쉬타카,불평하다,to complain,verb,R6,N
+1855,خطف,카타프,납치하다,to kidnap,verb,R6,Y
+1856,دعم,다아암,지원하다,to support,verb,R6,N
+1857,فاز,파즈,이기다,to win,verb,R6,Y
+1858,فا,파,그래서,so,conj,R6,N
+1859,ميكي,미키,미키,Mickey,name,R6,N
+1860,تشاندلر,챈들러,챈들러,Chandler,name,R6,N
+1861,ماعنديش,마안디쉬,없다(나는),I don't have,verb,R6,N
+1862,ستريت,스트리트,거리,street,noun,R6,Y
+1863,جيسيكا,제시카,제시카,Jessica,name,R6,N
+1864,ٱرتطام,이르티담,충돌,crash,noun,R6,Y
+1865,رانيا,라니아,라니아,Rania,name,R6,N
+1866,الخضراوي,일카드라위,카드라위,Khadrawi,name,R6,N
+1867,أولاف,올라프,올라프,Olaf,name,R6,N
+1868,سوسو,소소,소소,Soso,name,R6,N
+1869,هامل,하멜,하멜(이름),name,name,R6,N
+1870,ديك,디크,수탉/저것,rooster,noun,R6,Y
+1871,براد,브래드,브래드,Brad,name,R6,N
+1872,ثر,월타르,월터(이름),name,name,R6,N
+1873,متضايق,미트다예으,짜증난,upset,adj,R6,Y
+1874,محرك,무하르리크,엔진,engine,noun,R6,Y
+1875,عزف,아자프,연주하다,to play (music),verb,R6,Y
+1876,ساء,사,나빠지다,to worsen,verb,R6,N
+1877,موسم,마우셈,시즌(철),season,noun,R6,N
+1878,جوع,구으,배고픔,hunger,noun,R6,N
+1879,جزيرة,게지라,섬,island,noun,R6,Y
+1880,سور,수르,담(벽),fence,noun,R6,Y
+1881,مجان,마간,무료,free,adj,R6,N
+1882,ٱستعدى,이스타앗드,준비하다,to get ready,verb,R6,N
+1883,صاحي,사히,깨어 있는,awake,adj,R6,Y
+1884,كابوس,카부스,악몽,nightmare,noun,R6,N
+1885,قلة,일라,부족(적음),scarcity,noun,R6,N
+1886,ملكي,말라키,왕실의,royal,adj,R6,N
+1887,مهندس,무한디스,엔지니어,engineer,noun,R6,Y
+1888,اتنفس,잇나파스,숨쉬다,to breathe,verb,R6,Y
+1889,واسطة,와스타,연줄(빽),connection,noun,R6,N
+1890,جهاد,기하드,성전(투쟁),struggle,noun,R6,N
+1891,معمول,마아물,만들어진,made,adj,R6,N
+1892,خصم,코슴,할인,discount,noun,R6,N
+1893,كتابة,키타바,글쓰기,writing,noun,R6,Y
+1894,دفاع,디파아,방어,defense,noun,R6,N
+1895,نصر,나스르,승리,victory,noun,R6,N
+1896,ضعف,도아프,약함,weakness,noun,R6,N
+1897,مرح,마라흐,즐거움,fun,noun,R6,N
+1898,درج,두르그,서랍,drawer,noun,R6,Y
+1899,وطى,와타,낮추다(숙이다),to lower,verb,R6,N
+1900,حريم,하림,여자들,women,noun,R6,N
+1901,عصابة,이사바,갱단,gang,noun,R6,Y
+1902,توتر,타왓토르,긴장,tension,noun,R6,N
+1903,صفحة,사프하,페이지,page,noun,R6,Y
+1904,سياسي,시야시,정치인,politician,noun,R6,N
+1905,جاكت,가케트,재킷,jacket,noun,R6,Y
+1906,فرنسي,파란사위,프랑스의,French,adj,R6,N
+1907,جمب,감브,옆,beside,prep,R6,N
+1908,خبرة,키브라,경험,experience,noun,R6,N
+1909,أعزل,아잘,격리하다,to isolate,verb,R6,N
+1910,عانى,아나,고생하다,to suffer,verb,R6,N
+1911,عائلة,아일라,가족,family,noun,R6,Y
+1912,ملا,말라,채우다,to fill,verb,R6,Y
+1913,حرم,하람,빼앗다(금지),to deprive,verb,R6,N
+1914,حضن,호돈,포옹,hug,noun,R6,Y
+1915,رحل,라할,떠나다,to leave,verb,R6,N
+1916,كارول,캐럴,캐럴,Carol,name,R6,N
+1917,ميراندا,미란다,미란다,Miranda,name,R6,N
+1918,هامونابترا,하무나프트라,하무나프트라,Hamunaptra,name,R6,N
+1919,تريبياني,트리비아니,트리비아니,Tribbiani,name,R6,N
+1920,كندا,카나다,캐나다,Canada,name,R6,N
+1921,حماصه,함마사,견과류 가게,nut shop,noun,R6,Y
+1922,أوتر,오타르,오타르(기타),other,other,R6,N
+1923,بيث,베스,베스,Beth,name,R6,N
+1924,مطبخ,마트바크,부엌,kitchen,noun,R6,Y
+1925,جناب,기납,각하,your honor,noun,R6,N
+1926,نغم,나감,선율,melody,noun,R6,N
+1927,إنجلترا,잉길타라,영국(잉글랜드),England,name,R6,N
+1928,عبقري,아브아리,천재,genius,noun,R6,N
+1929,خلفية,칼피야,배경,background,noun,R6,N
+1930,ميناء,미나,항구,port,noun,R6,Y
+1931,صليب,살리브,십자가,cross,noun,R6,Y
+1932,مون,문,문(이름),name,name,R6,N
+1933,مولاة,마울라,마님(여주인),my lady,noun,R6,N
+1934,شيري,셰리,셰리(애칭),darling,name,R6,N
+1935,غربي,가르비,서쪽의,western,adj,R6,N
+1936,تمني,타만니,바람(소망),wish,noun,R6,N
+1937,وداع,위다아,작별,farewell,noun,R6,Y
+1938,حلال,할랄,허용된(정당한),lawful,adj,R6,N
+1939,آري,아리,아리(이름),name,name,R6,N
+1940,مهتم,모흐탐,관심 있는,interested,adj,R6,N
+1941,بريد,바리드,우편,mail,noun,R6,Y
+1942,زجاج,이자즈,유리,glass,noun,R6,Y
+1943,صريح,사리흐,솔직한,frank,adj,R6,N
+1944,مناسبة,무나사바,행사(기회),occasion,noun,R6,N
+1945,نهر,나흐르,강,river,noun,R6,Y
+1946,متحمس,미트하메스,신난,excited,adj,R6,Y
+1947,مسألة,마스알라,문제(사안),issue,noun,R6,N
+1948,لقاء,리아,만남,meeting,noun,R6,N
+1949,موزة,무자,바나나,banana,noun,R6,Y
+1950,سواق,사우와으,운전사,driver,noun,R6,Y
+1951,هب,합브,불다(휙),to blow,verb,R6,N
+1952,خطأ,카타아,실수,mistake,noun,R6,N
+1953,موعد,마우에드,약속(시간),appointment,noun,R6,N
+1954,أخضر,아크다르,초록색,green,adj,R6,Y
+1955,فقير,파이르,가난한,poor,adj,R6,N
+1956,دمع,다마아,눈물,tear,noun,R6,Y
+1957,نائب,나엡,대리(부),deputy,noun,R6,N
+1958,ظالم,잘렘,부당한(압제자),unjust,adj,R6,N
+1959,مجهول,마그훌,미지의,unknown,adj,R6,N
+1960,عجيب,아기브,이상한(놀라운),strange,adj,R6,N
+1961,ضحية,다히야,희생자,victim,noun,R6,N
+1962,رش,라쉬,뿌리다,to spray,verb,R6,Y
+1963,سيطر,사이타르,지배하다,to control,verb,R6,N
+1964,صفة,시파,특성,quality,noun,R6,N
+1965,خمن,하만,추측하다,to guess,verb,R6,N
+1966,متوقع,미트와아,예상된,expected,adj,R6,N
+1967,طايق,타이아,견디는,tolerating,adj,R6,N
+1968,شراب,샤랍,양말,sock,noun,R6,Y
+1969,انبسط,인바사트,즐기다,to enjoy,verb,R6,N
+1970,طبخ,타바크,요리하다,to cook,verb,R6,Y
+1971,أجبر,아그바르,강요하다,to force,verb,R6,N
+1972,ود,와드,애정,affection,noun,R6,N
+1973,بلع,발라아,삼키다,to swallow,verb,R6,Y
+1974,هزم,하잠,물리치다,to defeat,verb,R6,N
+1975,أزعج,아자아그,귀찮게 하다,to annoy,verb,R6,N
+1976,وصي,와시,후견인,guardian,noun,R6,N
+1977,عفو,아프우,천만에요,you're welcome,interj,R6,N
+1978,يو,유,너(영어),you,other,R6,N
+1979,فرانكي,프랭키,프랭키,Frankie,name,R6,N
+1980,شش,쉬,쉿,shh,interj,R6,N
+1981,جايز,가이즈,아마도,maybe,adv,R6,N
+1982,توكة,토카,머리핀,hair clip,noun,R6,Y
+1983,ناعومي,나오미,나오미,Naomi,name,R6,N
+1984,صارخ,사리크,비명 지르는,screaming,adj,R6,N
+1985,لحمة,라흐마,고기,meat,noun,R6,Y
+1986,عمدة,오므다,촌장,mayor,noun,R6,Y
+1987,ولس,윌스,인명,name,name,R6,N
+1988,روجر,로저,인명,name,name,R6,N
+1989,فايدة,파이다,소용(이익),benefit,noun,R6,N
+1990,استمرار,이스티므라르,지속,continuation,noun,R6,N
+1991,إنشاء,인샤,건설(설립),construction,noun,R6,N
+1992,مطروح,마트루흐,제기된,proposed,adj,R6,N
+1993,عقبال,오으발,~도 그렇게 되길,may you be next,interj,R6,N
+1994,مقدم,모아담,선금,advance payment,noun,R6,N
+1995,عقيد,아이드,대령,colonel,noun,R6,Y
+1996,أسهم,아스훔,주식,stocks,noun,R6,N
+1997,غول,굴,괴물,ghoul,noun,R6,Y
+1998,عمارة,이마라,아파트 건물,apartment building,noun,R6,Y
+1999,يهودي,야후디,유대인의,Jewish,adj,R6,N
+2000,نقد,나아드,비판,criticism,noun,R6,N
+2001,طبل,타블,북,drum,noun,R6,Y
+2002,وحدة,웨흐다,외로움,loneliness,noun,R6,N
+2003,عنف,운프,폭력,violence,noun,R6,N
+2004,اصلي,아슬리,원래/진짜,original,adj,R6,N
+2005,فرن,포른,오븐,oven,noun,R6,Y
+2006,فارس,파리스,기사(騎士),knight,noun,R6,Y
+2007,درى,디리,알다,to know,verb,R6,N
+2008,فور,포르,즉시,immediately,adv,R6,N
+2009,تهيأ,이트하야아,~인 것 같다,to seem,verb,R6,N
+2010,مدام,마담,부인,madam,noun,R6,N
+2011,ناشف,나시프,마른,dry,adj,R6,Y
+2012,أشار,아샤르,가리키다,to point,verb,R6,Y
+2013,خدعة,코드아,속임수,trick,noun,R6,N
+2014,جلالة,갈랄라,폐하,majesty,noun,R6,N
+2015,هجوم,후굼,공격,attack,noun,R6,N
+2016,جمهور,굼후르,관중,audience,noun,R6,Y
+2017,تحفة,투흐파,걸작,masterpiece,noun,R6,N
+2018,نجى,나가,살아남다,to survive,verb,R6,N
+2019,تأذى,이트아자,다치다,to get hurt,verb,R6,N
+2020,خناقة,키나아,싸움,fight,noun,R6,Y
+2021,ذهبي,다하비,금빛의,golden,adj,R6,Y
+2022,إسباني,이스바니,스페인의,Spanish,adj,R6,N
+2023,وصول,우술,도착,arrival,noun,R6,N
+2024,مثال,미살,예(보기),example,noun,R6,N
+2025,امتحان,임티한,시험,exam,noun,R6,Y
+2026,مجهود,마그후드,노력,effort,noun,R6,N
+2027,كرامة,카라마,자존심,dignity,noun,R6,N
+2028,قاعدة,아다,앉아 있는(여),sitting,verb,R6,Y
+2029,تافه,타피흐,하찮은,trivial,adj,R6,N
+2030,اعتراف,이으티라프,고백,confession,noun,R6,N
+2031,عمق,오모으,깊이,depth,noun,R6,N
+2032,ضوء,다우,빛,light,noun,R6,Y
+2033,قاسي,아시,가혹한,harsh,adj,R6,N
+2034,مسطرده,무스타르다,겨자,mustard,noun,R6,Y
+2035,تذكرة,타즈카라,표(티켓),ticket,noun,R6,Y
+2036,ملف,말라프,파일,file,noun,R6,Y
+2037,خطب,카타브,약혼하다,to get engaged,verb,R6,N
+2038,حماس,하마스,열정,enthusiasm,noun,R6,N
+2039,فضيحة,파디하,스캔들,scandal,noun,R6,N
+2040,متهم,미타함,피고인,accused,noun,R6,N
+2041,كتكوت,카트쿠트,병아리,chick,noun,R6,Y
+2042,تعليم,타알림,교육,education,noun,R6,N
+2043,إيمان,이만,믿음,faith,noun,R6,N
+2044,خنق,하나아,숨막히게 하다,to choke,verb,R6,N
+2045,هز,하즈,흔들다,to shake,verb,R6,Y
+2046,رمز,라마즈,상징,symbol,noun,R6,N
+2047,عدد,아다드,수(숫자),number,noun,R6,N
+2048,دل,달,길을 알려주다,to guide,verb,R6,N
+2049,تناقش,잇나아쉬,토론하다,to discuss,verb,R6,N
+2050,رغى,리기,수다 떨다,to chatter,verb,R6,N
+2051,فضح,파다흐,망신 주다,to expose,verb,R6,N
+2052,فاق,파아,깨어나다,to wake up,verb,R6,Y
+2053,شيل,쉴,들어/치워,carry,verb,R6,Y
+2054,سبت,삽트,토요일,Saturday,noun,R6,N
+2055,ليزا,리자,인명,name,name,R6,N
+2056,تي,티,티(문자),letter T,other,R6,N
+2057,دوليتل,둘리틀,인명,name,name,R6,N
+2058,اوكونيل,오코넬,인명,name,name,R6,N
+2059,طيظك,티자크,네 엉덩이(비속어),butt,noun,R6,N
+2060,أرتورو,아르투로,인명,name,name,R6,N
+2061,حمزة,함자,인명,name,name,R6,N
+2062,أين,아인,어디,where,adv,R6,N
+2063,اشمعنى,이시마아나,왜 하필,why exactly,adv,R6,N
+2064,كيل,킬,인명,name,name,R6,N
+2065,راتب,라팁,월급,salary,noun,R6,N
+2066,مورث,모르스,인명,name,name,R6,N
+2067,نصيبة,나시바,큰 재앙,disaster,noun,R6,N
+2068,ري,리,관개(물대기),irrigation,noun,R6,N
+2069,رومان,루만,로마인,Romans,noun,R6,N
+2070,دانيال,다니얄,인명,name,name,R6,N
+2071,أآه,아아,아(감탄),ah,interj,R6,N
+2072,مطافي,마타피,소방서,fire department,noun,R6,Y
+2073,أوسخ,아우사크,더 더러운,dirtier,adj,R6,N
+2074,تمثال,팀살,동상,statue,noun,R6,Y
+2075,مستغرب,미스타그라브,놀란,surprised,adj,R6,Y
+2076,ممنوع,맘누아,금지된,forbidden,adj,R6,Y
+2077,تخرج,이트하라그,졸업하다,to graduate,verb,R6,Y
+2078,مديرية,무디레야,관청(국),directorate,noun,R6,N
+2079,واطي,와티,낮은(비열한),low,adj,R6,N
+2080,طازة,타자,신선한,fresh,adj,R6,N
+2081,لوث,라와스,오염시키다,to pollute,verb,R6,N
+2082,غد,가드,내일,tomorrow,noun,R6,N
+2083,مدمن,무드민,중독자,addict,noun,R6,N
+2084,متفق,미타피아,합의한,agreed,adj,R6,N
+2085,رجولة,루굴라,남자다움,manliness,noun,R6,N
+2086,خديجة,카디가,인명,name,name,R6,N
+2087,كنبة,칸바,소파,sofa,noun,R6,Y
+2088,بارد,바리드,차가운,cold,adj,R6,Y
+2089,ميعاد,미아드,약속 시간,appointment,noun,R6,N
+2090,مبلغ,마블라그,금액,amount of money,noun,R6,N
+2091,مسافة,마사파,거리,distance,noun,R6,N
+2092,مستمر,미스타미르,계속되는,continuous,adj,R6,N
+2093,غلبان,갈반,불쌍한,pitiful,adj,R6,N
+2094,عصبية,아사베야,신경질,irritability,noun,R6,N
+2095,قايل,아일,말한,having said,adj,R6,N
+2096,إنقاذ,인아즈,구조,rescue,noun,R6,Y
+2097,نوبة,노바,발작,fit,noun,R6,N
+2098,أحيى,아흐야,경의를 표하다,to salute,verb,R6,N
+2099,حوش,하워쉬,모으다(저축),to save up,verb,R6,N
+2100,سير,시르,경(호칭),sir,noun,R6,N
+2101,قناع,이나아,가면,mask,noun,R6,Y
+2102,ٱنفجر,인파가르,폭발하다,to explode,verb,R6,Y
+2103,رغبة,라그바,욕구,desire,noun,R6,N
+2104,عيادة,이야다,진료소,clinic,noun,R6,Y
+2105,إيطالي,이탈리,이탈리아의,Italian,adj,R6,N
+2106,فوز,포즈,승리,win,noun,R6,N
+2107,حبل,하블,밧줄,rope,noun,R6,Y
+2108,حشرة,하샤라,벌레,insect,noun,R6,Y
+2109,دوا,다와,약,medicine,noun,R6,Y
+2110,فر,파르,도망치다,to flee,verb,R6,N
+2111,وزارة,위자라,부(정부 부처),ministry,noun,R6,N
+2112,لقب,라아브,칭호(별명),title,noun,R6,N
+2113,مكسور,마크수르,깨진,broken,adj,R6,Y
+2114,دراسة,디라사,공부,study,noun,R6,N
+2115,تقليد,타을리드,전통(모방),tradition,noun,R6,N
+2116,اداة,아다,도구,tool,noun,R6,Y
+2117,لفت,라파트,(주의를) 끌다,to draw attention,verb,R6,N
+2118,بزاز,비자즈,가슴(비속어),breasts,noun,R6,N
+2119,مؤسسة,무아사사,기관,institution,noun,R6,N
+2120,قاوم,아웸,저항하다,to resist,verb,R6,N
+2121,فتش,파타쉬,수색하다,to search,verb,R6,N
+2122,رجوع,루구아,돌아옴,return,noun,R6,N
+2123,كرم,카람,관대함,generosity,noun,R6,N
+2124,لزم,리짐,필요하다,to be necessary,verb,R6,N
+2125,حجز,하가즈,예약하다,to book,verb,R6,N
+2126,انتقم,인타암,복수하다,to take revenge,verb,R6,N
+2127,عزم,아잠,초대하다,to invite,verb,R6,N
+2128,اتريق,잇라야,놀리다,to mock,verb,R6,N
+2129,خدم,하담,섬기다,to serve,verb,R6,N
+2130,سهر,시히르,밤새다,to stay up late,verb,R6,N
+2131,أعدم,아으담,처형하다,to execute,verb,R6,N
+2132,حبة,함바,조금·알약,a bit,noun,R6,N
+2133,هاه,하,응?,huh,interj,R6,N
+2134,علشانك,알라샤낙,너를 위해,for you,prep,R6,N
+2135,نسبالي,니스발리,나로서는,as for me,adv,R6,N
+2136,بروكلين,브루클린,지명,place name,name,R6,N
+2137,فوفايير,포파이에르,인명,name,name,R6,N
+2138,رع,라,태양신 라,Ra,name,R6,N
+2139,شو,쇼,쇼,show,noun,R6,N
+2140,بج,비그,(불명),unclear,other,R6,N
+2141,ميخا,미카,인명,name,name,R6,N
+2142,كارميلو,카르밀로,인명,name,name,R6,N
+2143,الدجوي,엘다그위,인명,name,name,R6,N
+2144,بل,발,오히려,rather,conj,R6,N
+2145,أيض,아이단,또한,also,adv,R6,N
+2146,هلك,할라크,지치게 하다,to exhaust,verb,R6,N
+2147,سانتا,산타,산타클로스,Santa Claus,noun,R6,Y
+2148,سويسرا,스위스라,스위스,Switzerland,name,R6,N
+2149,أنشودة,운쉬다,노래(찬가),chant,noun,R6,N
+2150,صان,산,지키다,to protect,verb,R6,N
+2151,يوه,요흐,어휴,ugh,interj,R6,N
+2152,اتضح,잇다흐,밝혀지다,to turn out,verb,R6,N
+2153,سماء,사마,하늘,sky,noun,R6,Y
+2154,جحيم,가힘,지옥,hell,noun,R6,N
+2155,حارة,하라,골목,alley,noun,R6,Y
+2156,بق,보으,입,mouth,noun,R6,Y
+2157,بيبي,베비,아기,baby,noun,R6,Y
+2158,يكوا,쿠,너희에게(접미),to you (plural),pron,R6,N
+2159,قتال,이탈,전투,combat,noun,R6,N
+2160,وثيقة,와시아,문서,document,noun,R6,Y
+2161,رئيسي,라이시,주요한,main,adj,R6,N
+2162,سماعة,삼마아,헤드폰(수화기),headphones,noun,R6,Y
+2163,ٱجتماع,이그티마아,회의,meeting,noun,R6,Y
+2164,كوباية,쿠바야,컵,cup,noun,R6,Y
+2165,أنجل,엔젤,천사,angel,noun,R6,Y
+2166,زبط,자바트,딱 맞다,to be exact,verb,R6,N
+2167,مخطط,무카타트,계획,plan,noun,R6,N
+2168,كسم,쿠삼,욕설(비속어),swear word,interj,R6,N
+2169,عثمان,오스만,인명,name,name,R6,N
+2170,هزار,하자르,농담,joking,noun,R6,N
+2171,سام,삼,독이 있는,poisonous,adj,R6,N
+2172,أقصى,아으사,최대의,maximum,adj,R6,N
+2173,غباء,가바,어리석음,stupidity,noun,R6,N
+2174,أعظم,아아잠,가장 위대한,greatest,adj,R6,N
+2175,فضاء,파다,우주,outer space,noun,R6,Y
+2176,محظوظ,마흐주즈,운 좋은,lucky,adj,R6,N
+2177,رابع,라비아,네 번째,fourth,num,R6,N
+2178,مكسوف,마크수프,부끄러운,embarrassed,adj,R6,Y
+2179,رائد,라이드,소령(선구자),major (rank),noun,R6,N
+2180,ناجح,나기흐,성공한,successful,adj,R6,N
+2181,دقيق,디이으,밀가루,flour,noun,R6,Y
+2182,طري,타리,부드러운,soft,adj,R6,N
+2183,مرتاح,미르타흐,편안한,comfortable,adj,R6,Y
+2184,تحدث,이트하다스,말하다,to speak,verb,R6,Y
+2185,عقار,아아르,부동산,real estate,noun,R6,N
+2186,توأم,타우암,쌍둥이,twins,noun,R6,Y
+2187,جبن,기븐,치즈,cheese,noun,R6,Y
+2188,مصارعة,무사르아,레슬링,wrestling,noun,R6,Y
+2189,حريق,하리아,화재,fire,noun,R6,Y
+2190,اسلام,이슬람,이슬람교,Islam,noun,R6,N
+2191,شجاع,슈가아,용감한,brave,adj,R6,N
+2192,مزعج,무즈이그,짜증나는,annoying,adj,R6,N
+2193,احترام,이흐티람,존경,respect,noun,R6,N
+2194,رقيق,라이아,섬세한,delicate,adj,R6,N
+2195,مشترك,무쉬타락,공동의,shared,adj,R6,N
+2196,سبق,사바아,앞서다,to precede,verb,R6,N
+2197,طاير,타이르,날고 있는,flying,adj,R6,Y
+2198,قيادة,이야다,지휘(운전),leadership,noun,R6,N
+2199,غرب,가릅,서쪽,west,noun,R6,N
+2200,جزى,가자,보답하다,to reward,verb,R6,N
+2201,مخلص,무클리스,충실한,loyal,adj,R6,N
+2202,فحص,파하스,검사하다,to examine,verb,R6,N
+2203,بلطجي,발타기,깡패,thug,noun,R6,Y
+2204,جايزة,가이자,상(상품),prize,noun,R6,Y
+2205,حديث,하디스,대화,conversation,noun,R6,N
+2206,رمل,라믈,모래,sand,noun,R6,Y
+2207,حامي,하미,뜨거운,hot,adj,R6,Y
+2208,كرر,카라르,반복하다,to repeat,verb,R6,N
+2209,بهدل,바흐달,엉망으로 만들다,to mess up,verb,R6,N
+2210,طعن,타안,찌르다,to stab,verb,R6,N
+2211,خائن,카인,배신자,traitor,noun,R6,N
+2212,نشر,나샤르,퍼뜨리다(출판),to publish,verb,R6,N
+2213,ٱغتصب,이그타사브,강간하다,to rape,verb,R6,N
+2214,عطل,아탈,지연시키다,to delay,verb,R6,N
+2215,أجاب,아갑,대답하다,to answer,verb,R6,N
+2216,شتم,시팀,욕하다,to curse,verb,R6,N
+2217,ن,눈,눈(문자),letter N,other,R6,N
+2218,الليدي,일레이디,귀부인,lady,noun,R6,N
+2219,طفلة,티플라,여자아이,girl,noun,R6,Y
+2220,اوووه,오오,오(감탄),oh,interj,R6,N
+2221,ذا,다,이것,this,det,R6,N
+2222,اممم,음,음(망설임),hmm,interj,R6,N
+2223,لطول,알투울,곧장(늘),straight away,adv,R6,N
+2224,بروكمان,브록만,인명,name,name,R6,N
+2225,إياد,이야드,인명,name,name,R6,N
+2226,جوردان,조던,인명,name,name,R6,N
+2227,ملزمة,말자마,교재 묶음,handout,noun,R6,N
+2228,اسماعيل,이스마일,인명,name,name,R6,N
+2229,لهاث,리하스,헐떡임,panting,noun,R6,N
+2230,نداهة,나다하,홀리는 요정,siren spirit,noun,R6,N
+2231,الببلاوي,엘베블라위,인명,name,name,R6,N
+2232,مائي,마이,물의,aquatic,adj,R6,N
+2233,تأثير,타스이르,영향,influence,noun,R6,N
+2234,كذا,키다,이렇게,like this,adv,R6,N
+2235,وراء,와라,뒤에,behind,prep,R6,N
+2236,سيمبا,심바,인명,name,name,R6,N
+2237,هج,바흐가,기쁨,joy,noun,R6,N
+2238,صاخب,사킵,시끄러운,noisy,adj,R6,Y
+2239,جراج,가라그,차고,garage,noun,R6,Y
+2240,متاهة,마타하,미로,maze,noun,R6,Y
+2241,تفسير,탑시르,설명,explanation,noun,R6,N
+2242,سندوش,산다위치,샌드위치,sandwich,noun,R6,Y
+2243,دولي,다울리,국제적인,international,adj,R6,N
+2244,صفارة,사파라,호루라기,whistle,noun,R6,Y
+2245,أباح,아바흐,허락하다,to permit,verb,R6,N
+2246,لكمة,라크마,주먹질,punch,noun,R6,Y
+2247,فارغ,파레그,텅 빈,empty,adj,R6,Y
+2248,حالي,할리,내 상태,my state,noun,R6,N
+2249,أزمة,아즈마,위기,crisis,noun,R6,N
+2250,جنينة,게니나,정원,garden,noun,R6,Y
+2251,كهرباء,카흐라바,전기,electricity,noun,R6,Y
+2252,مصمم,무삼밈,디자이너,designer,noun,R6,Y
+2253,عرش,아르시,왕좌,throne,noun,R6,Y
+2254,مستعجل,메스타겔,서두르는,in a hurry,adj,R6,Y
+2255,مبيع,마비아,판매,sales,noun,R6,N
+2256,قمة,엠마,정상,summit,noun,R6,Y
+2257,هوليوود,홀리우드,할리우드,Hollywood,name,R6,N
+2258,سكينة,사키나,칼,knife,noun,R6,Y
+2259,مسافر,미사페르,여행자,traveler,noun,R6,Y
+2260,ثورة,사우라,혁명,revolution,noun,R6,N
+2261,غرام,가람,사랑,love,noun,R6,N
+2262,أسطورة,우스투라,전설,legend,noun,R6,N
+2263,كيس,키스,봉지,bag,noun,R6,Y
+2264,قصير,우사이야르,짧은,short,adj,R6,Y
+2265,خلل,칼랄,결함,defect,noun,R6,N
+2266,اعتذر,에타자르,사과하다,to apologize,verb,R6,Y
+2267,خال,칼,외삼촌,maternal uncle,noun,R6,N
+2268,حرج,하라그,난처함,embarrassment,noun,R6,N
+2269,جمعية,감에야,협회,association,noun,R6,N
+2270,خامس,카메스,다섯째,fifth,num,R6,N
+2271,فرحة,파르하,기쁨,joy,noun,R6,N
+2272,محاولة,무하울라,시도,attempt,noun,R6,N
+2273,تخصص,타카소스,전공,specialty,noun,R6,N
+2274,حفر,하파르,파다,to dig,verb,R6,Y
+2275,حساس,하싸스,예민한,sensitive,adj,R6,N
+2276,صادق,사데,정직한,honest,adj,R6,N
+2277,سويسري,스위스리,스위스의,Swiss,adj,R6,N
+2278,كف,카프,손바닥,palm,noun,R6,Y
+2279,عذر,오즈르,핑계,excuse,noun,R6,N
+2280,أبي,아비,내 아버지,my father,noun,R6,N
+2281,كمبيوتر,콤비유테르,컴퓨터,computer,noun,R6,Y
+2282,تربية,타르베야,교육/양육,upbringing,noun,R6,N
+2283,أمني,옴네야,소원,wish,noun,R6,N
+2284,أعلن,아알란,발표하다,to announce,verb,R6,N
+2285,صبي,사비,소년,boy,noun,R6,Y
+2286,حشى,하샤,속을 채우다,to stuff,verb,R6,Y
+2287,قفش,아파시,붙잡다,to catch,verb,R6,Y
+2288,تفجير,타프기르,폭파,explosion,noun,R6,Y
+2289,نهى,나하,끝내다,to finish,verb,R6,N
+2290,غضب,가답,분노,anger,noun,R6,Y
+2291,منح,마나흐,주다,to grant,verb,R6,N
+2292,ولاء,왈라,충성,loyalty,noun,R6,N
+2293,زال,잘,여전히 ~하다,to remain,verb,R6,N
+2294,ذاكر,자케르,공부하다,to study,verb,R6,Y
+2295,شارك,샤레크,함께하다,to share,verb,R6,N
+2296,متى,마타,언제,when,adv,R6,N
+2297,كما,카마,~처럼,as,conj,R6,N
+2298,بوكو,부쿠,많이,a lot,adv,R6,N
+2299,لاهي,라헤,정신 팔린,distracted,adj,R6,N
+2300,سئ,사이예,나쁜,bad,adj,R6,N
+2301,جياماريزي,기아마리지,(이름),name,name,R6,N
+2302,أسهل,아스할,더 쉬운,easier,adj,R6,N
+2303,ريتني,리트니,~였으면,if only,interj,R6,N
+2304,تنفس,이트나파스,숨쉬다,to breathe,verb,R6,Y
+2305,لن,란,~않을 것이다,will not,part,R6,N
+2306,شي,셰이,무언가,thing,noun,R6,N
+2307,تلا,탈라,낭송하다,to recite,verb,R6,N
+2308,صحراء,사흐라,사막,desert,noun,R6,Y
+2309,أرب,아랍,목적,aim,noun,R6,N
+2310,شرقي,샤르이,동양의,eastern,adj,R6,N
+2311,صحرا,사흐라,사막,desert,noun,R6,Y
+2312,حشيشة,하시샤,대마초,hashish,noun,R6,N
+2313,وطني,와타니,애국의,national,adj,R6,N
+2314,اتأكد,에트아카드,확인하다,to make sure,verb,R6,N
+2315,مصاب,무사브,다친,injured,adj,R6,Y
+2316,تقبل,타압발,받아들이다,to accept,verb,R6,N
+2317,اللا,알라,자 어서,come on,interj,R6,N
+2318,قارة,아라,대륙,continent,noun,R6,Y
+2319,برد,바르드,추위,cold,noun,R6,Y
+2320,محطة,마하타,역,station,noun,R6,Y
+2321,بنطلون,반탈론,바지,pants,noun,R6,Y
+2322,عدالة,아달라,정의,justice,noun,R6,N
+2323,خالي,칼리,빈,empty,adj,R6,Y
+2324,قاعة,아아,홀,hall,noun,R6,Y
+2325,فاتورة,파투라,계산서,bill,noun,R6,Y
+2326,كائن,카엔,생물,creature,noun,R6,Y
+2327,صف,사프,줄,row,noun,R6,Y
+2328,شهادة,샤하다,증명서,certificate,noun,R6,Y
+2329,مؤتمر,모타마르,회의,conference,noun,R6,Y
+2330,صيدلية,사이달레야,약국,pharmacy,noun,R6,Y
+2331,خشب,카샵,목재,wood,noun,R6,Y
+2332,حفرة,호프라,구덩이,hole,noun,R6,Y
+2333,موقع,마우아,위치,site,noun,R6,N
+2334,سندوتش,산다위치,샌드위치,sandwich,noun,R6,Y
+2335,روعة,로아,멋짐,wonder,noun,R6,N
+2336,ترجمة,타르가마,번역,translation,noun,R6,N
+2337,قص,아스,자르다,to cut,verb,R6,Y
+2338,جناح,게나흐,날개,wing,noun,R6,Y
+2339,مخلي,메칼리,~하게 두는,letting,adj,R6,N
+2340,فلس,팔라스,파산하다,to go bankrupt,verb,R6,N
+2341,حيلة,힐라,속임수,trick,noun,R6,N
+2342,ثقل,티일,무거워지다,to get heavy,verb,R6,N
+2343,فطر,페테르,아침 먹다,to have breakfast,verb,R6,Y
+2344,أهان,아한,모욕하다,to insult,verb,R6,N
+2345,مفيد,무피드,유용한,useful,adj,R6,N
+2346,عشيق,아시,애인,lover,noun,R6,N
+2347,خيط,케트,실,thread,noun,R6,Y
+2348,ذئب,디브,늑대,wolf,noun,R6,Y
+2349,جسد,가사드,몸,body,noun,R6,Y
+2350,علمي,엘미,과학적인,scientific,adj,R6,N
+2351,طين,틴,진흙,mud,noun,R6,Y
+2352,ٱخترع,에크타라아,발명하다,to invent,verb,R6,N
+2353,اعتمد,에타마드,의지하다,to rely,verb,R6,N
+2354,ٱفترض,에프타라드,가정하다,to assume,verb,R6,N
+2355,مراهق,모라헤,십대,teenager,noun,R6,Y
+2356,بد,보드,어쩔 수 없음,necessity,noun,R6,N
+2357,عجز,아가즈,못하다,to be unable,verb,R6,N
+2358,طفا,타파,끄다,to turn off,verb,R6,Y
+2359,عشق,에셰,열렬히 사랑하다,to adore,verb,R6,N
+2360,تحرك,이트하라크,움직이다,to move,verb,R6,Y
+2361,نصح,나사흐,충고하다,to advise,verb,R6,N
+2362,نفخ,나파크,불다,to blow,verb,R6,Y
+2363,نال,날,얻다,to obtain,verb,R6,N
+2364,عذب,앗잡,괴롭히다,to torment,verb,R6,N
+2365,تعاون,이트아원,협력하다,to cooperate,verb,R6,N
+2366,جنسي,겐시,성적인,sexual,adj,R6,N
+2367,مينهيمر,미네이머,(이름),name,name,R6,N
+2368,اتخلص,에트칼라스,없애다,to get rid of,verb,R6,N
+2369,حجات,하가트,물건들,things,noun,R6,N
+2370,سابيان,사비안,(이름),name,name,R6,N
+2371,فورخا,포르카,(이름),name,name,R6,N
+2372,اتش,에이치,에이치(글자),letter H,other,R6,N
+2373,سوزانا,수자나,수잔나,Susanna,name,R6,N
+2374,العو,알아우,(불명),unknown,other,R6,N
+2375,سعال,수알,기침,cough,noun,R6,Y
+2376,علب,알라브,통/상자,box,noun,R6,Y
+2377,اللهم,알라훔,오 신이시여,O God,interj,R6,N
+2378,نصرة,노스라,지원,support,noun,R6,N
+2379,هانيا,하니아,하니아,Hania,name,R6,N
+2380,بهنسي,바흐나시,바흐나시,Bahnasi,name,R6,N
+2381,كارلو,카를로,카를로,Carlo,name,R6,N
+2382,لكأ,라카,(불명),unknown,other,R6,N
+2383,دندن,단단,흥얼거리다,to hum,verb,R6,Y
+2384,جورج,조르그,조지,George,name,R6,N
+2385,استعداد,이스테아다드,준비,readiness,noun,R6,N
+2386,سافانا,사바나,사바나,savanna,noun,R6,Y
+2387,مذياع,미즈야아,라디오,radio,noun,R6,Y
+2388,مؤذن,모아젠,기도 알리는 사람,muezzin,noun,R6,Y
+2389,خيام,키얌,텐트,tent,noun,R6,Y
+2390,شرق,샤르,동쪽,east,noun,R6,N
+2391,حمدلله,함두릴라,다행이다,thank God,interj,R6,N
+2392,داخلية,다클레야,내무부,interior ministry,noun,R6,N
+2393,بشمهندس,바쉬모한데스,기사님,engineer (title),noun,R6,N
+2394,مطرة,마타라,물통,water flask,noun,R6,Y
+2395,أمية,오메야,문맹,illiteracy,noun,R6,N
+2396,حمادة,하마다,하마다,Hamada,name,R6,N
+2397,بياع,바이야아,장사꾼,seller,noun,R6,Y
+2398,زعيم,자임,지도자,leader,noun,R6,N
+2399,غيبوبة,가이부바,혼수상태,coma,noun,R6,N
+2400,حان,한,때가 되다,to be time,verb,R6,N
+2401,أتوبيس,오토비스,버스,bus,noun,R6,Y
+2402,أولاني,아왈라니,첫번째,first,adj,R6,N
+2403,وكيل,와킬,대리인,agent,noun,R6,N
+2404,مدى,마다,범위,extent,noun,R6,N
+2405,فلاش,플라시,플래시,flash,noun,R6,Y
+2406,أكاديمية,아카데메야,아카데미,academy,noun,R6,N
+2407,نادر,나데르,드문,rare,adj,R6,N
+2408,جامع,가메아,모스크,mosque,noun,R6,Y
+2409,سجاد,세가드,카펫,carpet,noun,R6,Y
+2410,لاق,라,어울리다,to suit,verb,R6,N
+2411,صياد,사이야드,사냥꾼,hunter,noun,R6,Y
+2412,لايف,라이프,생방송,live broadcast,noun,R6,N
+2413,رواية,레와야,소설,novel,noun,R6,Y
+2414,شعار,시아르,구호,slogan,noun,R6,N
+2415,إشارة,에샤라,신호,signal,noun,R6,Y
+2416,طبي,텝비,의료의,medical,adj,R6,N
+2417,ناعم,나엠,부드러운,soft,adj,R6,Y
+2418,مجلس,마글리스,의회,council,noun,R6,N
+2419,رهان,레한,내기,bet,noun,R6,N
+2420,قرية,아르야,마을,village,noun,R6,Y
+2421,زيارة,지야라,방문,visit,noun,R6,N
+2422,حكيم,하킴,현명한,wise,adj,R6,N
+2423,مار,마르,지나가다,to pass,verb,R6,N
+2424,جسر,게스르,다리,bridge,noun,R6,Y
+2425,اتعود,에트아우와드,익숙해지다,to get used to,verb,R6,N
+2426,أنجز,안가즈,해내다,to accomplish,verb,R6,N
+2427,حديد,하디드,철,iron,noun,R6,Y
+2428,صفقة,사파,거래,deal,noun,R6,N
+2429,ورث,웨레스,물려받다,to inherit,verb,R6,N
+2430,مؤخرة,모아케라,엉덩이,buttocks,noun,R6,N
+2431,مزيف,모자야프,가짜의,fake,adj,R6,N
+2432,غاز,가즈,가스,gas,noun,R6,Y
+2433,تف,타프,침 뱉다,to spit,verb,R6,Y
+2434,رؤية,로아야,봄/시야,vision,noun,R6,N
+2435,قزم,아잠,난쟁이,dwarf,noun,R6,Y
+2436,ٱنتظار,엔테자르,기다림,waiting,noun,R6,N
+2437,قناة,아나,채널,channel,noun,R6,N
+2438,عالمي,알라미,세계적인,global,adj,R6,N
+2439,بريطاني,베리타니,영국의,British,adj,R6,N
+2440,حرامي,하라미,도둑,thief,noun,R6,Y
+2441,حظر,하자르,금지,ban,noun,R6,N
+2442,شمعة,샴아,초,candle,noun,R6,Y
+2443,دارى,다라,숨기다,to hide,verb,R6,Y
+2444,رعش,라아시,떨다,to shiver,verb,R6,Y
+2445,شجاعة,사가아,용기,courage,noun,R6,N
+2446,مسلم,무슬림,무슬림,Muslim,noun,R6,N
+2447,قاس,아스,재다,to measure,verb,R6,Y
+2448,أمانة,아마나,정직,honesty,noun,R6,N
+2449,قرص,아라스,꼬집다,to pinch,verb,R6,Y
+2450,ثروة,사르와,재산,wealth,noun,R6,N
+2451,لخبط,라크밭,뒤섞다,to mess up,verb,R6,N
+2452,ذاب,답,녹다,to melt,verb,R6,Y
+2453,شحن,샤한,충전하다,to charge,verb,R6,Y
+2454,كسف,키시프,부끄러워하다,to be shy,verb,R6,N
+2455,ناي,나이,피리,flute,noun,R6,Y
+2456,عاقب,아아브,벌주다,to punish,verb,R6,N
+2457,منذ,문주,~이래로,since,prep,R6,N
+2458,عروس,아루사,신부/인형,bride,noun,R6,Y
+2459,حوالين,하왈린,주위에,around,prep,R6,N
+2460,هاتى,하티,줘(여),give me,verb,R6,N
+2461,مباشرة,모바샤라탄,곧바로,directly,adv,R6,N
+2462,نيد,니드,네드,Ned,name,R6,N
+2463,ستيفان,스테판,스테판,Stefan,name,R6,N
+2464,تلج,탈그,얼음,ice,noun,R6,Y
+2465,لأي,리아이,어떤 ~에게,for any,det,R6,N
+2466,هيف,히프,(불명),unknown,other,R6,N
+2467,صرصور,사르수르,바퀴벌레,cockroach,noun,R6,Y
+2468,تشيتو,치토,(이름),name,name,R6,N
+2469,الظابطه,엘자베타,여경찰관,policewoman,noun,R6,Y
+2470,عواءين,아와인,울부짖음,howling,noun,R6,N
+2471,صهيل,사힐,말 울음,neigh,noun,R6,N
+2472,تيدي,테디,테디,Teddy,name,R6,N
+2473,تب,탑,망할,damn,interj,R6,N
+2474,وردي,와르디,분홍색,pink,adj,R6,Y
+2475,أوحش,아우하시,더 나쁜,worse,adj,R6,N
+2476,لين,린,유연한,flexible,adj,R6,N
+2477,ستارة,시타라,커튼,curtain,noun,R6,Y
+2478,رون,론,론,Ron,name,R6,N
+2479,بودرة,바우드라,파우더,powder,noun,R6,Y
+2480,واحش,와헤시,그리운,missed,adj,R6,N
+2481,متخيل,메트카이엘,상상하는,imagining,adj,R6,N
+2482,فلوريدا,플로리다,플로리다,Florida,name,R6,N
+2483,كرا,카르트,카드,card,noun,R6,Y
+2484,للي,릴리,~한 사람에게,to the one who,pron,R6,N
+2485,طاطا,타타,고개 숙이다,to bow down,verb,R6,Y
+2486,كوتش,코치,운동화,sneakers,noun,R6,Y
+2487,مكسب,마크사브,이익,profit,noun,R6,N
+2488,قارئ,아레,독자,reader,noun,R6,Y
+2489,جيتار,기타르,기타,guitar,noun,R6,Y
+2490,خميس,카미스,목요일,Thursday,noun,R6,N
+2491,مفكر,무파케르,사상가,thinker,noun,R6,N
+2492,مسموح,마스무흐,허용된,allowed,adj,R6,N
+2493,مخزن,마크잔,창고,storehouse,noun,R6,Y
+2494,موج,무그,파도,wave,noun,R6,Y
+2495,سقف,사아프,천장,ceiling,noun,R6,Y
+2496,عملة,오믈라,화폐,currency,noun,R6,Y
+2497,عياط,아이야트,울음,crying,noun,R6,Y
+2498,خطاب,가탑,편지/연설,letter,noun,R6,Y
+2499,صيني,시니,중국의,Chinese,adj,R6,N
+2500,مقطوع,마아투아,잘린,cut off,adj,R6,Y
