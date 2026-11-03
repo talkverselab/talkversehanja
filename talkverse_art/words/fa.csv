@@ -1,1501 +1,1501 @@
 rank,word,reading,ko,en,pos,level,picturable
-1,و,바,그리고,and,conj,R1,N
-2,به,베,~에게,to,prep,R1,N
-3,در,다르,~안에,in,prep,R1,N
-4,از,아즈,~부터,from,prep,R1,N
-5,که,케,~라는 것,that,conj,R1,N
-6,این,인,이것,this,pron,R1,N
-7,را,러,목적격 조사,object marker,particle,R1,N
-8,با,버,~와 함께,with,prep,R1,N
-9,بودن,부단,이다,be,verb,R1,N
-10,آن,언,그것,that,pron,R1,N
-11,کردن,카르단,하다,do,verb,R1,N
-12,شدن,쇼단,되다,become,verb,R1,N
-13,برای,버러예,~을 위해,for,prep,R1,N
-14,من,만,나,i,pron,R1,N
-15,داشتن,더시탄,가지다,have,verb,R1,N
-16,هم,함,또한,also,adv,R1,N
-17,یک,예크,하나,one,num,R1,N
-18,تو,토,너,you,pron,R1,N
-19,او,우,그 사람,he,pron,R1,N
-20,ما,머,우리,we,pron,R1,N
-21,خیلی,케일리,매우,very,adv,R1,N
-22,چه,체,무엇,what,pron,R1,N
-23,نه,나,아니요,no,interj,R1,N
-24,بله,발레,네,yes,interj,R1,N
-25,آره,어레,응,yeah,interj,R1,N
-26,چی,치,뭐,what,pron,R1,N
-27,گفتن,고프탄,말하다,say,verb,R1,Y
-28,خواستن,커스탄,원하다,want,verb,R1,N
-29,رفتن,라프탄,가다,go,verb,R1,Y
-30,دیگر,디가르,다른,other,adj,R1,N
-31,اما,암머,그러나,but,conj,R1,N
-32,ولی,발리,하지만,but,conj,R1,N
-33,هر,하르,각각의,every,adj,R1,N
-34,همه,하메,모두,all,pron,R1,N
-35,کار,커르,일,work,noun,R1,Y
-36,وقتی,바그티,~할 때,when,conj,R1,N
-37,اگر,아가르,만약,if,conj,R1,N
-38,یا,여,또는,or,conj,R1,N
-39,تا,터,~까지,until,prep,R1,N
-40,چون,춘,왜냐하면,because,conj,R1,N
-41,خوب,쿠브,좋은,good,adj,R1,N
-42,کجا,코저,어디,where,adv,R1,N
-43,کی,키,언제,when,adv,R1,N
-44,چرا,체러,왜,why,adv,R1,N
-45,چطور,체토르,어떻게,how,adv,R1,N
-46,دیدن,디단,보다,see,verb,R1,Y
-47,آمدن,어마단,오다,come,verb,R1,Y
-48,دادن,더단,주다,give,verb,R1,Y
+1,-م,암,1인칭 단수 어미,(1st person singular ending),particle,R1,N
+2,می-,미,현재·습관 접두사,(present prefix),particle,R1,N
+3,-ه,에,3인칭 단수 어미(구어),(3rd person singular ending),particle,R1,N
+4,کردن,카르단,하다,do,verb,R1,N
+5,ب-,베,가정·명령 접두사,(subjunctive prefix),particle,R1,N
+6,-ی,이,2인칭 단수 어미,(2nd person singular ending),particle,R1,N
+7,بودن,부단,이다,be,verb,R1,N
+8,ن-,나,부정 접두사,(negation prefix),particle,R1,N
+9,که,케,~라는 것,that,conj,R1,N
+10,به,베,~에게,to,prep,R1,N
+11,رو,로,~을/를(구어),(object marker),particle,R1,N
+12,من,만,나,i,pron,R1,N
+13,و,바,그리고,and,conj,R1,N
+14,داشتن,더시탄,가지다,have,verb,R1,N
+15,از,아즈,~부터,from,prep,R1,N
+16,شدن,쇼단,되다,become,verb,R1,N
+17,تو,토,너,you,pron,R1,N
+18,این,인,이것,this,pron,R1,N
+19,-یم,임,1인칭 복수 어미,(1st person plural ending),particle,R1,N
+20,-ن,안,3인칭 복수 어미(구어),(3rd person plural ending),particle,R1,N
+21,یه,예,하나의,a,other,R1,N
+22,اون,운,그것,that,pron,R1,N
+23,-ش,에시,그의(접어),"(his, 3sg clitic)",particle,R1,N
+24,-ت,에트,너의(접어),"(your, 2sg clitic)",particle,R1,N
+25,دادن,더단,주다,give,verb,R1,Y
+26,رفتن,라프탄,가다,go,verb,R1,Y
+27,خواستن,커스탄,원하다,want,verb,R1,N
+28,گفتن,고프탄,말하다,say,verb,R1,Y
+29,با,버,~와 함께,with,prep,R1,N
+30,-i,이,부정 관사(어떤),(indefinite suffix),particle,R1,N
+31,نه,나,아니요,no,interj,R1,N
+32,در,다르,~안에,in,prep,R1,N
+33,توانستن,타버네스탄,할 수 있다,can,verb,R1,N
+34,دانستن,더네스탄,알다,know,verb,R1,N
+35,ما,머,우리,we,pron,R1,N
+36,-hā,허,복수 접미사,(plural suffix),particle,R1,N
+37,باید,버야드,해야 한다,must,verb,R1,N
+38,چی,치,뭐,what,pron,R1,N
+39,آمدن,어마단,오다,come,verb,R1,Y
+40,-ید,이드,2인칭 복수 어미,(2nd person plural ending),particle,R1,N
+41,خیلی,케일리,매우,very,adv,R1,N
+42,هم,함,또한,also,adv,R1,N
+43,را,러,목적격 조사,object marker,particle,R1,N
+44,دیدن,디단,보다,see,verb,R1,Y
+45,-ین,인,2인칭 복수 어미(구어),(2nd person plural ending),particle,R1,N
+46,برای,버러예,~을 위해,for,prep,R1,N
+47,-د,아드,3인칭 단수 어미,(3rd person singular ending),particle,R1,N
+48,تا,터,~까지,until,prep,R1,N
 49,زدن,자단,때리다,hit,verb,R1,Y
-50,توانستن,타버네스탄,할 수 있다,can,verb,R1,N
-51,دانستن,더네스탄,알다,know,verb,R1,N
-52,ایشان,이션,그분,he,pron,R1,N
-53,شما,쇼머,당신,you,pron,R1,N
-54,آنها,언허,그들,they,pron,R1,N
-55,خود,코드,자신,self,pron,R1,N
-56,الان,알런,지금,now,adv,R1,N
-57,حالا,헐러,이제,now,adv,R1,N
-58,بعد,바으드,후에,after,adv,R1,N
-59,قبل,가블,전에,before,adv,R1,N
-60,باید,버야드,해야 한다,must,verb,R1,N
-61,روز,루즈,날,day,noun,R1,Y
-62,سال,설,해,year,noun,R1,N
-63,چیز,치즈,것,thing,noun,R1,N
-64,خانه,커네,집,house,noun,R1,Y
-65,آدم,어담,사람,person,noun,R1,Y
-66,مردم,마르돔,사람들,people,noun,R1,Y
-67,دست,다스트,손,hand,noun,R1,Y
-68,سر,사르,머리,head,noun,R1,Y
-69,جا,저,자리,place,noun,R1,N
-70,وقت,바그트,시간,time,noun,R1,N
-71,امروز,엠루즈,오늘,today,adv,R1,N
-72,فردا,파르더,내일,tomorrow,adv,R1,N
-73,دیروز,디루즈,어제,yesterday,adv,R1,N
-74,شب,샤브,밤,night,noun,R1,Y
-75,صبح,소브,아침,morning,noun,R1,Y
-76,زیاد,지여드,많은,a lot,adj,R1,N
-77,کم,캄,적은,few,adj,R1,N
-78,بزرگ,보조르그,큰,big,adj,R1,Y
-79,کوچک,쿠체크,작은,small,adj,R1,Y
-80,خوش,코시,즐거운,pleasant,adj,R1,N
-81,خودم,코담,나 자신,myself,pron,R1,N
-82,پیش,피시,~앞에,before,prep,R1,N
-83,چند,찬드,몇,how many,adj,R1,N
-84,اینجا,인저,여기,here,adv,R1,N
-85,آنجا,언저,거기,there,adv,R1,N
-86,فقط,파가트,오직,only,adv,R1,N
-87,هنوز,하누즈,아직,still,adv,R1,N
-88,همین,하민,바로 이것,this same,pron,R1,N
-89,همان,하먼,바로 그것,same,pron,R1,N
-90,خیر,케이르,아니요,no,interj,R1,N
-91,ممنون,맘눈,고마워요,thanks,interj,R1,N
-92,مرسی,메르시,고마워,thank you,interj,R1,N
-93,سلام,살럼,안녕,hello,interj,R1,Y
-94,خداحافظ,코더허페즈,안녕히,goodbye,interj,R1,Y
-95,لطفا,로트판,부디,please,adv,R1,N
-96,ببخشید,베바크시드,죄송합니다,sorry,interj,R1,N
-97,باشه,버셰,좋아,okay,interj,R1,N
-98,آقا,어거,아저씨,mister,noun,R1,Y
-99,خانم,커놈,부인,lady,noun,R1,Y
-100,پول,풀,돈,money,noun,R1,Y
-101,آب,업,물,water,noun,R1,Y
-102,نان,넌,빵,bread,noun,R1,Y
-103,غذا,가저,음식,food,noun,R1,Y
-104,راه,러흐,길,road,noun,R1,Y
-105,زندگی,젠데기,삶,life,noun,R1,N
-106,دوست,두스트,친구,friend,noun,R1,Y
-107,کتاب,케텁,책,book,noun,R1,Y
-108,ماشین,머신,자동차,car,noun,R1,Y
-109,شهر,샤흐르,도시,city,noun,R1,Y
-110,کشور,케시바르,나라,country,noun,R1,Y
-111,ایران,이런,이란,iran,noun,R1,Y
-112,تهران,테흐런,테헤란,tehran,noun,R1,Y
-113,گرفتن,게레프탄,잡다,take,verb,R1,Y
-114,آوردن,어바르단,가져오다,bring,verb,R1,Y
-115,بردن,보르단,가져가다,carry,verb,R1,Y
-116,نوشتن,네베시탄,쓰다,write,verb,R1,Y
-117,خواندن,커단단,읽다,read,verb,R1,Y
-118,خوردن,코르단,먹다,eat,verb,R1,Y
-119,نشستن,네샤스탄,앉다,sit,verb,R1,Y
-120,ایستادن,이스터단,서다,stand,verb,R1,Y
-121,ماندن,먼단,머물다,stay,verb,R1,N
-122,فکر,페크르,생각,thought,noun,R1,N
-123,حرف,하르프,말,word,noun,R1,N
-124,گذاشتن,고저시탄,놓다,put,verb,R1,Y
-125,شنیدن,셰니단,듣다,hear,verb,R1,Y
-126,پرسیدن,포르시단,묻다,ask,verb,R1,N
-127,فهمیدن,파흐미단,이해하다,understand,verb,R1,N
-128,شناختن,셰너크탄,알아보다,recognize,verb,R1,N
-129,خریدن,카리단,사다,buy,verb,R1,Y
-130,فروختن,푸루크탄,팔다,sell,verb,R1,Y
-131,پوشیدن,푸시단,입다,wear,verb,R1,Y
-132,خوابیدن,커비단,자다,sleep,verb,R1,Y
-133,دو,도,둘,two,num,R1,N
-134,سه,세,셋,three,num,R1,N
-135,چهار,차허르,넷,four,num,R1,N
-136,پنج,판즈,다섯,five,num,R1,N
-137,شش,셰시,여섯,six,num,R1,N
-138,هفت,하프트,일곱,seven,num,R1,N
-139,هشت,하시트,여덟,eight,num,R1,N
-140,ده,다흐,열,ten,num,R1,N
-141,صفر,세프르,영,zero,num,R1,N
-142,بیست,비스트,이십,twenty,num,R1,N
-143,صد,사드,백,hundred,num,R1,N
-144,هزار,하저르,천,thousand,num,R1,N
-145,میلیون,밀리윤,백만,million,num,R1,N
-146,اول,아발,첫째,first,adj,R1,N
-147,دوم,도봄,둘째,second,adj,R1,N
-148,ساعت,서아트,시계,clock,noun,R1,Y
-149,دقیقه,다기게,분,minute,noun,R1,N
-150,ماه,머흐,달,moon,noun,R1,Y
-151,هفته,하프테,주,week,noun,R1,N
-152,پدر,페다르,아버지,father,noun,R1,Y
-153,مادر,머다르,어머니,mother,noun,R1,Y
-154,بابا,버버,아빠,dad,noun,R1,Y
-155,مامان,머먼,엄마,mom,noun,R1,Y
-156,برادر,바러다르,형제,brother,noun,R1,Y
-157,خواهر,커하르,자매,sister,noun,R1,Y
-158,بچه,바체,아이,child,noun,R1,Y
-159,پسر,페사르,소년,boy,noun,R1,Y
-160,دختر,도크타르,소녀,girl,noun,R1,Y
-161,زن,잔,여자,woman,noun,R1,Y
-162,مرد,마르드,남자,man,noun,R1,Y
-163,شوهر,쇼하르,남편,husband,noun,R1,Y
-164,خانواده,커네버데,가족,family,noun,R1,Y
-165,فامیل,퍼밀,친척,relatives,noun,R1,Y
-166,بالا,벌러,위,up,adv,R1,Y
-167,پایین,퍼이인,아래,down,adv,R1,Y
-168,بیرون,비룬,밖,outside,adv,R1,Y
-169,داخل,더켈,안,inside,adv,R1,Y
-170,جلو,젤로,앞,front,adv,R1,N
-171,عقب,아가브,뒤,back,adv,R1,N
-172,کنار,케너르,옆,beside,prep,R1,N
-173,پشت,포시트,뒤,behind,prep,R1,N
-174,روی,루예,~위에,on,prep,R1,Y
-175,زیر,지르,~아래에,under,prep,R1,Y
-176,وسط,바사트,가운데,middle,noun,R1,N
-177,نزدیک,나즈디크,가까운,near,adj,R1,N
-178,دور,두르,먼,far,adj,R1,N
-179,بد,바드,나쁜,bad,adj,R1,N
-180,درست,도로스트,옳은,correct,adj,R1,N
-181,غلط,갈라트,틀린,wrong,adj,R1,N
-182,راست,러스트,오른쪽,right,adj,R1,N
-183,چپ,차프,왼쪽,left,adj,R1,N
-184,نو,노우,새로운,new,adj,R1,N
-185,جدید,자디드,새로운,new,adj,R1,N
-186,قدیمی,가디미,오래된,old,adj,R1,N
-187,تازه,터제,신선한,fresh,adj,R1,N
-188,گرم,가름,따뜻한,warm,adj,R1,Y
-189,سرد,사르드,추운,cold,adj,R1,Y
-190,سخت,사크트,어려운,difficult,adj,R1,N
-191,آسان,어선,쉬운,easy,adj,R1,N
-192,ساده,서데,간단한,simple,adj,R1,N
-193,مهم,모헴,중요한,important,adj,R1,N
-194,لازم,러젬,필요한,necessary,adj,R1,N
-195,ممکن,몸켄,가능한,possible,adj,R1,N
-196,آماده,어머데,준비된,ready,adj,R1,N
-197,خسته,카스테,피곤한,tired,adj,R1,Y
-198,گرسنه,고로스네,배고픈,hungry,adj,R1,Y
-199,تشنه,테시네,목마른,thirsty,adj,R1,Y
-200,مریض,마리즈,아픈,sick,adj,R1,Y
-201,سالم,설렘,건강한,healthy,adj,R1,N
-202,خدا,코더,신,god,noun,R1,N
-203,دل,델,마음,heart,noun,R1,N
-204,جان,전,생명,soul,noun,R1,N
-205,چشم,체슘,눈,eye,noun,R1,Y
-206,صورت,수라트,얼굴,face,noun,R1,Y
-207,گوش,구시,귀,ear,noun,R1,Y
-208,دهان,다헌,입,mouth,noun,R1,Y
-209,پا,퍼,발,foot,noun,R1,Y
-210,بدن,바단,몸,body,noun,R1,Y
-211,مو,무,머리카락,hair,noun,R1,Y
-212,قلب,갈브,심장,heart,noun,R1,Y
-213,گفتگو,고프토구,대화,conversation,noun,R1,Y
-214,سوال,소얼,질문,question,noun,R1,N
-215,جواب,자버브,대답,answer,noun,R1,N
-216,اسم,에슴,이름,name,noun,R1,N
-217,مشکل,모시켈,문제,problem,noun,R1,N
-218,کمک,코마크,도움,help,noun,R1,Y
-219,فرق,파르그,차이,difference,noun,R1,N
-220,موضوع,모우주,주제,topic,noun,R1,N
-221,خبر,카바르,소식,news,noun,R1,N
-222,نظر,나자르,의견,opinion,noun,R1,N
-223,حال,헐,상태,condition,noun,R1,N
-224,حالت,헐라트,상태,state,noun,R1,N
-225,شکل,셰클,모양,shape,noun,R1,N
-226,جور,주르,종류,kind,noun,R1,N
-227,نوع,노으,종류,type,noun,R1,N
-228,طور,토우르,방식,way,noun,R1,N
-229,انجام,엔점,수행,doing,noun,R1,N
-230,شروع,쇼루,시작,start,noun,R1,N
-231,تمام,타멈,끝난,finished,adj,R1,N
-232,کامل,커멜,완전한,complete,adj,R1,N
-233,زنگ,장그,벨,bell,noun,R1,Y
-234,تلفن,텔레폰,전화,telephone,noun,R1,Y
-235,گوشی,구시,휴대폰,phone,noun,R1,Y
-236,پیام,파염,메시지,message,noun,R1,N
-237,عکس,악스,사진,photo,noun,R1,Y
-238,فیلم,필름,영화,movie,noun,R1,Y
-239,برنامه,바르너메,프로그램,program,noun,R1,N
-240,تلویزیون,텔레비지윤,텔레비전,television,noun,R1,Y
-241,اینترنت,인테르네트,인터넷,internet,noun,R1,N
-242,مدرسه,마드레세,학교,school,noun,R1,Y
-243,دانشگاه,더네시거흐,대학교,university,noun,R1,Y
-244,درس,다르스,수업,lesson,noun,R1,N
-245,معلم,모알렘,선생님,teacher,noun,R1,Y
-246,دانشجو,더네시주,대학생,student,noun,R1,Y
-247,شاگرد,셔게르드,학생,pupil,noun,R1,Y
-248,کلاس,켈러스,교실,classroom,noun,R1,Y
-249,امتحان,엠테헌,시험,exam,noun,R1,Y
-250,چای,처이,차,tea,noun,R1,Y
-251,قهوه,가흐베,커피,coffee,noun,R1,Y
-252,شیر,시르,우유,milk,noun,R1,Y
-253,گوشت,구시트,고기,meat,noun,R1,Y
-254,مرغ,모르그,닭,chicken,noun,R1,Y
-255,برنج,베렌즈,쌀,rice,noun,R1,Y
-256,میوه,메베,과일,fruit,noun,R1,Y
-257,سبزی,사브지,채소,vegetable,noun,R1,Y
-258,تخم,토큼,알,egg,noun,R1,Y
-259,نمک,나마크,소금,salt,noun,R1,Y
-260,شکر,셰카르,설탕,sugar,noun,R1,Y
-261,خیابان,키여번,거리,street,noun,R1,Y
-262,کوچه,쿠체,골목,alley,noun,R1,Y
-263,مغازه,마거제,가게,shop,noun,R1,Y
-264,بازار,버저르,시장,market,noun,R1,Y
-265,بیمارستان,비머레스턴,병원,hospital,noun,R1,Y
-266,دکتر,독토르,의사,doctor,noun,R1,Y
-267,داروخانه,더루커네,약국,pharmacy,noun,R1,Y
-268,بانک,벙크,은행,bank,noun,R1,Y
-269,رستوران,레스투런,식당,restaurant,noun,R1,Y
-270,هتل,호텔,호텔,hotel,noun,R1,Y
-271,فرودگاه,포루드거흐,공항,airport,noun,R1,Y
-272,ایستگاه,이스트거흐,역,station,noun,R1,Y
-273,اتوبوس,오토부스,버스,bus,noun,R1,Y
-274,تاکسی,턱시,택시,taxi,noun,R1,Y
-275,مترو,메트로,지하철,subway,noun,R1,Y
-276,قطار,가터르,기차,train,noun,R1,Y
-277,هواپیما,하버페이머,비행기,airplane,noun,R1,Y
-278,شنبه,샴베,토요일,saturday,noun,R1,N
-279,یکشنبه,예크샴베,일요일,sunday,noun,R1,N
-280,دوشنبه,도샴베,월요일,monday,noun,R1,N
-281,سه‌شنبه,세샴베,화요일,tuesday,noun,R1,N
-282,چهارشنبه,차허르샴베,수요일,wednesday,noun,R1,N
-283,پنجشنبه,판즈샴베,목요일,thursday,noun,R1,N
-284,جمعه,좀에,금요일,friday,noun,R1,N
-285,قرمز,게르메즈,빨간색,red,adj,R1,Y
-286,آبی,어비,파란색,blue,adj,R1,Y
-287,سبز,사브즈,초록색,green,adj,R1,Y
-288,زرد,자르드,노란색,yellow,adj,R1,Y
-289,سفید,세피드,흰색,white,adj,R1,Y
-290,سیاه,시여흐,검은색,black,adj,R1,Y
-291,مشکی,메시키,검은색,black,adj,R1,Y
-292,قهوه‌ای,가흐베이,갈색,brown,adj,R1,Y
-293,نارنجی,너렌지,주황색,orange,adj,R1,Y
-294,صورتی,수라티,분홍색,pink,adj,R1,Y
-295,بنفش,바나프시,보라색,purple,adj,R1,Y
-296,خاکستری,커케스타리,회색,gray,adj,R1,Y
-297,رنگ,랑그,색,color,noun,R1,Y
-298,ساختن,서크탄,짓다,build,verb,R1,Y
-299,نشان,네션,표시,sign,noun,R1,N
-300,باز,버즈,열린,open,adj,R1,Y
-301,بسته,바스테,닫힌,closed,adj,R1,Y
-302,رسیدن,레시단,도착하다,arrive,verb,R1,Y
-303,افتادن,오프터단,떨어지다,fall,verb,R1,Y
-304,برگشتن,바르가시탄,돌아오다,return,verb,R1,N
-305,گشتن,가시탄,찾아다니다,search,verb,R1,N
-306,شستن,쇼스탄,씻다,wash,verb,R1,Y
-307,پختن,포크탄,요리하다,cook,verb,R1,Y
-308,بستن,바스탄,닫다,close,verb,R1,Y
-309,کشیدن,케시단,당기다,pull,verb,R1,Y
-310,ریختن,리크탄,붓다,pour,verb,R1,Y
-311,انداختن,안더크탄,던지다,throw,verb,R1,Y
-312,پریدن,파리단,뛰어오르다,jump,verb,R1,Y
-313,دویدن,다비단,달리다,run,verb,R1,Y
-314,خندیدن,칸디단,웃다,laugh,verb,R1,Y
-315,گریه,게르예,울음,cry,noun,R1,Y
-316,شاید,셔야드,아마,maybe,adv,R1,N
-317,حتما,하트만,꼭,definitely,adv,R1,N
-318,واقعا,버게안,정말,really,adv,R1,N
-319,اصلا,아슬란,전혀,at all,adv,R1,N
-320,هیچ,히치,아무것도,nothing,pron,R1,N
-321,همیشه,하미셰,항상,always,adv,R1,N
-322,گاهی,거히,가끔,sometimes,adv,R1,N
-323,هرگز,하르게즈,결코,never,adv,R1,N
-324,معمولا,마물란,보통,usually,adv,R1,N
-325,زود,주드,일찍,early,adv,R1,N
-326,دیر,디르,늦게,late,adv,R1,N
-327,بیشتر,비시타르,더 많이,more,adv,R1,N
-328,کمتر,캄타르,더 적게,less,adv,R1,N
-329,بهتر,베흐타르,더 좋은,better,adj,R1,N
-330,بدتر,바드타르,더 나쁜,worse,adj,R1,N
-331,کاملا,커멜런,완전히,completely,adv,R1,N
-332,تقریبا,타그리반,거의,almost,adv,R1,N
-333,اینقدر,인가드르,이만큼,this much,adv,R1,N
-334,آنقدر,언가드르,그만큼,that much,adv,R1,N
-335,چقدر,체가드르,얼마나,how much,adv,R1,N
-336,چندتا,찬드터,몇 개,how many,adv,R1,N
-337,کدام,코덤,어느,which,pron,R1,N
-338,کسی,카시,누군가,someone,pron,R1,N
-339,چیزی,치지,무언가,something,pron,R1,N
-340,همه‌چیز,하메치즈,모든 것,everything,pron,R1,N
-341,هیچ‌کس,히치카스,아무도,nobody,pron,R1,N
-342,یکی,예키,하나,one,pron,R1,N
-343,بعضی,바지,일부,some,pron,R1,N
-344,هردو,하르도,둘 다,both,pron,R1,N
-345,بین,베인,사이,between,prep,R1,N
-346,مثل,메슬,~처럼,like,prep,R1,N
-347,مانند,머난드,~와 같이,like,prep,R1,N
-348,بدون,베둔,~없이,without,prep,R1,N
-349,جز,조즈,~외에,except,prep,R1,N
-350,طرف,타라프,쪽,side,noun,R1,N
-351,درباره,다르버레,~에 대해,about,prep,R1,N
-352,دنبال,돈벌,뒤,after,prep,R1,N
-353,سمت,사므트,방향,direction,noun,R1,N
-354,توی,투예,~안에,in,prep,R1,N
-355,پس,파스,그러면,so,conj,R1,N
-356,بنابراین,바너바린,그러므로,therefore,conj,R1,N
-357,البته,알바테,물론,of course,adv,R1,N
-358,یعنی,야으니,즉,that is,conj,R1,N
-359,مثلا,마살란,예를 들어,for example,adv,R1,N
-360,آخر,어케르,마지막,last,adj,R1,N
-361,بلکه,발케,오히려,but rather,conj,R1,N
-362,وگرنه,바가르나,그렇지 않으면,otherwise,conj,R1,N
-363,اینکه,인케,~라는 것,that,conj,R1,N
-364,چونکه,춘케,왜냐하면,because,conj,R1,N
-365,خوشحال,코시헐,기쁜,happy,adj,R1,Y
-366,ناراحت,너러하트,속상한,upset,adj,R1,Y
-367,عصبانی,아사버니,화난,angry,adj,R1,Y
-368,نگران,네가런,걱정하는,worried,adj,R1,Y
-369,خوشگل,코시겔,예쁜,pretty,adj,R1,N
-370,زیبا,지버,아름다운,beautiful,adj,R1,N
-371,قشنگ,가샹,예쁜,pretty,adj,R1,N
-372,زشت,제시트,못생긴,ugly,adj,R1,N
-373,بلند,볼란드,키 큰,tall,adj,R1,Y
-374,کوتاه,쿠터흐,짧은,short,adj,R1,Y
-375,چاق,처그,뚱뚱한,fat,adj,R1,Y
-376,لاغر,러가르,마른,thin,adj,R1,Y
-377,پیر,피르,늙은,old,adj,R1,Y
-378,جوان,자번,젊은,young,adj,R1,Y
-379,ارزان,아르전,싼,cheap,adj,R1,N
-380,گران,게런,비싼,expensive,adj,R1,N
-381,تمیز,타미즈,깨끗한,clean,adj,R1,Y
-382,کثیف,카시프,더러운,dirty,adj,R1,Y
-383,شلوغ,숄루그,붐비는,crowded,adj,R1,Y
-384,خلوت,칼바트,한산한,quiet,adj,R1,N
-385,پر,포르,가득한,full,adj,R1,Y
-386,خالی,컬리,빈,empty,adj,R1,Y
-387,مطمئن,모트마엔,확신하는,sure,adj,R1,N
-388,عزیز,아지즈,소중한,dear,adj,R1,N
-389,جالب,절레브,흥미로운,interesting,adj,R1,N
-390,عجیب,아지브,이상한,strange,adj,R1,N
-391,معروف,마루프,유명한,famous,adj,R1,N
-392,مشغول,마시굴,바쁜,busy,adj,R1,N
-393,آزاد,어저드,자유로운,free,adj,R1,N
-394,راحت,러하트,편한,comfortable,adj,R1,N
-395,سریع,사리,빠른,fast,adj,R1,N
-396,آهسته,어헤스테,천천히,slowly,adv,R1,N
-397,یواش,야버시,천천히,slowly,adv,R1,N
-398,آرام,어럼,조용한,calm,adj,R1,N
-399,بیدار,비더르,깨어 있는,awake,adj,R1,Y
-400,مست,마스트,취한,drunk,adj,R1,Y
-401,ساکت,서케트,조용한,quiet,adj,R1,N
-402,حس,헤스,느낌,feeling,noun,R1,N
-403,احساس,에흐서스,감정,feeling,noun,R1,N
-404,عشق,에시그,사랑,love,noun,R1,Y
-405,محبت,마합바트,애정,affection,noun,R1,N
-406,ترس,타르스,두려움,fear,noun,R1,N
-407,امید,오미드,희망,hope,noun,R1,N
-408,شانس,션스,운,luck,noun,R1,N
-409,خوشبختی,코시바크티,행복,happiness,noun,R1,N
-410,غم,감,슬픔,sadness,noun,R1,N
-411,شادی,서디,기쁨,joy,noun,R1,N
-412,خنده,칸데,웃음,laugh,noun,R1,Y
-413,اتاق,오터그,방,room,noun,R1,Y
-414,آشپزخانه,어시파즈커네,부엌,kitchen,noun,R1,Y
-415,حمام,함멈,욕실,bathroom,noun,R1,Y
-416,دستشویی,다스트쇼이,화장실,toilet,noun,R2,Y
-417,پنجره,판자레,창문,window,noun,R2,Y
-418,دیوار,디버르,벽,wall,noun,R2,Y
-419,میز,미즈,책상,table,noun,R2,Y
-420,صندلی,산달리,의자,chair,noun,R2,Y
-421,تخت,타크트,침대,bed,noun,R2,Y
-422,فرش,파르시,양탄자,carpet,noun,R2,Y
-423,کلید,켈리드,열쇠,key,noun,R2,Y
-424,چراغ,체러그,등,lamp,noun,R2,Y
-425,یخچال,야크철,냉장고,refrigerator,noun,R2,Y
-426,کیف,키프,가방,bag,noun,R2,Y
-427,کفش,카프시,신발,shoes,noun,R2,Y
-428,لباس,레버스,옷,clothes,noun,R2,Y
-429,پیراهن,피러한,셔츠,shirt,noun,R2,Y
-430,شلوار,샬버르,바지,pants,noun,R2,Y
-431,کت,카트,재킷,jacket,noun,R2,Y
-432,کلاه,콜러흐,모자,hat,noun,R2,Y
-433,جوراب,주러브,양말,socks,noun,R2,Y
-434,عینک,에이나크,안경,glasses,noun,R2,Y
-435,دلار,돌러르,달러,dollar,noun,R2,Y
-436,تومان,토먼,토만,toman,noun,R2,N
-437,ریال,리열,리알,rial,noun,R2,N
-438,قیمت,게이마트,가격,price,noun,R2,N
-439,حساب,헤서브,계산,account,noun,R2,N
-440,کارت,커르트,카드,card,noun,R2,Y
-441,خرید,카리드,쇼핑,shopping,noun,R2,Y
-442,فروش,포루시,판매,sale,noun,R2,N
-443,پرداخت,파르더크트,지불,payment,noun,R2,N
-444,هوا,하버,공기,air,noun,R2,N
-445,باران,버런,비,rain,noun,R2,Y
-446,برف,바르프,눈(날씨),snow,noun,R2,Y
-447,آفتاب,어프터브,햇빛,sun,noun,R2,Y
-448,باد,버드,바람,wind,noun,R2,Y
-449,ابر,아브르,구름,cloud,noun,R2,Y
-450,آسمان,어세먼,하늘,sky,noun,R2,Y
-451,زمین,자민,땅,earth,noun,R2,Y
-452,دریا,다르여,바다,sea,noun,R2,Y
-453,کوه,쿠흐,산,mountain,noun,R2,Y
-454,رود,루드,강,river,noun,R2,Y
-455,جنگل,장갈,숲,forest,noun,R2,Y
-456,درخت,데라크트,나무,tree,noun,R2,Y
-457,گل,골,꽃,flower,noun,R2,Y
-458,سگ,사그,개,dog,noun,R2,Y
-459,گربه,고르베,고양이,cat,noun,R2,Y
-460,اسب,아스브,말(동물),horse,noun,R2,Y
-461,پرنده,파란데,새,bird,noun,R2,Y
-462,ماهی,머히,물고기,fish,noun,R2,Y
-463,گاو,거브,소,cow,noun,R2,Y
-464,گوسفند,구스판드,양,sheep,noun,R2,Y
-465,سرما,사르머,추위,cold,noun,R2,Y
-466,گرما,가르머,더위,heat,noun,R2,Y
-467,بهار,바허르,봄,spring,noun,R2,Y
-468,تابستان,터베스턴,여름,summer,noun,R2,Y
-469,پاییز,퍼이즈,가을,autumn,noun,R2,Y
-470,زمستان,제메스턴,겨울,winter,noun,R2,Y
-471,فصل,파슬,계절,season,noun,R2,N
-472,دفتر,다프타르,공책,notebook,noun,R2,Y
-473,شرکت,쇼르카트,회사,company,noun,R2,Y
-474,اداره,에더레,사무소,office,noun,R2,N
-475,کارمند,커르만드,직원,employee,noun,R2,Y
-476,رئیس,라이스,우두머리,boss,noun,R2,Y
-477,مدیر,모디르,관리자,manager,noun,R2,N
-478,کارگر,커르가르,노동자,worker,noun,R2,Y
-479,شغل,쇼글,직업,job,noun,R2,N
-480,حقوق,호구그,월급,salary,noun,R2,N
-481,مسافرت,모서페라트,여행,trip,noun,R2,Y
-482,سفر,사파르,여행,travel,noun,R2,Y
-483,بلیط,벨리트,표,ticket,noun,R2,Y
-484,پاسپورت,퍼스포르트,여권,passport,noun,R2,Y
-485,چمدان,차메던,여행 가방,suitcase,noun,R2,Y
-486,بیماری,비머리,질병,disease,noun,R2,N
-487,درد,다르드,아픔,pain,noun,R2,N
-488,دارو,더루,약,medicine,noun,R2,Y
-489,سرماخوردگی,사르머코르데기,감기,cold,noun,R2,Y
-490,تب,타브,열,fever,noun,R2,Y
-491,سردرد,사르다르드,두통,headache,noun,R2,Y
-492,آشنا,어시너,아는,acquainted,adj,R2,N
-493,مهمان,메흐먼,손님,guest,noun,R2,Y
-494,همسایه,함서예,이웃,neighbor,noun,R2,Y
-495,همکار,함커르,동료,colleague,noun,R2,Y
-496,رفیق,라피그,친구,friend,noun,R2,Y
-497,ورزش,바르제시,운동,sport,noun,R2,Y
-498,فوتبال,푸트벌,축구,soccer,noun,R2,Y
-499,بازی,버지,놀이,game,noun,R2,Y
-500,تیم,팀,팀,team,noun,R2,Y
-501,توپ,투프,공,ball,noun,R2,Y
-502,موسیقی,무시기,음악,music,noun,R2,Y
-503,آهنگ,어항그,노래,song,noun,R2,Y
-504,صدا,세더,소리,sound,noun,R2,N
-505,خواننده,커난데,가수,singer,noun,R2,Y
-506,ساز,서즈,악기,instrument,noun,R2,Y
-507,فارسی,퍼르시,페르시아어,persian,noun,R2,N
-508,انگلیسی,잉길리시,영어,english,noun,R2,N
-509,زبان,자번,언어,language,noun,R2,N
-510,کلمه,칼라메,단어,word,noun,R2,N
-511,جمله,좀레,문장,sentence,noun,R2,N
-512,معنی,마너,의미,meaning,noun,R2,N
-513,شماره,쇼머레,번호,number,noun,R2,Y
-514,آدرس,어드레스,주소,address,noun,R2,N
-515,نشانی,네셔니,주소,address,noun,R2,N
-516,خواهش,커헤시,부탁,request,noun,R2,N
-517,تشکر,타샤코르,감사,thanks,noun,R2,N
-518,عذرخواهی,오즈르커히,사과(사죄),apology,noun,R2,N
-519,تبریک,타브리크,축하,congratulations,noun,R2,N
-520,مادربزرگ,머다르보조르그,할머니,grandmother,noun,R2,Y
-521,پدربزرگ,페다르보조르그,할아버지,grandfather,noun,R2,Y
-522,عمو,아무,삼촌,uncle,noun,R2,Y
-523,دایی,더이,외삼촌,uncle,noun,R2,Y
-524,خاله,컬레,이모,aunt,noun,R2,Y
-525,عمه,암메,고모,aunt,noun,R2,Y
-526,پسرعمو,파사르아무,사촌,cousin,noun,R2,Y
-527,نوه,나베,손주,grandchild,noun,R2,Y
-528,دندان,단던,이(치아),tooth,noun,R2,Y
-529,بینی,비니,코,nose,noun,R2,Y
-530,لب,라브,입술,lip,noun,R2,Y
-531,گردن,가르단,목,neck,noun,R2,Y
-532,شانه,셔네,어깨,shoulder,noun,R2,Y
-533,کمر,카마르,허리,waist,noun,R2,Y
-534,شکم,셰캄,배(신체),belly,noun,R2,Y
-535,زانو,저누,무릎,knee,noun,R2,Y
-536,انگشت,앙고슈트,손가락,finger,noun,R2,Y
-537,پوست,푸스트,피부,skin,noun,R2,Y
-538,خون,쿤,피,blood,noun,R2,Y
-539,استخوان,오스토컨,뼈,bone,noun,R2,Y
-540,صبحانه,솝허네,아침밥,breakfast,noun,R2,Y
-541,ناهار,너허르,점심밥,lunch,noun,R2,Y
-542,شام,셤,저녁식사,dinner,noun,R2,Y
-543,سیب,시브,사과,apple,noun,R2,Y
-544,پرتقال,포르테걸,오렌지,orange,noun,R2,Y
-545,موز,모즈,바나나,banana,noun,R2,Y
-546,هندوانه,헨데버네,수박,watermelon,noun,R2,Y
-547,خیار,키여르,오이,cucumber,noun,R2,Y
-548,گوجه,고제,토마토,tomato,noun,R2,Y
-549,پیاز,피여즈,양파,onion,noun,R2,Y
-550,سیب‌زمینی,시브자미니,감자,potato,noun,R2,Y
-551,پنیر,파니르,치즈,cheese,noun,R2,Y
-552,کره,카레,버터,butter,noun,R2,Y
-553,ماست,머스트,요구르트,yogurt,noun,R2,Y
-554,تخم‌مرغ,토크모르그,달걀,egg,noun,R2,Y
-555,کباب,카법,케밥,kebab,noun,R2,Y
-556,نوشابه,누셔베,탄산음료,soda,noun,R2,Y
-557,بستنی,바스타니,아이스크림,ice cream,noun,R2,Y
-558,کیک,케이크,케이크,cake,noun,R2,Y
-559,شیرینی,시리니,과자,sweets,noun,R2,Y
-560,بشقاب,보시거브,접시,plate,noun,R2,Y
-561,لیوان,리번,컵,glass,noun,R2,Y
-562,قاشق,거소그,숟가락,spoon,noun,R2,Y
-563,چنگال,찬걸,포크,fork,noun,R2,Y
-564,چاقو,처구,칼,knife,noun,R2,Y
-565,پیدا,페이더,발견된,found,adj,R2,N
-566,گم,곰,잃어버린,lost,adj,R2,N
-567,خاموش,커무시,꺼진,off,adj,R2,N
-568,روشن,로샨,밝은,bright,adj,R2,N
-569,اجازه,에저제,허락,permission,noun,R2,N
-570,قول,고울,약속,promise,noun,R2,N
-571,دروغ,도루그,거짓말,lie,noun,R2,N
-572,حقیقت,하기가트,진실,truth,noun,R2,N
-573,دنیا,도니여,세상,world,noun,R2,Y
-574,جهان,저헌,세계,world,noun,R2,Y
-575,تاریخ,터리크,역사,history,noun,R2,N
-576,فرهنگ,파르항그,문화,culture,noun,R2,N
-577,هنر,호나르,예술,art,noun,R2,N
-578,علم,엘름,과학,science,noun,R2,N
-579,سیاست,시여사트,정치,politics,noun,R2,N
-580,دولت,돌라트,정부,government,noun,R2,N
-581,مجلس,마즐레스,의회,parliament,noun,R2,Y
-582,رئیس‌جمهور,라이스좀후르,대통령,president,noun,R2,Y
-583,وزیر,바지르,장관,minister,noun,R2,N
-584,انتخابات,엔테커버트,선거,election,noun,R2,N
-585,قانون,거눈,법,law,noun,R2,N
-586,حق,하그,권리,right,noun,R2,N
-587,جامعه,저메에,사회,society,noun,R2,N
-588,اقتصاد,에그테서드,경제,economy,noun,R2,N
-589,جنگ,장그,전쟁,war,noun,R2,Y
-590,صلح,솔흐,평화,peace,noun,R2,N
-591,ارتش,아르타시,군대,army,noun,R2,Y
-592,پلیس,폴리스,경찰,police,noun,R2,Y
-593,بچگی,바체기,어린 시절,childhood,noun,R2,N
-594,مرگ,마르그,죽음,death,noun,R2,N
-595,تولد,타발로드,생일,birthday,noun,R2,Y
-596,عروسی,아루시,결혼식,wedding,noun,R2,Y
-597,جشن,자신,축하 잔치,celebration,noun,R2,Y
-598,عید,에이드,명절,holiday,noun,R2,N
-599,نوروز,노우루즈,노루즈,nowruz,noun,R2,N
-600,تعطیلات,타틸러트,휴가,vacation,noun,R2,N
-601,داستان,더스턴,이야기,story,noun,R2,N
-602,قصه,게세,이야기,story,noun,R2,N
-603,شعر,셰르,시,poem,noun,R2,N
-604,روزنامه,루즈너메,신문,newspaper,noun,R3,Y
-605,مجله,마잘레,잡지,magazine,noun,R3,Y
-606,کامپیوتر,컴퓨테르,컴퓨터,computer,noun,R3,Y
-607,نرم‌افزار,나름아프저르,소프트웨어,software,noun,R3,N
-608,سایت,서이트,사이트,website,noun,R3,N
-609,صفحه,사프헤,페이지,page,noun,R3,Y
-610,مرکز,마르카즈,중심,center,noun,R3,N
-611,محل,마할,장소,place,noun,R3,N
-612,منطقه,만타게,지역,region,noun,R3,N
-613,شمال,쇼멀,북쪽,north,noun,R3,N
-614,جنوب,조누브,남쪽,south,noun,R3,N
-615,شرق,샤르그,동쪽,east,noun,R3,N
-616,غرب,가르브,서쪽,west,noun,R3,N
-617,لحظه,라흐제,순간,moment,noun,R3,N
-618,مدت,모다트,기간,duration,noun,R3,N
-619,دوره,도레,기간,period,noun,R3,N
-620,زمان,자먼,시간,time,noun,R3,N
-621,نفر,나파르,명,person,noun,R3,N
-622,تعداد,타으더드,수,number,noun,R3,N
-623,عدد,아다드,숫자,number,noun,R3,N
-624,مقدار,메그더르,양,amount,noun,R3,N
-625,درصد,다르사드,퍼센트,percent,noun,R3,N
-626,کافی,커피,충분한,enough,adj,R3,N
-627,بیش,비시,이상,more,adv,R3,N
-628,حداقل,하데아갈,최소한,at least,adv,R3,N
-629,حداکثر,하데악사르,최대한,at most,adv,R3,N
-630,فرستادن,페레스터단,보내다,send,verb,R3,N
-631,رساندن,레선단,데려다주다,deliver,verb,R3,N
-632,نگه‌داشتن,네가흐더시탄,유지하다,keep,verb,R3,N
-633,نگاه,네거흐,봄,look,noun,R3,Y
-634,پوشاندن,푸션단,덮다,cover,verb,R3,Y
-635,گذشتن,고자시탄,지나가다,pass,verb,R3,N
-636,کشتن,코슈탄,죽이다,kill,verb,R3,N
-637,مردن,모르단,죽다,die,verb,R3,N
-638,زاییدن,저이단,낳다,give birth,verb,R3,N
-639,خواباندن,커번단,재우다,put to sleep,verb,R3,Y
-640,ترسیدن,타르시단,무서워하다,fear,verb,R3,Y
-641,ترساندن,타르선단,겁주다,frighten,verb,R3,N
-642,رقصیدن,라그시단,춤추다,dance,verb,R3,Y
-643,باختن,버크탄,지다,lose,verb,R3,N
-644,جنگیدن,잔기단,싸우다,fight,verb,R3,Y
-645,کوشیدن,쿠시단,노력하다,try,verb,R3,N
-646,پذیرفتن,파지로프탄,받아들이다,accept,verb,R3,N
-647,نامیدن,너미단,이름 붙이다,name,verb,R3,N
-648,شمردن,쇼모르단,세다,count,verb,R3,N
-649,سنجیدن,산지단,재다,measure,verb,R3,N
-650,آموختن,어무크탄,배우다,learn,verb,R3,N
-651,یاد,여드,기억,memory,noun,R3,N
-652,فراموش,파러무시,잊힌,forgotten,adj,R3,N
-653,سپردن,세포르단,맡기다,entrust,verb,R3,N
-654,چیدن,치단,따다,pick,verb,R3,Y
-655,کندن,칸단,파다,dig,verb,R3,Y
-656,کاشتن,커시탄,심다,plant,verb,R3,Y
-657,دوختن,두크탄,꿰매다,sew,verb,R3,Y
-658,بافتن,버프탄,뜨개질하다,knit,verb,R3,Y
-659,پسندیدن,파산디단,마음에 들다,like,verb,R3,N
-660,رنجیدن,란지단,상처받다,be offended,verb,R3,N
-661,لرزیدن,라르지단,떨다,shake,verb,R3,Y
-662,چرخیدن,차르키단,돌다,spin,verb,R3,Y
-663,غلتیدن,갈티단,구르다,roll,verb,R3,Y
-664,خزیدن,카지단,기다,crawl,verb,R3,Y
-665,جوشیدن,주시단,끓다,boil,verb,R3,Y
-666,سوختن,수크탄,타다,burn,verb,R3,Y
-667,سوزاندن,수전단,태우다,burn,verb,R3,Y
-668,شکستن,셰카스탄,깨다,break,verb,R3,Y
-669,بریدن,보리단,자르다,cut,verb,R3,Y
-670,فشردن,페샤르단,누르다,press,verb,R3,Y
-671,گزیدن,가지단,물다,bite,verb,R3,Y
-672,مالیدن,멀리단,문지르다,rub,verb,R3,Y
-673,آویختن,어비크탄,걸다,hang,verb,R3,Y
-674,دزدیدن,도즈디단,훔치다,steal,verb,R3,Y
-675,جستن,자스탄,뛰어오르다,jump,verb,R3,Y
-676,رستن,라스탄,벗어나다,escape,verb,R3,N
-677,رها,라허,풀려난,free,adj,R3,N
-678,گریختن,고리크탄,도망치다,flee,verb,R3,Y
-679,چسبیدن,차스비단,붙다,stick,verb,R3,N
-680,کوبیدن,쿠비단,두드리다,pound,verb,R3,Y
-681,ریسیدن,리시단,실을 잣다,spin,verb,R3,Y
-682,تابیدن,터비단,비추다,shine,verb,R3,Y
-683,درخشیدن,데라크시단,빛나다,shine,verb,R3,Y
-684,وزیدن,바지단,불다(바람),blow,verb,R3,Y
-685,باریدن,버리단,내리다(비),rain,verb,R3,Y
-686,اتفاق,에테퍼그,사건,event,noun,R3,N
-687,تصمیم,타스밈,결정,decision,noun,R3,N
-688,تصمیم‌گیری,타스밈기리,의사 결정,decision,noun,R3,N
-689,تغییر,타기르,변화,change,noun,R3,N
-690,پیشرفت,피시라프트,발전,progress,noun,R3,N
-691,نتیجه,나티제,결과,result,noun,R3,N
-692,دلیل,달릴,이유,reason,noun,R3,N
-693,علت,엘라트,원인,cause,noun,R3,N
-694,هدف,하다프,목표,goal,noun,R3,N
-695,راه‌حل,러흐할,해결책,solution,noun,R3,N
-696,فرصت,포르사트,기회,opportunity,noun,R3,N
-697,امکان,엠컨,가능성,possibility,noun,R3,N
-698,آینده,어얀데,미래,future,noun,R3,N
-699,گذشته,고자슈테,과거,past,noun,R3,N
-700,اکنون,아크눈,지금,now,adv,R3,N
-701,تجربه,타제로베,경험,experience,noun,R3,N
-702,مهارت,마허라트,기술,skill,noun,R3,N
-703,توانایی,타버너이,능력,ability,noun,R3,N
-704,دانش,더네시,지식,knowledge,noun,R3,N
-705,رابطه,러베테,관계,relationship,noun,R3,N
-706,ارتباط,에르테버트,연결,connection,noun,R3,N
-707,تماس,타머스,연락,contact,noun,R3,N
-708,جلسه,잘라세,회의,meeting,noun,R3,Y
-709,قرار,가러르,약속,appointment,noun,R3,N
-710,سلامت,살러마트,건강,health,noun,R3,N
-711,سلامتی,살러마티,건강,health,noun,R3,N
-712,بهداشت,베흐더시트,위생,hygiene,noun,R3,N
-713,خطر,카타르,위험,danger,noun,R3,N
-714,امنیت,암니야트,안전,security,noun,R3,N
-715,آرامش,어러메시,평온,calm,noun,R3,N
-716,سرعت,소라트,속도,speed,noun,R3,N
-717,فاصله,퍼셀레,거리,distance,noun,R3,N
-718,اندازه,안더제,크기,size,noun,R3,N
-719,وزن,바즌,무게,weight,noun,R3,N
-720,قد,가드,키,height,noun,R3,Y
-721,ارزش,아르제시,가치,value,noun,R3,N
-722,اهمیت,아하미야트,중요성,importance,noun,R3,N
-723,معنا,마너,의미,meaning,noun,R3,N
-724,خواب,커브,잠,sleep,noun,R3,Y
-725,رویا,로여,꿈,dream,noun,R3,N
-726,قسمت,게스마트,부분,part,noun,R3,N
-727,بخش,바크시,부분,part,noun,R3,N
-728,تکه,테케,조각,piece,noun,R3,Y
-729,کل,콜,전체,whole,adj,R3,N
-730,پایان,퍼연,끝,end,noun,R3,N
-731,آغاز,어거즈,시작,beginning,noun,R3,N
-732,کیلو,킬로,킬로,kilo,noun,R3,N
-733,متر,메트르,미터,meter,noun,R3,N
-734,کیلومتر,킬로메트르,킬로미터,kilometer,noun,R3,N
-735,لیتر,리트르,리터,liter,noun,R3,N
-736,کودک,쿠다크,아이,child,noun,R3,Y
-737,نوزاد,노우저드,아기,baby,noun,R3,Y
-738,بزرگسال,보조르그설,어른,adult,noun,R3,Y
-739,مسجد,마스제드,모스크,mosque,noun,R3,Y
-740,کلیسا,켈리서,교회,church,noun,R3,Y
-741,پارک,퍼르크,공원,park,noun,R3,Y
-742,باغ,버그,정원,garden,noun,R3,Y
-743,میدان,메이던,광장,square,noun,R3,Y
-744,پل,폴,다리,bridge,noun,R3,Y
-745,ساختمان,서크테먼,건물,building,noun,R3,Y
-746,برج,보르즈,탑,tower,noun,R3,Y
-747,سینما,시나머,영화관,cinema,noun,R3,Y
-748,تئاتر,테어트르,극장,theater,noun,R3,Y
-749,موزه,무제,박물관,museum,noun,R3,Y
-750,کتابخانه,케터브커네,도서관,library,noun,R3,Y
-751,روستا,루스터,마을,village,noun,R3,Y
-752,استان,오스턴,주,province,noun,R3,N
-753,فروشگاه,포루슈거흐,상점,store,noun,R3,Y
-754,سوپرمارکت,수페르머르케트,슈퍼마켓,supermarket,noun,R3,Y
-755,نانوایی,넌버이,빵집,bakery,noun,R3,Y
-756,قصابی,가써비,정육점,butcher shop,noun,R3,Y
-757,جاروبرقی,저루바르기,청소기,vacuum cleaner,noun,R3,Y
-758,اجاق,오저그,화덕,stove,noun,R3,Y
-759,کلوچه,콜루체,쿠키,cookie,noun,R3,Y
-760,آش,어시,걸쭉한 수프,thick soup,noun,R3,Y
-761,سوپ,수프,수프,soup,noun,R3,Y
-762,خورش,코레시,스튜,stew,noun,R3,Y
-763,قورمه‌سبزی,고르메삽지,허브 스튜,herb stew,noun,R3,Y
-764,چلوکباب,첼로커법,케밥 덮밥,kebab with rice,noun,R3,Y
-765,دوغ,두그,요구르트 음료,yogurt drink,noun,R3,Y
-766,ادویه,아드비예,향신료,spice,noun,R3,Y
-767,زعفران,자프런,사프란,saffron,noun,R3,Y
-768,فلفل,펠펠,후추,pepper,noun,R3,Y
-769,روغن,로간,기름,oil,noun,R3,Y
-770,سرکه,세르케,식초,vinegar,noun,R3,Y
-771,عسل,아살,꿀,honey,noun,R3,Y
-772,آلبالو,얼벌루,신 체리,sour cherry,noun,R3,Y
-773,انگور,안구르,포도,grape,noun,R3,Y
-774,هلو,홀루,복숭아,peach,noun,R3,Y
-775,گیلاس,길러스,체리,cherry,noun,R3,Y
-776,انار,아너르,석류,pomegranate,noun,R3,Y
-777,خرما,코르머,대추야자,date,noun,R3,Y
-778,زردآلو,자르덜루,살구,apricot,noun,R3,Y
-779,کاهو,커후,상추,lettuce,noun,R3,Y
-780,هویج,하비즈,당근,carrot,noun,R3,Y
-781,بادمجان,버뎀전,가지,eggplant,noun,R3,Y
-782,کدو,카두,호박,pumpkin,noun,R3,Y
-783,لوبیا,루비여,콩,bean,noun,R3,Y
-784,عدس,아다스,렌틸콩,lentil,noun,R3,Y
-785,نخود,노코드,병아리콩,chickpea,noun,R3,Y
-786,مورد,모레드,경우,case,noun,R3,N
-787,طریق,타리그,방법,way,noun,R3,N
-788,جهت,제하트,방향,direction,noun,R3,N
-789,لحاظ,라허즈,관점,aspect,noun,R3,N
-790,نظیر,나지르,~와 같은,like,prep,R3,N
-791,شامل,셔멜,포함하는,including,adj,R3,N
-792,علاوه,알러베,게다가,besides,adv,R3,N
-793,ضمن,제믄,~하는 동안,while,prep,R3,N
-794,طبق,타바그,~에 따라,according to,prep,R3,N
-795,براساس,바라서스,~에 근거해,based on,prep,R3,N
-796,توسط,타바소트,~에 의해,by,prep,R3,N
-797,اصلی,아슬리,주요한,main,adj,R3,N
-798,کلی,콜리,전반적,general,adj,R3,N
-799,خاص,커스,특별한,special,adj,R3,N
-800,عمومی,오무미,공공의,public,adj,R3,N
-801,شخصی,샤크시,개인적,personal,adj,R3,N
-802,ملی,멜리,국가의,national,adj,R3,N
-803,بین‌المللی,베이놀멜랄리,국제적,international,adj,R3,N
-804,اجتماعی,에제머이,사회적,social,adj,R3,N
-805,اقتصادی,에그테서디,경제적,economic,adj,R3,N
-806,سیاسی,시여시,정치적,political,adj,R3,N
-807,فرهنگی,파르항기,문화의,cultural,adj,R3,N
-808,علمی,엘미,과학의,scientific,adj,R3,N
-809,دینی,디니,종교의,religious,adj,R3,N
-810,مذهبی,마즈하비,종교적인,religious,adj,R3,N
-811,تاریخی,터리키,역사적,historical,adj,R3,N
-812,مختلف,모크탈레프,다양한,various,adj,R3,N
-813,متفاوت,모타퍼베트,다른,different,adj,R3,N
-814,مشابه,모셔베흐,비슷한,similar,adj,R3,N
-815,یکسان,예크선,똑같은,same,adj,R3,N
-816,برابر,바러바르,동등한,equal,adj,R3,N
-817,مساوی,모서비,같은,equal,adj,R3,N
-818,بسیار,베시여르,매우,very,adv,R3,N
-819,کمی,카미,조금,a little,adv,R3,N
-820,نسبتا,네스바탄,비교적,relatively,adv,R3,N
-821,قبلی,가블리,이전의,previous,adj,R3,N
-822,بعدی,바디,다음,next,adj,R3,N
-823,آخرین,어케린,마지막의,last,adj,R3,N
-824,اولین,아발린,첫 번째,first,adj,R3,N
-825,نخستین,노코스틴,최초의,first,adj,R3,N
-826,داخلی,더켈리,국내의,domestic,adj,R3,N
-827,خارجی,커레지,외국의,foreign,adj,R3,N
-828,محلی,마할리,지역의,local,adj,R3,N
-829,جهانی,저허니,세계적인,global,adj,R3,N
-830,مثبت,모스바트,긍정적,positive,adj,R3,N
-831,منفی,만피,부정적,negative,adj,R3,N
-832,عالی,얼리,훌륭한,great,adj,R3,N
-833,بی‌نظیر,비나지르,비할 데 없는,unique,adj,R3,N
-834,فوق‌العاده,포골러데,굉장한,amazing,adj,R3,N
-835,افتضاح,에프테저흐,끔찍한,terrible,adj,R3,N
-836,قوی,가비,강한,strong,adj,R3,N
-837,ضعیف,자이프,약한,weak,adj,R3,N
-838,سنگین,산긴,무거운,heavy,adj,R3,N
-839,سبک,사보크,가벼운,light,adj,R3,N
-840,عمیق,아미그,깊은,deep,adj,R3,N
-841,پهن,파흔,넓은,wide,adj,R3,N
-842,باریک,버리크,좁은,narrow,adj,R3,N
-843,صاف,서프,매끈한,smooth,adj,R3,N
-844,گرد,게르드,둥근,round,adj,R3,Y
-845,تاریک,터리크,어두운,dark,adj,R3,Y
-846,خیس,키스,젖은,wet,adj,R3,Y
-847,خشک,코시크,마른,dry,adj,R3,N
-848,تند,톤드,매운,spicy,adj,R3,N
-849,شور,슈르,짠,salty,adj,R3,N
-850,شیرین,시린,달콤한,sweet,adj,R3,N
-851,تلخ,탈크,쓴,bitter,adj,R3,N
-852,ترش,토르시,신,sour,adj,R3,N
-853,باهوش,버후시,똑똑한,smart,adj,R3,N
-854,زرنگ,제랑그,영리한,clever,adj,R3,N
-855,تنبل,탄발,게으른,lazy,adj,R3,N
-856,مهربان,메흐라번,친절한,kind,adj,R3,N
-857,بداخلاق,바다클러그,성질 나쁜,grumpy,adj,R3,N
-858,خجالتی,케절라티,수줍은,shy,adj,R3,N
-859,شجاع,쇼저,용감한,brave,adj,R3,N
-860,پولدار,풀더르,돈 많은,rich,adj,R3,N
-861,فقیر,파기르,가난한,poor,adj,R3,N
-862,ثروتمند,세르바트만드,부유한,wealthy,adj,R3,N
-863,مجرد,모자라드,미혼의,single,adj,R3,N
-864,متاهل,모타헬,기혼의,married,adj,R3,N
-865,زنده,젠데,살아있는,alive,adj,R3,N
-866,مرده,모르데,죽은,dead,adj,R3,N
-867,واقعی,버게이,진짜,real,adj,R3,N
-868,مشخص,모샤카스,명확한,clear,adj,R3,N
-869,معلوم,마룸,분명한,clear,adj,R3,N
-870,واضح,버제흐,분명한,obvious,adj,R3,N
-871,اصل,아슬,원칙,principle,noun,R3,N
-872,اساس,어서스,기초,basis,noun,R3,N
-873,پایه,퍼예,기초,base,noun,R3,N
-874,حرکت,하라카트,움직임,movement,noun,R3,N
-875,کوشش,쿠셰시,노력,effort,noun,R3,N
-876,تلاش,탈러시,노력,effort,noun,R3,N
-877,سعی,사이,노력,try,noun,R3,N
-878,خطا,카터,오류,error,noun,R3,N
-879,اشتباه,에슈테버,실수,mistake,noun,R3,N
-880,آزمایش,어즈머예시,실험,experiment,noun,R3,N
-881,تحقیق,타흐기그,연구,research,noun,R3,N
-882,مطالعه,모털레에,공부,study,noun,R3,N
-883,بررسی,바르라시,검토,review,noun,R3,N
-884,گزارش,고저레시,보고,report,noun,R3,N
-885,خبرنگار,카바르네거르,기자,reporter,noun,R3,Y
-886,رسانه,레서네,매체,media,noun,R3,N
-887,ملت,멜라트,국민,nation,noun,R3,N
-888,دین,딘,종교,religion,noun,R3,N
-889,اسلام,에슬럼,이슬람,islam,noun,R3,N
-890,پیروزی,피루지,승리,victory,noun,R3,N
-891,شکست,셰카스트,패배,defeat,noun,R3,N
-892,قدرت,고드라트,힘,power,noun,R3,N
-893,نیرو,니루,힘,force,noun,R3,N
-894,تولید,톨리드,생산,production,noun,R3,N
-895,صنعت,산아트,산업,industry,noun,R3,N
-896,کشاورزی,케셔바르지,농업,farming,noun,R3,Y
-897,نفت,나프트,석유,oil,noun,R3,Y
-898,گاز,거즈,가스,gas,noun,R3,N
-899,برق,바르그,전기,electricity,noun,R3,N
-900,انرژی,에네르지,에너지,energy,noun,R3,N
-901,بورس,부르스,증권거래소,stock exchange,noun,R3,N
-902,تورم,타바롬,물가 상승,inflation,noun,R3,N
-903,بیکاری,비커리,실업,unemployment,noun,R3,N
-904,درآمد,다러마드,수입,income,noun,R3,N
-905,هزینه,하지네,비용,cost,noun,R3,N
-906,مالیات,멀리여트,세금,tax,noun,R3,N
-907,شرایط,샤러예트,조건,conditions,noun,R3,N
-908,وضعیت,바즈이야트,상황,situation,noun,R3,N
-909,موقعیت,모우게이야트,위치,situation,noun,R3,N
-910,سیستم,시스템,시스템,system,noun,R3,N
-911,روش,라베시,방법,method,noun,R3,N
-912,برنامه‌ریزی,바르너메리지,계획 세우기,planning,noun,R3,N
-913,طرح,타르흐,계획,plan,noun,R3,N
-914,پروژه,프로제,프로젝트,project,noun,R3,N
-915,سازمان,서즈먼,기관,organization,noun,R3,N
-916,موسسه,모아세세,기관,institute,noun,R3,N
-917,انجمن,안조만,협회,association,noun,R3,N
-918,عضو,오즈브,회원,member,noun,R3,N
-919,گروه,고루흐,그룹,group,noun,R3,Y
-920,حزب,헤즈브,정당,party,noun,R3,N
-921,نماینده,나머얀데,대표,representative,noun,R3,N
-922,مسئول,마스울,책임 있는,responsible,adj,R3,N
-923,مسئولیت,마스울리야트,책임,responsibility,noun,R3,N
-924,حمایت,헤머야트,지원,support,noun,R3,N
-925,مخالفت,모컬레파트,반대,opposition,noun,R3,N
-926,موافقت,모버페가트,동의,agreement,noun,R3,N
-927,اعتراض,에테러즈,항의,protest,noun,R3,N
-928,اعتصاب,에테섭,파업,strike,noun,R3,N
-929,توافق,타버포그,합의,agreement,noun,R3,N
-930,مذاکره,모저케레,협상,negotiation,noun,R3,N
-931,قرارداد,가러르더드,계약,contract,noun,R3,N
-932,تحریم,타흐림,제재,sanction,noun,R3,N
-933,بحث,바흐스,토론,discussion,noun,R3,N
-934,صحبت,소흐바트,대화,talk,noun,R3,N
-935,توضیح,토우지흐,설명,explanation,noun,R3,N
-936,دستور,다스투르,명령,order,noun,R3,N
-937,اطلاعات,에텔러어트,정보,information,noun,R3,N
-938,آمار,어머르,통계,statistics,noun,R3,N
-939,خدمات,카다머트,서비스,services,noun,R3,N
-940,تخفیف,타크피프,할인,discount,noun,R3,N
-941,رسید,라시드,영수증,receipt,noun,R3,Y
-942,فاکتور,퍽토르,계산서,invoice,noun,R3,N
-943,اجاره,에저레,임대,rent,noun,R3,N
-944,رهن,라흔,전세 보증금,mortgage,noun,R3,N
-945,بنزین,벤진,휘발유,gasoline,noun,R3,Y
-946,پمپ‌بنزین,폼프벤진,주유소,gas station,noun,R3,Y
-947,ترافیک,테러피크,교통 체증,traffic jam,noun,R3,Y
-948,چهارراه,차허르러흐,사거리,intersection,noun,R3,Y
-949,چراغ‌قرمز,체러그게르메즈,빨간불,red light,noun,R3,Y
-950,پیاده,피여데,걸어서,on foot,adv,R3,Y
-951,سواره,사버레,타고 가는,riding,adj,R3,N
-952,ورود,보루드,입장,entry,noun,R3,N
-953,خروج,코루즈,출구,exit,noun,R3,Y
-954,نوبت,노우바트,차례,turn,noun,R3,N
-955,صف,사프,줄,queue,noun,R3,Y
-956,آسانسور,어선소르,엘리베이터,elevator,noun,R3,Y
-957,پله,펠레,계단,stairs,noun,R3,Y
-958,طبقه,타바게,층,floor,noun,R3,N
-959,همسر,함사르,배우자,spouse,noun,R3,N
-960,عروس,아루스,신부,bride,noun,R3,Y
-961,داماد,더머드,신랑,groom,noun,R3,Y
-962,نامزد,넘자드,약혼자,fiance,noun,R3,Y
-963,بابابزرگ,버버보조르그,할아버지,grandfather,noun,R3,Y
-964,مامان‌بزرگ,머먼보조르그,할머니,grandmother,noun,R3,Y
-965,قوم,가움,민족,ethnic group,noun,R3,N
-966,اسباب‌کشی,아스법케시,이사,moving house,noun,R3,Y
-967,بیمه,비메,보험,insurance,noun,R3,N
-968,پیشنهاد,피시네허드,제안,suggestion,noun,R3,N
-969,درخواست,다르커스트,요청,request,noun,R3,N
-970,فرم,포름,서식,form,noun,R3,N
-971,امضا,엠저,서명,signature,noun,R3,Y
-972,مدرک,마드라크,증명서,certificate,noun,R3,N
-973,مهاجرت,모허제라트,이주,migration,noun,R3,N
-974,ویزا,비저,비자,visa,noun,R3,N
-975,سفارت,세퍼라트,대사관,embassy,noun,R3,Y
-976,انتظار,엔테저르,기대,expectation,noun,R3,N
-977,منتظر,몬타제르,기다리는,waiting,adj,R3,N
-978,عوض,아바즈,교환,change,noun,R3,N
-979,حفظ,헤프즈,보존,preservation,noun,R3,N
-980,جلوگیری,젤로우기리,예방,prevention,noun,R3,N
-981,اعلام,에얼럼,발표,announcement,noun,R3,N
-982,اعلامیه,에얼러미예,공고문,notice,noun,R3,N
-983,استفاده,에스테퍼데,사용,use,noun,R3,N
-984,مصرف,마스라프,소비,consumption,noun,R3,N
-985,نیاز,니여즈,필요,need,noun,R3,N
-986,یادداشت,여더더시트,메모,note,noun,R3,Y
-987,ذهن,제흔,마음,mind,noun,R3,N
-988,روح,루흐,영혼,soul,noun,R3,N
-989,عقل,아글,이성,reason,noun,R3,N
-990,هوش,후시,지능,intelligence,noun,R3,N
-991,سن,센,나이,age,noun,R3,N
-992,عمر,오므르,수명,lifetime,noun,R3,N
-993,اخلاق,아클러그,도덕,ethics,noun,R3,N
-994,رفتار,라프터르,행동,behavior,noun,R3,N
-995,عادت,어다트,습관,habit,noun,R3,N
-996,مد,모드,유행,fashion,noun,R3,N
-997,خاطره,커테레,추억,memory,noun,R3,N
-998,مزه,마제,맛,taste,noun,R3,N
-999,بو,부,냄새,smell,noun,R3,N
-1000,رنگی,랑기,색깔 있는,colored,adj,R3,Y
-1001,وسیله,바실레,도구,tool,noun,R3,N
-1002,ابزار,아브저르,도구,tool,noun,R3,Y
-1003,جعبه,자베,상자,box,noun,R3,Y
-1004,کیسه,키세,봉지,bag,noun,R3,Y
-1005,بطری,보트리,병,bottle,noun,R3,Y
-1006,کاغذ,커가즈,종이,paper,noun,R3,Y
-1007,قلم,갈람,펜,pen,noun,R3,Y
-1008,مداد,메더드,연필,pencil,noun,R3,Y
-1009,خودکار,코드커르,볼펜,ballpoint pen,noun,R3,Y
-1010,دستمال,다스트멀,손수건,handkerchief,noun,R3,Y
-1011,صابون,서분,비누,soap,noun,R3,Y
-1012,حوله,홀레,수건,towel,noun,R3,Y
-1013,شامپو,섬푸,샴푸,shampoo,noun,R3,Y
-1014,مسواک,메스버크,칫솔,toothbrush,noun,R3,Y
-1015,رادیو,러디요,라디오,radio,noun,R3,Y
-1016,لپ‌تاپ,랍텁,노트북,laptop,noun,R3,Y
-1017,تبلت,타블레트,태블릿,tablet,noun,R3,Y
-1018,باتری,버트리,배터리,battery,noun,R3,Y
-1019,شارژ,셔르즈,충전,charge,noun,R3,N
-1020,پیامک,파여마크,문자 메시지,text message,noun,R3,N
-1021,ایمیل,이메일,이메일,email,noun,R3,N
-1022,اپلیکیشن,아플리케이셴,앱,app,noun,R3,N
-1023,ویدیو,비데오,비디오,video,noun,R3,Y
-1024,عکاسی,악커시,사진 촬영,photography,noun,R3,Y
-1025,مسابقه,모서베게,경기,competition,noun,R3,N
-1026,قهرمان,가흐레먼,영웅,hero,noun,R3,N
-1027,جام,점,컵,cup,noun,R3,Y
-1028,ورزشگاه,바르제슈거흐,경기장,stadium,noun,R3,Y
-1029,باشگاه,버시거흐,클럽,club,noun,R3,N
-1030,شنا,셰너,수영,swimming,noun,R3,Y
-1031,دوچرخه,도차르케,자전거,bicycle,noun,R3,Y
-1032,موتور,모토르,오토바이,motorcycle,noun,R3,Y
-1033,کامیون,커미윤,트럭,truck,noun,R3,Y
-1034,جاده,저데,도로,road,noun,R3,Y
-1035,بزرگراه,보조르그러흐,고속도로,highway,noun,R3,Y
-1036,تونل,투넬,터널,tunnel,noun,R3,Y
-1037,مرز,마르즈,국경,border,noun,R3,N
-1038,دهکده,데흐카데,마을,village,noun,R3,Y
-1039,خاک,커크,흙,soil,noun,R3,Y
-1040,سنگ,상그,돌,stone,noun,R3,Y
-1041,آهن,어한,철,iron,noun,R3,Y
-1042,طلا,탈러,금,gold,noun,R3,Y
-1043,نقره,노그레,은,silver,noun,R3,Y
-1044,آتش,어타시,불,fire,noun,R3,Y
-1045,دود,두드,연기,smoke,noun,R3,Y
-1046,ستاره,세터레,별,star,noun,R3,Y
-1047,خورشید,코르시드,태양,sun,noun,R3,Y
-1048,نور,누르,빛,light,noun,R3,Y
-1049,سایه,서예,그림자,shadow,noun,R3,Y
-1050,حیوان,헤이번,동물,animal,noun,R3,Y
-1051,مورچه,무르체,개미,ant,noun,R3,Y
-1052,پشه,파셰,모기,mosquito,noun,R3,Y
-1053,مگس,마가스,파리,fly,noun,R3,Y
-1054,ببر,바브르,호랑이,tiger,noun,R3,Y
-1055,خرس,케르스,곰,bear,noun,R3,Y
-1056,گرگ,고르그,늑대,wolf,noun,R3,Y
-1057,روباه,루버흐,여우,fox,noun,R3,Y
-1058,مرغابی,모르거비,오리,duck,noun,R3,Y
-1059,کبوتر,카부타르,비둘기,pigeon,noun,R3,Y
-1060,گیاه,기여흐,식물,plant,noun,R3,Y
-1061,برگ,바르그,잎,leaf,noun,R3,Y
-1062,ریشه,리셰,뿌리,root,noun,R3,Y
-1063,آرایشگاه,어러예시거흐,미용실,hair salon,noun,R3,Y
-1064,دندانپزشک,단던페제시크,치과 의사,dentist,noun,R3,Y
-1065,پرستار,파라스터르,간호사,nurse,noun,R3,Y
-1066,آمبولانس,엄불런스,구급차,ambulance,noun,R3,Y
-1067,تصادف,타서도프,교통사고,accident,noun,R3,Y
-1068,آتش‌نشانی,어타시네셔니,소방서,fire station,noun,R3,Y
-1069,زندان,젠던,감옥,prison,noun,R3,Y
-1070,دادگاه,더드거흐,법원,court,noun,R3,N
-1071,قاضی,거지,판사,judge,noun,R3,Y
-1072,وکیل,바킬,변호사,lawyer,noun,R3,Y
-1073,جرم,조름,범죄,crime,noun,R3,N
-1074,دزد,도즈드,도둑,thief,noun,R3,Y
-1075,شاهد,셔헤드,증인,witness,noun,R3,N
-1076,خواهان,커헌,원고,plaintiff,noun,R3,N
-1077,بیننده,비난데,시청자,viewer,noun,R3,N
-1078,شنونده,셰나반데,청취자,listener,noun,R3,N
-1079,ادامه,에더메,계속,continue,noun,R3,N
-1080,حتی,하타,심지어,even,adv,R3,N
-1081,دوباره,도버레,다시,again,adv,R3,N
-1082,نیز,니즈,또한,also,adv,R3,N
-1083,همچنین,함치닌,또한,also,adv,R3,N
-1084,ضمنا,제므난,그리고 또,by the way,adv,R3,N
-1085,اتفاقا,에테퍼간,마침,actually,adv,R3,N
-1086,احتمالا,에흐테멀란,아마,probably,adv,R3,N
-1087,ظاهرا,저헤란,겉보기에,apparently,adv,R3,N
-1088,اساسا,아서산,기본적으로,basically,adv,R3,N
-1089,اصولا,오술란,원래,in principle,adv,R3,N
-1090,دقیقا,다기간,정확히,exactly,adv,R3,N
-1091,مستقیم,모스타김,직접,direct,adj,R3,N
-1092,فورا,포우란,즉시,immediately,adv,R3,N
-1093,بلافاصله,벨러퍼셀레,곧바로,right away,adv,R3,N
-1094,کم‌کم,캄캄,차츰,gradually,adv,R3,N
-1095,بالاخره,발러카레,결국,finally,adv,R3,N
-1096,هرچند,하르찬드,비록,although,conj,R3,N
-1097,اگرچه,아가르체,비록,although,conj,R3,N
-1098,گرچه,가르체,비록,although,conj,R3,N
-1099,مگر,마가르,설마,unless,conj,R3,N
-1100,زیرا,지러,왜냐하면,because,conj,R3,N
-1101,اینطور,인토르,이렇게,this way,adv,R3,N
-1102,آنطور,언토르,저렇게,that way,adv,R3,N
-1103,اینجوری,인주리,이렇게,like this,adv,R3,N
-1104,همینطور,하민토르,마찬가지로,likewise,adv,R3,N
-1105,ای,에이,오,oh,interj,R3,N
-1106,وای,버이,아이고,oh no,interj,R3,N
-1107,اوه,오흐,오(감탄),oh,interj,R3,N
-1108,آخ,어크,아야,ouch,interj,R3,N
-1109,عزیزم,아지잠,자기야,dear,interj,R3,N
-1110,فعلا,페엘란,일단,for now,adv,R3,N
-1111,اخیرا,아키란,최근에,recently,adv,R3,N
-1112,امسال,엠설,올해,this year,noun,R3,N
-1113,پارسال,퍼르설,작년,last year,noun,R3,N
-1114,امشب,엠샤브,오늘 밤,tonight,adv,R3,N
-1115,دیشب,디샤브,어젯밤,last night,adv,R3,N
-1116,پریروز,파리루즈,그저께,day before yesterday,adv,R3,N
-1117,پس‌فردا,파스파르더,모레,day after tomorrow,adv,R3,N
-1118,ظهر,조흐르,정오,noon,noun,R3,Y
-1119,عصر,아스르,오후,evening,noun,R3,N
-1120,نیمه‌شب,니메샤브,자정,midnight,noun,R3,Y
-1121,بعدازظهر,바다조흐르,오후,afternoon,noun,R3,Y
-1122,سی,시,30,thirty,num,R3,N
-1123,چهل,체헬,사십,forty,num,R3,N
-1124,پنجاه,판저흐,오십,fifty,num,R3,N
-1125,شصت,샤스트,육십,sixty,num,R3,N
-1126,هفتاد,하프터드,70,seventy,num,R3,N
-1127,هشتاد,하시터드,80,eighty,num,R3,N
-1128,نود,나바드,90,ninety,num,R3,N
-1129,یازده,여즈다흐,11,eleven,num,R3,N
-1130,دوازده,다버즈다흐,12,twelve,num,R3,N
-1131,سیزده,시즈다흐,13,thirteen,num,R3,N
-1132,چهارده,처허르다흐,14,fourteen,num,R3,N
-1133,پانزده,펀즈다흐,15,fifteen,num,R3,N
-1134,شانزده,선즈다흐,16,sixteen,num,R3,N
-1135,هفده,헤프다흐,17,seventeen,num,R3,N
-1136,هجده,헤즈다흐,18,eighteen,num,R3,N
-1137,نوزده,누즈다흐,19,nineteen,num,R3,N
-1138,دویست,데비스트,200,two hundred,num,R3,N
-1139,سیصد,시사드,300,three hundred,num,R3,N
-1140,پانصد,펀사드,500,five hundred,num,R3,N
-1141,نصف,네스프,절반,half,noun,R3,N
-1142,نیم,님,반,half,noun,R3,N
-1143,ربع,로브,4분의 1,quarter,noun,R3,N
-1144,سوم,세봄,셋째,third,num,R3,N
-1145,چهارم,차허롬,넷째,fourth,num,R3,N
-1146,پنجم,판좀,다섯째,fifth,num,R3,N
-1147,آخری,어케리,마지막 것,last one,adj,R3,N
-1148,اسفند,에스판드,이란력 12월,esfand,noun,R3,N
-1149,فروردین,파르바르딘,이란력 1월,farvardin,noun,R3,N
-1150,اردیبهشت,오르디베헤시트,이란력 2월,ordibehesht,noun,R3,N
-1151,خرداد,코르더드,이란력 3월,khordad,noun,R3,N
-1152,تیر,티르,이란력 4월,tir,noun,R3,N
-1153,مرداد,모르더드,이란력 5월,mordad,noun,R3,N
-1154,شهریور,샤흐리바르,이란력 6월,shahrivar,noun,R3,N
-1155,مهر,메흐르,이란력 7월,mehr,noun,R3,N
-1156,آبان,어번,이란력 8월,aban,noun,R3,N
-1157,آذر,어자르,이란력 9월,azar,noun,R3,N
-1158,دی,데이,이란력 10월,dey,noun,R3,N
-1159,بهمن,바흐만,이란력 11월,bahman,noun,R3,N
-1160,مانتو,만토,만토(겉옷),long coat,noun,R3,Y
-1161,روسری,루사리,스카프,headscarf,noun,R3,Y
-1162,چادر,처다르,차도르,chador,noun,R3,Y
-1163,شال,셜,숄,shawl,noun,R3,Y
-1164,دامن,더만,치마,skirt,noun,R3,Y
-1165,انگشتر,안고시타르,반지,ring,noun,R3,Y
-1166,گردنبند,가르단반드,목걸이,necklace,noun,R3,Y
-1167,پیشانی,피셔니,이마,forehead,noun,R3,Y
-1168,ابرو,아브루,눈썹,eyebrow,noun,R3,Y
-1169,مژه,모제,속눈썹,eyelash,noun,R3,Y
-1170,گونه,구네,뺨,cheek,noun,R3,Y
-1171,چانه,처네,턱,chin,noun,R3,Y
-1172,سینه,시네,가슴,chest,noun,R3,Y
-1173,آرنج,어란즈,팔꿈치,elbow,noun,R3,Y
-1174,مچ,모치,손목,wrist,noun,R3,Y
-1175,ناخن,너콘,손톱,nail,noun,R3,Y
-1176,کبد,카베드,간,liver,noun,R3,Y
-1177,معده,메데,위,stomach,noun,R3,Y
-1178,سرفه,사르페,기침,cough,noun,R3,Y
-1179,عطسه,아트세,재채기,sneeze,noun,R3,Y
-1180,زخم,자큼,상처,wound,noun,R3,Y
-1181,عمل,아말,행동,action,noun,R3,N
-1182,جراحی,자러히,수술,surgery,noun,R3,Y
-1183,استراحت,에스테러하트,휴식,rest,noun,R3,Y
-1184,ورزشی,바르제시,운동의,sports,adj,R3,N
-1185,آشپزی,어시파지,요리,cooking,noun,R3,Y
-1186,مهمانی,메흐머니,파티,party,noun,R3,Y
-1187,دورهمی,도레하미,모임,get-together,noun,R3,Y
-1188,سوغاتی,소거티,기념품,souvenir,noun,R3,Y
-1189,هدیه,헤디예,선물,gift,noun,R3,Y
-1190,کادو,커도,선물,present,noun,R3,Y
-1191,مهربانی,메흐라버니,친절,kindness,noun,R3,N
-1192,صبر,사브르,인내,patience,noun,R3,N
-1193,عجله,아잘레,서두름,hurry,noun,R3,N
-1194,دعوا,다버,싸움,fight,noun,R3,Y
-1195,آشتی,어시티,화해,reconciliation,noun,R3,N
-1196,طلاق,탈러그,이혼,divorce,noun,R3,N
-1197,ازدواج,에즈데버즈,결혼,marriage,noun,R3,Y
-1198,بارداری,버르더리,임신,pregnancy,noun,R3,Y
-1199,کنکور,콘쿠르,입시,entrance exam,noun,R3,N
-1200,رشته,레시테,전공,major,noun,R3,N
-1201,لیسانس,리선스,학사,bachelor's degree,noun,R3,N
-1202,فوق‌لیسانس,포그리선스,석사,master's degree,noun,R3,N
-1203,دکترا,도크토러,박사,doctorate,noun,R3,N
-1204,دبیرستان,다비레스턴,고등학교,high school,noun,R3,Y
-1205,دبستان,답레스턴,초등학교,elementary school,noun,R3,Y
-1206,مهدکودک,마흐데쿠다크,유치원,kindergarten,noun,R3,Y
-1207,تکلیف,타클리프,숙제,homework,noun,R3,Y
-1208,نمره,노므레,점수,grade,noun,R3,N
-1209,ریاضی,리여지,수학,math,noun,R3,N
-1210,فیزیک,피지크,물리학,physics,noun,R3,N
-1211,شیمی,시미,화학,chemistry,noun,R3,N
-1212,زیست,지스트,생물,biology,noun,R3,N
-1213,جغرافی,조그러피,지리,geography,noun,R3,N
-1214,کتابفروشی,케텁푸루시,서점,bookstore,noun,R3,Y
-1215,نویسنده,네비산데,작가,writer,noun,R3,Y
-1216,شاعر,셔에르,시인,poet,noun,R3,Y
-1217,هنرمند,호나르만드,예술가,artist,noun,R4,Y
-1218,بازیگر,버지가르,배우,actor,noun,R4,Y
-1219,کارگردان,커르가르던,감독,director,noun,R4,Y
-1220,سریال,세리열,드라마,tv series,noun,R4,N
-1221,خبرگزاری,카바르고저리,통신사,news agency,noun,R4,N
-1222,تیتر,티테르,헤드라인,headline,noun,R4,N
-1223,شبکه,샤바케,네트워크,network,noun,R4,N
-1224,کانال,커널,채널,channel,noun,R4,N
-1225,تبلیغ,타블리그,광고,advertisement,noun,R4,N
-1226,آگهی,어게히,광고,ad,noun,R4,N
-1227,مشتری,모시타리,손님,customer,noun,R4,Y
-1228,فروشنده,포루샨데,판매원,seller,noun,R4,Y
-1229,صاحب,서헤브,주인,owner,noun,R4,N
-1230,کارخانه,커르커네,공장,factory,noun,R4,Y
-1231,مهندس,모한데스,기술자,engineer,noun,R4,Y
-1232,استاد,오스터드,교수,professor,noun,R4,Y
-1233,پزشک,페제시크,의사,doctor,noun,R4,Y
-1234,راننده,러난데,운전사,driver,noun,R4,Y
-1235,آشپز,어시파즈,요리사,cook,noun,R4,Y
-1236,گارسون,거르손,웨이터,waiter,noun,R4,Y
-1237,نظافت,네저파트,청소,cleaning,noun,R4,Y
-1238,عابربانک,어베르벙크,현금인출기,atm,noun,R4,Y
-1239,کیف‌پول,키페풀,지갑,wallet,noun,R4,Y
-1240,سکه,세케,동전,coin,noun,R4,Y
-1241,وام,범,대출,loan,noun,R4,N
-1242,قسط,게스트,할부,installment,noun,R4,N
-1243,بدهی,베데히,빚,debt,noun,R4,N
-1244,سود,수드,이익,profit,noun,R4,N
-1245,ضرر,자라르,손해,loss,noun,R4,N
-1246,سرمایه,사르머예,자본,capital,noun,R4,N
-1247,فهم,파흠,이해,understanding,noun,R4,N
-1248,فهمیده,파흐미데,이해심 있는,understanding,adj,R4,N
-1249,حساس,핫서스,예민한,sensitive,adj,R4,N
-1250,جدی,제디,진지한,serious,adj,R4,N
-1251,شوخی,소키,농담,joke,noun,R4,N
-1252,خنده‌دار,칸데더르,웃긴,funny,adj,R4,N
-1253,غمگین,감긴,슬픈,sad,adj,R4,Y
-1254,تنها,탄허,혼자,alone,adj,R4,Y
-1255,تنهایی,탄허이,외로움,loneliness,noun,R4,N
-1256,آشنایی,어시너이,알게 됨,acquaintance,noun,R4,N
-1257,دوستی,두스티,우정,friendship,noun,R4,N
-1258,دشمن,도시만,적,enemy,noun,R4,N
-1259,همراه,함러흐,함께,together,adv,R4,N
-1260,خصوصی,코수시,개인의,private,adj,R4,N
-1261,رایگان,러이건,무료,free,adj,R4,N
-1262,مجانی,맛저니,공짜,free,adj,R4,N
-1263,فوری,푸리,긴급한,urgent,adj,R4,N
-1264,ارزشمند,아르제시만드,소중한,valuable,adj,R4,N
-1265,ناقص,너게스,불완전한,incomplete,adj,R4,N
-1266,محکم,모흐캄,단단한,firm,adj,R4,N
-1267,نرم,나름,부드러운,soft,adj,R4,N
-1268,تیز,티즈,날카로운,sharp,adj,R4,Y
-1269,کند,콘드,느린,slow,adj,R4,N
-1270,سفت,세프트,딱딱한,hard,adj,R4,N
-1271,داغ,더그,뜨거운,hot,adj,R4,Y
-1272,خنک,코낙,시원한,cool,adj,R4,N
-1273,یخ,야크,얼음,ice,noun,R4,Y
-1274,بخار,보커르,증기,steam,noun,R4,Y
-1275,لوله,룰레,관,pipe,noun,R4,Y
-1276,سیم,심,전선,wire,noun,R4,Y
-1277,پریز,프리즈,콘센트,socket,noun,R4,Y
-1278,قفل,고플,자물쇠,lock,noun,R4,Y
-1279,آینه,어이네,거울,mirror,noun,R4,Y
-1280,بالش,벌레시,베개,pillow,noun,R4,Y
-1281,پتو,파투,담요,blanket,noun,R4,Y
-1282,ملافه,맬러페,시트,bed sheet,noun,R4,Y
-1283,پرده,파르데,커튼,curtain,noun,R4,Y
-1284,مبل,모블,소파,sofa,noun,R4,Y
-1285,کمد,코머드,옷장,closet,noun,R4,Y
-1286,قفسه,가파세,선반,shelf,noun,R4,Y
-1287,گلدان,골던,화분,vase,noun,R4,Y
-1288,حیاط,하여트,마당,yard,noun,R4,Y
-1289,بالکن,벌콘,발코니,balcony,noun,R4,Y
-1290,پشت‌بام,포시테범,옥상,rooftop,noun,R4,Y
-1291,زیرزمین,지르자민,지하실,basement,noun,R4,Y
-1292,آپارتمان,어파르트먼,아파트,apartment,noun,R4,Y
-1293,ویلا,빌러,별장,villa,noun,R4,Y
-1294,محله,마할레,동네,neighborhood,noun,R4,Y
-1295,همسایگی,함서예기,이웃,neighborhood,noun,R4,N
-1296,گوشه,구셰,구석,corner,noun,R4,Y
-1297,روبرو,루베루,맞은편,opposite,adv,R4,N
-1298,مقابل,모거벨,맞은편,opposite,prep,R4,N
-1299,اطراف,아트러프,주변,around,noun,R4,N
-1300,حدود,호두드,약,about,adv,R4,N
-1301,ابتدا,에브테더,처음,beginning,noun,R4,N
-1302,انتها,엔테허,끝,end,noun,R4,N
-1303,میانه,미어네,중간,middle,noun,R4,N
-1304,اواسط,아버세트,중순,mid,noun,R4,N
-1305,پیرامون,피러문,주위,around,prep,R4,N
-1306,برداشتن,바르더시탄,집어 들다,pick up,verb,R4,Y
-1307,گذراندن,고자런단,보내다,spend,verb,R4,N
-1308,پیچیدن,피치단,돌다,turn,verb,R4,Y
-1309,بخشیدن,바크시단,용서하다,forgive,verb,R4,N
-1310,نمودن,나무단,하다,do,verb,R4,N
-1311,گشودن,고슈단,열다,open,verb,R4,Y
-1312,افزودن,아프주단,더하다,add,verb,R4,N
-1313,کاستن,커스탄,줄이다,reduce,verb,R4,N
-1314,یافتن,여프탄,찾다,find,verb,R4,N
-1315,جنبیدن,존비단,움직이다,move,verb,R4,Y
-1316,تکاندن,타컨단,털다,shake,verb,R4,Y
-1317,کشاندن,케셴단,끌고 가다,drag,verb,R4,Y
-1318,نشاندن,네션단,앉히다,seat,verb,R4,Y
-1319,چرخاندن,차르컨단,돌리다,spin,verb,R4,Y
-1320,پراندن,파런단,날리다,fly,verb,R4,Y
-1321,تماشا,타머셔,구경,watch,noun,R4,Y
-1322,آرزو,어레주,소원,wish,noun,R4,N
-1323,دعوت,다바트,초대,invitation,noun,R4,N
-1324,مراقبت,모러게바트,돌봄,care,noun,R4,N
-1325,توجه,타바조흐,주의,attention,noun,R4,N
-1326,دقت,데가트,정확함,accuracy,noun,R4,N
-1327,تمرکز,타마르코즈,집중,focus,noun,R4,N
-1328,علاقه,알러게,관심,interest,noun,R4,N
-1329,نفرت,네프라트,증오,hatred,noun,R4,N
-1330,حسادت,하서다트,질투,jealousy,noun,R4,N
-1331,غرور,고루르,자존심,pride,noun,R4,N
-1332,خجالت,케절라트,부끄러움,shame,noun,R4,N
-1333,تعجب,타아좁,놀람,surprise,noun,R4,Y
-1334,عصبانیت,아사버니야트,화,anger,noun,R4,Y
-1335,استرس,에스테레스,스트레스,stress,noun,R4,N
-1336,افسردگی,아프소르데기,우울증,depression,noun,R4,N
-1337,اضطراب,에즈테럽,불안,anxiety,noun,R4,N
-1338,خستگی,카스테기,피로,tiredness,noun,R4,N
-1339,کمبود,감부드,부족,shortage,noun,R4,N
-1340,مسئله,마스알레,문제,problem,noun,R4,N
-1341,قصد,가스드,의도,intention,noun,R4,N
-1342,منظور,만주르,의미,meaning,noun,R4,N
-1343,سلیقه,살리게,취향,taste,noun,R4,N
-1344,علاقه‌مند,알러게만드,관심 있는,interested,adj,R4,N
-1345,پیام‌رسان,파염레선,메신저,messenger,noun,R4,N
-1346,شوخ,소크,익살스러운,playful,adj,R4,N
-1347,دستگاه,다스트거흐,기계,device,noun,R4,Y
-1348,پاکت,퍼카트,봉투,envelope,noun,R4,Y
-1349,نامه,너메,편지,letter,noun,R4,Y
-1350,پست,포스트,우편,post,noun,R4,N
-1351,تمبر,탐브르,우표,stamp,noun,R4,Y
-1352,بلیت,벨리트,표,ticket,noun,R4,Y
-1353,صندوق,산두그,상자,box,noun,R4,Y
-1354,کتری,케트리,주전자,kettle,noun,R4,Y
-1355,قوری,구리,찻주전자,teapot,noun,R4,Y
-1356,استکان,에스테컨,찻잔,tea glass,noun,R4,Y
-1357,سماور,사머바르,사모바르,samovar,noun,R4,Y
-1358,فنجان,평전,컵,cup,noun,R4,Y
-1359,سفره,소프레,식탁보,tablecloth,noun,R4,Y
-1360,دیگ,디그,솥,pot,noun,R4,Y
-1361,ماهیتابه,머히터베,프라이팬,frying pan,noun,R4,Y
-1362,چلو,첼로,흰밥,plain rice,noun,R4,Y
-1363,پلو,폴로,볶음밥,pilaf,noun,R4,Y
-1364,کوکو,쿠쿠,쿠쿠(오믈렛),omelette,noun,R4,Y
-1365,حلوا,핼버,할바,halva,noun,R4,Y
-1366,آجیل,어질,견과류,nuts,noun,R4,Y
-1367,پسته,페스테,피스타치오,pistachio,noun,R4,Y
-1368,بادام,버덤,아몬드,almond,noun,R4,Y
-1369,گردو,게르두,호두,walnut,noun,R4,Y
-1370,تخمه,토크메,해바라기씨,seeds,noun,R4,Y
-1371,آبمیوه,업미베,주스,juice,noun,R4,Y
-1372,یخ‌زده,야크자데,얼어붙은,frozen,adj,R4,Y
-1373,لبنیات,라바니여트,유제품,dairy,noun,R4,Y
-1374,ماهی‌گیری,머히기리,낚시,fishing,noun,R4,Y
-1375,مزرعه,마즈라에,농장,farm,noun,R4,Y
-1376,کشاورز,케셔바르즈,농부,farmer,noun,R4,Y
-1377,دام,덤,가축,livestock,noun,R4,Y
-1378,آب‌وهوا,어보하버,날씨,weather,noun,R4,Y
-1379,طوفان,투펀,폭풍,storm,noun,R4,Y
-1380,سیل,세일,홍수,flood,noun,R4,Y
-1381,زلزله,잘잘레,지진,earthquake,noun,R4,Y
-1382,خشکسالی,코시크설리,가뭄,drought,noun,R4,Y
-1383,آلودگی,얼루데기,오염,pollution,noun,R4,Y
-1384,محیط‌زیست,모히테지스트,환경,environment,noun,R4,N
-1385,طبیعت,타비아트,자연,nature,noun,R4,Y
-1386,منظره,만자레,경치,scenery,noun,R4,Y
-1387,غروب,고루브,해질녘,sunset,noun,R4,Y
-1388,طلوع,톨루,해돋이,sunrise,noun,R4,Y
-1389,ساحل,서헬,해변,beach,noun,R4,Y
-1390,جزیره,자지레,섬,island,noun,R4,Y
-1391,دریاچه,다리여체,호수,lake,noun,R4,Y
-1392,بیابان,비여번,사막,desert,noun,R4,Y
-1393,کویر,카비르,소금사막,salt desert,noun,R4,Y
-1394,صحرا,사흐러,사막,desert,noun,R4,Y
-1395,تپه,타페,언덕,hill,noun,R4,Y
-1396,دره,다레,골짜기,valley,noun,R4,Y
-1397,چشمه,체시메,샘,spring,noun,R4,Y
-1398,چاه,처흐,우물,well,noun,R4,Y
-1399,جوی,주이,도랑,stream,noun,R4,Y
-1400,عقیده,아기데,의견,opinion,noun,R4,N
-1401,باور,버바르,믿음,belief,noun,R4,N
-1402,اعتقاد,에테거드,신념,belief,noun,R4,N
-1403,ایمان,이먼,믿음,faith,noun,R4,N
-1404,حکومت,호쿠마트,정부,government,noun,R4,N
-1405,رژیم,레짐,정권,regime,noun,R4,N
-1406,انقلاب,엔겔럽,혁명,revolution,noun,R4,N
-1407,آزادی,어저디,자유,freedom,noun,R4,N
-1408,عدالت,에덜라트,정의,justice,noun,R4,N
-1409,حقوق‌بشر,호구게바샤르,인권,human rights,noun,R4,N
-1410,اعدام,에덤,처형,execution,noun,R4,N
-1411,زندانی,젠더니,죄수,prisoner,noun,R4,Y
-1412,تظاهرات,타저호러트,시위,protest,noun,R4,Y
-1413,خشونت,코수나트,폭력,violence,noun,R4,N
-1414,تروریسم,테로리슴,테러,terrorism,noun,R4,N
-1415,حمله,함레,공격,attack,noun,R4,Y
-1416,دفاع,데퍼,방어,defense,noun,R4,N
-1417,سلاح,살러흐,무기,weapon,noun,R4,Y
-1418,موشک,무샤크,미사일,missile,noun,R4,Y
-1419,هسته‌ای,하스테이,핵의,nuclear,adj,R4,N
-1420,جمهوری,좀후리,공화국,republic,noun,R4,N
-1421,اسلامی,에슬러미,이슬람의,islamic,adj,R4,N
-1422,بین‌الملل,베이놀멜랄,국제,international,adj,R4,N
-1423,همکاری,함커리,협력,cooperation,noun,R4,N
-1424,روابط,라버베트,관계,relations,noun,R4,N
-1425,سفیر,사피르,대사,ambassador,noun,R4,Y
-1426,دیپلماسی,디플로머시,외교,diplomacy,noun,R4,N
-1427,مصاحبه,모서헤베,인터뷰,interview,noun,R4,Y
-1428,نشست,네샤스트,회의,meeting,noun,R4,N
-1429,کنفرانس,콘퍼런스,회의,conference,noun,R4,Y
-1430,بیانیه,바여니예,성명,statement,noun,R4,N
-1431,سخنگو,소칸구,대변인,spokesperson,noun,R4,Y
-1432,سخنرانی,소칸러니,연설,speech,noun,R4,Y
-1433,اجرا,에즈러,공연,performance,noun,R4,N
-1434,عملیات,아말리여트,작전,operation,noun,R4,N
-1435,وظیفه,바지페,의무,duty,noun,R4,N
-1436,بودجه,부드제,예산,budget,noun,R4,N
-1437,سرمایه‌گذاری,사르머예고저리,투자,investment,noun,R4,N
-1438,شاخص,셔케스,지표,index,noun,R4,N
-1439,ارز,아르즈,외화,currency,noun,R4,N
-1440,یورو,유로,유로,euro,noun,R4,Y
-1441,مسکن,마스칸,주택,housing,noun,R4,N
-1442,خودرو,코드로,자동차,car,noun,R4,Y
-1443,واردات,버레더트,수입,imports,noun,R4,N
-1444,صادرات,서데러트,수출,exports,noun,R4,N
-1445,تجارت,테저라트,무역,trade,noun,R4,N
-1446,بازرگانی,버자르거니,상업,commerce,noun,R4,N
-1447,گمرک,고모르크,세관,customs,noun,R4,N
-1448,بندر,반다르,항구,port,noun,R4,Y
-1449,سهام,사험,주식,shares,noun,R4,N
-1450,اقتصاددان,에그테서드던,경제학자,economist,noun,R4,N
-1451,کالا,컬러,상품,goods,noun,R4,N
-1452,محصول,마흐술,제품,product,noun,R4,N
-1453,جنس,젠스,재질,material,noun,R4,N
-1454,مارک,머르크,상표,brand,noun,R4,N
-1455,کیفیت,케이피야트,품질,quality,noun,R4,N
-1456,واکسن,벡선,백신,vaccine,noun,R4,Y
-1457,ویروس,비루스,바이러스,virus,noun,R4,N
-1458,کرونا,코로너,코로나,coronavirus,noun,R4,N
-1459,بیمار,비머르,환자,patient,noun,R4,Y
-1460,درمان,다르먼,치료,treatment,noun,R4,N
-1461,آزمایشگاه,어즈머예시거흐,실험실,laboratory,noun,R4,Y
-1462,مطب,마타브,진료소,clinic,noun,R4,Y
-1463,نسخه,노스케,처방전,prescription,noun,R4,Y
-1464,قرص,고르스,알약,pill,noun,R4,Y
-1465,آمپول,엄풀,주사,injection,noun,R4,Y
-1466,پسرخاله,페사르컬레,이종사촌(남),cousin,noun,R4,N
-1467,دخترخاله,도크타르컬레,이종사촌(여),cousin,noun,R4,N
-1468,پسردایی,페사르더이,외사촌(남),cousin,noun,R4,N
-1469,دختردایی,도크타르더이,외사촌(여),cousin,noun,R4,N
-1470,دخترعمو,도크타르아무,사촌(여),cousin,noun,R4,N
-1471,خواهرزاده,커하르저데,자매의 자녀,niece,noun,R4,N
-1472,برادرزاده,바러다르저데,형제의 자녀,nephew,noun,R4,N
-1473,عروسک,아루삭,인형,doll,noun,R4,Y
-1474,نوجوان,노자번,청소년,teenager,noun,R4,Y
-1475,پیرمرد,피르마르드,노인(남),old man,noun,R4,Y
-1476,پیرزن,피르잔,노인(여),old woman,noun,R4,Y
-1477,بازنشسته,버즈네샤스테,은퇴자,retired,adj,R4,N
-1478,دانش‌آموز,더네셔무즈,학생,student,noun,R4,Y
-1479,همکلاسی,함킬러시,반 친구,classmate,noun,R4,Y
-1480,مربی,모랍비,코치,coach,noun,R4,Y
-1481,ورزشکار,바르제시커르,운동선수,athlete,noun,R4,Y
-1482,بازیکن,버지콘,선수,player,noun,R4,Y
-1483,داور,더바르,심판,referee,noun,R4,Y
-1484,کشتی,코시티,레슬링,wrestling,noun,R4,Y
-1485,والیبال,벌리벌,배구,volleyball,noun,R4,Y
-1486,بسکتبال,바스케트벌,농구,basketball,noun,R4,Y
-1487,تمرین,탐린,연습,practice,noun,R4,N
-1488,مدال,메덜,메달,medal,noun,R4,Y
-1489,لیگ,리그,리그,league,noun,R4,N
-1490,هوادار,하버더르,팬,fan,noun,R4,Y
-1491,تماشاگر,타머셔가르,관중,spectator,noun,R4,Y
-1492,شطرنج,샤트란즈,체스,chess,noun,R4,Y
-1493,کارتون,커르툰,만화,cartoon,noun,R4,Y
-1494,رقص,라그스,춤,dance,noun,R4,Y
-1495,گیتار,기터르,기타,guitar,noun,R4,Y
-1496,پیانو,피여노,피아노,piano,noun,R4,Y
-1497,کنسرت,콘세르트,콘서트,concert,noun,R4,Y
-1498,جشنواره,자시느버레,축제,festival,noun,R4,Y
-1499,نمایشگاه,나머예시거흐,전시회,exhibition,noun,R4,Y
-1500,تفریح,타프리흐,여가,recreation,noun,R4,N
+50,-e,에,에자페(~의),(ezafe),particle,R1,N
+51,اینجا,인저,여기,here,adv,R2,N
+52,فکر,페크르,생각,thought,noun,R2,N
+53,دیگه,디게,"더, 이제",else,adv,R2,N
+54,گرفتن,게레프탄,잡다,take,verb,R2,Y
+55,شما,쇼머,당신,you,pron,R2,N
+56,آره,어레,응,yeah,interj,R2,N
+57,فقط,파가트,오직,only,adv,R2,N
+58,خب,카브,"그래, 음",well,interj,R2,N
+59,ها,허,복수 접미사,(plural suffix),particle,R2,N
+60,اگه,아게,만약,if,conj,R2,N
+61,کار,커르,일,work,noun,R2,Y
+62,همه,하메,모두,all,pron,R2,N
+63,ولی,발리,하지만,but,conj,R2,N
+64,چیزی,치지,무언가,something,pron,R2,N
+65,توی,투예,~안에,in,prep,R2,N
+66,یک,예크,하나,one,num,R2,N
+67,چه,체,무엇,what,pron,R2,N
+68,خوب,쿠브,좋은,good,adj,R2,N
+69,اما,암머,그러나,but,conj,R2,N
+70,پس,파스,그러면,so,conj,R2,N
+71,-ند,안드,3인칭 복수 어미,(3rd person plural ending),particle,R2,N
+72,کشتن,코슈탄,죽이다,kill,verb,R2,N
+73,چرا,체러,왜,why,adv,R3,N
+74,وقتی,바그티,~할 때,when,conj,R3,N
+75,حالا,헐러,이제,now,adv,R3,N
+76,الان,알런,지금,now,adv,R3,N
+77,اونا,우너,그들,they,pron,R3,N
+78,ای,에이,오,oh,interj,R3,N
+79,هر,하르,각각의,every,adj,R3,N
+80,یا,여,또는,or,conj,R3,N
+81,دوست,두스트,친구,friend,noun,R3,Y
+82,خوردن,코르단,먹다,eat,verb,R3,Y
+83,های,허예,복수+에자페,(plural with ezafe),particle,R3,N
+84,اینکه,인케,~라는 것,that,conj,R3,N
+85,بعد,바으드,후에,after,adv,R3,N
+86,چیه,치예,뭐야,what is it,pron,R3,N
+87,اوه,오흐,오(감탄),oh,interj,R3,N
+88,مثل,메슬,~처럼,like,prep,R3,N
+89,بچه,바체,아이,child,noun,R3,Y
+90,هیچ,히치,아무것도,nothing,pron,R3,N
+91,دست,다스트,손,hand,noun,R3,Y
+92,یکی,예키,하나,one,pron,R3,N
+93,پیدا,페이더,발견된,found,adj,R3,N
+94,همین,하민,바로 이것,this same,pron,R3,N
+95,هی,헤이,이봐,hey,interj,R3,N
+96,حرف,하르프,말,word,noun,R3,N
+97,کی,키,언제,when,adv,R3,N
+98,کاشتن,커시탄,심다,plant,verb,R3,Y
+99,کسی,카시,누군가,someone,pron,R3,N
+100,بله,발레,네,yes,interj,R3,N
+101,واقعا,버게안,정말,really,adv,R3,N
+102,بیرون,비룬,밖,outside,adv,R3,Y
+103,زندگی,젠데기,삶,life,noun,R3,N
+104,چطور,체토르,어떻게,how,adv,R3,N
+105,خوبه,쿠베,좋다,it's good,adj,R3,N
+106,خونه,쿠네,집,house,noun,R3,Y
+107,پیش,피시,~앞에,before,prep,R3,N
+108,سلام,살럼,안녕,hello,interj,R3,Y
+109,چیز,치즈,것,thing,noun,R3,N
+110,شاید,셔야드,아마,maybe,adv,R3,N
+111,واسه,버세,~위해,for,prep,R3,N
+112,اونجا,운저,거기,there,adv,R3,N
+113,ممنون,맘눈,고마워요,thanks,interj,R3,N
+114,بردن,보르단,가져가다,carry,verb,R3,Y
+115,درست,도로스트,옳은,correct,adj,R3,N
+116,چون,춘,왜냐하면,because,conj,R3,N
+117,ماندن,먼단,머물다,stay,verb,R3,N
+118,رسیدن,레시단,도착하다,arrive,verb,R3,Y
+119,هنوز,하누즈,아직,still,adv,R3,N
+120,کمک,코마크,도움,help,noun,R3,Y
+121,روی,루예,~위에,on,prep,R3,Y
+122,وقت,바그트,시간,time,noun,R3,N
+123,انجام,엔점,수행,doing,noun,R3,N
+124,فهمیدن,파흐미단,이해하다,understand,verb,R3,N
+125,دو,도,둘,two,num,R3,N
+126,خودت,코데트,너 자신,yourself,pron,R3,N
+127,روز,루즈,날,day,noun,R3,Y
+128,مورد,모레드,경우,case,noun,R3,N
+129,کجا,코저,어디,where,adv,R3,N
+130,سر,사르,머리,head,noun,R3,Y
+131,باه,버,~와 함께,with,prep,R3,N
+132,مرد,마르드,남자,man,noun,R3,Y
+133,اینه,이네,이것이다,this is,pron,R3,N
+134,تمام,타멈,끝난,finished,adj,R3,N
+135,است,아스트,~이다,is,verb,R3,N
+136,پدر,페다르,아버지,father,noun,R3,Y
+137,راه,러흐,길,road,noun,R3,Y
+138,بذار,베저르,하게 해,let,verb,R3,N
+139,منم,마남,나도,me too,pron,R3,N
+140,پسر,페사르,소년,boy,noun,R3,Y
+141,درسته,두로스테,맞다,right,adj,R3,N
+142,همیشه,하미셰,항상,always,adv,R3,N
+143,باش,버시,있어라,be,verb,R3,N
+144,چیکار,치커르,무슨 일,what to do,pron,R3,N
+145,شنیدن,셰니단,듣다,hear,verb,R3,Y
+146,بیشتر,비시타르,더 많이,more,adv,R3,N
+147,آدم,어담,사람,person,noun,R3,Y
+148,سال,설,해,year,noun,R3,N
+149,افتادن,오프터단,떨어지다,fall,verb,R3,Y
+150,تنها,탄허,혼자,alone,adj,R3,Y
+151,خودم,코담,나 자신,myself,pron,R3,N
+152,آقای,어거예,~씨,mister,noun,R3,Y
+153,دختر,도크타르,소녀,girl,noun,R3,Y
+154,چند,찬드,몇,how many,adj,R3,N
+155,دنبال,돈벌,뒤,after,prep,R3,N
+156,نظر,나자르,의견,opinion,noun,R3,N
+157,مشکل,모시켈,문제,problem,noun,R3,N
+158,دوباره,도버레,다시,again,adv,R3,N
+159,عزیز,아지즈,소중한,dear,adj,R3,N
+160,خوبی,쿠비,잘 지내?,are you well,adj,R3,N
+161,نگاه,네거흐,봄,look,noun,R3,Y
+162,حال,헐,상태,condition,noun,R3,N
+163,حتی,하타,심지어,even,adv,R3,N
+164,منظور,만주르,의미,meaning,noun,R3,N
+165,بی,비,~없는,without,prep,R3,N
+166,خوش,코시,즐거운,pleasant,adj,R3,N
+167,گوش,구시,귀,ear,noun,R3,Y
+168,لعنتی,라나티,빌어먹을,damn,adj,R3,N
+169,بازی,버지,놀이,game,noun,R3,Y
+170,مطمئن,모트마엔,확신하는,sure,adj,R3,N
+171,صحبت,소흐바트,대화,talk,noun,R3,N
+172,بزرگ,보조르그,큰,big,adj,R3,Y
+173,قبل,가블,전에,before,adv,R3,N
+174,شروع,쇼루,시작,start,noun,R3,N
+175,پول,풀,돈,money,noun,R3,Y
+176,نفر,나파르,명,person,noun,R3,N
+177,قربان,고르번,각하,sir,noun,R3,N
+178,خانم,커놈,부인,lady,noun,R3,Y
+179,قرار,가러르,약속,appointment,noun,R3,N
+180,صبر,사브르,인내,patience,noun,R3,N
+181,تموم,타문,끝난,finished,adj,R3,N
+182,بار,버르,"번, 짐",time,noun,R3,N
+183,وجود,부주드,존재,existence,noun,R3,N
+184,مردم,마르돔,사람들,people,noun,R3,Y
+185,مردن,모르단,죽다,die,verb,R3,N
+186,باز,버즈,열린,open,adj,EXT,Y
+187,ببخشید,베바크시드,죄송합니다,sorry,interj,EXT,N
+188,خدا,코더,신,god,noun,EXT,N
+189,ممکنه,몸케네,가능하다,possible,adj,EXT,N
+190,خدای,코더예,신이여,god,noun,EXT,N
+191,خاطر,커테르,"때문, 마음",sake,noun,EXT,N
+192,اگر,아가르,만약,if,conj,EXT,N
+193,شب,샤브,밤,night,noun,EXT,Y
+194,آوردن,어바르단,가져오다,bring,verb,EXT,Y
+195,خودش,코데시,그 자신,himself,pron,EXT,N
+196,لطفا,로트판,부디,please,adv,EXT,N
+197,اصلا,아슬란,전혀,at all,adv,EXT,N
+198,امروز,엠루즈,오늘,today,adv,EXT,N
+199,همون,하문,바로 그,the same,pron,EXT,N
+200,داشت,더시트,가졌다,had,verb,EXT,N
+201,ماشین,머신,자동차,car,noun,EXT,Y
+202,یارستن,여라스탄,감히 하다,dare,verb,EXT,N
+203,درباره,다르버레,~에 대해,about,prep,EXT,N
+204,استفاده,에스테퍼데,사용,use,noun,EXT,N
+205,مامان,머먼,엄마,mom,noun,EXT,Y
+206,ساعت,서아트,시계,clock,noun,EXT,Y
+207,خواهش,커헤시,부탁,request,noun,EXT,N
+208,البته,알바테,물론,of course,adv,EXT,N
+209,مگه,마게,설마,unless,conj,EXT,N
+210,یعنی,야으니,즉,that is,conj,EXT,N
+211,اسم,에슴,이름,name,noun,EXT,N
+212,گذاشتن,고저시탄,놓다,put,verb,EXT,Y
+213,کنار,케너르,옆,beside,prep,EXT,N
+214,چقدر,체가드르,얼마나,how much,adv,EXT,N
+215,سه,세,셋,three,num,EXT,N
+216,بخاطر,베커테르,~때문에,because of,prep,EXT,N
+217,اول,아발,첫째,first,adj,EXT,N
+218,سعی,사이,노력,try,noun,EXT,N
+219,برات,바러트,너를 위해,for you,prep,EXT,N
+220,کم,캄,적은,few,adj,EXT,N
+221,شو,쇼,되어라,become,verb,EXT,N
+222,متاسف,모테아세프,미안한,sorry,adj,EXT,N
+223,باور,버바르,믿음,belief,noun,EXT,N
+224,گشتن,가시탄,찾아다니다,search,verb,EXT,N
+225,بالا,벌러,위,up,adv,EXT,Y
+226,ام,암,~이다(1인칭),am,verb,EXT,N
+227,زنده,젠데,살아있는,alive,adj,EXT,N
+228,زن,잔,여자,woman,noun,EXT,Y
+229,کجاست,코저스트,어디야,where is it,adv,EXT,N
+230,جایی,저이,어딘가,somewhere,adv,EXT,N
+231,شناختن,셰너크탄,알아보다,recognize,verb,EXT,N
+232,دور,두르,먼,far,adj,EXT,N
+233,آماده,어머데,준비된,ready,adj,EXT,N
+234,اینطور,인토르,이렇게,this way,adv,EXT,N
+235,جا,저,자리,place,noun,EXT,N
+236,موندن,문단,머물다,stay,verb,EXT,N
+237,نیاز,니여즈,필요,need,noun,EXT,N
+238,هیچی,히치,아무것도,nothing,pron,EXT,N
+239,هیچوقت,히치바그트,결코,never,adv,EXT,N
+240,داد,더드,주었다,gave,verb,EXT,N
+241,بابا,버버,아빠,dad,noun,EXT,Y
+242,دنیا,도니여,세상,world,noun,EXT,Y
+243,پلیس,폴리스,경찰,police,noun,EXT,Y
+244,نجات,네저트,구조,rescue,noun,EXT,N
+245,انداختن,안더크탄,던지다,throw,verb,EXT,Y
+246,شهر,샤흐르,도시,city,noun,EXT,Y
+247,زمین,자민,땅,earth,noun,EXT,Y
+248,زنگ,장그,벨,bell,noun,EXT,Y
+249,مهم,모헴,중요한,important,adj,EXT,N
+250,پایستن,퍼야스탄,지속하다,endure,verb,EXT,N
+251,خبر,카바르,소식,news,noun,EXT,N
+252,زمان,자먼,시간,time,noun,EXT,N
+253,خوشحال,코시헐,기쁜,happy,adj,EXT,Y
+254,اتفاقی,에테페기,우연히,by chance,adv,EXT,N
+255,دکتر,독토르,의사,doctor,noun,EXT,Y
+256,جای,저예,자리,place,noun,EXT,N
+257,طرف,타라프,쪽,side,noun,EXT,N
+258,زیادی,지어디,너무 많이,too much,adv,EXT,N
+259,او,우,그 사람,he,pron,EXT,N
+260,بهتر,베흐타르,더 좋은,better,adj,EXT,N
+261,نباید,나버야드,하면 안 된다,must not,verb,EXT,N
+262,زود,주드,일찍,early,adv,EXT,N
+263,منه,마네,내 것이다,it's mine,pron,EXT,N
+264,خون,쿤,피,blood,noun,EXT,Y
+265,یالا,열러,어서,come on,interj,EXT,N
+266,دقیقه,다기게,분,minute,noun,EXT,N
+267,مادر,머다르,어머니,mother,noun,EXT,Y
+268,اینا,이너,이것들,these,pron,EXT,N
+269,-شون,에순,그들의(접어),"(their, 3pl clitic)",particle,EXT,N
+270,برام,바럼,나를 위해,for me,prep,EXT,N
+271,یاد,여드,기억,memory,noun,EXT,N
+272,اتاق,오터그,방,room,noun,EXT,Y
+273,برادر,바러다르,형제,brother,noun,EXT,Y
+274,اجازه,에저제,허락,permission,noun,EXT,N
+275,باعث,버에스,원인,cause,noun,EXT,N
+276,اتفاق,에테퍼그,사건,event,noun,EXT,N
+277,رفیق,라피그,친구,friend,noun,EXT,Y
+278,سمت,사므트,방향,direction,noun,EXT,N
+279,آرو,어로,~을/를(구어),(object marker),particle,EXT,N
+280,مرده,모르데,죽은,dead,adj,EXT,N
+281,پشت,포시트,뒤,behind,prep,EXT,N
+282,زیاد,지여드,많은,a lot,adj,EXT,N
+283,نگران,네가런,걱정하는,worried,adj,EXT,Y
+284,مال,멀,~의 것,belonging,noun,EXT,N
+285,جواب,자버브,대답,answer,noun,EXT,N
+286,فرار,파러르,도망,escape,noun,EXT,Y
+287,حتما,하트만,꼭,definitely,adv,EXT,N
+288,حالت,헐라트,상태,state,noun,EXT,N
+289,بهتره,베흐타레,더 낫다,better,adj,EXT,N
+290,اولین,아발린,첫 번째,first,adj,EXT,N
+291,آب,업,물,water,noun,EXT,Y
+292,پرسیدن,포르시단,묻다,ask,verb,EXT,N
+293,داخل,더켈,안,inside,adv,EXT,Y
+294,برگشتن,바르가시탄,돌아오다,return,verb,EXT,N
+295,لازم,러젬,필요한,necessary,adj,EXT,N
+296,کاملا,커멜런,완전히,completely,adv,EXT,N
+297,لحظه,라흐제,순간,moment,noun,EXT,N
+298,کارو,커로,일을,the work,noun,EXT,N
+299,همینطور,하민토르,마찬가지로,likewise,adv,EXT,N
+300,احساس,에흐서스,감정,feeling,noun,EXT,N
+301,همچ,하므치,이런(구어),such,other,EXT,N
+302,نوشتن,네베시탄,쓰다,write,verb,EXT,Y
+303,اینکارو,인커로,이 일을,this thing,pron,EXT,N
+304,بهترین,베흐타린,최고의,best,adj,EXT,N
+305,صبح,소브,아침,morning,noun,EXT,Y
+306,قراره,가러레,하기로 되다,supposed to,verb,EXT,N
+307,-تون,에툰,너희의(접어),"(your, 2pl clitic)",particle,EXT,N
+308,نزدیک,나즈디크,가까운,near,adj,EXT,N
+309,بقیه,바기예,나머지,the rest,noun,EXT,N
+310,جدید,자디드,새로운,new,adj,EXT,N
+311,مرگ,마르그,죽음,death,noun,EXT,N
+312,وارد,버레드,들어간,entering,adj,EXT,N
+313,مجبور,마즈부르,어쩔 수 없는,forced,adj,EXT,N
+314,خوابیدن,커비단,자다,sleep,verb,EXT,Y
+315,عاشق,어세그,사랑하는,in love,adj,EXT,N
+316,انتخاب,엔테커브,선택,choice,noun,EXT,N
+317,ادامه,에더메,계속,continue,noun,EXT,N
+318,دقیقا,다기간,정확히,exactly,adv,EXT,N
+319,هفته,하프테,주,week,noun,EXT,N
+320,جنگ,장그,전쟁,war,noun,EXT,Y
+321,اشتباه,에슈테버,실수,mistake,noun,EXT,N
+322,قبلا,가블란,전에,before,adv,EXT,N
+323,سریع,사리,빠른,fast,adj,EXT,N
+324,حرکت,하라카트,움직임,movement,noun,EXT,N
+325,بستن,바스탄,닫다,close,verb,EXT,Y
+326,عالیه,얼리예,훌륭하다,great,adj,EXT,N
+327,لباس,레버스,옷,clothes,noun,EXT,Y
+328,تر,타르,비교급 접미사,(comparative suffix),particle,EXT,N
+329,متوجه,모타바제,알아차린,aware,adj,EXT,N
+330,چشم,체슘,눈,eye,noun,EXT,Y
+331,زیر,지르,~아래에,under,prep,EXT,Y
+332,افراد,아프러드,사람들,people,noun,EXT,Y
+333,امشب,엠샤브,오늘 밤,tonight,adv,EXT,N
+334,کدوم,코둠,어느,which,pron,EXT,N
+335,آه,어,아!,ah,interj,EXT,N
+336,حمله,함레,공격,attack,noun,EXT,Y
+337,خانواده,커네버데,가족,family,noun,EXT,Y
+338,اومده,우마데,왔다,has come,verb,EXT,N
+339,ازدواج,에즈데버즈,결혼,marriage,noun,EXT,Y
+340,دار,더르,가진(접미),having,other,EXT,N
+341,کارت,커르트,카드,card,noun,EXT,Y
+342,فرستادن,페레스터단,보내다,send,verb,EXT,N
+343,ست,스트,~이다(구어),is,verb,EXT,N
+344,اومد,우마드,왔다,came,verb,EXT,N
+345,آخرین,어케린,마지막의,last,adj,EXT,N
+346,منتظر,몬타제르,기다리는,waiting,adj,EXT,N
+347,اعتماد,에테머드,신뢰,trust,noun,EXT,N
+348,رئیس,라이스,우두머리,boss,noun,EXT,Y
+349,قول,고울,약속,promise,noun,EXT,N
+350,شلیک,셸리크,사격,shooting,noun,EXT,Y
+351,چطوره,체토레,어때,how is it,adv,EXT,N
+352,ماه,머흐,달,moon,noun,EXT,Y
+353,عشق,에시그,사랑,love,noun,EXT,Y
+354,پید,페이드,찾다(일부),find,verb,EXT,N
+355,بسیار,베시여르,매우,very,adv,EXT,N
+356,حق,하그,권리,right,noun,EXT,N
+357,حس,헤스,느낌,feeling,noun,EXT,N
+358,یکم,예캄,조금,a little,adv,EXT,N
+359,عوض,아바즈,교환,change,noun,EXT,N
+360,جان,전,생명,soul,noun,EXT,N
+361,اینجور,인주르,이런 식,like this,adv,EXT,N
+362,فردا,파르더,내일,tomorrow,adv,EXT,N
+363,نقشه,나그셰,"지도, 계획",map,noun,EXT,Y
+364,حقیقت,하기가트,진실,truth,noun,EXT,N
+365,فیلم,필름,영화,movie,noun,EXT,Y
+366,برنامه,바르너메,프로그램,program,noun,EXT,N
+367,باختن,버크탄,지다,lose,verb,EXT,N
+368,گم,곰,잃어버린,lost,adj,EXT,N
+369,انگار,앙거르,마치,as if,conj,EXT,N
+370,قبول,가불,수락,acceptance,noun,EXT,N
+371,کیه,키예,누구야,who is it,pron,EXT,N
+372,واقعی,버게이,진짜,real,adj,EXT,N
+373,اره,어레,응,yes,interj,EXT,N
+374,تماس,타머스,연락,contact,noun,EXT,N
+375,قضیه,가지예,"사건, 일",matter,noun,EXT,N
+376,جلوی,젤로예,~앞에,in front of,prep,EXT,N
+377,جدی,제디,진지한,serious,adj,EXT,N
+378,احمق,아흐마그,바보,fool,adj,EXT,N
+379,تاختن,터크탄,질주하다,gallop,verb,EXT,Y
+380,سوال,소얼,질문,question,noun,EXT,N
+381,بیار,비여르,가져와,bring,verb,EXT,Y
+382,جور,주르,종류,kind,noun,EXT,N
+383,موقع,모게,때,time,noun,EXT,N
+384,عالی,얼리,훌륭한,great,adj,EXT,N
+385,فراموش,파러무시,잊힌,forgotten,adj,EXT,N
+386,شبیه,사비흐,닮은,similar,adj,EXT,N
+387,تصمیم,타스밈,결정,decision,noun,EXT,N
+388,اش,에시,그의(접어),"(his, 3sg clitic)",particle,EXT,N
+389,داستان,더스턴,이야기,story,noun,EXT,N
+390,دروغ,도루그,거짓말,lie,noun,EXT,N
+391,هرگز,하르게즈,결코,never,adv,EXT,N
+392,بعضی,바지,일부,some,pron,EXT,N
+393,رد,라드,"거절, 흔적",rejection,noun,EXT,N
+394,پر,포르,가득한,full,adj,EXT,Y
+395,صورت,수라트,얼굴,face,noun,EXT,Y
+396,وای,버이,아이고,oh no,interj,EXT,N
+397,قدرت,고드라트,힘,power,noun,EXT,N
+398,موضوع,모우주,주제,topic,noun,EXT,N
+399,جستن,자스탄,뛰어오르다,jump,verb,EXT,Y
+400,اومدی,우마디,왔니,you came,verb,EXT,N
+401,غیر,게이르,~외에,other than,prep,EXT,N
+402,زمانی,자머니,어떤 때,once,adv,EXT,N
+403,دید,디드,보았다,saw,verb,EXT,N
+404,کافی,커피,충분한,enough,adj,EXT,N
+405,گیر,기르,걸림,stuck,adj,EXT,N
+406,اینجاست,인저스트,여기 있다,it's here,adv,EXT,N
+407,براش,바러시,그를 위해,for him,prep,EXT,N
+408,کل,콜,전체,whole,adj,EXT,N
+409,تغییر,타기르,변화,change,noun,EXT,N
+410,روش,라베시,방법,method,noun,EXT,N
+411,کنترل,콘트롤,통제,control,noun,EXT,N
+412,آن,언,그것,that,pron,EXT,N
+413,خود,코드,자신,self,pron,EXT,N
+414,شماره,쇼머레,번호,number,noun,EXT,Y
+415,وایسا,버이서,멈춰,stop,verb,EXT,Y
+416,عنوان,온번,제목,title,noun,EXT,N
+417,جمع,잠,"모음, 합계",sum,noun,EXT,N
+418,اومدم,우마담,내가 왔다,i came,verb,EXT,N
+419,گرود,게라브드,믿게 되다,convert,verb,EXT,N
+420,اینقدر,인가드르,이만큼,this much,adv,EXT,N
+421,بخیر,베케이르,안녕히(인사),well,adv,EXT,N
+422,تیم,팀,팀,team,noun,EXT,Y
+423,بلند,볼란드,키 큰,tall,adj,EXT,Y
+424,عقب,아가브,뒤,back,adv,EXT,N
+425,شه,셰,되다(구어),become,verb,EXT,N
+426,همینه,하미네,바로 이거다,that's it,pron,EXT,N
+427,کس,카스,사람,person,noun,EXT,N
+428,آقا,어거,아저씨,mister,noun,EXT,Y
+429,انسان,엔선,인간,human,noun,EXT,Y
+430,گذشته,고자슈테,과거,past,noun,EXT,N
+431,احتمالا,에흐테멀란,아마,probably,adv,EXT,N
+432,-مون,에문,우리의(접어),"(our, 1pl clitic)",particle,EXT,N
+433,اسلحه,아슬라헤,총,gun,noun,EXT,Y
+434,مراقب,모러게브,조심하는,careful,adj,EXT,N
+435,دلار,돌러르,달러,dollar,noun,EXT,Y
+436,احتیاج,에흐티여즈,필요,need,noun,EXT,N
+437,اه,에,에이!,ugh,interj,EXT,N
+438,راست,러스트,오른쪽,right,adj,EXT,N
+439,بنظر,베나자르,~로 보이는,seemingly,adv,EXT,N
+440,هیچکس,히치카스,아무도,nobody,pron,EXT,N
+441,ترک,타르크,떠남,leaving,noun,EXT,N
+442,عکس,악스,사진,photo,noun,EXT,Y
+443,امیدوارم,오미드버람,바란다,i hope,verb,EXT,N
+444,یادت,여데트,네 기억,your memory,noun,EXT,N
+445,ساختن,서크탄,짓다,build,verb,EXT,Y
+446,توئه,토에,네 것이다,it's yours,pron,EXT,N
+447,خواب,커브,잠,sleep,noun,EXT,Y
+448,خارج,커레즈,밖,outside,noun,EXT,N
+449,دلیل,달릴,이유,reason,noun,EXT,N
+450,غذا,가저,음식,food,noun,EXT,Y
+451,سخت,사크트,어려운,difficult,adj,EXT,N
+452,هایی,허이,복수+부정 관사,(plural indefinite),particle,EXT,N
+453,شرکت,쇼르카트,회사,company,noun,EXT,Y
+454,پا,퍼,발,foot,noun,EXT,Y
+455,کننده,코난데,~하는 것(접미),(agent suffix),particle,EXT,N
+456,چیزیه,치지예,뭔가이다,it's something,pron,EXT,N
+457,نباش,나버시,있지 마라,don't be,verb,EXT,N
+458,مدت,모다트,기간,duration,noun,EXT,N
+459,خواهر,커하르,자매,sister,noun,EXT,Y
+460,درد,다르드,아픔,pain,noun,EXT,N
+461,خریدن,카리단,사다,buy,verb,EXT,Y
+462,کشیدن,케시단,당기다,pull,verb,EXT,Y
+463,کوچولو,쿠촐루,꼬마,little,adj,EXT,Y
+464,طول,툴,길이,length,noun,EXT,N
+465,انجامش,안저메시,그것을 하기,doing it,noun,EXT,N
+466,دیوونه,디부네,미친,crazy,adj,EXT,N
+467,کلی,콜리,전반적,general,adj,EXT,N
+468,ده,다흐,열,ten,num,EXT,N
+469,جدا,조더,따로,separate,adj,EXT,N
+470,هست,하스트,있다,is,verb,EXT,N
+471,صدای,세더예,~의 소리,sound of,noun,EXT,N
+472,مدرسه,마드레세,학교,school,noun,EXT,Y
+473,آیا,어여,~인가(의문),(question marker),particle,EXT,N
+474,خودمون,코데문,우리 자신,ourselves,pron,EXT,N
+475,شانس,션스,운,luck,noun,EXT,N
+476,هدف,하다프,목표,goal,noun,EXT,N
+477,جلو,젤로,앞,front,adv,EXT,N
+478,مبارزه,모버레제,싸움,fight,noun,EXT,Y
+479,یارو,여루,그 녀석,guy,noun,EXT,Y
+480,همش,하마시,"전부, 늘",all of it,adv,EXT,N
+481,بزار,베저르,하게 해,let,verb,EXT,N
+482,مردی,마르디,어떤 남자,a man,noun,EXT,Y
+483,قلب,갈브,심장,heart,noun,EXT,Y
+484,پادشاه,퍼드셔,왕,king,noun,EXT,Y
+485,بخش,바크시,부분,part,noun,EXT,N
+486,اهمیت,아하미야트,중요성,importance,noun,EXT,N
+487,پرونده,파르반데,서류철,file,noun,EXT,Y
+488,شکست,셰카스트,패배,defeat,noun,EXT,N
+489,جک,자크,잭(이름),jack,noun,EXT,N
+490,لعنت,라나트,저주,curse,noun,EXT,N
+491,تبدیل,타브딜,변환,conversion,noun,EXT,N
+492,پیشنهاد,피시네허드,제안,suggestion,noun,EXT,N
+493,دفعه,다페,번,time,noun,EXT,N
+494,بس,바스,그만,enough,adv,EXT,N
+495,نابود,너부드,파괴된,destroyed,adj,EXT,N
+496,بیخیال,비키열,신경 꺼,forget it,interj,EXT,N
+497,خفد,코프드,자다(문어),sleep,verb,EXT,N
+498,راجع,러제,~에 관해,about,prep,EXT,N
+499,توسط,타바소트,~에 의해,by,prep,EXT,N
+500,پنج,판즈,다섯,five,num,EXT,N
+501,صدا,세더,소리,sound,noun,EXT,N
+502,درک,다르크,이해,understanding,noun,EXT,N
+503,کتاب,케텁,책,book,noun,EXT,Y
+504,همسر,함사르,배우자,spouse,noun,EXT,N
+505,تحت,타흐트,~아래,under,prep,EXT,N
+506,موفق,모바파그,성공한,successful,adj,EXT,N
+507,آخر,어케르,마지막,last,adj,EXT,N
+508,آزاد,어저드,자유로운,free,adj,EXT,N
+509,همدیگه,함디게,서로,each other,pron,EXT,N
+510,دیر,디르,늦게,late,adv,EXT,N
+511,اسمش,에스메시,그의 이름,his name,noun,EXT,N
+512,تلفن,텔레폰,전화,telephone,noun,EXT,Y
+513,دلم,델람,내 마음,my heart,noun,EXT,N
+514,افتخار,에프테커르,영광,honor,noun,EXT,N
+515,محافظت,모허페자트,보호,protection,noun,EXT,N
+516,حساب,헤서브,계산,account,noun,EXT,N
+517,رفتار,라프터르,행동,behavior,noun,EXT,N
+518,تقریبا,타그리반,거의,almost,adv,EXT,N
+519,یادم,여담,내 기억,my memory,noun,EXT,N
+520,امتحان,엠테헌,시험,exam,noun,EXT,Y
+521,هزار,하저르,천,thousand,num,EXT,N
+522,شوخی,소키,농담,joke,noun,EXT,N
+523,بیدار,비더르,깨어 있는,awake,adj,EXT,Y
+524,ملاقات,몰러거트,만남,meeting,noun,EXT,N
+525,تکون,타쿤,흔들기,shake,noun,EXT,Y
+526,راحت,러하트,편한,comfortable,adj,EXT,N
+527,راستش,러스테시,사실은,honestly,adv,EXT,N
+528,کشور,케시바르,나라,country,noun,EXT,Y
+529,کمی,카미,조금,a little,adv,EXT,N
+530,مخفی,마크피,숨겨진,secret,adj,EXT,N
+531,پسرم,파사람,내 아들,my son,noun,EXT,Y
+532,قسمت,게스마트,부분,part,noun,EXT,N
+533,بعدی,바디,다음,next,adj,EXT,N
+534,حداقل,하데아갈,최소한,at least,adv,EXT,N
+535,اطلاعات,에텔러어트,정보,information,noun,EXT,N
+536,ارزش,아르제시,가치,value,noun,EXT,N
+537,سری,사리,"시리즈, 번",series,noun,EXT,N
+538,متشکر,모타샤케르,감사한,thankful,adj,EXT,N
+539,میار,미여르,가져오다,bring,verb,EXT,N
+540,چهار,차허르,넷,four,num,EXT,N
+541,دوتا,도터,두 개,two,num,EXT,N
+542,دوستت,두스테트,너를(좋아해),you (in love you),noun,EXT,N
+543,صد,사드,백,hundred,num,EXT,N
+544,عوضی,아바지,나쁜 놈,jerk,noun,EXT,N
+545,توجه,타바조흐,주의,attention,noun,EXT,N
+546,سگ,사그,개,dog,noun,EXT,Y
+547,همراه,함러흐,함께,together,adv,EXT,N
+548,آینده,어얀데,미래,future,noun,EXT,N
+549,اینکار,인커르,이 일,this thing,pron,EXT,N
+550,روح,루흐,영혼,soul,noun,EXT,N
+551,ترین,타린,가장 ~한(최상급),(superlative suffix),particle,EXT,N
+552,معنی,마너,의미,meaning,noun,EXT,N
+553,بعدا,바단,나중에,later,adv,EXT,N
+554,خوبیه,쿠비예,좋은 거다,it's good,adj,EXT,N
+555,بردار,바르더르,집어라,pick up,verb,EXT,Y
+556,پرواز,파르버즈,비행,flight,noun,EXT,Y
+557,قتل,가틀,살인,murder,noun,EXT,N
+558,معذرت,마제라트,사과,apology,noun,EXT,N
+559,طور,토우르,방식,way,noun,EXT,N
+560,خدایا,코더여,하느님,oh god,interj,EXT,N
+561,زندان,젠던,감옥,prison,noun,EXT,Y
+562,بسته,바스테,닫힌,closed,adj,EXT,Y
+563,بالاخره,발러카레,결국,finally,adv,EXT,N
+564,اوضاع,오우저,상황,situation,noun,EXT,N
+565,سیاه,시여흐,검은색,black,adj,EXT,Y
+566,زودباش,주드버시,서둘러,hurry up,interj,EXT,N
+567,سوار,사버르,탄,riding,adj,EXT,Y
+568,کامل,커멜,완전한,complete,adj,EXT,N
+569,کوچیک,쿠치크,작은,small,adj,EXT,N
+570,دل,델,마음,heart,noun,EXT,N
+571,قدیمی,가디미,오래된,old,adj,EXT,N
+572,قوی,가비,강한,strong,adj,EXT,N
+573,دستور,다스투르,명령,order,noun,EXT,N
+574,جوری,주리,~식으로,way,noun,EXT,N
+575,مامور,마무르,요원,agent,noun,EXT,Y
+576,ذهن,제흔,마음,mind,noun,EXT,N
+577,دختره,도크타레,그 여자애,the girl,noun,EXT,Y
+578,نشستن,네샤스탄,앉다,sit,verb,EXT,Y
+579,عجله,아잘레,서두름,hurry,noun,EXT,N
+580,خداحافظ,코더허페즈,안녕히,goodbye,interj,EXT,Y
+581,حاضر,허제르,준비된,ready,adj,EXT,N
+582,مواد,마버드,약물,drugs,noun,EXT,N
+583,روشن,로샨,밝은,bright,adj,EXT,N
+584,چیزا,치저,것들,things,noun,EXT,N
+585,واقع,버게,실제,reality,noun,EXT,N
+586,راهی,러히,길,way,noun,EXT,N
+587,توش,투시,그 안에,in it,adv,EXT,N
+588,ساله,설레,~살인,years old,adj,EXT,N
+589,ماست,머스트,요구르트,yogurt,noun,EXT,Y
+590,فرصت,포르사트,기회,opportunity,noun,EXT,N
+591,همینجا,하민저,바로 여기,right here,adv,EXT,N
+592,خراب,카러브,고장 난,broken,adj,EXT,N
+593,آنها,언허,그들,they,pron,EXT,N
+594,چیزایی,치저이,어떤 것들,things,noun,EXT,N
+595,درمورد,다르모레드,~에 대해,about,prep,EXT,N
+596,سرباز,사르버즈,군인,soldier,noun,EXT,Y
+597,کمکم,코마캄,내 도움,my help,noun,EXT,N
+598,توضیح,토우지흐,설명,explanation,noun,EXT,N
+599,تلاش,탈러시,노력,effort,noun,EXT,N
+600,بدست,베다스트,얻어,obtained,adv,EXT,N
+601,ات,아트,너의(접어),(your clitic),particle,EXT,N
+602,گزارش,고저레시,보고,report,noun,EXT,N
+603,روزی,루지,어느 날,one day,adv,EXT,N
+604,قابل,거벨,가치 있는,worthy,adj,EXT,N
+605,خط,카트,선,line,noun,EXT,Y
+606,گدشتن,고자시탄,지나가다,to pass,verb,EXT,N
+607,ناراحت,너러하트,속상한,upset,adj,EXT,Y
+608,خطر,카타르,위험,danger,noun,EXT,N
+609,سرور,사르바르,주인님,lord,noun,EXT,N
+610,برگرد,바르가르드,돌아와,come back,verb,EXT,N
+611,خودتون,코데툰,당신들 자신,yourselves,pron,EXT,N
+612,حل,할,해결,solution,noun,EXT,N
+613,عمل,아말,행동,action,noun,EXT,N
+614,بیشتری,비시타리,더 많은,more,adj,EXT,N
+615,کارا,커러,일들,jobs,noun,EXT,N
+616,میلیون,밀리윤,백만,million,num,EXT,N
+617,موقعیت,모우게이야트,위치,situation,noun,EXT,N
+618,ارتش,아르타시,군대,army,noun,EXT,Y
+619,رابطه,러베테,관계,relationship,noun,EXT,N
+620,علاقه,알러게,관심,interest,noun,EXT,N
+621,سی,시,30,thirty,num,EXT,N
+622,انتظار,엔테저르,기대,expectation,noun,EXT,N
+623,نفس,나파스,숨,breath,noun,EXT,N
+624,فرق,파르그,차이,difference,noun,EXT,N
+625,نام,넘,이름,name,noun,EXT,N
+626,نظرت,나자레트,네 생각,your opinion,noun,EXT,N
+627,چکار,체커르,무엇을 할,what to do,pron,EXT,N
+628,قانون,거눈,법,law,noun,EXT,N
+629,معلومه,말루메,뻔하다,it's obvious,adj,EXT,N
+630,مادرم,머다람,우리 엄마,my mother,noun,EXT,Y
+631,فوق,포그,위의,above,adj,EXT,N
+632,سرت,사레트,네 머리,your head,noun,EXT,N
+633,ریختن,리크탄,붓다,pour,verb,EXT,Y
+634,سفر,사파르,여행,travel,noun,EXT,Y
+635,مرسی,메르시,고마워,thank you,interj,EXT,N
+636,لذت,레자트,즐거움,pleasure,noun,EXT,N
+637,باقی,버기,나머지,remaining,adj,EXT,N
+638,نامد,너마드,오지 않다,did not come,verb,EXT,N
+639,پایان,퍼연,끝,end,noun,EXT,N
+640,هواپیما,하버페이머,비행기,airplane,noun,EXT,Y
+641,وضعیت,바즈이야트,상황,situation,noun,EXT,N
+642,مواظب,모버제브,조심하는,careful,adj,EXT,N
+643,خودشون,코데순,그들 자신,themselves,pron,EXT,N
+644,دفتر,다프타르,공책,notebook,noun,EXT,Y
+645,خسته,카스테,피곤한,tired,adj,EXT,Y
+646,داداش,더더시,형,brother,noun,EXT,Y
+647,ترجمه,타르조메,번역,translation,noun,EXT,N
+648,خانوم,커눔,부인,lady,noun,EXT,Y
+649,مسیر,마시르,경로,route,noun,EXT,N
+650,اس,아스,이다,is,verb,EXT,N
+651,آتش,어타시,불,fire,noun,EXT,Y
+652,هرچ,하르체,무엇이든,whatever,pron,EXT,N
+653,دیشب,디샤브,어젯밤,last night,adv,EXT,N
+654,باب,버브,밥(이름),bob,noun,EXT,N
+655,متنفر,모테나페르,싫어하는,hateful,adj,EXT,N
+656,ش,에시,그의(접어),(his/her clitic),particle,EXT,N
+657,دی,데이,이란력 10월,dey,noun,EXT,N
+658,عجیب,아지브,이상한,strange,adj,EXT,N
+659,واس,버스,~를 위해,for,prep,EXT,N
+660,فشار,페셔르,압력,pressure,noun,EXT,N
+661,متأسف,모테아세프,미안한,sorry,adj,EXT,N
+662,شام,셤,저녁식사,dinner,noun,EXT,Y
+663,عصبانی,아사버니,화난,angry,adj,EXT,Y
+664,آخه,어케,왜냐하면,because,conj,EXT,N
+665,کلمه,칼라메,단어,word,noun,EXT,N
+666,آمریکا,엄리커,미국,america,noun,EXT,Y
+667,حرومزاده,하룸저데,개자식,bastard,noun,EXT,N
+668,شش,셰시,여섯,six,num,EXT,N
+669,کافیه,커피예,충분하다,it's enough,adj,EXT,N
+670,جیم,짐,짐(이름),jim,noun,EXT,N
+671,مسابقه,모서베게,경기,competition,noun,EXT,N
+672,سم,삼,독,poison,noun,EXT,Y
+673,سیستم,시스템,시스템,system,noun,EXT,N
+674,شوهر,쇼하르,남편,husband,noun,EXT,Y
+675,خبره,카바레,무슨 일이다,what's up,other,EXT,N
+676,قاتل,거텔,살인자,killer,noun,EXT,Y
+677,تنگ,탕,좁은,tight,adj,EXT,N
+678,بابت,버바트,~에 대해,for,prep,EXT,N
+679,قطع,가트,끊김,cut off,noun,EXT,N
+680,خودتو,코데토,너 자신을,yourself,pron,EXT,N
+681,منطقه,만타게,지역,region,noun,EXT,N
+682,خودشه,코데셰,바로 그거다,that's it,other,EXT,N
+683,بینی,비니,코,nose,noun,EXT,Y
+684,شرمنده,샤르만데,부끄러운,ashamed,adj,EXT,N
+685,تصور,타사보르,상상,imagination,noun,EXT,N
+686,مهمه,모헴메,중요하다,it matters,adj,EXT,N
+687,مسخره,마스카레,우스운,ridiculous,adj,EXT,N
+688,مون,문,우리의(접어),(our clitic),particle,EXT,N
+689,دریافت,다르여프트,받기,receipt,noun,EXT,N
+690,دنیای,돈여예,~의 세상,world of,noun,EXT,N
+691,خیال,키열,생각,thought,noun,EXT,N
+692,امکان,엠컨,가능성,possibility,noun,EXT,N
+693,دم,담,앞,edge,noun,EXT,N
+694,گریستن,게리스탄,울다,to cry,verb,EXT,Y
+695,چندتا,찬드터,몇 개,how many,adv,EXT,N
+696,سراغ,소러그,찾아감,looking for,noun,EXT,N
+697,بیمارستان,비머레스턴,병원,hospital,noun,EXT,Y
+698,تنهایی,탄허이,외로움,loneliness,noun,EXT,N
+699,وسط,바사트,가운데,middle,noun,EXT,N
+700,درخواست,다르커스트,요청,request,noun,EXT,N
+701,کاپیتان,커피턴,선장,captain,noun,EXT,Y
+702,بررسی,바르라시,검토,review,noun,EXT,N
+703,ثانیه,서니예,초,second,noun,EXT,N
+704,دشمن,도시만,적,enemy,noun,EXT,N
+705,قهرمان,가흐레먼,영웅,hero,noun,EXT,N
+706,اونوقت,운바그트,그러면,then,adv,EXT,N
+707,شرط,샤르트,내기,bet,noun,EXT,N
+708,ملکه,말라케,여왕,queen,noun,EXT,Y
+709,حدس,하드스,추측,guess,noun,EXT,N
+710,سرم,사람,내 머리,my head,noun,EXT,N
+711,خالی,컬리,빈,empty,adj,EXT,Y
+712,فرمانده,파르먼데,사령관,commander,noun,EXT,Y
+713,چجوری,체주리,어떻게,how,adv,EXT,N
+714,مشروب,마시루브,술,liquor,noun,EXT,Y
+715,العاده,올어데,특별한,extraordinary,adj,EXT,N
+716,بزرگی,보조르기,큼,bigness,noun,EXT,N
+717,اصلی,아슬리,주요한,main,adj,EXT,N
+718,چنین,체닌,이런,such,adj,EXT,N
+719,قسم,가삼,맹세,oath,noun,EXT,N
+720,معامله,모어멜레,거래,deal,noun,EXT,N
+721,خواست,커스트,원했다,wanted,verb,EXT,N
+722,جی,지,지(글자),g,other,EXT,N
+723,تونس,투네스,할 수 있었다,could,verb,EXT,N
+724,آزمایش,어즈머예시,실험,experiment,noun,EXT,N
+725,اومدن,우마단,왔다,they came,verb,EXT,N
+726,دستت,다스테트,네 손,your hand,noun,EXT,Y
+727,جشن,자신,축하 잔치,celebration,noun,EXT,Y
+728,تقصیر,타그시르,잘못,fault,noun,EXT,N
+729,طبقه,타바게,층,floor,noun,EXT,N
+730,برابر,바러바르,동등한,equal,adj,EXT,N
+731,اینها,인허,이것들,these,pron,EXT,N
+732,برندد,바란데드,이기다,win,verb,EXT,N
+733,خیابون,키여분,거리,street,noun,EXT,Y
+734,دوم,도봄,둘째,second,adj,EXT,N
+735,ول,벨,놓아줌,let go,verb,EXT,N
+736,ضربه,자르베,타격,blow,noun,EXT,Y
+737,چک,체크,수표,check,noun,EXT,N
+738,فرمودن,파르무단,말씀하셨다,said,verb,EXT,N
+739,جز,조즈,~외에,except,prep,EXT,N
+740,سفید,세피드,흰색,white,adj,EXT,Y
+741,قدم,가담,걸음,step,noun,EXT,Y
+742,اونجاست,운저스트,저기 있다,it's there,adv,EXT,N
+743,مراقبت,모러게바트,돌봄,care,noun,EXT,N
+744,بگیر,베기르,잡아,take,verb,EXT,Y
+745,نمایش,나머예시,공연,show,noun,EXT,N
+746,ثابت,서베트,고정된,fixed,adj,EXT,N
+747,هوا,하버,공기,air,noun,EXT,N
+748,ان,언,복수 접미사,(plural suffix),particle,EXT,N
+749,رسید,라시드,영수증,receipt,noun,EXT,Y
+750,خیلی‌خب,케일리코브,좋아,okay,interj,EXT,N
+751,مغز,마그즈,뇌,brain,noun,EXT,Y
+752,قهوه,가흐베,커피,coffee,noun,EXT,Y
+753,جریان,자르연,사정,matter,noun,EXT,N
+754,تمرین,탐린,연습,practice,noun,EXT,N
+755,صدمه,사다메,피해,harm,noun,EXT,N
+756,زنی,자니,어떤 여자,a woman,noun,EXT,Y
+757,تمومش,타무메시,끝내,finish it,verb,EXT,N
+758,ایشون,이순,그분,he,pron,EXT,N
+759,خوشت,코셰트,네 마음에,you like,other,EXT,N
+760,دیوار,디버르,벽,wall,noun,EXT,Y
+761,گل,골,꽃,flower,noun,EXT,Y
+762,اند,안드,이다(3인칭 복수),they are,verb,EXT,N
+763,سرعت,소라트,속도,speed,noun,EXT,N
+764,سخته,사크테,어렵다,it's hard,adj,EXT,N
+765,بخون,베쿤,읽어,read,verb,EXT,Y
+766,شغل,쇼글,직업,job,noun,EXT,N
+767,تیر,티르,이란력 4월,tir,noun,EXT,N
+768,طوری,토우리,~하게,way,noun,EXT,N
+769,نیروی,니루예,~의 힘,force of,noun,EXT,N
+770,براتون,바러툰,당신들을 위해,for you,prep,EXT,N
+771,سکس,섹스,성관계,sex,noun,EXT,N
+772,استراحت,에스테러하트,휴식,rest,noun,EXT,Y
+773,فروختن,푸루크탄,팔다,sell,verb,EXT,Y
+774,کارش,커레시,그의 일,his work,noun,EXT,N
+775,دردسر,다르데사르,골칫거리,trouble,noun,EXT,N
+776,هان,헌,응,huh,interj,EXT,N
+777,اطراف,아트러프,주변,around,noun,EXT,N
+778,آسیب,어시브,부상,injury,noun,EXT,N
+779,تفنگ,토팡,총,gun,noun,EXT,Y
+780,تیکه,티케,조각,piece,noun,EXT,N
+781,شرایط,샤러예트,조건,conditions,noun,EXT,N
+782,بسد,바사드,충분하다,enough,other,EXT,N
+783,ولش,벨레시,놔둬,let it go,verb,EXT,N
+784,ساده,서데,간단한,simple,adj,EXT,N
+785,بجنب,베존브,서둘러,hurry,verb,EXT,N
+786,تخت,타크트,침대,bed,noun,EXT,Y
+787,مراسم,마러셈,의식,ceremony,noun,EXT,N
+788,جو,자브,분위기,atmosphere,noun,EXT,N
+789,نیرو,니루,힘,force,noun,EXT,N
+790,همونطور,하문토우르,그렇게,likewise,adv,EXT,N
+791,وگرنه,바가르나,그렇지 않으면,otherwise,conj,EXT,N
+792,محل,마할,장소,place,noun,EXT,N
+793,احترام,에흐테럼,존경,respect,noun,EXT,N
+794,آشنا,어시너,아는,acquainted,adj,EXT,N
+795,جمهور,좀후르,공화국,republic,noun,EXT,N
+796,کلید,켈리드,열쇠,key,noun,EXT,Y
+797,دستم,다스탐,내 손,my hand,noun,EXT,Y
+798,هفت,하프트,일곱,seven,num,EXT,N
+799,تون,툰,너희의(접어),(your pl. clitic),particle,EXT,N
+800,زودی,주디,곧,soon,adv,EXT,N
+801,عجب,아자브,대단하다,wow,interj,EXT,N
+802,ایده,이데,아이디어,idea,noun,EXT,N
+803,سرش,사레시,그의 머리,his head,noun,EXT,N
+804,ارتباط,에르테버트,연결,connection,noun,EXT,N
+805,بمب,봄브,폭탄,bomb,noun,EXT,Y
+806,سالم,설렘,건강한,healthy,adj,EXT,N
+807,جالب,절레브,흥미로운,interesting,adj,EXT,N
+808,جناب,제너브,각하,sir,noun,EXT,N
+809,اداره,에더레,사무소,office,noun,EXT,N
+810,انقدر,엔가드르,그렇게나,so much,adv,EXT,N
+811,زیبا,지버,아름다운,beautiful,adj,EXT,N
+812,دارو,더루,약,medicine,noun,EXT,Y
+813,ساکت,서케트,조용한,quiet,adj,EXT,N
+814,جورایی,주러이,어떤 면에서,sort of,adv,EXT,N
+815,نیازی,니여지,필요,need,noun,EXT,N
+816,تحمل,타함몰,참음,tolerance,noun,EXT,N
+817,ایستادن,이스터단,서다,stand,verb,EXT,Y
+818,گلوله,골룰레,총알,bullet,noun,EXT,Y
+819,چپ,차프,왼쪽,left,adj,EXT,N
+820,شاه,셔,왕,king,noun,EXT,Y
+821,مسئله,마스알레,문제,problem,noun,EXT,N
+822,ممکن,몸켄,가능한,possible,adj,EXT,N
+823,ساخته,서크테,만들어진,made,adj,EXT,N
+824,سنگ,상그,돌,stone,noun,EXT,Y
+825,مرکز,마르카즈,중심,center,noun,EXT,N
+826,همشون,하마순,그들 모두,all of them,pron,EXT,N
+827,الو,알로,여보세요,hello,interj,EXT,N
+828,کشت,코시트,죽였다,killed,verb,EXT,N
+829,اسب,아스브,말(동물),horse,noun,EXT,Y
+830,شک,샤크,의심,doubt,noun,EXT,N
+831,سازمان,서즈먼,기관,organization,noun,EXT,N
+832,تشکر,타샤코르,감사,thanks,noun,EXT,N
+833,کلاس,켈러스,교실,classroom,noun,EXT,Y
+834,بدتر,바드타르,더 나쁜,worse,adj,EXT,N
+835,ت,에트,너의(접어),(your clitic),particle,EXT,N
+836,آی,어이,아이고,ow,interj,EXT,N
+837,آقایون,어거윤,신사분들,gentlemen,noun,EXT,Y
+838,بحث,바흐스,토론,discussion,noun,EXT,N
+839,امنیت,암니야트,안전,security,noun,EXT,N
+840,فرانک,페랑크,프랭크(이름),frank,noun,EXT,N
+841,تولد,타발로드,생일,birthday,noun,EXT,Y
+842,نور,누르,빛,light,noun,EXT,Y
+843,امید,오미드,희망,hope,noun,EXT,N
+844,تاریخ,터리크,역사,history,noun,EXT,N
+845,قایق,거예그,배,boat,noun,EXT,Y
+846,امن,암느,안전한,safe,adj,EXT,N
+847,وقته,바그테,~할 때다,it's time,other,EXT,N
+848,محض,마흐즈,오직 ~위해,for the sake,prep,EXT,N
+849,میدونستم,미두네스탐,알고 있었다,i knew,verb,EXT,N
+850,باد,버드,바람,wind,noun,EXT,Y
+851,فاصله,퍼셀레,거리,distance,noun,EXT,N
+852,مایک,마이크,마이크(이름),mike,noun,EXT,N
+853,پرت,파르트,던진,thrown,adj,EXT,N
+854,شمشیر,샴시르,칼,sword,noun,EXT,Y
+855,دستگاه,다스트거흐,기계,device,noun,EXT,Y
+856,پی,페이,뒤쫓음,pursuit,noun,EXT,N
+857,برا,바러,~를 위해,for,prep,EXT,N
+858,متوقف,모테바게프,멈춘,stopped,adj,EXT,N
+859,کمتر,캄타르,더 적게,less,adv,EXT,N
+860,زندانی,젠더니,죄수,prisoner,noun,EXT,Y
+861,خوشگل,코시겔,예쁜,pretty,adj,EXT,N
+862,نتیجه,나티제,결과,result,noun,EXT,N
+863,حد,하드,한계,limit,noun,EXT,N
+864,نیویورک,니유요르크,뉴욕,new york,noun,EXT,Y
+865,آشغال,어시걸,쓰레기,trash,noun,EXT,Y
+866,ذره,자레,조금,bit,noun,EXT,N
+867,دعوت,다바트,초대,invitation,noun,EXT,N
+868,دوربین,두르빈,카메라,camera,noun,EXT,Y
+869,قصد,가스드,의도,intention,noun,EXT,N
+870,نوع,노으,종류,type,noun,EXT,N
+871,خدمت,케드마트,봉사,service,noun,EXT,N
+872,پای,퍼예,~의 발,foot of,noun,EXT,Y
+873,آهنگ,어항그,노래,song,noun,EXT,Y
+874,پخش,파크시,방송,broadcast,noun,EXT,N
+875,مهمونی,메흐무니,파티,party,noun,EXT,Y
+876,قرمز,게르메즈,빨간색,red,adj,EXT,Y
+877,خیانت,키여나트,배신,betrayal,noun,EXT,N
+878,کله,칼레,머리,head,noun,EXT,Y
+879,مثلا,마살란,예를 들어,for example,adv,EXT,N
+880,رنگ,랑그,색,color,noun,EXT,Y
+881,پاک,퍼크,깨끗한,clean,adj,EXT,N
+882,گرم,가름,따뜻한,warm,adj,EXT,Y
+883,صحنه,사흐네,장면,scene,noun,EXT,N
+884,هدیه,헤디예,선물,gift,noun,EXT,Y
+885,هات,허트,너의 ~들,(your plural),particle,EXT,N
+886,استاد,오스터드,교수,professor,noun,EXT,Y
+887,نشاستن,네셔스탄,앉다,to sit,verb,EXT,Y
+888,اونه,우네,그거다,it's that,pron,EXT,N
+889,بوی,부예,~의 냄새,smell of,noun,EXT,N
+890,نگه,네가흐,보관,keep,verb,EXT,N
+891,جهان,저헌,세계,world,noun,EXT,Y
+892,گذشتن,고자시탄,지나가다,pass,verb,EXT,N
+893,کجایی,코저이,어디 있니,where are you,adv,EXT,N
+894,رییس,라이스,사장,boss,noun,EXT,Y
+895,جین,진,진(이름),jean,noun,EXT,N
+896,قربانی,고르버니,희생자,victim,noun,EXT,N
+897,نظرم,나자람,내 생각,my opinion,noun,EXT,N
+898,مکان,마컨,장소,place,noun,EXT,N
+899,کون,쿤,엉덩이(속어),butt,noun,EXT,N
+900,دستگیر,다스트기르,체포된,arrested,adj,EXT,N
+901,وکیل,바킬,변호사,lawyer,noun,EXT,Y
+902,میز,미즈,책상,table,noun,EXT,Y
+903,نوشیدنی,누시다니,음료,drink,noun,EXT,Y
+904,حلقه,할게,반지,ring,noun,EXT,Y
+905,تمیز,타미즈,깨끗한,clean,adj,EXT,Y
+906,حسابی,헤서비,제대로,properly,adv,EXT,N
+907,پیر,피르,늙은,old,adj,EXT,Y
+908,ارباب,아르법,주인,master,noun,EXT,N
+909,شکستن,셰카스탄,깨다,break,verb,EXT,Y
+910,اونی,우니,그것,the one,pron,EXT,N
+911,عمو,아무,삼촌,uncle,noun,EXT,Y
+912,کیف,키프,가방,bag,noun,EXT,Y
+913,وسایل,바서옐,물건들,belongings,noun,EXT,N
+914,شکل,셰클,모양,shape,noun,EXT,N
+915,شمال,쇼멀,북쪽,north,noun,EXT,N
+916,حواس,하버스,주의,attention,noun,EXT,N
+917,بنابراین,바너바린,그러므로,therefore,conj,EXT,N
+918,شخصی,샤크시,개인적,personal,adj,EXT,N
+919,جوان,자번,젊은,young,adj,EXT,Y
+920,چارلی,처를리,찰리(이름),charlie,noun,EXT,N
+921,باهوش,버후시,똑똑한,smart,adj,EXT,N
+922,مربوط,마르부트,관련된,related,adj,EXT,N
+923,ماهی,머히,물고기,fish,noun,EXT,Y
+924,مقدار,메그더르,양,amount,noun,EXT,N
+925,میبینمت,미비나메트,또 보자,see you,verb,EXT,N
+926,خندد,칸다드,웃다,laughs,verb,EXT,Y
+927,هتل,호텔,호텔,hotel,noun,EXT,Y
+928,سختی,사크티,어려움,hardship,noun,EXT,N
+929,هاش,허시,복수+그의,(plural + his),particle,EXT,N
+930,گوشت,구시트,고기,meat,noun,EXT,Y
+931,بکش,베코시,죽여,kill,verb,EXT,N
+932,احمقانه,아흐마거네,바보 같은,stupid,adj,EXT,N
+933,تعقیب,타기브,추적,chase,noun,EXT,Y
+934,اینجایی,인저이,여기 있니,you're here,verb,EXT,N
+935,تمومه,타무메,끝났다,it's over,verb,EXT,N
+936,جاده,저데,도로,road,noun,EXT,Y
+937,همگی,하메기,모두,everyone,pron,EXT,N
+938,پوست,푸스트,피부,skin,noun,EXT,Y
+939,لیست,리스트,목록,list,noun,EXT,N
+940,جهنم,자한남,지옥,hell,noun,EXT,N
+941,آتی,어티,다가올,upcoming,adj,EXT,N
+942,باهاشون,버허순,그들과,with them,prep,EXT,N
+943,دفاع,데퍼,방어,defense,noun,EXT,N
+944,خانه,커네,집,house,noun,EXT,Y
+945,نگهبان,네가흐번,경비원,guard,noun,EXT,Y
+946,نسبت,네스바트,관계,relation,noun,EXT,N
+947,حدود,호두드,약,about,adv,EXT,N
+948,آدما,어다머,사람들,people,noun,EXT,Y
+949,ستاره,세터레,별,star,noun,EXT,Y
+950,سلاح,살러흐,무기,weapon,noun,EXT,Y
+951,ماموریت,마무리야트,임무,mission,noun,EXT,N
+952,شاهزاده,셔흐저데,왕자,prince,noun,EXT,Y
+953,نصف,네스프,절반,half,noun,EXT,N
+954,برگردم,바르가르담,돌아가다,return,verb,EXT,N
+955,ایجاد,이저드,만들기,creation,noun,EXT,N
+956,تهدید,타흐디드,위협,threat,noun,EXT,N
+957,شماست,쇼머스트,당신 것이다,it's yours,verb,EXT,N
+958,مشت,모시트,주먹,fist,noun,EXT,Y
+959,قطار,가터르,기차,train,noun,EXT,Y
+960,درس,다르스,수업,lesson,noun,EXT,N
+961,خاموش,커무시,꺼진,off,adj,EXT,N
+962,محکم,모흐캄,단단한,firm,adj,EXT,N
+963,آزادی,어저디,자유,freedom,noun,EXT,N
+964,سوختن,수크탄,타다,burn,verb,EXT,Y
+965,دیگر,디가르,다른,other,adj,EXT,N
+966,ترجیح,타르지흐,선호,preference,noun,EXT,N
+967,اشکالی,에시컬리,문제,problem,noun,EXT,N
+968,بیماری,비머리,질병,disease,noun,EXT,N
+969,سرزمین,사르자민,땅,land,noun,EXT,N
+970,وقتشه,바그테셰,때가 됐다,it's time,verb,EXT,N
+971,رقص,라그스,춤,dance,noun,EXT,Y
+972,شیطان,셰이턴,악마,devil,noun,EXT,Y
+973,زودتر,주드타르,더 빨리,sooner,adv,EXT,N
+974,شی,셰이,물건,object,noun,EXT,N
+975,جوون,자분,젊은,young,adj,EXT,N
+976,کج,카즈,비뚤어진,crooked,adj,EXT,N
+977,عروسی,아루시,결혼식,wedding,noun,EXT,Y
+978,کارهای,커르허예,일들의,works of,noun,EXT,N
+979,حرفی,하르피,할 말,a word,noun,EXT,N
+980,دستش,다스테시,그의 손,his hand,noun,EXT,Y
+981,خودمو,코다모,나 자신을,myself,pron,EXT,N
+982,تسلیم,타슬림,항복,surrender,noun,EXT,N
+983,چیزهایی,치즈허이,것들,things,noun,EXT,N
+984,جاش,저시,그 자리,its place,noun,EXT,N
+985,عملیات,아말리여트,작전,operation,noun,EXT,N
+986,گاز,거즈,가스,gas,noun,EXT,N
+987,لازمه,러제메,필요하다,it's needed,verb,EXT,N
+988,درمان,다르먼,치료,treatment,noun,EXT,N
+989,یادته,여데테,기억나,you remember,verb,EXT,N
+990,بیست,비스트,이십,twenty,num,EXT,N
+991,جعبه,자베,상자,box,noun,EXT,Y
+992,مسیح,마시흐,그리스도,christ,noun,EXT,N
+993,دادگاه,더드거흐,법원,court,noun,EXT,N
+994,جزیره,자지레,섬,island,noun,EXT,Y
+995,همچنین,함치닌,또한,also,adv,EXT,N
+996,پیاده,피여데,걸어서,on foot,adv,EXT,Y
+997,دلیلی,달릴리,이유,a reason,noun,EXT,N
+998,بن,벤,벤(이름),ben,noun,EXT,N
+999,جنگل,장갈,숲,forest,noun,EXT,Y
+1000,خیله,케일레,아주,very,adv,EXT,N
+1001,بیش,비시,이상,more,adv,EXT,N
+1002,دریایی,다르여이,바다의,marine,adj,EXT,N
+1003,چونکه,춘케,왜냐하면,because,conj,EXT,N
+1004,ترس,타르스,두려움,fear,noun,EXT,N
+1005,جیمز,제임즈,제임스(이름),james,noun,EXT,N
+1006,پیتر,피테르,피터(이름),peter,noun,EXT,N
+1007,ترتیب,타르티브,순서,order,noun,EXT,N
+1008,اثر,아사르,영향,effect,noun,EXT,N
+1009,دوستان,두스턴,친구들,friends,noun,EXT,Y
+1010,جلسه,잘라세,회의,meeting,noun,EXT,Y
+1011,خبری,카바리,소식,news,noun,EXT,N
+1012,دولت,돌라트,정부,government,noun,EXT,N
+1013,مایکل,머이켈,마이클(이름),michael,noun,EXT,N
+1014,قوانین,가버닌,법률들,laws,noun,EXT,N
+1015,فک,파크,턱,jaw,noun,EXT,Y
+1016,ربطی,라브티,관계,connection,noun,EXT,N
+1017,هام,험,복수+나의,(plural + my),particle,EXT,N
+1018,بالای,벌러예,~위에,above,prep,EXT,N
+1019,طولانی,툴러니,긴,long,adj,EXT,N
+1020,پیغام,페이검,메시지,message,noun,EXT,N
+1021,مقابل,모거벨,맞은편,opposite,prep,EXT,N
+1022,مسئول,마스울,책임 있는,responsible,adj,EXT,N
+1023,اذیت,아지야트,괴롭힘,bother,noun,EXT,N
+1024,جنده,젠데,창녀(욕설),whore,noun,EXT,N
+1025,بیفته,비오프테,떨어지다,fall,verb,EXT,N
+1026,اهل,아흘,출신,native of,noun,EXT,N
+1027,بنداز,벤더즈,던져,throw,verb,EXT,Y
+1028,علیه,알레이흐,~에 반대해,against,prep,EXT,N
+1029,باری,버리,한 번,once,noun,EXT,N
+1030,لرد,로르드,경(귀족),lord,noun,EXT,N
+1031,دیوید,데비드,데이비드(이름),david,noun,EXT,N
+1032,لطف,로트프,친절,kindness,noun,EXT,N
+1033,نقش,나그시,역할,role,noun,EXT,N
+1034,برامون,바러문,우리를 위해,for us,prep,EXT,N
+1035,فرستاده,페레스터데,보냈다,sent,verb,EXT,N
+1036,اشتباهی,에시테버히,실수로,by mistake,adv,EXT,N
+1037,آمریکایی,엄리커이,미국인,american,adj,EXT,N
+1038,-مان,에먼,1인칭 복수 소유,(our),particle,EXT,N
+1039,درون,다룬,안,inside,prep,EXT,N
+1040,درخت,데라크트,나무,tree,noun,EXT,Y
+1041,وحشتناک,바흐샤트넉,끔찍한,terrible,adj,EXT,N
+1042,دسته,다스테,손잡이,handle,noun,EXT,N
+1043,سینه,시네,가슴,chest,noun,EXT,Y
+1044,تک,탁,단 하나,single,adj,EXT,N
+1045,بعنوان,베온번,~로서,as,prep,EXT,N
+1046,سلامتی,살러마티,건강,health,noun,EXT,N
+1047,دانشگاه,더네시거흐,대학교,university,noun,EXT,Y
+1048,تعریف,타리프,칭찬,praise,noun,EXT,N
+1049,دیروز,디루즈,어제,yesterday,adv,EXT,N
+1050,برش,바레시,그것을,it,pron,EXT,N
+1051,پرنده,파란데,새,bird,noun,EXT,Y
+1052,ماجرا,머자러,사건,story,noun,EXT,N
+1053,واو,버브,와우,wow,interj,EXT,N
+1054,دعوا,다버,싸움,fight,noun,EXT,Y
+1055,اسمت,에스메트,네 이름,your name,noun,EXT,N
+1056,تام,텀,톰(이름),tom,noun,EXT,N
+1057,خودشو,코데쇼,그 자신을,himself,pron,EXT,N
+1058,ا,어,모음 글자,(letter alif),other,EXT,N
+1059,احتمال,에흐테멀,가능성,chance,noun,EXT,N
+1060,هیولا,하율러,괴물,monster,noun,EXT,Y
+1061,تحویل,타흐빌,인도,delivery,noun,EXT,N
+1062,توپ,투프,공,ball,noun,EXT,Y
+1063,انگیختن,앙기크탄,일으키다,to arouse,verb,EXT,N
+1064,میفته,미오프테,떨어진다,falls,verb,EXT,N
+1065,واقعیت,버게이야트,사실,reality,noun,EXT,N
+1066,دریا,다르여,바다,sea,noun,EXT,Y
+1067,دعا,도어,기도,prayer,noun,EXT,Y
+1068,سرنوشت,사르네베시트,운명,fate,noun,EXT,N
+1069,کسایی,카서이,사람들,people who,noun,EXT,N
+1070,آبی,어비,파란색,blue,adj,EXT,Y
+1071,شم,샴,되다(1인칭),"(become, 1sg)",verb,EXT,N
+1072,منی,마니,나 말이야,me,pron,EXT,N
+1073,انگشت,앙고슈트,손가락,finger,noun,EXT,Y
+1074,مکس,막스,맥스(이름),max,noun,EXT,N
+1075,میاره,미여레,가져온다,brings,verb,EXT,N
+1076,بانک,벙크,은행,bank,noun,EXT,Y
+1077,بب,베브,말더듬 소리,(stutter),other,EXT,N
+1078,مک,막,맥(이름),mac,noun,EXT,N
+1079,تاریکی,터리키,어둠,darkness,noun,EXT,N
+1080,درجه,다라제,정도,degree,noun,EXT,N
+1081,همینطوره,하민토우레,그렇다,that's right,other,EXT,N
+1082,هری,하리,해리(이름),harry,noun,EXT,N
+1083,غلطی,갈라티,잘못,wrong,noun,EXT,N
+1084,پارک,퍼르크,공원,park,noun,EXT,Y
+1085,بهتری,베흐타리,더 나은,better,adj,EXT,N
+1086,قایم,거옘,숨은,hidden,adj,EXT,N
+1087,خوند,쿤드,읽었다,read,verb,EXT,Y
+1088,کثیف,카시프,더러운,dirty,adj,EXT,Y
+1089,پسره,페사레,그 녀석,the boy,noun,EXT,Y
+1090,کاش,커시,~면 좋을 텐데,if only,interj,EXT,N
+1091,سارا,서러,사라(이름),sara,noun,EXT,N
+1092,جرم,조름,범죄,crime,noun,EXT,N
+1093,مست,마스트,취한,drunk,adj,EXT,Y
+1094,تاثیر,타시르,영향,influence,noun,EXT,N
+1095,گناه,고너흐,죄,sin,noun,EXT,N
+1096,حفظ,헤프즈,보존,preservation,noun,EXT,N
+1097,ساختمون,서크테문,건물,building,noun,EXT,Y
+1098,تجربه,타제로베,경험,experience,noun,EXT,N
+1099,شیر,시르,우유,milk,noun,EXT,Y
+1100,صندلی,산달리,의자,chair,noun,EXT,Y
+1101,قانونی,거누니,합법적,legal,adj,EXT,N
+1102,برخورد,바르코르드,충돌,collision,noun,EXT,N
+1103,زیرنویس,지르네비스,자막,subtitle,noun,EXT,N
+1104,کلیسا,켈리서,교회,church,noun,EXT,Y
+1105,شکر,셰카르,설탕,sugar,noun,EXT,Y
+1106,بلایی,발러이,재앙,trouble,noun,EXT,N
+1107,بلکه,발케,오히려,but rather,conj,EXT,N
+1108,اونقدر,운가드르,그만큼,that much,adv,EXT,N
+1109,طبق,타바그,~에 따라,according to,prep,EXT,N
+1110,افسر,아프사르,장교,officer,noun,EXT,Y
+1111,معرفی,모아레피,소개,introduction,noun,EXT,N
+1112,عادی,어디,평범한,normal,adj,EXT,N
+1113,تکرار,테크러르,반복,repetition,noun,EXT,N
+1114,موسیقی,무시기,음악,music,noun,EXT,Y
+1115,پسش,파세시,돌려서,back,adv,EXT,N
+1116,امنیتی,암니야티,보안의,security,adj,EXT,N
+1117,حالم,헐람,내 상태,my state,noun,EXT,N
+1118,دزدی,도즈디,도둑질,theft,noun,EXT,Y
+1119,مقدس,모가다스,신성한,holy,adj,EXT,N
+1120,انگلیسی,잉길리시,영어,english,noun,EXT,N
+1121,وسیله,바실레,도구,tool,noun,EXT,N
+1122,حالی,헐리,기분,mood,noun,EXT,N
+1123,سوم,세봄,셋째,third,num,EXT,N
+1124,خوشش,코셰시,그가 좋아함,he likes,adj,EXT,N
+1125,اومدیم,우마딤,우리가 왔다,we came,verb,EXT,N
+1126,سن,센,나이,age,noun,EXT,N
+1127,ظاهرا,저헤란,겉보기에,apparently,adv,EXT,N
+1128,حسی,헷시,느낌,feeling,noun,EXT,N
+1129,گند,간드,엉망,mess,noun,EXT,N
+1130,عجیبه,아지베,이상하다,it's strange,adj,EXT,N
+1131,ایستگاه,이스트거흐,역,station,noun,EXT,Y
+1132,رانندگی,러난데기,운전,driving,noun,EXT,Y
+1133,نیک,니크,닉(이름),nick,noun,EXT,N
+1134,دزد,도즈드,도둑,thief,noun,EXT,Y
+1135,دخترا,도크타러,소녀들,girls,noun,EXT,Y
+1136,دروازه,다르버제,대문,gate,noun,EXT,Y
+1137,واحد,버헤드,단위,unit,noun,EXT,N
+1138,هنری,헨리,헨리(이름),henry,noun,EXT,N
+1139,هشت,하시트,여덟,eight,num,EXT,N
+1140,جسد,자사드,시체,corpse,noun,EXT,Y
+1141,قفل,고플,자물쇠,lock,noun,EXT,Y
+1142,هارو,허로,복수+목적격,(plural + object),particle,EXT,N
+1143,اعتراف,에테러프,고백,confession,noun,EXT,N
+1144,اونجایی,운저이,거기 있니,you're there,verb,EXT,N
+1145,اضافه,에저페,추가,extra,noun,EXT,N
+1146,اجرا,에즈러,공연,performance,noun,EXT,N
+1147,پنجره,판자레,창문,window,noun,EXT,Y
+1148,شانسی,선시,운으로,by chance,adv,EXT,N
+1149,هیجان,하야전,흥분,excitement,noun,EXT,N
+1150,واسم,버삼,나를 위해,for me,prep,EXT,N
+1151,همکار,함커르,동료,colleague,noun,EXT,Y
+1152,تلویزیون,텔레비지윤,텔레비전,television,noun,EXT,Y
+1153,گندادن,간더단,망치다,to mess up,verb,EXT,N
+1154,والتر,벌테르,월터(이름),walter,noun,EXT,N
+1155,کلاه,콜러흐,모자,hat,noun,EXT,Y
+1156,بفرما,베파르머,여기요,here you go,interj,EXT,N
+1157,چیزها,치즈허,것들,things,noun,EXT,N
+1158,درصد,다르사드,퍼센트,percent,noun,EXT,N
+1159,کارمون,커레문,우리 일,our work,noun,EXT,N
+1160,اعتقاد,에테거드,신념,belief,noun,EXT,N
+1161,معمولا,마물란,보통,usually,adv,EXT,N
+1162,گه,고흐,똥(욕설),shit,noun,EXT,N
+1163,مایل,머옐,원하는,willing,adj,EXT,N
+1164,تی,티,티(T),t,other,EXT,N
+1165,فکری,페크리,생각,an idea,noun,EXT,N
+1166,زنه,자네,그 여자,the woman,noun,EXT,Y
+1167,کیت,케이트,케이트(이름),kate,noun,EXT,N
+1168,فعلا,페엘란,일단,for now,adv,EXT,N
+1169,نقطه,노그테,점,point,noun,EXT,Y
+1170,ویژه,비제,특별한,special,adj,EXT,N
+1171,منفجر,몬파제르,폭발한,exploded,adj,EXT,N
+1172,وظیفه,바지페,의무,duty,noun,EXT,N
+1173,تبریک,타브리크,축하,congratulations,noun,EXT,N
+1174,خاصی,커시,특별한,particular,adj,EXT,N
+1175,گربه,고르베,고양이,cat,noun,EXT,Y
+1176,بیمار,비머르,환자,patient,noun,EXT,Y
+1177,خلاص,칼러스,끝난,done,adj,EXT,N
+1178,عادت,어다트,습관,habit,noun,EXT,N
+1179,برق,바르그,전기,electricity,noun,EXT,N
+1180,روزنامه,루즈너메,신문,newspaper,noun,EXT,Y
+1181,کوچک,쿠체크,작은,small,adj,EXT,Y
+1182,اف,에프,에프(F),f,other,EXT,N
+1183,حمایت,헤머야트,지원,support,noun,EXT,N
+1184,اعلام,에얼럼,발표,announcement,noun,EXT,N
+1185,نیم,님,반,half,noun,EXT,N
+1186,شکار,셰커르,사냥,hunting,noun,EXT,Y
+1187,خفتن,코프탄,자다,to sleep,verb,EXT,Y
+1188,پرداخت,파르더크트,지불,payment,noun,EXT,N
+1189,مستقیم,모스타김,직접,direct,adj,EXT,N
+1190,شاهد,셔헤드,증인,witness,noun,EXT,N
+1191,راز,러즈,비밀,secret,noun,EXT,N
+1192,مدیر,모디르,관리자,manager,noun,EXT,N
+1193,بشین,베신,앉아,sit,verb,EXT,Y
+1194,قطعا,가탄,분명히,definitely,adv,EXT,N
+1195,رویا,로여,꿈,dream,noun,EXT,N
+1196,ساحل,서헬,해변,beach,noun,EXT,Y
+1197,اشاره,에셔레,가리킴,pointing,noun,EXT,N
+1198,شراب,샤러브,와인,wine,noun,EXT,Y
+1199,الآن,알런,지금,now,adv,EXT,N
+1200,شناسایی,셰너서이,식별,identification,noun,EXT,N
+1201,لی,리,리(이름),lee,noun,EXT,N
+1202,پیام,파염,메시지,message,noun,EXT,N
+1203,کاره,커레,일이다,it's work,noun,EXT,N
+1204,یخ,야크,얼음,ice,noun,EXT,Y
+1205,مو,무,머리카락,hair,noun,EXT,Y
+1206,جالبه,절레베,재밌다,it's interesting,adj,EXT,N
+1207,ری,리,레이(이름),ray,noun,EXT,N
+1208,رها,라허,풀려난,free,adj,EXT,N
+1209,موقعی,모우게이,~할 때,when,conj,EXT,N
+1210,فرد,파르드,개인,individual,noun,EXT,N
+1211,مریض,마리즈,아픈,sick,adj,EXT,Y
+1212,خرید,카리드,쇼핑,shopping,noun,EXT,Y
+1213,ناپدید,너파디드,사라진,vanished,adj,EXT,N
+1214,عصر,아스르,오후,evening,noun,EXT,N
+1215,نظامی,네저미,군사의,military,adj,EXT,N
+1216,سیگار,시거르,담배,cigarette,noun,EXT,Y
+1217,مطمئنا,모트마엔난,확실히,surely,adv,EXT,N
+1218,هشدار,호시더르,경고,warning,noun,EXT,N
+1219,متاسفانه,모타아세퍼네,유감스럽게도,unfortunately,adv,EXT,N
+1220,اتفاقات,에테퍼거트,사건들,events,noun,EXT,N
+1221,آفرین,어파린,잘했어,well done,interj,EXT,N
+1222,ژنرال,제네럴,장군,general,noun,EXT,Y
+1223,تویی,토이,너야,it's you,pron,EXT,N
+1224,وحشی,바흐시,야만적인,wild,adj,EXT,N
+1225,قیمت,게이마트,가격,price,noun,EXT,N
+1226,آرزو,어레주,소원,wish,noun,EXT,N
+1227,خورشید,코르시드,태양,sun,noun,EXT,Y
+1228,مشخص,모샤카스,명확한,clear,adj,EXT,N
+1229,نگاهی,네거히,한 번 봄,a look,noun,EXT,N
+1230,همونجا,하문저,바로 거기,right there,adv,EXT,N
+1231,ولم,벨람,날 놔둬,let me go,other,EXT,N
+1232,بیچاره,비처레,불쌍한,poor,adj,EXT,N
+1233,اطمینان,에트미넌,확신,assurance,noun,EXT,N
+1234,پدرش,페다레시,그의 아버지,his father,noun,EXT,Y
+1235,متفاوت,모타퍼베트,다른,different,adj,EXT,N
+1236,تمرکز,타마르코즈,집중,focus,noun,EXT,N
+1237,نوبت,노우바트,차례,turn,noun,EXT,N
+1238,آدمی,어다미,사람,a person,noun,EXT,Y
+1239,شخص,샤크스,사람,person,noun,EXT,Y
+1240,هممون,하마문,우리 모두,all of us,pron,EXT,N
+1241,کوتاه,쿠터흐,짧은,short,adj,EXT,Y
+1242,آرامش,어러메시,평온,calm,noun,EXT,N
+1243,دوره,도레,기간,period,noun,EXT,N
+1244,خیر,케이르,아니요,no,interj,EXT,N
+1245,تقدیم,타그딤,바침,dedication,noun,EXT,N
+1246,ملحق,몰하그,합류한,joined,adj,EXT,N
+1247,نمیدونستم,네미두네스탐,몰랐다,i didn't know,verb,EXT,N
+1248,آموزش,어무제시,교육,training,noun,EXT,N
+1249,گمونم,가무남,내 생각엔,i guess,adv,EXT,N
+1250,امضا,엠저,서명,signature,noun,EXT,Y
+1251,صاحب,서헤브,주인,owner,noun,EXT,N
+1252,میدونستی,미두네스티,알았니,you knew,verb,EXT,N
+1253,انتقام,엔테검,복수,revenge,noun,EXT,N
+1254,شین,신,앉다(구어),sit,verb,EXT,Y
+1255,غذای,가저예,~의 음식,food of,noun,EXT,Y
+1256,چیزهای,치즈허예,~한 것들,things of,noun,EXT,N
+1257,درگیر,다르기르,연루된,involved,adj,EXT,N
+1258,سقوط,소구트,추락,fall,noun,EXT,N
+1259,نقاشی,나거시,그림,painting,noun,EXT,Y
+1260,هرکس,하르카스,누구든,anyone,pron,EXT,N
+1261,سوراخ,수러크,구멍,hole,noun,EXT,Y
+1262,مری,메리,메리(이름),mary,noun,EXT,N
+1263,نتونستم,나투네스탐,못했다,i couldn't,verb,EXT,N
+1264,خداوند,코더반드,주님,lord,noun,EXT,N
+1265,شن,센,모래,sand,noun,EXT,Y
+1266,جادوگر,저두가르,마법사,wizard,noun,EXT,Y
+1267,بزرگتر,보조르그타르,더 큰,bigger,adj,EXT,N
+1268,علامت,알러마트,표시,sign,noun,EXT,N
+1269,ببر,바브르,호랑이,tiger,noun,EXT,Y
+1270,استخدام,에스테크덤,고용,hiring,noun,EXT,N
+1271,احساسی,에흐서시,감정적인,emotional,adj,EXT,N
+1272,تخم,토큼,알,egg,noun,EXT,Y
+1273,معمولی,마물리,보통의,ordinary,adj,EXT,N
+1274,نیمه,니메,절반,half,noun,EXT,N
+1275,عین,에인,똑같은,exactly like,adj,EXT,N
+1276,تعداد,타으더드,수,number,noun,EXT,N
+1277,خاک,커크,흙,soil,noun,EXT,Y
+1278,کفش,카프시,신발,shoes,noun,EXT,Y
+1279,اخراج,에크러지,해고,dismissal,noun,EXT,N
+1280,کارها,커르허,일들,works,noun,EXT,N
+1281,شخصیت,샤크시야트,성격,character,noun,EXT,N
+1282,ایه,이예,~이다(구어),it is,other,EXT,N
+1283,قشنگ,가샹,예쁜,pretty,adj,EXT,N
+1284,پل,폴,다리,bridge,noun,EXT,Y
+1285,تونستی,투네스티,할 수 있었니,you could,verb,EXT,N
+1286,هرکاری,하르커리,무슨 일이든,anything,pron,EXT,N
+1287,کسانی,카서니,사람들,people who,pron,EXT,N
+1288,حرفه,헤르페,직업,profession,noun,EXT,N
+1289,ایمان,이먼,믿음,faith,noun,EXT,N
+1290,امنه,암네,안전하다,it's safe,adj,EXT,N
+1291,دیوانه,디버네,미친,crazy,adj,EXT,N
+1292,سفینه,사피네,우주선,spaceship,noun,EXT,Y
+1293,میتونستم,미투네스탐,할 수 있었다,i could,verb,EXT,N
+1294,-تان,에턴,2인칭 복수 소유,"(your, plural clitic)",particle,EXT,N
+1295,کیک,케이크,케이크,cake,noun,EXT,Y
+1296,برمیگردم,바르미가르담,돌아갈게,i'll come back,verb,EXT,N
+1297,برداری,바르더리,집어 들다,you pick up,verb,EXT,N
+1298,موافق,모버페그,동의하는,agreeing,adj,EXT,N
+1299,دربار,다르버르,궁정,royal court,noun,EXT,N
+1300,زخم,자큼,상처,wound,noun,EXT,Y
+1301,روانی,라버니,정신병자,psycho,adj,EXT,N
+1302,جنوب,조누브,남쪽,south,noun,EXT,N
+1303,لندند,란단드,런던(오분석),london,noun,EXT,N
+1304,بدو,베도우,뛰어,run,verb,EXT,Y
+1305,دختری,도크타리,한 소녀,a girl,noun,EXT,Y
+1306,شگفت,셰게프트,놀라운,wonderful,adj,EXT,N
+1307,صلح,솔흐,평화,peace,noun,EXT,N
+1308,بخشی,바크시,일부,a part,noun,EXT,N
+1309,برداشت,바르더시트,집어 들었다,picked up,verb,EXT,N
+1310,مادرش,머다레시,그의 어머니,his mother,noun,EXT,Y
+1311,براشون,바러순,그들에게,for them,prep,EXT,N
+1312,کوه,쿠흐,산,mountain,noun,EXT,Y
+1313,موتور,모토르,오토바이,motorcycle,noun,EXT,Y
+1314,مبارک,모버라크,축하해,congratulations,interj,EXT,N
+1315,مشکلات,모시켈러트,문제들,problems,noun,EXT,N
+1316,صبرکن,사브르콘,기다려,wait,verb,EXT,N
+1317,وی,베이,그(문어),he,pron,EXT,N
+1318,مناسب,모너세브,적절한,suitable,adj,EXT,N
+1319,چیزو,치조,그것을,the thing,noun,EXT,N
+1320,لو,로우,들통남,revealed,other,EXT,N
+1321,نا,너,불-(부정 접두),(un- prefix),particle,EXT,N
+1322,مدل,모델,모델,model,noun,EXT,Y
+1323,مسئولیت,마스울리야트,책임,responsibility,noun,EXT,N
+1324,زبان,자번,언어,language,noun,EXT,N
+1325,هاست,허스트,~들이다,(plural + is),particle,EXT,N
+1326,قدر,가드르,정도,amount,noun,EXT,N
+1327,اومدین,우마딘,오셨다,you came,verb,EXT,N
+1328,همینجوری,하민주리,그냥 이렇게,just like this,adv,EXT,N
+1329,خطرناک,카타르너크,위험한,dangerous,adj,EXT,N
+1330,نگ,나그,(조각 형태),fragment,other,EXT,N
+1331,ویل,빌,윌(이름),will,noun,EXT,N
+1332,چاقو,처구,칼,knife,noun,EXT,Y
+1333,زیبایی,지버이,아름다움,beauty,noun,EXT,N
+1334,آخرش,어카레시,결국,in the end,adv,EXT,N
+1335,معلوم,마룸,분명한,clear,adj,EXT,N
+1336,اوک,오케이,오케이,ok,interj,EXT,N
+1337,عبور,오부르,통과,passing,noun,EXT,N
+1338,برگشتی,바르가시티,돌아왔구나,you came back,verb,EXT,N
+1339,بین,베인,사이,between,prep,EXT,N
+1340,نیست,니스트,아니다,is not,verb,EXT,N
+1341,وقتا,바그터,때들,times,noun,EXT,N
+1342,وضع,바즈,상황,situation,noun,EXT,N
+1343,الکس,알렉스,알렉스(이름),alex,noun,EXT,N
+1344,عضو,오즈브,회원,member,noun,EXT,N
+1345,رستوران,레스투런,식당,restaurant,noun,EXT,Y
+1346,هاشون,허순,그들의 ~들,(plural + their),particle,EXT,N
+1347,اعضا,아저,구성원들,members,noun,EXT,N
+1348,برگشت,바르가시트,돌아왔다,returned,verb,EXT,N
+1349,دوستی,두스티,우정,friendship,noun,EXT,N
+1350,ایم,임,우리는 ~이다,(we are),particle,EXT,N
+1351,انرژی,에네르지,에너지,energy,noun,EXT,N
+1352,رم,롬,로마,rome,noun,EXT,Y
+1353,عصبی,아사비,신경질적인,nervous,adj,EXT,N
+1354,تن,탄,몸,body,noun,EXT,Y
+1355,استارک,에스터르크,스타크(이름),stark,noun,EXT,N
+1356,سرویس,세르비스,서비스,service,noun,EXT,N
+1357,راستی,러스티,그런데,by the way,adv,EXT,N
+1358,میک,미크,믹(이름),mick,noun,EXT,N
+1359,کاریه,커리예,일이다,it's a job,noun,EXT,N
+1360,راحتی,러하티,편안함,comfort,noun,EXT,N
+1361,پزشکی,페제시키,의학,medicine,noun,EXT,N
+1362,سلول,셀룰,세포,cell,noun,EXT,N
+1363,تصویر,타스비르,영상,image,noun,EXT,N
+1364,بو,부,냄새,smell,noun,EXT,N
+1365,فروش,포루시,판매,sale,noun,EXT,N
+1366,شیشه,시셰,유리,glass,noun,EXT,Y
+1367,قیافه,기여페,얼굴 모습,appearance,noun,EXT,Y
+1368,بانوی,버누예,~의 부인,lady of,noun,EXT,Y
+1369,همینو,하미노,바로 이것을,this very one,pron,EXT,N
+1370,اسکات,에스커트,스콧(이름),scott,noun,EXT,N
+1371,راضی,러지,만족한,satisfied,adj,EXT,N
+1372,دسترسی,다스트레시,접근,access,noun,EXT,N
+1373,حقوق,호구그,월급,salary,noun,EXT,N
+1374,جایزه,저예제,상,prize,noun,EXT,Y
+1375,گرگ,고르그,늑대,wolf,noun,EXT,Y
+1376,مارک,머르크,상표,brand,noun,EXT,N
+1377,مثه,메세,~처럼,like,prep,EXT,N
+1378,ایالت,에열라트,주(州),state,noun,EXT,N
+1379,بدجور,바드주르,몹시,badly,adv,EXT,N
+1380,احساسات,에흐서서트,감정들,feelings,noun,EXT,N
+1381,جانی,저니,범죄자,criminal,noun,EXT,N
+1382,همتون,하마툰,너희 모두,all of you,pron,EXT,N
+1383,قلعه,갈레,성,castle,noun,EXT,Y
+1384,دنی,데니,대니(이름),danny,noun,EXT,N
+1385,مرغ,모르그,닭,chicken,noun,EXT,Y
+1386,داغون,더군,망가진,wrecked,adj,EXT,N
+1387,بد,바드,나쁜,bad,adj,EXT,N
+1388,خاص,커스,특별한,special,adj,EXT,N
+1389,همکاری,함커리,협력,cooperation,noun,EXT,N
+1390,پذیرفتن,파지로프탄,받아들이다,accept,verb,EXT,N
+1391,ثبت,사브트,등록,registration,noun,EXT,N
+1392,چوب,추브,나무 막대,wood,noun,EXT,Y
+1393,نشو,나쇼,되지 마,don't become,verb,EXT,N
+1394,چهره,체흐레,얼굴,face,noun,EXT,Y
+1395,غرق,가르그,익사,drowning,noun,EXT,N
+1396,هرچیزی,하르치지,무엇이든,anything,pron,EXT,N
+1397,باره,버레,~에 관해,about,noun,EXT,N
+1398,ساخت,서크트,만들었다,made,verb,EXT,N
+1399,کت,카트,재킷,jacket,noun,EXT,Y
+1400,اختیار,에크티여르,권한,authority,noun,EXT,N
+1401,گرف,게레프,잡았다(구어),took,verb,EXT,N
+1402,امیدوار,오미드버르,희망하는,hopeful,adj,EXT,N
+1403,مگر,마가르,설마,unless,conj,EXT,N
+1404,چراغ,체러그,등,lamp,noun,EXT,Y
+1405,باحال,버헐,멋진,cool,adj,EXT,N
+1406,موجود,모우주드,생물,creature,noun,EXT,Y
+1407,زیاده,지여데,많다,it's a lot,adj,EXT,N
+1408,گی,게이,게이,gay,adj,EXT,N
+1409,شکسته,셰카스테,부서진,broken,adj,EXT,Y
+1410,زبون,자분,혀,tongue,noun,EXT,Y
+1411,خوک,쿠크,돼지,pig,noun,EXT,Y
+1412,دونستم,두네스탐,알았다,i knew,verb,EXT,N
+1413,طریق,타리그,방법,way,noun,EXT,N
+1414,برگشته,바르가시테,돌아왔다,has returned,verb,EXT,N
+1415,بیلی,빌리,빌리(이름),billy,noun,EXT,N
+1416,تایید,타이드,승인,confirmation,noun,EXT,N
+1417,بیل,빌,삽,shovel,noun,EXT,Y
+1418,آزمایشگاه,어즈머예시거흐,실험실,laboratory,noun,EXT,Y
+1419,سابق,서베그,이전의,former,adj,EXT,N
+1420,مصرف,마스라프,소비,consumption,noun,EXT,N
+1421,افسانه,아프서네,전설,legend,noun,EXT,N
+1422,پیروزی,피루지,승리,victory,noun,EXT,N
+1423,عذر,오즈르,사과,apology,noun,EXT,N
+1424,تصادف,타서도프,교통사고,accident,noun,EXT,Y
+1425,مغازه,마거제,가게,shop,noun,EXT,Y
+1426,اتوبوس,오토부스,버스,bus,noun,EXT,Y
+1427,اونایی,우너이,그것들,those,pron,EXT,N
+1428,کامپیوتر,컴퓨테르,컴퓨터,computer,noun,EXT,Y
+1429,ضعیف,자이프,약한,weak,adj,EXT,N
+1430,دستشویی,다스트쇼이,화장실,toilet,noun,EXT,Y
+1431,زخمی,자크미,다친,wounded,adj,EXT,Y
+1432,تنه,타네,줄기,trunk,noun,EXT,Y
+1433,دوران,도우런,시기,era,noun,EXT,N
+1434,جون,준,목숨,life,noun,EXT,N
+1435,دزدیده,도즈디데,훔친,stolen,adj,EXT,N
+1436,ریک,리크,릭(이름),rick,noun,EXT,N
+1437,کثافت,케서파트,더러움,filth,noun,EXT,N
+1438,ادم,어담,사람,person,noun,EXT,Y
+1439,آپارتمان,어파르트먼,아파트,apartment,noun,EXT,Y
+1440,فیل,필,코끼리,elephant,noun,EXT,Y
+1441,حمل,하믈,운반,carrying,noun,EXT,N
+1442,طلا,탈러,금,gold,noun,EXT,Y
+1443,راس,러스,꼭대기,top,noun,EXT,N
+1444,ته,타흐,바닥,bottom,noun,EXT,N
+1445,مزخرف,모자크라프,헛소리,nonsense,noun,EXT,N
+1446,اطلاعاتی,에텔러어티,정보의,intelligence,adj,EXT,N
+1447,بغل,바갈,포옹,hug,noun,EXT,Y
+1448,س,스,(글자 조각),fragment,other,EXT,N
+1449,آنا,어너,안나(이름),anna,noun,EXT,N
+1450,موش,무시,쥐,mouse,noun,EXT,Y
+1451,توانایی,타버너이,능력,ability,noun,EXT,N
+1452,موفقیت,모바파기야트,성공,success,noun,EXT,N
+1453,سیاره,사여레,행성,planet,noun,EXT,Y
+1454,میومد,미우마드,오고 있었다,was coming,verb,EXT,N
+1455,حضور,호주르,참석,presence,noun,EXT,N
+1456,سطح,사트흐,수준,level,noun,EXT,N
+1457,هزینه,하지네,비용,cost,noun,EXT,N
+1458,ضد,제드,반-,anti,prep,EXT,N
+1459,گذاردن,고저르단,놓다,to put,verb,EXT,N
+1460,مدتی,모다티,한동안,for a while,adv,EXT,N
+1461,مدرک,마드라크,증명서,certificate,noun,EXT,N
+1462,پوشش,푸셰시,덮개,cover,noun,EXT,N
+1463,پروفسور,프로페소르,교수,professor,noun,EXT,Y
+1464,اوقات,오우거트,때,times,noun,EXT,N
+1465,پیشرفت,피시라프트,발전,progress,noun,EXT,N
+1466,پسرا,페사러,남자애들,boys,noun,EXT,Y
+1467,پاریس,퍼리스,파리,paris,noun,EXT,Y
+1468,دن,단,댄(이름),dan,noun,EXT,N
+1469,اورد,어보르드,가져왔다,brought,verb,EXT,N
+1470,پادشاهی,퍼데셔히,왕국,kingdom,noun,EXT,N
+1471,برمی,바르미,다시 ~하는(조각),(back + verb prefix),particle,EXT,N
+1472,تشخیص,타시키스,진단,diagnosis,noun,EXT,N
+1473,زمینی,자미니,지구인,earthling,noun,EXT,N
+1474,سفارش,세퍼레시,주문,order,noun,EXT,N
+1475,اژدها,에즈데허,용,dragon,noun,EXT,Y
+1476,پولی,풀리,돈의,monetary,adj,EXT,N
+1477,خرج,카르지,비용,expense,noun,EXT,N
+1478,یادمه,여다메,기억난다,i remember,verb,EXT,N
+1479,سایه,서예,그림자,shadow,noun,EXT,Y
+1480,چندین,찬딘,여러,several,adj,EXT,N
+1481,جس,제스,제스(이름),jess,noun,EXT,N
+1482,کره,카레,버터,butter,noun,EXT,Y
+1483,سبز,사브즈,초록색,green,adj,EXT,Y
+1484,پست,포스트,우편,post,noun,EXT,N
+1485,تاحالا,터헐러,지금까지,so far,adv,EXT,N
+1486,بدترین,바드타린,최악의,worst,adj,EXT,N
+1487,مشتری,모시타리,손님,customer,noun,EXT,Y
+1488,گاهی,거히,가끔,sometimes,adv,EXT,N
+1489,ریدن,리단,똥 싸다,to shit,verb,EXT,N
+1490,هیچکدوم,히치코둠,아무것도,none,pron,EXT,N
+1491,مدارک,마더레크,서류들,documents,noun,EXT,Y
+1492,معروف,마루프,유명한,famous,adj,EXT,N
+1493,ورود,보루드,입장,entry,noun,EXT,N
+1494,اطلاع,에텔러,알림,notice,noun,EXT,N
+1495,فعال,파얼,활동적인,active,adj,EXT,N
+1496,خجالت,케절라트,부끄러움,shame,noun,EXT,N
+1497,برقرار,바르가러르,확립된,established,adj,EXT,N
+1498,خاطرات,커테러트,추억들,memories,noun,EXT,N
+1499,راهه,러헤,길이다,it's the way,noun,EXT,N
+1500,شنبه,샴베,토요일,saturday,noun,EXT,N
