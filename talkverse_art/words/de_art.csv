@@ -280,3 +280,5 @@ rank,word,reading,romaji,ko,en,pos,level,scene_hint
 9048,Radler,라들러,shandy,라들러,shandy,noun,food,연한 황금빛 맥주에 레몬 탄산을 섞어 흰 거품이 얹힌 손잡이 유리잔.
 9049,Weizenbier,바이첸비어,wheat_beer,밀맥주,wheat beer,noun,food,"위로 갈수록 넓어지는 긴 유리잔에 탁한 황금빛 밀맥주와 두툼한 흰 거품, 레몬 조각 없이."
 9050,Mett,메트,minced_pork_roll,메트(다진 생돼지고기 빵),minced pork roll,noun,food,"반으로 가른 둥근 빵에 분홍색 다진 고기를 바르고 다진 양파와 후추를 뿌린 것 두 쪽, 나무 도마 위."
+3002,Apfelkuchen,아펠쿠헨,apple_cake,사과 케이크,apple cake,noun-m,R5,독일 카페에서 종업원이 격자 무늬 사과 케이크 한 조각과 휘핑크림을 손님 앞에 놓는 장면
+3004,Museum,무제움,museum,박물관,museum,noun-n,R5,베를린 박물관 안에서 안내원이 관람객 가족에게 큰 그림을 설명하는 장면
