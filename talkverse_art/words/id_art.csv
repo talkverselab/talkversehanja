@@ -92,6 +92,7 @@ rank,word,reading,romaji,ko,en,pos,level,scene_hint
 1033,planet,,planet,행성,planet,noun,R3,
 1036,tamu,,guest,손님,guest,noun,R3,
 1040,artis,,artist,연예인,artist,noun,R3,
+1054,pura,,temple,힌두 사원,temple,noun,R3,
 1057,terluka,,injured,다친,injured,adj,R3,
 1060,abu,,ash,재,ash,noun,R3,
 1066,gigi,,tooth,이,tooth,noun,R3,

@@ -113,6 +113,7 @@ rank,word,reading,romaji,ko,en,pos,level,scene_hint
 1017,ဂြိုလ်,gyo,planet,행성,planet,noun,R5,
 1022,ဆရာကြီး,hsa ya gyi,master,"큰 스승, 선생님(존칭)",master,noun,R5,
 1024,ပွင့်,pwin,bloom,"(꽃이) 피다, 열리다",bloom,verb,R5,
+1026,ချွတ်,chut,take_off,벗다,take off,verb,R5,
 1030,လက်မှတ်,let hmat,ticket,"서명; 표, 티켓",ticket,noun,R5,
 1031,စခန်း,sa khan,camp,"기지, 캠프",camp,noun,R5,
 1041,စားပွဲ,sa bwe,table,"탁자, 테이블",table,noun,R5,
