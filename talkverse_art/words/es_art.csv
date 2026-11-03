@@ -554,3 +554,13 @@ rank,word,reading,romaji,ko,en,pos,level,scene_hint
 9048,lentejas,,lentil_stew,렌테하스,lentil stew,noun,food,깊은 그릇에 갈색 렌틸콩과 당근·감자·초리소 조각이 든 걸쭉한 스튜.
 9049,ensalada mixta,,mixed_salad,엔살라다 믹스타,mixed salad,noun,food,흰 접시에 양상추·토마토·양파 고리·참치·삶은 달걀 조각·올리브를 섞어 담는다.
 9050,caracoles,,snails,카라콜레스,snails,noun,food,작은 토기 냄비에 갈색 껍데기의 작은 달팽이들이 붉은 소스에 잠겨 있고 이쑤시개 몇 개.
+97,llamar,,call,부르다,to call,verb,R3,"마드리드 아파트 거실에서 여자가 휴대폰을 귀에 대고 통화하며 웃고, 옆에서 친구가 손짓으로 거드는 장면"
+50,hablar,,talk,말하다,to speak,verb,R2,"바르셀로나 카페 테라스에서 두 친구가 손짓을 섞어 이야기 나누는 장면, 테이블에 커피 두 잔"
+452,aprender,,learn,배우다,to learn,verb,R4,"어학 교실에서 학생이 선생님의 입 모양을 따라 말하며 배우는 장면, 공책은 빈 종이"
+94,trabajar,,work,일하다,to work,verb,R3,사무실에서 남자가 노트북(빈 화면) 앞에서 동료와 서류를 보며 일하는 장면
+704,empresa,,company,회사,company,noun,R4,아침 유리 건물 회사 입구로 직원들이 출근하는 장면(간판 글자 없음)
+131,música,,music,음악,music,noun,R3,마드리드 공원 벤치에서 남자가 기타를 치고 친구들이 둘러앉아 듣는 장면
+611,encantado,,nice_to_meet,반가운,delighted,adj,R4,마드리드 광장에서 두 사람이 처음 만나 악수하며 환하게 웃는 장면
+3002,profesora,,teacher,,teacher (f),n,R5,교실에서 여자 선생님이 칠판(글자 없음) 앞에서 학생 셋에게 설명하는 장면
+3003,flamenco,,flamenco,플라멩코,flamenco,n,R5,세비야 타블라오 무대에서 붉은 물방울무늬 드레스의 무용수가 플라멩코를 추고 기타리스트와 박수 치는 가수가 함께하는 장면
+3005,tablao,,tablao,타블라오,flamenco venue,n,R5,"작은 플라멩코 공연장 — 낮은 나무 무대 위 무용수와 기타리스트, 앞 테이블의 관객들이 박수 치는 장면"

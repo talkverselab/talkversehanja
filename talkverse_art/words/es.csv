@@ -2499,3 +2499,9 @@ rank,word,reading,ko,en,pos,level,picturable
 2533,dificultad,,어려움,difficulty,noun,R4,N
 2534,pisar,,밟다,step on,verb,R4,Y
 2535,presupuesto,,예산,budget,noun,R4,N
+3001,tecnología,테크놀로히아,기술,technology,n,R5,N
+3002,profesora,프로페소라,(여자) 선생님,teacher (f),n,R5,Y
+3003,flamenco,플라멩코,플라멩코,flamenco,n,R5,Y
+3004,vivo,비보,살아 있는 · (en vivo) 라이브,live / alive,adj,R5,N
+3005,tablao,타블라오,타블라오(플라멩코 공연장),flamenco venue,n,R5,Y
+3006,vale,발레,좋아 · 알았어,okay,int,R5,N
