@@ -41,18 +41,18 @@ rank,word,reading,ko,en,pos,level,picturable
 40,ဆို,hso,"말하다, ~라면, ~라고 하다",say,verb,R1,N
 41,ငါ့,nga,나의(비격식),my,pron,R1,N
 42,ထား,hta,"두다, 놓다, ~해 두다",put,verb,R1,Y
-43,သူ့,thu,"그의, 그를",his,pron,R2,N
-44,မှ,hma,"~에서(부터), ~해야만",from,particle,R2,N
-45,နိုင်,nain,"~할 수 있다, 이기다",can,aux,R2,N
-46,ဒါ,da,이것,this,pron,R2,N
-47,လေ,lay,"바람, 공기, 문말 강조",wind,noun,R2,Y
-48,ဖို့,hpo,"~하기 위해, ~할 것",for,particle,R2,N
-49,လို,lo,"~처럼, 필요하다, 원하다",like,particle,R2,N
-50,သိ,thi,알다,know,verb,R2,N
-51,ကြ,kya,복수 동사 표지(~들),plural marker,particle,R2,N
-52,ခု,khu,"개(분류사), 지금",piece,clf,R2,N
-53,ကြီး,kyi,"크다, 큰",big,adj,R2,Y
-54,ပေါ့,paw,물론 ~지(문말 강조),of course,particle,R2,N
+43,သူ့,thu,"그의, 그를",his,pron,R1,N
+44,မှ,hma,"~에서(부터), ~해야만",from,particle,R1,N
+45,နိုင်,nain,"~할 수 있다, 이기다",can,aux,R1,N
+46,ဒါ,da,이것,this,pron,R1,N
+47,လေ,lay,"바람, 공기, 문말 강조",wind,noun,R1,Y
+48,ဖို့,hpo,"~하기 위해, ~할 것",for,particle,R1,N
+49,လို,lo,"~처럼, 필요하다, 원하다",like,particle,R1,N
+50,သိ,thi,알다,know,verb,R1,N
+51,ကြ,kya,복수 동사 표지(~들),plural marker,particle,R1,N
+52,ခု,khu,"개(분류사), 지금",piece,clf,R1,N
+53,ကြီး,kyi,"크다, 큰",big,adj,R1,Y
+54,ပေါ့,paw,물론 ~지(문말 강조),of course,particle,R1,N
 55,ကောင်း,kaung,좋다,good,adj,R2,N
 56,အဲဒီ,e di,그(지시),that,det,R2,N
 57,ချင်,chin,~하고 싶다,want,aux,R2,N
@@ -158,1344 +158,1344 @@ rank,word,reading,ko,en,pos,level,picturable
 157,ပေမယ့်,pay me,~지만,but,conj,R3,N
 158,ပေါ်,paw,"위, 나타나다",on,noun,R3,N
 159,တောင်းပန်,taung pan,사과하다,apologize,verb,R3,Y
-160,သုံး,thoun,"셋, 사용하다",three,num,R4,Y
-161,သိတယ်,thi te,알아요,I know,phrase,R4,N
-162,စောင့်,saung,"기다리다, 지키다",wait,verb,R4,Y
-163,တုန်း,toun,"~하는 중, 아직",while,particle,R4,N
-164,အစ်ကို,a ko,"형, 오빠",older brother,noun,R4,Y
-165,အများ,a mya,"많음, 대부분",many,noun,R4,N
-166,သလို,tha lo,"~처럼, ~하듯이",as,conj,R4,N
-167,ထက်,htet,~보다,than,particle,R4,N
-168,ထပ်,htat,"다시, 겹치다",again,adv,R4,N
-169,သေချာ,thay cha,확실하다,sure,adj,R4,N
-170,အဆင်ပြေ,a hsin pyay,"괜찮다, 순조롭다",okay,adj,R4,N
-171,ကူညီ,ku nyi,돕다,help,verb,R4,Y
-172,လုံး,loun,"둥근 것 세는 단위, 전체",round,clf,R4,N
-173,ကွာ,kwa,"차이 나다, 야(문말 감탄)",differ,verb,R4,N
-174,သော,thaw,~한(문어 관형),which,particle,R4,N
-175,နာမည်,na me,이름,name,noun,R4,N
-176,နိုင်တယ်,nain te,~할 수 있다,can,phrase,R4,N
-177,ည,nya,밤,night,noun,R4,Y
-178,တူ,tu,"같다, 조카, 젓가락",same,adj,R4,N
-179,အတိုင်း,a taing,~대로,as,particle,R4,N
-180,ခြင်း,chin,"명사화(~함, ~하기)",-ing,particle,R4,N
-181,ခံစား,khan za,느끼다,feel,verb,R4,N
-182,ကြိုးစား,kyo za,노력하다,try,verb,R4,N
-183,ကျေးဇူးတင်,kyay zu tin,감사하다,thank,verb,R4,N
-184,ဆရာ,hsa ya,선생님,teacher,noun,R4,Y
-185,ကောင်းတယ်,kaung te,좋아요,good,phrase,R4,N
-186,ရပ်,yat,"서다, 멈추다",stop,verb,R4,Y
-187,ပုံ,poun,"그림, 모양",picture,noun,R4,Y
-188,အရင်,a yin,"먼저, 전에",before,adv,R4,N
-189,ရော,yaw,"~도, ~와",and,particle,R4,N
-190,ကား,ka,자동차,car,noun,R4,Y
-191,ပေ,pay,"피트(길이), 문말 강조",foot,particle,R4,N
-192,အရေး,a yay,"중요한 일, 피부",issue,noun,R4,N
-193,သောက်,thauk,마시다,drink,verb,R4,Y
-194,အဖွဲ့,a hpweh,"팀, 단체",group,noun,R4,Y
-195,တော်,taw,"똑똑하다, 충분하다, 그만",enough,adj,R4,N
-196,ဘယ်သူလဲ,be thu leh,누구야?,who is it,phrase,R4,N
-197,ရန်,yan,"싸움, ~하기 위해(문어)",fight,noun,R4,N
-198,အရာ,a ya,"것, 물건",thing,noun,R4,N
-199,ကယ်,ke,구하다,rescue,verb,R4,Y
-200,လွှတ်,hlut,"놓아주다, 보내다",release,verb,R4,N
-201,စား,sa,먹다,eat,verb,R4,Y
-202,ပျော်,pyaw,즐겁다,happy,adj,R4,Y
-203,ထိ,hti,"닿다, ~까지",touch,verb,R4,Y
-204,ထုတ်,htoke,꺼내다,take out,verb,R4,Y
-205,ဖူး,hpu,~한 적이 있다(경험),ever,aux,R4,N
-206,ခဏ,kha na,잠깐,moment,noun,R4,N
-207,စဉ်းစား,sin za,생각하다,think,verb,R4,Y
-208,ကြား,kya,"듣다, 사이",hear,verb,R4,Y
-209,အရှင်,a shin,"주인님, 전하",lord,noun,R4,N
-210,သမီး,tha mi,딸,daughter,noun,R4,Y
-211,ခါ,kha,"번, 때",time,noun,R4,N
-212,သိပ်,thait,매우,very,adv,R4,N
-213,၏,i,~의(문어 소유격),of,particle,R4,N
-214,လက်,let,"손, 팔",hand,noun,R4,Y
-215,ဘဝ,ba wa,"인생, 삶",life,noun,R4,N
-216,ကိုယ်,ko,"몸, 자신, 나",self,pron,R4,N
-217,မိသားစု,mi tha zu,가족,family,noun,R4,Y
-218,အသက်,a thet,"목숨, 나이",life,noun,R4,N
-219,နောက်ဆုံး,nauk hsoun,마지막,last,adj,R4,N
-220,နားလည်,na le,이해하다,understand,verb,R4,N
-221,တခြား,ta cha,다른,other,det,R4,N
-222,ကြာ,kya,"오래 걸리다, 연꽃",take long,verb,R4,N
-223,ကွ,kwa,야(남성 문말 감탄),hey,particle,R4,N
-224,ရေ,yay,물,water,noun,R4,Y
-225,သတင်း,tha din,"뉴스, 소식",news,noun,R4,N
-226,ပြေး,pyay,달리다,run,verb,R4,Y
-227,ကျမ,kya ma,"저(여성, 구어 표기)",I,pron,R4,N
-228,ဖုန်း,hpoun,전화,phone,noun,R4,Y
-229,နာရီ,na yi,"시계, ~시",clock,noun,R4,Y
-230,ကာ,ka,"~하면서(문어), 막다",while,particle,R4,N
-231,သူငယ်ချင်း,tha nge chin,친구,friend,noun,R4,Y
-232,ဘယ်လောက်,be lauk,얼마나,how much,adv,R4,N
-233,ဒါဆို,da hso,"그러면, 그렇다면",then,conj,R4,N
-234,မေး,may,묻다,ask,verb,R4,N
-235,အထိ,a hti,~까지,until,particle,R4,N
-236,ရွေး,yway,고르다,choose,verb,R4,N
-237,ပြောင်း,pyaung,"바꾸다, 옮기다",change,verb,R4,N
-238,ယုံ,youn,믿다,believe,verb,R4,N
-239,ဘယ်တော့,be daw,언제,when,adv,R4,N
-240,ဆက်,hset,"계속하다, 잇다",continue,verb,R4,N
-241,ဟေ့,hay,이봐!,hey,interj,R4,N
-242,ဟို,ho,"저(것), 저기",that,det,R4,N
-243,ရက်,yet,날(일수),day,noun,R4,N
-244,ကြိုက်,kyait,좋아하다,like,verb,R4,N
-245,ပိုင်း,paing,부분,part,noun,R4,N
-246,ချစ်,chit,사랑하다,love,verb,R4,Y
-247,ပါတယ်,pa te,정중 평서 종결,polite ending,particle,R4,N
-248,ဖမ်း,hpan,"잡다, 체포하다",catch,verb,R4,Y
-249,တိုက်,tait,"공격하다, 건물, 대륙",attack,verb,R4,N
-250,ပါ့မယ်,pa meh,~할게요(정중 약속),will,particle,R4,N
-251,အဲ့ဒါ,e da,그것(구어 표기),that,pron,R4,N
-252,လိုအပ်,lo at,필요하다,need,verb,R4,N
-253,မှား,hma,틀리다,wrong,adj,R4,N
-254,ဖွင့်,hpwin,"열다, 켜다",open,verb,R4,Y
-255,မြို့,myo,도시,city,noun,R4,Y
-256,ကြောက်,kyauk,무서워하다,afraid,verb,R4,Y
-257,ရယ်,yi,"웃다, ~와",laugh,verb,R4,Y
-258,အမှန်,a hman,"진실, 맞는 것",truth,noun,R4,N
-259,ဘုရင်,ba yin,왕,king,noun,R4,Y
-260,အိပ်,eit,자다,sleep,verb,R4,Y
-261,ကာကွယ်,ka kwe,보호하다,protect,verb,R4,N
-262,မလေး,ma lay,"아가씨, 말레이",young lady,noun,R4,N
-263,အသက်ရှင်,a thet shin,"살아 있다, 생존하다",survive,verb,R4,N
-264,မှတ်,hmat,"기억하다, 적다, 점수",note,verb,R4,N
-265,စ,sa,"시작하다, 조각",start,verb,R4,N
-266,ပုံစံ,poun zan,"모양, 형식",shape,noun,R4,N
-267,အခန်း,a khan,방,room,noun,R4,Y
-268,ထိုင်,htaing,앉다,sit,verb,R4,Y
-269,အပြင်,a pyin,"밖, ~외에",outside,noun,R4,N
-270,နားထောင်,na htaung,듣다,listen,verb,R4,Y
-271,ကျောင်း,kyaung,"학교, 절",school,noun,R4,Y
-272,ချိန်,chein,"때, 무게를 달다",time,noun,R4,N
-273,ပို့,po,"보내다, 배웅하다",send,verb,R4,N
-274,အဖြစ်,a hpyit,"~로서, 사건",as,particle,R4,N
-275,ရာ,ya,"백(100), 곳",hundred,num,R4,N
-276,ထည့်,hteh,넣다,put in,verb,R4,Y
-277,အပြစ်,a pyit,"죄, 잘못",fault,noun,R4,N
-278,ပြဿနာ,pyat tha na,문제,problem,noun,R4,N
-279,အပေါ်,a paw,"위, ~에 대해",above,noun,R4,N
-280,တည်း,ti,"~만(유일), 묵다",only,particle,R4,N
-281,ပစ္စည်း,pyit si,물건,thing,noun,R4,N
-282,ကျန်,kyan,남다,remain,verb,R4,N
-283,လမ်း,lan,길,road,noun,R4,Y
-284,အခွင့်,a khwin,"기회, 권리",chance,noun,R4,N
-285,ဘယ်သူ့,be thu,"누구의, 누구를",whose,pron,R4,N
-286,ပိတ်,pait,닫다,close,verb,R4,Y
-287,မင်းသား,min tha,"왕자, 남자 배우",prince,noun,R4,Y
-288,အေး,ay,"차갑다, 시원하다, 응",cold,adj,R4,Y
-289,စွာ,swa,~하게(문어 부사화),-ly,particle,R4,N
-290,တောင်း,taung,"요청하다, 구걸하다",ask for,verb,R4,N
-291,ဆိုင်,hsain,"가게, 관련되다",shop,noun,R4,Y
-292,ယုံကြည်,youn kyi,"믿다, 신뢰하다",trust,verb,R4,N
-293,နဲ့အတူ,neh a tu,~와 함께,together with,particle,R4,N
-294,ဟား,ha,"하하, 어이(감탄)",ha,interj,R4,N
-295,မှန်,hman,"맞다, 거울, 유리",correct,adj,R4,N
-296,လ,la,"달, 월",moon,noun,R4,Y
-297,ကျေးဇူးပြုပြီး,kyay zu pyu pyi,"부디, 제발",please,phrase,R4,N
-298,ပင်,pin,"~조차(문어 강조), 나무",even,particle,R4,N
-299,မိနစ်,mi nit,분(시간),minute,noun,R4,N
-300,နား,na,"귀, 쉬다",ear,noun,R4,Y
-301,အကောင်းဆုံး,a kaung zoun,"가장 좋은, 최고",best,adj,R4,N
-302,ဟင့်,hin,"흥, 아니(부정 감탄)",hmph,interj,R4,N
-303,မျှော်လင့်,hmyaw lint,"바라다, 기대하다",hope,verb,R4,N
-304,အဲ့ဒီ,e di,"그(지시, 구어 표기)",that,det,R4,N
-305,မစ္စတာ,mis ta,미스터(~씨),Mr.,noun,R4,N
-306,ကမ္ဘာ,ga ba,"세계, 지구",world,noun,R4,Y
-307,မှတ်မိ,hmat mi,기억하다,remember,verb,R4,N
-308,အရ,a ya,~에 따르면,according to,particle,R4,N
-309,အနေနဲ့,a nay neh,~로서,as,particle,R4,N
-310,အခြေအနေ,a chay a nay,상황,situation,noun,R4,N
-311,မိန်းမ,mein ma,"여자, 아내",woman,noun,R4,Y
-312,ရှေ့,shay,앞,front,noun,R4,N
-313,အတူတူ,a tu du,"함께, 같은",together,adv,R4,N
-314,ဟေး,hay,"이봐, 야!",hey,interj,R4,N
-315,ချင်ဘူး,chin bu,~하기 싫다,don't want,phrase,R4,N
-316,အိုး,o,"냄비, 항아리, 오!",pot,noun,R4,Y
-317,နံပါတ်,nan bat,번호,number,noun,R4,N
-318,မို့,mo,~라서(이유),because,particle,R4,N
-319,အောက်,auk,아래,under,noun,R4,N
-320,ဟ,ha,"야!, 어?(감탄)",hey,interj,R4,N
-321,အခါ,a kha,때,when,noun,R4,N
-322,အသင်း,a thin,"팀, 협회",team,noun,R4,N
-323,တိုက်ခိုက်,tait khait,공격하다,attack,verb,R4,N
-324,ပတ်သက်,pat thet,관련되다,relate,verb,R4,N
-325,ပြောင်းလဲ,pyaung leh,변하다,change,verb,R4,N
-326,ပေါင်း,paung,"합하다, 합계, 파운드",add,verb,R4,N
-327,သမျှ,tha hmya,~하는 모든 것,all,particle,R4,N
-328,အထဲ,a hte,"안, 속",inside,noun,R4,N
-329,ခွဲ,khweh,"나누다, 헤어지다",divide,verb,R4,N
-330,ပျောက်,pyauk,"잃어버리다, 사라지다",lose,verb,R4,N
-331,ကိုင်,kain,"잡다, 들다",hold,verb,R4,Y
-332,တွေး,tway,생각하다,think,verb,R4,N
-333,မီ,mi,"제때 대다, 미치다",in time,verb,R4,N
-334,လူသား,lu tha,인간,human,noun,R4,Y
-335,သတိထား,tha di hta,조심하다,be careful,verb,R4,N
-336,တင်,tin,"올리다, 싣다",put on,verb,R4,N
-337,အတွင်း,a twin,"안, 내부",inside,noun,R4,N
-338,မေ့,may,잊다,forget,verb,R4,N
-339,ပထမဆုံး,pa hta ma zoun,맨 처음,first,adj,R4,N
-340,ရဲ,ye,"경찰, 용감하다",police,noun,R4,Y
-341,ခေါင်း,gaung,머리,head,noun,R4,Y
-342,ဆော့,hsaw,놀다(장난),play,verb,R4,Y
-343,သဘောကျ,tha baw kya,마음에 들다,like,verb,R4,N
-344,အောင်မြင်,aung myin,성공하다,succeed,verb,R4,N
-345,ပွဲ,pweh,"행사, 경기, 축제",event,noun,R4,N
-346,အစီအစဉ်,a si a sin,"계획, 프로그램",plan,noun,R4,N
-347,စိတ်မကောင်း,seit ma kaung,"미안하다, 슬프다",sorry,phrase,R4,N
-348,ဆေး,hsay,약,medicine,noun,R4,Y
-349,ငါး,nga,"물고기, 다섯",fish,noun,R4,Y
-350,အဲ့,eh,그(것)(구어),that,det,R4,N
-351,နေပါ,nay pa,"그만둬, 괜찮아(사양)",never mind,phrase,R4,N
-352,မှန်း,hman,~인 줄(알다),that,particle,R4,N
-353,သခင်,tha khin,"주인, 주님",master,noun,R4,N
-354,အမှု,a hmu,"사건, 소송",case,noun,R4,N
-355,အသံ,a than,"소리, 목소리",sound,noun,R4,N
-356,လက်ထပ်,let htat,결혼하다,marry,verb,R4,Y
-357,ဆွဲ,hsweh,"끌다, 그리다",pull,verb,R4,Y
-358,ပေါက်,pauk,"터지다, 구멍",burst,verb,R4,N
-359,နိုင်ငံ,nain ngan,나라,country,noun,R4,N
-360,မင်္ဂလာ,min ga la,"축복, 행운",blessing,noun,R4,N
-361,သွေး,thway,피,blood,noun,R4,Y
-362,အမှား,a hma,실수,mistake,noun,R4,N
-363,ခင်,khin,"친하다, ~하기 전",close,verb,R4,N
-364,ကော,kaw,"~는?(의문), ~도",and,particle,R4,N
-365,လိမ်,lein,거짓말하다,lie,verb,R4,N
-366,အမြဲ,a mye,항상,always,adv,R4,N
-367,မျက်နှာ,myet hna,얼굴,face,noun,R4,Y
-368,ကန်,kan,"차다, 호수",kick,verb,R4,Y
-369,ကျေးဇူး,kyay zu,"은혜, 감사",thanks,noun,R4,N
-370,လူကြီး,lu gyi,"어른, 상사",adult,noun,R4,Y
-371,ရုံ,youn,"~하기만, 홀(극장 등)",just,particle,R4,N
-372,တက်,tet,"오르다, 참석하다",climb,verb,R4,Y
-373,လက်ခံ,let khan,받아들이다,accept,verb,R4,N
-374,အသင့်,a thin,준비됨,ready,adj,R4,N
-375,ဟုတ်ကဲ့,hoke keh,네(정중한 대답),yes,interj,R4,N
-376,အသစ်,a thit,"새것, 새로운",new,adj,R4,N
-377,ခိုင်း,khain,시키다,tell,verb,R4,N
-378,ရောင်,yaung,"색, 빛",color,noun,R4,Y
-379,နေဦး,nay oun,"잠깐만, 아직 ~해",wait,phrase,R4,N
-380,အစွမ်း,a swan,"능력, 힘",power,noun,R4,N
-381,အဖြေ,a hpyay,"대답, 답",answer,noun,R4,N
-382,အကုန်လုံး,a koun loun,"전부, 모두",all,pron,R4,N
-383,ဘုရားရေ,hpa ya yay,"맙소사!, 신이시여",oh god,interj,R4,N
-384,မှန်တယ်,hman te,맞아요,right,phrase,R4,N
-385,ပိုက်ဆံ,pait hsan,돈,money,noun,R4,Y
-386,လုံခြုံ,loun choun,안전하다,safe,adj,R4,N
-387,လွတ်,lut,"자유롭다, 비다, 벗어나다",free,adj,R4,N
-388,မဲ့,meh,~없는(결여),-less,particle,R4,N
-389,ဘေး,bay,"옆, 위험",side,noun,R4,N
-390,ပန်း,pan,꽃,flower,noun,R4,Y
-391,ကိုယ်တိုင်,ko tain,"스스로, 직접",oneself,adv,R4,N
-392,လုံးဝ,loun wa,"완전히, 전혀",completely,adv,R4,N
-393,လွန်,lun,"지나다, 지나치다",exceed,verb,R4,N
-394,မျက်လုံး,myet loun,눈,eye,noun,R4,Y
-395,အဲလို,eh lo,그렇게,like that,adv,R4,N
-396,ရွေးချယ်,yway che,선택하다,choose,verb,R4,N
-397,ဦးလေး,u lay,"삼촌, 아저씨",uncle,noun,R4,Y
-398,ဆိုး,hso,나쁘다,bad,adj,R4,N
-399,ပြင်,pyin,"고치다, 준비하다",fix,verb,R4,Y
-400,ကုန်,koun,"다 떨어지다, 상품",run out,verb,R4,N
-401,ငွေ,ngway,"돈, 은",money,noun,R4,Y
-402,အဆင့်,a hsint,"단계, 수준",level,noun,R4,N
-403,စို့,so,~하자(청유),let's,particle,R4,N
-404,ချင်း,chin,"서로, ~끼리",each other,particle,R4,N
-405,နှင့်,hnint,~와(문어),and,particle,R4,N
-406,တကယ်လား,ta ge la,정말이야?,really,phrase,R4,N
-407,သူမ,thu ma,그녀,she,pron,R4,N
-408,ပြည်,pyi,나라,country,noun,R4,N
-409,ဖူးတယ်,hpu te,~한 적 있다,have ever,phrase,R4,N
-410,အကူအညီ,a ku a nyi,도움,help,noun,R4,N
-411,နောက်ထပ်,nauk htat,"또, 추가로",another,adj,R4,N
-412,ဆု,hsu,상,prize,noun,R4,Y
-413,ထိန်း,htein,"지키다, 돌보다",guard,verb,R4,N
-414,လက်နက်,let net,무기,weapon,noun,R4,Y
-415,စက်,set,기계,machine,noun,R4,Y
-416,ဖြတ်,hpyat,"자르다, 건너다",cut,verb,R4,Y
-417,ဖျက်ဆီး,hpyet hsi,파괴하다,destroy,verb,R4,N
-418,ယောက်ျား,yauk kya,"남자, 남편",man,noun,R4,Y
-419,ပထမ,pa hta ma,첫째,first,adj,R4,N
-420,ပြု,pyu,하다(문어),do,verb,R4,N
-421,ဘုရားသခင်,hpa ya tha khin,하느님,God,noun,R4,N
-422,ဒေါက်တာ,dauk ta,"의사, 박사",doctor,noun,R4,Y
-423,ကျေးဇူးပဲ,kyay zu beh,고마워,thanks,phrase,R4,N
-424,အဆင်သင့်,a hsin thint,준비됨,ready,adj,R4,N
-425,ဂရုစိုက်,ga yu sait,"조심하다, 돌보다",care,verb,R4,N
-426,စစ်,sit,"전쟁, 검사하다",war,noun,R4,N
-427,သလား,tha la,~했니?(예/아니오 의문),question ending,phrase,R4,N
-428,ကျော်,kyaw,"넘다, 유명하다",over,verb,R4,N
-429,မေးခွန်း,may khun,질문,question,noun,R4,N
-430,ဒီလို,di lo,이렇게,like this,adv,R4,N
-431,လွယ်,lwe,쉽다,easy,adj,R4,N
-432,ဒုတိယ,du ti ya,둘째,second,adj,R4,N
-433,ဖြေ,hpyay,"대답하다, 풀다",answer,verb,R4,N
-434,ဆူး,hsu,가시,thorn,noun,R4,Y
-435,လှည့်,hlei,"돌다, 돌리다",turn,verb,R4,Y
-436,ဘယ်လိုလဲ,be lo leh,"어때?, 어떻게?",how,phrase,R4,N
-437,တွင်,twin,~에서(문어),in,particle,R4,N
-438,ဘုရား,hpa ya,"부처, 불탑, 신",Buddha,noun,R4,Y
-439,အစ်မ,a ma,"언니, 누나",older sister,noun,R4,Y
-440,စစ်ဆေး,sit hsay,검사하다,check,verb,R4,N
-441,တိုင်,tain,"기둥, 이르다(고자질)",pillar,noun,R4,Y
-442,ဆေးရုံ,hsay youn,병원,hospital,noun,R4,Y
-443,တရား,ta ya,"법, 진리, 설법",justice,noun,R4,N
-444,မောင်း,maung,"운전하다, 몰다",drive,verb,R4,Y
-445,မူ,mu,"원칙, 판본, 그러나(문어)",principle,noun,R4,N
-446,ဒေါ်လာ,daw la,달러,dollar,noun,R4,Y
-447,ခေါင်းဆောင်,gaung hsaung,지도자,leader,noun,R4,N
-448,ဘာသာ,ba tha,"종교, 언어, 과목",religion,noun,R4,N
-449,မည်,myi,~할 것이다(문어 미래),will,particle,R4,N
-450,နေထွက်,nay htwet,"해가 뜨다, 해돋이",sunrise,noun,R4,Y
-451,ထိန်းချုပ်,htein choke,통제하다,control,verb,R4,N
-452,စာအုပ်,sa oke,책,book,noun,R4,Y
-453,ကိုး,ko,"아홉, ~이니까(구어)",nine,num,R4,N
-454,ဆိုလို,hso lo,"의미하다, 뜻하다",mean,verb,R4,N
-455,အံ့သြ,an tha,놀라다,surprised,adj,R4,Y
-456,အချစ်,a chit,사랑,love,noun,R4,N
-457,ဟယ်လို,he lo,"여보세요, 안녕",hello,interj,R4,N
-458,အမိန့်,a meint,명령,order,noun,R4,N
-459,ပါ့,pa,"공손 보조(ပါ 의 창조 형태, ~할게요)",polite particle,particle,R4,N
-460,ပတ်,pat,"돌다, 감다, 주(週)",week,noun,R4,N
-461,ရှင်း,shin,"분명하다, 설명하다, 치우다",clear,adj,R4,N
-462,ရထား,ya hta,기차,train,noun,R5,Y
-463,မနက်,ma net,아침,morning,noun,R5,Y
-464,လေယာဉ်,lay yin,비행기,airplane,noun,R5,Y
-465,ငယ်,nge,"어리다, 작다",young,adj,R5,N
-466,သီချင်း,tha chin,노래,song,noun,R5,Y
-467,စာ,sa,"글, 편지, 문자",letter,noun,R5,Y
-468,ချက်ချင်း,chet chin,즉시,immediately,adv,R5,N
-469,မြောက်,myauk,"북쪽, 들어 올리다",north,noun,R5,N
-470,ကြိမ်,kyein,번(횟수),times,clf,R5,N
-471,အန္တရာယ်,an da ye,위험,danger,noun,R5,N
-472,လေ့ကျင့်,lay kyint,"연습하다, 훈련하다",practice,verb,R5,Y
-473,မနက်ဖြန်,ma net hpyan,내일,tomorrow,noun,R5,N
-474,အကုန်,a koun,전부,all,pron,R5,N
-475,နည်းလမ်း,ni lan,방법,method,noun,R5,N
-476,တော်တော်,taw taw,"꽤, 상당히",quite,adv,R5,N
-477,အစ,a sa,"처음, 시작",beginning,noun,R5,N
-478,ဝတ်,wut,입다,wear,verb,R5,Y
-479,ရိုက်,yait,"때리다, 찍다(촬영)",hit,verb,R5,Y
-480,တိုး,to,"늘리다, 밀다",increase,verb,R5,N
-481,မကြာခင်,ma kya khin,곧,soon,adv,R5,N
-482,ချ,cha,내려놓다,put down,verb,R5,Y
-483,ကတည်း,ka ti,~부터(이래로),since,particle,R5,N
-484,မိတ်ဆွေ,meit hsway,"친구, 벗",friend,noun,R5,Y
-485,တား,ta,"막다, 말리다",stop,verb,R5,Y
-486,မစ်ရှင်,mit shin,임무(미션),mission,noun,R5,N
-487,ဖျက်,hpyet,"지우다, 부수다",delete,verb,R5,N
-488,ထောင်,htaung,"천(1000), 감옥, 세우다",thousand,num,R5,N
-489,အမြဲတမ်း,a myeh dan,항상,always,adv,R5,N
-490,စတင်,sa tin,시작하다,start,verb,R5,N
-491,ထိခိုက်,hti khait,"다치다, 영향을 주다",hurt,verb,R5,N
-492,လျှို့ဝှက်,sho hwet,비밀(의),secret,adj,R5,N
-493,ကြိုဆို,kyo hso,환영하다,welcome,verb,R5,N
-494,အပိုင်း,a paing,부분,part,noun,R5,N
-495,ဆင်း,hsin,내리다,get down,verb,R5,Y
-496,ပျက်,pyet,망가지다,break,verb,R5,Y
-497,မီး,mi,"불, 전등",fire,noun,R5,Y
-498,စီစဉ်,si sin,"계획하다, 준비하다",plan,verb,R5,N
-499,စွမ်း,swan,"능력, ~할 수 있다",ability,noun,R5,N
-500,ဝမ်းသာ,wun tha,기쁘다,glad,adj,R5,Y
-501,အမျိုးသမီး,a myo tha mi,여성,woman,noun,R5,Y
-502,မွေး,mway,"낳다, 태어나다, 기르다",born,verb,R5,N
-503,ပျော်ရွှင်,pyaw shwin,행복하다,happy,adj,R5,Y
-504,ကယ်တင်,ke tin,구원하다,save,verb,R5,N
-505,ပါးစပ်,pa zat,입,mouth,noun,R5,Y
-506,အချက်,a chet,"요점, 사실",point,noun,R5,N
-507,စီး,si,타다(탈것),ride,verb,R5,Y
-508,လှ,hla,예쁘다,pretty,adj,R5,Y
-509,မနေ့,ma nay,어제,yesterday,noun,R5,N
-510,ဟင်,hin,"응?, 뭐?",huh,interj,R5,N
-511,အနိုင်,a nain,승리,victory,noun,R5,N
-512,ဌာန,hta na,부서,department,noun,R5,N
-513,ဒုက္ခ,dote kha,"고생, 곤란",trouble,noun,R5,N
-514,ပြည့်,pyei,가득 차다,full,adj,R5,N
-515,ကုမ္ပဏီ,koun pa ni,회사,company,noun,R5,N
-516,စနစ်,sa nit,"제도, 시스템",system,noun,R5,N
-517,ခက်,khet,어렵다,difficult,adj,R5,N
-518,ဂုဏ်ယူ,goun yu,자랑스러워하다,proud,verb,R5,N
-519,ဥပဒေ,u pa day,법,law,noun,R5,N
-520,တာဝန်,ta wun,"책임, 임무",duty,noun,R5,N
-521,မိဘ,mi ba,부모,parents,noun,R5,Y
-522,ပိုင်,pain,소유하다,own,verb,R5,N
-523,သို့,tho,~로(문어 방향),to,particle,R5,N
-524,စိုးရိမ်,so yein,걱정하다,worry,verb,R5,N
-525,ချစ်တယ်,chit te,사랑해,I love you,phrase,R5,N
-526,သေနတ်,tha nat,총,gun,noun,R5,Y
-527,အထူး,a htu,"특별한, 특히",special,adj,R5,N
-528,လက်ဆောင်,let hsaung,선물,gift,noun,R5,Y
-529,သံ,than,"쇠, 소리",iron,noun,R5,Y
-530,ကျေးဇူးပါ,kyay zu pa,고마워요,thanks,phrase,R5,N
-531,မျှ,hmya,"~만큼, 나누다",as much,particle,R5,N
-532,အခြား,a khya,다른,other,adj,R5,N
-533,ရရှိ,ya shi,얻다(문어),obtain,verb,R5,N
-534,တကယ့်,ta geh,진짜의,real,adj,R5,N
-535,သတိရ,tha di ya,"그리워하다, 생각나다",miss,verb,R5,N
-536,ကြိုး,kyo,"줄, 끈",rope,noun,R5,Y
-537,တွင်း,twin,"구멍, 굴",hole,noun,R5,Y
-538,ဘုရင်မ,ba yin ma,여왕,queen,noun,R5,Y
-539,ဝယ်,we,사다,buy,verb,R5,Y
-540,ဒါမှမဟုတ်,da hma ma hok,"또는, 아니면",or,conj,R5,N
-541,သေချာတယ်,thay cha te,확실하다,sure,phrase,R5,N
-542,အိတ်,eik,가방,bag,noun,R5,Y
-543,ကဲ,ke,"자, 그럼",well,interj,R5,N
-544,မယ်တော်,me taw,"왕비, 성모",queen mother,noun,R5,N
-545,ဖန်တီး,hpan ti,"창조하다, 만들다",create,verb,R5,N
-546,အဆုံးသတ်,a hson that,"끝내다, 결말",end,verb,R5,N
-547,ဓား,da,칼,knife,noun,R5,Y
-548,ဆူ,hsu,"끓다, 꾸짖다, 시끄럽다",boil,verb,R5,Y
-549,ဤ,i,이(문어 지시),this,det,R5,N
-550,ရုပ်,yok,"모습, 형상, 인형",figure,noun,R5,N
-551,ပြန်လာ,pyan la,돌아오다,come back,verb,R5,N
-552,နန်းတော်,nan daw,궁전,palace,noun,R5,Y
-553,လောက,law ka,"세상, 세계",world,noun,R5,N
-554,ရောင်း,yaung,팔다,sell,verb,R5,Y
-555,ဒဏ်ရာ,dan ya,"상처, 부상",wound,noun,R5,Y
-556,ဆက်သွယ်,hset thwe,연락하다,contact,verb,R5,N
-557,အရာရှိ,a ya shi,"관리, 장교",officer,noun,R5,Y
-558,ကဒ်,kat,카드,card,noun,R5,Y
-559,ဆက်လုပ်,hset lok,계속하다,continue,verb,R5,N
-560,ရှာဖွေ,sha hpwe,"찾다, 탐색하다",search,verb,R5,N
-561,ပညာ,pyin nya,"지식, 학문",knowledge,noun,R5,N
-562,ဇာတ်လမ်း,zat lan,"이야기, 줄거리",story,noun,R5,N
-563,သလဲ,tha le,~했니?(의문사 질문 종결),question ending,phrase,R5,N
-564,ဖြေရှင်း,hpyay shin,해결하다,solve,verb,R5,N
-565,ခြေထောက်,chay dauk,"다리, 발",leg,noun,R5,Y
-566,နားမလည်,na ma le,이해 못 하다,not understand,phrase,R5,N
-567,ထင်ထား,htin hta,"예상하다, 생각해 두다",expect,verb,R5,N
-568,ထ,hta,"일어서다, 일어나다",stand up,verb,R5,Y
-569,မိုက်,maik,"어리석다, 멋지다(속어)",foolish,adj,R5,N
-570,တော်တယ်,taw te,"잘했다, 똑똑하다",well done,phrase,R5,N
-571,စီ,si,"줄 세우다, 늘어놓다",line up,verb,R5,N
-572,စာရင်း,sa yin,"목록, 명단",list,noun,R5,N
-573,ပါရစေ,pa ya zay,~하게 해 주세요(허락 요청),let me,aux,R5,N
-574,စစ်ပွဲ,sit pwe,전쟁,war,noun,R5,Y
-575,ခွက်,hkwet,"컵, 잔",cup,noun,R5,Y
-576,အဆုံး,a hson,"끝, 마지막",end,noun,R5,N
-577,ရည်ရွယ်,yi ywe,"의도하다, 목표하다",intend,verb,R5,N
-578,ကြောင်း,kyaung,"~라는 것, 이유, 사실",that,particle,R5,N
-579,တောင်းဆို,taung hso,"요청하다, 요구하다",request,verb,R5,N
-580,အဓိပ္ပာယ်,a dei bet,"의미, 뜻",meaning,noun,R5,N
-581,အာရုံ,a yon,"주의, 감각",attention,noun,R5,N
-582,ကောင်းဆိုးဝါး,kaung hso wa,"귀신, 괴물",ghost,noun,R5,Y
-583,သစ္စာဖောက်,thit sa hpauk,배신자,traitor,noun,R5,N
-584,ထောက်,htauk,"받치다, 지지하다",support,verb,R5,N
-585,စောင့်ရှောက်,saung shauk,"보호하다, 돌보다",protect,verb,R5,N
-586,အနောက်,a naut,"서쪽, 뒤",west,noun,R5,N
-587,သံသယ,than tha ya,의심,doubt,noun,R5,N
-588,ဘယ်တုန်း,be ton,언제(과거),when,pron,R5,N
-589,အမှတ်,a hmat,"점수, 표시, 번호",score,noun,R5,N
-590,ကံကောင်း,kan kaung,운이 좋다,lucky,adj,R5,N
-591,အနည်းဆုံး,a ne zon,적어도,at least,adv,R5,N
-592,မျိုးနွယ်,myo nwe,"혈통, 종족",lineage,noun,R5,N
-593,သလောက်,tha laut,"~만큼, ~할수록",as much as,particle,R5,N
-594,မင်းသမီး,min tha mi,"공주, 여배우",princess,noun,R5,Y
-595,အော်,aw,"소리치다, 외치다",shout,verb,R5,Y
-596,အဓိက,a da ka,주요한,main,adj,R5,N
-597,နှလုံးသား,hna lon tha,"마음, 심장",heart,noun,R5,N
-598,သတိပေး,tha ti pay,경고하다,warn,verb,R5,N
-599,ဖယ်,hpe,"치우다, 비키다",remove,verb,R5,N
-600,ခေါက်,hkauk,"접다, 두드리다",fold,verb,R5,Y
-601,သော့,thaw,"열쇠, 자물쇠",key,noun,R5,Y
-602,တွဲ,twe,"짝짓다, 연결하다",pair,verb,R5,N
-603,ကြိုက်တယ်,kyaik te,좋아하다(평서),like,phrase,R5,N
-604,ရုပ်ရှင်,yok shin,영화,movie,noun,R5,Y
-605,အမြင်,a myin,"견해, 시각",view,noun,R5,N
-606,သဘောတူ,tha baw tu,동의하다,agree,verb,R5,N
-607,ခန့်,hkan,"약, 대략, 임명하다",about,particle,R5,N
-608,လေးစား,lay sa,존경하다,respect,verb,R5,N
-609,အရူး,a yu,"미친 사람, 바보",fool,noun,R5,N
-610,ဆက်ဆံ,hset hsan,"대하다, 교류하다",treat,verb,R5,N
-611,ဖတ်,hpat,읽다,read,verb,R5,Y
-612,အလောင်း,a laung,시체,corpse,noun,R5,N
-613,အကြိမ်,a kyein,"횟수, ~번",time,noun,R5,N
-614,အရှေ့,a shay,"동쪽, 앞",east,noun,R5,N
-615,အကြာ,a kya,"(시간) 후, 동안",duration,noun,R5,N
-616,အကြီး,a kyi,"큰 것, 큰 사람",big one,noun,R5,N
-617,ကတိ,ka ti,약속,promise,noun,R5,N
-618,ကင်း,kin,"초소, 경계, ~이 없다",guard post,noun,R5,N
-619,သေဆုံး,thay hson,죽다(격식),die,verb,R5,N
-620,တပ်,tat,"부대, 붙이다",troop,noun,R5,N
-621,ပါတီ,pa ti,"파티, 정당",party,noun,R5,Y
-622,ဂိမ်း,gain,게임,game,noun,R5,Y
-623,အရင်ဆုံး,a yin hson,가장 먼저,first,adv,R5,N
-624,ပုံမှန်,pon hman,"보통, 정상",normal,adj,R5,N
-625,မြင့်,myin,"높다, 키가 크다",tall,adj,R5,Y
-626,ချောင်း,chaung,"개울, 기침하다, ~개(막대)",stream,noun,R5,Y
-627,တွက်,twet,계산하다,calculate,verb,R5,N
-628,ကျောက်,kyauk,돌,stone,noun,R5,Y
-629,ဖွဲ့,hpwe,"구성하다, 조직하다",form,verb,R5,N
-630,တချို့,ta chot,"일부, 어떤",some,det,R5,N
-631,ဒါပေါ့,da paw,물론이지,of course,phrase,R5,N
-632,ချီ,chi,"들어올리다, 업다",lift,verb,R5,Y
-633,ကိုက်,kaik,물다,bite,verb,R5,Y
-634,စိတ်ဝင်စား,seik win sa,관심을 갖다,be interested,verb,R5,N
-635,ကျောက်တုံး,kyauk ton,"바위, 돌덩이",rock,noun,R5,Y
-636,တည့်,te,"곧다, 사이가 좋다",straight,adj,R5,N
-637,လူမျိုး,lu myo,"민족, 인종",race,noun,R5,N
-638,ကျန်းမာ,kyan ma,건강하다,healthy,adj,R5,N
-639,လည်,le,"돌다, 놀러 가다",turn,verb,R5,N
-640,ကစား,ga za,"놀다, 경기하다",play,verb,R5,Y
-641,ပုန်း,pon,숨다,hide,verb,R5,Y
-642,အမှန်တရား,a hman ta ya,진실,truth,noun,R5,N
-643,တန်,tan,"가치가 있다, 톤",worth,verb,R5,N
-644,လိမ့်,lein,"구르다, ~할 것이다(추측)",roll,aux,R5,N
-645,တိုက်ပွဲ,taik pwe,전투,battle,noun,R5,Y
-646,အဆင်ပြေလား,a hsin pyay la,괜찮아?,are you ok,phrase,R5,N
-647,ဆောင်,hsaung,"가져가다, 지니다, 수행하다",carry,verb,R5,N
-648,ခက်ခဲ,hket hke,어렵다,difficult,adj,R5,N
-649,ဟောင်း,haung,"낡다, 옛",old,adj,R5,N
-650,ခုနှစ်,hkun hnit,"일곱, 연도",seven,num,R5,N
-651,လှုပ်ရှား,hlok sha,"움직이다, 활동",move,verb,R5,N
-652,လေ့လာ,lay la,"공부하다, 연구하다",study,verb,R5,Y
-653,အလှည့်,a hle,차례,turn,noun,R5,N
-654,ကု,ku,치료하다,cure,verb,R5,N
-655,ခုန်,hkon,"뛰다, 점프하다",jump,verb,R5,Y
-656,ကွဲ,kwe,"깨지다, 갈라지다",break,verb,R5,Y
-657,ပညာရှင်,pyin nya shin,전문가,expert,noun,R5,N
-658,စက္ကန့်,set kan,초(시간),second,noun,R5,N
-659,ထူးခြား,htu cha,"특별하다, 특이하다",special,adj,R5,N
-660,ဖောက်,hpauk,"뚫다, 터뜨리다",pierce,verb,R5,N
-661,ရင်ဆိုင်,yin hsain,"맞서다, 직면하다",face,verb,R5,N
-662,အိပ်မက်,eik met,꿈,dream,noun,R5,N
-663,သူရဲကောင်း,thu ye kaung,영웅,hero,noun,R5,Y
-664,ကြောင့်,kyaung,~때문에,because,particle,R5,N
-665,မှော်,hmaw,마법,magic,noun,R5,Y
-666,ညီမ,nyi ma,여동생,younger sister,noun,R5,Y
-667,လျှောက်,shauk,"걷다, 신청하다, 아뢰다",walk,verb,R5,N
-668,ပြည်သူ,pyi thu,"국민, 백성",people,noun,R5,N
-669,ဆန့်,hsan,"펴다, 뻗다",stretch,verb,R5,Y
-670,သူခိုး,tha hko,도둑,thief,noun,R5,Y
-671,ဂရုမစိုက်,ga yu ma saik,신경 쓰지 않다,not care,phrase,R5,N
-672,စိတ်ပျက်,seik pyet,실망하다,disappointed,adj,R5,N
-673,သိမ်း,thein,"치우다, 보관하다",put away,verb,R5,N
-674,စွန့်,sun,"버리다, 포기하다",abandon,verb,R5,N
-675,အာရုံစိုက်,a yon saik,집중하다,concentrate,verb,R5,N
-676,နောက်ကျ,naut kya,늦다,be late,verb,R5,N
-677,ကတိပေး,ka ti pay,약속하다,promise,verb,R5,N
-678,အနာဂတ်,a na gat,미래,future,noun,R5,N
-679,ငြင်း,nyin,"부인하다, 거절하다",deny,verb,R5,N
-680,မိဖုရား,mi bu ya,왕비,queen,noun,R5,Y
-681,ကျွန်ုပ်,kya nok,"저, 나(격식)",I,pron,R5,N
-682,သနား,tha na,불쌍히 여기다,pity,verb,R5,N
-683,ဆုံးဖြတ်,hson hpyat,결정하다,decide,verb,R5,N
-684,သတ်မှတ်,that hmat,"정하다, 규정하다",set,verb,R5,N
-685,ဖေဖေ,hpay hpay,아빠,dad,noun,R5,Y
-686,လန့်,lan,깜짝 놀라다,startled,verb,R5,Y
-687,ထိုး,htoe,"찌르다, 때리다",punch,verb,R5,Y
-688,ရေခဲ,yay ge,얼음,ice,noun,R5,Y
-689,ပျက်စီး,pyet si,"파괴되다, 망가지다",destroyed,verb,R5,N
-690,အပြည့်,a pyay,가득,full,adv,R5,N
-691,အရက်,a yet,술,liquor,noun,R5,Y
-692,ရွာ,ywa,"마을, 찾다",village,noun,R5,Y
-693,အစိုးရ,a so ya,정부,government,noun,R5,N
-694,ညာ,nya,"오른쪽, 거짓말하다",right,noun,R5,N
-695,ခန္ဓာကိုယ်,hkan da ko,"몸, 신체",body,noun,R5,Y
-696,အသုံးချ,a thon cha,활용하다,use,verb,R5,N
-697,လွဲ,lwe,"빗나가다, 놓치다",miss,verb,R5,N
-698,တံခါး,da ga,문,door,noun,R5,Y
-699,အလင်း,a lin,빛,light,noun,R5,Y
-700,နာ,na,아프다,hurt,verb,R5,N
-701,လူသတ်သမား,lu that tha ma,살인자,murderer,noun,R5,N
-702,ဆန္ဒ,hsan da,"소원, 욕구",wish,noun,R5,N
-703,လူနာ,lu na,환자,patient,noun,R5,Y
-704,ဟိုင်း,hain,안녕(하이),hi,interj,R5,N
-705,ဆောရီး,hsaw ri,미안(쏘리),sorry,interj,R5,N
-706,ခွေး,hkway,개,dog,noun,R5,Y
-707,အရွယ်,a ywe,"나이, 크기",age,noun,R5,N
-708,မဆို,ma hso,~든지(ဘယ်သူမဆို 누구든지),-ever,particle,R5,N
-709,မုန်း,mon,미워하다,hate,verb,R5,N
-710,အမေရိကန်,a may ri kan,미국,America,noun,R5,N
-711,ရောဂါ,yaw ga,"병, 질병",disease,noun,R5,N
-712,ပူးပေါင်း,pu paung,"협력하다, 합치다",cooperate,verb,R5,N
-713,သမ္မတ,tha ma da,대통령,president,noun,R5,Y
-714,ယောကျ်ား,yauk kya,"남자, 남편",man,noun,R5,Y
-715,အစစ်,a sit,진짜,real,adj,R5,N
-716,ကူ,ku,돕다,help,verb,R5,N
-717,ဆုံးရှုံး,hson shon,잃다,lose,verb,R5,N
-718,ရင်း,yin,~하면서,while,particle,R5,N
-719,ရှည်,shay,길다,long,adj,R5,Y
-720,လှုပ်,hlok,"흔들다, 움직이다",shake,verb,R5,Y
-721,နာမည်ကြီး,na me kyi,유명하다,famous,adj,R5,N
-722,ချည်း,chi,"~만, 오로지",only,particle,R5,N
-723,ဖြင့်,hpyin,"~로(수단), ~와 함께",with,particle,R5,N
-724,ကျေနပ်,kyay nat,만족하다,satisfied,adj,R5,N
-725,ခင်ဗျာ,hkin bya,"네(남성 공손), ~요",sir,particle,R5,N
-726,သာမန်,tha man,"평범하다, 보통",ordinary,adj,R5,N
-727,ကြယ်,kyay,별,star,noun,R5,Y
-728,အနား,a na,"근처, 가장자리",near,noun,R5,N
-729,ရုံး,yon,"사무실, 관청",office,noun,R5,Y
-730,စိတ်ပူ,seik pu,걱정하다,worry,verb,R5,N
-731,သန်း,than,백만,million,num,R5,N
-732,အမလေး,a ma lay,"어머나, 맙소사",oh my god,interj,R5,N
-733,အဲ့လို,e lo,그렇게(구어 표기),like that,adv,R5,N
-734,သစ်,thit,"새, 나무",new,adj,R5,N
-735,သွေးစုပ်ဖုတ်,thway sok hpok,흡혈귀,vampire,noun,R5,Y
-736,တို,to,짧다,short,adj,R5,Y
-737,နာကျင်,na kyin,"아프다, 고통스럽다",pain,verb,R5,N
-738,ရုတ်တရက်,yok ta yet,갑자기,suddenly,adv,R5,N
-739,စိတ်လှုပ်ရှား,seik hlok sha,"흥분하다, 설레다",excited,adj,R5,N
-740,ဝမ်းနည်း,wun ne,슬프다,sad,adj,R5,Y
-741,ဖက်,hpet,"껴안다, 쪽",hug,verb,R5,Y
-742,ပြိုင်ပွဲ,pyaing pwe,"경기, 대회",competition,noun,R5,N
-743,စမ်းသပ်,san thet,"시험하다, 실험하다",test,verb,R5,N
-744,ဒေါသထွက်,daw tha htwet,화가 나다,get angry,verb,R5,Y
-745,တန်ဖိုး,tan bo,가치,value,noun,R5,N
-746,စိုက်,saik,심다,plant,verb,R5,Y
-747,မြစ်,myit,강,river,noun,R5,Y
-748,ကျောင်းသား,kyaung tha,학생,student,noun,R5,Y
-749,ဒုက္ခရောက်,dok hka yauk,곤경에 처하다,in trouble,verb,R5,N
-750,သရုပ်ဆောင်,tha yok hsaung,"배우, 연기하다",actor,noun,R5,Y
-751,လုံလောက်,lon laut,충분하다,enough,adj,R5,N
-752,အေးဆေး,ay hsay,"느긋하다, 침착하다",calm,adj,R5,N
-753,အုပ်ချုပ်,ok chok,"다스리다, 통치하다",rule,verb,R5,N
-754,နံရံ,nan yan,벽,wall,noun,R5,Y
-755,ငှက်,hnget,새,bird,noun,R5,Y
-756,သင့်,thin,"~해야 한다, 당신의",should,aux,R5,N
-757,ဦးနှောက်,o hnauk,뇌,brain,noun,R5,Y
-758,အကြံ,a kyan,"생각, 아이디어",idea,noun,R5,N
-759,မြတ်,myat,"고귀하다, 거룩하다",noble,adj,R5,N
-760,ရှက်,shet,부끄럽다,ashamed,adj,R5,Y
-761,မှတ်တမ်း,hmat tan,기록,record,noun,R5,N
-762,တည်,ti,"세우다, 자리 잡다",establish,verb,R5,N
-763,ဆုံး,hson,"끝나다, 죽다, 만나다",end,verb,R5,N
-764,ကိုရီးယား,ko ri ya,한국,Korea,noun,R5,N
-765,ရာထူး,ya da htu,"지위, 직위",rank,noun,R5,N
-766,ဆံပင်,hsan bin,머리카락,hair,noun,R5,Y
-767,ဖြစ်စေ,hpyit zay,"~하게 하다, ~되게 하다",cause,verb,R5,N
-768,စစ်သား,sit tha,군인,soldier,noun,R5,Y
-769,အဆင်ပြေတယ်,a hsin pyay te,괜찮다,it's fine,phrase,R5,N
-770,ပြီးနောက်,pyi naut,~한 후에,after,conj,R5,N
-771,အလို,a lo,"바람, 원하는 것",wish,noun,R5,N
-772,ဘောလုံး,baw lon,공,ball,noun,R5,Y
-773,တစ်သက်,ta thet,평생,lifetime,noun,R5,N
-774,ဟန်ဆောင်,han hsaung,~인 척하다,pretend,verb,R5,N
-775,လမ်းကြောင်း,lan gyaung,"길, 경로",route,noun,R5,N
-776,မွေးနေ့,mway nay,생일,birthday,noun,R5,Y
-777,အရည်အချင်း,a yi a chin,"자격, 능력",ability,noun,R5,N
-778,လူကောင်း,lu kaung,착한 사람,good person,noun,R5,N
-779,လုပ်ငန်း,lok ngan,"사업, 일",business,noun,R5,N
-780,အင်အား,in a,"힘, 세력",strength,noun,R5,N
-781,ခေတ်,hkit,시대,era,noun,R5,N
-782,ပြန်လည်,pyan le,"다시, 재-",again,adv,R5,N
-783,တော,taw,숲,forest,noun,R5,Y
-784,အချက်အလက်,a chet a let,"정보, 데이터",information,noun,R5,N
-785,စကားလုံး,za ga lon,단어,word,noun,R5,N
-786,အနီ,a ni,빨강,red,adj,R5,Y
-787,အတော်,a taw,"꽤, 상당히",quite,adv,R5,N
-788,ထူးဆန်း,htu hsan,이상하다,strange,adj,R5,N
-789,ခိုး,hko,훔치다,steal,verb,R5,Y
-790,တတိယ,ta ti ya,세 번째,third,num,R5,N
-791,ဆောက်,hsauk,"짓다, 건설하다",build,verb,R5,Y
-792,ပိုင်ဆိုင်,pain hsain,소유하다,own,verb,R5,N
-793,ဆန်,hsan,쌀,rice,noun,R5,Y
-794,သက်သေ,thet thay,"증인, 증거",witness,noun,R5,N
-795,အသား,a tha,"고기, 살, 피부",meat,noun,R5,Y
-796,ကပ္ပတိန်,kap pa tin,"선장, 대위",captain,noun,R5,Y
-797,နောက်ဆုတ်,naut hsok,물러나다,retreat,verb,R5,N
-798,ထို,hto,그(문어 지시),that,det,R5,N
-799,ငှား,hnga,"빌리다, 빌려주다",rent,verb,R5,N
-800,မိုင်,main,마일,mile,clf,R5,N
-801,ကတ်,kat,카드,card,noun,R5,Y
-802,စိတ်အေး,seik ay,"마음을 놓다, 진정하다",calm down,verb,R5,N
-803,သဘော,tha baw,"생각, 성품, 뜻",mind,noun,R5,N
-804,ကြောင်,kyaung,고양이,cat,noun,R5,Y
-805,ဖြုတ်,hpyok,"떼다, 벗기다",remove,verb,R5,N
-806,ဖုန်းဆက်,hpon hset,전화하다,phone call,verb,R5,Y
-807,ကော်ဖီ,kaw hpi,커피,coffee,noun,R5,Y
-808,စစ်တပ်,sit tat,군대,army,noun,R5,Y
-809,နိုး,no,"깨다, 깨우다",wake up,verb,R5,Y
-810,အစား,a sa,"대신, 음식",instead,noun,R5,N
-811,မာ,ma,"단단하다, 딱딱하다",hard,adj,R5,N
-812,အဒေါ်,a daw,"이모, 고모",aunt,noun,R5,Y
-813,လုပ်ဆောင်,lok hsaung,"수행하다, 실행하다",carry out,verb,R5,N
-814,ဖိနပ်,hpi nat,신발,shoes,noun,R5,Y
-815,သဘောထား,tha baw hta,"태도, 견해",attitude,noun,R5,N
-816,အနံ့,a nan,냄새,smell,noun,R5,N
-817,ကပ်,kat,"붙다, 붙이다",stick,verb,R5,N
-818,ကျွန်း,kyun,섬,island,noun,R5,Y
-819,မယ်လေး,me lay,어머나,oh my,interj,R5,N
-820,အဆိပ်,a hseik,독,poison,noun,R5,Y
-821,ဟန်,han,"태도, 모양, 스타일",manner,noun,R5,N
-822,ခြောက်,hchauk,"여섯, 마르다, 위협하다",six,num,R5,N
-823,ချိန်း,chein,약속을 잡다,make appointment,verb,R5,N
-824,အိန္ဒိယ,ein di ya,인도,India,noun,R5,N
-825,ဖုံးကွယ်,hpon kwe,"숨기다, 감추다",conceal,verb,R5,N
-826,ဆွေးနွေး,hswe nwe,논의하다,discuss,verb,R5,N
-827,အကြောင်းပြ,a kyaung pya,"이유를 대다, 핑계 대다",give reason,verb,R5,N
-828,ဗျ,bya,~요(남성 공손 종결),polite particle,particle,R5,N
-829,တပ်ဖွဲ့,tat hpwe,"부대, 군대",forces,noun,R5,N
-830,အကြံပေး,a kyan pay,"조언하다, 고문",advise,verb,R5,N
-831,နှုတ်ဆက်,hnok hset,인사하다,greet,verb,R5,Y
-832,နေထိုင်,nay htain,"살다, 거주하다",live,verb,R5,N
-833,ဆရာဝန်,hsa ya wun,의사,doctor,noun,R5,Y
-834,ပါဝင်,pa win,"포함하다, 참여하다",participate,verb,R5,N
-835,ဟု,hu,~라고(문어 인용),quote marker,particle,R5,N
-836,တောင့်,taung,"뻣뻣하다, 단단하다",stiff,adj,R5,N
-837,အက,a ka,춤,dance,noun,R5,Y
-838,အနည်းငယ်,a ne ngay,조금,a little,adv,R5,N
-839,ဈေး,zay,"시장, 값",market,noun,R5,Y
-840,ကိုယ်ပိုင်,ko pain,"자기 소유의, 개인의",own,adj,R5,N
-841,အတိတ်,a teik,과거,past,noun,R5,N
-842,ဗုံး,bon,폭탄,bomb,noun,R5,Y
-843,ရှေ့နေ,shay nay,변호사,lawyer,noun,R5,Y
-844,လိုလား,lo la,"바라다, 지지하다",wish,verb,R5,N
-845,ခန်း,hkan,"방, ~칸",room,clf,R5,N
-846,အမြန်,a myan,빨리,quickly,adv,R5,N
-847,အမတ်,a mat,"장관, 의원",minister,noun,R5,N
-848,စီးပွား,si bwa,"경제, 생계",economy,noun,R5,N
-849,ငြိမ်းချမ်း,nyein chan,평화롭다,peaceful,adj,R5,N
-850,ကွက်,kwet,"칸, 구획",square,clf,R5,N
-851,ပြေ,pyay,"풀리다, 해결되다",loosen,verb,R5,N
-852,တွန်း,tun,밀다,push,verb,R5,Y
-853,နှလုံး,hna lon,심장,heart,noun,R5,Y
-854,နတ်ဘုရား,nat hpa ya,신,god,noun,R5,N
-855,ပြိုင်,pyain,"겨루다, 경주하다",compete,verb,R5,Y
-856,ရန်သူ,yan thu,적,enemy,noun,R5,N
-857,အုပ်,ok,"덮다, ~권(책)",cover,clf,R5,N
-858,ဓာတ်ပုံ,dat pon,사진,photo,noun,R5,Y
-859,နဂါး,na ga,용,dragon,noun,R5,Y
-860,အစောင့်,a saung,"경비원, 보초",guard,noun,R5,Y
-861,လှေ,hlay,"배, 보트",boat,noun,R5,Y
-862,ရှောင်,shaung,피하다,avoid,verb,R5,N
-863,ပြုတ်,pyok,"삶다, 빠지다",boil,verb,R5,Y
-864,ဗျာ,bya,~요(남성 공손 강조),polite particle,particle,R5,N
-865,မြေ,myay,"땅, 흙",ground,noun,R5,Y
-866,ချီး,chi,똥(비속어),dung,noun,R5,N
-867,ဟိုတယ်,ho te,호텔,hotel,noun,R5,Y
-868,သမိုင်း,tha main,역사,history,noun,R5,N
-869,စာရွက်,sa ywet,종이,paper,noun,R5,Y
-870,အလကား,a la ka,"공짜, 헛되이",free,adj,R5,N
-871,သယ်,the,"나르다, 운반하다",carry,verb,R5,Y
-872,အမှောင်,a hmaung,어둠,darkness,noun,R5,N
-873,ဟဲလို,he lo,"여보세요, 안녕",hello,interj,R5,N
-874,လက်ရှိ,let shi,현재의,current,adj,R5,N
-875,နီး,ni,가깝다,near,adj,R5,N
-876,အနားယူ,a na yu,쉬다,rest,verb,R5,Y
-877,အံ့ဩ,an aw,놀라다,surprised,adj,R5,Y
-878,အဘွား,a hpwa,할머니,grandmother,noun,R5,Y
-879,သဘောပေါက်,tha baw pauk,"이해하다, 깨닫다",understand,verb,R5,N
-880,စိတ်ဆိုး,seik hso,화나다,angry,adj,R5,Y
-881,ခြိမ်းခြောက်,chein chauk,위협하다,threaten,verb,R5,N
-882,ဉာဏ်,nyan,"지혜, 지능",wisdom,noun,R5,N
-883,ကြီးမား,kyi ma,거대하다,huge,adj,R5,N
-884,ဗိုလ်,bo,"장교, 장군",officer,noun,R5,N
-885,အကျိုး,a kyo,"이익, 결과",benefit,noun,R5,N
-886,သွားစို့,thwa zo,가자,let's go,phrase,R5,N
-887,ညီ,nyi,남동생,younger brother,noun,R5,Y
-888,ချန်,chan,남겨 두다,leave behind,verb,R5,N
-889,ခရီး,hka yi,여행,trip,noun,R5,N
-890,ဆဲလ်,hsel,세포,cell,noun,R5,N
-891,ကင်မရာ,kin ma ra,카메라,camera,noun,R5,Y
-892,ရှုံး,shon,"지다, 잃다",lose,verb,R5,N
-893,ဂူ,gu,동굴,cave,noun,R5,Y
-894,ဟယ်,he,"이봐, 어머",hey,interj,R5,N
-895,ဟုတ်ကဲ့ပါ,hok ke pa,네(공손),yes,phrase,R5,N
-896,အဲ့တာ,e ta,그것(구어),that,pron,R5,N
-897,သင်ပေး,thin pay,가르쳐 주다,teach,verb,R5,Y
-898,သဘာဝ,tha ba wa,자연,nature,noun,R5,N
-899,မေမေ,may may,엄마,mom,noun,R5,Y
-900,နယ်,ne,"지역, 반죽하다",region,noun,R5,N
-901,ဆဲ,hse,욕하다,curse,verb,R5,N
-902,ပါး,pa,"뺨, 얇다",cheek,noun,R5,Y
-903,သက်သေပြ,thet thay pya,증명하다,prove,verb,R5,N
-904,မဆိုး,ma hso,"나쁘지 않다, 괜찮다",not bad,phrase,R5,N
-905,မယ့်,me,~할(미래 관형),will,particle,R5,N
-906,မျက်စိ,myet si,눈,eye,noun,R5,Y
-907,တစ်ခြား,ta chya,다른,other,det,R5,N
-908,သတ္တိ,that ti,용기,courage,noun,R5,N
-909,အတွေး,a tway,생각,thought,noun,R5,N
-910,၍,ywe,"~하여, ~해서(문어 연결)",and,conj,R5,N
-911,တိတ်တိတ်,teik teik,조용히,quietly,adv,R5,N
-912,ဆာ,hsa,"배고프다, 써(Sir)",hungry,adj,R5,Y
-913,ကောက်,kauk,줍다,pick up,verb,R5,Y
-914,အဆင်မပြေ,a hsin ma pyay,"불편하다, 괜찮지 않다",not okay,phrase,R5,N
-915,လှပ,hla pa,아름답다,beautiful,adj,R5,N
-916,ခြေ,chay,발,foot,noun,R5,Y
-917,ခွာ,hkwa,"떼어내다, 떠나다",peel off,verb,R5,N
-918,မိုး,mo,비,rain,noun,R5,Y
-919,အန်တီ,an ti,"아주머니, 이모",aunt,noun,R5,Y
-920,တရားခံ,ta ya hkan,"범인, 피고",culprit,noun,R5,N
-921,ညီအစ်ကို,nyi a ko,형제,brothers,noun,R5,Y
-922,နှင်း,hnin,"눈, 안개",snow,noun,R5,Y
-923,အရောင်,a yaung,색깔,color,noun,R5,Y
-924,တံဆိပ်,da zeik,"상표, 도장, 라벨",label,noun,R5,Y
-925,စလုံး,sa lon,싱가포르(구어),Singapore,noun,R5,N
-926,အာမခံ,a ma khan,"보증, 보험",insurance,noun,R5,N
-927,တစ်ပတ်,ta pat,일주일,one week,noun,R5,N
-928,မှတ်ဉာဏ်,hmat nyan,기억,memory,noun,R5,N
-929,ကြေညာ,kyay nya,"발표하다, 선언하다",announce,verb,R5,N
-930,အတူ,a tu,함께,together,adv,R5,N
-931,မြင်း,myin,말,horse,noun,R5,Y
-932,ကြို,kyo,"마중하다, 미리",pick up,verb,R5,N
-933,ဝတ်စုံ,wut son,"옷 한 벌, 의상",outfit,noun,R5,Y
-934,အရင်း,a yin,"원금, 근원",capital,noun,R5,N
-935,သဲလွန်,the lun,단서,clue,noun,R5,N
-936,ကြုံ,kyon,"겪다, 마주치다",encounter,verb,R5,N
-937,လွတ်မြောက်,lut myauk,"탈출하다, 해방되다",escape,verb,R5,N
-938,တည်ဆောက်,ti hsauk,"건설하다, 세우다",build,verb,R5,N
-939,အဖွဲ့အစည်း,a hpwe a si,"조직, 단체",organization,noun,R5,N
-940,ပုလွေ,pa lway,피리,flute,noun,R5,Y
-941,လွတ်လပ်,lut lat,자유롭다,free,adj,R5,N
-942,ရွှေ့,shway,옮기다,move,verb,R5,Y
-943,သက်သာ,thet tha,"나아지다, 편해지다",relieved,adj,R5,N
-944,ပင်လယ်,pin le,바다,sea,noun,R5,Y
-945,စုံစမ်း,son san,"조사하다, 알아보다",investigate,verb,R5,N
-946,ခြေရာခံ,chay ya hkan,추적하다,track,verb,R5,N
-947,အန္တရာယ်ရှိ,an ta ye shi,위험하다,dangerous,adj,R5,N
-948,တရုတ်,ta yok,중국,China,noun,R5,N
-949,စိုး,so,"걱정하다, 두려워하다",fear,verb,R5,N
-950,မန္တန်,man tan,"주문, 만트라",spell,noun,R5,N
-951,ကျူးလွန်,kyu lun,저지르다(범죄),commit,verb,R5,N
-952,အရမ်းကောင်း,a yan kaung,아주 좋다,very good,phrase,R5,N
-953,ဖြည့်,hpyi,채우다,fill,verb,R5,N
-954,နှင့်,hnin,"~와/과, ~로(문어)",and,particle,R5,N
-955,အဓိပ္ပါယ်,a deik pe,"의미, 뜻",meaning,noun,R5,N
-956,ဂုဏ်ပြု,goun pyu,"기리다, 경의를 표하다",honor,verb,R5,N
-957,ပုံပြင်,poun pyin,"옛날이야기, 동화",story,noun,R5,N
-958,အကြီးဆုံး,a kyi zoun,"가장 큰, 맏이",biggest,adj,R5,N
-959,အေးဂျင့်,ay jin,"요원, 에이전트",agent,noun,R5,Y
-960,ရော့,yaw,자 받아(건넬 때),here,interj,R5,N
-961,ဘယ်နှ,be hna,몇(몇 개),how many,det,R5,N
-962,ပြင်ဆင်,pyin hsin,"준비하다, 고치다",prepare,verb,R5,N
-963,ဦး,u,"우(남성 존칭), 머리, 먼저",mister,noun,R5,N
-964,စောင့်,saung,"기다리다, 지키다",wait,verb,R5,Y
-965,သူဌေး,tha htay,"부자, 사장",rich man,noun,R5,Y
-966,သိပ္ပံ,thate pan,과학,science,noun,R5,N
-967,ထိုက်တန်,htaik tan,"가치가 있다, 마땅하다",deserve,verb,R5,N
-968,ရှစ်,shit,"8, 여덟",eight,num,R5,Y
-969,နှုတ်,hnoat,"입, 말; 뽑다",mouth,noun,R5,N
-970,နီ,ni,"빨갛다, 빨간",red,adj,R5,Y
-971,အထက်,a htet,"위, 위쪽",above,noun,R5,N
-972,တစ်ဝက်,ta wet,절반,half,noun,R5,Y
-973,ဟုတ်သား,hoat tha,"아 그렇구나, 맞다",that's right,interj,R5,N
-974,အပ်,at,맡기다; 바늘,entrust,verb,R5,N
-975,ဆိုင်ရာ,hsaing ya,"관련된, 해당",related,adj,R5,N
-976,ဦးဆောင်,u hsaung,"이끌다, 주도하다",lead,verb,R5,N
-977,ကျွမ်းကျင်,kywan kyin,"능숙하다, 숙련되다",skilled,adj,R5,N
-978,အနက်,a net,검은색; 의미; 깊이,black,noun,R5,Y
-979,သရဲ,tha ye,"귀신, 유령",ghost,noun,R5,Y
-980,လွှင့်,hlwin,"던지다, 방송하다",throw,verb,R5,Y
-981,ပိုင်ရှင်,paing shin,"주인, 소유자",owner,noun,R5,N
-982,လိုင်း,laing,"선, 줄, 노선",line,noun,R5,N
-983,ဆယ်,hse,"10, 열",ten,num,R5,Y
-984,ပရိသတ်,pa yei that,"관객, 청중",audience,noun,R5,Y
-985,အတော်ဆုံး,a taw zoun,"가장 뛰어난, 최고",best,adj,R5,N
-986,အာဏာ,a na,권력,power,noun,R5,N
-987,စုံထောက်,soun dauk,"탐정, 형사",detective,noun,R5,Y
-988,အရပ်,a yat,"키; 지역, 방향",height,noun,R5,N
-989,ကျင့်,kyin,"연습하다, 수련하다",practice,verb,R5,N
-990,ခပ်,khat,"약간, 좀; 푸다",somewhat,adv,R5,N
-991,ဇနီး,za ni,아내,wife,noun,R5,Y
-992,ထိန်းသိမ်း,htein thein,"보존하다, 지키다",preserve,verb,R5,N
-993,ခမည်းတော်,kha me daw,"부왕, 아버지(왕족 존칭)",father,noun,R5,Y
-994,ဒါရိုက်တာ,da yaik ta,"감독, 이사",director,noun,R5,Y
-995,တူညီ,tu nyi,"같다, 동일하다",same,adj,R5,N
-996,သင်ယူ,thin yu,배우다,learn,verb,R5,Y
-997,မိခင်,mi khin,어머니,mother,noun,R5,Y
-998,တာဝန်ယူ,ta wun yu,책임지다,take responsibility,verb,R5,N
-999,ပေးဆပ်,pay hsat,"갚다, 치르다",pay back,verb,R5,N
-1000,သေချာလား,thay cha la,확실해?,are you sure,phrase,R5,N
-1001,သန်,than,"힘세다, 강하다; 이(벌레)",strong,adj,R5,N
-1002,စုန်း,soun,마녀,witch,noun,R5,Y
-1003,အရှုံး,a shoun,"패배, 손실",loss,noun,R5,N
-1004,မြွေ,mway,뱀,snake,noun,R5,Y
-1005,သစ်ပင်,thit pin,나무,tree,noun,R5,Y
-1006,ဂိုဏ်း,gaing,"파, 조직, 갱",gang,noun,R5,N
-1007,စိတ်ကူး,seik ku,"상상, 생각, 아이디어",idea,noun,R5,N
-1008,ဖိတ်,peik,초대하다,invite,verb,R5,N
-1009,မူး,mu,"어지럽다, 취하다",dizzy,adj,R5,Y
-1010,ဝက်,wet,돼지; 절반,pig,noun,R5,Y
-1011,နတ်,nat,"낫(정령), 신",spirit,noun,R5,N
-1012,ဓားမြှောင်,da hmyaung,단검,dagger,noun,R5,Y
-1013,ဆင်,hsin,코끼리; 비슷하다,elephant,noun,R5,Y
-1014,ရှင်းပြ,shin pya,설명하다,explain,verb,R5,N
-1015,နှိပ်,hneik,누르다,press,verb,R5,Y
-1016,အမျိုးသား,a myo tha,남자; 국가의,man,noun,R5,Y
-1017,ဂြိုလ်,gyo,행성,planet,noun,R5,Y
-1018,ပူဇော်,pu zaw,"공양하다, 바치다",offer,verb,R5,N
-1019,လွန်း,lun,너무 ~하다(정도 과함),too,particle,R5,N
-1020,ဟဲ့,he,야!(부르는 말),hey,interj,R5,N
-1021,အသုံးပြု,a thoun pyu,사용하다,use,verb,R5,N
-1022,ဆရာကြီး,hsa ya gyi,"큰 스승, 선생님(존칭)",master,noun,R5,Y
-1023,ငို,ngo,울다,cry,verb,R5,Y
-1024,ပွင့်,pwin,"(꽃이) 피다, 열리다",bloom,verb,R5,Y
-1025,အဆိုးဆုံး,a hso zoun,"가장 나쁜, 최악",worst,adj,R5,N
-1026,ချွတ်,chut,벗다,take off,verb,R5,Y
-1027,မြို့တော်,myo daw,수도,capital,noun,R5,N
-1028,အရေးမကြီး,a yay ma kyi,"중요하지 않다, 괜찮다",not important,phrase,R5,N
-1029,ယခု,ya khu,지금(문어),now,adv,R5,N
-1030,လက်မှတ်,let hmat,"서명; 표, 티켓",ticket,noun,R5,Y
-1031,စခန်း,sa khan,"기지, 캠프",camp,noun,R5,Y
-1032,သည့်,thi,"~한(관형, 문어)",which,particle,R5,N
-1033,ခွဲစိတ်,khwe seik,수술하다,surgery,verb,R5,Y
-1034,အဆို,a hso,"제안, 말",proposal,noun,R5,N
-1035,အိမ်ထောင်,ein htaung,"가정, 결혼생활",marriage,noun,R5,N
-1036,အကျင့်,a kyin,"습관, 버릇",habit,noun,R5,N
-1037,နှင်,hnin,"몰다, 쫓아내다",drive away,verb,R5,N
-1038,သမီးလေး,tha mi lay,"딸아이, 얘야",daughter,noun,R5,Y
-1039,အုံး,oun,더(권유: 좀 더 ~해),more,particle,R5,N
-1040,ငတုံး,nga toun,"바보, 멍청이",idiot,noun,R5,N
-1041,စားပွဲ,sa bwe,"탁자, 테이블",table,noun,R5,Y
-1042,ဝိညာဉ်,wi nyin,영혼,soul,noun,R5,N
-1043,ယူဆ,yu hsa,"여기다, 간주하다",assume,verb,R5,N
-1044,ဒဏ်,dan,"벌, 형벌; 상처",penalty,noun,R5,N
-1045,ဝန်ကြီး,wun gyi,장관,minister,noun,R5,Y
-1046,ကင်,kin,굽다,grill,verb,R5,Y
-1047,ကုသ,ku tha,치료하다,treat,verb,R5,N
-1048,သတ္တဝါ,that ta wa,"생물, 동물",creature,noun,R5,Y
-1049,အကွက်,a kwet,"칸, 네모; 계략",square,noun,R5,Y
-1050,အလယ်,a le,가운데,middle,noun,R5,N
-1051,မီးရှို့,mi sho,불지르다,set fire,verb,R5,Y
-1052,ကျွန်တော့်,kya naw,저의(남성),my,pron,R5,N
-1053,လျက်,lyet,~하면서(문어),while,particle,R5,N
-1054,ရွေ့,shway,"움직이다, 옮기다",move,verb,R5,N
-1055,ခရီးသွား,kha yi thwa,여행하다; 여행자,travel,verb,R5,Y
-1056,မိတ်ဆက်,meik hset,소개하다,introduce,verb,R5,N
-1057,ဒါမျိုး,da myo,이런 것,this kind,phrase,R5,N
-1058,ဝန်ထမ်း,wun dan,직원,employee,noun,R5,Y
-1059,အရှင့်သား,a shin tha,"왕자님, 전하",prince,noun,R5,Y
-1060,လက်ထဲ,let hte,손안에,in hand,noun,R5,N
-1061,ကတည်းက,ga de ga,"~부터, 이래로",since,particle,R5,N
-1062,ရာခိုင်နှုန်း,ya khaing hnoun,퍼센트,percent,noun,R5,N
-1063,ထောက်ခံ,htauk khan,지지하다,support,verb,R5,N
-1064,၌,hnaik,~에서(문어 처소격),at,particle,R5,N
-1065,ကံကြမ္မာ,kan kyan ma,운명,fate,noun,R5,N
-1066,အကြောင်းကြား,a kyaung kya,"알리다, 통지하다",notify,verb,R5,N
-1067,လူဆိုး,lu hso,"악당, 나쁜 사람",villain,noun,R5,Y
-1068,ပုဒ်,poat,"절, 구절(분류사)",verse,clf,R5,N
-1069,အဖွား,a hpwa,할머니,grandmother,noun,R5,Y
-1070,ရွှေ,shway,금,gold,noun,R5,Y
-1071,အစာ,a sa,"먹이, 음식",food,noun,R5,Y
-1072,ဖော်ထုတ်,paw htoat,"밝혀내다, 폭로하다",expose,verb,R5,N
-1073,ချစ်သူ,chit thu,"연인, 애인",lover,noun,R5,Y
-1074,ဟင်း,hin,"반찬, 카레, 국",curry,noun,R5,Y
-1075,အတိအကျ,a ti a kya,정확히,exactly,adv,R5,N
-1076,အခြေခံ,a chay khan,"기초, 기본",basic,noun,R5,N
-1077,တစ်ဖက်,ta bet,"한쪽, 상대편",one side,noun,R5,N
-1078,အဆောင်,a hsaung,"건물 동, 기숙사; 부적",building,noun,R5,N
-1079,စာလုံး,sa loun,글자,letter,noun,R5,Y
-1080,နို့,no,"우유, 젖",milk,noun,R5,Y
-1081,အရှက်,a shet,"수치, 부끄러움",shame,noun,R5,N
-1082,အတု,a tu,"가짜, 모조품",fake,noun,R5,N
-1083,ဆွဲဆောင်,hswe hsaung,"끌어들이다, 매혹하다",attract,verb,R5,N
-1084,အားဖြင့်,a hpyin,"~로써, ~에 의해",by means of,particle,R5,N
-1085,အချို့,a cho,"일부, 몇몇",some,det,R5,N
-1086,ရာသီ,ya thi,계절,season,noun,R5,N
-1087,ယာဉ်,yin,"차량, 탈것",vehicle,noun,R5,Y
-1088,စိတ်ချ,seik cha,안심하다,rest assured,verb,R5,N
-1089,ကြမ်း,kyan,거칠다; 바닥,rough,adj,R5,N
-1090,စည်း,si,"선, 경계; 묶다",line,noun,R5,N
-1091,အရေးပေါ်,a yay paw,"비상, 긴급",emergency,noun,R5,N
-1092,လောင်း,laung,내기하다; 붓다,bet,verb,R5,N
-1093,ပြီးဆုံး,pyi zoun,"끝나다, 완료되다",finish,verb,R5,N
-1094,ဟော,haw,"봐!, 저기; 설교하다",look,interj,R5,N
-1095,အနိုင်ယူ,a naing yu,이기다,win,verb,R5,N
-1096,ဖြည်းဖြည်း,hpyay hpyay,천천히,slowly,adv,R5,N
-1097,အသုံးမကျ,a thoun ma kya,쓸모없다,useless,adj,R5,N
-1098,အပြီး,a pyi,"끝, 마친 후",after,noun,R5,N
-1099,ရလဒ်,ya la,결과,result,noun,R5,N
-1100,ခွင့်,khwin,"허가, 휴가",permission,noun,R5,N
-1101,စာမေးပွဲ,sa may bwe,시험,exam,noun,R5,Y
-1102,တိုးတက်,to tet,"발전하다, 향상되다",improve,verb,R5,N
-1103,နယ်မြေ,ne myay,"영토, 구역",territory,noun,R5,N
-1104,ဒေါသ,daw tha,"화, 분노",anger,noun,R5,Y
-1105,လွမ်း,lwan,그리워하다,miss,verb,R5,N
-1106,မှုတ်,hmoat,불다,blow,verb,R5,Y
-1107,သကြား,tha gya,설탕,sugar,noun,R5,Y
-1108,ဘဏ်,ban,은행,bank,noun,R5,Y
-1109,အကြောင်းရင်း,a kyaung yin,"이유, 원인",reason,noun,R5,N
-1110,ချောက်,chauk,"협곡, 절벽; 겁주다",cliff,noun,R5,Y
-1111,ရုရှား,ru sha,러시아,russia,noun,R5,N
-1112,ဆောင်း,hsaung,겨울; 쓰다(모자),winter,noun,R5,Y
-1113,ပူ,pu,"덥다, 뜨겁다",hot,adj,R5,Y
-1114,စင်,sin,"선반, 무대; 깨끗하다",shelf,noun,R5,Y
-1115,အလွန်,a lun,매우,very,adv,R5,N
-1116,လမ်းလျှောက်,lan shauk,"걷다, 산책하다",walk,verb,R5,Y
-1117,လည်ပင်း,le bin,목,neck,noun,R5,Y
-1118,ဆရာ့,hsa ya,선생님의,teacher's,noun,R5,N
-1119,စက်ရုပ်,set youk,로봇,robot,noun,R5,Y
-1120,သေတ္တာ,thit ta,상자,box,noun,R5,Y
-1121,မတ်,mat,"곧다, 똑바르다; 3월",upright,adj,R5,N
-1122,ဝေး,way,멀다,far,adj,R5,N
-1123,အာ,a,아(감탄),ah,interj,R5,N
-1124,ကောင်းကင်,kaung kin,하늘,sky,noun,R5,Y
-1125,အရိပ်,a yeik,"그림자, 그늘",shadow,noun,R5,Y
-1126,မှော်ပညာ,hmaw pyin nya,마법,magic,noun,R5,Y
-1127,အကြွေး,a kway,빚,debt,noun,R5,N
-1128,အပို,a po,"여분, 추가",extra,noun,R5,N
-1129,ထမင်း,hta min,밥,rice,noun,R5,Y
-1130,အင်္ဂလိပ်,in ga leik,"영국, 영어",english,noun,R5,N
-1131,နတ်ဆိုး,nat hso,악마,demon,noun,R5,Y
-1132,မုန့်,moun,"과자, 간식",snack,noun,R5,Y
-1133,နင့်,nin,너의,your,pron,R5,N
-1134,ဖိုင်,hpaing,파일,file,noun,R5,Y
-1135,ကံဆိုး,kan hso,운이 나쁘다,unlucky,adj,R5,N
-1136,ဝန်ခံ,wun khan,"자백하다, 인정하다",confess,verb,R5,N
-1137,စောင်,saung,담요; 부(권수 분류사),blanket,noun,R5,Y
-1138,တစ်နည်း,ta ni,"다른 방법으로, 즉",in other words,adv,R5,N
-1139,တိတ်,teik,조용하다,quiet,adj,R5,N
-1140,ဝိုင်း,waing,둘러싸다; 둥글다; 판,surround,verb,R5,N
-1141,အတွေ့အကြုံ,a twe a kyoun,경험,experience,noun,R5,N
-1142,လိုက်ပို့,laik po,바래다주다,escort,verb,R5,N
-1143,လူငယ်,lu nge,젊은이,young person,noun,R5,Y
-1144,ခဲ,khe,"납, 연필심, 돌멩이; 굳다",lead,noun,R5,N
-1145,ပြောင်,pyaung,반짝이다; 대머리,shiny,adj,R5,N
-1146,အင်္ကျီ,in gyi,"셔츠, 윗옷",shirt,noun,R5,Y
-1147,သတင်းပို့,tha din po,보고하다,report,verb,R5,N
-1148,ကျွေး,kyway,"먹이다, 대접하다",feed,verb,R5,Y
-1149,ကြံစည်,kyan si,"꾀하다, 음모하다",plot,verb,R5,N
-1150,လျှင်,hlyin,~하면(문어 조건),if,particle,R5,N
-1151,လက်ထောက်,let htauk,"조수, 보조",assistant,noun,R5,Y
-1152,သောင်း,thaung,"만(10,000)",ten thousand,num,R5,N
-1153,အတင်း,a tin,"억지로, 강제로; 험담",by force,adv,R5,N
-1154,နန်း,nan,궁전,palace,noun,R5,Y
-1155,တရားသူကြီး,ta ya thu gyi,판사,judge,noun,R5,Y
-1156,ဆင့်,hsin,"단계, 층; 연달아",step,noun,R5,N
-1157,အသက်ရှူ,a thet shu,숨 쉬다,breathe,verb,R5,Y
-1158,တစ်ပါး,ta ba,한 분(승려 등); 다른,one,num,R5,N
-1159,အရှိန်,a shein,"속도, 기세",speed,noun,R5,N
-1160,၎င်း,lin,"그것, 그(문어)",it,pron,R5,N
-1161,အရမ်းကောင်းတယ်,a yan kaung de,정말 좋다,very good,phrase,R5,N
-1162,သစ္စာရှိ,thit sa shi,충성스럽다,loyal,adj,R5,N
-1163,ဖန်,hpan,유리,glass,noun,R5,Y
-1164,စားသမား,sa tha ma,"먹보, 미식가",eater,noun,R5,Y
-1165,မြေပုံ,myay boun,지도,map,noun,R5,Y
-1166,အမြန်ဆုံး,a myan zoun,가장 빨리,fastest,adv,R5,N
-1167,ပုဂ္ဂိုလ်,poat go,"사람, 인물",person,noun,R5,N
-1168,ထာဝရ,hta wa ya,영원,eternal,adj,R5,N
-1169,အတတ်,a tat,"기술, 재주",skill,noun,R5,N
-1170,အဖမ်းခံ,a hpan khan,체포되다,be arrested,verb,R5,N
-1171,အမည်,a mi,이름,name,noun,R5,N
-1172,ဝေးဝေး,way way,멀리,far away,adv,R5,N
-1173,ဆိုင်း,hsaing,미루다; 북 악단,delay,verb,R5,N
-1174,အဆက်အသွယ်,a hset a thwe,연락,contact,noun,R5,N
-1175,အလေး,a lay,무게; 존중,weight,noun,R5,N
-1176,ကွန်ပျူတာ,kun pyu ta,컴퓨터,computer,noun,R5,Y
-1177,အနှစ်,a hnit,"진수, 정수; 알맹이",essence,noun,R5,N
-1178,စွပ်စွဲ,sut swe,"고발하다, 누명 씌우다",accuse,verb,R5,N
-1179,စိတ်မပူ,seik ma pu,걱정 마,don't worry,phrase,R5,N
-1180,သက်ရှိ,thet shi,생물,living thing,noun,R5,N
-1181,တံတား,da da,다리(교량),bridge,noun,R5,Y
-1182,အပင်,a pin,"식물, 나무",plant,noun,R5,Y
-1183,သန့်ရှင်း,than shin,깨끗하다,clean,adj,R5,Y
-1184,မဒမ်,ma dan,"부인, 마담",madam,noun,R5,N
-1185,ခင်ပွန်း,khin bun,남편,husband,noun,R5,Y
-1186,တရားရုံး,ta ya youn,법원,court,noun,R5,Y
-1187,အစည်းအဝေး,a si a way,회의,meeting,noun,R5,Y
-1188,ပြတ်,pyat,끊어지다,break off,verb,R5,N
-1189,ဆုံ,hsoun,"만나다, 모이다",meet,verb,R5,N
-1190,ဖမ်းမိ,hpan mi,붙잡다,catch,verb,R5,Y
-1191,မေတ္တာ,myit ta,"자애, 사랑",love,noun,R5,N
-1192,ရည်းစား,yi za,애인,girlfriend,noun,R5,Y
-1193,အနှောင့်အယှက်,a hnaung a she,방해,disturbance,noun,R5,N
-1194,ထုတ်လုပ်,htoat loat,생산하다,produce,verb,R5,N
-1195,ကာလ,ka la,"기간, 시기",period,noun,R5,N
-1196,ချိတ်,cheik,걸다; 고리,hook,verb,R5,Y
-1197,စု,su,모으다,gather,verb,R5,N
-1198,ကြွက်,kywet,쥐,mouse,noun,R5,Y
-1199,တော်ဝင်,taw win,왕실의,royal,adj,R5,N
-1200,ပြန်ယူ,pyan yu,되찾다,take back,verb,R5,N
-1201,ရုံးခန်း,youn gan,사무실,office,noun,R5,Y
-1202,သိသာ,thi tha,"뚜렷하다, 분명하다",obvious,adj,R5,N
-1203,ပျောက်ဆုံး,pyauk hsoun,"실종되다, 잃어버리다",lost,verb,R5,N
-1204,ရင်းနှီး,yin hni,친하다; 투자하다,close,adj,R5,N
-1205,နစ်,nit,"가라앉다, 빠지다",sink,verb,R5,Y
-1206,အရုပ်,a youk,"인형, 장난감",doll,noun,R5,Y
-1207,အုတ်,oat,벽돌,brick,noun,R5,Y
-1208,အပြစ်တင်,a pyit tin,"탓하다, 비난하다",blame,verb,R5,N
-1209,ဖျက်စီး,hpyet hsi,파괴하다,destroy,verb,R5,N
-1210,တခုခု,ta khu khu,"무언가, 어떤 것",something,pron,R5,N
-1211,ပါ့မလဲ,pa ma le,~할까요?(공손 미래 의문),will?,phrase,R5,N
-1212,လောလောဆယ်,law law hse,"당분간, 지금은",for now,adv,R5,N
-1213,ဂျပန်,ja pan,일본,japan,noun,R5,N
-1214,ရှေး,shay,"옛날, 고대",ancient,noun,R5,N
-1215,စစ်သည်,sit thi,"군인, 병사",soldier,noun,R5,Y
-1216,တစ်ဦး,ta u,한 사람(존칭),one person,phrase,R5,N
-1217,ဖွင့်,hpwin,"열다, 켜다",open,verb,R5,Y
-1218,ကုတ်,koat,코트; 긁다,coat,noun,R5,Y
-1219,ပျံ,pyan,날다,fly,verb,R5,Y
-1220,ကျရှုံး,kya shoun,"실패하다, 지다",fail,verb,R5,N
-1221,မီးလောင်,mi laung,"불이 나다, 화재",fire,verb,R5,Y
-1222,ချောင်,chaung,구석; 헐렁하다,corner,noun,R5,N
-1223,ချမ်းသာ,chan tha,부유하다,rich,adj,R5,Y
-1224,ဘာသာစကား,ba tha za ga,언어,language,noun,R5,N
-1225,အဘယ်သူ,a be thu,누구(문어),who,pron,R5,N
-1226,ဖြစ်ပျက်,hpyit pyet,"일어나다, 발생하다",happen,verb,R5,N
-1227,တက္ကသိုလ်,tet ka tho,대학교,university,noun,R5,Y
-1228,ခရီးစဉ်,kha yi zin,"여정, 일정",trip,noun,R5,N
-1229,အဘယ်,a be,"어떤, 무엇(문어)",what,pron,R5,N
-1230,ဖော်ပြ,hpaw pya,"나타내다, 기재하다",indicate,verb,R5,N
-1231,အစိတ်အပိုင်း,a seik a paing,"부분, 부품",part,noun,R5,N
-1232,လေဒီ,lay di,"숙녀, 레이디",lady,noun,R5,N
-1233,ဦးတည်,u ti,"향하다, 목표로 하다",aim,verb,R5,N
-1234,ဗိုက်,baik,배(신체),belly,noun,R5,Y
-1235,မင်,min,잉크,ink,noun,R5,Y
-1236,အတွဲ,a twe,"커플, 짝; 권",couple,noun,R5,Y
-1237,အဝတ်အစား,a wut a sa,옷,clothes,noun,R5,Y
-1238,အများဆုံး,a mya zoun,가장 많이,most,adv,R5,N
-1239,ငြိမ်ငြိမ်,nyein nyein,"가만히, 조용히",quietly,adv,R5,N
-1240,စာချုပ်,sa choat,계약서,contract,noun,R5,Y
-1241,ဖုံး,hpoun,"덮다, 가리다",cover,verb,R5,Y
-1242,လိုက်ပါ,laik pa,"동행하다, 따라가다",go along,verb,R5,N
-1243,လွှဲ,hlwe,"넘기다, 피하다",hand over,verb,R5,N
-1244,ဒေါ်,daw,도(여성 존칭),madam,noun,R5,N
-1245,ခေါက်ဆွဲ,khauk hswe,국수,noodles,noun,R5,Y
-1246,ဝေ,way,"나누다, 배포하다",distribute,verb,R5,N
-1247,အမြင့်,a myin,높이,height,noun,R5,N
-1248,ဟမ်,ham,"흠?, 응?",huh,interj,R5,N
-1249,မစ္စ,mit sa,미스(호칭),miss,noun,R5,N
-1250,မောင်,maung,"마웅(젊은 남성 호칭), 오빠",young man,noun,R5,N
-1251,အမှတ်တရ,a hmat ta ya,"기념품, 추억",souvenir,noun,R5,Y
-1252,ခလုတ်,kha loat,"스위치, 버튼",button,noun,R5,Y
-1253,သင်္ဘော,thin baw,"배, 선박",ship,noun,R5,Y
-1254,လူသတ်,lu that,살인; 살인자,murder,noun,R5,N
-1255,လွှတ်တော်,hlut taw,의회,parliament,noun,R5,Y
-1256,လိမ်ညာ,lein nya,거짓말하다,lie,verb,R5,N
-1257,ရတနာ,ya da na,보석,jewel,noun,R5,Y
-1258,အဝေး,a way,먼 곳,distance,noun,R5,N
-1259,သာယာ,tha ya,"쾌적하다, 아름답다",pleasant,adj,R5,N
-1260,ဓာတ်,dat,"원소, 성분; 전기",element,noun,R5,N
-1261,ထောက်ပံ့,htauk pan,"지원하다, 공급하다",supply,verb,R5,N
-1262,အကြမ်းဖက်,a kyan hpet,"폭력, 테러",violence,noun,R5,N
-1263,ဘယ်လောက်လဲ,be lauk le,얼마예요?,how much,phrase,R5,N
-1264,အထူးသဖြင့်,a htu tha hpyin,특히,especially,adv,R5,N
-1265,အပတ်,a pat,주(週); 바퀴,week,noun,R5,N
-1266,နောက်ကွယ်,nauk kwe,"뒤, 배후",behind,noun,R5,N
-1267,ကမ္ဘာ့,ga ba,세계의,world's,noun,R5,N
-1268,ချိုး,cho,"꺾다, 부러뜨리다",break,verb,R5,Y
-1269,အကျဉ်းသား,a kyin tha,죄수,prisoner,noun,R5,Y
-1270,စည်းမျဉ်း,si myin,규칙,rule,noun,R5,N
-1271,ပေါက်ကွဲ,pauk kwe,폭발하다,explode,verb,R5,Y
-1272,ဒေသ,day tha,지역,region,noun,R5,N
-1273,အဖြစ်အပျက်,a hpyit a pyet,"사건, 일",event,noun,R5,N
-1274,အကောင်,a kaung,"동물, 놈(분류사)",animal,noun,R5,N
-1275,အသုံး,a thoun,"쓸모, 사용",use,noun,R5,N
-1276,နက်,net,깊다; 검다,deep,adj,R5,N
-1277,စော်ကား,saw ka,모욕하다,insult,verb,R5,N
-1278,ပြုံး,pyoun,미소 짓다,smile,verb,R5,Y
-1279,အုပ်စု,oat su,"그룹, 무리",group,noun,R5,Y
-1280,စည်းကမ်း,si kan,"규율, 규칙",discipline,noun,R5,N
-1281,အကောင်း,a kaung,좋은 것,good,noun,R5,N
-1282,ဗီဒီယို,bi di yo,"비디오, 영상",video,noun,R5,Y
-1283,သဘောတူညီ,tha baw tu nyi,합의하다,agree,verb,R5,N
-1284,ထိုင်ခုံ,htaing goun,의자,chair,noun,R5,Y
-1285,အိမ်သာ,ein tha,화장실,toilet,noun,R5,Y
-1286,စိတ်လျှော့,seik shaw,"진정하다, 마음을 가라앉히다",calm down,verb,R5,N
-1287,ဖယ်ရှား,hpe sha,제거하다,remove,verb,R5,N
-1288,ချော,chaw,매끄럽다; 잘생기다,smooth,adj,R5,N
-1289,ပေါ်လာ,paw la,나타나다,appear,verb,R5,N
-1290,ကိုင်တွယ်,kaing twe,"다루다, 처리하다",handle,verb,R5,N
-1291,ဝန်ကြီးချုပ်,wun gyi choat,총리,prime minister,noun,R5,Y
-1292,မတူ,ma tu,다르다,different,adj,R5,N
-1293,ရယူ,ya yu,"얻다, 획득하다",obtain,verb,R5,N
-1294,လိုက်နာ,laik na,"따르다, 준수하다",obey,verb,R5,N
-1295,ကွာရှင်း,kwa shin,이혼하다,divorce,verb,R5,N
-1296,ပြုတ်ကျ,pyoat kya,떨어지다,fall,verb,R5,Y
-1297,တုံ့ပြန်,toun pyan,"반응하다, 대응하다",respond,verb,R5,N
-1298,ဦးထုပ်,o htoat,모자,hat,noun,R5,Y
-1299,နေရာတိုင်း,nay ya daing,모든 곳,everywhere,adv,R5,N
-1300,ကွင်း,kwin,"경기장, 들판; 고리",field,noun,R5,Y
-1301,သဘောမကျ,tha baw ma kya,마음에 안 들다,dislike,verb,R5,N
-1302,မွေးဖွား,mway hpwa,"태어나다, 출산하다",be born,verb,R5,N
-1303,ကြက်ဥ,kyet u,달걀,egg,noun,R5,Y
-1304,ကျိန်,kyein,"맹세하다, 저주하다",swear,verb,R5,N
-1305,အထင်ကြီး,a htin kyi,"우러러보다, 존경하다",admire,verb,R5,N
-1306,ကျား,kya,호랑이; 남성,tiger,noun,R5,Y
-1307,သက်သက်,thet thet,"단지, 오로지",merely,adv,R5,N
-1308,ငရဲ,nga ye,지옥,hell,noun,R5,N
-1309,သုတ်,thoat,"닦다, 바르다",wipe,verb,R5,Y
-1310,ရာသီဥတု,ya thi u tu,"날씨, 기후",weather,noun,R5,Y
-1311,ညစ်ပတ်,nyit pat,더럽다,dirty,adj,R5,Y
-1312,နီးစပ်,ni sat,"가깝다, 친밀하다",close,adj,R5,N
-1313,ရှင့်,shin,당신의(여성 화자),your,pron,R5,N
-1314,ပျော့,pyaw,"부드럽다, 약하다",soft,adj,R5,N
-1315,လွယ်လွယ်,lwe lwe,쉽게,easily,adv,R5,N
-1316,မိုင်း,maing,지뢰; 마일,mine,noun,R5,Y
-1317,အိပ်ရာ,eik ya,"침대, 잠자리",bed,noun,R5,Y
-1318,ပိတ်မိ,peik mi,갇히다,trapped,verb,R5,N
-1319,ပျောက်ကွယ်,pyauk kwe,사라지다,disappear,verb,R5,N
-1320,အတည်ပြု,a ti pyu,확인하다,confirm,verb,R5,N
-1321,အသေးစိတ်,a thay zeik,"자세한, 세부",detail,noun,R5,N
-1322,သက်ရောက်,thet yauk,영향을 미치다,affect,verb,R5,N
-1323,ပြင်း,pyin,"세다, 강렬하다",intense,adj,R5,N
-1324,ပြည့်စုံ,pye soun,완전하다,complete,adj,R5,N
-1325,မှန်ကန်,hman kan,"옳다, 정확하다",correct,adj,R5,N
-1326,အခွန်,a khun,세금,tax,noun,R5,N
-1327,ပျင်း,pyin,"지루하다, 게으르다",bored,adj,R5,N
-1328,ပန်းချီ,ba gyi,"그림, 회화",painting,noun,R5,Y
-1329,ဂုဏ်သိက္ခာ,goun theik kha,"품위, 존엄",dignity,noun,R5,N
-1330,အစေခံ,a say khan,"하인, 종",servant,noun,R5,Y
-1331,ထိပ်,htaik,"꼭대기, 끝",top,noun,R5,N
-1332,အဝတ်,a wut,옷,clothes,noun,R5,Y
-1333,မူတည်,mu ti,~에 달려 있다,depend,verb,R5,N
-1334,နွေ,nway,여름,summer,noun,R5,Y
-1335,ပြန်လှည့်,pyan hlay,"뒤돌다, 돌아가다",turn back,verb,R5,Y
-1336,ရူး,yu,미치다,crazy,adj,R5,N
-1337,လက်စား,let sa,"앙갚음, 복수",revenge,noun,R5,N
-1338,အစီစဉ်,a si sin,"계획, 프로그램",plan,noun,R5,N
-1339,တားဆီး,ta hsi,"막다, 방지하다",prevent,verb,R5,N
-1340,ခုန,khu na,"아까, 방금",a moment ago,adv,R5,N
-1341,ကိရိယာ,ka ri ya,"도구, 기구",tool,noun,R5,Y
-1342,တောက်,tauk,"타오르다, 빛나다",blaze,verb,R5,N
-1343,ကြမ်းပြင်,kyan byin,마룻바닥,floor,noun,R5,Y
-1344,ရက်စက်,yet set,잔인하다,cruel,adj,R5,N
-1345,အစိမ်း,a sein,"초록색, 날것",green,adj,R5,Y
-1346,ယှဉ်,shin,"나란히 하다, 겨루다",compete,verb,R5,N
-1347,နှိုး,hno,깨우다,wake up,verb,R5,Y
-1348,စီရင်,si yin,"판결하다, 처리하다",judge,verb,R5,N
-1349,နိုင်စွမ်း,nain swan,능력,ability,noun,R5,N
-1350,ရောဘာ,yaw ba,고무,rubber,noun,R5,Y
-1351,စိတ်တို,sate to,화를 잘 내다,short-tempered,adj,R5,N
-1352,ထီးနန်း,hti nan,"왕좌, 왕권",throne,noun,R5,Y
-1353,ဟိုး,ho,"저기(먼 곳), 어이",over there,interj,R5,N
-1354,လူလိမ်,lu lein,사기꾼,liar,noun,R5,N
-1355,တီထွင်,ti htwin,발명하다,invent,verb,R5,N
-1356,စီနီယာ,si ni ya,선배,senior,noun,R5,N
-1357,ကောလိပ်,kaw leik,대학(칼리지),college,noun,R5,Y
-1358,သန်မာ,than ma,"튼튼하다, 강하다",strong,adj,R5,Y
-1359,စားသောက်ဆိုင်,sa thauk hsain,식당,restaurant,noun,R5,Y
-1360,ပေမဲ့,pay me,"하지만, ~지만",but,conj,R5,N
-1361,စော,saw,이르다,early,adj,R5,N
-1362,တရားဝင်,ta ya win,"합법적, 공식적",official,adj,R5,N
-1363,အနေအထား,a nay a hta,"상태, 위치",situation,noun,R5,N
-1364,တွေ့ဆုံ,tway hsone,만나다,meet,verb,R5,Y
-1365,အင်ဂျင်,in jin,엔진,engine,noun,R5,Y
-1366,သြော်,aw,"아, 오(깨달음)",oh,interj,R5,N
-1367,မိဖုရားကြီး,mi hpa ya gyi,"왕비, 정비",queen,noun,R5,Y
-1368,စနေ,sa nay,토요일,Saturday,noun,R5,N
-1369,လက်မ,let ma,"엄지손가락, 인치",thumb,noun,R5,Y
-1370,ပြုလုပ်,pyu lote,"만들다, 하다",make,verb,R5,N
-1371,အရိုး,a yo,뼈,bone,noun,R5,Y
-1372,မီးတောက်,mi tauk,불꽃,flame,noun,R5,Y
-1373,ကွဲပြား,kwe pya,다르다,different,adj,R5,N
-1374,ပျံသန်း,pyan than,날다,fly,verb,R5,Y
-1375,အထက်တန်း,a htet tan,"상류층, 고급",upper class,noun,R5,N
-1376,အစားအသောက်,a sa a thauk,음식,food,noun,R5,Y
-1377,ငြိမ်,nyein,"조용하다, 가만히 있다",calm,adj,R5,N
-1378,လက္ခဏာ,let kha na,"징조, 특징",sign,noun,R5,N
-1379,အများစု,a mya zu,대부분,majority,noun,R5,N
-1380,စတော့,sa taw,"주식, 재고",stock,noun,R5,N
-1381,ပုလင်း,pa lin,병,bottle,noun,R5,Y
-1382,ခုခံ,khu khan,"저항하다, 방어하다",resist,verb,R5,N
-1383,နှင့်အတူ,hnin a tu,~와 함께,together with,particle,R5,N
-1384,ဝိဉာဉ်,wein yin,"영혼, 유령",spirit,noun,R5,Y
-1385,စွန့်စား,sun sa,모험하다,adventure,verb,R5,N
-1386,ထွက်ခွာ,htwet khwa,떠나다,depart,verb,R5,Y
-1387,ရှေ့ဆက်,shay hset,앞으로 나아가다,move forward,verb,R5,N
-1388,မျက်ရည်,myet yay,눈물,tears,noun,R5,Y
-1389,နှေး,hnay,느리다,slow,adj,R5,Y
-1390,ချမ်း,chan,춥다,cold,adj,R5,Y
-1391,မုန်တိုင်း,mon tine,폭풍,storm,noun,R5,Y
-1392,ကဲ့သို့,ke tho,~처럼(문어),like,particle,R5,N
-1393,ခုန်ချ,khon cha,뛰어내리다,jump down,verb,R5,Y
-1394,လက်မှတ်ထိုး,let hmat hto,서명하다,sign,verb,R5,Y
-1395,အသိပေး,a thi pay,알리다,inform,verb,R5,N
-1396,အဘိုး,a pho,할아버지,grandfather,noun,R5,Y
-1397,ဖွက်,hpwet,숨기다,hide,verb,R5,Y
-1398,လုပ်ကြံ,lote kyan,암살하다,assassinate,verb,R5,N
-1399,အဖွဲ့သား,a hpwe tha,"팀원, 구성원",member,noun,R5,N
-1400,ကျယ်,kye,"넓다, (소리가) 크다",wide,adj,R5,N
-1401,ပတ်လည်,pat le,"주위, 둘레",around,noun,R5,N
-1402,ပါတနာ,pa ta na,파트너,partner,noun,R5,N
-1403,ဘုန်းကြီး,hpone gyi,스님,monk,noun,R5,Y
-1404,ပေါင်,paung,"허벅지, 파운드",thigh,noun,R5,Y
-1405,အထင်,a htin,"생각, 짐작",opinion,noun,R5,N
-1406,အဖြူ,a hpyu,흰색,white,adj,R5,Y
-1407,ချုပ်,chote,"꿰매다, 통제하다",sew,verb,R5,Y
-1408,နှောင့်ယှက်,hnaung shet,방해하다,disturb,verb,R5,N
-1409,ရပ်တန့်,yat tan,멈추다,stop,verb,R5,N
-1410,ဂြိုဟ်,gyo,행성,planet,noun,R5,Y
-1411,ဘေဘီ,bay bi,아기,baby,noun,R5,Y
-1412,အပေါက်,a pauk,구멍,hole,noun,R5,Y
-1413,အမှတ်အသား,a hmat a tha,"표시, 표지",mark,noun,R5,N
-1414,ပင့်,pyin,"모시다, 들어올리다",invite,verb,R5,N
-1415,နွား,nwa,소,cow,noun,R5,Y
-1416,နိုင်ငံခြား,nain ngan gya,외국,foreign country,noun,R5,N
-1417,တရားမျှတ,ta ya hmya ta,공정하다,fair,adj,R5,N
-1418,တကယ်ကြီးလား,ta ge gyi la,정말이야?,really,phrase,R5,N
-1419,ဘိုင်,bai,안녕(작별),bye,interj,R5,N
-1420,ကျေးဇူးပြု,kyay zu pyu,"부디, ~해 주세요",please,phrase,R5,N
-1421,ပြင်သစ်,pyin thit,프랑스,France,noun,R5,N
-1422,ဘယ်က,be ka,어디서,from where,pron,R5,N
-1423,ရိုက်ကူး,yite ku,촬영하다,film,verb,R5,Y
-1424,မျိုးနွယ်စု,myo nwe zu,"부족, 종족",tribe,noun,R5,N
-1425,သံသယဝင်,than tha ya win,의심하다,suspect,verb,R5,N
-1426,ကြွ,kywa,"오시다(높임), 솟다",come,verb,R5,N
-1427,ဝိုး,wo,와(감탄),wow,interj,R5,N
-1428,အထီးကျန်,a hti gyan,외롭다,lonely,adj,R5,N
-1429,ရာဇဝတ်,ya za wut,범죄,crime,noun,R5,N
-1430,အခမ်းအနား,a khan a na,"의식, 행사",ceremony,noun,R5,Y
-1431,ဘေးဖယ်,bay hpe,비키다,step aside,verb,R5,N
-1432,ကမ်းလှမ်း,kan hlan,제안하다,offer,verb,R5,N
-1433,ပုန်ကန်,pone kan,반란하다,rebel,verb,R5,N
-1434,ခြေရာ,chay ya,발자국,footprint,noun,R5,Y
-1435,တင်ပြ,tin pya,"제출하다, 보고하다",present,verb,R5,N
-1436,ကျော်ဖြတ်,kyaw hpyat,"극복하다, 건너다",overcome,verb,R5,N
-1437,အင်တာနက်,in ta net,인터넷,internet,noun,R5,N
-1438,မြေပြင်,myay byin,"지면, 땅",ground,noun,R5,Y
-1439,တူး,tu,파다,dig,verb,R5,Y
-1440,စုဆောင်း,su hsaung,모으다,collect,verb,R5,N
-1441,အဘိုးကြီး,a pho gyi,"노인, 할아버지",old man,noun,R5,Y
-1442,ဆရာမ,hsa ya ma,여선생님,female teacher,noun,R5,Y
-1443,ဒူး,du,무릎,knee,noun,R5,Y
-1444,ဖြေဆေး,hpyay hsay,해독제,antidote,noun,R5,N
-1445,ယဉ်ကျေး,yin kyay,"예의 바르다, 문명화되다",polite,adj,R5,N
-1446,လက်လျှော့,let shaw,포기하다,give up,verb,R5,N
-1447,ခေါ်ထုတ်,khaw htote,불러내다,call out,verb,R5,N
-1448,ကဗျာ,ka bya,시,poem,noun,R5,N
-1449,ကိတ်,keik,케이크,cake,noun,R5,Y
-1450,အလုပ်သမား,a lote tha ma,노동자,worker,noun,R5,Y
-1451,စဉ်,sin,"~할 때, 순서",while,particle,R5,N
-1452,သစ္စာ,thit sa,"충성, 맹세",loyalty,noun,R5,N
-1453,ဂီတ,gi ta,음악,music,noun,R5,Y
-1454,ပစ်ချ,pyit cha,던져 버리다,throw down,verb,R5,Y
-1455,ညှိ,hnyi,"맞추다, 조정하다",adjust,verb,R5,N
-1456,တန်ခိုး,tan go,"초능력, 위력",power,noun,R5,N
-1457,ဗိုက်ဆာ,bike hsa,배고프다,hungry,adj,R5,Y
-1458,မြှင့်,hmyin,높이다,raise,verb,R5,N
-1459,အနှံ့,a hnan,곳곳에,everywhere,adv,R5,N
-1460,ညီလေး,nyi lay,남동생,younger brother,noun,R5,Y
-1461,မဲပေး,me pay,투표하다,vote,verb,R5,Y
-1462,စက်ရုံ,set yone,공장,factory,noun,R5,Y
-1463,စောစော,saw saw,일찍,early,adv,R5,N
-1464,မျိုးဆက်,myo hset,세대,generation,noun,R5,N
-1465,မြေကြီး,myay gyi,"땅, 흙",earth,noun,R5,Y
-1466,ပမာဏ,pa ma na,"양, 분량",amount,noun,R5,N
-1467,ဖိအား,hpi a,압력,pressure,noun,R5,N
-1468,ကမ်း,kan,"강가, 물가",shore,noun,R5,Y
-1469,အရေအတွက်,a yay a twet,수량,number,noun,R5,N
-1470,တော်သေး,taw thay,다행이다,luckily,phrase,R5,N
-1471,အခြေ,a chay,"기반, 밑",base,noun,R5,N
-1472,သီးသန့်,thi than,"따로, 전용",separate,adj,R5,N
-1473,ပတ်ဝန်းကျင်,pat wun gyin,"환경, 주변",surroundings,noun,R5,N
-1474,မျိုးရိုး,myo yo,"가문, 혈통",lineage,noun,R5,N
-1475,ဥ,u,"알, 달걀",egg,noun,R5,Y
-1476,အဖိုး,a pho,"할아버지, 가치",grandfather,noun,R5,Y
-1477,ပတ်သတ်,pat that,관련되다,be related,verb,R5,N
-1478,သွေးထွက်,thway htwet,피가 나다,bleed,verb,R5,Y
-1479,မင်္ဂလာဆောင်,min ga la hsaung,결혼식,wedding,noun,R5,Y
-1480,စိတ်မဝင်စား,sate ma win sa,관심 없다,not interested,phrase,R5,N
-1481,အမှိုက်,a hmike,쓰레기,garbage,noun,R5,Y
-1482,မင်းမြတ်,min myat,"폐하, 왕",majesty,noun,R5,N
-1483,မြေအောက်,myay auk,지하,underground,noun,R5,N
-1484,ပြုပြင်,pyu pyin,고치다,repair,verb,R5,Y
-1485,တယ်လား,te la,~했어?(의문 종결),question ending,particle,R5,N
-1486,မတော်တဆ,ma taw ta hsa,"사고, 우연히",accident,noun,R5,N
-1487,နားလည်တယ်,na le te,이해해요,I understand,phrase,R5,N
-1488,ဖခင်,hpa khin,아버지,father,noun,R5,Y
-1489,ရဲရင့်,ye yin,용감하다,brave,adj,R5,N
-1490,ဥက္ကဌ,ok ka hta,"회장, 의장",chairman,noun,R5,N
-1491,လည်းကောင်း,le kaung,~도 또한(문어),as well as,conj,R5,N
-1492,လူယုတ်မာ,lu yote ma,악당,villain,noun,R5,N
-1493,အစောကြီး,a saw gyi,아주 일찍,very early,adv,R5,N
-1494,အသေ,a thay,"죽은 것, 시체",dead,noun,R5,N
-1495,ကြိုတင်,kyo tin,미리,in advance,adv,R5,N
-1496,ညနေ,nya nay,저녁,evening,noun,R5,Y
-1497,အင်ပါယာ,in pa ya,제국,empire,noun,R5,N
-1498,မျက်နှာဖုံး,myet hna hpone,가면,mask,noun,R5,Y
-1499,အကြည့်,a kyi,시선,look,noun,R5,N
-1500,မှီ,hmi,"기대다, 따라잡다",lean,verb,R5,N
+160,သုံး,thoun,"셋, 사용하다",three,num,EXT,Y
+161,သိတယ်,thi te,알아요,I know,phrase,EXT,N
+162,စောင့်,saung,"기다리다, 지키다",wait,verb,EXT,Y
+163,တုန်း,toun,"~하는 중, 아직",while,particle,EXT,N
+164,အစ်ကို,a ko,"형, 오빠",older brother,noun,EXT,Y
+165,အများ,a mya,"많음, 대부분",many,noun,EXT,N
+166,သလို,tha lo,"~처럼, ~하듯이",as,conj,EXT,N
+167,ထက်,htet,~보다,than,particle,EXT,N
+168,ထပ်,htat,"다시, 겹치다",again,adv,EXT,N
+169,သေချာ,thay cha,확실하다,sure,adj,EXT,N
+170,အဆင်ပြေ,a hsin pyay,"괜찮다, 순조롭다",okay,adj,EXT,N
+171,ကူညီ,ku nyi,돕다,help,verb,EXT,Y
+172,လုံး,loun,"둥근 것 세는 단위, 전체",round,clf,EXT,N
+173,ကွာ,kwa,"차이 나다, 야(문말 감탄)",differ,verb,EXT,N
+174,သော,thaw,~한(문어 관형),which,particle,EXT,N
+175,နာမည်,na me,이름,name,noun,EXT,N
+176,နိုင်တယ်,nain te,~할 수 있다,can,phrase,EXT,N
+177,ည,nya,밤,night,noun,EXT,Y
+178,တူ,tu,"같다, 조카, 젓가락",same,adj,EXT,N
+179,အတိုင်း,a taing,~대로,as,particle,EXT,N
+180,ခြင်း,chin,"명사화(~함, ~하기)",-ing,particle,EXT,N
+181,ခံစား,khan za,느끼다,feel,verb,EXT,N
+182,ကြိုးစား,kyo za,노력하다,try,verb,EXT,N
+183,ကျေးဇူးတင်,kyay zu tin,감사하다,thank,verb,EXT,N
+184,ဆရာ,hsa ya,선생님,teacher,noun,EXT,Y
+185,ကောင်းတယ်,kaung te,좋아요,good,phrase,EXT,N
+186,ရပ်,yat,"서다, 멈추다",stop,verb,EXT,Y
+187,ပုံ,poun,"그림, 모양",picture,noun,EXT,Y
+188,အရင်,a yin,"먼저, 전에",before,adv,EXT,N
+189,ရော,yaw,"~도, ~와",and,particle,EXT,N
+190,ကား,ka,자동차,car,noun,EXT,Y
+191,ပေ,pay,"피트(길이), 문말 강조",foot,particle,EXT,N
+192,အရေး,a yay,"중요한 일, 피부",issue,noun,EXT,N
+193,သောက်,thauk,마시다,drink,verb,EXT,Y
+194,အဖွဲ့,a hpweh,"팀, 단체",group,noun,EXT,Y
+195,တော်,taw,"똑똑하다, 충분하다, 그만",enough,adj,EXT,N
+196,ဘယ်သူလဲ,be thu leh,누구야?,who is it,phrase,EXT,N
+197,ရန်,yan,"싸움, ~하기 위해(문어)",fight,noun,EXT,N
+198,အရာ,a ya,"것, 물건",thing,noun,EXT,N
+199,ကယ်,ke,구하다,rescue,verb,EXT,Y
+200,လွှတ်,hlut,"놓아주다, 보내다",release,verb,EXT,N
+201,စား,sa,먹다,eat,verb,EXT,Y
+202,ပျော်,pyaw,즐겁다,happy,adj,EXT,Y
+203,ထိ,hti,"닿다, ~까지",touch,verb,EXT,Y
+204,ထုတ်,htoke,꺼내다,take out,verb,EXT,Y
+205,ဖူး,hpu,~한 적이 있다(경험),ever,aux,EXT,N
+206,ခဏ,kha na,잠깐,moment,noun,EXT,N
+207,စဉ်းစား,sin za,생각하다,think,verb,EXT,Y
+208,ကြား,kya,"듣다, 사이",hear,verb,EXT,Y
+209,အရှင်,a shin,"주인님, 전하",lord,noun,EXT,N
+210,သမီး,tha mi,딸,daughter,noun,EXT,Y
+211,ခါ,kha,"번, 때",time,noun,EXT,N
+212,သိပ်,thait,매우,very,adv,EXT,N
+213,၏,i,~의(문어 소유격),of,particle,EXT,N
+214,လက်,let,"손, 팔",hand,noun,EXT,Y
+215,ဘဝ,ba wa,"인생, 삶",life,noun,EXT,N
+216,ကိုယ်,ko,"몸, 자신, 나",self,pron,EXT,N
+217,မိသားစု,mi tha zu,가족,family,noun,EXT,Y
+218,အသက်,a thet,"목숨, 나이",life,noun,EXT,N
+219,နောက်ဆုံး,nauk hsoun,마지막,last,adj,EXT,N
+220,နားလည်,na le,이해하다,understand,verb,EXT,N
+221,တခြား,ta cha,다른,other,det,EXT,N
+222,ကြာ,kya,"오래 걸리다, 연꽃",take long,verb,EXT,N
+223,ကွ,kwa,야(남성 문말 감탄),hey,particle,EXT,N
+224,ရေ,yay,물,water,noun,EXT,Y
+225,သတင်း,tha din,"뉴스, 소식",news,noun,EXT,N
+226,ပြေး,pyay,달리다,run,verb,EXT,Y
+227,ကျမ,kya ma,"저(여성, 구어 표기)",I,pron,EXT,N
+228,ဖုန်း,hpoun,전화,phone,noun,EXT,Y
+229,နာရီ,na yi,"시계, ~시",clock,noun,EXT,Y
+230,ကာ,ka,"~하면서(문어), 막다",while,particle,EXT,N
+231,သူငယ်ချင်း,tha nge chin,친구,friend,noun,EXT,Y
+232,ဘယ်လောက်,be lauk,얼마나,how much,adv,EXT,N
+233,ဒါဆို,da hso,"그러면, 그렇다면",then,conj,EXT,N
+234,မေး,may,묻다,ask,verb,EXT,N
+235,အထိ,a hti,~까지,until,particle,EXT,N
+236,ရွေး,yway,고르다,choose,verb,EXT,N
+237,ပြောင်း,pyaung,"바꾸다, 옮기다",change,verb,EXT,N
+238,ယုံ,youn,믿다,believe,verb,EXT,N
+239,ဘယ်တော့,be daw,언제,when,adv,EXT,N
+240,ဆက်,hset,"계속하다, 잇다",continue,verb,EXT,N
+241,ဟေ့,hay,이봐!,hey,interj,EXT,N
+242,ဟို,ho,"저(것), 저기",that,det,EXT,N
+243,ရက်,yet,날(일수),day,noun,EXT,N
+244,ကြိုက်,kyait,좋아하다,like,verb,EXT,N
+245,ပိုင်း,paing,부분,part,noun,EXT,N
+246,ချစ်,chit,사랑하다,love,verb,EXT,Y
+247,ပါတယ်,pa te,정중 평서 종결,polite ending,particle,EXT,N
+248,ဖမ်း,hpan,"잡다, 체포하다",catch,verb,EXT,Y
+249,တိုက်,tait,"공격하다, 건물, 대륙",attack,verb,EXT,N
+250,ပါ့မယ်,pa meh,~할게요(정중 약속),will,particle,EXT,N
+251,အဲ့ဒါ,e da,그것(구어 표기),that,pron,EXT,N
+252,လိုအပ်,lo at,필요하다,need,verb,EXT,N
+253,မှား,hma,틀리다,wrong,adj,EXT,N
+254,ဖွင့်,hpwin,"열다, 켜다",open,verb,EXT,Y
+255,မြို့,myo,도시,city,noun,EXT,Y
+256,ကြောက်,kyauk,무서워하다,afraid,verb,EXT,Y
+257,ရယ်,yi,"웃다, ~와",laugh,verb,EXT,Y
+258,အမှန်,a hman,"진실, 맞는 것",truth,noun,EXT,N
+259,ဘုရင်,ba yin,왕,king,noun,EXT,Y
+260,အိပ်,eit,자다,sleep,verb,EXT,Y
+261,ကာကွယ်,ka kwe,보호하다,protect,verb,EXT,N
+262,မလေး,ma lay,"아가씨, 말레이",young lady,noun,EXT,N
+263,အသက်ရှင်,a thet shin,"살아 있다, 생존하다",survive,verb,EXT,N
+264,မှတ်,hmat,"기억하다, 적다, 점수",note,verb,EXT,N
+265,စ,sa,"시작하다, 조각",start,verb,EXT,N
+266,ပုံစံ,poun zan,"모양, 형식",shape,noun,EXT,N
+267,အခန်း,a khan,방,room,noun,EXT,Y
+268,ထိုင်,htaing,앉다,sit,verb,EXT,Y
+269,အပြင်,a pyin,"밖, ~외에",outside,noun,EXT,N
+270,နားထောင်,na htaung,듣다,listen,verb,EXT,Y
+271,ကျောင်း,kyaung,"학교, 절",school,noun,EXT,Y
+272,ချိန်,chein,"때, 무게를 달다",time,noun,EXT,N
+273,ပို့,po,"보내다, 배웅하다",send,verb,EXT,N
+274,အဖြစ်,a hpyit,"~로서, 사건",as,particle,EXT,N
+275,ရာ,ya,"백(100), 곳",hundred,num,EXT,N
+276,ထည့်,hteh,넣다,put in,verb,EXT,Y
+277,အပြစ်,a pyit,"죄, 잘못",fault,noun,EXT,N
+278,ပြဿနာ,pyat tha na,문제,problem,noun,EXT,N
+279,အပေါ်,a paw,"위, ~에 대해",above,noun,EXT,N
+280,တည်း,ti,"~만(유일), 묵다",only,particle,EXT,N
+281,ပစ္စည်း,pyit si,물건,thing,noun,EXT,N
+282,ကျန်,kyan,남다,remain,verb,EXT,N
+283,လမ်း,lan,길,road,noun,EXT,Y
+284,အခွင့်,a khwin,"기회, 권리",chance,noun,EXT,N
+285,ဘယ်သူ့,be thu,"누구의, 누구를",whose,pron,EXT,N
+286,ပိတ်,pait,닫다,close,verb,EXT,Y
+287,မင်းသား,min tha,"왕자, 남자 배우",prince,noun,EXT,Y
+288,အေး,ay,"차갑다, 시원하다, 응",cold,adj,EXT,Y
+289,စွာ,swa,~하게(문어 부사화),-ly,particle,EXT,N
+290,တောင်း,taung,"요청하다, 구걸하다",ask for,verb,EXT,N
+291,ဆိုင်,hsain,"가게, 관련되다",shop,noun,EXT,Y
+292,ယုံကြည်,youn kyi,"믿다, 신뢰하다",trust,verb,EXT,N
+293,နဲ့အတူ,neh a tu,~와 함께,together with,particle,EXT,N
+294,ဟား,ha,"하하, 어이(감탄)",ha,interj,EXT,N
+295,မှန်,hman,"맞다, 거울, 유리",correct,adj,EXT,N
+296,လ,la,"달, 월",moon,noun,EXT,Y
+297,ကျေးဇူးပြုပြီး,kyay zu pyu pyi,"부디, 제발",please,phrase,EXT,N
+298,ပင်,pin,"~조차(문어 강조), 나무",even,particle,EXT,N
+299,မိနစ်,mi nit,분(시간),minute,noun,EXT,N
+300,နား,na,"귀, 쉬다",ear,noun,EXT,Y
+301,အကောင်းဆုံး,a kaung zoun,"가장 좋은, 최고",best,adj,EXT,N
+302,ဟင့်,hin,"흥, 아니(부정 감탄)",hmph,interj,EXT,N
+303,မျှော်လင့်,hmyaw lint,"바라다, 기대하다",hope,verb,EXT,N
+304,အဲ့ဒီ,e di,"그(지시, 구어 표기)",that,det,EXT,N
+305,မစ္စတာ,mis ta,미스터(~씨),Mr.,noun,EXT,N
+306,ကမ္ဘာ,ga ba,"세계, 지구",world,noun,EXT,Y
+307,မှတ်မိ,hmat mi,기억하다,remember,verb,EXT,N
+308,အရ,a ya,~에 따르면,according to,particle,EXT,N
+309,အနေနဲ့,a nay neh,~로서,as,particle,EXT,N
+310,အခြေအနေ,a chay a nay,상황,situation,noun,EXT,N
+311,မိန်းမ,mein ma,"여자, 아내",woman,noun,EXT,Y
+312,ရှေ့,shay,앞,front,noun,EXT,N
+313,အတူတူ,a tu du,"함께, 같은",together,adv,EXT,N
+314,ဟေး,hay,"이봐, 야!",hey,interj,EXT,N
+315,ချင်ဘူး,chin bu,~하기 싫다,don't want,phrase,EXT,N
+316,အိုး,o,"냄비, 항아리, 오!",pot,noun,EXT,Y
+317,နံပါတ်,nan bat,번호,number,noun,EXT,N
+318,မို့,mo,~라서(이유),because,particle,EXT,N
+319,အောက်,auk,아래,under,noun,EXT,N
+320,ဟ,ha,"야!, 어?(감탄)",hey,interj,EXT,N
+321,အခါ,a kha,때,when,noun,EXT,N
+322,အသင်း,a thin,"팀, 협회",team,noun,EXT,N
+323,တိုက်ခိုက်,tait khait,공격하다,attack,verb,EXT,N
+324,ပတ်သက်,pat thet,관련되다,relate,verb,EXT,N
+325,ပြောင်းလဲ,pyaung leh,변하다,change,verb,EXT,N
+326,ပေါင်း,paung,"합하다, 합계, 파운드",add,verb,EXT,N
+327,သမျှ,tha hmya,~하는 모든 것,all,particle,EXT,N
+328,အထဲ,a hte,"안, 속",inside,noun,EXT,N
+329,ခွဲ,khweh,"나누다, 헤어지다",divide,verb,EXT,N
+330,ပျောက်,pyauk,"잃어버리다, 사라지다",lose,verb,EXT,N
+331,ကိုင်,kain,"잡다, 들다",hold,verb,EXT,Y
+332,တွေး,tway,생각하다,think,verb,EXT,N
+333,မီ,mi,"제때 대다, 미치다",in time,verb,EXT,N
+334,လူသား,lu tha,인간,human,noun,EXT,Y
+335,သတိထား,tha di hta,조심하다,be careful,verb,EXT,N
+336,တင်,tin,"올리다, 싣다",put on,verb,EXT,N
+337,အတွင်း,a twin,"안, 내부",inside,noun,EXT,N
+338,မေ့,may,잊다,forget,verb,EXT,N
+339,ပထမဆုံး,pa hta ma zoun,맨 처음,first,adj,EXT,N
+340,ရဲ,ye,"경찰, 용감하다",police,noun,EXT,Y
+341,ခေါင်း,gaung,머리,head,noun,EXT,Y
+342,ဆော့,hsaw,놀다(장난),play,verb,EXT,Y
+343,သဘောကျ,tha baw kya,마음에 들다,like,verb,EXT,N
+344,အောင်မြင်,aung myin,성공하다,succeed,verb,EXT,N
+345,ပွဲ,pweh,"행사, 경기, 축제",event,noun,EXT,N
+346,အစီအစဉ်,a si a sin,"계획, 프로그램",plan,noun,EXT,N
+347,စိတ်မကောင်း,seit ma kaung,"미안하다, 슬프다",sorry,phrase,EXT,N
+348,ဆေး,hsay,약,medicine,noun,EXT,Y
+349,ငါး,nga,"물고기, 다섯",fish,noun,EXT,Y
+350,အဲ့,eh,그(것)(구어),that,det,EXT,N
+351,နေပါ,nay pa,"그만둬, 괜찮아(사양)",never mind,phrase,EXT,N
+352,မှန်း,hman,~인 줄(알다),that,particle,EXT,N
+353,သခင်,tha khin,"주인, 주님",master,noun,EXT,N
+354,အမှု,a hmu,"사건, 소송",case,noun,EXT,N
+355,အသံ,a than,"소리, 목소리",sound,noun,EXT,N
+356,လက်ထပ်,let htat,결혼하다,marry,verb,EXT,Y
+357,ဆွဲ,hsweh,"끌다, 그리다",pull,verb,EXT,Y
+358,ပေါက်,pauk,"터지다, 구멍",burst,verb,EXT,N
+359,နိုင်ငံ,nain ngan,나라,country,noun,EXT,N
+360,မင်္ဂလာ,min ga la,"축복, 행운",blessing,noun,EXT,N
+361,သွေး,thway,피,blood,noun,EXT,Y
+362,အမှား,a hma,실수,mistake,noun,EXT,N
+363,ခင်,khin,"친하다, ~하기 전",close,verb,EXT,N
+364,ကော,kaw,"~는?(의문), ~도",and,particle,EXT,N
+365,လိမ်,lein,거짓말하다,lie,verb,EXT,N
+366,အမြဲ,a mye,항상,always,adv,EXT,N
+367,မျက်နှာ,myet hna,얼굴,face,noun,EXT,Y
+368,ကန်,kan,"차다, 호수",kick,verb,EXT,Y
+369,ကျေးဇူး,kyay zu,"은혜, 감사",thanks,noun,EXT,N
+370,လူကြီး,lu gyi,"어른, 상사",adult,noun,EXT,Y
+371,ရုံ,youn,"~하기만, 홀(극장 등)",just,particle,EXT,N
+372,တက်,tet,"오르다, 참석하다",climb,verb,EXT,Y
+373,လက်ခံ,let khan,받아들이다,accept,verb,EXT,N
+374,အသင့်,a thin,준비됨,ready,adj,EXT,N
+375,ဟုတ်ကဲ့,hoke keh,네(정중한 대답),yes,interj,EXT,N
+376,အသစ်,a thit,"새것, 새로운",new,adj,EXT,N
+377,ခိုင်း,khain,시키다,tell,verb,EXT,N
+378,ရောင်,yaung,"색, 빛",color,noun,EXT,Y
+379,နေဦး,nay oun,"잠깐만, 아직 ~해",wait,phrase,EXT,N
+380,အစွမ်း,a swan,"능력, 힘",power,noun,EXT,N
+381,အဖြေ,a hpyay,"대답, 답",answer,noun,EXT,N
+382,အကုန်လုံး,a koun loun,"전부, 모두",all,pron,EXT,N
+383,ဘုရားရေ,hpa ya yay,"맙소사!, 신이시여",oh god,interj,EXT,N
+384,မှန်တယ်,hman te,맞아요,right,phrase,EXT,N
+385,ပိုက်ဆံ,pait hsan,돈,money,noun,EXT,Y
+386,လုံခြုံ,loun choun,안전하다,safe,adj,EXT,N
+387,လွတ်,lut,"자유롭다, 비다, 벗어나다",free,adj,EXT,N
+388,မဲ့,meh,~없는(결여),-less,particle,EXT,N
+389,ဘေး,bay,"옆, 위험",side,noun,EXT,N
+390,ပန်း,pan,꽃,flower,noun,EXT,Y
+391,ကိုယ်တိုင်,ko tain,"스스로, 직접",oneself,adv,EXT,N
+392,လုံးဝ,loun wa,"완전히, 전혀",completely,adv,EXT,N
+393,လွန်,lun,"지나다, 지나치다",exceed,verb,EXT,N
+394,မျက်လုံး,myet loun,눈,eye,noun,EXT,Y
+395,အဲလို,eh lo,그렇게,like that,adv,EXT,N
+396,ရွေးချယ်,yway che,선택하다,choose,verb,EXT,N
+397,ဦးလေး,u lay,"삼촌, 아저씨",uncle,noun,EXT,Y
+398,ဆိုး,hso,나쁘다,bad,adj,EXT,N
+399,ပြင်,pyin,"고치다, 준비하다",fix,verb,EXT,Y
+400,ကုန်,koun,"다 떨어지다, 상품",run out,verb,EXT,N
+401,ငွေ,ngway,"돈, 은",money,noun,EXT,Y
+402,အဆင့်,a hsint,"단계, 수준",level,noun,EXT,N
+403,စို့,so,~하자(청유),let's,particle,EXT,N
+404,ချင်း,chin,"서로, ~끼리",each other,particle,EXT,N
+405,နှင့်,hnint,~와(문어),and,particle,EXT,N
+406,တကယ်လား,ta ge la,정말이야?,really,phrase,EXT,N
+407,သူမ,thu ma,그녀,she,pron,EXT,N
+408,ပြည်,pyi,나라,country,noun,EXT,N
+409,ဖူးတယ်,hpu te,~한 적 있다,have ever,phrase,EXT,N
+410,အကူအညီ,a ku a nyi,도움,help,noun,EXT,N
+411,နောက်ထပ်,nauk htat,"또, 추가로",another,adj,EXT,N
+412,ဆု,hsu,상,prize,noun,EXT,Y
+413,ထိန်း,htein,"지키다, 돌보다",guard,verb,EXT,N
+414,လက်နက်,let net,무기,weapon,noun,EXT,Y
+415,စက်,set,기계,machine,noun,EXT,Y
+416,ဖြတ်,hpyat,"자르다, 건너다",cut,verb,EXT,Y
+417,ဖျက်ဆီး,hpyet hsi,파괴하다,destroy,verb,EXT,N
+418,ယောက်ျား,yauk kya,"남자, 남편",man,noun,EXT,Y
+419,ပထမ,pa hta ma,첫째,first,adj,EXT,N
+420,ပြု,pyu,하다(문어),do,verb,EXT,N
+421,ဘုရားသခင်,hpa ya tha khin,하느님,God,noun,EXT,N
+422,ဒေါက်တာ,dauk ta,"의사, 박사",doctor,noun,EXT,Y
+423,ကျေးဇူးပဲ,kyay zu beh,고마워,thanks,phrase,EXT,N
+424,အဆင်သင့်,a hsin thint,준비됨,ready,adj,EXT,N
+425,ဂရုစိုက်,ga yu sait,"조심하다, 돌보다",care,verb,EXT,N
+426,စစ်,sit,"전쟁, 검사하다",war,noun,EXT,N
+427,သလား,tha la,~했니?(예/아니오 의문),question ending,phrase,EXT,N
+428,ကျော်,kyaw,"넘다, 유명하다",over,verb,EXT,N
+429,မေးခွန်း,may khun,질문,question,noun,EXT,N
+430,ဒီလို,di lo,이렇게,like this,adv,EXT,N
+431,လွယ်,lwe,쉽다,easy,adj,EXT,N
+432,ဒုတိယ,du ti ya,둘째,second,adj,EXT,N
+433,ဖြေ,hpyay,"대답하다, 풀다",answer,verb,EXT,N
+434,ဆူး,hsu,가시,thorn,noun,EXT,Y
+435,လှည့်,hlei,"돌다, 돌리다",turn,verb,EXT,Y
+436,ဘယ်လိုလဲ,be lo leh,"어때?, 어떻게?",how,phrase,EXT,N
+437,တွင်,twin,~에서(문어),in,particle,EXT,N
+438,ဘုရား,hpa ya,"부처, 불탑, 신",Buddha,noun,EXT,Y
+439,အစ်မ,a ma,"언니, 누나",older sister,noun,EXT,Y
+440,စစ်ဆေး,sit hsay,검사하다,check,verb,EXT,N
+441,တိုင်,tain,"기둥, 이르다(고자질)",pillar,noun,EXT,Y
+442,ဆေးရုံ,hsay youn,병원,hospital,noun,EXT,Y
+443,တရား,ta ya,"법, 진리, 설법",justice,noun,EXT,N
+444,မောင်း,maung,"운전하다, 몰다",drive,verb,EXT,Y
+445,မူ,mu,"원칙, 판본, 그러나(문어)",principle,noun,EXT,N
+446,ဒေါ်လာ,daw la,달러,dollar,noun,EXT,Y
+447,ခေါင်းဆောင်,gaung hsaung,지도자,leader,noun,EXT,N
+448,ဘာသာ,ba tha,"종교, 언어, 과목",religion,noun,EXT,N
+449,မည်,myi,~할 것이다(문어 미래),will,particle,EXT,N
+450,နေထွက်,nay htwet,"해가 뜨다, 해돋이",sunrise,noun,EXT,Y
+451,ထိန်းချုပ်,htein choke,통제하다,control,verb,EXT,N
+452,စာအုပ်,sa oke,책,book,noun,EXT,Y
+453,ကိုး,ko,"아홉, ~이니까(구어)",nine,num,EXT,N
+454,ဆိုလို,hso lo,"의미하다, 뜻하다",mean,verb,EXT,N
+455,အံ့သြ,an tha,놀라다,surprised,adj,EXT,Y
+456,အချစ်,a chit,사랑,love,noun,EXT,N
+457,ဟယ်လို,he lo,"여보세요, 안녕",hello,interj,EXT,N
+458,အမိန့်,a meint,명령,order,noun,EXT,N
+459,ပါ့,pa,"공손 보조(ပါ 의 창조 형태, ~할게요)",polite particle,particle,EXT,N
+460,ပတ်,pat,"돌다, 감다, 주(週)",week,noun,EXT,N
+461,ရှင်း,shin,"분명하다, 설명하다, 치우다",clear,adj,EXT,N
+462,ရထား,ya hta,기차,train,noun,EXT,Y
+463,မနက်,ma net,아침,morning,noun,EXT,Y
+464,လေယာဉ်,lay yin,비행기,airplane,noun,EXT,Y
+465,ငယ်,nge,"어리다, 작다",young,adj,EXT,N
+466,သီချင်း,tha chin,노래,song,noun,EXT,Y
+467,စာ,sa,"글, 편지, 문자",letter,noun,EXT,Y
+468,ချက်ချင်း,chet chin,즉시,immediately,adv,EXT,N
+469,မြောက်,myauk,"북쪽, 들어 올리다",north,noun,EXT,N
+470,ကြိမ်,kyein,번(횟수),times,clf,EXT,N
+471,အန္တရာယ်,an da ye,위험,danger,noun,EXT,N
+472,လေ့ကျင့်,lay kyint,"연습하다, 훈련하다",practice,verb,EXT,Y
+473,မနက်ဖြန်,ma net hpyan,내일,tomorrow,noun,EXT,N
+474,အကုန်,a koun,전부,all,pron,EXT,N
+475,နည်းလမ်း,ni lan,방법,method,noun,EXT,N
+476,တော်တော်,taw taw,"꽤, 상당히",quite,adv,EXT,N
+477,အစ,a sa,"처음, 시작",beginning,noun,EXT,N
+478,ဝတ်,wut,입다,wear,verb,EXT,Y
+479,ရိုက်,yait,"때리다, 찍다(촬영)",hit,verb,EXT,Y
+480,တိုး,to,"늘리다, 밀다",increase,verb,EXT,N
+481,မကြာခင်,ma kya khin,곧,soon,adv,EXT,N
+482,ချ,cha,내려놓다,put down,verb,EXT,Y
+483,ကတည်း,ka ti,~부터(이래로),since,particle,EXT,N
+484,မိတ်ဆွေ,meit hsway,"친구, 벗",friend,noun,EXT,Y
+485,တား,ta,"막다, 말리다",stop,verb,EXT,Y
+486,မစ်ရှင်,mit shin,임무(미션),mission,noun,EXT,N
+487,ဖျက်,hpyet,"지우다, 부수다",delete,verb,EXT,N
+488,ထောင်,htaung,"천(1000), 감옥, 세우다",thousand,num,EXT,N
+489,အမြဲတမ်း,a myeh dan,항상,always,adv,EXT,N
+490,စတင်,sa tin,시작하다,start,verb,EXT,N
+491,ထိခိုက်,hti khait,"다치다, 영향을 주다",hurt,verb,EXT,N
+492,လျှို့ဝှက်,sho hwet,비밀(의),secret,adj,EXT,N
+493,ကြိုဆို,kyo hso,환영하다,welcome,verb,EXT,N
+494,အပိုင်း,a paing,부분,part,noun,EXT,N
+495,ဆင်း,hsin,내리다,get down,verb,EXT,Y
+496,ပျက်,pyet,망가지다,break,verb,EXT,Y
+497,မီး,mi,"불, 전등",fire,noun,EXT,Y
+498,စီစဉ်,si sin,"계획하다, 준비하다",plan,verb,EXT,N
+499,စွမ်း,swan,"능력, ~할 수 있다",ability,noun,EXT,N
+500,ဝမ်းသာ,wun tha,기쁘다,glad,adj,EXT,Y
+501,အမျိုးသမီး,a myo tha mi,여성,woman,noun,EXT,Y
+502,မွေး,mway,"낳다, 태어나다, 기르다",born,verb,EXT,N
+503,ပျော်ရွှင်,pyaw shwin,행복하다,happy,adj,EXT,Y
+504,ကယ်တင်,ke tin,구원하다,save,verb,EXT,N
+505,ပါးစပ်,pa zat,입,mouth,noun,EXT,Y
+506,အချက်,a chet,"요점, 사실",point,noun,EXT,N
+507,စီး,si,타다(탈것),ride,verb,EXT,Y
+508,လှ,hla,예쁘다,pretty,adj,EXT,Y
+509,မနေ့,ma nay,어제,yesterday,noun,EXT,N
+510,ဟင်,hin,"응?, 뭐?",huh,interj,EXT,N
+511,အနိုင်,a nain,승리,victory,noun,EXT,N
+512,ဌာန,hta na,부서,department,noun,EXT,N
+513,ဒုက္ခ,dote kha,"고생, 곤란",trouble,noun,EXT,N
+514,ပြည့်,pyei,가득 차다,full,adj,EXT,N
+515,ကုမ္ပဏီ,koun pa ni,회사,company,noun,EXT,N
+516,စနစ်,sa nit,"제도, 시스템",system,noun,EXT,N
+517,ခက်,khet,어렵다,difficult,adj,EXT,N
+518,ဂုဏ်ယူ,goun yu,자랑스러워하다,proud,verb,EXT,N
+519,ဥပဒေ,u pa day,법,law,noun,EXT,N
+520,တာဝန်,ta wun,"책임, 임무",duty,noun,EXT,N
+521,မိဘ,mi ba,부모,parents,noun,EXT,Y
+522,ပိုင်,pain,소유하다,own,verb,EXT,N
+523,သို့,tho,~로(문어 방향),to,particle,EXT,N
+524,စိုးရိမ်,so yein,걱정하다,worry,verb,EXT,N
+525,ချစ်တယ်,chit te,사랑해,I love you,phrase,EXT,N
+526,သေနတ်,tha nat,총,gun,noun,EXT,Y
+527,အထူး,a htu,"특별한, 특히",special,adj,EXT,N
+528,လက်ဆောင်,let hsaung,선물,gift,noun,EXT,Y
+529,သံ,than,"쇠, 소리",iron,noun,EXT,Y
+530,ကျေးဇူးပါ,kyay zu pa,고마워요,thanks,phrase,EXT,N
+531,မျှ,hmya,"~만큼, 나누다",as much,particle,EXT,N
+532,အခြား,a khya,다른,other,adj,EXT,N
+533,ရရှိ,ya shi,얻다(문어),obtain,verb,EXT,N
+534,တကယ့်,ta geh,진짜의,real,adj,EXT,N
+535,သတိရ,tha di ya,"그리워하다, 생각나다",miss,verb,EXT,N
+536,ကြိုး,kyo,"줄, 끈",rope,noun,EXT,Y
+537,တွင်း,twin,"구멍, 굴",hole,noun,EXT,Y
+538,ဘုရင်မ,ba yin ma,여왕,queen,noun,EXT,Y
+539,ဝယ်,we,사다,buy,verb,EXT,Y
+540,ဒါမှမဟုတ်,da hma ma hok,"또는, 아니면",or,conj,EXT,N
+541,သေချာတယ်,thay cha te,확실하다,sure,phrase,EXT,N
+542,အိတ်,eik,가방,bag,noun,EXT,Y
+543,ကဲ,ke,"자, 그럼",well,interj,EXT,N
+544,မယ်တော်,me taw,"왕비, 성모",queen mother,noun,EXT,N
+545,ဖန်တီး,hpan ti,"창조하다, 만들다",create,verb,EXT,N
+546,အဆုံးသတ်,a hson that,"끝내다, 결말",end,verb,EXT,N
+547,ဓား,da,칼,knife,noun,EXT,Y
+548,ဆူ,hsu,"끓다, 꾸짖다, 시끄럽다",boil,verb,EXT,Y
+549,ဤ,i,이(문어 지시),this,det,EXT,N
+550,ရုပ်,yok,"모습, 형상, 인형",figure,noun,EXT,N
+551,ပြန်လာ,pyan la,돌아오다,come back,verb,EXT,N
+552,နန်းတော်,nan daw,궁전,palace,noun,EXT,Y
+553,လောက,law ka,"세상, 세계",world,noun,EXT,N
+554,ရောင်း,yaung,팔다,sell,verb,EXT,Y
+555,ဒဏ်ရာ,dan ya,"상처, 부상",wound,noun,EXT,Y
+556,ဆက်သွယ်,hset thwe,연락하다,contact,verb,EXT,N
+557,အရာရှိ,a ya shi,"관리, 장교",officer,noun,EXT,Y
+558,ကဒ်,kat,카드,card,noun,EXT,Y
+559,ဆက်လုပ်,hset lok,계속하다,continue,verb,EXT,N
+560,ရှာဖွေ,sha hpwe,"찾다, 탐색하다",search,verb,EXT,N
+561,ပညာ,pyin nya,"지식, 학문",knowledge,noun,EXT,N
+562,ဇာတ်လမ်း,zat lan,"이야기, 줄거리",story,noun,EXT,N
+563,သလဲ,tha le,~했니?(의문사 질문 종결),question ending,phrase,EXT,N
+564,ဖြေရှင်း,hpyay shin,해결하다,solve,verb,EXT,N
+565,ခြေထောက်,chay dauk,"다리, 발",leg,noun,EXT,Y
+566,နားမလည်,na ma le,이해 못 하다,not understand,phrase,EXT,N
+567,ထင်ထား,htin hta,"예상하다, 생각해 두다",expect,verb,EXT,N
+568,ထ,hta,"일어서다, 일어나다",stand up,verb,EXT,Y
+569,မိုက်,maik,"어리석다, 멋지다(속어)",foolish,adj,EXT,N
+570,တော်တယ်,taw te,"잘했다, 똑똑하다",well done,phrase,EXT,N
+571,စီ,si,"줄 세우다, 늘어놓다",line up,verb,EXT,N
+572,စာရင်း,sa yin,"목록, 명단",list,noun,EXT,N
+573,ပါရစေ,pa ya zay,~하게 해 주세요(허락 요청),let me,aux,EXT,N
+574,စစ်ပွဲ,sit pwe,전쟁,war,noun,EXT,Y
+575,ခွက်,hkwet,"컵, 잔",cup,noun,EXT,Y
+576,အဆုံး,a hson,"끝, 마지막",end,noun,EXT,N
+577,ရည်ရွယ်,yi ywe,"의도하다, 목표하다",intend,verb,EXT,N
+578,ကြောင်း,kyaung,"~라는 것, 이유, 사실",that,particle,EXT,N
+579,တောင်းဆို,taung hso,"요청하다, 요구하다",request,verb,EXT,N
+580,အဓိပ္ပာယ်,a dei bet,"의미, 뜻",meaning,noun,EXT,N
+581,အာရုံ,a yon,"주의, 감각",attention,noun,EXT,N
+582,ကောင်းဆိုးဝါး,kaung hso wa,"귀신, 괴물",ghost,noun,EXT,Y
+583,သစ္စာဖောက်,thit sa hpauk,배신자,traitor,noun,EXT,N
+584,ထောက်,htauk,"받치다, 지지하다",support,verb,EXT,N
+585,စောင့်ရှောက်,saung shauk,"보호하다, 돌보다",protect,verb,EXT,N
+586,အနောက်,a naut,"서쪽, 뒤",west,noun,EXT,N
+587,သံသယ,than tha ya,의심,doubt,noun,EXT,N
+588,ဘယ်တုန်း,be ton,언제(과거),when,pron,EXT,N
+589,အမှတ်,a hmat,"점수, 표시, 번호",score,noun,EXT,N
+590,ကံကောင်း,kan kaung,운이 좋다,lucky,adj,EXT,N
+591,အနည်းဆုံး,a ne zon,적어도,at least,adv,EXT,N
+592,မျိုးနွယ်,myo nwe,"혈통, 종족",lineage,noun,EXT,N
+593,သလောက်,tha laut,"~만큼, ~할수록",as much as,particle,EXT,N
+594,မင်းသမီး,min tha mi,"공주, 여배우",princess,noun,EXT,Y
+595,အော်,aw,"소리치다, 외치다",shout,verb,EXT,Y
+596,အဓိက,a da ka,주요한,main,adj,EXT,N
+597,နှလုံးသား,hna lon tha,"마음, 심장",heart,noun,EXT,N
+598,သတိပေး,tha ti pay,경고하다,warn,verb,EXT,N
+599,ဖယ်,hpe,"치우다, 비키다",remove,verb,EXT,N
+600,ခေါက်,hkauk,"접다, 두드리다",fold,verb,EXT,Y
+601,သော့,thaw,"열쇠, 자물쇠",key,noun,EXT,Y
+602,တွဲ,twe,"짝짓다, 연결하다",pair,verb,EXT,N
+603,ကြိုက်တယ်,kyaik te,좋아하다(평서),like,phrase,EXT,N
+604,ရုပ်ရှင်,yok shin,영화,movie,noun,EXT,Y
+605,အမြင်,a myin,"견해, 시각",view,noun,EXT,N
+606,သဘောတူ,tha baw tu,동의하다,agree,verb,EXT,N
+607,ခန့်,hkan,"약, 대략, 임명하다",about,particle,EXT,N
+608,လေးစား,lay sa,존경하다,respect,verb,EXT,N
+609,အရူး,a yu,"미친 사람, 바보",fool,noun,EXT,N
+610,ဆက်ဆံ,hset hsan,"대하다, 교류하다",treat,verb,EXT,N
+611,ဖတ်,hpat,읽다,read,verb,EXT,Y
+612,အလောင်း,a laung,시체,corpse,noun,EXT,N
+613,အကြိမ်,a kyein,"횟수, ~번",time,noun,EXT,N
+614,အရှေ့,a shay,"동쪽, 앞",east,noun,EXT,N
+615,အကြာ,a kya,"(시간) 후, 동안",duration,noun,EXT,N
+616,အကြီး,a kyi,"큰 것, 큰 사람",big one,noun,EXT,N
+617,ကတိ,ka ti,약속,promise,noun,EXT,N
+618,ကင်း,kin,"초소, 경계, ~이 없다",guard post,noun,EXT,N
+619,သေဆုံး,thay hson,죽다(격식),die,verb,EXT,N
+620,တပ်,tat,"부대, 붙이다",troop,noun,EXT,N
+621,ပါတီ,pa ti,"파티, 정당",party,noun,EXT,Y
+622,ဂိမ်း,gain,게임,game,noun,EXT,Y
+623,အရင်ဆုံး,a yin hson,가장 먼저,first,adv,EXT,N
+624,ပုံမှန်,pon hman,"보통, 정상",normal,adj,EXT,N
+625,မြင့်,myin,"높다, 키가 크다",tall,adj,EXT,Y
+626,ချောင်း,chaung,"개울, 기침하다, ~개(막대)",stream,noun,EXT,Y
+627,တွက်,twet,계산하다,calculate,verb,EXT,N
+628,ကျောက်,kyauk,돌,stone,noun,EXT,Y
+629,ဖွဲ့,hpwe,"구성하다, 조직하다",form,verb,EXT,N
+630,တချို့,ta chot,"일부, 어떤",some,det,EXT,N
+631,ဒါပေါ့,da paw,물론이지,of course,phrase,EXT,N
+632,ချီ,chi,"들어올리다, 업다",lift,verb,EXT,Y
+633,ကိုက်,kaik,물다,bite,verb,EXT,Y
+634,စိတ်ဝင်စား,seik win sa,관심을 갖다,be interested,verb,EXT,N
+635,ကျောက်တုံး,kyauk ton,"바위, 돌덩이",rock,noun,EXT,Y
+636,တည့်,te,"곧다, 사이가 좋다",straight,adj,EXT,N
+637,လူမျိုး,lu myo,"민족, 인종",race,noun,EXT,N
+638,ကျန်းမာ,kyan ma,건강하다,healthy,adj,EXT,N
+639,လည်,le,"돌다, 놀러 가다",turn,verb,EXT,N
+640,ကစား,ga za,"놀다, 경기하다",play,verb,EXT,Y
+641,ပုန်း,pon,숨다,hide,verb,EXT,Y
+642,အမှန်တရား,a hman ta ya,진실,truth,noun,EXT,N
+643,တန်,tan,"가치가 있다, 톤",worth,verb,EXT,N
+644,လိမ့်,lein,"구르다, ~할 것이다(추측)",roll,aux,EXT,N
+645,တိုက်ပွဲ,taik pwe,전투,battle,noun,EXT,Y
+646,အဆင်ပြေလား,a hsin pyay la,괜찮아?,are you ok,phrase,EXT,N
+647,ဆောင်,hsaung,"가져가다, 지니다, 수행하다",carry,verb,EXT,N
+648,ခက်ခဲ,hket hke,어렵다,difficult,adj,EXT,N
+649,ဟောင်း,haung,"낡다, 옛",old,adj,EXT,N
+650,ခုနှစ်,hkun hnit,"일곱, 연도",seven,num,EXT,N
+651,လှုပ်ရှား,hlok sha,"움직이다, 활동",move,verb,EXT,N
+652,လေ့လာ,lay la,"공부하다, 연구하다",study,verb,EXT,Y
+653,အလှည့်,a hle,차례,turn,noun,EXT,N
+654,ကု,ku,치료하다,cure,verb,EXT,N
+655,ခုန်,hkon,"뛰다, 점프하다",jump,verb,EXT,Y
+656,ကွဲ,kwe,"깨지다, 갈라지다",break,verb,EXT,Y
+657,ပညာရှင်,pyin nya shin,전문가,expert,noun,EXT,N
+658,စက္ကန့်,set kan,초(시간),second,noun,EXT,N
+659,ထူးခြား,htu cha,"특별하다, 특이하다",special,adj,EXT,N
+660,ဖောက်,hpauk,"뚫다, 터뜨리다",pierce,verb,EXT,N
+661,ရင်ဆိုင်,yin hsain,"맞서다, 직면하다",face,verb,EXT,N
+662,အိပ်မက်,eik met,꿈,dream,noun,EXT,N
+663,သူရဲကောင်း,thu ye kaung,영웅,hero,noun,EXT,Y
+664,ကြောင့်,kyaung,~때문에,because,particle,EXT,N
+665,မှော်,hmaw,마법,magic,noun,EXT,Y
+666,ညီမ,nyi ma,여동생,younger sister,noun,EXT,Y
+667,လျှောက်,shauk,"걷다, 신청하다, 아뢰다",walk,verb,EXT,N
+668,ပြည်သူ,pyi thu,"국민, 백성",people,noun,EXT,N
+669,ဆန့်,hsan,"펴다, 뻗다",stretch,verb,EXT,Y
+670,သူခိုး,tha hko,도둑,thief,noun,EXT,Y
+671,ဂရုမစိုက်,ga yu ma saik,신경 쓰지 않다,not care,phrase,EXT,N
+672,စိတ်ပျက်,seik pyet,실망하다,disappointed,adj,EXT,N
+673,သိမ်း,thein,"치우다, 보관하다",put away,verb,EXT,N
+674,စွန့်,sun,"버리다, 포기하다",abandon,verb,EXT,N
+675,အာရုံစိုက်,a yon saik,집중하다,concentrate,verb,EXT,N
+676,နောက်ကျ,naut kya,늦다,be late,verb,EXT,N
+677,ကတိပေး,ka ti pay,약속하다,promise,verb,EXT,N
+678,အနာဂတ်,a na gat,미래,future,noun,EXT,N
+679,ငြင်း,nyin,"부인하다, 거절하다",deny,verb,EXT,N
+680,မိဖုရား,mi bu ya,왕비,queen,noun,EXT,Y
+681,ကျွန်ုပ်,kya nok,"저, 나(격식)",I,pron,EXT,N
+682,သနား,tha na,불쌍히 여기다,pity,verb,EXT,N
+683,ဆုံးဖြတ်,hson hpyat,결정하다,decide,verb,EXT,N
+684,သတ်မှတ်,that hmat,"정하다, 규정하다",set,verb,EXT,N
+685,ဖေဖေ,hpay hpay,아빠,dad,noun,EXT,Y
+686,လန့်,lan,깜짝 놀라다,startled,verb,EXT,Y
+687,ထိုး,htoe,"찌르다, 때리다",punch,verb,EXT,Y
+688,ရေခဲ,yay ge,얼음,ice,noun,EXT,Y
+689,ပျက်စီး,pyet si,"파괴되다, 망가지다",destroyed,verb,EXT,N
+690,အပြည့်,a pyay,가득,full,adv,EXT,N
+691,အရက်,a yet,술,liquor,noun,EXT,Y
+692,ရွာ,ywa,"마을, 찾다",village,noun,EXT,Y
+693,အစိုးရ,a so ya,정부,government,noun,EXT,N
+694,ညာ,nya,"오른쪽, 거짓말하다",right,noun,EXT,N
+695,ခန္ဓာကိုယ်,hkan da ko,"몸, 신체",body,noun,EXT,Y
+696,အသုံးချ,a thon cha,활용하다,use,verb,EXT,N
+697,လွဲ,lwe,"빗나가다, 놓치다",miss,verb,EXT,N
+698,တံခါး,da ga,문,door,noun,EXT,Y
+699,အလင်း,a lin,빛,light,noun,EXT,Y
+700,နာ,na,아프다,hurt,verb,EXT,N
+701,လူသတ်သမား,lu that tha ma,살인자,murderer,noun,EXT,N
+702,ဆန္ဒ,hsan da,"소원, 욕구",wish,noun,EXT,N
+703,လူနာ,lu na,환자,patient,noun,EXT,Y
+704,ဟိုင်း,hain,안녕(하이),hi,interj,EXT,N
+705,ဆောရီး,hsaw ri,미안(쏘리),sorry,interj,EXT,N
+706,ခွေး,hkway,개,dog,noun,EXT,Y
+707,အရွယ်,a ywe,"나이, 크기",age,noun,EXT,N
+708,မဆို,ma hso,~든지(ဘယ်သူမဆို 누구든지),-ever,particle,EXT,N
+709,မုန်း,mon,미워하다,hate,verb,EXT,N
+710,အမေရိကန်,a may ri kan,미국,America,noun,EXT,N
+711,ရောဂါ,yaw ga,"병, 질병",disease,noun,EXT,N
+712,ပူးပေါင်း,pu paung,"협력하다, 합치다",cooperate,verb,EXT,N
+713,သမ္မတ,tha ma da,대통령,president,noun,EXT,Y
+714,ယောကျ်ား,yauk kya,"남자, 남편",man,noun,EXT,Y
+715,အစစ်,a sit,진짜,real,adj,EXT,N
+716,ကူ,ku,돕다,help,verb,EXT,N
+717,ဆုံးရှုံး,hson shon,잃다,lose,verb,EXT,N
+718,ရင်း,yin,~하면서,while,particle,EXT,N
+719,ရှည်,shay,길다,long,adj,EXT,Y
+720,လှုပ်,hlok,"흔들다, 움직이다",shake,verb,EXT,Y
+721,နာမည်ကြီး,na me kyi,유명하다,famous,adj,EXT,N
+722,ချည်း,chi,"~만, 오로지",only,particle,EXT,N
+723,ဖြင့်,hpyin,"~로(수단), ~와 함께",with,particle,EXT,N
+724,ကျေနပ်,kyay nat,만족하다,satisfied,adj,EXT,N
+725,ခင်ဗျာ,hkin bya,"네(남성 공손), ~요",sir,particle,EXT,N
+726,သာမန်,tha man,"평범하다, 보통",ordinary,adj,EXT,N
+727,ကြယ်,kyay,별,star,noun,EXT,Y
+728,အနား,a na,"근처, 가장자리",near,noun,EXT,N
+729,ရုံး,yon,"사무실, 관청",office,noun,EXT,Y
+730,စိတ်ပူ,seik pu,걱정하다,worry,verb,EXT,N
+731,သန်း,than,백만,million,num,EXT,N
+732,အမလေး,a ma lay,"어머나, 맙소사",oh my god,interj,EXT,N
+733,အဲ့လို,e lo,그렇게(구어 표기),like that,adv,EXT,N
+734,သစ်,thit,"새, 나무",new,adj,EXT,N
+735,သွေးစုပ်ဖုတ်,thway sok hpok,흡혈귀,vampire,noun,EXT,Y
+736,တို,to,짧다,short,adj,EXT,Y
+737,နာကျင်,na kyin,"아프다, 고통스럽다",pain,verb,EXT,N
+738,ရုတ်တရက်,yok ta yet,갑자기,suddenly,adv,EXT,N
+739,စိတ်လှုပ်ရှား,seik hlok sha,"흥분하다, 설레다",excited,adj,EXT,N
+740,ဝမ်းနည်း,wun ne,슬프다,sad,adj,EXT,Y
+741,ဖက်,hpet,"껴안다, 쪽",hug,verb,EXT,Y
+742,ပြိုင်ပွဲ,pyaing pwe,"경기, 대회",competition,noun,EXT,N
+743,စမ်းသပ်,san thet,"시험하다, 실험하다",test,verb,EXT,N
+744,ဒေါသထွက်,daw tha htwet,화가 나다,get angry,verb,EXT,Y
+745,တန်ဖိုး,tan bo,가치,value,noun,EXT,N
+746,စိုက်,saik,심다,plant,verb,EXT,Y
+747,မြစ်,myit,강,river,noun,EXT,Y
+748,ကျောင်းသား,kyaung tha,학생,student,noun,EXT,Y
+749,ဒုက္ခရောက်,dok hka yauk,곤경에 처하다,in trouble,verb,EXT,N
+750,သရုပ်ဆောင်,tha yok hsaung,"배우, 연기하다",actor,noun,EXT,Y
+751,လုံလောက်,lon laut,충분하다,enough,adj,EXT,N
+752,အေးဆေး,ay hsay,"느긋하다, 침착하다",calm,adj,EXT,N
+753,အုပ်ချုပ်,ok chok,"다스리다, 통치하다",rule,verb,EXT,N
+754,နံရံ,nan yan,벽,wall,noun,EXT,Y
+755,ငှက်,hnget,새,bird,noun,EXT,Y
+756,သင့်,thin,"~해야 한다, 당신의",should,aux,EXT,N
+757,ဦးနှောက်,o hnauk,뇌,brain,noun,EXT,Y
+758,အကြံ,a kyan,"생각, 아이디어",idea,noun,EXT,N
+759,မြတ်,myat,"고귀하다, 거룩하다",noble,adj,EXT,N
+760,ရှက်,shet,부끄럽다,ashamed,adj,EXT,Y
+761,မှတ်တမ်း,hmat tan,기록,record,noun,EXT,N
+762,တည်,ti,"세우다, 자리 잡다",establish,verb,EXT,N
+763,ဆုံး,hson,"끝나다, 죽다, 만나다",end,verb,EXT,N
+764,ကိုရီးယား,ko ri ya,한국,Korea,noun,EXT,N
+765,ရာထူး,ya da htu,"지위, 직위",rank,noun,EXT,N
+766,ဆံပင်,hsan bin,머리카락,hair,noun,EXT,Y
+767,ဖြစ်စေ,hpyit zay,"~하게 하다, ~되게 하다",cause,verb,EXT,N
+768,စစ်သား,sit tha,군인,soldier,noun,EXT,Y
+769,အဆင်ပြေတယ်,a hsin pyay te,괜찮다,it's fine,phrase,EXT,N
+770,ပြီးနောက်,pyi naut,~한 후에,after,conj,EXT,N
+771,အလို,a lo,"바람, 원하는 것",wish,noun,EXT,N
+772,ဘောလုံး,baw lon,공,ball,noun,EXT,Y
+773,တစ်သက်,ta thet,평생,lifetime,noun,EXT,N
+774,ဟန်ဆောင်,han hsaung,~인 척하다,pretend,verb,EXT,N
+775,လမ်းကြောင်း,lan gyaung,"길, 경로",route,noun,EXT,N
+776,မွေးနေ့,mway nay,생일,birthday,noun,EXT,Y
+777,အရည်အချင်း,a yi a chin,"자격, 능력",ability,noun,EXT,N
+778,လူကောင်း,lu kaung,착한 사람,good person,noun,EXT,N
+779,လုပ်ငန်း,lok ngan,"사업, 일",business,noun,EXT,N
+780,အင်အား,in a,"힘, 세력",strength,noun,EXT,N
+781,ခေတ်,hkit,시대,era,noun,EXT,N
+782,ပြန်လည်,pyan le,"다시, 재-",again,adv,EXT,N
+783,တော,taw,숲,forest,noun,EXT,Y
+784,အချက်အလက်,a chet a let,"정보, 데이터",information,noun,EXT,N
+785,စကားလုံး,za ga lon,단어,word,noun,EXT,N
+786,အနီ,a ni,빨강,red,adj,EXT,Y
+787,အတော်,a taw,"꽤, 상당히",quite,adv,EXT,N
+788,ထူးဆန်း,htu hsan,이상하다,strange,adj,EXT,N
+789,ခိုး,hko,훔치다,steal,verb,EXT,Y
+790,တတိယ,ta ti ya,세 번째,third,num,EXT,N
+791,ဆောက်,hsauk,"짓다, 건설하다",build,verb,EXT,Y
+792,ပိုင်ဆိုင်,pain hsain,소유하다,own,verb,EXT,N
+793,ဆန်,hsan,쌀,rice,noun,EXT,Y
+794,သက်သေ,thet thay,"증인, 증거",witness,noun,EXT,N
+795,အသား,a tha,"고기, 살, 피부",meat,noun,EXT,Y
+796,ကပ္ပတိန်,kap pa tin,"선장, 대위",captain,noun,EXT,Y
+797,နောက်ဆုတ်,naut hsok,물러나다,retreat,verb,EXT,N
+798,ထို,hto,그(문어 지시),that,det,EXT,N
+799,ငှား,hnga,"빌리다, 빌려주다",rent,verb,EXT,N
+800,မိုင်,main,마일,mile,clf,EXT,N
+801,ကတ်,kat,카드,card,noun,EXT,Y
+802,စိတ်အေး,seik ay,"마음을 놓다, 진정하다",calm down,verb,EXT,N
+803,သဘော,tha baw,"생각, 성품, 뜻",mind,noun,EXT,N
+804,ကြောင်,kyaung,고양이,cat,noun,EXT,Y
+805,ဖြုတ်,hpyok,"떼다, 벗기다",remove,verb,EXT,N
+806,ဖုန်းဆက်,hpon hset,전화하다,phone call,verb,EXT,Y
+807,ကော်ဖီ,kaw hpi,커피,coffee,noun,EXT,Y
+808,စစ်တပ်,sit tat,군대,army,noun,EXT,Y
+809,နိုး,no,"깨다, 깨우다",wake up,verb,EXT,Y
+810,အစား,a sa,"대신, 음식",instead,noun,EXT,N
+811,မာ,ma,"단단하다, 딱딱하다",hard,adj,EXT,N
+812,အဒေါ်,a daw,"이모, 고모",aunt,noun,EXT,Y
+813,လုပ်ဆောင်,lok hsaung,"수행하다, 실행하다",carry out,verb,EXT,N
+814,ဖိနပ်,hpi nat,신발,shoes,noun,EXT,Y
+815,သဘောထား,tha baw hta,"태도, 견해",attitude,noun,EXT,N
+816,အနံ့,a nan,냄새,smell,noun,EXT,N
+817,ကပ်,kat,"붙다, 붙이다",stick,verb,EXT,N
+818,ကျွန်း,kyun,섬,island,noun,EXT,Y
+819,မယ်လေး,me lay,어머나,oh my,interj,EXT,N
+820,အဆိပ်,a hseik,독,poison,noun,EXT,Y
+821,ဟန်,han,"태도, 모양, 스타일",manner,noun,EXT,N
+822,ခြောက်,hchauk,"여섯, 마르다, 위협하다",six,num,EXT,N
+823,ချိန်း,chein,약속을 잡다,make appointment,verb,EXT,N
+824,အိန္ဒိယ,ein di ya,인도,India,noun,EXT,N
+825,ဖုံးကွယ်,hpon kwe,"숨기다, 감추다",conceal,verb,EXT,N
+826,ဆွေးနွေး,hswe nwe,논의하다,discuss,verb,EXT,N
+827,အကြောင်းပြ,a kyaung pya,"이유를 대다, 핑계 대다",give reason,verb,EXT,N
+828,ဗျ,bya,~요(남성 공손 종결),polite particle,particle,EXT,N
+829,တပ်ဖွဲ့,tat hpwe,"부대, 군대",forces,noun,EXT,N
+830,အကြံပေး,a kyan pay,"조언하다, 고문",advise,verb,EXT,N
+831,နှုတ်ဆက်,hnok hset,인사하다,greet,verb,EXT,Y
+832,နေထိုင်,nay htain,"살다, 거주하다",live,verb,EXT,N
+833,ဆရာဝန်,hsa ya wun,의사,doctor,noun,EXT,Y
+834,ပါဝင်,pa win,"포함하다, 참여하다",participate,verb,EXT,N
+835,ဟု,hu,~라고(문어 인용),quote marker,particle,EXT,N
+836,တောင့်,taung,"뻣뻣하다, 단단하다",stiff,adj,EXT,N
+837,အက,a ka,춤,dance,noun,EXT,Y
+838,အနည်းငယ်,a ne ngay,조금,a little,adv,EXT,N
+839,ဈေး,zay,"시장, 값",market,noun,EXT,Y
+840,ကိုယ်ပိုင်,ko pain,"자기 소유의, 개인의",own,adj,EXT,N
+841,အတိတ်,a teik,과거,past,noun,EXT,N
+842,ဗုံး,bon,폭탄,bomb,noun,EXT,Y
+843,ရှေ့နေ,shay nay,변호사,lawyer,noun,EXT,Y
+844,လိုလား,lo la,"바라다, 지지하다",wish,verb,EXT,N
+845,ခန်း,hkan,"방, ~칸",room,clf,EXT,N
+846,အမြန်,a myan,빨리,quickly,adv,EXT,N
+847,အမတ်,a mat,"장관, 의원",minister,noun,EXT,N
+848,စီးပွား,si bwa,"경제, 생계",economy,noun,EXT,N
+849,ငြိမ်းချမ်း,nyein chan,평화롭다,peaceful,adj,EXT,N
+850,ကွက်,kwet,"칸, 구획",square,clf,EXT,N
+851,ပြေ,pyay,"풀리다, 해결되다",loosen,verb,EXT,N
+852,တွန်း,tun,밀다,push,verb,EXT,Y
+853,နှလုံး,hna lon,심장,heart,noun,EXT,Y
+854,နတ်ဘုရား,nat hpa ya,신,god,noun,EXT,N
+855,ပြိုင်,pyain,"겨루다, 경주하다",compete,verb,EXT,Y
+856,ရန်သူ,yan thu,적,enemy,noun,EXT,N
+857,အုပ်,ok,"덮다, ~권(책)",cover,clf,EXT,N
+858,ဓာတ်ပုံ,dat pon,사진,photo,noun,EXT,Y
+859,နဂါး,na ga,용,dragon,noun,EXT,Y
+860,အစောင့်,a saung,"경비원, 보초",guard,noun,EXT,Y
+861,လှေ,hlay,"배, 보트",boat,noun,EXT,Y
+862,ရှောင်,shaung,피하다,avoid,verb,EXT,N
+863,ပြုတ်,pyok,"삶다, 빠지다",boil,verb,EXT,Y
+864,ဗျာ,bya,~요(남성 공손 강조),polite particle,particle,EXT,N
+865,မြေ,myay,"땅, 흙",ground,noun,EXT,Y
+866,ချီး,chi,똥(비속어),dung,noun,EXT,N
+867,ဟိုတယ်,ho te,호텔,hotel,noun,EXT,Y
+868,သမိုင်း,tha main,역사,history,noun,EXT,N
+869,စာရွက်,sa ywet,종이,paper,noun,EXT,Y
+870,အလကား,a la ka,"공짜, 헛되이",free,adj,EXT,N
+871,သယ်,the,"나르다, 운반하다",carry,verb,EXT,Y
+872,အမှောင်,a hmaung,어둠,darkness,noun,EXT,N
+873,ဟဲလို,he lo,"여보세요, 안녕",hello,interj,EXT,N
+874,လက်ရှိ,let shi,현재의,current,adj,EXT,N
+875,နီး,ni,가깝다,near,adj,EXT,N
+876,အနားယူ,a na yu,쉬다,rest,verb,EXT,Y
+877,အံ့ဩ,an aw,놀라다,surprised,adj,EXT,Y
+878,အဘွား,a hpwa,할머니,grandmother,noun,EXT,Y
+879,သဘောပေါက်,tha baw pauk,"이해하다, 깨닫다",understand,verb,EXT,N
+880,စိတ်ဆိုး,seik hso,화나다,angry,adj,EXT,Y
+881,ခြိမ်းခြောက်,chein chauk,위협하다,threaten,verb,EXT,N
+882,ဉာဏ်,nyan,"지혜, 지능",wisdom,noun,EXT,N
+883,ကြီးမား,kyi ma,거대하다,huge,adj,EXT,N
+884,ဗိုလ်,bo,"장교, 장군",officer,noun,EXT,N
+885,အကျိုး,a kyo,"이익, 결과",benefit,noun,EXT,N
+886,သွားစို့,thwa zo,가자,let's go,phrase,EXT,N
+887,ညီ,nyi,남동생,younger brother,noun,EXT,Y
+888,ချန်,chan,남겨 두다,leave behind,verb,EXT,N
+889,ခရီး,hka yi,여행,trip,noun,EXT,N
+890,ဆဲလ်,hsel,세포,cell,noun,EXT,N
+891,ကင်မရာ,kin ma ra,카메라,camera,noun,EXT,Y
+892,ရှုံး,shon,"지다, 잃다",lose,verb,EXT,N
+893,ဂူ,gu,동굴,cave,noun,EXT,Y
+894,ဟယ်,he,"이봐, 어머",hey,interj,EXT,N
+895,ဟုတ်ကဲ့ပါ,hok ke pa,네(공손),yes,phrase,EXT,N
+896,အဲ့တာ,e ta,그것(구어),that,pron,EXT,N
+897,သင်ပေး,thin pay,가르쳐 주다,teach,verb,EXT,Y
+898,သဘာဝ,tha ba wa,자연,nature,noun,EXT,N
+899,မေမေ,may may,엄마,mom,noun,EXT,Y
+900,နယ်,ne,"지역, 반죽하다",region,noun,EXT,N
+901,ဆဲ,hse,욕하다,curse,verb,EXT,N
+902,ပါး,pa,"뺨, 얇다",cheek,noun,EXT,Y
+903,သက်သေပြ,thet thay pya,증명하다,prove,verb,EXT,N
+904,မဆိုး,ma hso,"나쁘지 않다, 괜찮다",not bad,phrase,EXT,N
+905,မယ့်,me,~할(미래 관형),will,particle,EXT,N
+906,မျက်စိ,myet si,눈,eye,noun,EXT,Y
+907,တစ်ခြား,ta chya,다른,other,det,EXT,N
+908,သတ္တိ,that ti,용기,courage,noun,EXT,N
+909,အတွေး,a tway,생각,thought,noun,EXT,N
+910,၍,ywe,"~하여, ~해서(문어 연결)",and,conj,EXT,N
+911,တိတ်တိတ်,teik teik,조용히,quietly,adv,EXT,N
+912,ဆာ,hsa,"배고프다, 써(Sir)",hungry,adj,EXT,Y
+913,ကောက်,kauk,줍다,pick up,verb,EXT,Y
+914,အဆင်မပြေ,a hsin ma pyay,"불편하다, 괜찮지 않다",not okay,phrase,EXT,N
+915,လှပ,hla pa,아름답다,beautiful,adj,EXT,N
+916,ခြေ,chay,발,foot,noun,EXT,Y
+917,ခွာ,hkwa,"떼어내다, 떠나다",peel off,verb,EXT,N
+918,မိုး,mo,비,rain,noun,EXT,Y
+919,အန်တီ,an ti,"아주머니, 이모",aunt,noun,EXT,Y
+920,တရားခံ,ta ya hkan,"범인, 피고",culprit,noun,EXT,N
+921,ညီအစ်ကို,nyi a ko,형제,brothers,noun,EXT,Y
+922,နှင်း,hnin,"눈, 안개",snow,noun,EXT,Y
+923,အရောင်,a yaung,색깔,color,noun,EXT,Y
+924,တံဆိပ်,da zeik,"상표, 도장, 라벨",label,noun,EXT,Y
+925,စလုံး,sa lon,싱가포르(구어),Singapore,noun,EXT,N
+926,အာမခံ,a ma khan,"보증, 보험",insurance,noun,EXT,N
+927,တစ်ပတ်,ta pat,일주일,one week,noun,EXT,N
+928,မှတ်ဉာဏ်,hmat nyan,기억,memory,noun,EXT,N
+929,ကြေညာ,kyay nya,"발표하다, 선언하다",announce,verb,EXT,N
+930,အတူ,a tu,함께,together,adv,EXT,N
+931,မြင်း,myin,말,horse,noun,EXT,Y
+932,ကြို,kyo,"마중하다, 미리",pick up,verb,EXT,N
+933,ဝတ်စုံ,wut son,"옷 한 벌, 의상",outfit,noun,EXT,Y
+934,အရင်း,a yin,"원금, 근원",capital,noun,EXT,N
+935,သဲလွန်,the lun,단서,clue,noun,EXT,N
+936,ကြုံ,kyon,"겪다, 마주치다",encounter,verb,EXT,N
+937,လွတ်မြောက်,lut myauk,"탈출하다, 해방되다",escape,verb,EXT,N
+938,တည်ဆောက်,ti hsauk,"건설하다, 세우다",build,verb,EXT,N
+939,အဖွဲ့အစည်း,a hpwe a si,"조직, 단체",organization,noun,EXT,N
+940,ပုလွေ,pa lway,피리,flute,noun,EXT,Y
+941,လွတ်လပ်,lut lat,자유롭다,free,adj,EXT,N
+942,ရွှေ့,shway,옮기다,move,verb,EXT,Y
+943,သက်သာ,thet tha,"나아지다, 편해지다",relieved,adj,EXT,N
+944,ပင်လယ်,pin le,바다,sea,noun,EXT,Y
+945,စုံစမ်း,son san,"조사하다, 알아보다",investigate,verb,EXT,N
+946,ခြေရာခံ,chay ya hkan,추적하다,track,verb,EXT,N
+947,အန္တရာယ်ရှိ,an ta ye shi,위험하다,dangerous,adj,EXT,N
+948,တရုတ်,ta yok,중국,China,noun,EXT,N
+949,စိုး,so,"걱정하다, 두려워하다",fear,verb,EXT,N
+950,မန္တန်,man tan,"주문, 만트라",spell,noun,EXT,N
+951,ကျူးလွန်,kyu lun,저지르다(범죄),commit,verb,EXT,N
+952,အရမ်းကောင်း,a yan kaung,아주 좋다,very good,phrase,EXT,N
+953,ဖြည့်,hpyi,채우다,fill,verb,EXT,N
+954,နှင့်,hnin,"~와/과, ~로(문어)",and,particle,EXT,N
+955,အဓိပ္ပါယ်,a deik pe,"의미, 뜻",meaning,noun,EXT,N
+956,ဂုဏ်ပြု,goun pyu,"기리다, 경의를 표하다",honor,verb,EXT,N
+957,ပုံပြင်,poun pyin,"옛날이야기, 동화",story,noun,EXT,N
+958,အကြီးဆုံး,a kyi zoun,"가장 큰, 맏이",biggest,adj,EXT,N
+959,အေးဂျင့်,ay jin,"요원, 에이전트",agent,noun,EXT,Y
+960,ရော့,yaw,자 받아(건넬 때),here,interj,EXT,N
+961,ဘယ်နှ,be hna,몇(몇 개),how many,det,EXT,N
+962,ပြင်ဆင်,pyin hsin,"준비하다, 고치다",prepare,verb,EXT,N
+963,ဦး,u,"우(남성 존칭), 머리, 먼저",mister,noun,EXT,N
+964,စောင့်,saung,"기다리다, 지키다",wait,verb,EXT,Y
+965,သူဌေး,tha htay,"부자, 사장",rich man,noun,EXT,Y
+966,သိပ္ပံ,thate pan,과학,science,noun,EXT,N
+967,ထိုက်တန်,htaik tan,"가치가 있다, 마땅하다",deserve,verb,EXT,N
+968,ရှစ်,shit,"8, 여덟",eight,num,EXT,Y
+969,နှုတ်,hnoat,"입, 말; 뽑다",mouth,noun,EXT,N
+970,နီ,ni,"빨갛다, 빨간",red,adj,EXT,Y
+971,အထက်,a htet,"위, 위쪽",above,noun,EXT,N
+972,တစ်ဝက်,ta wet,절반,half,noun,EXT,Y
+973,ဟုတ်သား,hoat tha,"아 그렇구나, 맞다",that's right,interj,EXT,N
+974,အပ်,at,맡기다; 바늘,entrust,verb,EXT,N
+975,ဆိုင်ရာ,hsaing ya,"관련된, 해당",related,adj,EXT,N
+976,ဦးဆောင်,u hsaung,"이끌다, 주도하다",lead,verb,EXT,N
+977,ကျွမ်းကျင်,kywan kyin,"능숙하다, 숙련되다",skilled,adj,EXT,N
+978,အနက်,a net,검은색; 의미; 깊이,black,noun,EXT,Y
+979,သရဲ,tha ye,"귀신, 유령",ghost,noun,EXT,Y
+980,လွှင့်,hlwin,"던지다, 방송하다",throw,verb,EXT,Y
+981,ပိုင်ရှင်,paing shin,"주인, 소유자",owner,noun,EXT,N
+982,လိုင်း,laing,"선, 줄, 노선",line,noun,EXT,N
+983,ဆယ်,hse,"10, 열",ten,num,EXT,Y
+984,ပရိသတ်,pa yei that,"관객, 청중",audience,noun,EXT,Y
+985,အတော်ဆုံး,a taw zoun,"가장 뛰어난, 최고",best,adj,EXT,N
+986,အာဏာ,a na,권력,power,noun,EXT,N
+987,စုံထောက်,soun dauk,"탐정, 형사",detective,noun,EXT,Y
+988,အရပ်,a yat,"키; 지역, 방향",height,noun,EXT,N
+989,ကျင့်,kyin,"연습하다, 수련하다",practice,verb,EXT,N
+990,ခပ်,khat,"약간, 좀; 푸다",somewhat,adv,EXT,N
+991,ဇနီး,za ni,아내,wife,noun,EXT,Y
+992,ထိန်းသိမ်း,htein thein,"보존하다, 지키다",preserve,verb,EXT,N
+993,ခမည်းတော်,kha me daw,"부왕, 아버지(왕족 존칭)",father,noun,EXT,Y
+994,ဒါရိုက်တာ,da yaik ta,"감독, 이사",director,noun,EXT,Y
+995,တူညီ,tu nyi,"같다, 동일하다",same,adj,EXT,N
+996,သင်ယူ,thin yu,배우다,learn,verb,EXT,Y
+997,မိခင်,mi khin,어머니,mother,noun,EXT,Y
+998,တာဝန်ယူ,ta wun yu,책임지다,take responsibility,verb,EXT,N
+999,ပေးဆပ်,pay hsat,"갚다, 치르다",pay back,verb,EXT,N
+1000,သေချာလား,thay cha la,확실해?,are you sure,phrase,EXT,N
+1001,သန်,than,"힘세다, 강하다; 이(벌레)",strong,adj,EXT,N
+1002,စုန်း,soun,마녀,witch,noun,EXT,Y
+1003,အရှုံး,a shoun,"패배, 손실",loss,noun,EXT,N
+1004,မြွေ,mway,뱀,snake,noun,EXT,Y
+1005,သစ်ပင်,thit pin,나무,tree,noun,EXT,Y
+1006,ဂိုဏ်း,gaing,"파, 조직, 갱",gang,noun,EXT,N
+1007,စိတ်ကူး,seik ku,"상상, 생각, 아이디어",idea,noun,EXT,N
+1008,ဖိတ်,peik,초대하다,invite,verb,EXT,N
+1009,မူး,mu,"어지럽다, 취하다",dizzy,adj,EXT,Y
+1010,ဝက်,wet,돼지; 절반,pig,noun,EXT,Y
+1011,နတ်,nat,"낫(정령), 신",spirit,noun,EXT,N
+1012,ဓားမြှောင်,da hmyaung,단검,dagger,noun,EXT,Y
+1013,ဆင်,hsin,코끼리; 비슷하다,elephant,noun,EXT,Y
+1014,ရှင်းပြ,shin pya,설명하다,explain,verb,EXT,N
+1015,နှိပ်,hneik,누르다,press,verb,EXT,Y
+1016,အမျိုးသား,a myo tha,남자; 국가의,man,noun,EXT,Y
+1017,ဂြိုလ်,gyo,행성,planet,noun,EXT,Y
+1018,ပူဇော်,pu zaw,"공양하다, 바치다",offer,verb,EXT,N
+1019,လွန်း,lun,너무 ~하다(정도 과함),too,particle,EXT,N
+1020,ဟဲ့,he,야!(부르는 말),hey,interj,EXT,N
+1021,အသုံးပြု,a thoun pyu,사용하다,use,verb,EXT,N
+1022,ဆရာကြီး,hsa ya gyi,"큰 스승, 선생님(존칭)",master,noun,EXT,Y
+1023,ငို,ngo,울다,cry,verb,EXT,Y
+1024,ပွင့်,pwin,"(꽃이) 피다, 열리다",bloom,verb,EXT,Y
+1025,အဆိုးဆုံး,a hso zoun,"가장 나쁜, 최악",worst,adj,EXT,N
+1026,ချွတ်,chut,벗다,take off,verb,EXT,Y
+1027,မြို့တော်,myo daw,수도,capital,noun,EXT,N
+1028,အရေးမကြီး,a yay ma kyi,"중요하지 않다, 괜찮다",not important,phrase,EXT,N
+1029,ယခု,ya khu,지금(문어),now,adv,EXT,N
+1030,လက်မှတ်,let hmat,"서명; 표, 티켓",ticket,noun,EXT,Y
+1031,စခန်း,sa khan,"기지, 캠프",camp,noun,EXT,Y
+1032,သည့်,thi,"~한(관형, 문어)",which,particle,EXT,N
+1033,ခွဲစိတ်,khwe seik,수술하다,surgery,verb,EXT,Y
+1034,အဆို,a hso,"제안, 말",proposal,noun,EXT,N
+1035,အိမ်ထောင်,ein htaung,"가정, 결혼생활",marriage,noun,EXT,N
+1036,အကျင့်,a kyin,"습관, 버릇",habit,noun,EXT,N
+1037,နှင်,hnin,"몰다, 쫓아내다",drive away,verb,EXT,N
+1038,သမီးလေး,tha mi lay,"딸아이, 얘야",daughter,noun,EXT,Y
+1039,အုံး,oun,더(권유: 좀 더 ~해),more,particle,EXT,N
+1040,ငတုံး,nga toun,"바보, 멍청이",idiot,noun,EXT,N
+1041,စားပွဲ,sa bwe,"탁자, 테이블",table,noun,EXT,Y
+1042,ဝိညာဉ်,wi nyin,영혼,soul,noun,EXT,N
+1043,ယူဆ,yu hsa,"여기다, 간주하다",assume,verb,EXT,N
+1044,ဒဏ်,dan,"벌, 형벌; 상처",penalty,noun,EXT,N
+1045,ဝန်ကြီး,wun gyi,장관,minister,noun,EXT,Y
+1046,ကင်,kin,굽다,grill,verb,EXT,Y
+1047,ကုသ,ku tha,치료하다,treat,verb,EXT,N
+1048,သတ္တဝါ,that ta wa,"생물, 동물",creature,noun,EXT,Y
+1049,အကွက်,a kwet,"칸, 네모; 계략",square,noun,EXT,Y
+1050,အလယ်,a le,가운데,middle,noun,EXT,N
+1051,မီးရှို့,mi sho,불지르다,set fire,verb,EXT,Y
+1052,ကျွန်တော့်,kya naw,저의(남성),my,pron,EXT,N
+1053,လျက်,lyet,~하면서(문어),while,particle,EXT,N
+1054,ရွေ့,shway,"움직이다, 옮기다",move,verb,EXT,N
+1055,ခရီးသွား,kha yi thwa,여행하다; 여행자,travel,verb,EXT,Y
+1056,မိတ်ဆက်,meik hset,소개하다,introduce,verb,EXT,N
+1057,ဒါမျိုး,da myo,이런 것,this kind,phrase,EXT,N
+1058,ဝန်ထမ်း,wun dan,직원,employee,noun,EXT,Y
+1059,အရှင့်သား,a shin tha,"왕자님, 전하",prince,noun,EXT,Y
+1060,လက်ထဲ,let hte,손안에,in hand,noun,EXT,N
+1061,ကတည်းက,ga de ga,"~부터, 이래로",since,particle,EXT,N
+1062,ရာခိုင်နှုန်း,ya khaing hnoun,퍼센트,percent,noun,EXT,N
+1063,ထောက်ခံ,htauk khan,지지하다,support,verb,EXT,N
+1064,၌,hnaik,~에서(문어 처소격),at,particle,EXT,N
+1065,ကံကြမ္မာ,kan kyan ma,운명,fate,noun,EXT,N
+1066,အကြောင်းကြား,a kyaung kya,"알리다, 통지하다",notify,verb,EXT,N
+1067,လူဆိုး,lu hso,"악당, 나쁜 사람",villain,noun,EXT,Y
+1068,ပုဒ်,poat,"절, 구절(분류사)",verse,clf,EXT,N
+1069,အဖွား,a hpwa,할머니,grandmother,noun,EXT,Y
+1070,ရွှေ,shway,금,gold,noun,EXT,Y
+1071,အစာ,a sa,"먹이, 음식",food,noun,EXT,Y
+1072,ဖော်ထုတ်,paw htoat,"밝혀내다, 폭로하다",expose,verb,EXT,N
+1073,ချစ်သူ,chit thu,"연인, 애인",lover,noun,EXT,Y
+1074,ဟင်း,hin,"반찬, 카레, 국",curry,noun,EXT,Y
+1075,အတိအကျ,a ti a kya,정확히,exactly,adv,EXT,N
+1076,အခြေခံ,a chay khan,"기초, 기본",basic,noun,EXT,N
+1077,တစ်ဖက်,ta bet,"한쪽, 상대편",one side,noun,EXT,N
+1078,အဆောင်,a hsaung,"건물 동, 기숙사; 부적",building,noun,EXT,N
+1079,စာလုံး,sa loun,글자,letter,noun,EXT,Y
+1080,နို့,no,"우유, 젖",milk,noun,EXT,Y
+1081,အရှက်,a shet,"수치, 부끄러움",shame,noun,EXT,N
+1082,အတု,a tu,"가짜, 모조품",fake,noun,EXT,N
+1083,ဆွဲဆောင်,hswe hsaung,"끌어들이다, 매혹하다",attract,verb,EXT,N
+1084,အားဖြင့်,a hpyin,"~로써, ~에 의해",by means of,particle,EXT,N
+1085,အချို့,a cho,"일부, 몇몇",some,det,EXT,N
+1086,ရာသီ,ya thi,계절,season,noun,EXT,N
+1087,ယာဉ်,yin,"차량, 탈것",vehicle,noun,EXT,Y
+1088,စိတ်ချ,seik cha,안심하다,rest assured,verb,EXT,N
+1089,ကြမ်း,kyan,거칠다; 바닥,rough,adj,EXT,N
+1090,စည်း,si,"선, 경계; 묶다",line,noun,EXT,N
+1091,အရေးပေါ်,a yay paw,"비상, 긴급",emergency,noun,EXT,N
+1092,လောင်း,laung,내기하다; 붓다,bet,verb,EXT,N
+1093,ပြီးဆုံး,pyi zoun,"끝나다, 완료되다",finish,verb,EXT,N
+1094,ဟော,haw,"봐!, 저기; 설교하다",look,interj,EXT,N
+1095,အနိုင်ယူ,a naing yu,이기다,win,verb,EXT,N
+1096,ဖြည်းဖြည်း,hpyay hpyay,천천히,slowly,adv,EXT,N
+1097,အသုံးမကျ,a thoun ma kya,쓸모없다,useless,adj,EXT,N
+1098,အပြီး,a pyi,"끝, 마친 후",after,noun,EXT,N
+1099,ရလဒ်,ya la,결과,result,noun,EXT,N
+1100,ခွင့်,khwin,"허가, 휴가",permission,noun,EXT,N
+1101,စာမေးပွဲ,sa may bwe,시험,exam,noun,EXT,Y
+1102,တိုးတက်,to tet,"발전하다, 향상되다",improve,verb,EXT,N
+1103,နယ်မြေ,ne myay,"영토, 구역",territory,noun,EXT,N
+1104,ဒေါသ,daw tha,"화, 분노",anger,noun,EXT,Y
+1105,လွမ်း,lwan,그리워하다,miss,verb,EXT,N
+1106,မှုတ်,hmoat,불다,blow,verb,EXT,Y
+1107,သကြား,tha gya,설탕,sugar,noun,EXT,Y
+1108,ဘဏ်,ban,은행,bank,noun,EXT,Y
+1109,အကြောင်းရင်း,a kyaung yin,"이유, 원인",reason,noun,EXT,N
+1110,ချောက်,chauk,"협곡, 절벽; 겁주다",cliff,noun,EXT,Y
+1111,ရုရှား,ru sha,러시아,russia,noun,EXT,N
+1112,ဆောင်း,hsaung,겨울; 쓰다(모자),winter,noun,EXT,Y
+1113,ပူ,pu,"덥다, 뜨겁다",hot,adj,EXT,Y
+1114,စင်,sin,"선반, 무대; 깨끗하다",shelf,noun,EXT,Y
+1115,အလွန်,a lun,매우,very,adv,EXT,N
+1116,လမ်းလျှောက်,lan shauk,"걷다, 산책하다",walk,verb,EXT,Y
+1117,လည်ပင်း,le bin,목,neck,noun,EXT,Y
+1118,ဆရာ့,hsa ya,선생님의,teacher's,noun,EXT,N
+1119,စက်ရုပ်,set youk,로봇,robot,noun,EXT,Y
+1120,သေတ္တာ,thit ta,상자,box,noun,EXT,Y
+1121,မတ်,mat,"곧다, 똑바르다; 3월",upright,adj,EXT,N
+1122,ဝေး,way,멀다,far,adj,EXT,N
+1123,အာ,a,아(감탄),ah,interj,EXT,N
+1124,ကောင်းကင်,kaung kin,하늘,sky,noun,EXT,Y
+1125,အရိပ်,a yeik,"그림자, 그늘",shadow,noun,EXT,Y
+1126,မှော်ပညာ,hmaw pyin nya,마법,magic,noun,EXT,Y
+1127,အကြွေး,a kway,빚,debt,noun,EXT,N
+1128,အပို,a po,"여분, 추가",extra,noun,EXT,N
+1129,ထမင်း,hta min,밥,rice,noun,EXT,Y
+1130,အင်္ဂလိပ်,in ga leik,"영국, 영어",english,noun,EXT,N
+1131,နတ်ဆိုး,nat hso,악마,demon,noun,EXT,Y
+1132,မုန့်,moun,"과자, 간식",snack,noun,EXT,Y
+1133,နင့်,nin,너의,your,pron,EXT,N
+1134,ဖိုင်,hpaing,파일,file,noun,EXT,Y
+1135,ကံဆိုး,kan hso,운이 나쁘다,unlucky,adj,EXT,N
+1136,ဝန်ခံ,wun khan,"자백하다, 인정하다",confess,verb,EXT,N
+1137,စောင်,saung,담요; 부(권수 분류사),blanket,noun,EXT,Y
+1138,တစ်နည်း,ta ni,"다른 방법으로, 즉",in other words,adv,EXT,N
+1139,တိတ်,teik,조용하다,quiet,adj,EXT,N
+1140,ဝိုင်း,waing,둘러싸다; 둥글다; 판,surround,verb,EXT,N
+1141,အတွေ့အကြုံ,a twe a kyoun,경험,experience,noun,EXT,N
+1142,လိုက်ပို့,laik po,바래다주다,escort,verb,EXT,N
+1143,လူငယ်,lu nge,젊은이,young person,noun,EXT,Y
+1144,ခဲ,khe,"납, 연필심, 돌멩이; 굳다",lead,noun,EXT,N
+1145,ပြောင်,pyaung,반짝이다; 대머리,shiny,adj,EXT,N
+1146,အင်္ကျီ,in gyi,"셔츠, 윗옷",shirt,noun,EXT,Y
+1147,သတင်းပို့,tha din po,보고하다,report,verb,EXT,N
+1148,ကျွေး,kyway,"먹이다, 대접하다",feed,verb,EXT,Y
+1149,ကြံစည်,kyan si,"꾀하다, 음모하다",plot,verb,EXT,N
+1150,လျှင်,hlyin,~하면(문어 조건),if,particle,EXT,N
+1151,လက်ထောက်,let htauk,"조수, 보조",assistant,noun,EXT,Y
+1152,သောင်း,thaung,"만(10,000)",ten thousand,num,EXT,N
+1153,အတင်း,a tin,"억지로, 강제로; 험담",by force,adv,EXT,N
+1154,နန်း,nan,궁전,palace,noun,EXT,Y
+1155,တရားသူကြီး,ta ya thu gyi,판사,judge,noun,EXT,Y
+1156,ဆင့်,hsin,"단계, 층; 연달아",step,noun,EXT,N
+1157,အသက်ရှူ,a thet shu,숨 쉬다,breathe,verb,EXT,Y
+1158,တစ်ပါး,ta ba,한 분(승려 등); 다른,one,num,EXT,N
+1159,အရှိန်,a shein,"속도, 기세",speed,noun,EXT,N
+1160,၎င်း,lin,"그것, 그(문어)",it,pron,EXT,N
+1161,အရမ်းကောင်းတယ်,a yan kaung de,정말 좋다,very good,phrase,EXT,N
+1162,သစ္စာရှိ,thit sa shi,충성스럽다,loyal,adj,EXT,N
+1163,ဖန်,hpan,유리,glass,noun,EXT,Y
+1164,စားသမား,sa tha ma,"먹보, 미식가",eater,noun,EXT,Y
+1165,မြေပုံ,myay boun,지도,map,noun,EXT,Y
+1166,အမြန်ဆုံး,a myan zoun,가장 빨리,fastest,adv,EXT,N
+1167,ပုဂ္ဂိုလ်,poat go,"사람, 인물",person,noun,EXT,N
+1168,ထာဝရ,hta wa ya,영원,eternal,adj,EXT,N
+1169,အတတ်,a tat,"기술, 재주",skill,noun,EXT,N
+1170,အဖမ်းခံ,a hpan khan,체포되다,be arrested,verb,EXT,N
+1171,အမည်,a mi,이름,name,noun,EXT,N
+1172,ဝေးဝေး,way way,멀리,far away,adv,EXT,N
+1173,ဆိုင်း,hsaing,미루다; 북 악단,delay,verb,EXT,N
+1174,အဆက်အသွယ်,a hset a thwe,연락,contact,noun,EXT,N
+1175,အလေး,a lay,무게; 존중,weight,noun,EXT,N
+1176,ကွန်ပျူတာ,kun pyu ta,컴퓨터,computer,noun,EXT,Y
+1177,အနှစ်,a hnit,"진수, 정수; 알맹이",essence,noun,EXT,N
+1178,စွပ်စွဲ,sut swe,"고발하다, 누명 씌우다",accuse,verb,EXT,N
+1179,စိတ်မပူ,seik ma pu,걱정 마,don't worry,phrase,EXT,N
+1180,သက်ရှိ,thet shi,생물,living thing,noun,EXT,N
+1181,တံတား,da da,다리(교량),bridge,noun,EXT,Y
+1182,အပင်,a pin,"식물, 나무",plant,noun,EXT,Y
+1183,သန့်ရှင်း,than shin,깨끗하다,clean,adj,EXT,Y
+1184,မဒမ်,ma dan,"부인, 마담",madam,noun,EXT,N
+1185,ခင်ပွန်း,khin bun,남편,husband,noun,EXT,Y
+1186,တရားရုံး,ta ya youn,법원,court,noun,EXT,Y
+1187,အစည်းအဝေး,a si a way,회의,meeting,noun,EXT,Y
+1188,ပြတ်,pyat,끊어지다,break off,verb,EXT,N
+1189,ဆုံ,hsoun,"만나다, 모이다",meet,verb,EXT,N
+1190,ဖမ်းမိ,hpan mi,붙잡다,catch,verb,EXT,Y
+1191,မေတ္တာ,myit ta,"자애, 사랑",love,noun,EXT,N
+1192,ရည်းစား,yi za,애인,girlfriend,noun,EXT,Y
+1193,အနှောင့်အယှက်,a hnaung a she,방해,disturbance,noun,EXT,N
+1194,ထုတ်လုပ်,htoat loat,생산하다,produce,verb,EXT,N
+1195,ကာလ,ka la,"기간, 시기",period,noun,EXT,N
+1196,ချိတ်,cheik,걸다; 고리,hook,verb,EXT,Y
+1197,စု,su,모으다,gather,verb,EXT,N
+1198,ကြွက်,kywet,쥐,mouse,noun,EXT,Y
+1199,တော်ဝင်,taw win,왕실의,royal,adj,EXT,N
+1200,ပြန်ယူ,pyan yu,되찾다,take back,verb,EXT,N
+1201,ရုံးခန်း,youn gan,사무실,office,noun,EXT,Y
+1202,သိသာ,thi tha,"뚜렷하다, 분명하다",obvious,adj,EXT,N
+1203,ပျောက်ဆုံး,pyauk hsoun,"실종되다, 잃어버리다",lost,verb,EXT,N
+1204,ရင်းနှီး,yin hni,친하다; 투자하다,close,adj,EXT,N
+1205,နစ်,nit,"가라앉다, 빠지다",sink,verb,EXT,Y
+1206,အရုပ်,a youk,"인형, 장난감",doll,noun,EXT,Y
+1207,အုတ်,oat,벽돌,brick,noun,EXT,Y
+1208,အပြစ်တင်,a pyit tin,"탓하다, 비난하다",blame,verb,EXT,N
+1209,ဖျက်စီး,hpyet hsi,파괴하다,destroy,verb,EXT,N
+1210,တခုခု,ta khu khu,"무언가, 어떤 것",something,pron,EXT,N
+1211,ပါ့မလဲ,pa ma le,~할까요?(공손 미래 의문),will?,phrase,EXT,N
+1212,လောလောဆယ်,law law hse,"당분간, 지금은",for now,adv,EXT,N
+1213,ဂျပန်,ja pan,일본,japan,noun,EXT,N
+1214,ရှေး,shay,"옛날, 고대",ancient,noun,EXT,N
+1215,စစ်သည်,sit thi,"군인, 병사",soldier,noun,EXT,Y
+1216,တစ်ဦး,ta u,한 사람(존칭),one person,phrase,EXT,N
+1217,ဖွင့်,hpwin,"열다, 켜다",open,verb,EXT,Y
+1218,ကုတ်,koat,코트; 긁다,coat,noun,EXT,Y
+1219,ပျံ,pyan,날다,fly,verb,EXT,Y
+1220,ကျရှုံး,kya shoun,"실패하다, 지다",fail,verb,EXT,N
+1221,မီးလောင်,mi laung,"불이 나다, 화재",fire,verb,EXT,Y
+1222,ချောင်,chaung,구석; 헐렁하다,corner,noun,EXT,N
+1223,ချမ်းသာ,chan tha,부유하다,rich,adj,EXT,Y
+1224,ဘာသာစကား,ba tha za ga,언어,language,noun,EXT,N
+1225,အဘယ်သူ,a be thu,누구(문어),who,pron,EXT,N
+1226,ဖြစ်ပျက်,hpyit pyet,"일어나다, 발생하다",happen,verb,EXT,N
+1227,တက္ကသိုလ်,tet ka tho,대학교,university,noun,EXT,Y
+1228,ခရီးစဉ်,kha yi zin,"여정, 일정",trip,noun,EXT,N
+1229,အဘယ်,a be,"어떤, 무엇(문어)",what,pron,EXT,N
+1230,ဖော်ပြ,hpaw pya,"나타내다, 기재하다",indicate,verb,EXT,N
+1231,အစိတ်အပိုင်း,a seik a paing,"부분, 부품",part,noun,EXT,N
+1232,လေဒီ,lay di,"숙녀, 레이디",lady,noun,EXT,N
+1233,ဦးတည်,u ti,"향하다, 목표로 하다",aim,verb,EXT,N
+1234,ဗိုက်,baik,배(신체),belly,noun,EXT,Y
+1235,မင်,min,잉크,ink,noun,EXT,Y
+1236,အတွဲ,a twe,"커플, 짝; 권",couple,noun,EXT,Y
+1237,အဝတ်အစား,a wut a sa,옷,clothes,noun,EXT,Y
+1238,အများဆုံး,a mya zoun,가장 많이,most,adv,EXT,N
+1239,ငြိမ်ငြိမ်,nyein nyein,"가만히, 조용히",quietly,adv,EXT,N
+1240,စာချုပ်,sa choat,계약서,contract,noun,EXT,Y
+1241,ဖုံး,hpoun,"덮다, 가리다",cover,verb,EXT,Y
+1242,လိုက်ပါ,laik pa,"동행하다, 따라가다",go along,verb,EXT,N
+1243,လွှဲ,hlwe,"넘기다, 피하다",hand over,verb,EXT,N
+1244,ဒေါ်,daw,도(여성 존칭),madam,noun,EXT,N
+1245,ခေါက်ဆွဲ,khauk hswe,국수,noodles,noun,EXT,Y
+1246,ဝေ,way,"나누다, 배포하다",distribute,verb,EXT,N
+1247,အမြင့်,a myin,높이,height,noun,EXT,N
+1248,ဟမ်,ham,"흠?, 응?",huh,interj,EXT,N
+1249,မစ္စ,mit sa,미스(호칭),miss,noun,EXT,N
+1250,မောင်,maung,"마웅(젊은 남성 호칭), 오빠",young man,noun,EXT,N
+1251,အမှတ်တရ,a hmat ta ya,"기념품, 추억",souvenir,noun,EXT,Y
+1252,ခလုတ်,kha loat,"스위치, 버튼",button,noun,EXT,Y
+1253,သင်္ဘော,thin baw,"배, 선박",ship,noun,EXT,Y
+1254,လူသတ်,lu that,살인; 살인자,murder,noun,EXT,N
+1255,လွှတ်တော်,hlut taw,의회,parliament,noun,EXT,Y
+1256,လိမ်ညာ,lein nya,거짓말하다,lie,verb,EXT,N
+1257,ရတနာ,ya da na,보석,jewel,noun,EXT,Y
+1258,အဝေး,a way,먼 곳,distance,noun,EXT,N
+1259,သာယာ,tha ya,"쾌적하다, 아름답다",pleasant,adj,EXT,N
+1260,ဓာတ်,dat,"원소, 성분; 전기",element,noun,EXT,N
+1261,ထောက်ပံ့,htauk pan,"지원하다, 공급하다",supply,verb,EXT,N
+1262,အကြမ်းဖက်,a kyan hpet,"폭력, 테러",violence,noun,EXT,N
+1263,ဘယ်လောက်လဲ,be lauk le,얼마예요?,how much,phrase,EXT,N
+1264,အထူးသဖြင့်,a htu tha hpyin,특히,especially,adv,EXT,N
+1265,အပတ်,a pat,주(週); 바퀴,week,noun,EXT,N
+1266,နောက်ကွယ်,nauk kwe,"뒤, 배후",behind,noun,EXT,N
+1267,ကမ္ဘာ့,ga ba,세계의,world's,noun,EXT,N
+1268,ချိုး,cho,"꺾다, 부러뜨리다",break,verb,EXT,Y
+1269,အကျဉ်းသား,a kyin tha,죄수,prisoner,noun,EXT,Y
+1270,စည်းမျဉ်း,si myin,규칙,rule,noun,EXT,N
+1271,ပေါက်ကွဲ,pauk kwe,폭발하다,explode,verb,EXT,Y
+1272,ဒေသ,day tha,지역,region,noun,EXT,N
+1273,အဖြစ်အပျက်,a hpyit a pyet,"사건, 일",event,noun,EXT,N
+1274,အကောင်,a kaung,"동물, 놈(분류사)",animal,noun,EXT,N
+1275,အသုံး,a thoun,"쓸모, 사용",use,noun,EXT,N
+1276,နက်,net,깊다; 검다,deep,adj,EXT,N
+1277,စော်ကား,saw ka,모욕하다,insult,verb,EXT,N
+1278,ပြုံး,pyoun,미소 짓다,smile,verb,EXT,Y
+1279,အုပ်စု,oat su,"그룹, 무리",group,noun,EXT,Y
+1280,စည်းကမ်း,si kan,"규율, 규칙",discipline,noun,EXT,N
+1281,အကောင်း,a kaung,좋은 것,good,noun,EXT,N
+1282,ဗီဒီယို,bi di yo,"비디오, 영상",video,noun,EXT,Y
+1283,သဘောတူညီ,tha baw tu nyi,합의하다,agree,verb,EXT,N
+1284,ထိုင်ခုံ,htaing goun,의자,chair,noun,EXT,Y
+1285,အိမ်သာ,ein tha,화장실,toilet,noun,EXT,Y
+1286,စိတ်လျှော့,seik shaw,"진정하다, 마음을 가라앉히다",calm down,verb,EXT,N
+1287,ဖယ်ရှား,hpe sha,제거하다,remove,verb,EXT,N
+1288,ချော,chaw,매끄럽다; 잘생기다,smooth,adj,EXT,N
+1289,ပေါ်လာ,paw la,나타나다,appear,verb,EXT,N
+1290,ကိုင်တွယ်,kaing twe,"다루다, 처리하다",handle,verb,EXT,N
+1291,ဝန်ကြီးချုပ်,wun gyi choat,총리,prime minister,noun,EXT,Y
+1292,မတူ,ma tu,다르다,different,adj,EXT,N
+1293,ရယူ,ya yu,"얻다, 획득하다",obtain,verb,EXT,N
+1294,လိုက်နာ,laik na,"따르다, 준수하다",obey,verb,EXT,N
+1295,ကွာရှင်း,kwa shin,이혼하다,divorce,verb,EXT,N
+1296,ပြုတ်ကျ,pyoat kya,떨어지다,fall,verb,EXT,Y
+1297,တုံ့ပြန်,toun pyan,"반응하다, 대응하다",respond,verb,EXT,N
+1298,ဦးထုပ်,o htoat,모자,hat,noun,EXT,Y
+1299,နေရာတိုင်း,nay ya daing,모든 곳,everywhere,adv,EXT,N
+1300,ကွင်း,kwin,"경기장, 들판; 고리",field,noun,EXT,Y
+1301,သဘောမကျ,tha baw ma kya,마음에 안 들다,dislike,verb,EXT,N
+1302,မွေးဖွား,mway hpwa,"태어나다, 출산하다",be born,verb,EXT,N
+1303,ကြက်ဥ,kyet u,달걀,egg,noun,EXT,Y
+1304,ကျိန်,kyein,"맹세하다, 저주하다",swear,verb,EXT,N
+1305,အထင်ကြီး,a htin kyi,"우러러보다, 존경하다",admire,verb,EXT,N
+1306,ကျား,kya,호랑이; 남성,tiger,noun,EXT,Y
+1307,သက်သက်,thet thet,"단지, 오로지",merely,adv,EXT,N
+1308,ငရဲ,nga ye,지옥,hell,noun,EXT,N
+1309,သုတ်,thoat,"닦다, 바르다",wipe,verb,EXT,Y
+1310,ရာသီဥတု,ya thi u tu,"날씨, 기후",weather,noun,EXT,Y
+1311,ညစ်ပတ်,nyit pat,더럽다,dirty,adj,EXT,Y
+1312,နီးစပ်,ni sat,"가깝다, 친밀하다",close,adj,EXT,N
+1313,ရှင့်,shin,당신의(여성 화자),your,pron,EXT,N
+1314,ပျော့,pyaw,"부드럽다, 약하다",soft,adj,EXT,N
+1315,လွယ်လွယ်,lwe lwe,쉽게,easily,adv,EXT,N
+1316,မိုင်း,maing,지뢰; 마일,mine,noun,EXT,Y
+1317,အိပ်ရာ,eik ya,"침대, 잠자리",bed,noun,EXT,Y
+1318,ပိတ်မိ,peik mi,갇히다,trapped,verb,EXT,N
+1319,ပျောက်ကွယ်,pyauk kwe,사라지다,disappear,verb,EXT,N
+1320,အတည်ပြု,a ti pyu,확인하다,confirm,verb,EXT,N
+1321,အသေးစိတ်,a thay zeik,"자세한, 세부",detail,noun,EXT,N
+1322,သက်ရောက်,thet yauk,영향을 미치다,affect,verb,EXT,N
+1323,ပြင်း,pyin,"세다, 강렬하다",intense,adj,EXT,N
+1324,ပြည့်စုံ,pye soun,완전하다,complete,adj,EXT,N
+1325,မှန်ကန်,hman kan,"옳다, 정확하다",correct,adj,EXT,N
+1326,အခွန်,a khun,세금,tax,noun,EXT,N
+1327,ပျင်း,pyin,"지루하다, 게으르다",bored,adj,EXT,N
+1328,ပန်းချီ,ba gyi,"그림, 회화",painting,noun,EXT,Y
+1329,ဂုဏ်သိက္ခာ,goun theik kha,"품위, 존엄",dignity,noun,EXT,N
+1330,အစေခံ,a say khan,"하인, 종",servant,noun,EXT,Y
+1331,ထိပ်,htaik,"꼭대기, 끝",top,noun,EXT,N
+1332,အဝတ်,a wut,옷,clothes,noun,EXT,Y
+1333,မူတည်,mu ti,~에 달려 있다,depend,verb,EXT,N
+1334,နွေ,nway,여름,summer,noun,EXT,Y
+1335,ပြန်လှည့်,pyan hlay,"뒤돌다, 돌아가다",turn back,verb,EXT,Y
+1336,ရူး,yu,미치다,crazy,adj,EXT,N
+1337,လက်စား,let sa,"앙갚음, 복수",revenge,noun,EXT,N
+1338,အစီစဉ်,a si sin,"계획, 프로그램",plan,noun,EXT,N
+1339,တားဆီး,ta hsi,"막다, 방지하다",prevent,verb,EXT,N
+1340,ခုန,khu na,"아까, 방금",a moment ago,adv,EXT,N
+1341,ကိရိယာ,ka ri ya,"도구, 기구",tool,noun,EXT,Y
+1342,တောက်,tauk,"타오르다, 빛나다",blaze,verb,EXT,N
+1343,ကြမ်းပြင်,kyan byin,마룻바닥,floor,noun,EXT,Y
+1344,ရက်စက်,yet set,잔인하다,cruel,adj,EXT,N
+1345,အစိမ်း,a sein,"초록색, 날것",green,adj,EXT,Y
+1346,ယှဉ်,shin,"나란히 하다, 겨루다",compete,verb,EXT,N
+1347,နှိုး,hno,깨우다,wake up,verb,EXT,Y
+1348,စီရင်,si yin,"판결하다, 처리하다",judge,verb,EXT,N
+1349,နိုင်စွမ်း,nain swan,능력,ability,noun,EXT,N
+1350,ရောဘာ,yaw ba,고무,rubber,noun,EXT,Y
+1351,စိတ်တို,sate to,화를 잘 내다,short-tempered,adj,EXT,N
+1352,ထီးနန်း,hti nan,"왕좌, 왕권",throne,noun,EXT,Y
+1353,ဟိုး,ho,"저기(먼 곳), 어이",over there,interj,EXT,N
+1354,လူလိမ်,lu lein,사기꾼,liar,noun,EXT,N
+1355,တီထွင်,ti htwin,발명하다,invent,verb,EXT,N
+1356,စီနီယာ,si ni ya,선배,senior,noun,EXT,N
+1357,ကောလိပ်,kaw leik,대학(칼리지),college,noun,EXT,Y
+1358,သန်မာ,than ma,"튼튼하다, 강하다",strong,adj,EXT,Y
+1359,စားသောက်ဆိုင်,sa thauk hsain,식당,restaurant,noun,EXT,Y
+1360,ပေမဲ့,pay me,"하지만, ~지만",but,conj,EXT,N
+1361,စော,saw,이르다,early,adj,EXT,N
+1362,တရားဝင်,ta ya win,"합법적, 공식적",official,adj,EXT,N
+1363,အနေအထား,a nay a hta,"상태, 위치",situation,noun,EXT,N
+1364,တွေ့ဆုံ,tway hsone,만나다,meet,verb,EXT,Y
+1365,အင်ဂျင်,in jin,엔진,engine,noun,EXT,Y
+1366,သြော်,aw,"아, 오(깨달음)",oh,interj,EXT,N
+1367,မိဖုရားကြီး,mi hpa ya gyi,"왕비, 정비",queen,noun,EXT,Y
+1368,စနေ,sa nay,토요일,Saturday,noun,EXT,N
+1369,လက်မ,let ma,"엄지손가락, 인치",thumb,noun,EXT,Y
+1370,ပြုလုပ်,pyu lote,"만들다, 하다",make,verb,EXT,N
+1371,အရိုး,a yo,뼈,bone,noun,EXT,Y
+1372,မီးတောက်,mi tauk,불꽃,flame,noun,EXT,Y
+1373,ကွဲပြား,kwe pya,다르다,different,adj,EXT,N
+1374,ပျံသန်း,pyan than,날다,fly,verb,EXT,Y
+1375,အထက်တန်း,a htet tan,"상류층, 고급",upper class,noun,EXT,N
+1376,အစားအသောက်,a sa a thauk,음식,food,noun,EXT,Y
+1377,ငြိမ်,nyein,"조용하다, 가만히 있다",calm,adj,EXT,N
+1378,လက္ခဏာ,let kha na,"징조, 특징",sign,noun,EXT,N
+1379,အများစု,a mya zu,대부분,majority,noun,EXT,N
+1380,စတော့,sa taw,"주식, 재고",stock,noun,EXT,N
+1381,ပုလင်း,pa lin,병,bottle,noun,EXT,Y
+1382,ခုခံ,khu khan,"저항하다, 방어하다",resist,verb,EXT,N
+1383,နှင့်အတူ,hnin a tu,~와 함께,together with,particle,EXT,N
+1384,ဝိဉာဉ်,wein yin,"영혼, 유령",spirit,noun,EXT,Y
+1385,စွန့်စား,sun sa,모험하다,adventure,verb,EXT,N
+1386,ထွက်ခွာ,htwet khwa,떠나다,depart,verb,EXT,Y
+1387,ရှေ့ဆက်,shay hset,앞으로 나아가다,move forward,verb,EXT,N
+1388,မျက်ရည်,myet yay,눈물,tears,noun,EXT,Y
+1389,နှေး,hnay,느리다,slow,adj,EXT,Y
+1390,ချမ်း,chan,춥다,cold,adj,EXT,Y
+1391,မုန်တိုင်း,mon tine,폭풍,storm,noun,EXT,Y
+1392,ကဲ့သို့,ke tho,~처럼(문어),like,particle,EXT,N
+1393,ခုန်ချ,khon cha,뛰어내리다,jump down,verb,EXT,Y
+1394,လက်မှတ်ထိုး,let hmat hto,서명하다,sign,verb,EXT,Y
+1395,အသိပေး,a thi pay,알리다,inform,verb,EXT,N
+1396,အဘိုး,a pho,할아버지,grandfather,noun,EXT,Y
+1397,ဖွက်,hpwet,숨기다,hide,verb,EXT,Y
+1398,လုပ်ကြံ,lote kyan,암살하다,assassinate,verb,EXT,N
+1399,အဖွဲ့သား,a hpwe tha,"팀원, 구성원",member,noun,EXT,N
+1400,ကျယ်,kye,"넓다, (소리가) 크다",wide,adj,EXT,N
+1401,ပတ်လည်,pat le,"주위, 둘레",around,noun,EXT,N
+1402,ပါတနာ,pa ta na,파트너,partner,noun,EXT,N
+1403,ဘုန်းကြီး,hpone gyi,스님,monk,noun,EXT,Y
+1404,ပေါင်,paung,"허벅지, 파운드",thigh,noun,EXT,Y
+1405,အထင်,a htin,"생각, 짐작",opinion,noun,EXT,N
+1406,အဖြူ,a hpyu,흰색,white,adj,EXT,Y
+1407,ချုပ်,chote,"꿰매다, 통제하다",sew,verb,EXT,Y
+1408,နှောင့်ယှက်,hnaung shet,방해하다,disturb,verb,EXT,N
+1409,ရပ်တန့်,yat tan,멈추다,stop,verb,EXT,N
+1410,ဂြိုဟ်,gyo,행성,planet,noun,EXT,Y
+1411,ဘေဘီ,bay bi,아기,baby,noun,EXT,Y
+1412,အပေါက်,a pauk,구멍,hole,noun,EXT,Y
+1413,အမှတ်အသား,a hmat a tha,"표시, 표지",mark,noun,EXT,N
+1414,ပင့်,pyin,"모시다, 들어올리다",invite,verb,EXT,N
+1415,နွား,nwa,소,cow,noun,EXT,Y
+1416,နိုင်ငံခြား,nain ngan gya,외국,foreign country,noun,EXT,N
+1417,တရားမျှတ,ta ya hmya ta,공정하다,fair,adj,EXT,N
+1418,တကယ်ကြီးလား,ta ge gyi la,정말이야?,really,phrase,EXT,N
+1419,ဘိုင်,bai,안녕(작별),bye,interj,EXT,N
+1420,ကျေးဇူးပြု,kyay zu pyu,"부디, ~해 주세요",please,phrase,EXT,N
+1421,ပြင်သစ်,pyin thit,프랑스,France,noun,EXT,N
+1422,ဘယ်က,be ka,어디서,from where,pron,EXT,N
+1423,ရိုက်ကူး,yite ku,촬영하다,film,verb,EXT,Y
+1424,မျိုးနွယ်စု,myo nwe zu,"부족, 종족",tribe,noun,EXT,N
+1425,သံသယဝင်,than tha ya win,의심하다,suspect,verb,EXT,N
+1426,ကြွ,kywa,"오시다(높임), 솟다",come,verb,EXT,N
+1427,ဝိုး,wo,와(감탄),wow,interj,EXT,N
+1428,အထီးကျန်,a hti gyan,외롭다,lonely,adj,EXT,N
+1429,ရာဇဝတ်,ya za wut,범죄,crime,noun,EXT,N
+1430,အခမ်းအနား,a khan a na,"의식, 행사",ceremony,noun,EXT,Y
+1431,ဘေးဖယ်,bay hpe,비키다,step aside,verb,EXT,N
+1432,ကမ်းလှမ်း,kan hlan,제안하다,offer,verb,EXT,N
+1433,ပုန်ကန်,pone kan,반란하다,rebel,verb,EXT,N
+1434,ခြေရာ,chay ya,발자국,footprint,noun,EXT,Y
+1435,တင်ပြ,tin pya,"제출하다, 보고하다",present,verb,EXT,N
+1436,ကျော်ဖြတ်,kyaw hpyat,"극복하다, 건너다",overcome,verb,EXT,N
+1437,အင်တာနက်,in ta net,인터넷,internet,noun,EXT,N
+1438,မြေပြင်,myay byin,"지면, 땅",ground,noun,EXT,Y
+1439,တူး,tu,파다,dig,verb,EXT,Y
+1440,စုဆောင်း,su hsaung,모으다,collect,verb,EXT,N
+1441,အဘိုးကြီး,a pho gyi,"노인, 할아버지",old man,noun,EXT,Y
+1442,ဆရာမ,hsa ya ma,여선생님,female teacher,noun,EXT,Y
+1443,ဒူး,du,무릎,knee,noun,EXT,Y
+1444,ဖြေဆေး,hpyay hsay,해독제,antidote,noun,EXT,N
+1445,ယဉ်ကျေး,yin kyay,"예의 바르다, 문명화되다",polite,adj,EXT,N
+1446,လက်လျှော့,let shaw,포기하다,give up,verb,EXT,N
+1447,ခေါ်ထုတ်,khaw htote,불러내다,call out,verb,EXT,N
+1448,ကဗျာ,ka bya,시,poem,noun,EXT,N
+1449,ကိတ်,keik,케이크,cake,noun,EXT,Y
+1450,အလုပ်သမား,a lote tha ma,노동자,worker,noun,EXT,Y
+1451,စဉ်,sin,"~할 때, 순서",while,particle,EXT,N
+1452,သစ္စာ,thit sa,"충성, 맹세",loyalty,noun,EXT,N
+1453,ဂီတ,gi ta,음악,music,noun,EXT,Y
+1454,ပစ်ချ,pyit cha,던져 버리다,throw down,verb,EXT,Y
+1455,ညှိ,hnyi,"맞추다, 조정하다",adjust,verb,EXT,N
+1456,တန်ခိုး,tan go,"초능력, 위력",power,noun,EXT,N
+1457,ဗိုက်ဆာ,bike hsa,배고프다,hungry,adj,EXT,Y
+1458,မြှင့်,hmyin,높이다,raise,verb,EXT,N
+1459,အနှံ့,a hnan,곳곳에,everywhere,adv,EXT,N
+1460,ညီလေး,nyi lay,남동생,younger brother,noun,EXT,Y
+1461,မဲပေး,me pay,투표하다,vote,verb,EXT,Y
+1462,စက်ရုံ,set yone,공장,factory,noun,EXT,Y
+1463,စောစော,saw saw,일찍,early,adv,EXT,N
+1464,မျိုးဆက်,myo hset,세대,generation,noun,EXT,N
+1465,မြေကြီး,myay gyi,"땅, 흙",earth,noun,EXT,Y
+1466,ပမာဏ,pa ma na,"양, 분량",amount,noun,EXT,N
+1467,ဖိအား,hpi a,압력,pressure,noun,EXT,N
+1468,ကမ်း,kan,"강가, 물가",shore,noun,EXT,Y
+1469,အရေအတွက်,a yay a twet,수량,number,noun,EXT,N
+1470,တော်သေး,taw thay,다행이다,luckily,phrase,EXT,N
+1471,အခြေ,a chay,"기반, 밑",base,noun,EXT,N
+1472,သီးသန့်,thi than,"따로, 전용",separate,adj,EXT,N
+1473,ပတ်ဝန်းကျင်,pat wun gyin,"환경, 주변",surroundings,noun,EXT,N
+1474,မျိုးရိုး,myo yo,"가문, 혈통",lineage,noun,EXT,N
+1475,ဥ,u,"알, 달걀",egg,noun,EXT,Y
+1476,အဖိုး,a pho,"할아버지, 가치",grandfather,noun,EXT,Y
+1477,ပတ်သတ်,pat that,관련되다,be related,verb,EXT,N
+1478,သွေးထွက်,thway htwet,피가 나다,bleed,verb,EXT,Y
+1479,မင်္ဂလာဆောင်,min ga la hsaung,결혼식,wedding,noun,EXT,Y
+1480,စိတ်မဝင်စား,sate ma win sa,관심 없다,not interested,phrase,EXT,N
+1481,အမှိုက်,a hmike,쓰레기,garbage,noun,EXT,Y
+1482,မင်းမြတ်,min myat,"폐하, 왕",majesty,noun,EXT,N
+1483,မြေအောက်,myay auk,지하,underground,noun,EXT,N
+1484,ပြုပြင်,pyu pyin,고치다,repair,verb,EXT,Y
+1485,တယ်လား,te la,~했어?(의문 종결),question ending,particle,EXT,N
+1486,မတော်တဆ,ma taw ta hsa,"사고, 우연히",accident,noun,EXT,N
+1487,နားလည်တယ်,na le te,이해해요,I understand,phrase,EXT,N
+1488,ဖခင်,hpa khin,아버지,father,noun,EXT,Y
+1489,ရဲရင့်,ye yin,용감하다,brave,adj,EXT,N
+1490,ဥက္ကဌ,ok ka hta,"회장, 의장",chairman,noun,EXT,N
+1491,လည်းကောင်း,le kaung,~도 또한(문어),as well as,conj,EXT,N
+1492,လူယုတ်မာ,lu yote ma,악당,villain,noun,EXT,N
+1493,အစောကြီး,a saw gyi,아주 일찍,very early,adv,EXT,N
+1494,အသေ,a thay,"죽은 것, 시체",dead,noun,EXT,N
+1495,ကြိုတင်,kyo tin,미리,in advance,adv,EXT,N
+1496,ညနေ,nya nay,저녁,evening,noun,EXT,Y
+1497,အင်ပါယာ,in pa ya,제국,empire,noun,EXT,N
+1498,မျက်နှာဖုံး,myet hna hpone,가면,mask,noun,EXT,Y
+1499,အကြည့်,a kyi,시선,look,noun,EXT,N
+1500,မှီ,hmi,"기대다, 따라잡다",lean,verb,EXT,N
