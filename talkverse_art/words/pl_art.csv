@@ -167,3 +167,45 @@ rank,word,reading,romaji,ko,en,pos,level,scene_hint
 9048,pierniki,,gingerbread,피에르니키(생강빵 쿠키),gingerbread,noun,food,하트·별 모양 갈색 생강빵 쿠키에 하얀 아이싱 무늬를 그린다.
 9049,krówki,,milk_fudge,크루프키(우유 캐러멜),milk fudge,noun,food,"종이에 싸인 네모난 연갈색 우유 캐러멜 몇 개, 하나는 포장을 벗겨 보인다."
 9050,lody,,ice_cream,아이스크림,ice cream,noun,food,와플 콘에 바닐라·딸기 두 스쿱을 올린 아이스크림.
+9101,złoty,,zloty,즈워티,zloty,noun,R5,시장 가판대에서 상인이 손님에게 동전 몇 개와 지폐 한 장을 거슬러 주는 장면(숫자·글자 없음)
+9102,kilo,,kilo,킬로,kilo,noun,R5,시장 가판대의 접시저울 위에 사과를 올리고 상인이 손님에게 무게를 보여주는 장면
+360,miło,,nice_to_meet,반갑게 · 기쁘게,nice,adv,R1,폴란드 거리 카페 앞에서 두 사람이 처음 만나 미소 지으며 악수하는 장면
+9103,jabłko,,apple,사과,apple,noun,R5,"나무 상자에 가득 담긴 빨간 사과, 한 여자가 하나를 집어 드는 장면"
+9104,gruszka,,pear,배,pear,noun,R5,과일 가게에서 남자가 노란 배 두 개를 종이봉투에 담아 주는 장면
+9105,karta,,card,카드,card,noun,R5,카페 계산대에서 손님이 결제 단말기에 카드를 대는 장면(화면은 빈 채로)
+9106,rynek,,market_square,시장 ·,market square,noun,R5,"크라쿠프 구시가 광장 — 긴 아케이드 건물과 비둘기, 꽃 가판대, 산책하는 사람들"
+1075,osoba,,person,사람 · ~명,person,noun,R2,식당 입구에서 종업원이 손님 두 명을 손가락 둘로 세며 자리를 안내하는 장면
+2157,uczyć,,teach,가르치다 ·,to teach,verb,R3,교실에서 여자 선생님이 칠판 앞에서(글자 없음) 학생 둘에게 설명하는 장면
+782,myśleć,,think,생각하다,to think,verb,R2,"카페 창가에서 남자가 턱을 괴고 골똘히 생각하는 장면, 식은 커피 한 잔"
+9107,kosztować,,cost,값이 ~이다,to cost,verb,R5,과일 가판대에서 손님이 사과를 가리키며 묻고 상인이 손가락 넷을 펴 보이는 장면
+691,pół,,half,반 · 절반,half,num,R2,반으로 자른 사과를 도마 위에 놓고 아이에게 한쪽을 건네는 엄마
+1234,skończyć,,finish,끝내다 ·,to finish,verb,R3,여자가 숙제 공책을 덮고 기지개를 켜며 끝낸 것을 기뻐하는 장면
+872,szkoda,,pity,아쉽다 · 유감,pity,noun,R2,과일 가게에서 빈 배 상자를 앞에 두고 어깨를 으쓱하는 상인과 아쉬워하는 손님
+9108,widzenie,,goodbye,봄,seeing,noun,R5,가게 문 앞에서 손님과 주인이 서로 손을 흔들며 작별하는 장면
+1718,podać,,serve,건네다 ·,to serve,verb,R3,식당에서 종업원이 두 손으로 접시를 손님 앞에 내려놓는 장면
+9109,mleko,,milk,우유,milk,noun,R5,"아침 식탁에서 남자가 유리잔에 우유를 따르는 장면, 옆에 빵"
+9110,gotówka,,cash,현금,cash,noun,R5,빵집 계산대에서 손님이 지폐와 동전을 손바닥에 올려 내미는 장면(숫자 없음)
+1859,lewo,,turn_left,왼쪽,left,noun,R3,거리 모퉁이에서 한 사람이 다른 사람에게 왼쪽 길을 손으로 가리켜 주는 장면
+9111,pieszo,,on_foot,걸어서,on foot,adv,R5,"배낭을 멘 두 사람이 구시가 돌길을 걸어가는 장면, 멀리 트램은 지나감"
+9112,tramwaj,,tram,트램,tram,noun,R5,바르샤바 거리의 빨간 트램에 사람들이 타는 장면(번호·글자 없음)
+45,pan,,sir,~씨,sir,noun,R1,젊은 여자가 양복 입은 중년 남자에게 정중히 말을 거는 장면
+1284,miły,,kind,친절한 · 즐거운,kind,adj,R3,점원이 떨어진 장갑을 주워 손님에게 웃으며 건네는 장면
+9113,stolik,,table,,table,noun,R5,식당에서 종업원이 창가의 2인 테이블로 커플을 안내하는 장면
+9114,menu,,menu,메뉴,menu,noun,R5,식당에서 종업원이 손님에게 빈 가죽 표지 메뉴판을 건네는 장면(글자 없음)
+9115,mięso,,meat,고기,meat,noun,R5,정육점 진열대 앞에서 정육점 주인이 고기 한 덩이를 손님에게 보여주는 장면
+9116,gazowany,,sparkling,탄산이 든,sparkling,adj,R5,식당 테이블에서 종업원이 기포가 보이는 탄산수를 유리잔에 따르는 장면
+9117,niegazowany,,still_water,탄산 없는,still,adj,R5,"식당 테이블에서 종업원이 기포 없는 생수를 유리잔에 따르는 장면, 손님이 고개 끄덕임"
+9118,zamawiać,,order,주문하다,to order,verb,R5,식당에서 손님이 손가락으로 메뉴(글자 없음)를 짚으며 종업원에게 주문하는 장면
+9119,planować,,plan,계획하다,to plan,verb,R5,카페에서 두 친구가 작은 수첩(글자 없음)을 펴 놓고 주말 계획을 세우는 장면
+9120,kino,,cinema,영화관,cinema,noun,R5,"영화관 입구에서 커플이 팝콘을 들고 들어가는 장면, 간판은 빈 조명판"
+1631,chętnie,,gladly,기꺼이,gladly,adv,R3,"친구의 제안에 환하게 웃으며 엄지를 드는 여자, 옆의 친구는 영화관 쪽을 가리킴"
+1470,urodziny,,birthday,생일,birthday,noun,R3,할머니 집 식탁에서 가족이 초 꽂힌 케이크를 둘러싸고 축하하는 장면(숫자 초 없음)
+730,wejść,,enter,들어가다,to enter,verb,R2,현관에서 친구가 문을 열어 주고 손님이 안으로 들어서는 장면
+9121,zdjąć,,take_off_shoes,벗다 · 떼다,to take off,verb,R5,현관에서 손님이 몸을 숙여 신발을 벗고 집주인이 슬리퍼를 내미는 장면
+9122,but,,shoes,신발,shoe,noun,R5,"현관 신발장 앞에 가지런히 놓인 신발 여러 켤레, 한 사람이 한 켤레를 집음"
+1396,mieszkanie,,apartment,아파트 · 집,apartment,noun,R3,폴란드식 아파트 거실 — 집주인이 손님에게 집 안을 보여주는 장면
+9123,herbata,,tea,차,tea,noun,R5,거실 소파에서 주인이 손님에게 유리잔에 담긴 뜨거운 차와 레몬 조각을 건네는 장면
+2313,przynieść,,bring,가져오다,to bring,verb,R3,현관에서 손님이 상자에 담은 케이크를 두 손으로 들고 와 건네는 장면
+9124,ciasto,,cake,케이크 · 반죽,cake,noun,R5,주방 식탁 위의 둥근 케이크를 주인이 칼로 자르고 손님이 접시를 들고 기다리는 장면
+9125,kawiarnia,,cafe,카페,cafe,noun,R5,구시가 골목의 작은 카페 테라스에서 두 사람이 커피를 마시는 장면(간판 글자 없음)
+9126,smaczny,,tasty,맛있는,tasty,adj,R5,식탁에서 남자가 피에로기를 한 입 먹고 눈을 감으며 맛있어하는 장면
