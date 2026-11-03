@@ -1,1526 +1,1035 @@
 rank,word,reading,ko,en,pos,level,picturable
-1,olmak,,되다/이다,to become,verb,R1,N
-2,ve,,그리고,and,conj,R1,N
-3,bir,,하나/어떤,one,det,R1,N
-4,bu,,이/이것,this,det,R1,N
-5,için,,~을 위해/~때문에,for,postp,R1,N
-6,de,,~도/또한,also,conj,R1,N
-7,ben,,나,i,pron,R1,N
-8,etmek,,하다,to do,verb,R1,N
-9,o,,그/그것/그 사람,he,pron,R1,N
-10,çok,,많이/매우,very,adv,R1,N
-11,da,,~도/또한,also,conj,R1,N
-12,ne,,무엇/얼마나,what,pron,R1,N
-13,sen,,너,you,pron,R1,N
-14,ile,,~와 함께/~로,with,postp,R1,N
-15,yapmak,,하다/만들다,to make,verb,R1,Y
-16,var,,있다/존재하는,there is,adj,R1,N
-17,gelmek,,오다,to come,verb,R1,Y
-18,daha,,더/아직,more,adv,R1,N
-19,gibi,,~처럼/~같이,like,postp,R1,N
-20,en,,가장,most,adv,R1,N
-21,kadar,,~까지/~만큼,until,postp,R1,N
-22,her,,모든/각,every,det,R1,N
-23,demek,,말하다/의미하다,to say,verb,R1,N
-24,almak,,받다/사다/잡다,to take,verb,R1,Y
-25,sonra,,~후에/나중에,after,postp,R1,N
-26,biz,,우리,we,pron,R1,N
-27,ama,,그러나,but,conj,R1,N
-28,kendi,,자기/자신,self,pron,R1,N
-29,vermek,,주다,to give,verb,R1,Y
-30,değil,,아니다/~이 아닌,not,adv,R1,N
-31,yer,,장소/곳/땅,place,noun,R1,N
-32,iyi,,좋은/잘,good,adj,R1,N
-33,zaman,,시간/때,time,noun,R1,N
-34,siz,,당신(들)/너희,you,pron,R1,N
-35,gün,,날/하루,day,noun,R1,N
+1,bir,,하나/어떤,one,det,R1,N
+2,olmak,,되다/이다,to become,verb,R1,N
+3,bu,,이/이것,this,det,R1,N
+4,ben,,나,i,pron,R1,N
+5,ne,,무엇/얼마나,what,pron,R1,N
+6,sen,,너,you,pron,R1,N
+7,ve,,그리고,and,conj,R1,N
+8,mi,,~까?(의문),question particle,ques,R1,N
+9,etmek,,하다,to do,verb,R1,N
+10,yapmak,,하다/만들다,to make,verb,R1,Y
+11,şey,,것/물건,thing,noun,R1,N
+12,için,,~을 위해/~때문에,for,postp,R1,N
+13,de,,~도/또한,also,conj,R1,N
+14,var,,있다/존재하는,there is,adj,R1,N
+15,değil,,아니다/~이 아닌,not,adv,R1,N
+16,çok,,많이/매우,very,adv,R1,N
+17,bilmek,,알다,to know,verb,R1,N
+18,ama,,그러나,but,conj,R1,N
+19,mı,,~까?(의문),question particle,ques,R1,N
+20,istemek,,원하다,to want,verb,R1,N
+21,gitmek,,가다,to go,verb,R1,Y
+22,evet,,네/예,yes,interj,R1,N
+23,iyi,,좋은/잘,good,adj,R1,N
+24,gelmek,,오다,to come,verb,R1,Y
+25,da,,~도/또한,also,conj,R1,N
+26,söylemek,,말하다,to say,verb,R1,N
+27,bura,,여기,here,pron,R1,N
+28,hayır,,아니요,no,interj,R1,N
+29,daha,,더/아직,more,adv,R1,N
+30,vermek,,주다,to give,verb,R1,Y
+31,almak,,받다/사다/잡다,to take,verb,R1,Y
+32,mu,,~까?(의문),question particle,ques,R1,N
+33,demek,,말하다/의미하다,to say,verb,R1,N
+34,zaman,,시간/때,time,noun,R1,N
+35,bakmak,,보다/돌보다,to look,verb,R1,Y
 36,yok,,없다/아니요,there is not,adj,R1,N
-37,yıl,,해/년,year,noun,R1,N
-38,istemek,,원하다,to want,verb,R1,N
-39,şey,,것/물건,thing,noun,R1,N
-40,insan,,사람/인간,person,noun,R1,Y
-41,ki,,~라는/~하는,that,conj,R1,N
-42,ya,,또는/~잖아,or,conj,R1,N
-43,gitmek,,가다,to go,verb,R1,Y
-44,iş,,일/직업,work,noun,R1,N
-45,mi,,~까?(의문),question particle,ques,R1,N
-46,güzel,,아름다운/좋은,beautiful,adj,R1,Y
-47,biri,,누군가/하나,someone,pron,R1,N
-48,ara,,사이/틈,between,noun,R1,N
-49,türkiye,,튀르키예,Turkey,noun,R1,Y
-50,büyük,,큰,big,adj,R1,Y
-51,iki,,둘/2,two,num,R1,N
-52,son,,마지막/끝,last,adj,R1,N
-53,dünya,,세계/지구,world,noun,R1,Y
-54,yeni,,새로운,new,adj,R1,Y
-55,kalmak,,남다/머물다,to stay,verb,R1,N
-56,bilmek,,알다,to know,verb,R1,N
-57,önce,,~전에/먼저,before,postp,R1,N
-58,sadece,,단지/오직,only,adv,R1,N
-59,ilk,,첫/처음,first,adj,R1,N
-60,kullanmak,,사용하다,to use,verb,R1,N
-61,çıkmak,,나가다/오르다,to go out,verb,R1,Y
-62,çalışmak,,일하다/공부하다,to work,verb,R1,Y
-63,ev,,집,house,noun,R1,Y
-64,çocuk,,아이,child,noun,R1,Y
-65,görmek,,보다,to see,verb,R1,Y
-66,el,,손,hand,noun,R1,Y
-67,mı,,~까?(의문),question particle,ques,R1,N
-68,hayat,,삶/인생,life,noun,R1,N
-69,hiç,,전혀/한 번도,never,adv,R1,N
-70,başlamak,,시작하다,to start,verb,R1,N
-71,bulunmak,,있다/발견되다,to be found,verb,R1,N
-72,ise,,~는/~라면,as for,conj,R1,N
-73,yol,,길,road,noun,R1,Y
-74,adam,,남자/사람,man,noun,R1,Y
-75,nasıl,,어떻게/어떤,how,adv,R1,N
-76,böyle,,이렇게/이런,like this,adv,R1,N
-77,tek,,유일한/하나의,single,adj,R1,N
-78,kadın,,여자/여성,woman,noun,R1,Y
-79,bile,,~조차/~까지도,even,adv,R1,N
-80,kız,,소녀/딸,girl,noun,R1,Y
-81,alan,,분야/영역,field,noun,R1,N
-82,tarih,,역사/날짜,history,noun,R1,N
-83,kişi,,사람/개인,person,noun,R1,Y
-84,türk,,튀르키예인/터키의,Turk,noun,R1,N
-85,tüm,,모든/전체,all,det,R1,N
-86,ülke,,나라,country,noun,R1,N
-87,göre,,~에 따르면/~에 맞게,according to,postp,R1,N
-88,artık,,이제/더 이상,anymore,adv,R1,N
-89,doğru,,옳은/~쪽으로,right,adj,R1,N
-90,oyun,,놀이/게임,game,noun,R1,Y
-91,baş,,머리/시작,head,noun,R1,Y
-92,gerçek,,진짜/현실,real,adj,R1,N
-93,şu,,저/저것,that,det,R1,N
-94,aynı,,같은,same,adj,R1,N
-95,konu,,주제/문제,topic,noun,R1,N
-96,karşı,,~에 대해/맞은편,against,postp,R1,N
-97,bakmak,,보다/돌보다,to look,verb,R1,Y
-98,tarafından,,~에 의해,by,postp,R1,N
-99,önem,,중요성,importance,noun,R1,N
-100,bura,,여기,here,pron,R1,N
-101,sevmek,,사랑하다/좋아하다,to love,verb,R1,Y
-102,veya,,또는,or,conj,R1,N
-103,gerekmek,,필요하다,to need,verb,R1,N
-104,diğer,,다른/나머지,other,adj,R1,N
-105,iç,,안/내부,inside,noun,R1,N
-106,alt,,아래/밑,under,noun,R1,N
-107,söylemek,,말하다,to say,verb,R1,N
-108,fark,,차이/인식,difference,noun,R1,N
-109,sahip,,주인/소유자,owner,noun,R1,N
-110,diye,,~라고/~하려고,so that,postp,R1,N
-111,şekil,,모양/방식,shape,noun,R1,N
-112,atmak,,던지다/버리다,to throw,verb,R1,Y
-113,hak,,권리/몫,right,noun,R1,N
-114,durum,,상황/상태,situation,noun,R1,N
-115,yaşamak,,살다/겪다,to live,verb,R1,N
-116,saat,,시간/시계,clock,noun,R1,Y
-117,devam,,계속,continuation,noun,R1,N
-118,i̇stanbul,,이스탄불,Istanbul,noun,R1,Y
-119,başkan,,대통령/회장,president,noun,R1,N
-120,fazla,,많은/초과,too much,adj,R1,N
-121,d,,D(알파벳),letter d,noun,R1,N
-122,başka,,다른/~외에,other,adj,R1,N
-123,yemek,,음식/먹다,food,noun,R1,Y
-124,teşekkür,,감사,thanks,noun,R1,N
-125,i,,i(알파벳),letter i,noun,R1,N
-126,gece,,밤,night,noun,R1,Y
-127,ad,,이름,name,noun,R1,N
-128,arkadaş,,친구,friend,noun,R1,Y
-129,mu,,~까?(의문),question particle,ques,R1,N
-130,birlikte,,함께,together,adv,R1,N
-131,herkes,,모두/모든 사람,everyone,pron,R1,N
-132,yaş,,나이/젖은,age,noun,R1,N
-133,şimdi,,지금,now,adv,R1,N
-134,orta,,가운데/중간,middle,noun,R1,N
-135,hal,,상태/경우,state,noun,R1,N
-136,göz,,눈,eye,noun,R1,Y
-137,a,,아!(감탄),ah,interj,R1,N
-138,devlet,,국가/정부,state,noun,R1,N
-139,kim,,누구,who,pron,R1,N
-140,kimse,,아무도/누군가,nobody,pron,R1,N
-141,geçmek,,지나가다/건너다,to pass,verb,R1,Y
-142,bugün,,오늘,today,adv,R1,N
-143,söz,,말/약속,word,noun,R1,N
-144,içinde,,~안에,inside,postp,R1,N
-145,öyle,,그렇게/그런,so,adv,R1,N
-146,çünkü,,왜냐하면,because,conj,R1,N
-147,geri,,뒤로/다시,back,adv,R1,N
-148,zor,,어려운,difficult,adj,R1,N
-149,para,,돈,money,noun,R1,Y
-150,işte,,"바로/자, 여기",here it is,interj,R1,N
-151,ancak,,그러나/겨우,however,conj,R1,N
-152,anne,,어머니,mother,noun,R1,Y
-153,bazı,,어떤/일부,some,det,R1,N
-154,hep,,항상/모두,always,adv,R1,N
-155,genel,,일반적인,general,adj,R1,N
-156,merkez,,중심/센터,center,noun,R1,N
-157,bütün,,전체의/모든,whole,adj,R1,N
-158,erkek,,남자/남성,man,noun,R1,Y
-159,dönem,,시기/기간,period,noun,R1,N
-160,ön,,앞,front,noun,R1,N
-161,bölüm,,부분/학과/회,section,noun,R1,N
-162,beklemek,,기다리다,to wait,verb,R1,Y
-163,az,,적은/조금,few,adj,R1,N
-164,maç,,경기/시합,match,noun,R1,Y
-165,film,,영화,film,noun,R1,Y
-166,girmek,,들어가다,to enter,verb,R1,Y
-167,süre,,기간/시간,duration,noun,R1,N
-168,ay,,달/월,moon,noun,R1,Y
-169,sistem,,시스템/체계,system,noun,R1,N
-170,bölge,,지역,region,noun,R1,N
-171,haber,,뉴스/소식,news,noun,R1,N
-172,yazmak,,쓰다,to write,verb,R1,Y
-173,hemen,,곧/즉시,immediately,adv,R1,N
-174,yine,,다시/또,again,adv,R1,N
-175,yapılmak,,행해지다/만들어지다,to be done,verb,R1,N
-176,su,,물,water,noun,R1,Y
-177,yan,,옆/측면,side,noun,R1,N
-178,dış,,밖/외부,outside,noun,R1,N
-179,anlamak,,이해하다,to understand,verb,R1,N
-180,tam,,완전한/바로,complete,adj,R1,N
-181,kitap,,책,book,noun,R1,Y
-182,görev,,임무/직무,duty,noun,R1,N
-183,okul,,학교,school,noun,R1,Y
-184,uzun,,긴,long,adj,R1,Y
-185,üç,,셋/3,three,num,R1,N
-186,baba,,아버지,father,noun,R1,Y
-187,küçük,,작은/어린,small,adj,R1,Y
-188,aile,,가족,family,noun,R1,Y
-189,bulmak,,찾다/발견하다,to find,verb,R1,Y
-190,isim,,이름/명사,name,noun,R1,N
-191,hafta,,주/일주일,week,noun,R1,N
-192,üniversite,,대학교,university,noun,R1,Y
-193,parti,,정당/파티,party,noun,R1,Y
-194,aramak,,찾다/전화하다,to search,verb,R1,Y
-195,bırakmak,,놓다/그만두다,to leave,verb,R1,N
-196,oluşmak,,형성되다/이루어지다,to form,verb,R1,N
-197,sonuç,,결과,result,noun,R1,N
-198,ölmek,,죽다,to die,verb,R1,N
-199,eğitim,,교육,education,noun,R1,N
-200,hakkında,,~에 대해,about,postp,R1,N
-201,eski,,오래된/옛,old,adj,R1,Y
-202,karar,,결정,decision,noun,R1,N
-203,genç,,젊은/청년,young,adj,R1,Y
-204,şehir,,도시,city,noun,R1,Y
-205,takım,,팀/세트,team,noun,R1,Y
-206,olay,,사건,event,noun,R1,N
-207,halk,,국민/민중,people,noun,R1,N
-208,göstermek,,보여주다,to show,verb,R1,Y
-209,edilmek,,~되다(수동),to be done,verb,R1,N
-210,güç,,힘/어려운,power,noun,R1,N
-211,yüksek,,높은,high,adj,R1,Y
-212,bilgi,,정보/지식,information,noun,R1,N
-213,biraz,,조금,a little,adv,R1,N
-214,yani,,즉/그러니까,that is,conj,R1,N
-215,hem,,~도 ~도/또한,both,conj,R1,N
-216,alınmak,,받아지다/기분 상하다,to be taken,verb,R1,N
-217,kabul,,수용/승인,acceptance,noun,R1,N
-218,özel,,특별한/사적인,special,adj,R1,N
-219,ilgili,,관련된,related,adj,R1,N
-220,ayrıca,,게다가/또한,also,adv,R1,N
-221,inmek,,내리다/내려가다,to go down,verb,R1,Y
-222,grup,,그룹,group,noun,R1,Y
-223,hiçbir,,아무 ~도,no,det,R1,N
-224,sorun,,문제,problem,noun,R1,N
-225,üst,,위/윗부분,top,noun,R1,N
-226,evet,,네/예,yes,interj,R1,N
-227,açık,,열린/분명한,open,adj,R1,Y
-228,e,,에/그럼,well,interj,R1,N
-229,ses,,소리/목소리,sound,noun,R1,N
-230,veri,,데이터/자료,data,noun,R1,N
-231,katılmak,,참가하다/동의하다,to join,verb,R1,N
-232,hâlâ,,아직/여전히,still,adv,R1,N
-233,savaş,,전쟁,war,noun,R1,N
-234,hareket,,움직임/행동,movement,noun,R1,N
-235,gelecek,,미래/다음의,future,noun,R1,N
-236,sayı,,수/숫자,number,noun,R1,N
-237,fakat,,그러나,but,conj,R1,N
-238,kez,,번/회,time,noun,R1,N
-239,zaten,,이미/어차피,already,adv,R1,N
-240,üzerine,,~위에/~에 대해,on,postp,R1,N
-241,anlam,,의미,meaning,noun,R1,N
-242,an,,순간,moment,noun,R1,N
-243,akıl,,지능/생각,mind,noun,R1,N
-244,sıra,,차례/줄,line,noun,R1,Y
-245,kardeş,,형제/자매,sibling,noun,R1,Y
-246,değişmek,,변하다,to change,verb,R1,N
-247,ister,,~든(지)/원하면,whether,conj,R1,N
-248,site,,사이트/단지,website,noun,R1,N
-249,konuşmak,,말하다/대화하다,to talk,verb,R1,Y
-250,ders,,수업/과목,lesson,noun,R1,Y
-251,başarı,,성공,success,noun,R1,N
-252,üye,,회원,member,noun,R1,N
-253,şarkı,,노래,song,noun,R1,Y
-254,gerek,,필요/필요한,need,noun,R1,N
-255,üzerinde,,~위에/~에 대해,on,postp,R1,N
-256,hayır,,아니요,no,interj,R1,N
-257,telefon,,전화,phone,noun,R1,Y
-258,can,,생명/영혼/소중한,life,noun,R1,N
-259,düşünmek,,생각하다,to think,verb,R1,Y
-260,ilçe,,군/구(행정구역),district,noun,R1,N
-261,eğer,,만약,if,conj,R1,N
-262,soru,,질문,question,noun,R1,N
-263,üzere,,~하기 위해/~하려고,in order to,postp,R1,N
-264,destek,,지원,support,noun,R1,N
-265,kazanmak,,이기다/벌다,to win,verb,R1,Y
-266,lütfen,,제발/부디,please,adv,R1,N
-267,il,,도(행정구역)/주,province,noun,R1,N
-268,bin,,천/1000,thousand,num,R1,N
-269,anmak,,추모하다/언급하다,to commemorate,verb,R1,N
-270,bağ,,끈/유대,rope,noun,R1,Y
-271,mutlu,,행복한,happy,adj,R1,Y
-272,dönmek,,돌아가다/돌다,to return,verb,R1,N
-273,allah,,하나님/알라,God,noun,R1,N
-274,seçim,,선거/선택,election,noun,R1,N
-275,kötü,,나쁜,bad,adj,R1,N
-276,hava,,공기/날씨,weather,noun,R1,Y
-277,dikkat,,주의,attention,noun,R1,N
-278,durmak,,멈추다/서다,to stop,verb,R1,Y
-279,hangi,,어느/어떤,which,det,R1,N
-280,yüz,,백/얼굴,hundred,num,R1,N
-281,yakın,,가까운,near,adj,R1,N
-282,düşmek,,떨어지다,to fall,verb,R1,Y
-283,deniz,,바다,sea,noun,R1,Y
-284,dakika,,분,minute,noun,R1,N
-285,yerine,,~대신에,instead of,postp,R1,N
-286,ulaşmak,,도달하다/연락하다,to reach,verb,R1,N
-287,belediye,,시청/지자체,municipality,noun,R1,N
-288,ikinci,,두 번째,second,num,R1,N
-289,sanat,,예술,art,noun,R1,Y
-290,abd,,미국,USA,noun,R1,N
-291,taraf,,쪽/편,side,noun,R1,N
-292,çekmek,,당기다/찍다,to pull,verb,R1,Y
-293,program,,프로그램,program,noun,R1,N
-294,hizmet,,서비스/봉사,service,noun,R1,N
-295,metre,,미터,meter,noun,R1,N
-296,bitmek,,끝나다,to end,verb,R1,N
-297,ankara,,앙카라,Ankara,noun,R1,N
-298,polis,,경찰,police,noun,R1,Y
-299,şirket,,회사,company,noun,R1,N
-300,kontrol,,통제/확인,control,noun,R2,N
-301,yönetim,,경영/관리,management,noun,R2,N
-302,dil,,언어/혀,language,noun,R2,N
-303,takip,,추적/팔로우,follow,noun,R2,N
-304,tekrar,,다시,again,adv,R2,N
-305,parça,,조각/부분,piece,noun,R2,Y
-306,izlemek,,보다/시청하다,to watch,verb,R2,Y
-307,belki,,아마,maybe,adv,R2,N
-308,gazete,,신문,newspaper,noun,R2,Y
-309,getirmek,,가져오다,to bring,verb,R2,Y
-310,kafa,,머리,head,noun,R2,Y
-311,tür,,종류/장르,type,noun,R2,N
-312,yardımcı,,도우미/보조의,helper,noun,R2,N
-313,avrupa,,유럽,Europe,noun,R2,N
-314,ihtiyaç,,필요,need,noun,R2,N
-315,kısa,,짧은,short,adj,R2,Y
-316,aşk,,사랑,love,noun,R2,N
-317,kolay,,쉬운,easy,adj,R2,N
-318,geçen,,지난,last,adj,R2,N
-319,okumak,,읽다/공부하다,to read,verb,R2,Y
-320,ölüm,,죽음,death,noun,R2,N
-321,değer,,가치,value,noun,R2,N
-322,kalp,,심장/마음,heart,noun,R2,Y
-323,birçok,,많은/여러,many,det,R2,N
-324,arka,,뒤/등,back,noun,R2,Y
-325,yayın,,방송/출판,broadcast,noun,R2,N
-326,uygulamak,,적용하다/시행하다,to apply,verb,R2,N
-327,oynamak,,놀다/연기하다,to play,verb,R2,Y
-328,oda,,방,room,noun,R2,Y
-329,sağlamak,,제공하다/확보하다,to provide,verb,R2,N
-330,ardından,,~후에/뒤이어,after,postp,R2,N
-331,cevap,,대답,answer,noun,R2,N
-332,kapı,,문,door,noun,R2,Y
-333,kan,,피,blood,noun,R2,Y
-334,ora,,거기,there,pron,R2,N
-335,yardım,,도움,help,noun,R2,N
-336,çıkarmak,,꺼내다/벗다,to take out,verb,R2,Y
-337,etki,,영향/효과,effect,noun,R2,N
-338,bakan,,장관,minister,noun,R2,N
-339,pek,,매우/별로,very,adv,R2,N
-340,birbiri,,서로,each other,pron,R2,N
-341,ali,,알리(이름),Ali,noun,R2,N
-342,bence,,내 생각에,in my opinion,adv,R2,N
-343,rahat,,편안한,comfortable,adj,R2,Y
-344,yapı,,구조/건물,building,noun,R2,Y
-345,birlik,,연합/단결,union,noun,R2,N
-346,sanmak,,생각하다/여기다,to suppose,verb,R2,N
-347,milyon,,백만,million,num,R2,N
-348,ilişki,,관계,relationship,noun,R2,N
-349,düzenlemek,,정리하다/개최하다,to organize,verb,R2,N
-350,aslında,,사실은,actually,adv,R2,N
-351,yeniden,,다시/새로,again,adv,R2,N
-352,yoksa,,아니면/그렇지 않으면,otherwise,conj,R2,N
-353,öğrenci,,학생,student,noun,R2,Y
-354,hepsi,,모두/전부,all,pron,R2,N
-355,lazım,,필요한,necessary,adj,R2,N
-356,sağlık,,건강,health,noun,R2,N
-357,nere,,어디,where,pron,R2,N
-358,ait,,~에 속하는,belonging to,postp,R2,N
-359,eş,,배우자/짝,spouse,noun,R2,Y
-360,amaç,,목적,goal,noun,R2,N
-361,kaybetmek,,잃다/지다,to lose,verb,R2,N
-362,boyunca,,~동안/~을 따라,throughout,postp,R2,N
-363,video,,비디오/영상,video,noun,R2,N
-364,yarın,,내일,tomorrow,adv,R2,N
-365,kaynak,,출처/자원,source,noun,R2,N
-366,açmak,,열다/켜다,to open,verb,R2,Y
-367,ana,,어머니/주요한,mother,noun,R2,Y
-368,teknik,,기술적인/기술,technical,adj,R2,N
-369,üzeri,,위/표면,top,noun,R2,N
-370,yüzde,,퍼센트/~때문에,percent,noun,R2,N
-371,akşam,,저녁,evening,noun,R2,Y
-372,sabah,,아침,morning,noun,R2,Y
-373,gerçekten,,정말로,really,adv,R2,N
-374,sonunda,,결국/마침내,finally,adv,R2,N
-375,yaşam,,삶/생활,life,noun,R2,N
-376,beraber,,함께,together,adv,R2,N
-377,kaç,,몇/얼마,how many,ques,R2,N
-378,aday,,후보,candidate,noun,R2,N
-379,hızlı,,빠른,fast,adj,R2,Y
-380,merak,,호기심/궁금함,curiosity,noun,R2,N
-381,sebep,,이유/원인,reason,noun,R2,N
-382,araç,,수단/차량,vehicle,noun,R2,Y
-383,spor,,스포츠/운동,sport,noun,R2,Y
-384,dizi,,드라마/시리즈,TV series,noun,R2,N
-385,yalnız,,혼자/외로운/단지,alone,adj,R2,Y
-386,özellik,,특징,feature,noun,R2,N
-387,gelişmek,,발전하다,to develop,verb,R2,N
-388,b,,B(알파벳),letter b,noun,R2,N
-389,köy,,마을,village,noun,R2,Y
-390,nokta,,점/지점,dot,noun,R2,Y
-391,müzik,,음악,music,noun,R2,Y
-392,bey,,~씨/신사,mister,noun,R2,N
-393,asla,,결코,never,adv,R2,N
-394,birkaç,,몇몇의,a few,det,R2,N
-395,unutmak,,잊다,to forget,verb,R2,N
-396,uzak,,먼,far,adj,R2,Y
-397,yanlış,,틀린/잘못,wrong,adj,R2,N
-398,kültür,,문화,culture,noun,R2,N
-399,resim,,그림/사진,picture,noun,R2,Y
-400,lig,,리그,league,noun,R2,N
-401,içeri,,안/내부,inside,noun,R2,N
-402,kısım,,부분,part,noun,R2,N
-403,dört,,넷/4,four,num,R2,N
-404,futbol,,축구,football,noun,R2,Y
-405,fotoğraf,,사진,photo,noun,R2,Y
-406,s,,S(알파벳),letter s,noun,R2,N
-407,sosyal,,사회적인/사회의,social,adj,R2,N
-408,özellikle,,특히,especially,adv,R2,N
-409,araştırma,,연구/조사,research,noun,R2,N
-410,tane,,개(수량)/알,piece,noun,R2,N
-411,mücadele,,투쟁/싸움,struggle,noun,R2,N
-412,i̇zmir,,이즈미르,Izmir,noun,R3,N
-413,tamam,,알았어/좋아/전부,okay,interj,R3,N
-414,hadi,,자/어서,come on,interj,R3,N
-415,yanında,,~옆에/~와 함께,next to,postp,R3,N
-416,aşağı,,아래/아래쪽,down,adv,R3,N
-417,cumhuriyet,,공화국,republic,noun,R3,N
-418,millet,,국민/민족,nation,noun,R3,N
-419,saldırı,,공격,attack,noun,R3,N
-420,neden,,이유/왜,reason,noun,R3,N
-421,korumak,,지키다/보호하다,to protect,verb,R3,Y
-422,izin,,허락/휴가,permission,noun,R3,N
-423,bebek,,아기,baby,noun,R3,Y
-424,ün,,명성/유명(ünlü),fame,noun,R3,N
-425,temmuz,,7월,July,noun,R3,N
-426,süreç,,과정,process,noun,R3,N
-427,plan,,계획,plan,noun,R3,N
-428,güçlü,,강한,strong,adj,R3,Y
-429,dolar,,달러,dollar,noun,R3,Y
-430,sezon,,시즌,season,noun,R3,N
-431,numara,,번호/숫자,number,noun,R3,N
-432,anlatmak,,이야기하다/설명하다,to tell,verb,R3,Y
-433,rağmen,,~에도 불구하고,despite,postp,R3,N
-434,öğrenmek,,배우다/알게 되다,to learn,verb,R3,Y
-435,ifade,,표현/진술,expression,noun,R3,N
-436,öğretmen,,선생님,teacher,noun,R3,Y
-437,tutmak,,잡다/유지하다,to hold,verb,R3,Y
-438,toprak,,땅/흙,soil,noun,R3,Y
-439,kelime,,단어,word,noun,R3,N
-440,hazır,,준비된/이미,ready,adj,R3,N
-441,niye,,왜,why,ques,R3,N
-442,oldukça,,꽤/상당히,quite,adv,R3,N
-443,sevgili,,사랑하는/애인,dear,adj,R3,N
-444,top,,공,ball,noun,R3,Y
-445,yazar,,작가,writer,noun,R3,Y
-446,renk,,색,color,noun,R3,Y
-447,silâh,,무기/총,gun,noun,R3,Y
-448,gol,,골,goal,noun,R3,Y
-449,eylül,,9월,September,noun,R3,N
-450,dilemek,,바라다/빌다,to wish,verb,R3,N
-451,bayan,,여성/아가씨,lady,noun,R3,Y
-452,falan,,등등/아무개,and so on,pron,R3,N
-453,ayak,,발,foot,noun,R3,Y
-454,beri,,~이래로,since,postp,R3,N
-455,geçmiş,,과거/지난,past,noun,R3,N
-456,asker,,군인,soldier,noun,R3,Y
-457,madde,,물질/조항,substance,noun,R3,N
-458,sınır,,경계/국경,border,noun,R3,N
-459,mesaj,,메시지,message,noun,R3,Y
-460,kayıt,,기록/등록,record,noun,R3,N
-461,oğul,,아들,son,noun,R3,Y
-462,bilim,,과학,science,noun,R3,N
-463,güvenlik,,안전/보안,security,noun,R3,N
-464,proje,,프로젝트,project,noun,R3,N
-465,dr,,박사(Dr.),doctor title,noun,R3,N
-466,duymak,,듣다/느끼다,to hear,verb,R3,Y
-467,canlı,,살아 있는/생물,alive,adj,R3,N
-468,güneş,,해/태양,sun,noun,R3,Y
-469,açıklama,,설명/발표,explanation,noun,R3,N
-470,temel,,기본/기초,basic,adj,R3,N
-471,toplam,,합계/총,total,noun,R3,N
-472,kurul,,위원회,committee,noun,R3,N
-473,edinmek,,얻다/획득하다,to acquire,verb,R3,N
-474,belli,,분명한/일정한,certain,adj,R3,N
-475,hayvan,,동물,animal,noun,R3,Y
-476,yalan,,거짓말,lie,noun,R3,N
-477,on,,10/열,ten,num,R3,N
-478,dost,,친구,friend,noun,R3,Y
-479,bazen,,가끔,sometimes,adv,R3,N
-480,elde,,손에/~ etmek 얻다,in hand,adv,R3,N
-481,herhangi,,어떤/아무,any,det,R3,N
-482,yaklaşık,,약/대략,about,adv,R3,N
-483,adım,,걸음/단계,step,noun,R3,Y
-484,taşımak,,나르다/운반하다,to carry,verb,R3,Y
-485,sürmek,,계속되다/운전하다,to drive,verb,R3,Y
-486,dün,,어제,yesterday,adv,R3,N
-487,liste,,목록,list,noun,R3,Y
-488,tl,,터키 리라(TL),Turkish lira,noun,R3,Y
-489,sınıf,,교실/학년/계층,classroom,noun,R3,Y
-490,beyaz,,흰/하얀,white,adj,R3,Y
-491,millî,,국가의/국민의,national,adj,R3,N
-492,sene,,해/년,year,noun,R3,N
-493,geçirmek,,(시간을) 보내다/겪다,to spend time,verb,R3,N
-494,ışık,,빛,light,noun,R3,Y
-495,uluslararası,,국제적인,international,adj,R3,N
-496,yön,,방향/측면,direction,noun,R3,N
-497,toplum,,사회,society,noun,R3,N
-498,tabi,,물론/~에 종속된,of course,adv,R3,N
-499,hesap,,계산/계좌/계산서,bill,noun,R3,N
-500,sağ,,오른쪽/살아 있는,right,adj,R3,Y
-501,kapatmak,,닫다/끄다,to close,verb,R3,Y
-502,beş,,5/다섯,five,num,R3,N
-503,mehmet,,메흐메트,Mehmet,noun,R3,N
-504,acı,,아픈/매운/고통,pain,adj,R3,N
-505,üretmek,,생산하다,to produce,verb,R3,N
-506,koymak,,놓다/넣다,to put,verb,R3,Y
-507,artmak,,늘다/증가하다,to increase,verb,R3,N
-508,ruh,,영혼/정신,soul,noun,R3,N
-509,hissetmek,,느끼다,to feel,verb,R3,N
-510,nedeniyle,,~때문에,because of,postp,R3,N
-511,sanki,,마치,as if,adv,R3,N
-512,karşılık,,대답/대가,response,noun,R3,N
-513,şampiyon,,챔피언,champion,noun,R3,Y
-514,müdür,,국장/관리자,manager,noun,R3,Y
-515,yara,,상처,wound,noun,R3,Y
-516,inanmak,,믿다,to believe,verb,R3,N
-517,dava,,소송/대의,lawsuit,noun,R3,N
-518,suç,,죄/범죄,crime,noun,R3,N
-519,öldürmek,,죽이다,to kill,verb,R3,N
-520,duygu,,감정,emotion,noun,R3,N
-521,tamamen,,완전히,completely,adv,R3,N
-522,uygun,,적합한/알맞은,suitable,adj,R3,N
-523,yazı,,글/글씨,writing,noun,R3,N
-524,meydan,,광장,square,noun,R3,Y
-525,adana,,아다나(도시)/섬,Adana,noun,R3,N
-526,ücret,,요금/임금,fee,noun,R3,N
-527,değişik,,다양한/색다른,different,adj,R3,N
-528,tanımak,,(사람을) 알다/인정하다,to recognize,verb,R3,N
-529,gemi,,배(선박),ship,noun,R3,Y
-530,sokak,,거리/골목,street,noun,R3,Y
-531,oturmak,,앉다/살다,to sit,verb,R3,Y
-532,hayal,,꿈/상상,dream,noun,R3,N
-533,yarı,,반/절반,half,noun,R3,Y
-534,şans,,운/기회,luck,noun,R3,N
-535,böylece,,이렇게 하여,then,adv,R3,N
-536,resmî,,공식적인,official,adj,R3,N
-537,oran,,비율,ratio,noun,R3,N
-538,hastalık,,병/질병,illness,noun,R3,N
-539,lider,,지도자,leader,noun,R3,N
-540,emir,,명령,order,noun,R3,N
-541,derece,,정도/도,degree,noun,R3,N
-542,ciddi,,진지한/심각한,serious,adj,R3,N
-543,mustafa,,무스타파,Mustafa,noun,R3,N
-544,ceza,,벌/처벌,punishment,noun,R3,N
-545,model,,모델,model,noun,R3,N
-546,yıldız,,별,star,noun,R3,Y
-547,sürekli,,계속되는/끊임없이,constant,adj,R3,N
-548,satın,,사다(satın al-),buy,adv,R3,N
-549,i̇slâm,,이슬람,Islam,noun,R3,N
-550,erdoğan,,에르도안,Erdogan,noun,R3,N
-551,suriye,,시리아,Syria,noun,R3,N
-552,anadolu,,아나톨리아,Anatolia,noun,R3,N
-553,hikâye,,이야기,story,noun,R3,N
-554,çevre,,환경/주변,environment,noun,R3,N
-555,sormak,,묻다,to ask,verb,R3,Y
-556,ahmet,,아흐메트,Ahmet,noun,R3,N
-557,normal,,보통의/정상적인,normal,adj,R3,N
-558,günlük,,매일의/일기,daily,adj,R3,N
-559,nisan,,4월,April,noun,R3,N
-560,yeter,,충분한/그만,enough,adj,R3,N
-561,dolayı,,~때문에,due to,postp,R3,N
-562,ziyaret,,방문,visit,noun,R3,N
-563,tv,,TV/텔레비전,TV,noun,R3,Y
-564,mart,,3월,March,noun,R3,N
-565,ayrılmak,,떠나다/헤어지다,to leave,verb,R3,Y
-566,zarar,,피해/손해,damage,noun,R3,N
-567,bina,,건물,building,noun,R3,Y
-568,harika,,훌륭한/멋진,wonderful,adj,R3,N
-569,hata,,실수/오류,mistake,noun,R3,N
-570,dolu,,가득한,full,adj,R3,Y
-571,hastane,,병원,hospital,noun,R3,Y
-572,fikir,,생각/의견,idea,noun,R3,N
-573,altı,,6/~의 아래,six,num,R3,N
-574,örgüt,,조직,organization,noun,R3,N
-575,ortak,,공동의/동업자,shared,adj,R3,N
-576,çeşitli,,다양한,various,adj,R3,N
-577,birinci,,첫째/1등,first,num,R3,N
-578,dinlemek,,듣다/경청하다,to listen,verb,R3,Y
-579,ateş,,불/열,fire,noun,R3,Y
-580,otel,,호텔,hotel,noun,R3,Y
-581,kent,,도시,city,noun,R3,Y
-582,uçak,,비행기,airplane,noun,R3,Y
-583,elektrik,,전기,electricity,noun,R3,Y
-584,işlemek,,처리하다/저지르다,to process,verb,R3,N
-585,ödül,,상,prize,noun,R3,Y
-586,araba,,자동차,car,noun,R3,Y
-587,vakit,,시간,time,noun,R3,N
-588,ürün,,제품/생산물,product,noun,R3,N
-589,boş,,빈/한가한,empty,adj,R3,Y
-590,göndermek,,보내다,to send,verb,R3,Y
-591,açıklamak,,설명하다/발표하다,to explain,verb,R3,N
-592,çoğu,,대부분,most,det,R3,N
-593,enerji,,에너지,energy,noun,R3,N
-594,ordu,,군대,army,noun,R3,Y
-595,ilân,,공고/광고/선포,announcement,noun,R3,N
-596,şiir,,시,poem,noun,R3,N
-597,iddia,,주장,claim,noun,R3,N
-598,örnek,,예/본보기,example,noun,R3,N
-599,ayrı,,별개의/따로,separate,adj,R3,N
-600,hatta,,심지어,even,conj,R3,N
-601,ekip,,팀,team,noun,R3,Y
-602,yarışmak,,경쟁하다/대회,to compete,verb,R3,Y
-603,doğum,,출생,birth,noun,R3,N
-604,din,,종교,religion,noun,R3,N
-605,kral,,왕,king,noun,R3,Y
-606,medya,,미디어,media,noun,R3,N
-607,kurum,,기관,institution,noun,R3,N
-608,asıl,,진짜/본래,real,adj,R3,N
-609,hedef,,목표,target,noun,R3,Y
-610,lise,,고등학교,high school,noun,R3,Y
-611,amerika,,미국,America,noun,R3,N
-612,müslüman,,무슬림,Muslim,noun,R3,N
-613,şöyle,,이렇게/다음과 같이,like this,adv,R3,N
-614,sayın,,존경하는(호칭),honorable,adj,R3,N
-615,dâhil,,포함하여,including,adv,R3,N
-616,meclis,,의회,parliament,noun,R3,N
-617,gülmek,,웃다,to laugh,verb,R3,Y
-618,hukuk,,법/법률,law,noun,R3,N
-619,emin,,확신하는/안전한,sure,adj,R3,N
-620,i̇nternet,,인터넷,internet,noun,R3,N
-621,saç,,머리카락,hair,noun,R3,Y
-622,cumhurbaşkanı,,대통령,president,noun,R3,N
-623,yayınlamak,,출판하다/방송하다,to publish,verb,R3,N
-624,başbakan,,총리,prime minister,noun,R3,N
-625,bakanlık,,부처/장관직,ministry,noun,R3,N
-626,tatlı,,달콤한/디저트,sweet,adj,R3,Y
-627,mal,,재산/물건,goods,noun,R3,N
-628,yükselmek,,오르다,to rise,verb,R3,N
-629,ilgi,,관심,interest,noun,R3,N
-630,mümkün,,가능한,possible,adj,R3,N
-631,paylaşmak,,나누다/공유하다,to share,verb,R3,Y
-632,yıllık,,연간의/1년의,annual,adj,R3,N
-633,mahalle,,동네,neighborhood,noun,R3,Y
-634,herşey,,모든 것,everything,pron,R3,N
-635,ağustos,,8월,August,noun,R3,N
-636,be,,야/이봐,hey,interj,R3,N
-637,ağır,,무거운/심한,heavy,adj,R3,Y
-638,gelin,,신부/며느리,bride,noun,R3,Y
-639,atatürk,,아타튀르크,Ataturk,noun,R3,N
-640,boy,,키/길이,height,noun,R3,Y
-641,park,,공원/주차,park,noun,R3,Y
-642,geç,,늦게/늦은,late,adv,R3,N
-643,kanal,,채널/운하,channel,noun,R3,N
-644,bilgisayar,,컴퓨터,computer,noun,R3,Y
-645,mükemmel,,완벽한,perfect,adj,R3,N
-646,kulüp,,클럽,club,noun,R3,N
-647,süper,,최고의/멋진,super,adj,R3,N
-648,kadro,,명단/구성원,staff,noun,R3,N
-649,defa,,번/회,time,noun,R3,N
-650,türkçe,,터키어,Turkish,noun,R3,N
-651,ağız,,입,mouth,noun,R3,Y
-652,ileri,,앞으로/앞,forward,adv,R3,N
-653,düşünce,,생각,thought,noun,R3,N
-654,kesin,,확실한,certain,adj,R3,N
-655,açı,,각도/관점,angle,noun,R3,N
-656,doğu,,동쪽,east,noun,R3,N
-657,varlık,,존재/재산,existence,noun,R3,N
-658,yapım,,제작,production,noun,R3,N
-659,iz,,흔적,trace,noun,R3,N
-660,hoş,,좋은/즐거운,nice,adj,R3,N
-661,web,,웹,web,noun,R3,N
-662,sahne,,무대/장면,stage,noun,R3,Y
-663,haziran,,6월,June,noun,R3,N
-664,sınav,,시험,exam,noun,R3,Y
-665,oy,,표/투표,vote,noun,R3,Y
-666,kural,,규칙,rule,noun,R3,N
-667,beyin,,뇌,brain,noun,R3,Y
-668,nefret,,증오,hatred,noun,R3,N
-669,temiz,,깨끗한,clean,adj,R3,Y
-670,sırasında,,~하는 동안,during,postp,R3,N
-671,üretim,,생산,production,noun,R3,N
-672,tip,,유형/타입,type,noun,R3,N
-673,hasta,,아픈/환자,sick,adj,R3,Y
-674,gizli,,비밀의,secret,adj,R3,N
-675,korkmak,,두려워하다,to fear,verb,R3,Y
-676,taş,,돌,stone,noun,R3,Y
-677,kemal,,케말,Kemal,noun,R3,N
-678,tanrı,,신,god,noun,R3,N
-679,büyümek,,자라다/커지다,to grow,verb,R3,Y
-680,puan,,점수,score,noun,R3,N
-681,fenerbahçe,,페네르바흐체,Fenerbahce,noun,R3,N
-682,engel,,장애물,obstacle,noun,R3,Y
-683,aralık,,12월/간격,December,noun,R3,N
-684,saygı,,존경,respect,noun,R3,N
-685,peki,,좋아/그럼,well then,interj,R3,N
-686,kurmak,,세우다/설립하다,to build,verb,R3,Y
-687,kol,,팔,arm,noun,R3,Y
-688,düşman,,적,enemy,noun,R3,N
-689,balık,,물고기,fish,noun,R3,Y
-690,etkin,,활동적인/효과적인,active,adj,R3,N
-691,yolcu,,승객/여행자,passenger,noun,R3,Y
-692,ocak,,1월/화덕,January,noun,R3,N
-693,siyasî,,정치적인,political,adj,R3,N
-694,güvenmek,,믿다/신뢰하다,to trust,verb,R3,N
-695,pazar,,시장/일요일,market,noun,R3,Y
-696,sevgi,,사랑/애정,love,noun,R3,N
-697,doktor,,의사,doctor,noun,R3,Y
-698,kuzey,,북쪽,north,noun,R3,N
-699,itibaren,,~부터,starting from,postp,R3,N
-700,kesinlikle,,확실히/절대로,definitely,adv,R3,N
-701,saha,,경기장/분야,field,noun,R3,Y
-702,yabancı,,외국의/외국인,foreign,adj,R3,N
-703,askerî,,군사의,military,adj,R3,N
-704,barış,,평화/화해,peace,noun,R3,N
-705,karakter,,성격/캐릭터,character,noun,R3,N
-706,mayıs,,5월,May,noun,R3,N
-707,kat,,층/겹,floor,noun,R3,N
-708,almanya,,독일,Germany,noun,R3,N
-709,dışarı,,밖/밖으로,outside,adv,R3,N
-710,sayfa,,페이지,page,noun,R3,Y
-711,giriş,,입구/도입,entrance,noun,R3,Y
-712,hoca,,선생님/스승,teacher,noun,R3,Y
-713,merhaba,,안녕하세요,hello,interj,R3,N
-714,kasım,,11월,November,noun,R3,N
-715,ak,,흰,white,adj,R3,Y
-716,görünmek,,보이다,to appear,verb,R3,N
-717,köpek,,개,dog,noun,R3,Y
-718,işlem,,처리/절차,operation,noun,R3,N
-719,ek,,추가의/부록,extra,adj,R3,N
-720,içermek,,포함하다,to contain,verb,R3,N
-721,acaba,,과연/~일까,I wonder,adv,R3,N
-722,bağlantı,,연결/링크,connection,noun,R3,N
-723,galatasaray,,갈라타사라이,Galatasaray,noun,R3,N
-724,şubat,,2월,February,noun,R3,N
-725,satış,,판매,sale,noun,R3,N
-726,banka,,은행,bank,noun,R3,Y
-727,yerinde,,제자리에/적절한,in place,adj,R3,N
-728,erken,,일찍/이른,early,adv,R3,N
-729,yukarı,,위/위로,up,adv,R3,N
-730,yöntem,,방법,method,noun,R3,N
-731,tehlike,,위험,danger,noun,R3,N
-732,kullanım,,사용,use,noun,R3,N
-733,ölü,,죽은/시체,dead,adj,R3,N
-734,motor,,엔진/오토바이,engine,noun,R3,Y
-735,yalnızca,,오직/단지,only,adv,R3,N
-736,ekim,,10월,October,noun,R3,N
-737,hükümet,,정부,government,noun,R3,N
-738,yorum,,해석/댓글,comment,noun,R3,N
-739,mahkeme,,법원,court,noun,R3,Y
-740,üçüncü,,셋째,third,num,R3,N
-741,belirtmek,,밝히다/언급하다,to state,verb,R3,N
-742,aydın,,밝은/지식인,bright,adj,R3,N
-743,rusya,,러시아,Russia,noun,R3,N
-744,kırmızı,,빨간,red,adj,R3,Y
-745,koca,,남편/거대한,husband,noun,R3,Y
-746,toplantı,,회의,meeting,noun,R3,Y
-747,hazırlamak,,준비하다,to prepare,verb,R3,N
-748,kara,,검은/육지,black,adj,R3,Y
-749,güney,,남쪽,south,noun,R3,N
-750,osmanlı,,오스만(제국)의,Ottoman,adj,R3,N
-751,kuruluş,,설립/기관,foundation,noun,R3,N
-752,hediye,,선물,gift,noun,R3,Y
-753,dair,,~에 관한,about,postp,R3,N
-754,neyse,,어쨌든/됐어,anyway,interj,R3,N
-755,vatandaş,,시민/국민,citizen,noun,R3,N
-756,siyaset,,정치,politics,noun,R3,N
-757,seviye,,수준/레벨,level,noun,R3,N
-758,yatak,,침대,bed,noun,R3,Y
-759,düzen,,질서/체계,order,noun,R3,N
-760,adalet,,정의,justice,noun,R3,N
-761,yasa,,법률,law,noun,R3,N
-762,dönüşmek,,변하다/바뀌다,to transform,verb,R3,N
-763,duvar,,벽,wall,noun,R3,Y
-764,teknoloji,,기술,technology,noun,R3,N
-765,mühendis,,기술자/엔지니어,engineer,noun,R3,Y
-766,çift,,쌍/커플,couple,noun,R3,Y
-767,ermeni,,아르메니아인,Armenian,noun,R3,N
-768,ağaç,,나무,tree,noun,R3,Y
-769,çay,,차,tea,noun,R3,Y
-770,ekonomi,,경제,economy,noun,R3,N
-771,hat,,선/노선,line,noun,R3,N
-772,john,,존,John,noun,R3,N
-773,beşiktaş,,베식타시,Besiktas,noun,R4,N
-774,serbest,,자유로운,free,adj,R4,N
-775,tercih,,선택/선호,preference,noun,R4,N
-776,kart,,카드,card,noun,R4,Y
-777,yürümek,,걷다,to walk,verb,R4,Y
-778,iletişim,,소통/연락,communication,noun,R4,N
-779,yedi,,7/일곱,seven,num,R4,N
-780,chp,,공화인민당(CHP),CHP,noun,R4,N
-781,sıcak,,더운/뜨거운,hot,adj,R4,Y
-782,görüntü,,영상/모습,image,noun,R4,N
-783,geniş,,넓은,wide,adj,R4,Y
-784,operasyon,,작전/수술,operation,noun,R4,N
-785,adına,,~의 이름으로/~을 위해,on behalf of,postp,R4,N
-786,vurmak,,때리다/치다,to hit,verb,R4,Y
-787,yoğun,,짙은/집중적인/바쁜,intense,adj,R4,N
-788,selam,,인사/안녕,hello,noun,R4,Y
-789,kere,,번/회,time,noun,R4,N
-790,biçim,,형태/방식,form,noun,R4,N
-791,kuvvet,,힘/병력,strength,noun,R4,N
-792,rapor,,보고서,report,noun,R4,Y
-793,yana,,~쪽으로/~이래로,since,postp,R4,N
-794,fakülte,,단과대학,faculty,noun,R4,N
-795,sol,,왼쪽/왼,left,adj,R4,Y
-796,seks,,성관계/섹스,sex,noun,R4,N
-797,güven,,신뢰/안전,trust,noun,R4,N
-798,anlaşma,,합의/협정,agreement,noun,R4,N
-799,henüz,,아직/방금,yet,adv,R4,N
-800,rol,,역할,role,noun,R4,N
-801,birşey,,무언가/어떤 것,something,pron,R4,N
-802,ummak,,바라다/희망하다,to hope,verb,R4,N
-803,birim,,단위/부서,unit,noun,R4,N
-804,sık,,잦은/빽빽한,frequent,adj,R4,N
-805,kânun,,법/법률,law,noun,R4,N
-806,kalkmak,,일어나다/출발하다,to get up,verb,R4,Y
-807,doğal,,자연스러운/자연의,natural,adj,R4,N
-808,dağ,,산,mountain,noun,R4,Y
-809,terör,,테러,terror,noun,R4,N
-810,ticaret,,무역/상업,trade,noun,R4,N
-811,teklif,,제안/제의,offer,noun,R4,N
-812,kayıp,,손실/분실/실종,loss,noun,R4,N
-813,milletvekili,,국회의원,member of parliament,noun,R4,Y
-814,batı,,서쪽/서양,west,noun,R4,N
-815,faaliyet,,활동,activity,noun,R4,N
-816,mevcut,,존재하는/현재의,existing,adj,R4,N
-817,çekilmek,,끌리다/물러나다/찍히다,to withdraw,verb,R4,N
-818,nefes,,숨/호흡,breath,noun,R4,Y
-819,korku,,두려움/공포,fear,noun,R4,Y
-820,tatil,,휴가/방학,holiday,noun,R4,Y
-821,tespit,,확인/발견,detection,noun,R4,N
-822,savunma,,방어/변호,defense,noun,R4,N
-823,dert,,걱정/고민,trouble,noun,R4,N
-824,türlü,,갖가지의/종류,various,adj,R4,N
-825,acil,,긴급한/응급,urgent,adj,R4,N
-826,dinî,,종교적인,religious,adj,R4,N
-827,kaza,,사고,accident,noun,R4,Y
-828,kahve,,커피,coffee,noun,R4,Y
-829,huzur,,평온/안정,peace,noun,R4,N
-830,eser,,작품/저작,work,noun,R4,N
-831,tedavi,,치료,treatment,noun,R4,Y
-832,vücut,,몸/신체,body,noun,R4,Y
-833,tasarım,,디자인/설계,design,noun,R4,N
-834,darbe,,타격/쿠데타,blow,noun,R4,N
-835,umut,,희망,hope,noun,R4,N
-836,sefer,,번/회/원정,time,noun,R4,N
-837,şiddet,,폭력/강도,violence,noun,R4,N
-838,of,,아이고/휴(한숨),ugh,interj,R4,N
-839,fırsat,,기회,opportunity,noun,R4,N
-840,gösteri,,공연/시위,show,noun,R4,Y
-841,kaçmak,,도망치다/놓치다,to run away,verb,R4,Y
-842,makine,,기계,machine,noun,R4,Y
-843,vali,,도지사,governor,noun,R4,N
-844,kur'an,,코란,Quran,noun,R4,N
-845,imkân,,가능성/기회,possibility,noun,R4,N
-846,dernek,,협회/단체,association,noun,R4,N
-847,soğuk,,차가운/추운,cold,adj,R4,Y
-848,siyah,,검은/검정,black,adj,R4,Y
-849,i̇ran,,이란,Iran,noun,R4,N
-850,eylem,,행동/시위/동사,action,noun,R4,N
-851,dua,,기도,prayer,noun,R4,Y
-852,dalga,,파도/물결,wave,noun,R4,Y
-853,yüzünden,,~때문에,because of,postp,R4,N
-854,i̇ngilizce,,영어,English,noun,R4,N
-855,seçmek,,고르다/선택하다,to choose,verb,R4,Y
-856,rüya,,꿈,dream,noun,R4,Y
-857,etraf,,주위/주변,surroundings,noun,R4,N
-858,seri,,시리즈/연속/빠른,series,noun,R4,N
-859,ortam,,환경/분위기,environment,noun,R4,N
-860,yeterli,,충분한,enough,adj,R4,N
-861,anı,,추억/기억,memory,noun,R4,N
-862,sessiz,,조용한,quiet,adj,R4,Y
-863,çıkış,,출구/나감,exit,noun,R4,Y
-864,denemek,,시도하다/시험하다,to try,verb,R4,N
-865,karşılaşmak,,마주치다/맞붙다,to encounter,verb,R4,N
-866,doğmak,,태어나다/(해가) 뜨다,to be born,verb,R4,Y
-867,salon,,홀/거실,living room,noun,R4,Y
-868,eğlence,,오락/재미,fun,noun,R4,N
-869,idare,,관리/행정,administration,noun,R4,N
-870,reklâm,,광고,advertisement,noun,R4,Y
-871,kapalı,,닫힌/꺼진,closed,adj,R4,Y
-872,ya da,,또는,or,conj,R4,N
-873,gönül,,마음,heart,noun,R4,N
-874,tarz,,스타일/방식,style,noun,R4,N
-875,kupa,,컵/트로피,trophy,noun,R4,Y
-876,hatırlamak,,기억하다,to remember,verb,R4,N
-877,i̇srail,,이스라엘,Israel,noun,R4,N
-878,çiçek,,꽃,flower,noun,R4,Y
-879,politika,,정책/정치,politics,noun,R4,N
-880,yavaş,,느린/천천히,slow,adj,R4,Y
-881,mesele,,문제/사안,issue,noun,R4,N
-882,tamamlamak,,완성하다/마치다,to complete,verb,R4,N
-883,zengin,,부유한/풍부한,rich,adj,R4,Y
-884,bayrak,,깃발/국기,flag,noun,R4,Y
-885,basit,,간단한/단순한,simple,adj,R4,N
-886,yetenek,,재능/능력,talent,noun,R4,N
-887,yönetmek,,관리하다/운영하다,to manage,verb,R4,N
-888,muhteşem,,멋진/훌륭한,wonderful,adj,R4,N
-889,transfer,,이적/이전,transfer,noun,R4,N
-890,bağımsız,,독립한/독립적인,independent,adj,R4,N
-891,kimi,,일부/어떤 이,some,det,R4,N
-892,amerikan,,미국의,American,adj,R4,N
-893,istek,,바람/요청,request,noun,R4,N
-894,bahçe,,정원,garden,noun,R4,Y
-895,hız,,속도,speed,noun,R4,Y
-896,televizyon,,텔레비전,television,noun,R4,Y
-897,ulusal,,국가의/민족의,national,adj,R4,N
-898,işçi,,노동자,worker,noun,R4,Y
-899,doğan,,도안(인명)/태어난,Dogan,noun,R4,N
-900,çalmak,,훔치다/연주하다/울리다,to steal,verb,R4,Y
-901,kulak,,귀,ear,noun,R4,Y
-902,ortalama,,평균/평균의,average,noun,R4,N
-903,deli,,미친,crazy,adj,R4,N
-904,bayram,,명절/축제,holiday,noun,R4,N
-905,aktif,,활동적인/활성,active,adj,R4,N
-906,üstüne,,~위에/~에 대해,on top of,postp,R4,N
-907,kişilik,,성격/인격,personality,noun,R4,N
-908,zevk,,즐거움/취향,pleasure,noun,R4,N
-909,kürt,,쿠르드인,Kurd,noun,R4,N
-910,yatmak,,눕다/자다,to lie down,verb,R4,Y
-911,benzer,,비슷한,similar,adj,R4,N
-912,kilo,,킬로/체중,kilogram,noun,R4,N
-913,bol,,풍부한/넉넉한,plenty,adj,R4,N
-914,adet,,개/관습,piece,noun,R4,N
-915,not,,메모/점수,note,noun,R4,Y
-916,ekonomik,,경제적인,economic,adj,R4,N
-917,online,,온라인,online,adj,R4,N
-918,yerel,,지역의/현지의,local,adj,R4,N
-919,peş,,뒤/뒤쫓음,behind,noun,R4,N
-920,baskı,,압력/인쇄/판,pressure,noun,R4,N
-921,iktidar,,권력/집권,power,noun,R4,N
-922,sözleşme,,계약,contract,noun,R4,Y
-923,düşük,,낮은,low,adj,R4,Y
-924,escort,,에스코트,escort,noun,R4,N
-925,burs,,장학금,scholarship,noun,R4,N
-926,gerekli,,필요한,necessary,adj,R4,N
-927,tepki,,반응,reaction,noun,R4,N
-928,değerli,,소중한/귀중한,valuable,adj,R4,N
-929,şehit,,순교자/전사자,martyr,noun,R4,N
-930,basın,,언론/보도,press,noun,R4,N
-931,tarım,,농업,agriculture,noun,R4,Y
-932,tabiî,,물론,of course,adv,R4,N
-933,borç,,빚,debt,noun,R4,N
-934,işaret,,표시/신호,sign,noun,R4,Y
-935,geliştirmek,,개발하다/발전시키다,to develop,verb,R4,N
-936,servis,,서비스/셔틀,service,noun,R4,N
-937,uyku,,잠,sleep,noun,R4,Y
-938,karışmak,,섞이다/간섭하다,to mix,verb,R4,N
-939,girişim,,시도/벤처기업,initiative,noun,R4,N
-940,teslim,,인도/제출/항복,delivery,noun,R4,N
-941,yaratmak,,창조하다/만들어내다,to create,verb,R4,N
-942,sunmak,,제공하다/발표하다,to present,verb,R4,N
-943,no,,번호(No.),number,noun,R4,N
-944,orman,,숲,forest,noun,R4,Y
-945,özgürlük,,자유,freedom,noun,R4,N
-946,performans,,성과/공연,performance,noun,R4,N
-947,fizik,,물리/신체,physics,noun,R4,N
-948,tahmin,,추측/예측,guess,noun,R4,N
-949,ince,,얇은/가는,thin,adj,R4,Y
-950,davet,,초대,invitation,noun,R4,Y
-951,meslek,,직업,profession,noun,R4,N
-952,ilerlemek,,나아가다/진보하다,to advance,verb,R4,N
-953,galiba,,아마,probably,adv,R4,N
-954,içmek,,마시다,to drink,verb,R4,Y
-955,etkilemek,,영향을 주다,to affect,verb,R4,N
-956,kahraman,,영웅,hero,noun,R4,Y
-957,uç,,끝/첨단,tip,noun,R4,N
-958,kuru,,마른/건조한,dry,adj,R4,Y
-959,patlamak,,터지다/폭발하다,to explode,verb,R4,Y
-960,şart,,조건/필수,condition,noun,R4,N
-961,bahsetmek,,언급하다/말하다,to mention,verb,R4,N
-962,sigara,,담배,cigarette,noun,R4,Y
-963,ekran,,화면,screen,noun,R4,Y
-964,test,,시험/테스트,test,noun,R4,Y
-965,kalite,,품질,quality,noun,R4,N
-966,sıkıntı,,곤란/괴로움,distress,noun,R4,N
-967,mavi,,파란,blue,adj,R4,Y
-968,tur,,투어/회전/라운드,tour,noun,R4,N
-969,kurt,,늑대,wolf,noun,R4,Y
-970,miktar,,양/분량,amount,noun,R4,N
-971,karanlık,,어두운/어둠,dark,adj,R4,Y
-972,dayanmak,,견디다/근거하다,to endure,verb,R4,N
-973,genellikle,,보통/대개,usually,adv,R4,N
-974,günaydın,,좋은 아침,good morning,interj,R4,Y
-975,gaz,,가스,gas,noun,R4,N
-976,saray,,궁전,palace,noun,R4,Y
-977,kurtulmak,,벗어나다/구조되다,to escape,verb,R4,N
-978,mezun,,졸업한/졸업생,graduate,adj,R4,Y
-979,yeşil,,초록의,green,adj,R4,Y
-980,âşık,,사랑에 빠진/음유시인,in love,adj,R4,Y
-981,toplamak,,모으다,to collect,verb,R4,Y
-982,final,,결승/기말,final,noun,R4,N
-983,hücre,,세포/독방,cell,noun,R4,N
-984,derin,,깊은,deep,adj,R4,Y
-985,dans,,춤,dance,noun,R4,Y
-986,profesyonel,,전문적인/프로,professional,adj,R4,N
-987,kapsam,,범위,scope,noun,R4,N
-988,çin,,중국,China,noun,R4,Y
-989,sinema,,영화관/영화,cinema,noun,R4,Y
-990,sultan,,술탄,sultan,noun,R4,Y
-991,sarı,,노란,yellow,adj,R4,Y
-992,cihaz,,기기/장치,device,noun,R4,Y
-993,aynen,,그대로/맞아,exactly,adv,R4,N
-994,kişisel,,개인적인,personal,adj,R4,N
-995,nerede,,어디에,where,ques,R4,N
-996,sert,,딱딱한/거친,hard,adj,R4,N
-997,dergi,,잡지,magazine,noun,R4,Y
-998,metin,,텍스트/본문,text,noun,R4,N
-999,öğretim,,교육,teaching,noun,R4,N
-1000,giymek,,입다,to wear,verb,R4,Y
-1001,adres,,주소,address,noun,R4,N
-1002,kenar,,가장자리/옆,edge,noun,R4,N
-1003,katılım,,참여,participation,noun,R4,N
-1004,birleşmek,,합쳐지다/통합하다,to unite,verb,R4,N
-1005,sikmek,,성교하다(비속어),to fuck,verb,R4,N
-1006,talep,,요구/수요,demand,noun,R4,N
-1007,seçilmek,,선출되다/선택되다,to be elected,verb,R4,N
-1008,antalya,,안탈리아,Antalya,noun,R4,N
-1009,malzeme,,재료,material,noun,R4,N
-1010,ilâç,,약,medicine,noun,R4,Y
-1011,fatih,,정복자/파티흐,Fatih,noun,R4,N
-1012,sayesinde,,~덕분에,thanks to,postp,R4,N
-1013,efendi,,주인/나리,master,noun,R4,N
-1014,öte,,~너머/저쪽,beyond,postp,R4,N
-1015,eksik,,부족한/모자란,missing,adj,R4,N
-1016,koku,,냄새,smell,noun,R4,Y
-1017,kurban,,희생/제물,sacrifice,noun,R4,N
-1018,dosya,,파일/서류,file,noun,R4,Y
-1019,köşe,,모퉁이/구석,corner,noun,R4,Y
-1020,arap,,아랍인,Arab,noun,R4,N
-1021,mü,,~까?(의문),question particle,ques,R4,N
-1022,un,,밀가루,flour,noun,R4,Y
-1023,net,,분명한/순(net),clear,adj,R4,N
-1024,kamu,,공공,public,noun,R4,N
-1025,imza,,서명,signature,noun,R4,Y
-1026,uyanmak,,깨다/일어나다,to wake up,verb,R4,Y
-1027,atılmak,,던져지다/쫓겨나다,to be thrown,verb,R4,N
-1028,kesmek,,자르다,to cut,verb,R4,Y
-1029,problem,,문제,problem,noun,R4,N
-1030,birden,,갑자기,suddenly,adv,R4,N
-1031,günde,,하루에,per day,adv,R4,N
-1032,örneğin,,예를 들어,for example,adv,R4,N
-1033,tehdit,,위협,threat,noun,R4,N
-1034,gelenek,,전통,tradition,noun,R4,N
-1035,otobüs,,버스,bus,noun,R4,Y
-1036,meselâ,,예를 들어,for example,adv,R4,N
-1037,anayasa,,헌법,constitution,noun,R4,N
-1038,hâkim,,판사/지배적인,judge,noun,R4,Y
-1039,daire,,원/아파트/부서,apartment,noun,R4,Y
-1040,yılmaz,,이을마즈(성),Yilmaz,noun,R4,N
-1041,heyecan,,흥분/설렘,excitement,noun,R4,Y
-1042,fiyat,,가격,price,noun,R4,Y
-1043,kavga,,싸움,fight,noun,R4,Y
-1044,köprü,,다리,bridge,noun,R4,Y
-1045,tören,,의식/식,ceremony,noun,R4,Y
-1046,silmek,,지우다/닦다,to wipe,verb,R4,Y
-1047,başlangıç,,시작,beginning,noun,R4,N
-1048,ha,,아/그래,oh,interj,R4,N
-1049,keşke,,~라면 좋을 텐데,if only,interj,R4,N
-1050,yarım,,반/절반,half,adj,R4,Y
-1051,boyut,,크기/차원,size,noun,R4,N
-1052,aşırı,,지나친/과도한,excessive,adj,R4,N
-1053,düzey,,수준,level,noun,R4,N
-1054,kamera,,카메라,camera,noun,R4,Y
-1055,gurur,,자부심,pride,noun,R4,N
-1056,hasan,,하산(인명),Hasan,noun,R4,N
-1057,kış,,겨울,winter,noun,R4,Y
-1058,bomba,,폭탄,bomb,noun,R4,Y
-1059,masa,,책상/탁자,table,noun,R4,Y
-1060,uyumak,,자다,to sleep,verb,R4,Y
-1061,katkı,,기여/첨가물,contribution,noun,R4,N
-1062,uzman,,전문가,expert,noun,R4,N
-1063,keyif,,기분/즐거움,enjoyment,noun,R4,N
-1064,tartışmak,,논쟁하다/토론하다,to argue,verb,R4,Y
-1065,i̇ngiltere,,영국,England,noun,R4,Y
-1066,kedi,,고양이,cat,noun,R4,Y
-1067,yönelik,,~을 향한/~대상의,aimed at,postp,R4,N
-1068,ah,,아,ah,interj,R4,N
-1069,yerli,,현지의/토착의,local,adj,R4,N
-1070,onur,,명예/자존심,honor,noun,R4,N
-1071,konum,,위치,location,noun,R4,N
-1072,görüşme,,회담/면담,meeting,noun,R4,Y
-1073,satmak,,팔다,to sell,verb,R4,Y
-1074,uzay,,우주,space,noun,R4,Y
-1075,eşit,,같은/동등한,equal,adj,R4,N
-1076,karı,,아내,wife,noun,R4,Y
-1077,yüzyıl,,세기,century,noun,R4,N
-1078,ayırmak,,나누다/분리하다,to separate,verb,R4,N
-1079,komutan,,사령관,commander,noun,R4,Y
-1080,devrim,,혁명,revolution,noun,R4,N
-1081,inşa,,건설,construction,noun,R4,Y
-1082,albüm,,앨범,album,noun,R4,Y
-1083,kusur,,결점/잘못,flaw,noun,R4,N
-1084,gündem,,의제/화제,agenda,noun,R4,N
-1085,boyun,,목,neck,noun,R4,Y
-1086,modern,,현대의,modern,adj,R4,N
-1087,sorumlu,,책임 있는/책임자,responsible,adj,R4,N
-1088,hanım,,부인/여사,lady,noun,R4,Y
-1089,terk,,떠남/버림,abandonment,noun,R4,N
-1090,yük,,짐/부담,load,noun,R4,Y
-1091,tiyatro,,극장/연극,theater,noun,R4,Y
-1092,memur,,공무원,civil servant,noun,R4,Y
-1093,tavsiye,,추천/조언,advice,noun,R4,N
-1094,planlamak,,계획하다,to plan,verb,R4,N
-1095,yanmak,,타다/불붙다,to burn,verb,R4,Y
-1096,dek,,~까지,until,postp,R4,N
-1097,çözüm,,해결책,solution,noun,R4,N
-1098,edebiyat,,문학,literature,noun,R4,N
-1099,ömür,,일생/수명,lifetime,noun,R4,N
-1100,belge,,문서/서류,document,noun,R4,Y
-1101,düğün,,결혼식,wedding,noun,R4,Y
-1102,kimlik,,신분/정체성,identity,noun,R4,N
-1103,doğa,,자연,nature,noun,R4,Y
-1104,nüfus,,인구,population,noun,R4,N
-1105,deri,,가죽/피부,leather,noun,R4,Y
-1106,aç,,배고픈,hungry,adj,R4,Y
-1107,mutlaka,,반드시,definitely,adv,R4,N
-1108,saymak,,세다/여기다,to count,verb,R4,Y
-1109,murat,,무라트(인명)/소원,Murat,noun,R4,N
-1110,inanç,,믿음/신념,belief,noun,R4,N
-1111,yaka,,옷깃/해안,collar,noun,R4,Y
-1112,kurtarmak,,구하다,to rescue,verb,R4,Y
-1113,kuş,,새,bird,noun,R4,Y
-1114,dal,,가지/분야,branch,noun,R4,Y
-1115,rus,,러시아인,Russian,noun,R4,N
-1116,demir,,철/쇠,iron,noun,R4,Y
-1117,binlerce,,수천의,thousands,adj,R4,N
-1118,tat,,맛,taste,noun,R4,N
-1119,yetişmek,,자라다/제때 닿다,to grow,verb,R4,N
-1120,yağmur,,비,rain,noun,R4,Y
-1121,bitki,,식물,plant,noun,R4,Y
-1122,cami,,모스크,mosque,noun,R4,Y
-1123,yazık,,안타깝다/불쌍해,what a pity,interj,R4,N
-1124,görüşmek,,만나다/이야기하다,to meet,verb,R4,Y
-1125,saniye,,초(시간),second,noun,R4,N
-1126,kale,,성/골대,castle,noun,R4,Y
-1127,sivil,,민간의/민간인,civilian,adj,R4,N
-1128,evlilik,,결혼,marriage,noun,R4,N
-1129,şeker,,설탕/사탕,sugar,noun,R4,Y
-1130,yemin,,맹세,oath,noun,R4,N
-1131,indirmek,,내리다/다운로드하다,to lower,verb,R4,N
-1132,yakalamak,,잡다,to catch,verb,R4,Y
-1133,bakış,,시선/관점,look,noun,R4,N
-1134,ağırlık,,무게,weight,noun,R4,N
-1135,emekli,,은퇴한/연금생활자,retired,adj,R4,N
-1136,i̇ngiliz,,영국인/영국의,British,noun,R4,N
-1137,kâğıt,,종이,paper,noun,R4,Y
-1138,kıbrıs,,키프로스,Cyprus,noun,R4,N
-1139,festival,,축제/페스티벌,festival,noun,R4,Y
-1140,avukat,,변호사,lawyer,noun,R4,Y
-1141,çizgi,,선,line,noun,R4,Y
-1142,zafer,,승리,victory,noun,R4,N
-1143,tebrik,,축하,congratulations,noun,R4,N
-1144,uğur,,행운/~을 위해(uğruna),luck,noun,R4,N
-1145,ters,,반대의/거꾸로,upside down,adj,R4,Y
-1146,risk,,위험,risk,noun,R4,N
-1147,ağlamak,,울다,to cry,verb,R4,Y
-1148,görüş,,의견/견해,opinion,noun,R4,N
-1149,yerleşmek,,자리잡다/정착하다,to settle,verb,R4,N
-1150,usta,,장인/숙련된,craftsman,noun,R4,Y
-1151,yıldırım,,번개/이을드름(성),lightning,noun,R4,Y
-1152,kavram,,개념,concept,noun,R4,N
-1153,eklemek,,더하다/추가하다,to add,verb,R4,N
-1154,lira,,리라(화폐),lira,noun,R4,N
-1155,götürmek,,가져가다/데려가다,to take,verb,R4,N
-1156,davranış,,행동/태도,behavior,noun,R4,N
-1157,yurt,,조국/기숙사,homeland,noun,R4,N
-1158,nesil,,세대,generation,noun,R4,N
-1159,başta,,처음에/특히,at first,adv,R4,N
-1160,trabzon,,트라브존,Trabzon,noun,R4,N
-1161,iptal,,취소,cancellation,noun,R4,N
-1162,demokrasi,,민주주의,democracy,noun,R4,N
-1163,özgür,,자유로운,free,adj,R4,N
-1164,kaldırmak,,들어 올리다/없애다,to lift,verb,R4,Y
-1165,fransa,,프랑스,France,noun,R4,Y
-1166,cuma,,금요일,friday,noun,R4,N
-1167,ta,,저 멀리/바로,far away,adv,R4,N
-1168,i̇brahim,,이브라힘,Ibrahim,noun,R4,N
-1169,york,,요크(뉴욕),York,noun,R4,N
-1170,yarar,,이익/유용함,benefit,noun,R4,N
-1171,mekân,,장소/공간,place,noun,R4,N
-1172,kaya,,바위,rock,noun,R4,Y
-1173,şüphe,,의심,doubt,noun,R4,N
-1174,kod,,코드,code,noun,R4,N
-1175,sağlam,,튼튼한/견고한,sturdy,adj,R4,N
-1176,elbette,,물론,of course,adv,R4,N
-1177,genelde,,대체로/보통,usually,adv,R4,N
-1178,km,,킬로미터(km),kilometer,noun,R4,N
-1179,başarmak,,성공하다/해내다,to succeed,verb,R4,N
-1180,mezar,,무덤,grave,noun,R4,Y
-1181,tıp,,의학,medicine,noun,R4,N
-1182,özür,,사과/양해,apology,noun,R4,N
-1183,katil,,살인자,murderer,noun,R4,N
-1184,konser,,콘서트,concert,noun,R4,Y
-1185,milyar,,10억,billion,num,R4,N
-1186,temsilci,,대표자,representative,noun,R4,N
-1187,imek,,~이다(계사),to be,verb,R4,N
-1188,cinsel,,성적인,sexual,adj,R4,N
-1189,yağmak,,(비·눈이) 내리다,to rain,verb,R4,Y
-1190,tablo,,표/그림,painting,noun,R4,Y
-1191,öz,,본질/자기 자신의,essence,noun,R4,N
-1192,emek,,노동/수고,labor,noun,R4,N
-1193,yasak,,금지된/금지,forbidden,adj,R4,N
-1194,kriz,,위기,crisis,noun,R4,N
-1195,ödemek,,지불하다,to pay,verb,R4,Y
-1196,sanayi,,산업/공업,industry,noun,R4,N
-1197,ırak,,이라크,Iraq,noun,R4,N
-1198,ilginç,,흥미로운,interesting,adj,R4,N
-1199,bilet,,표/티켓,ticket,noun,R4,Y
-1200,mısır,,이집트/옥수수,Egypt,noun,R4,Y
-1201,ömer,,외메르,Omer,noun,R4,N
-1202,evren,,우주,universe,noun,R4,Y
-1203,f,,에프(F),f,noun,R4,N
-1204,p,,페(P),p,noun,R4,N
-1205,önceden,,미리/전에,beforehand,adv,R4,N
-1206,yazılım,,소프트웨어,software,noun,R4,N
-1207,incelemek,,조사하다/검토하다,to examine,verb,R4,N
-1208,bok,,똥(비속어),poop,noun,R4,N
-1209,hapis,,감옥/징역,prison,noun,R4,Y
-1210,desteklemek,,지지하다/지원하다,to support,verb,R4,N
-1211,uğramak,,들르다/겪다,to drop by,verb,R4,N
-1212,rakip,,경쟁자/라이벌,rival,noun,R4,N
-1213,roman,,소설,novel,noun,R4,Y
-1214,konya,,코냐,Konya,noun,R4,N
-1215,bilinen,,알려진,known,adj,R4,N
-1216,bitirmek,,끝내다,to finish,verb,R4,N
-1217,mesafe,,거리/간격,distance,noun,R4,N
-1218,namaz,,나마즈(이슬람 기도),prayer,noun,R4,Y
-1219,hüseyin,,휘세인,Huseyin,noun,R4,N
-1220,mektup,,편지,letter,noun,R4,Y
-1221,forma,,유니폼,jersey,noun,R4,Y
-1222,kutu,,상자,box,noun,R4,Y
-1223,at,,말(馬),horse,noun,R4,Y
-1224,doğrudan,,직접/곧바로,directly,adv,R4,N
-1225,standart,,표준/표준의,standard,adj,R4,N
-1226,rüzgâr,,바람,wind,noun,R4,Y
-1227,sakin,,차분한/주민,calm,adj,R4,N
-1228,yazma,,쓰기/필사본,manuscript,noun,R4,N
-1229,buluşmak,,만나다,to meet,verb,R4,Y
-1230,vakıf,,재단,foundation,noun,R4,N
-1231,mantık,,논리,logic,noun,R4,N
-1232,kar,,눈(雪)/이익,snow,noun,R4,Y
-1233,hırsız,,도둑,thief,noun,R4,Y
-1234,hazırlık,,준비,preparation,noun,R4,N
-1235,şaka,,농담,joke,noun,R4,N
-1236,çeşit,,종류,kind,noun,R4,N
-1237,yollamak,,보내다,to send,verb,R4,N
-1238,azalmak,,줄다/감소하다,to decrease,verb,R4,N
-1239,kanat,,날개,wing,noun,R4,Y
-1240,aşama,,단계,stage,noun,R4,N
-1241,aracılığıyla,,~을 통해,through,postp,R4,N
-1242,lan,,야/임마,hey,interj,R4,N
-1243,takmak,,달다/끼우다,to attach,verb,R4,N
-1244,matematik,,수학,mathematics,noun,R4,N
-1245,kalem,,펜/연필,pen,noun,R4,Y
-1246,şükür,,(신께) 감사,thank god,noun,R4,N
-1247,komik,,웃긴/우스운,funny,adj,R4,N
-1248,evlenmek,,결혼하다,to marry,verb,R4,Y
-1249,kaydetmek,,기록하다/저장하다,to record,verb,R4,N
-1250,gazi,,참전용사,veteran,noun,R4,Y
-1251,kutsal,,신성한,holy,adj,R4,N
-1252,tesis,,시설,facility,noun,R4,N
-1253,michael,,마이클,Michael,noun,R4,N
-1254,fayda,,이익/쓸모,benefit,noun,R4,N
-1255,hafif,,가벼운,light,adj,R4,N
-1256,lisans,,학사/면허,bachelor's degree,noun,R4,N
-1257,detay,,세부/디테일,detail,noun,R4,N
-1258,ekmek,,빵,bread,noun,R4,Y
-1259,bağlamak,,묶다/연결하다,to tie,verb,R4,Y
-1260,dahi,,~조차/~도,even,conj,R4,N
-1261,tanım,,정의(定義),definition,noun,R4,N
-1262,marka,,브랜드,brand,noun,R4,N
-1263,tutulmak,,잡히다/유지되다,to be held,verb,R4,N
-1264,harf,,글자/문자,alphabet letter,noun,R4,N
-1265,general,,장군,general,noun,R4,Y
-1266,bedel,,대가/값,price,noun,R4,N
-1267,değişim,,변화,change,noun,R4,N
-1268,van,,반(도시),Van,noun,R4,N
-1269,memnun,,기쁜/만족한,pleased,adj,R4,N
-1270,çatışmak,,충돌하다/교전하다,to clash,verb,R4,N
-1271,haydi,,자/어서,come on,interj,R4,N
-1272,iken,,~하는 동안/~인데,while,conj,R4,N
-1273,v,,브이(V),v,noun,R4,N
-1274,sonsuz,,끝없는/무한한,endless,adj,R4,N
-1275,i̇smail,,이스마일,Ismail,noun,R4,N
-1276,yatırım,,투자,investment,noun,R4,N
-1277,kamp,,캠프,camp,noun,R4,Y
-1278,muhammed,,무함마드,Muhammad,noun,R4,N
-1279,kredi,,신용/대출,credit,noun,R4,N
-1280,başlık,,제목,title,noun,R4,N
-1281,tren,,기차,train,noun,R4,Y
-1282,tanışmak,,알게 되다/인사하다,to get acquainted,verb,R4,N
-1283,burun,,코,nose,noun,R4,Y
-1284,cennet,,천국,heaven,noun,R4,N
-1285,peygamber,,예언자,prophet,noun,R4,N
-1286,vergi,,세금,tax,noun,R4,N
-1287,bakım,,관리/돌봄,care,noun,R4,N
-1288,paket,,꾸러미/포장,package,noun,R4,Y
-1289,içerik,,내용/콘텐츠,content,noun,R4,N
-1290,halka,,고리/원,ring,noun,R4,Y
-1291,tepe,,언덕/꼭대기,hill,noun,R4,Y
-1292,yangın,,화재,fire,noun,R4,Y
-1293,firma,,회사,company,noun,R4,N
-1294,kahvaltı,,아침 식사,breakfast,noun,R4,Y
-1295,eşya,,물건/짐,belongings,noun,R4,N
-1296,belirli,,특정한/일정한,certain,adj,R4,N
-1297,hz,,성(聖)~(존칭 약어),holy title,noun,R4,N
-1298,müze,,박물관,museum,noun,R4,Y
-1299,söylenmek,,말해지다,to be said,verb,R4,N
-1300,anahtar,,열쇠,key,noun,R4,Y
-1301,piyasa,,시장,market,noun,R4,N
-1302,parmak,,손가락,finger,noun,R4,Y
-1303,yüzey,,표면,surface,noun,R4,N
-1304,uyum,,조화/적응,harmony,noun,R4,N
-1305,özlemek,,그리워하다,to miss,verb,R4,N
-1306,ufak,,작은,small,adj,R4,Y
-1307,çıkar,,이익/이해관계,interest,noun,R4,N
-1308,ölçü,,치수/정도,measurement,noun,R4,N
-1309,anlaşılmak,,이해되다/합의하다,to be understood,verb,R4,N
-1310,güvenilir,,믿을 만한,reliable,adj,R4,N
-1311,basmak,,누르다/밟다,to press,verb,R4,Y
-1312,gezi,,여행/소풍,trip,noun,R4,Y
-1313,eskiden,,예전에,formerly,adv,R4,N
-1314,george,,조지,George,noun,R4,N
-1315,saçma,,터무니없는,absurd,adj,R4,N
-1316,cam,,유리,glass,noun,R4,Y
-1317,çevirmek,,돌리다/번역하다,to turn,verb,R4,Y
-1318,paşa,,파샤(장군 칭호),pasha,noun,R4,N
-1319,gözaltı,,구금,custody,noun,R4,N
-1320,akp,,정의개발당(AKP),AKP,noun,R4,N
-1321,kurulmak,,세워지다/설립되다,to be founded,verb,R4,N
-1322,mersin,,메르신,Mersin,noun,R4,N
-1323,taşınmak,,이사하다/옮겨지다,to move house,verb,R4,Y
-1324,kampanya,,캠페인,campaign,noun,R4,N
-1325,zeki,,똑똑한,smart,adj,R4,N
-1326,sekiz,,8/여덟,eight,num,R4,Y
-1327,istasyon,,역/정거장,station,noun,R4,Y
-1328,civar,,근처/부근,vicinity,noun,R4,N
-1329,david,,데이비드,David,noun,R4,N
-1330,paris,,파리,Paris,noun,R4,Y
-1331,alaka,,관련/관심,relevance,noun,R4,N
-1332,göl,,호수,lake,noun,R4,Y
-1333,temsil,,대표/표현,representation,noun,R4,N
-1334,zamanında,,제때에/한때,on time,adv,R4,N
-1335,kader,,운명,fate,noun,R4,N
-1336,tutuklamak,,체포하다,to arrest,verb,R4,Y
-1337,alet,,도구,tool,noun,R4,Y
-1338,aziz,,성인(聖人)/친애하는,saint,adj,R4,N
-1339,cinayet,,살인,murder,noun,R4,N
-1340,zirve,,정상/정상회담,summit,noun,R4,Y
-1341,analiz,,분석,analysis,noun,R4,N
-1342,şeytan,,악마,devil,noun,R4,N
-1343,pkk,,PKK(쿠르드노동자당),PKK,noun,R4,N
-1344,imam,,이맘,imam,noun,R4,Y
-1345,gelişim,,발달/발전,development,noun,R4,N
-1346,bozuk,,고장 난/망가진,broken,adj,R4,Y
-1347,cumhurbaşkanlığı,,대통령직/대통령실,presidency,noun,R4,N
-1348,am,,여성 성기(비속어),vulva,noun,R4,N
-1349,cadde,,대로/거리,avenue,noun,R4,Y
-1350,sohbet,,대화/잡담,chat,noun,R4,Y
-1351,müşteri,,고객,customer,noun,R4,Y
-1352,sinir,,신경/짜증,nerve,noun,R4,N
-1353,kapak,,뚜껑/표지,lid,noun,R4,Y
-1354,kilise,,교회,church,noun,R4,Y
-1355,trafik,,교통,traffic,noun,R4,Y
-1356,inşaat,,건설/공사,construction,noun,R4,Y
-1357,orospu,,창녀(비속어),prostitute,noun,R4,N
-1358,yetmek,,충분하다,to suffice,verb,R4,N
-1359,recep,,레제프,Recep,noun,R4,N
-1360,sakın,,절대 ~하지 마,don't,interj,R4,N
-1361,vs,,등/기타,etc,adv,R4,N
-1362,yakında,,곧,soon,adv,R4,N
-1363,fransız,,프랑스인/프랑스의,French,noun,R4,N
-1364,yayımlamak,,출판하다/발표하다,to publish,verb,R4,N
-1365,hani,,있잖아/어디?,you know,adv,R4,N
-1366,yüzmek,,수영하다,to swim,verb,R4,Y
-1367,diyarbakır,,디야르바크르,Diyarbakir,noun,R4,N
-1368,sürdürmek,,계속하다/유지하다,to continue,verb,R4,N
-1369,art,,뒤/뒤쪽,rear,noun,R4,N
-1370,vatan,,조국,homeland,noun,R4,N
-1371,sırt,,등(신체),back,noun,R4,Y
-1372,laf,,말/이야기,talk,noun,R4,N
-1373,sıcaklık,,온도/더위,temperature,noun,R4,N
-1374,mimar,,건축가,architect,noun,R4,Y
-1375,niyet,,의도,intention,noun,R4,N
-1376,anlayış,,이해/이해심,understanding,noun,R4,N
-1377,çekim,,촬영/매력,filming,noun,R4,Y
-1378,radyo,,라디오,radio,noun,R4,Y
-1379,fabrika,,공장,factory,noun,R4,Y
-1380,sır,,비밀,secret,noun,R4,N
-1381,bilimsel,,과학적인,scientific,adj,R4,N
-1382,çabuk,,빨리/빠른,quickly,adv,R4,N
-1383,ayı,,곰,bear,noun,R4,Y
-1384,süleyman,,쉴레이만,Suleyman,noun,R4,N
-1385,cesaret,,용기,courage,noun,R4,N
-1386,form,,형태/양식,form,noun,R4,N
-1387,asya,,아시아,Asia,noun,R4,N
-1388,metal,,금속,metal,noun,R4,Y
-1389,kasaba,,소도시/읍,town,noun,R4,Y
-1390,yönetmen,,감독,director,noun,R4,Y
-1391,yumurta,,달걀,egg,noun,R4,Y
-1392,çanakkale,,차낙칼레,Canakkale,noun,R4,N
-1393,harita,,지도,map,noun,R4,Y
-1394,yaralamak,,다치게 하다,to injure,verb,R4,N
-1395,garip,,이상한,strange,adj,R4,N
-1396,klâsik,,고전적인/클래식,classical,adj,R4,N
-1397,ada,,섬,island,noun,R4,Y
-1398,tel,,철사/줄,wire,noun,R4,Y
-1399,intihar,,자살,suicide,noun,R4,N
-1400,abi,,형/오빠,older brother,noun,R4,Y
-1401,kongre,,회의/대회,congress,noun,R4,N
-1402,mobil,,모바일의,mobile,adj,R4,N
-1403,kanser,,암,cancer,noun,R4,N
-1404,makam,,직위/관직,post,noun,R4,N
-1405,kapanmak,,닫히다,to close,verb,R4,Y
-1406,arazi,,토지/땅,land,noun,R4,N
-1407,işgal,,점령,occupation,noun,R4,N
-1408,kalın,,두꺼운,thick,adj,R4,Y
-1409,dolayısıyla,,따라서/~때문에,therefore,adv,R4,N
-1410,tayyip,,타이이프,Tayyip,noun,R4,N
-1411,akmak,,흐르다,to flow,verb,R4,Y
-1412,ilgilenmek,,관심을 갖다,to be interested,verb,R4,N
-1413,seksi,,섹시한,sexy,adj,R4,N
-1414,ayakkabı,,신발,shoe,noun,R4,Y
-1415,emniyet,,안전/경찰,security,noun,R4,N
-1416,yürütmek,,수행하다/집행하다,to carry out,verb,R4,N
-1417,dolmak,,차다/가득해지다,to fill up,verb,R4,Y
-1418,kıyafet,,옷,clothes,noun,R4,Y
-1419,sahte,,가짜의,fake,adj,R4,N
-1420,facebook,,페이스북,Facebook,noun,R4,N
-1421,gök,,하늘,sky,noun,R4,Y
-1422,taraftar,,팬/지지자,sports fan,noun,R4,Y
-1423,ucuz,,싼,cheap,adj,R4,N
-1424,turizm,,관광,tourism,noun,R4,N
-1425,sahil,,해변,beach,noun,R4,Y
-1426,koltuk,,안락의자/좌석,armchair,noun,R4,Y
-1427,şaşırmak,,놀라다,to be surprised,verb,R4,Y
-1428,cm,,센티미터(cm),centimeter,noun,R4,N
-1429,cumartesi,,토요일,saturday,noun,R4,N
-1430,peter,,피터,Peter,noun,R4,N
-1431,vay,,와/어머,wow,interj,R4,N
-1432,ofis,,사무실,office,noun,R4,Y
-1433,geçici,,임시의,temporary,adj,R4,N
-1434,şikâyet,,불평/고소,complaint,noun,R4,N
-1435,diş,,이/치아,tooth,noun,R4,Y
-1436,esas,,주된/본질,main,adj,R4,N
-1437,cep,,주머니,pocket,noun,R4,Y
-1438,yargı,,사법/판단,judiciary,noun,R4,N
-1439,terörist,,테러리스트,terrorist,noun,R4,N
-1440,yenmek,,이기다/먹히다,to win,verb,R4,Y
-1441,şeref,,명예,honor,noun,R4,N
-1442,yusuf,,유수프,Yusuf,noun,R4,N
-1443,yaklaşmak,,다가가다,to approach,verb,R4,N
-1444,çaba,,노력,effort,noun,R4,N
-1445,devre,,회로/기간,circuit,noun,R4,N
-1446,bozulmak,,고장 나다/망가지다,to break down,verb,R4,N
-1447,seyahat,,여행,travel,noun,R4,Y
-1448,süt,,우유,milk,noun,R4,Y
-1449,kilometre,,킬로미터,kilometer,noun,R4,N
-1450,osman,,오스만,Osman,noun,R4,N
-1451,buz,,얼음,ice,noun,R4,Y
-1452,ticarî,,상업적인,commercial,adj,R4,N
-1453,sektör,,부문/업계,sector,noun,R4,N
-1454,çağrı,,호출/요청,call,noun,R4,N
-1455,samsun,,삼순,Samsun,noun,R4,N
-1456,koşul,,조건,condition,noun,R4,N
-1457,nehir,,강,river,noun,R4,Y
-1458,çap,,지름/규모,diameter,noun,R4,N
-1459,deneme,,시도/시험,trial,noun,R4,N
-1460,istifa,,사임,resignation,noun,R4,N
-1461,meyve,,과일,fruit,noun,R4,Y
-1462,birer,,하나씩,one each,num,R4,N
-1463,açılmak,,열리다,to open,verb,R4,Y
-1464,posta,,우편,mail,noun,R4,Y
-1465,günah,,죄,sin,noun,R4,N
-1466,kemik,,뼈,bone,noun,R4,Y
-1467,elbise,,드레스/옷,dress,noun,R4,Y
-1468,milliyet,,국적/민족,nationality,noun,R4,N
-1469,mutfak,,부엌/요리,kitchen,noun,R4,Y
-1470,üzülmek,,슬퍼하다,to be sad,verb,R4,Y
-1471,popüler,,인기 있는,popular,adj,R4,N
-1472,yakmak,,태우다/켜다,to burn,verb,R4,Y
-1473,kariyer,,경력,career,noun,R4,N
-1474,sokmak,,넣다/찌르다,to insert,verb,R4,N
-1475,ton,,톤/어조,tone,noun,R4,N
-1476,personel,,직원,staff,noun,R4,N
-1477,benzemek,,닮다,to resemble,verb,R4,N
-1478,elektronik,,전자의,electronic,adj,R4,N
-1479,temas,,접촉,contact,noun,R4,N
-1480,kutlamak,,축하하다,to celebrate,verb,R4,Y
-1481,imparator,,황제,emperor,noun,R4,Y
-1482,dönme,,회전/돌아옴,rotation,noun,R4,N
-1483,derken,,그러다가/~라고 하며,just then,adv,R4,N
-1484,gayet,,아주/꽤,quite,adv,R4,N
-1485,deprem,,지진,earthquake,noun,R4,Y
-1486,demokratik,,민주적인,democratic,adj,R4,N
-1487,danışman,,상담가/고문,advisor,noun,R4,N
-1488,tutar,,금액/합계,amount,noun,R4,N
-1489,kaçırmak,,놓치다/납치하다,to miss out,verb,R4,N
-1490,konuk,,손님,guest,noun,R4,Y
-1491,yetkili,,권한 있는/관계자,official,adj,R4,N
-1492,parlak,,빛나는/밝은,shiny,adj,R4,Y
-1493,cümle,,문장,sentence,noun,R4,N
-1494,akdeniz,,지중해,Mediterranean,noun,R4,N
-1495,otomobil,,자동차,car,noun,R4,Y
-1496,kira,,집세/임대,rent,noun,R4,N
-1497,platform,,플랫폼,platform,noun,R4,N
-1498,mhp,,민족주의행동당(MHP),MHP,noun,R4,N
-1499,komisyon,,위원회/수수료,commission,noun,R4,N
-1500,çıkarma,,빼기/꺼내기,subtraction,noun,R4,N
-1501,ameliyat,,수술,surgery,noun,R4,Y
-1502,zayıf,,약한/마른,thin,adj,R4,Y
-1503,havalimanı,,공항,airport,noun,R4,Y
-1504,bacak,,다리,leg,noun,R4,Y
-1505,james,,제임스,James,noun,R4,N
-1506,hayran,,팬/감탄하는,admirer,noun,R4,N
-1507,müdahale,,개입,intervention,noun,R4,N
-1508,çeviri,,번역,translation,noun,R4,N
-1509,evli,,결혼한,married,adj,R4,N
-1510,maaş,,월급,salary,noun,R4,N
-1511,kaybolmak,,사라지다/길을 잃다,to get lost,verb,R4,Y
-1512,melek,,천사,angel,noun,R4,Y
-1513,salak,,바보 같은,stupid,adj,R4,N
-1514,geçerli,,유효한,valid,adj,R4,N
-1515,sabit,,고정된,fixed,adj,R4,N
-1516,yaprak,,잎,leaf,noun,R4,Y
-1517,ab,,유럽연합(AB),EU,noun,R4,N
-1518,lanet,,저주/빌어먹을,curse,noun,R4,N
-1519,saldırmak,,공격하다,to attack,verb,R4,N
-1520,ten,,피부,skin,noun,R4,Y
-1521,rica,,부탁,request,noun,R4,N
-1522,dev,,거대한/거인,giant,adj,R4,Y
-1523,bildirmek,,알리다/보고하다,to report,verb,R4,N
-1524,deney,,실험,experiment,noun,R4,Y
-1525,aslan,,사자,lion,noun,R4,Y
+37,kadar,,~까지/~만큼,until,postp,R1,N
+38,görmek,,보다,to see,verb,R1,Y
+39,gibi,,~처럼/~같이,like,postp,R1,N
+40,biz,,우리,we,pron,R1,N
+41,tamam,,알았어/좋아/전부,okay,interj,R1,N
+42,iş,,일/직업,work,noun,R1,N
+43,siz,,당신(들)/너희,you,pron,R1,N
+44,her,,모든/각,every,det,R1,N
+45,biri,,누군가/하나,someone,pron,R1,N
+46,ki,,~라는/~하는,that,conj,R1,N
+47,kendi,,자기/자신,self,pron,R1,N
+48,şu,,저/저것,that,det,R1,N
+49,nasıl,,어떻게/어떤,how,adv,R1,N
+50,ya,,또는/~잖아,or,conj,R1,N
+51,sadece,,단지/오직,only,adv,R1,N
+52,kalmak,,남다/머물다,to stay,verb,R1,N
+53,düşünmek,,생각하다,to think,verb,R1,Y
+54,adam,,남자/사람,man,noun,R1,Y
+55,öyle,,그렇게/그런,so,adv,R1,N
+56,sonra,,~후에/나중에,after,postp,R1,N
+57,çalışmak,,일하다/공부하다,to work,verb,R1,Y
+58,şimdi,,지금,now,adv,R1,N
+59,hiç,,전혀/한 번도,never,adv,R1,N
+60,yer,,장소/곳/땅,place,noun,R1,N
+61,bulmak,,찾다/발견하다,to find,verb,R1,Y
+62,konuşmak,,말하다/대화하다,to talk,verb,R1,Y
+63,en,,가장,most,adv,R1,N
+64,sanmak,,생각하다/여기다,to suppose,verb,R1,N
+65,önce,,~전에/먼저,before,postp,R1,N
+66,çocuk,,아이,child,noun,R1,Y
+67,ev,,집,house,noun,R1,Y
+68,baba,,아버지,father,noun,R1,Y
+69,kız,,소녀/딸,girl,noun,R1,Y
+70,güzel,,아름다운/좋은,beautiful,adj,R1,Y
+71,kim,,누구,who,pron,R1,N
+72,iki,,둘/2,two,num,R1,N
+73,gün,,날/하루,day,noun,R1,N
+74,çıkmak,,나가다/오르다,to go out,verb,R1,Y
+75,anne,,어머니,mother,noun,R1,Y
+76,anlamak,,이해하다,to understand,verb,R1,N
+77,gerekmek,,필요하다,to need,verb,R1,N
+78,bırakmak,,놓다/그만두다,to leave,verb,R1,N
+79,insan,,사람/인간,person,noun,R1,Y
+80,biraz,,조금,a little,adv,R1,N
+81,ora,,거기,there,pron,R1,N
+82,hadi,,자/어서,come on,interj,R1,N
+83,teşekkür,,감사,thanks,noun,R1,N
+84,sevmek,,사랑하다/좋아하다,to love,verb,R1,Y
+85,beklemek,,기다리다,to wait,verb,R1,Y
+86,böyle,,이렇게/이런,like this,adv,R1,N
+87,yani,,즉/그러니까,that is,conj,R1,N
+88,hayat,,삶/인생,life,noun,R1,N
+89,yemek,,음식/먹다,food,noun,R1,Y
+90,geri,,뒤로/다시,back,adv,R1,N
+91,aramak,,찾다/전화하다,to search,verb,R1,Y
+92,durmak,,멈추다/서다,to stop,verb,R1,Y
+93,tanrı,,신,god,noun,R1,N
+94,başka,,다른/~외에,other,adj,R1,N
+95,lütfen,,제발/부디,please,adv,R1,N
+96,öldürmek,,죽이다,to kill,verb,R1,N
+97,işte,,"바로/자, 여기",here it is,interj,R1,N
+98,bile,,~조차/~까지도,even,adv,R1,N
+99,ile,,~와 함께/~로,with,postp,R1,N
+100,çünkü,,왜냐하면,because,conj,R1,N
+101,peki,,좋아/그럼,well then,interj,R1,N
+102,artık,,이제/더 이상,anymore,adv,R1,N
+103,eğer,,만약,if,conj,R1,N
+104,nere,,어디,where,pron,R1,N
+105,el,,손,hand,noun,R1,Y
+106,tek,,유일한/하나의,single,adj,R1,N
+107,ölmek,,죽다,to die,verb,R1,N
+108,doğru,,옳은/~쪽으로,right,adj,R1,N
+109,yol,,길,road,noun,R1,Y
+110,gerçekten,,정말로,really,adv,R1,N
+111,başlamak,,시작하다,to start,verb,R1,N
+112,duymak,,듣다/느끼다,to hear,verb,R1,Y
+113,gece,,밤,night,noun,R1,Y
+114,bay,,~씨/신사,Mr.,noun,R1,N
+115,zor,,어려운,difficult,adj,R1,N
+116,belki,,아마,maybe,adv,R1,N
+117,yardım,,도움,help,noun,R1,N
+118,inmek,,내리다/내려가다,to go down,verb,R1,Y
+119,arkadaş,,친구,friend,noun,R1,Y
+120,son,,마지막/끝,last,adj,R1,N
+121,sorun,,문제,problem,noun,R1,N
+122,büyük,,큰,big,adj,R1,Y
+123,para,,돈,money,noun,R1,Y
+124,dönmek,,돌아가다/돌다,to return,verb,R1,N
+125,girmek,,들어가다,to enter,verb,R1,Y
+126,ara,,사이/틈,between,noun,R1,N
+127,fazla,,많은/초과,too much,adj,R1,N
+128,getirmek,,가져오다,to bring,verb,R1,Y
+129,ister,,~든(지)/원하면,whether,conj,R1,N
+130,yaşamak,,살다/겪다,to live,verb,R1,N
+131,baş,,머리/시작,head,noun,R1,Y
+132,kötü,,나쁜,bad,adj,R1,N
+133,yıl,,해/년,year,noun,R1,N
+134,hiçbir,,아무 ~도,no,det,R1,N
+135,ihtiyaç,,필요,need,noun,R1,N
+136,kimse,,아무도/누군가,nobody,pron,R1,N
+137,geçmek,,지나가다/건너다,to pass,verb,R1,Y
+138,kadın,,여자/여성,woman,noun,R1,Y
+139,hep,,항상/모두,always,adv,R1,N
+140,yeni,,새로운,new,adj,R1,Y
+141,harika,,훌륭한/멋진,wonderful,adj,R1,N
+142,kullanmak,,사용하다,to use,verb,R1,N
+143,hâlâ,,아직/여전히,still,adv,R1,N
+144,tüm,,모든/전체,all,det,R1,N
+145,nerede,,어디에,where,ques,R1,N
+146,merhaba,,안녕하세요,hello,interj,R1,N
+147,hak,,권리/몫,right,noun,R1,N
+148,atmak,,던지다/버리다,to throw,verb,R1,Y
+149,emin,,확신하는/안전한,sure,adj,R1,N
+150,herkes,,모두/모든 사람,everyone,pron,R1,N
+151,efendim,,네?/여보세요/선생님,pardon,interj,R1,N
+152,gerçek,,진짜/현실,real,adj,R1,N
+153,inanmak,,믿다,to believe,verb,R1,N
+154,gerek,,필요/필요한,need,noun,R1,N
+155,pekâlâ,,좋아/알겠어,alright,interj,R1,N
+156,durum,,상황/상태,situation,noun,R1,N
+157,izin,,허락/휴가,permission,noun,R2,N
+158,dinlemek,,듣다/경청하다,to listen,verb,R2,Y
+159,saat,,시간/시계,clock,noun,R2,Y
+160,üzgün,,슬픈/미안한,sad,adj,R2,Y
+161,fark,,차이/인식,difference,noun,R2,N
+162,bayan,,여성/아가씨,lady,noun,R2,Y
+163,konu,,주제/문제,topic,noun,R2,N
+164,ilk,,첫/처음,first,adj,R2,N
+165,dünya,,세계/지구,world,noun,R2,Y
+166,tam,,완전한/바로,complete,adj,R2,N
+167,aynı,,같은,same,adj,R2,N
+168,bütün,,전체의/모든,whole,adj,R2,N
+169,diye,,~라고/~하려고,so that,postp,R2,N
+170,küçük,,작은/어린,small,adj,R2,Y
+171,önem,,중요성,importance,noun,R2,N
+172,hissetmek,,느끼다,to feel,verb,R2,N
+173,yüzde,,퍼센트/~때문에,percent,noun,R2,N
+174,göz,,눈,eye,noun,R2,Y
+175,hemen,,곧/즉시,immediately,adv,R2,N
+176,aile,,가족,family,noun,R2,Y
+177,görünmek,,보이다,to appear,verb,R2,N
+178,dost,,친구,friend,noun,R2,Y
+179,çıkarmak,,꺼내다/벗다,to take out,verb,R2,Y
+180,devam,,계속,continuation,noun,R2,N
+181,tabiî,,물론,of course,adv,R2,N
+182,göstermek,,보여주다,to show,verb,R2,Y
+183,hakkında,,~에 대해,about,postp,R2,N
+184,hatırlamak,,기억하다,to remember,verb,R2,N
+185,hepsi,,모두/전부,all,pron,R2,N
+186,kişi,,사람/개인,person,noun,R2,Y
+187,araba,,자동차,car,noun,R2,Y
+188,tanımak,,(사람을) 알다/인정하다,to recognize,verb,R2,N
+189,az,,적은/조금,few,adj,R2,N
+190,dakika,,분,minute,noun,R2,N
+191,iç,,안/내부,inside,noun,R2,N
+192,hoş,,좋은/즐거운,nice,adj,R2,N
+193,dilemek,,바라다/빌다,to wish,verb,R2,N
+194,bugün,,오늘,today,adv,R2,N
+195,yaş,,나이/젖은,age,noun,R2,N
+196,anlatmak,,이야기하다/설명하다,to tell,verb,R2,Y
+197,şekil,,모양/방식,shape,noun,R2,N
+198,sormak,,묻다,to ask,verb,R2,Y
+199,bitmek,,끝나다,to end,verb,R2,N
+200,öğrenmek,,배우다/알게 되다,to learn,verb,R2,Y
+201,oda,,방,room,noun,R2,Y
+202,polis,,경찰,police,noun,R2,Y
+203,kardeş,,형제/자매,sibling,noun,R2,Y
+204,karşı,,~에 대해/맞은편,against,postp,R2,N
+205,şans,,운/기회,luck,noun,R2,N
+206,selam,,인사/안녕,hello,noun,R2,Y
+207,unutmak,,잊다,to forget,verb,R2,N
+208,mü,,~까?(의문),question particle,ques,R2,N
+209,içinde,,~안에,inside,postp,R2,N
+210,söz,,말/약속,word,noun,R2,N
+211,ad,,이름,name,noun,R2,N
+212,üç,,셋/3,three,num,R2,N
+213,diğer,,다른/나머지,other,adj,R2,N
+214,tutmak,,잡다/유지하다,to hold,verb,R2,Y
+215,değişmek,,변하다,to change,verb,R2,N
+216,haber,,뉴스/소식,news,noun,R2,N
+217,göre,,~에 따르면/~에 맞게,according to,postp,R2,N
+218,özür,,사과/양해,apology,noun,R2,N
+219,birlikte,,함께,together,adv,R2,N
+220,tekrar,,다시,again,adv,R3,N
+221,alt,,아래/밑,under,noun,R3,N
+222,içeri,,안/내부,inside,noun,R3,N
+223,asla,,결코,never,adv,R3,N
+224,çekmek,,당기다/찍다,to pull,verb,R3,Y
+225,aslında,,사실은,actually,adv,R3,N
+226,lazım,,필요한,necessary,adj,R3,N
+227,erkek,,남자/남성,man,noun,R3,Y
+228,bahsetmek,,언급하다/말하다,to mention,verb,R3,N
+229,oturmak,,앉다/살다,to sit,verb,R3,Y
+230,yoksa,,아니면/그렇지 않으면,otherwise,conj,R3,N
+231,bebek,,아기,baby,noun,R3,Y
+232,kafa,,머리,head,noun,R3,Y
+233,gelecek,,미래/다음의,future,noun,R3,N
+234,dışarı,,밖/밖으로,outside,adv,R3,N
+235,götürmek,,가져가다/데려가다,to take,verb,R3,N
+236,yine,,다시/또,again,adv,R3,N
+237,geçirmek,,(시간을) 보내다/겪다,to spend time,verb,R3,N
+238,bence,,내 생각에,in my opinion,adv,R3,N
+239,oğul,,아들,son,noun,R3,Y
+240,hazır,,준비된/이미,ready,adj,R3,N
+241,görüşmek,,만나다/이야기하다,to meet,verb,R3,Y
+242,kaybetmek,,잃다/지다,to lose,verb,R3,N
+243,uzun,,긴,long,adj,R3,Y
+244,kazanmak,,이기다/벌다,to win,verb,R3,Y
+245,akıl,,지능/생각,mind,noun,R3,N
+246,can,,생명/영혼/소중한,life,noun,R3,N
+247,olay,,사건,event,noun,R3,N
+248,tatlı,,달콤한/디저트,sweet,adj,R3,Y
+249,zaten,,이미/어차피,already,adv,R3,N
+250,korkmak,,두려워하다,to fear,verb,R3,Y
+251,sürmek,,계속되다/운전하다,to drive,verb,R3,Y
+252,haydi,,자/어서,come on,interj,R3,N
+253,silâh,,무기/총,gun,noun,R3,Y
+254,yazmak,,쓰다,to write,verb,R3,Y
+255,hafta,,주/일주일,week,noun,R3,N
+256,birkaç,,몇몇의,a few,det,R3,N
+257,an,,순간,moment,noun,R3,N
+258,yan,,옆/측면,side,noun,R3,N
+259,telefon,,전화,phone,noun,R3,Y
+260,pek,,매우/별로,very,adv,R3,N
+261,kapı,,문,door,noun,R3,Y
+262,fikir,,생각/의견,idea,noun,R3,N
+263,oynamak,,놀다/연기하다,to play,verb,R3,Y
+264,ulaşmak,,도달하다/연락하다,to reach,verb,R3,N
+265,oyun,,놀이/게임,game,noun,R3,Y
+266,tane,,개(수량)/알,piece,noun,R3,N
+267,kapatmak,,닫다/끄다,to close,verb,R3,Y
+268,taraf,,쪽/편,side,noun,R3,N
+269,ilgili,,관련된,related,adj,R3,N
+270,mutlu,,행복한,happy,adj,R3,Y
+271,doktor,,의사,doctor,noun,R3,Y
+272,kesmek,,자르다,to cut,verb,R3,Y
+273,eski,,오래된/옛,old,adj,R3,Y
+274,lanet,,저주/빌어먹을,curse,noun,R3,N
+275,ön,,앞,front,noun,R3,N
+276,karar,,결정,decision,noun,R3,N
+277,orta,,가운데/중간,middle,noun,R3,N
+278,anmak,,추모하다/언급하다,to commemorate,verb,R3,N
+279,korumak,,지키다/보호하다,to protect,verb,R3,Y
+280,koymak,,놓다/넣다,to put,verb,R3,Y
+281,ses,,소리/목소리,sound,noun,R3,N
+282,izlemek,,보다/시청하다,to watch,verb,R3,Y
+283,kontrol,,통제/확인,control,noun,R3,N
+284,aptal,,바보/멍청한,stupid,adj,R3,N
+285,sahip,,주인/소유자,owner,noun,R3,N
+286,yakalamak,,잡다,to catch,verb,R3,Y
+287,kaç,,몇/얼마,how many,ques,R3,N
+288,kurtarmak,,구하다,to rescue,verb,R3,Y
+289,arka,,뒤/등,back,noun,R3,Y
+290,ummak,,바라다/희망하다,to hope,verb,R3,N
+291,bazı,,어떤/일부,some,det,R3,N
+292,kaçmak,,도망치다/놓치다,to run away,verb,R3,Y
+293,fakat,,그러나,but,conj,R3,N
+294,su,,물,water,noun,R3,Y
+295,güç,,힘/어려운,power,noun,R3,N
+296,ders,,수업/과목,lesson,noun,R3,Y
+297,vurmak,,때리다/치다,to hit,verb,R3,Y
+298,üst,,위/윗부분,top,noun,R3,N
+299,açmak,,열다/켜다,to open,verb,R3,Y
+300,göndermek,,보내다,to send,verb,R3,Y
+301,tanışmak,,알게 되다/인사하다,to get acquainted,verb,R3,N
+302,yarın,,내일,tomorrow,adv,R3,N
+303,soru,,질문,question,noun,R3,N
+304,yüz,,백/얼굴,hundred,num,R3,N
+305,yalan,,거짓말,lie,noun,R3,N
+306,rahat,,편안한,comfortable,adj,R3,Y
+307,kesinlikle,,확실히/절대로,definitely,adv,R3,N
+308,bulunmak,,있다/발견되다,to be found,verb,R3,N
+309,denemek,,시도하다/시험하다,to try,verb,R3,N
+310,süre,,기간/시간,duration,noun,R3,N
+311,hal,,상태/경우,state,noun,R3,N
+312,okul,,학교,school,noun,R3,Y
+313,içmek,,마시다,to drink,verb,R3,Y
+314,düşmek,,떨어지다,to fall,verb,R3,Y
+315,dikkat,,주의,attention,noun,R3,N
+316,okumak,,읽다/공부하다,to read,verb,R3,Y
+317,yürümek,,걷다,to walk,verb,R3,Y
+318,sağ,,오른쪽/살아 있는,right,adj,R3,Y
+319,aşk,,사랑,love,noun,R3,N
+320,anlam,,의미,meaning,noun,R3,N
+321,isim,,이름/명사,name,noun,R3,N
+322,yanlış,,틀린/잘못,wrong,adj,R3,N
+323,açık,,열린/분명한,open,adj,R3,Y
+324,kabul,,수용/승인,acceptance,noun,R3,N
+325,savaş,,전쟁,war,noun,R3,N
+326,niye,,왜,why,ques,R3,N
+327,katılmak,,참가하다/동의하다,to join,verb,R3,N
+328,koca,,남편/거대한,husband,noun,R3,Y
+329,aman,,아이고/제발,oh dear,interj,R3,N
+330,sakin,,차분한/주민,calm,adj,R3,N
+331,kez,,번/회,time,noun,R3,N
+332,falan,,등등/아무개,and so on,pron,R3,N
+333,uzak,,먼,far,adj,R3,Y
+334,elbette,,물론,of course,adv,R3,N
+335,yalnız,,혼자/외로운/단지,alone,adj,R3,Y
+336,edinmek,,얻다/획득하다,to acquire,verb,R3,N
+337,kan,,피,blood,noun,R3,Y
+338,dış,,밖/외부,outside,noun,R3,N
+339,ölüm,,죽음,death,noun,R3,N
+340,görev,,임무/직무,duty,noun,R3,N
+341,hem,,~도 ~도/또한,both,conj,R3,N
+342,kalp,,심장/마음,heart,noun,R3,Y
+343,özel,,특별한/사적인,special,adj,R3,N
+344,ay,,달/월,moon,noun,R3,Y
+345,davranmak,,행동하다/대하다,to behave,verb,R3,N
+346,ayrılmak,,떠나다/헤어지다,to leave,verb,R3,Y
+347,numara,,번호/숫자,number,noun,R3,N
+348,birşey,,무언가/어떤 것,something,pron,R3,N
+349,dolar,,달러,dollar,noun,R3,Y
+350,hangi,,어느/어떤,which,det,R3,N
+351,güvenmek,,믿다/신뢰하다,to trust,verb,R3,N
+352,merak,,호기심/궁금함,curiosity,noun,R3,N
+353,akşam,,저녁,evening,noun,R3,Y
+354,hava,,공기/날씨,weather,noun,R3,Y
+355,vakit,,시간,time,noun,R3,N
+356,sıra,,차례/줄,line,noun,R3,Y
+357,şehir,,도시,city,noun,R3,Y
+358,affetmek,,용서하다,to forgive,verb,R3,N
+359,geç,,늦게/늦은,late,adv,R3,N
+360,parça,,조각/부분,piece,noun,R3,Y
+361,yara,,상처,wound,noun,R3,Y
+362,genç,,젊은/청년,young,adj,R3,Y
+363,hareket,,움직임/행동,movement,noun,R3,N
+364,ateş,,불/열,fire,noun,R3,Y
+365,film,,영화,film,noun,R3,Y
+366,ayrıca,,게다가/또한,also,adv,R3,N
+367,sabah,,아침,morning,noun,R3,Y
+368,ödemek,,지불하다,to pay,verb,R3,Y
+369,beri,,~이래로,since,postp,R3,N
+370,hata,,실수/오류,mistake,noun,R3,N
+371,ilgilenmek,,관심을 갖다,to be interested,verb,R3,N
+372,uyumak,,자다,to sleep,verb,R3,Y
+373,gülmek,,웃다,to laugh,verb,R3,Y
+374,dün,,어제,yesterday,adv,R3,N
+375,sebep,,이유/원인,reason,noun,R3,N
+376,ciddi,,진지한/심각한,serious,adj,R3,N
+377,parti,,정당/파티,party,noun,R3,Y
+378,evlenmek,,결혼하다,to marry,verb,R3,Y
+379,işlemek,,처리하다/저지르다,to process,verb,R3,N
+380,aşağı,,아래/아래쪽,down,adv,R3,N
+381,sağlamak,,제공하다/확보하다,to provide,verb,R3,N
+382,cevap,,대답,answer,noun,R3,N
+383,birbiri,,서로,each other,pron,R3,N
+384,kolay,,쉬운,easy,adj,R3,N
+385,ah,,아,ah,interj,R3,N
+386,halletmek,,해결하다/처리하다,to handle,verb,R3,N
+387,beş,,5/다섯,five,num,R3,N
+388,karı,,아내,wife,noun,R3,Y
+389,geçen,,지난,last,adj,R3,N
+390,hasta,,아픈/환자,sick,adj,R3,Y
+391,çalmak,,훔치다/연주하다/울리다,to steal,verb,R3,Y
+392,yatmak,,눕다/자다,to lie down,verb,R3,Y
+393,kaçırmak,,놓치다/납치하다,to miss out,verb,R3,N
+394,yakın,,가까운,near,adj,R3,N
+395,yardımcı,,도우미/보조의,helper,noun,R3,N
+396,adım,,걸음/단계,step,noun,R3,Y
+397,plan,,계획,plan,noun,R3,N
+398,yeter,,충분한/그만,enough,adj,R3,N
+399,nefret,,증오,hatred,noun,R3,N
+400,hikâye,,이야기,story,noun,R3,N
+401,bitirmek,,끝내다,to finish,verb,R3,N
+402,ayak,,발,foot,noun,R3,Y
+403,kitap,,책,book,noun,R3,Y
+404,gemi,,배(선박),ship,noun,R3,Y
+405,ha,,아/그래,oh,interj,R3,N
+406,sanki,,마치,as if,adv,R3,N
+407,çekilmek,,끌리다/물러나다/찍히다,to withdraw,verb,R3,N
+408,veya,,또는,or,conj,R3,N
+409,tehlike,,위험,danger,noun,R3,N
+410,suç,,죄/범죄,crime,noun,R3,N
+411,anlaşılmak,,이해되다/합의하다,to be understood,verb,R3,N
+412,hazırlamak,,준비하다,to prepare,verb,R3,N
+413,yerine,,~대신에,instead of,postp,R3,N
+414,sikmek,,성교하다(비속어),to fuck,verb,R3,N
+415,bilgi,,정보/지식,information,noun,R3,N
+416,çabuk,,빨리/빠른,quickly,adv,R3,N
+417,kalkmak,,일어나다/출발하다,to get up,verb,R3,Y
+418,sevgili,,사랑하는/애인,dear,adj,R3,N
+419,sonunda,,결국/마침내,finally,adv,R3,N
+420,başkan,,대통령/회장,president,noun,R3,N
+421,benzemek,,닮다,to resemble,verb,R3,N
+422,dava,,소송/대의,lawsuit,noun,R3,N
+423,beraber,,함께,together,adv,R3,N
+424,alan,,분야/영역,field,noun,R3,N
+425,üzerinde,,~위에/~에 대해,on,postp,R3,N
+426,dört,,넷/4,four,num,R3,N
+427,tamamen,,완전히,completely,adv,R3,N
+428,oldukça,,꽤/상당히,quite,adv,R3,N
+429,satmak,,팔다,to sell,verb,R3,Y
+430,boyunca,,~동안/~을 따라,throughout,postp,R3,N
+431,tarafından,,~에 의해,by,postp,R3,N
+432,güven,,신뢰/안전,trust,noun,R3,N
+433,alınmak,,받아지다/기분 상하다,to be taken,verb,R3,N
+434,bey,,~씨/신사,mister,noun,R3,N
+435,endişelenmek,,걱정하다,to worry,verb,R3,Y
+436,saniye,,초(시간),second,noun,R3,N
+437,neyse,,어쨌든/됐어,anyway,interj,R3,N
+438,hoşlanmak,,좋아하다,to like,verb,R3,N
+439,şarkı,,노래,song,noun,R4,Y
+440,köpek,,개,dog,noun,R4,Y
+441,herif,,녀석/놈,guy,noun,R4,N
+442,ancak,,그러나/겨우,however,conj,R4,N
+443,yatak,,침대,bed,noun,R4,Y
+444,yüzünden,,~때문에,because of,postp,R4,N
+445,peş,,뒤/뒤쫓음,behind,noun,R4,N
+446,takım,,팀/세트,team,noun,R4,Y
+447,be,,야/이봐,hey,interj,R4,N
+448,cinayet,,살인,murder,noun,R4,N
+449,veri,,데이터/자료,data,noun,R4,N
+450,hızlı,,빠른,fast,adj,R4,Y
+451,takip,,추적/팔로우,follow,noun,R4,N
+452,seçmek,,고르다/선택하다,to choose,verb,R4,Y
+453,hayal,,꿈/상상,dream,noun,R4,N
+454,toplamak,,모으다,to collect,verb,R4,Y
+455,çağırmak,,부르다,to call,verb,R4,Y
+456,acı,,아픈/매운/고통,pain,adj,R4,N
+457,tür,,종류/장르,type,noun,R4,N
+458,ise,,~는/~라면,as for,conj,R4,N
+459,yanında,,~옆에/~와 함께,next to,postp,R4,N
+460,sonuç,,결과,result,noun,R4,N
+461,gizli,,비밀의,secret,adj,R4,N
+462,gelin,,신부/며느리,bride,noun,R4,Y
+463,etraf,,주위/주변,surroundings,noun,R4,N
+464,deli,,미친,crazy,adj,R4,N
+465,kaldırmak,,들어 올리다/없애다,to lift,verb,R4,Y
+466,bazen,,가끔,sometimes,adv,R4,N
+467,durdurmak,,멈추게 하다,to stop,verb,R4,N
+468,dans,,춤,dance,noun,R4,Y
+469,mükemmel,,완벽한,perfect,adj,R4,N
+470,herşey,,모든 것,everything,pron,R4,N
+471,bölüm,,부분/학과/회,section,noun,R4,N
+472,başarmak,,성공하다/해내다,to succeed,verb,R4,N
+473,henüz,,아직/방금,yet,adv,R4,N
+474,uyanmak,,깨다/일어나다,to wake up,verb,R4,Y
+475,eş,,배우자/짝,spouse,noun,R4,Y
+476,boş,,빈/한가한,empty,adj,R4,Y
+477,sefer,,번/회/원정,time,noun,R4,N
+478,eğlence,,오락/재미,fun,noun,R4,N
+479,giymek,,입다,to wear,verb,R4,Y
+480,şaka,,농담,joke,noun,R4,N
+481,iz,,흔적,trace,noun,R4,N
+482,güçlü,,강한,strong,adj,R4,Y
+483,kahretmek,,저주하다/망하게 하다,to damn,verb,R4,N
+484,dek,,~까지,until,postp,R4,N
+485,ikinci,,두 번째,second,num,R4,N
+486,tabi,,물론/~에 종속된,of course,adv,R4,N
+487,mesaj,,메시지,message,noun,R4,Y
+488,üzere,,~하기 위해/~하려고,in order to,postp,R4,N
+489,yukarı,,위/위로,up,adv,R4,N
+490,zarar,,피해/손해,damage,noun,R4,N
+491,kulak,,귀,ear,noun,R4,Y
+492,muhtemelen,,아마,probably,adv,R4,N
+493,ülke,,나라,country,noun,R4,N
+494,güvenlik,,안전/보안,security,noun,R4,N
+495,garip,,이상한,strange,adj,R4,N
+496,kayıt,,기록/등록,record,noun,R4,N
+497,geçmiş,,과거/지난,past,noun,R4,N
+498,kurtulmak,,벗어나다/구조되다,to escape,verb,R4,N
+499,ilişki,,관계,relationship,noun,R4,N
+500,evlât,,자식/아들,child,noun,R4,Y
+501,saklamak,,숨기다/보관하다,to hide,verb,R4,Y
+502,bölge,,지역,region,noun,R4,N
+503,katil,,살인자,murderer,noun,R4,N
+504,neden,,이유/왜,reason,noun,R4,N
+505,ruh,,영혼/정신,soul,noun,R4,N
+506,yeniden,,다시/새로,again,adv,R4,N
+507,karışmak,,섞이다/간섭하다,to mix,verb,R4,N
+508,kral,,왕,king,noun,R4,Y
+509,dokunmak,,만지다/건드리다,to touch,verb,R4,Y
+510,patlamak,,터지다/폭발하다,to explode,verb,R4,Y
+511,vay,,와/어머,wow,interj,R4,N
+512,herhangi,,어떤/아무,any,det,R4,N
+513,şirket,,회사,company,noun,R4,N
+514,buluşmak,,만나다,to meet,verb,R4,Y
+515,şurası,,저기/그곳,that place,pron,R4,N
+516,emir,,명령,order,noun,R4,N
+517,sevinmek,,기뻐하다,to rejoice,verb,R4,Y
+518,saymak,,세다/여기다,to count,verb,R4,Y
+519,acele,,서두름,hurry,noun,R4,N
+520,çeviri,,번역,translation,noun,R4,N
+521,aç,,배고픈,hungry,adj,R4,Y
+522,saç,,머리카락,hair,noun,R4,Y
+523,kaybolmak,,사라지다/길을 잃다,to get lost,verb,R4,Y
+524,hastane,,병원,hospital,noun,R4,Y
+525,komik,,웃긴/우스운,funny,adj,R4,N
+526,on,,10/열,ten,num,R4,N
+527,altı,,6/~의 아래,six,num,R4,N
+528,sakın,,절대 ~하지 마,don't,interj,R4,N
+529,taşımak,,나르다/운반하다,to carry,verb,R4,Y
+530,yüksek,,높은,high,adj,R4,Y
+531,ölü,,죽은/시체,dead,adj,R4,N
+532,john,,존,John,noun,R4,N
+533,hâl,,상태/모습,state,noun,R4,N
+534,patron,,사장/보스,boss,noun,R4,Y
+535,ait,,~에 속하는,belonging to,postp,R4,N
+536,amerika,,미국,America,noun,R4,N
+537,normal,,보통의/정상적인,normal,adj,R4,N
+538,uygun,,적합한/알맞은,suitable,adj,R4,N
+539,kelime,,단어,word,noun,R4,N
+540,memnun,,기쁜/만족한,pleased,adj,R4,N
+541,kusur,,결점/잘못,flaw,noun,R4,N
+542,içki,,술,drink,noun,R4,Y
+543,jack,,잭(이름),Jack,noun,R4,N
+544,fotoğraf,,사진,photo,noun,R4,Y
+545,takmak,,달다/끼우다,to attach,verb,R4,N
+546,asıl,,진짜/본래,real,adj,R4,N
+547,dert,,걱정/고민,trouble,noun,R4,N
+548,üzeri,,위/표면,top,noun,R4,N
+549,galiba,,아마,probably,adv,R4,N
+550,sessiz,,조용한,quiet,adj,R4,Y
+551,anlaşma,,합의/협정,agreement,noun,R4,N
+552,çene,,턱,chin,noun,R4,Y
+553,alo,,여보세요,hello,interj,R4,N
+554,başarı,,성공,success,noun,R4,N
+555,ta,,저 멀리/바로,far away,adv,R4,N
+556,grup,,그룹,group,noun,R4,Y
+557,yarı,,반/절반,half,noun,R4,Y
+558,ağız,,입,mouth,noun,R4,Y
+559,ilgi,,관심,interest,noun,R4,N
+560,büyümek,,자라다/커지다,to grow,verb,R4,Y
+561,kesin,,확실한,certain,adj,R4,N
+562,şüphe,,의심,doubt,noun,R4,N
+563,ana,,어머니/주요한,mother,noun,R4,Y
+564,yaklaşmak,,다가가다,to approach,verb,R4,N
+565,uçak,,비행기,airplane,noun,R4,Y
+566,sistem,,시스템/체계,system,noun,R4,N
+567,sokmak,,넣다/찌르다,to insert,verb,R4,N
+568,dolu,,가득한,full,adj,R4,Y
+569,hatta,,심지어,even,conj,R4,N
+570,duygu,,감정,emotion,noun,R4,N
+571,merkez,,중심/센터,center,noun,R4,N
+572,bin,,천/1000,thousand,num,R4,N
+573,tuhaf,,이상한,strange,adj,R4,N
+574,teklif,,제안/제의,offer,noun,R4,N
+575,müzik,,음악,music,noun,R4,Y
+576,nokta,,점/지점,dot,noun,R4,Y
+577,kısa,,짧은,short,adj,R4,Y
+578,suçlamak,,비난하다/탓하다,to blame,verb,R4,N
+579,yedi,,7/일곱,seven,num,R4,N
+580,sürekli,,계속되는/끊임없이,constant,adj,R4,N
+581,böylece,,이렇게 하여,then,adv,R4,N
+582,acaba,,과연/~일까,I wonder,adv,R4,N
+583,kat,,층/겹,floor,noun,R4,N
+584,açıklamak,,설명하다/발표하다,to explain,verb,R4,N
+585,borç,,빚,debt,noun,R4,N
+586,terk,,떠남/버림,abandonment,noun,R4,N
+587,kurban,,희생/제물,sacrifice,noun,R4,N
+588,çözmek,,풀다/해결하다,to solve,verb,R4,N
+589,avukat,,변호사,lawyer,noun,R4,Y
+590,deniz,,바다,sea,noun,R4,Y
+591,ceset,,시체,corpse,noun,R4,Y
+592,ofis,,사무실,office,noun,R4,Y
+593,aynen,,그대로/맞아,exactly,adv,R4,N
+594,üzerine,,~위에/~에 대해,on,postp,R4,N
+595,korkunç,,무서운/끔찍한,terrible,adj,R4,N
+596,sokak,,거리/골목,street,noun,R4,Y
+597,ajan,,요원/스파이,agent,noun,R4,Y
+598,beyaz,,흰/하얀,white,adj,R4,Y
+599,kere,,번/회,time,noun,R4,N
+600,kırmak,,깨다/부수다,to break,verb,R4,Y
+601,tahmin,,추측/예측,guess,noun,R4,N
+602,mümkün,,가능한,possible,adj,R4,N
+603,milyon,,백만,million,num,R4,N
+604,hayvan,,동물,animal,noun,R4,Y
+605,yeterince,,충분히,enough,adv,R4,N
+606,etkilemek,,영향을 주다,to affect,verb,R4,N
+607,kayıp,,손실/분실/실종,loss,noun,R4,N
+608,yavaş,,느린/천천히,slow,adj,R4,Y
+609,kural,,규칙,rule,noun,R4,N
+610,kol,,팔,arm,noun,R4,Y
+611,metre,,미터,meter,noun,R4,N
+612,çevirmek,,돌리다/번역하다,to turn,verb,R4,Y
+613,bağ,,끈/유대,rope,noun,R4,Y
+614,ağlamak,,울다,to cry,verb,R4,Y
+615,ortak,,공동의/동업자,shared,adj,R4,N
+616,günaydın,,좋은 아침,good morning,interj,R4,Y
+617,yaşam,,삶/생활,life,noun,R4,N
+618,beyin,,뇌,brain,noun,R4,Y
+619,yemin,,맹세,oath,noun,R4,N
+620,ekip,,팀,team,noun,R4,Y
+621,kahve,,커피,coffee,noun,R4,Y
+622,berbat,,엉망인/형편없는,awful,adj,R4,N
+623,âşık,,사랑에 빠진/음유시인,in love,adj,R4,Y
+624,dayanmak,,견디다/근거하다,to endure,verb,R4,N
+625,bayılmak,,기절하다/무척 좋아하다,to faint,verb,R4,Y
+626,uğraşmak,,애쓰다/씨름하다,to struggle,verb,R4,N
+627,belli,,분명한/일정한,certain,adj,R4,N
+628,özlemek,,그리워하다,to miss,verb,R4,N
+629,pislik,,더러움/나쁜 놈,filth,noun,R4,N
+630,mesele,,문제/사안,issue,noun,R4,N
+631,hediye,,선물,gift,noun,R4,Y
+632,yollamak,,보내다,to send,verb,R4,N
+633,dikkatli,,조심스러운,careful,adj,R4,N
+634,nefes,,숨/호흡,breath,noun,R4,Y
+635,dönme,,회전/돌아옴,rotation,noun,R4,N
+636,resim,,그림/사진,picture,noun,R4,Y
+637,saldırı,,공격,attack,noun,R4,N
+638,kurmak,,세우다/설립하다,to build,verb,R4,Y
+639,değer,,가치,value,noun,R4,N
+640,asker,,군인,soldier,noun,R4,Y
+641,millet,,국민/민족,nation,noun,R4,N
+642,ışık,,빛,light,noun,R4,Y
+643,suçlu,,범인/유죄인,criminal,noun,R4,Y
+644,temiz,,깨끗한,clean,adj,R4,Y
+645,kaptan,,선장/대장,captain,noun,R4,Y
+646,sınıf,,교실/학년/계층,classroom,noun,R4,Y
+647,koşmak,,달리다,to run,verb,R4,Y
+648,rüya,,꿈,dream,noun,R4,Y
+649,şaşırmak,,놀라다,to be surprised,verb,R4,Y
+650,şöyle,,이렇게/다음과 같이,like this,adv,R4,N
+651,yıldız,,별,star,noun,R4,Y
+652,yetenek,,재능/능력,talent,noun,R4,N
+653,yakında,,곧,soon,adv,R4,N
+654,sam,,샘(이름),Sam,noun,R4,N
+655,dalga,,파도/물결,wave,noun,R4,Y
+656,yerinde,,제자리에/적절한,in place,adj,R4,N
+657,parmak,,손가락,finger,noun,R4,Y
+658,tarih,,역사/날짜,history,noun,R4,N
+659,kaza,,사고,accident,noun,R4,Y
+660,hapis,,감옥/징역,prison,noun,R4,Y
+661,çanta,,가방,bag,noun,R4,Y
+662,masa,,책상/탁자,table,noun,R4,Y
+663,doğum,,출생,birth,noun,R4,N
+664,yalnızca,,오직/단지,only,adv,R4,N
+665,uğramak,,들르다/겪다,to drop by,verb,R4,N
+666,balık,,물고기,fish,noun,R4,Y
+667,imkân,,가능성/기회,possibility,noun,R4,N
+668,kısım,,부분,part,noun,R4,N
+669,ifade,,표현/진술,expression,noun,R4,N
+670,yaratmak,,창조하다/만들어내다,to create,verb,R4,N
+671,vücut,,몸/신체,body,noun,R4,Y
+672,kart,,카드,card,noun,R4,Y
+673,oluşmak,,형성되다/이루어지다,to form,verb,R4,N
+674,temizlemek,,청소하다/닦다,to clean,verb,R4,Y
+675,düşman,,적,enemy,noun,R4,N
+676,umur,,관심(umurumda),concern,noun,R4,N
+677,ayarlamak,,맞추다/준비하다,to arrange,verb,R4,N
+678,saygı,,존경,respect,noun,R4,N
+679,bağlamak,,묶다/연결하다,to tie,verb,R4,Y
+680,yolcu,,승객/여행자,passenger,noun,R4,Y
+681,program,,프로그램,program,noun,R4,N
+682,dair,,~에 관한,about,postp,R4,N
+683,anahtar,,열쇠,key,noun,R4,Y
+684,çoğu,,대부분,most,det,R4,N
+685,kutu,,상자,box,noun,R4,Y
+686,top,,공,ball,noun,R4,Y
+687,seks,,성관계/섹스,sex,noun,R4,N
+688,bağlantı,,연결/링크,connection,noun,R4,N
+689,harcamak,,쓰다/소비하다,to spend,verb,R4,N
+690,takılmak,,걸리다/어울려 놀다,to hang out,verb,R4,N
+691,sıcak,,더운/뜨거운,hot,adj,R4,Y
+692,yiyecek,,음식,food,noun,R4,Y
+693,atlamak,,뛰다/건너뛰다,to jump,verb,R4,Y
+694,uçmak,,날다,to fly,verb,R4,Y
+695,liste,,목록,list,noun,R4,Y
+696,mektup,,편지,letter,noun,R4,Y
+697,noel,,크리스마스,Christmas,noun,R4,Y
+698,dedektif,,탐정,detective,noun,R4,Y
+699,kasaba,,소도시/읍,town,noun,R4,Y
+700,güneş,,해/태양,sun,noun,R4,Y
+701,otel,,호텔,hotel,noun,R4,Y
+702,derece,,정도/도,degree,noun,R4,N
+703,sonsuz,,끝없는/무한한,endless,adj,R4,N
+704,kıç,,엉덩이,butt,noun,R4,Y
+705,pardon,,미안/실례합니다,sorry,interj,R4,N
+706,sene,,해/년,year,noun,R4,N
+707,ilâç,,약,medicine,noun,R4,Y
+708,araç,,수단/차량,vehicle,noun,R4,Y
+709,basit,,간단한/단순한,simple,adj,R4,N
+710,keşke,,~라면 좋을 텐데,if only,interj,R4,N
+711,fırsat,,기회,opportunity,noun,R4,N
+712,karanlık,,어두운/어둠,dark,adj,R4,Y
+713,inanılmaz,,믿을 수 없는,incredible,adj,R4,N
+714,bina,,건물,building,noun,R4,Y
+715,görünüş,,외모/모습,appearance,noun,R4,N
+716,kamera,,카메라,camera,noun,R4,Y
+717,kavga,,싸움,fight,noun,R4,Y
+718,yeterli,,충분한,enough,adj,R4,N
+719,uyuşturucu,,마약,drugs,noun,R4,Y
+720,muhteşem,,멋진/훌륭한,wonderful,adj,R4,N
+721,üzülmek,,슬퍼하다,to be sad,verb,R4,Y
+722,belâ,,골칫거리/재앙,trouble,noun,R4,N
+723,park,,공원/주차,park,noun,R4,Y
+724,toplantı,,회의,meeting,noun,R4,Y
+725,amaç,,목적,goal,noun,R4,N
+726,cehennem,,지옥,hell,noun,R4,N
+727,savaşmak,,싸우다,to fight,verb,R4,Y
+728,erken,,일찍/이른,early,adv,R4,N
+729,şef,,우두머리/요리장,chief,noun,R4,Y
+730,doğmak,,태어나다/(해가) 뜨다,to be born,verb,R4,Y
+731,korkutmak,,겁주다,to scare,verb,R4,Y
+732,allah,,하나님/알라,God,noun,R4,N
+733,dürüst,,정직한,honest,adj,R4,N
+734,amca,,삼촌/아저씨,uncle,noun,R4,Y
+735,dönüşmek,,변하다/바뀌다,to transform,verb,R4,N
+736,charlie,,찰리(이름),Charlie,noun,R4,N
+737,saçmalık,,헛소리,nonsense,noun,R4,N
+738,ordu,,군대,army,noun,R4,Y
+739,planlamak,,계획하다,to plan,verb,R4,N
+740,kanıt,,증거,evidence,noun,R4,N
+741,michael,,마이클,Michael,noun,R4,N
+742,herhâlde,,아마,probably,adv,R4,N
+743,çıkartmak,,꺼내다/벗다,to take out,verb,R4,Y
+744,cidden,,정말로/진지하게,seriously,adv,R4,N
+745,canlı,,살아 있는/생물,alive,adj,R4,N
+746,mahkeme,,법원,court,noun,R4,Y
+747,sır,,비밀,secret,noun,R4,N
+748,gösteri,,공연/시위,show,noun,R4,Y
+749,görüşme,,회담/면담,meeting,noun,R4,Y
+750,duvar,,벽,wall,noun,R4,Y
+751,halk,,국민/민중,people,noun,R4,N
+752,elbise,,드레스/옷,dress,noun,R4,Y
+753,sağlık,,건강,health,noun,R4,N
+754,rapor,,보고서,report,noun,R4,Y
+755,öğretmek,,가르치다,to teach,verb,R4,Y
+756,york,,요크(뉴욕),York,noun,R4,N
+757,gidi,,이 녀석(seni gidi),you rascal,interj,R4,N
+758,ufak,,작은,small,adj,R4,Y
+759,frank,,프랭크(이름),Frank,noun,R4,N
+760,ilginç,,흥미로운,interesting,adj,R4,N
+761,eşya,,물건/짐,belongings,noun,R4,N
+762,ayırmak,,나누다/분리하다,to separate,verb,R4,N
+763,makine,,기계,machine,noun,R4,Y
+764,taşınmak,,이사하다/옮겨지다,to move house,verb,R4,Y
+765,mal,,재산/물건,goods,noun,R4,N
+766,tutuklamak,,체포하다,to arrest,verb,R4,Y
+767,öğrenci,,학생,student,noun,R4,Y
+768,sağolmak,,고맙다(sağ ol),to thank,verb,R4,N
+769,koku,,냄새,smell,noun,R4,Y
+770,zavallı,,불쌍한,poor,adj,R4,N
+771,umut,,희망,hope,noun,R4,N
+772,zorlamak,,강요하다/억지로 하다,to force,verb,R4,N
+773,bilgisayar,,컴퓨터,computer,noun,R4,Y
+774,birçok,,많은/여러,many,det,R4,N
+775,üstüne,,~위에/~에 대해,on top of,postp,R4,N
+776,bacak,,다리,leg,noun,R4,Y
+777,bok,,똥(비속어),poop,noun,R4,N
+778,saldırmak,,공격하다,to attack,verb,R4,N
+779,eğlenmek,,즐기다/놀다,to have fun,verb,R4,Y
+780,soğuk,,차가운/추운,cold,adj,R4,Y
+781,korku,,두려움/공포,fear,noun,R4,Y
+782,ceza,,벌/처벌,punishment,noun,R4,N
+783,çılgın,,미친,crazy,adj,R4,N
+784,araştırma,,연구/조사,research,noun,R4,N
+785,bomba,,폭탄,bomb,noun,R4,Y
+786,acil,,긴급한/응급,urgent,adj,R4,N
+787,gayet,,아주/꽤,quite,adv,R4,N
+788,davet,,초대,invitation,noun,R4,Y
+789,gurur,,자부심,pride,noun,R4,N
+790,süreç,,과정,process,noun,R4,N
+791,tıpkı,,꼭/마치,just like,adv,R4,N
+792,indirmek,,내리다/다운로드하다,to lower,verb,R4,N
+793,yanmak,,타다/불붙다,to burn,verb,R4,Y
+794,defa,,번/회,time,noun,R4,N
+795,zeki,,똑똑한,smart,adj,R4,N
+796,müdür,,국장/관리자,manager,noun,R4,Y
+797,hedef,,목표,target,noun,R4,Y
+798,uzay,,우주,space,noun,R4,Y
+799,düğün,,결혼식,wedding,noun,R4,Y
+800,ileri,,앞으로/앞,forward,adv,R4,N
+801,yakmak,,태우다/켜다,to burn,verb,R4,Y
+802,risk,,위험,risk,noun,R4,N
+803,gazete,,신문,newspaper,noun,R4,Y
+804,evlilik,,결혼,marriage,noun,R4,N
+805,karşılaşmak,,마주치다/맞붙다,to encounter,verb,R4,N
+806,ağaç,,나무,tree,noun,R4,Y
+807,düşünce,,생각,thought,noun,R4,N
+808,ziyaret,,방문,visit,noun,R4,N
+809,karşılık,,대답/대가,response,noun,R4,N
+810,destek,,지원,support,noun,R4,N
+811,etki,,영향/효과,effect,noun,R4,N
+812,yumak,,실뭉치,ball of yarn,noun,R4,Y
+813,müşteri,,고객,customer,noun,R4,Y
+814,tercih,,선택/선호,preference,noun,R4,N
+815,fena,,나쁜/심한,bad,adj,R4,N
+816,sanat,,예술,art,noun,R4,Y
+817,dosya,,파일/서류,file,noun,R4,Y
+818,daire,,원/아파트/부서,apartment,noun,R4,Y
+819,üniversite,,대학교,university,noun,R4,Y
+820,seçim,,선거/선택,election,noun,R4,N
+821,mantık,,논리,logic,noun,R4,N
+822,zevk,,즐거움/취향,pleasure,noun,R4,N
+823,yön,,방향/측면,direction,noun,R4,N
+824,problem,,문제,problem,noun,R4,N
+825,hesap,,계산/계좌/계산서,bill,noun,R4,N
+826,kırmızı,,빨간,red,adj,R4,Y
+827,tartışmak,,논쟁하다/토론하다,to argue,verb,R4,Y
+828,memur,,공무원,civil servant,noun,R4,Y
+829,olası,,가능한,possible,adj,R4,N
+830,banka,,은행,bank,noun,R4,Y
+831,mike,,마이크(이름),Mike,noun,R4,N
+832,george,,조지,George,noun,R4,N
+833,lan,,야/임마,hey,interj,R4,N
+834,hastalık,,병/질병,illness,noun,R4,N
+835,bira,,맥주,beer,noun,R4,Y
+836,tom,,톰(이름),Tom,noun,R4,N
+837,alaka,,관련/관심,relevance,noun,R4,N
+838,kahraman,,영웅,hero,noun,R4,Y
+839,joe,,조(이름),Joe,noun,R4,N
+840,şeytan,,악마,devil,noun,R4,N
+841,özellikle,,특히,especially,adv,R4,N
+842,meşgul,,바쁜,busy,adj,R4,N
+843,birden,,갑자기,suddenly,adv,R4,N
+844,sınır,,경계/국경,border,noun,R4,N
+845,kanıtlamak,,증명하다,to prove,verb,R4,N
+846,adına,,~의 이름으로/~을 위해,on behalf of,postp,R4,N
+847,sert,,딱딱한/거친,hard,adj,R4,N
+848,rağmen,,~에도 불구하고,despite,postp,R4,N
+849,yarışmak,,경쟁하다/대회,to compete,verb,R4,Y
+850,mahvetmek,,망치다,to ruin,verb,R4,N
+851,kaynak,,출처/자원,source,noun,R4,N
+852,yenmek,,이기다/먹히다,to win,verb,R4,Y
+853,kedi,,고양이,cat,noun,R4,Y
+854,çıkarma,,빼기/꺼내기,subtraction,noun,R4,N
+855,heyecan,,흥분/설렘,excitement,noun,R4,Y
+856,ayakkabı,,신발,shoe,noun,R4,Y
+857,tedavi,,치료,treatment,noun,R4,Y
+858,david,,데이비드,David,noun,R4,N
+859,sahne,,무대/장면,stage,noun,R4,Y
+860,vazgeçmek,,포기하다,to give up,verb,R4,N
+861,ilerlemek,,나아가다/진보하다,to advance,verb,R4,N
+862,hanımefendi,,부인/숙녀분,madam,noun,R4,Y
+863,süper,,최고의/멋진,super,adj,R4,N
+864,kıyafet,,옷,clothes,noun,R4,Y
+865,üye,,회원,member,noun,R4,N
+866,öğretmen,,선생님,teacher,noun,R4,Y
+867,kurt,,늑대,wolf,noun,R4,Y
+868,hizmet,,서비스/봉사,service,noun,R4,N
+869,işaret,,표시/신호,sign,noun,R4,Y
+870,hanım,,부인/여사,lady,noun,R4,Y
+871,renk,,색,color,noun,R4,Y
+872,kara,,검은/육지,black,adj,R4,Y
+873,zengin,,부유한/풍부한,rich,adj,R4,Y
+874,gezegen,,행성,planet,noun,R4,Y
+875,ağır,,무거운/심한,heavy,adj,R4,Y
+876,tebrik,,축하,congratulations,noun,R4,N
+877,peter,,피터,Peter,noun,R4,N
+878,sayı,,수/숫자,number,noun,R4,N
+879,sayın,,존경하는(호칭),honorable,adj,R4,N
+880,sarhoş,,술 취한,drunk,adj,R4,Y
+881,saklanmak,,숨다,to hide,verb,R4,Y
+882,sigara,,담배,cigarette,noun,R4,Y
+883,tanık,,증인/목격자,witness,noun,R4,N
+884,dolaşmak,,돌아다니다,to wander,verb,R4,Y
+885,saçma,,터무니없는,absurd,adj,R4,N
+886,iğrenç,,역겨운,disgusting,adj,R4,N
+887,kimlik,,신분/정체성,identity,noun,R4,N
+888,uzaklaşmak,,멀어지다,to move away,verb,R4,N
+889,kenar,,가장자리/옆,edge,noun,R4,N
+890,tuvalet,,화장실,toilet,noun,R4,Y
+891,sunmak,,제공하다/발표하다,to present,verb,R4,N
+892,randevu,,약속/예약,appointment,noun,R4,N
+893,anı,,추억/기억,memory,noun,R4,N
+894,dolayı,,~때문에,due to,postp,R4,N
+895,acımak,,아프다/불쌍히 여기다,to hurt,verb,R4,N
+896,eskiden,,예전에,formerly,adv,R4,N
+897,teslim,,인도/제출/항복,delivery,noun,R4,N
+898,uyku,,잠,sleep,noun,R4,Y
+899,salak,,바보 같은,stupid,adj,R4,N
+900,siyah,,검은/검정,black,adj,R4,Y
+901,tehdit,,위협,threat,noun,R4,N
+902,dükkân,,가게,shop,noun,R4,Y
+903,alay,,조롱,mockery,noun,R4,N
+904,hırsız,,도둑,thief,noun,R4,Y
+905,sıkı,,단단한/꽉 끼는,tight,adj,R4,N
+906,orman,,숲,forest,noun,R4,Y
+907,canavar,,괴물,monster,noun,R4,Y
+908,dua,,기도,prayer,noun,R4,Y
+909,kâğıt,,종이,paper,noun,R4,Y
+910,şeker,,설탕/사탕,sugar,noun,R4,Y
+911,öğle,,정오/점심때,noon,noun,R4,N
+912,endişe,,걱정,worry,noun,R4,N
+913,seçenek,,선택지,option,noun,R4,N
+914,derin,,깊은,deep,adj,R4,Y
+915,yönetmek,,관리하다/운영하다,to manage,verb,R4,N
+916,orospu,,창녀(비속어),prostitute,noun,R4,N
+917,verici,,~을 주는/송신기,giving,adj,R4,N
+918,test,,시험/테스트,test,noun,R4,Y
+919,yanılmak,,틀리다/잘못 알다,to be wrong,verb,R4,N
+920,burun,,코,nose,noun,R4,Y
+921,maç,,경기/시합,match,noun,R4,Y
+922,not,,메모/점수,note,noun,R4,Y
+923,tarz,,스타일/방식,style,noun,R4,N
+924,donmak,,얼다,to freeze,verb,R4,Y
+925,sevgi,,사랑/애정,love,noun,R4,N
+926,tren,,기차,train,noun,R4,Y
+927,paylaşmak,,나누다/공유하다,to share,verb,R4,Y
+928,hamile,,임신한,pregnant,adj,R4,Y
+929,rahatlamak,,안심하다/편해지다,to relax,verb,R4,Y
+930,yetmek,,충분하다,to suffice,verb,R4,N
+931,uyarmak,,경고하다,to warn,verb,R4,N
+932,eğitim,,교육,education,noun,R4,N
+933,kovmak,,쫓아내다/해고하다,to fire,verb,R4,N
+934,kuzey,,북쪽,north,noun,R4,N
+935,düşürmek,,떨어뜨리다,to drop,verb,R4,Y
+936,bağırmak,,소리치다,to shout,verb,R4,Y
+937,birlik,,연합/단결,union,noun,R4,N
+938,ameliyat,,수술,surgery,noun,R4,Y
+939,kırık,,부러진/깨진,broken,adj,R4,Y
+940,abi,,형/오빠,older brother,noun,R4,Y
+941,yüzmek,,수영하다,to swim,verb,R4,Y
+942,defolmak,,꺼지다,to get lost,verb,R4,N
+943,çift,,쌍/커플,couple,noun,R4,Y
+944,kilise,,교회,church,noun,R4,Y
+945,delik,,구멍,hole,noun,R4,Y
+946,itiraf,,고백/자백,confession,noun,R4,N
+947,televizyon,,텔레비전,television,noun,R4,Y
+948,istek,,바람/요청,request,noun,R4,N
+949,öpmek,,키스하다,to kiss,verb,R4,Y
+950,köy,,마을,village,noun,R4,Y
+951,doldurmak,,채우다,to fill,verb,R4,Y
+952,toprak,,땅/흙,soil,noun,R4,Y
+953,ikna,,설득,persuasion,noun,R4,N
+954,söylenmek,,말해지다,to be said,verb,R4,N
+955,tat,,맛,taste,noun,R4,N
+956,kalın,,두꺼운,thick,adj,R4,Y
+957,evli,,결혼한,married,adj,R4,N
+958,sekiz,,8/여덟,eight,num,R4,Y
+959,giriş,,입구/도입,entrance,noun,R4,Y
+960,kulüp,,클럽,club,noun,R4,N
+961,serbest,,자유로운,free,adj,R4,N
+962,yarar,,이익/유용함,benefit,noun,R4,N
+963,güney,,남쪽,south,noun,R4,N
+964,hiçbiri,,아무도/아무것도,none,pron,R4,N
+965,sık,,잦은/빽빽한,frequent,adj,R4,N
+966,meselâ,,예를 들어,for example,adv,R4,N
+967,üçüncü,,셋째,third,num,R4,N
+968,general,,장군,general,noun,R4,Y
+969,düzeltmek,,고치다/바로잡다,to fix,verb,R4,N
+970,incelemek,,조사하다/검토하다,to examine,verb,R4,N
+971,lider,,지도자,leader,noun,R4,N
+972,basmak,,누르다/밟다,to press,verb,R4,Y
+973,şarap,,와인,wine,noun,R4,Y
+974,dinlenmek,,쉬다,to rest,verb,R4,Y
+975,binmek,,타다,to ride,verb,R4,Y
+976,benimki,,내 것,mine,pron,R4,N
+977,yetişmek,,자라다/제때 닿다,to grow,verb,R4,N
+978,resmî,,공식적인,official,adj,R4,N
+979,birinci,,첫째/1등,first,num,R4,N
+980,bozmak,,망가뜨리다/고장내다,to break,verb,R4,N
+981,buz,,얼음,ice,noun,R4,Y
+982,savunma,,방어/변호,defense,noun,R4,N
+983,çay,,차,tea,noun,R4,Y
+984,deneme,,시도/시험,trial,noun,R4,N
+985,yarım,,반/절반,half,adj,R4,Y
+986,sürpriz,,깜짝 선물/놀라운 일,surprise,noun,R4,N
+987,gözükmek,,보이다/나타나다,to appear,verb,R4,N
+988,bahis,,내기,bet,noun,R4,N
+989,bahçe,,정원,garden,noun,R4,Y
+990,yazık,,안타깝다/불쌍해,what a pity,interj,R4,N
+991,yaramaz,,장난꾸러기의,naughty,adj,R4,Y
+992,reddetmek,,거절하다,to refuse,verb,R4,N
+993,kızgın,,화난,angry,adj,R4,Y
+994,açı,,각도/관점,angle,noun,R4,N
+995,öte,,~너머/저쪽,beyond,postp,R4,N
+996,açıklama,,설명/발표,explanation,noun,R4,N
+997,itmek,,밀다,to push,verb,R4,Y
+998,ters,,반대의/거꾸로,upside down,adj,R4,Y
+999,paul,,폴(이름),Paul,noun,R4,N
+1000,henry,,헨리(이름),Henry,noun,R4,N
+1001,sorumlu,,책임 있는/책임자,responsible,adj,R4,N
+1002,ray,,레이(이름),Ray,noun,R4,N
+1003,sol,,왼쪽/왼,left,adj,R4,Y
+1004,ödül,,상,prize,noun,R4,Y
+1005,seksi,,섹시한,sexy,adj,R4,N
+1006,tavsiye,,추천/조언,advice,noun,R4,N
+1007,çiçek,,꽃,flower,noun,R4,Y
+1008,rol,,역할,role,noun,R4,N
+1009,boy,,키/길이,height,noun,R4,Y
+1010,deri,,가죽/피부,leather,noun,R4,Y
+1011,cesaret,,용기,courage,noun,R4,N
+1012,yabancı,,외국의/외국인,foreign,adj,R4,N
+1013,niyet,,의도,intention,noun,R4,N
+1014,aferin,,잘했어,well done,interj,R4,N
+1015,satın,,사다(satın al-),buy,adv,R4,N
+1016,huzur,,평온/안정,peace,noun,R4,N
+1017,max,,맥스(이름),Max,noun,R4,N
+1018,özgür,,자유로운,free,adj,R4,N
+1019,kader,,운명,fate,noun,R4,N
+1020,laf,,말/이야기,talk,noun,R4,N
+1021,mavi,,파란,blue,adj,R4,Y
+1022,diş,,이/치아,tooth,noun,R4,Y
+1023,devlet,,국가/정부,state,noun,R4,N
+1024,bilim,,과학,science,noun,R4,N
+1025,göğüs,,가슴,chest,noun,R4,Y
+1026,enerji,,에너지,energy,noun,R4,N
+1027,vurulmak,,총에 맞다/반하다,to be shot,verb,R4,N
+1028,nişan,,약혼/표적,engagement,noun,R4,N
+1029,na,,옜다/여기,here,interj,R4,N
+1030,ten,,피부,skin,noun,R4,Y
+1031,servis,,서비스/셔틀,service,noun,R4,N
+1032,tatil,,휴가/방학,holiday,noun,R4,Y
+1033,bilet,,표/티켓,ticket,noun,R4,Y
+1034,araştırmak,,조사하다/연구하다,to investigate,verb,R4,Y
