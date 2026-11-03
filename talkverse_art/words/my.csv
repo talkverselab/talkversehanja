@@ -45,32 +45,32 @@ rank,word,reading,ko,en,pos,level,picturable
 44,မှ,hma,"~에서(부터), ~해야만",from,particle,R1,N
 45,နိုင်,nain,"~할 수 있다, 이기다",can,aux,R1,N
 46,ဒါ,da,이것,this,pron,R1,N
-47,လေ,lay,"바람, 공기, 문말 강조",wind,noun,R1,Y
-48,ဖို့,hpo,"~하기 위해, ~할 것",for,particle,R1,N
-49,လို,lo,"~처럼, 필요하다, 원하다",like,particle,R1,N
+47,လေ,lay,"바람, 공기, 문말 강조",wind,noun,R2,Y
+48,ဖို့,hpo,"~하기 위해, ~할 것",for,particle,R2,N
+49,လို,lo,"~처럼, 필요하다, 원하다",like,particle,R2,N
 50,သိ,thi,알다,know,verb,R1,N
-51,ကြ,kya,복수 동사 표지(~들),plural marker,particle,R1,N
-52,ခု,khu,"개(분류사), 지금",piece,clf,R1,N
-53,ကြီး,kyi,"크다, 큰",big,adj,R1,Y
-54,ပေါ့,paw,물론 ~지(문말 강조),of course,particle,R1,N
+51,ကြ,kya,복수 동사 표지(~들),plural marker,particle,R2,N
+52,ခု,khu,"개(분류사), 지금",piece,clf,R2,N
+53,ကြီး,kyi,"크다, 큰",big,adj,R2,Y
+54,ပေါ့,paw,물론 ~지(문말 강조),of course,particle,R2,N
 55,ကောင်း,kaung,좋다,good,adj,R2,N
 56,အဲဒီ,e di,그(지시),that,det,R2,N
 57,ချင်,chin,~하고 싶다,want,aux,R2,N
 58,လည်း,leh,"~도, 또한",also,particle,R2,N
 59,ထဲ,hte,"안, 속",inside,noun,R2,N
 60,ရင်,yin,~하면(조건),if,conj,R2,N
-61,အတွက်,a twet,~을 위해,for,particle,R2,N
-62,ကျွန်မ,kya ma,저(여성 1인칭),I,pron,R2,N
-63,ယောက်,yauk,명(사람 세는 단위),person,clf,R2,N
-64,အဲဒါ,e da,그것,that,pron,R2,N
-65,ကြည့်,kyi,보다,look,verb,R2,Y
-66,အခု,a khu,지금,now,adv,R2,N
-67,ပြန်,pyan,"돌아가다, 다시",return,verb,R2,N
-68,လူ,lu,사람,person,noun,R2,Y
-69,တွေ့,tway,"만나다, 찾다",meet,verb,R2,Y
-70,မှု,hmu,"명사화 접미(~함, ~일)",matter,particle,R2,N
-71,ခင်ဗျား,khin bya,당신(남성 화자),you,pron,R2,N
-72,ကျွန်တော်,kya naw,저(남성 1인칭),I,pron,R2,N
+61,အတွက်,a twet,~을 위해,for,particle,R3,N
+62,ကျွန်မ,kya ma,저(여성 1인칭),I,pron,R3,N
+63,ယောက်,yauk,명(사람 세는 단위),person,clf,R3,N
+64,အဲဒါ,e da,그것,that,pron,R3,N
+65,ကြည့်,kyi,보다,look,verb,R3,Y
+66,အခု,a khu,지금,now,adv,R3,N
+67,ပြန်,pyan,"돌아가다, 다시",return,verb,R3,N
+68,လူ,lu,사람,person,noun,R3,Y
+69,တွေ့,tway,"만나다, 찾다",meet,verb,R3,Y
+70,မှု,hmu,"명사화 접미(~함, ~일)",matter,particle,R3,N
+71,ခင်ဗျား,khin bya,당신(남성 화자),you,pron,R3,N
+72,ကျွန်တော်,kya naw,저(남성 1인칭),I,pron,R3,N
 73,နော်,naw,"~지?, ~요(확인·부드럽게)",okay,particle,R3,N
 74,ဘယ်လို,be lo,어떻게,how,adv,R3,N
 75,စရာ,sa ya,"~할 것, ~할 거리",thing to do,particle,R3,N
@@ -90,7 +90,7 @@ rank,word,reading,ko,en,pos,level,picturable
 89,ထွက်,htwet,나가다,exit,verb,R3,Y
 90,ရောက်,yauk,도착하다,arrive,verb,R3,Y
 91,နင်,nin,너(친근),you,pron,R3,N
-92,မလား,ma la,~할까?(미래 의문),will it?,phrase,R3,N
+92,မလား,ma la,~할까?(미래 의문),will it?,phrase,EXT,N
 93,ဒါပေမဲ့,da pay meh,하지만,but,conj,R3,N
 94,ကြောင့်,kyaung,~때문에,because of,particle,R3,N
 95,ရှာ,sha,찾다,search,verb,R3,Y
@@ -103,7 +103,7 @@ rank,word,reading,ko,en,pos,level,picturable
 102,ရေး,yay,쓰다,write,verb,R3,Y
 103,စေ,say,~하게 하다(사역),let,aux,R3,N
 104,ခေါ်,khaw,부르다,call,verb,R3,Y
-105,ဟုတ်လား,hoke la,"그래?, 정말?",really,phrase,R3,N
+105,ဟုတ်လား,hoke la,"그래?, 정말?",really,phrase,EXT,N
 106,လိမ့်,lein,"~일 것이다(추측), 굴리다",will,aux,R3,N
 107,အင်း,in,"응, 음",yeah,interj,R3,N
 108,နည်း,ni,"적다, 방법",few,adj,R3,N
@@ -112,52 +112,52 @@ rank,word,reading,ko,en,pos,level,picturable
 111,ကလေး,kha lay,아이,child,noun,R3,Y
 112,ဘယ်သူ,be thu,누구,who,pron,R3,N
 113,ထင်,htin,"생각하다, 여기다",think,verb,R3,N
-114,မလဲ,ma le,~할까?(미래 의문사 질문),will?,phrase,R3,N
+114,မလဲ,ma le,~할까?(미래 의문사 질문),will?,phrase,EXT,N
 115,အဖေ,a hpay,아버지,father,noun,R3,Y
 116,အလုပ်,a loke,"일, 직업",work,noun,R3,Y
-117,သင့်,thin,"~해야 마땅하다, 당신의",should,aux,R3,N
+117,သင့်,thin,"~해야 마땅하다, 당신의",should,aux,EXT,N
 118,အိမ်,ein,집,house,noun,R3,Y
 119,ပြ,pya,보여주다,show,verb,R3,Y
-120,ရအောင်,ya aung,~하자(청유),let's,phrase,R3,N
-121,တာလဲ,ta le,~한 거야?(의문사 질문 종결),what is it,phrase,R3,N
-122,မြန်,myan,빠르다,fast,adj,R3,Y
-123,ဘက်,bet,"쪽, 편",side,noun,R3,N
-124,မျိုး,myo,"종류, 가문",kind,noun,R3,N
+120,ရအောင်,ya aung,~하자(청유),let's,phrase,EXT,N
+121,တာလဲ,ta le,~한 거야?(의문사 질문 종결),what is it,phrase,EXT,N
+122,မြန်,myan,빠르다,fast,adj,EXT,Y
+123,ဘက်,bet,"쪽, 편",side,noun,EXT,N
+124,မျိုး,myo,"종류, 가문",kind,noun,EXT,N
 125,မယ့်,meh,~할(미래 관형),future,particle,R3,N
-126,အကြောင်း,a kyaung,"~에 관해, 이유",about,noun,R3,N
-127,စကား,za ga,"말, 언어",speech,noun,R3,N
+126,အကြောင်း,a kyaung,"~에 관해, 이유",about,noun,EXT,N
+127,စကား,za ga,"말, 언어",speech,noun,EXT,N
 128,ပစ်,pyit,"던지다, 쏘다",throw,verb,R3,Y
-129,ဟုတ်တယ်,hoke te,"맞아요, 그래요",yes,phrase,R3,N
-130,နင့်,nin,"너의, 너를",your,pron,R3,N
+129,ဟုတ်တယ်,hoke te,"맞아요, 그래요",yes,phrase,EXT,N
+130,နင့်,nin,"너의, 너를",your,pron,EXT,N
 131,သတ်,that,죽이다,kill,verb,R3,N
-132,ပို,po,더,more,adv,R3,N
+132,ပို,po,더,more,adv,EXT,N
 133,စမ်း,san,"시도하다, ~해 봐",try,verb,R3,N
-134,ဆီ,hsi,"기름, ~에게(로)",oil,noun,R3,Y
-135,တိုင်း,taing,"~마다, 지역",every,particle,R3,N
-136,ခံ,khan,"받다, 견디다, 피동",receive,verb,R3,N
+134,ဆီ,hsi,"기름, ~에게(로)",oil,noun,EXT,Y
+135,တိုင်း,taing,"~마다, 지역",every,particle,EXT,N
+136,ခံ,khan,"받다, 견디다, 피동",receive,verb,EXT,N
 137,တကယ်,ta ge,"정말, 진짜",really,adv,R3,N
-138,အို,o,"오!, 늙다",oh,interj,R3,N
-139,သာ,tha,"~만, 더, 맑다",only,particle,R3,N
+138,အို,o,"오!, 늙다",oh,interj,EXT,N
+139,သာ,tha,"~만, 더, 맑다",only,particle,EXT,N
 140,မိ,mi,"무심코 ~하다, 붙잡히다",accidentally,aux,R3,N
-141,မြင်,myin,보다(보이다),see,verb,R3,Y
-142,ကိစ္စ,kait sa,"일, 용건",matter,noun,R3,N
-143,ဝင်,win,들어가다,enter,verb,R3,Y
-144,အား,a,"힘, ~에게(문어), 한가함",strength,noun,R3,N
-145,သင်,thin,"당신(문어), 배우다, 가르치다",you,pron,R3,N
-146,ဘဲ,be,오리,duck,noun,R3,Y
-147,ရှင့်,shin,당신의(여성 화자),your,pron,R3,N
-148,ယူ,yu,"가지다, 가져가다",take,verb,R3,Y
-149,အမေ,a may,어머니,mother,noun,R3,Y
-150,သား,tha,아들,son,noun,R3,Y
-151,ကျ,kya,"떨어지다, ~에 와서는",fall,verb,R3,Y
-152,စိတ်,seit,"마음, 정신",mind,noun,R3,N
-153,ထင်တယ်,htin te,~인 것 같아요,I think,phrase,R3,N
-154,ခွင့်,khwin,"허락, 휴가",permission,noun,R3,N
-155,တတ်,tat,~할 줄 알다,can,aux,R3,N
-156,အရမ်း,a yan,"너무, 매우",very,adv,R3,N
-157,ပေမယ့်,pay me,~지만,but,conj,R3,N
-158,ပေါ်,paw,"위, 나타나다",on,noun,R3,N
-159,တောင်းပန်,taung pan,사과하다,apologize,verb,R3,Y
+141,မြင်,myin,보다(보이다),see,verb,EXT,Y
+142,ကိစ္စ,kait sa,"일, 용건",matter,noun,EXT,N
+143,ဝင်,win,들어가다,enter,verb,EXT,Y
+144,အား,a,"힘, ~에게(문어), 한가함",strength,noun,EXT,N
+145,သင်,thin,"당신(문어), 배우다, 가르치다",you,pron,EXT,N
+146,ဘဲ,be,오리,duck,noun,EXT,Y
+147,ရှင့်,shin,당신의(여성 화자),your,pron,EXT,N
+148,ယူ,yu,"가지다, 가져가다",take,verb,EXT,Y
+149,အမေ,a may,어머니,mother,noun,EXT,Y
+150,သား,tha,아들,son,noun,EXT,Y
+151,ကျ,kya,"떨어지다, ~에 와서는",fall,verb,EXT,Y
+152,စိတ်,seit,"마음, 정신",mind,noun,EXT,N
+153,ထင်တယ်,htin te,~인 것 같아요,I think,phrase,EXT,N
+154,ခွင့်,khwin,"허락, 휴가",permission,noun,EXT,N
+155,တတ်,tat,~할 줄 알다,can,aux,EXT,N
+156,အရမ်း,a yan,"너무, 매우",very,adv,EXT,N
+157,ပေမယ့်,pay me,~지만,but,conj,EXT,N
+158,ပေါ်,paw,"위, 나타나다",on,noun,EXT,N
+159,တောင်းပန်,taung pan,사과하다,apologize,verb,EXT,Y
 160,သုံး,thoun,"셋, 사용하다",three,num,EXT,Y
 161,သိတယ်,thi te,알아요,I know,phrase,EXT,N
 162,စောင့်,saung,"기다리다, 지키다",wait,verb,EXT,Y
