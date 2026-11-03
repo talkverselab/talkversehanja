@@ -147,3 +147,14 @@ rank,word,reading,romaji,ko,en,pos,level,scene_hint
 9048,lekvár,레끄바르,jam,잼,jam,noun,food,"유리병에 담긴 주황 살구잼, 숟가락으로 한 번 뜬 자국."
 9049,tokaji aszú,또까이 어쑤,sweet_dessert_wine,토카이 디저트 와인,sweet dessert wine,noun,food,작은 와인잔에 담긴 황금빛 디저트 와인과 옆에 납작한 병.
 9050,pálinka,빨링꺼,fruit_brandy,팔링카(과일 증류주),fruit brandy,noun,food,"가늘고 작은 튤립 모양 잔에 투명한 술, 옆에 살구 두 알과 작은 병."
+3002,éjszaka,에이사카,night,밤,night,noun,R5,"부다페스트 다뉴브 강변 밤, 불 켜진 국회의사당 앞 다리를 걷는 커플과 가로등"
+3003,tea,테아,tea,차,tea,noun,R5,헝가리 가정 거실에서 할머니가 손님에게 찻잔에 차를 따라 주고 레몬 조각이 곁들여진 장면
+3004,tej,테이,milk,우유,milk,noun,R5,아침 식탁에서 아빠가 아이의 컵에 우유를 따르고 옆에 빵이 있는 장면
+3005,sütemény,슈테메니,pastry,케이크·과자류,cake / pastry,noun,R5,부다페스트 카페 진열대 앞에서 점원이 손님에게 크림 케이크 조각을 접시에 담아 건네는 장면
+3007,múzeum,무제움,museum,박물관,museum,noun,R5,박물관 전시실에서 안내원이 가족에게 큰 그림을 설명하는 장면
+3008,gyalog,저로그,on_foot,걸어서,on foot,adv,R5,배낭 멘 두 친구가 부다 성 언덕 돌길을 걸어 오르고 옆으로 트램이 지나가는 장면
+3009,művészet,뮈베세트,art,예술,art,noun,R5,화실에서 화가가 이젤 앞에서 그림을 그리고 학생들이 둘러서서 보는 장면(그림은 색면만)
+3010,mozi,모지,cinema,영화관,cinema,noun,R5,영화관 입구에서 커플이 팝콘을 들고 들어가는 장면(간판 글자 없음)
+3011,állomás,알로마시,station,역,station,noun,R5,부다페스트 켈레티 역 승강장에서 여행 가방 든 사람들이 기차에 오르는 장면(표지판 글자 없음)
+3012,ráér,라에르,have_time,시간이 있다,to have time,verb,R5,카페에서 여자가 손목시계를 보며 여유롭게 웃고 친구가 메뉴를 건네는 장면
+3014,Budapest,부더페슈트,budapest,부다페스트,Budapest,noun,R5,다뉴브 강 위 세체니 다리와 국회의사당이 보이는 전망대에서 관광객 가족이 사진 찍는 장면

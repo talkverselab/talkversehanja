@@ -1499,3 +1499,17 @@ rank,word,reading,ko,en,pos,level,picturable
 1498,neved,네베드,네 이름,your name,noun,EXT,N
 1499,sztori,스토리,이야기,story,noun,EXT,N
 1500,kirúg,키루그,"내쫓다, 해고하다",to fire,verb,EXT,N
+3001,szombat,솜바트,토요일,Saturday,noun,R5,N
+3002,éjszaka,에이사카,밤,night,noun,R5,Y
+3003,tea,테아,차(음료),tea,noun,R5,Y
+3004,tej,테이,우유,milk,noun,R5,Y
+3005,sütemény,슈테메니,케이크·과자류,cake / pastry,noun,R5,Y
+3006,rétes,레테시,레테시(헝가리 스트루델),strudel,noun,R5,Y
+3007,múzeum,무제움,박물관,museum,noun,R5,Y
+3008,gyalog,저로그,걸어서,on foot,adv,R5,Y
+3009,művészet,뮈베세트,예술,art,noun,R5,Y
+3010,mozi,모지,영화관,cinema,noun,R5,Y
+3011,állomás,알로마시,역,station,noun,R5,Y
+3012,ráér,라에르,시간이 있다,to have time,verb,R5,Y
+3013,Korea,코레아,한국,Korea,noun,R5,N
+3014,Budapest,부더페슈트,부다페스트,Budapest,noun,R5,Y
