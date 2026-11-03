@@ -412,3 +412,28 @@ rank,word,reading,romaji,ko,en,pos,level,scene_hint
 9048,serabi,,coconut_pancake,스라비,coconut pancake,noun,food,작은 질그릇 팬에 구운 둥근 쌀가루 팬케이크에 갈색 야자설탕 시럽을 끼얹는다.
 9049,kue lapis,,layered_steamed_cake,쿠에 라피스,layered steamed cake,noun,food,분홍·초록·흰색 줄이 겹겹이 쌓인 쫀득한 찐 쌀떡을 네모나게 썬 간식.
 9050,durian,,durian,두리안,durian,noun,food,가시 돋친 초록 껍질을 갈라 노란 크림 같은 과육 덩어리가 드러난 열대 과일.
+9101,nyanyi,냐니,nyanyi,노래하다,to sing,v,R5,동네 행사 무대에서 두 청년이 마이크를 들고 함께 노래하고 관객이 박수치는 장면
+9102,traktir,트락티르,traktir,한턱내다,to treat,v,R5,식당에서 청년이 계산대에 지갑을 내밀어 친구들 밥값을 내고 친구들이 고마워하는 장면
+9103,pedas,프다스,pedas,맵다,spicy,adj,R5,식당에서 손님이 붉은 삼발 고추 소스를 넣은 음식을 먹고 얼굴이 빨개져 물을 찾는 장면
+9104,paspor,파스포르,paspor,여권,passport,n,R5,공항 출입국 창구에서 여행객이 여권을 펼쳐 직원에게 건네고 직원이 확인하는 장면
+9105,angkot,앙콧,angkot,앙콧,minibus,n,R5,자바 거리에서 승객이 가득 탄 파란 소형 승합 앙콧이 서고 차장이 문 밖으로 손짓하는 장면
+9106,terminal,테르미날,terminal,터미널,terminal,n,R5,버스 터미널에서 승객들이 가방을 들고 버스에 오르고 차장이 행선지를 외치는 장면
+9107,ketok,크톡,ketok,똑똑 두드리다,to knock,v,R5,저녁 집 현관문을 이웃 남자가 손으로 두드리고 안에서 아이가 문 쪽을 보는 장면
+9108,duit,두잇,duit,돈,money,n,R5,길가 가게에서 손님이 지폐를 세어 상인에게 건네고 상인이 받는 장면
+9109,kantong,칸통,kantong,봉지·주머니,"bag, pocket",n,R5,편의점 계산대에서 직원이 장본 물건을 비닐 봉지에 담아 손님에게 건네는 장면
+9110,struknya,스트룩냐,struknya,영수증,receipt,n,R5,마트 계산대에서 직원이 긴 종이 영수증을 뽑아 손님에게 건네고 손님이 확인하는 장면
+9111,kenyang,크냥,kenyang,배부르다,full,adj,R5,식탁에서 남자가 빈 접시 앞에서 배를 두드리며 만족해하고 가족이 웃는 장면
+9112,nungguin,눙구인,nungguin,기다려 주다,to wait for,v,R5,버스 정류장에서 여성이 시계를 보며 기다리고 친구가 멀리서 뛰어오는 장면
+9113,bareng,바렝,bareng,함께,together,adv,R5,거실 소파에 친구들이 나란히 앉아 팝콘을 나눠 먹으며 함께 TV를 보는 장면
+9114,sepi,스피,sepi,한산하다·조용하다,"deserted, quiet",adj,R5,이른 아침 텅 빈 시장 골목에 상인 한 명이 의자에 앉아 손님을 기다리는 장면
+9115,tonton,톤톤,tonton,보다·시청하다,to watch,v,R5,거실에서 가족이 소파에 앉아 TV 화면을 보며 웃는 장면
+9116,presentasi,프레젠타시,presentasi,발표,presentation,n,R5,회의실 스크린 앞에서 직원이 발표하고 동료들이 앉아 메모하는 장면
+9117,henti,헨티,henti,멈추다,to stop,v,R5,횡단보도 앞에서 오토바이 운전자가 멈추고 보행자들이 건너는 장면
+9118,payung,파융,payung,우산,umbrella,n,R5,비 오는 거리에서 학생이 큰 우산을 펴 친구와 함께 쓰고 걷는 장면
+9119,jas,자스,jas,재킷·우비,"coat, jacket",n,R5,비 오는 날 오토바이 운전자가 우비를 입고 뒤에 탄 승객에게 우비를 건네는 장면
+9120,telat,트랏,telat,늦다,late,adj,R5,아침 학교 정문 앞에서 학생이 가방을 메고 숨차게 뛰어오고 교사가 시계를 보는 장면
+9121,gang,강,gang,골목,alley,n,R5,좁은 자카르타 주택가 골목에서 아이들이 뛰고 주민이 문 앞에 앉아 있는 장면
+9122,ember,엠브르,ember,양동이,bucket,n,R5,우물가에서 여인이 물을 양동이에 가득 담아 들고 아이가 도와주는 장면
+9123,helm,헬름,helm,헬멧,helmet,n,R5,길가에서 아버지가 아이에게 헬멧을 씌워 주고 끈을 채워 주는 장면
+9124,latih,라티,latih,연습하다,to practice,v,R5,체육관에서 청년이 코치의 지도를 받으며 줄넘기를 연습하는 장면
+9125,pegang,프강,pegang,잡다,to hold,v,R5,시장에서 아이가 어머니의 손을 꼭 잡고 사람들 사이를 걷는 장면
