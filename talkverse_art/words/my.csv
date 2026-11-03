@@ -1499,3 +1499,22 @@ rank,word,reading,ko,en,pos,level,picturable
 1498,မျက်နှာဖုံး,myet hna hpone,가면,mask,noun,EXT,Y
 1499,အကြည့်,a kyi,시선,look,noun,EXT,N
 1500,မှီ,hmi,"기대다, 따라잡다",lean,verb,EXT,N
+3001,ဒီနေ့,디네,오늘,today,adv,R5,N
+3002,နံပြား,난비야,난 빵 (미얀마식 납작빵),naan flatbread,n,R5,N
+3003,ပလာတာ,팔라타,팔라타 (겹겹이 구운 빵),paratha,n,R5,N
+3004,ရေသန့်,예땐,생수 · 정수된 물,bottled drinking water,n,R5,Y
+3005,ကိတ်မုန့်,께익몬,케이크,cake,n,R5,Y
+3006,ကိုရီးယားလူ,꼬리야루,한국인,Korean person,n,R5,N
+3007,ချိုချို,초초,달콤한 · 달달한,sweet,adj,R5,Y
+3008,စပ်စပ်,쎕쎕,매콤한 · 얼얼한,spicy,adj,R5,Y
+3009,စားစရာ,싸자야,먹을 것 · 먹거리,something to eat,n,R5,N
+3010,ဈေးကြီးတယ်,제지데,비싸다,it's expensive,expr,R5,N
+3011,နည်းနည်း,네네,조금 · 약간,a little,adv,R5,N
+3012,နှစ်ဆယ်,니쎄,스물 (20),twenty,num,R5,N
+3013,မုန့်ဟင်းခါး,몬힝가,몬힝가 (생선 국물 쌀국수),mohinga,n,R5,N
+3014,မြန်မာစာ,미얀마사,미얀마어 · 미얀마 글,Burmese language,n,R5,N
+3015,ရွှေတိဂုံ,쉐디공,쉐다곤 파고다,Shwedagon Pagoda,n,R5,Y
+3016,လက်ဖက်ရည်,렛펫예,밀크티,Burmese milk tea,n,R5,N
+3017,လုံချည်,롱지,롱지 (전통 치마),longyi,n,R5,Y
+3018,အားနာပါတယ်,아나바데,죄송해요 · 미안해요,I'm sorry / I feel bad,expr,R5,N
+3019,အားမနာပါနဲ့,아마나바네,부담 갖지 마세요,don't hesitate,expr,R5,N

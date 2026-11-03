@@ -265,3 +265,9 @@ rank,word,reading,romaji,ko,en,pos,level,scene_hint
 9048,ရှမ်းတိုဟူး,shan tohu,shan_tofu,샨 토푸(병아리콩 묵),shan tofu,noun,food,병아리콩 가루를 쑤어 굳힌 노란 묵을 썰어 고추기름·식초 소스에 버무린 그릇.
 9049,ကြက်ဆီထမင်း,kyet si htamin,chicken_oil_rice,쩻시 타민(닭기름 밥),chicken oil rice,noun,food,"닭 기름으로 지은 반지르르한 밥 위에 삶은 닭고기 조각과 오이, 둥근 접시."
 9050,လက်ဖက်ခြောက်,lahpet chauk,dried_tea_leaves,라펫 차욱(찻잎),dried tea leaves,noun,food,"말린 찻잎이 담긴 작은 대나무 바구니와 찻주전자, 짙은 녹갈색."
+3004,ရေသန့်,예땐,ye_than,생수 · 정수된 물,bottled drinking water,n,R5,양곤 길가 가게에서 손님이 생수병을 건네받아 뚜껑을 따며 가게 주인과 이야기하는 장면
+3005,ကိတ်မုန့်,께익몬,kate_mont,케이크,cake,n,R5,빵집 진열대 앞에서 롱지 입은 남자가 점원이 포장해 주는 케이크 상자를 받는 장면
+3007,ချိုချို,초초,cho_cho,달콤한 · 달달한,sweet,adj,R5,디저트 가게 탁자에서 여인이 꿀 얹은 달콤한 떡을 한 입 먹고 웃으며 친구에게 권하는 장면
+3008,စပ်စပ်,쎕쎕,sat_sat,매콤한 · 얼얼한,spicy,adj,R5,식당에서 남자가 고추 가득한 매운 커리를 먹고 땀 흘리며 물컵을 잡고 옆 사람이 웃는 장면
+3015,ရွှေတိဂုံ,쉐디공,shwe_ta_gon,쉐다곤 파고다,Shwedagon Pagoda,n,R5,황금빛 쉐다곤 파고다 앞 경내에서 롱지 입은 가족이 꽃을 들고 합장하며 걷는 장면
+3017,လုံချည်,롱지,lon_gyi,롱지 (전통 치마),longyi,n,R5,시장 옷가게에서 상인이 손님 남자 허리에 롱지를 대어 보며 천을 펼쳐 보이는 장면
