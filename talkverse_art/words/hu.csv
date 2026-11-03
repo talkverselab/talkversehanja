@@ -25,1477 +25,1477 @@ rank,word,reading,ko,en,pos,level,picturable
 24,most,모슈트,지금,now,adv,R1,N
 25,akkor,어꼬르,"그때, 그러면",then,adv,R1,N
 26,mint,민트,"~처럼, ~보다",than,conj,R1,N
-27,1,,숫자 1,one,num,R1,N
-28,ezt,에즈트,이것을,this,pron,R1,N
-29,minden,민덴,모든,every,det,R1,N
-30,mert,메르트,왜냐하면,because,conj,R1,N
-31,magyar,머져르,"헝가리의, 헝가리인",hungarian,adj,R1,N
-32,nagyon,너존,매우,very,adv,R1,N
-33,így,이지,이렇게,thus,adv,R1,N
-34,olyan,오이언,그런,such,det,R1,N
-35,itt,이트,여기,here,adv,R1,N
-36,mi,미,"무엇, 우리",what,pron,R1,N
-37,sem,셈,~도 아니다,neither,particle,R1,N
-38,2,,숫자 2,two,num,R1,N
-39,lesz,레쓰,~이 될 것이다,will be,verb,R1,N
-40,lehet,레헤트,~일 수 있다,may,verb,R1,N
-41,vagyok,버죡,나는 ~이다,to be,verb,R1,N
-42,majd,머이드,"나중에, ~할 것이다",later,adv,R1,N
-43,es,에시,~번째(접미사),th,suffix,R1,N
-44,nagy,너지,큰,big,adj,R1,Y
-45,úgy,우지,그렇게,so,adv,R1,N
-46,3,,숫자 3,three,num,R1,N
-47,be,베,안으로,in,adv,R1,N
-48,nincs,닌치,없다,to not be,verb,R1,N
-49,aki,어키,~하는 사람(관계대명사),who,pron,R1,N
-50,két,케트,둘,two,num,R1,N
-51,fel,펠,위로,up,adv,R1,N
-52,után,우탄,~후에,after,postp,R1,N
-53,ne,네,~하지 마(부정 명령),not,particle,R1,N
-54,új,우이,새로운,new,adj,R1,N
-55,amikor,어미꼬르,~할 때,when,conj,R1,N
-56,ami,어미,~하는 것(관계대명사),which,pron,R1,N
-57,első,엘쇠,첫째의,first,num,R1,N
-58,te,테,너,you,pron,R1,N
-59,több,퇴그,더 많은,more,adj,R1,N
-60,pedig,페디그,그런데,and,conj,R1,N
-61,mindig,민딕,항상,always,adv,R1,N
-62,nekem,네켐,나에게,to me,pron,R1,N
-63,4,,숫자 4,four,num,R1,N
-64,amit,어미트,~하는 것을,which,pron,R1,N
-65,szerint,쎄린트,~에 따르면,according to,postp,R1,N
-66,kis,키시,작은,small,adj,R1,Y
-67,mit,미트,무엇을,what,pron,R1,N
-68,s,시,그리고(és 의 축약),and,conj,R1,N
-69,egyik,에지크,"하나, 한쪽",one,pron,R1,N
-70,ilyen,이옌,이런,such,det,R1,N
-71,le,레,아래로,down,adv,R1,N
-72,sok,쇼크,많은,many,det,R1,N
-73,5,,숫자 5,five,num,R1,N
-74,e,에,이(지시사),this,det,R1,N
-75,jól,욜,잘,well,adv,R1,N
-76,i,이,알파벳 i,letter i,other,R1,N
-77,miért,미에르트,왜,why,adv,R1,N
-78,volna,볼너,~했을 것이다(조건),would,particle,R1,N
-79,azért,어제르트,그래서,therefore,conj,R1,N
-80,tudom,투돔,나는 안다,to know,verb,R1,N
-81,budapest,부더페슈트,부다페스트,budapest,propn,R1,N
-82,milyen,미옌,어떤,what kind,det,R1,N
-83,igen,이겐,네(긍정 대답),yes,interj,R1,N
-84,között,쾨죄트,~사이에,between,postp,R1,N
-85,lett,레트,~이 되었다,to become,verb,R1,N
-86,ott,오트,거기,there,adv,R1,N
-87,alatt,어러트,~아래에,under,postp,R1,N
-88,ember,엠베르,사람,person,noun,R1,Y
-89,ma,머,오늘,today,adv,R1,N
-90,miatt,미어트,~때문에,because of,postp,R1,N
-91,t,테,알파벳 t,letter t,other,R1,N
-92,lenne,렌네,~일 것이다(조건),would be,verb,R1,N
-93,által,알탈,~에 의해,by,postp,R1,N
-94,hát,핫,"글쎄, 그러니까(감탄)",well,interj,R1,N
-95,más,마시,다른,other,adj,R1,N
-96,ő,외,"그, 그녀",he,pron,R1,N
-97,mikor,미꼬르,언제,when,adv,R1,N
-98,valami,벌러미,무언가,something,pron,R1,N
-99,ben,벤,~안에(접미사),in,suffix,R1,N
-100,egész,에게쓰,전체의,whole,adj,R1,N
-101,arra,어르러,그쪽으로,that way,adv,R1,N
-102,ezért,에제르트,이 때문에,therefore,conj,R1,N
-103,vannak,번녹,~이 있다(복수),to be,verb,R1,N
-104,6,,숫자 6,six,num,R1,N
-105,ahol,어홀,~하는 곳,where,conj,R1,N
-106,át,아트,가로질러,across,adv,R1,N
-107,ezek,에젝,이것들,these,pron,R1,N
-108,8,,숫자 8,eight,num,R1,N
-109,legyen,레젠,~이 되게 하라,to be,verb,R1,N
-110,nap,넙,"날, 태양",day,noun,R1,N
-111,7,,숫자 7,seven,num,R1,N
-112,rá,라,그 위로,onto,adv,R1,N
-113,the,테,영어 the,the,other,R1,N
-114,elég,엘렉,충분한,enough,adv,R1,N
-115,neki,네키,그에게,to him,pron,R1,N
-116,aztán,어스탄,그 다음에,then,adv,R1,N
-117,előtt,엘뢰트,~앞에,before,postp,R1,N
-118,se,셰,~도 아니다,neither,particle,R1,N
-119,valaki,벌러키,누군가,someone,pron,R1,N
-120,év,에브,"해, 년",year,noun,R1,N
-121,amely,어메이,~하는(관계대명사),which,pron,R1,N
-122,kicsit,키치트,조금,a little,adv,R1,N
-123,semmi,셈미,아무것도,nothing,pron,R1,N
-124,tényleg,테니렉,정말,really,adv,R1,N
-125,mellett,멜레트,~옆에,beside,postp,R1,N
-126,erre,에레,이쪽으로,this way,adv,R1,N
-127,fog,포그,~할 것이다,will,verb,R1,N
-128,mindenki,민덴키,모두,everyone,pron,R1,N
-129,neked,네케드,너에게,to you,pron,R1,N
-130,na,너,"자, 글쎄(감탄)",well,interj,R1,N
-131,nélkül,넬퀼,~없이,without,postp,R1,N
-132,saját,셔야트,자신의,own,adj,R1,N
-133,szép,쎕,아름다운,beautiful,adj,R1,Y
-134,ahogy,어호지,~하는 대로,as,conj,R1,N
-135,akik,어킥,~하는 사람들,who,pron,R1,N
-136,három,하롬,셋,three,num,R1,N
-137,inkább,인깝,차라리,rather,adv,R1,N
-138,jobb,욥,더 좋은,better,adj,R1,N
-139,szerintem,쎄린템,내 생각에는,in my opinion,adv,R1,N
-140,együtt,에듀트,함께,together,adv,R1,N
-141,hogyan,호전,어떻게,how,adv,R1,N
-142,túl,툴,"너머, 너무",too,adv,R1,N
-143,valamint,벌러민트,"그리고, ~뿐 아니라",as well as,conj,R1,N
-144,9,,숫자 9,nine,num,R1,N
-145,legjobb,렉욥,최고의,best,adj,R1,N
-146,újra,우이러,다시,again,adv,R1,N
-147,biztos,비즈토슈,확실한,sure,adj,R1,N
-148,c,체,알파벳 c,letter c,other,R1,N
-149,ezzel,에젤,이것으로,with this,pron,R1,N
-150,mivel,미벨,~이므로,since,conj,R1,N
-151,másik,마시크,다른 하나,other,det,R1,N
-152,néhány,네하니,몇몇,some,det,R1,N
-153,vissza,비써,뒤로,back,adv,R1,N
-154,őket,외켓,그들을,them,pron,R1,N
-155,ban,번,~안에(접미사),in,suffix,R1,N
-156,ellen,엘렌,~에 대항해,against,postp,R1,N
-157,ennek,엔넥,이것의,of this,pron,R1,N
-158,hanem,허넴,오히려,but rather,conj,R1,N
-159,pár,파르,"몇 개, 한 쌍",few,det,R1,N
-160,benne,벤네,그 안에,in it,adv,R1,N
-161,ezen,에젠,이 위에,on this,pron,R1,N
-162,persze,페르쎄,물론,of course,adv,R1,N
-163,tovább,토밥,더 멀리,further,adv,R1,N
-164,azonban,어존번,하지만,however,conj,R1,N
-165,című,취뢰,~라는 제목의,titled,adj,R1,N
-166,emberek,엠베렉,사람들,people,noun,R1,Y
-167,illetve,일레트베,혹은,or,conj,R1,N
-168,köszönöm,쾨쐬뇜,감사합니다,thank you,interj,R1,N
-169,vele,벨레,그와 함께,with him,pron,R1,N
-170,éves,에베슈,~살의,years old,adj,R1,N
-171,egyszer,에지쎄르,한 번,once,adv,R1,N
-172,talán,털란,아마도,maybe,adv,R1,N
-173,ebben,에벤,이 안에,in this,pron,R1,N
-174,rossz,로쓰,나쁜,bad,adj,R1,N
-175,teljesen,텔예셴,완전히,completely,adv,R1,N
-176,bár,바르,비록 ~지만,although,conj,R1,N
-177,kellett,켈레트,~해야 했다,had to,verb,R1,N
-178,teljes,텔예슈,전체의,full,adj,R1,N
-179,voltak,볼턱,~였다(복수),were,verb,R1,N
-180,annak,언넉,그것의,of that,pron,R1,N
-181,annyira,언니러,그만큼,so much,adv,R1,N
-182,este,에슈테,저녁,evening,noun,R1,N
-183,idő,이뢰,"시간, 날씨",time,noun,R1,N
-184,mind,민드,모두,all,det,R1,N
-185,második,마소디크,두 번째의,second,num,R1,N
-186,áll,알,서 있다,to stand,verb,R1,Y
-187,jobban,욥번,더 잘,better,adv,R1,N
-188,legnagyobb,렉너죱,가장 큰,biggest,adj,R1,N
-189,nézd,네즈드,봐(명령형),to look,verb,R1,N
-190,hozzá,호자,그에게로,to,adv,R1,N
-191,mindent,민덴트,모든 것을,everything,pron,R1,N
-192,utolsó,우톨쇼,마지막의,last,adj,R1,N
-193,való,벌로,"~인, ~에 대한",being,adj,R1,N
-194,km,,km,kilometer,noun,R1,N
-195,során,쇼란,~동안,during,postp,R1,N
-196,vagyunk,버쥬크,우리는 ~이다,to be,verb,R1,N
-197,tudja,투쟈,그는 안다,to know,verb,R1,N
-198,először,엘쇠쐬르,처음으로,first,adv,R1,N
-199,fontos,폰토슈,중요한,important,adj,R1,N
-200,hol,홀,어디에,where,adv,R1,N
-201,kéne,케네,~해야 할 텐데,should,verb,R1,N
-202,mondta,몬터,그가 말했다,to say,verb,R1,N
-203,of,오프,영어 of,of,other,R1,N
-204,in,인,영어 in,in,other,R1,N
-205,következő,쾨베트케죄,다음의,next,adj,R1,N
-206,magam,머검,나 자신,myself,pron,R1,N
-207,pont,폰트,"정확히, 점",exactly,adv,R1,N
-208,viszont,비쏜트,반면에,however,conj,R1,N
-209,össze,외쎄,함께 모아(방향),together,adv,R1,N
-210,azok,어족,그것들,those,pron,R1,N
-211,d,,알파벳 d,letter d,other,R1,N
-212,dolog,돌록,"일, 것",thing,noun,R1,N
-213,európai,에우로퍼이,유럽의,european,adj,R1,N
-214,férfi,페르피,남자,man,noun,R1,Y
-215,lenni,렌니,~이 되다,to become,verb,R1,N
-216,n,,알파벳 n,letter n,other,R1,N
-217,nemzeti,넴제티,국가의,national,adj,R1,N
-218,os,,~의(접미사),adjective suffix,suffix,R1,N
-219,számára,싸마러,~를 위해,for,postp,R1,N
-220,szóval,쏘벌,그러니까,so,conj,R1,N
-221,tudok,투독,나는 할 수 있다,can,verb,R1,N
-222,m,,알파벳 m,letter m,other,R1,N
-223,soha,쇼허,결코,never,adv,R1,N
-224,szó,쏘,단어,word,noun,R1,N
-225,voltam,볼텀,나는 ~였다,was,verb,R1,N
-226,alapján,어러파얀,~에 근거하여,based on,postp,R1,N
-227,jön,왼,오다,to come,verb,R1,N
-228,legalább,레걸랍,적어도,at least,adv,R1,N
-229,magyarország,머져르오르싸그,헝가리,hungary,propn,R1,N
-230,magát,머가트,자신을,oneself,pron,R1,N
-231,mai,머이,오늘의,today's,adj,R1,N
-232,például,펠다울,예를 들어,for example,adv,R1,N
-233,további,토바비,추가의,further,adj,R1,N
-234,azzal,어잘,그것으로,with that,pron,R1,N
-235,dr,,박사(약어),doctor,noun,R1,N
-236,ft,,포린트(화폐 약어),forint,noun,R1,N
-237,ide,이데,여기로,here,adv,R1,N
-238,igaz,이거즈,사실인,true,adj,R1,N
-239,maga,머거,"당신, 자신",self,pron,R1,N
-240,szeptember,쎕템베르,9월,september,noun,R1,N
-241,film,필름,영화,film,noun,R1,Y
-242,isten,이슈텐,신,god,noun,R1,N
-243,később,케쇠프,나중에,later,adv,R1,N
-244,megy,메지,가다,to go,verb,R1,N
-245,mégis,메기슈,그래도,nevertheless,adv,R1,N
-246,sokkal,쇼칼,훨씬,much,adv,R1,N
-247,világ,빌라그,세계,world,noun,R1,N
-248,óta,오터,~이래로,since,postp,R1,N
-249,amerikai,어메리커이,미국의,american,adj,R1,N
-250,azon,어존,그 위에,on that,pron,R1,N
-251,baj,버이,문제,trouble,noun,R1,N
-252,míg,미그,~하는 동안,while,conj,R1,N
-253,as,어슈,~의(접미사),adjective suffix,suffix,R1,N
-254,egyetlen,에제틀렌,단 하나의,single,adj,R1,N
-255,hosszú,호쑤,긴,long,adj,R1,Y
-256,mely,메이,~하는(관계대명사),which,pron,R1,N
-257,német,네메트,독일의,german,adj,R1,N
-258,re,레,~에(접미사),onto,suffix,R1,N
-259,tud,투드,알다,to know,verb,R1,N
-260,élő,엘뢰,살아있는,alive,adj,R1,N
-261,összes,외쎄슈,전체의,all,det,R1,N
-262,ismét,이슈메트,다시,again,adv,R1,N
-263,ja,여,아(감탄),oh,interj,R1,N
-264,közben,쾨즈벤,그동안,meanwhile,adv,R1,N
-265,mintha,민터,마치 ~인 듯,as if,conj,R1,N
-266,nemzetközi,넴젯쾨지,국제적인,international,adj,R1,N
-267,nő,뇌,여자,woman,noun,R1,Y
-268,oda,오더,저리로,there,adv,R1,N
-269,tehát,테핫,따라서,therefore,conj,R1,N
-270,x,익스,알파벳 x,letter x,other,R1,N
-271,0,,숫자 0,zero,num,R1,N
-272,b,베,알파벳 b,letter b,other,R1,N
-273,egyre,에지레,점점,increasingly,adv,R1,N
-274,engem,엔겜,나를,me,pron,R1,N
-275,fekete,페케테,검은,black,adj,R1,Y
-276,ig,이그,~까지,until,postp,R1,N
-277,igazán,이거잔,정말로,truly,adv,R1,N
-278,nagyobb,너죠브,더 큰,bigger,adj,R1,N
-279,sokat,쇼커트,많이,a lot,adv,R1,N
-280,éve,에베,~년,year,noun,R1,N
-281,belül,벨륄,안쪽에,inside,adv,R1,N
-282,jelent,옐렌트,의미하다,to mean,verb,R1,N
-283,került,케륄트,"~가 되었다, 들어갔다",to get,verb,R1,N
-284,régi,레기,오래된,old,adj,R1,N
-285,szia,씨어,안녕,hi,interj,R1,N
-286,tudod,투도드,너는 안다,to know,verb,R1,N
-287,történt,퇴르텐트,일어났다,to happen,verb,R1,N
-288,v,베,알파벳 v,letter v,other,R1,N
-289,akár,어카르,~라도,even,conj,R1,N
-290,kedves,케드베슈,"친절한, 사랑하는",kind,adj,R1,N
-291,készült,케씨윌트,만들어졌다,to be made,verb,R1,N
-292,közül,쾨쥘,~중에서,among,postp,R1,N
-293,l,엘,알파벳 l,letter l,other,R1,N
-294,lászló,라슬로,라슬로(남자 이름),laszlo,propn,R1,N
-295,megyek,메젝,나는 간다,to go,verb,R1,N
-296,sikerült,시케륄트,성공했다,to succeed,verb,R1,N
-297,velem,벨렘,나와 함께,with me,pron,R1,N
-298,óra,오러,"시간, 시계",clock,noun,R1,Y
-299,ők,왹,그들,they,pron,R1,N
-300,kapott,커포트,받았다,to receive,verb,R1,N
-301,p,페,알파벳 p,letter p,other,R1,N
-302,senki,셴키,아무도,nobody,pron,R1,N
-303,tudtam,투툼,나는 알았다,to know,verb,R1,N
-304,arról,어롤,그것에 대해,about that,pron,R1,N
-305,fél,펠,"반, 두려워하다",half,noun,R1,N
-306,magyarországon,머져르오르싸곤,헝가리에서,in hungary,propn,R1,N
-307,megint,메긴트,"또, 다시",again,adv,R1,N
-308,részt,레스트,부분을,part,noun,R1,N
-309,újabb,우이업,더 새로운,newer,adj,R1,N
-310,adott,어도트,주어진,given,adj,R1,N
-311,akarok,어커록,나는 원한다,to want,verb,R1,N
-312,eddig,에딕,지금까지,until now,adv,R1,N
-313,egyes,에제슈,일부의,some,det,R1,N
-314,igazi,이거지,진짜의,real,adj,R1,N
-315,istván,이슈트반,이슈트반(남자 이름),istvan,propn,R1,N
-316,lány,라니,소녀,girl,noun,R1,Y
-317,láttam,랏탐,나는 보았다,to see,verb,R1,N
-318,mire,미레,무엇에,what,pron,R1,N
-319,női,뇌이,여성의,female,adj,R1,N
-320,szabad,써버드,"자유로운, 한가한",free,adj,R1,N
-321,vége,베게,끝,end,noun,R1,N
-322,végre,베그레,마침내,finally,adv,R1,N
-323,án,안,~에(접미사),on,suffix,R1,N
-324,értem,에르템,나는 이해한다,to understand,verb,R1,N
-325,fehér,페헤르,흰,white,adj,R1,Y
-326,felé,펠레,~쪽으로,toward,postp,R1,N
-327,kb,,"약, 대략(약어)",approximately,adv,R1,N
-328,new,뉴,영어 new,new,other,R1,N
-329,angol,언골,"영국의, 영어",english,adj,R1,N
-330,fő,푀,"주요한, 머리",main,adj,R1,N
-331,kellene,켈레네,~해야 할 것이다,should,verb,R1,N
-332,képes,케페슈,할 수 있는,able,adj,R1,N
-333,négy,네지,넷,four,num,R1,N
-334,ország,오르싸그,나라,country,noun,R1,N
-335,perc,페르츠,분(시간),minute,noun,R1,N
-336,része,레쎄,그 부분,part,noun,R1,N
-337,város,버로슈,도시,city,noun,R1,Y
-338,végén,베겐,끝에,end,noun,R1,N
-339,abban,어번,그 안에,in that,pron,R1,N
-340,akar,어커르,원하다,to want,verb,R1,N
-341,király,키라이,왕,king,noun,R1,Y
-342,munka,문커,"일, 노동",work,noun,R1,N
-343,néha,네허,가끔,sometimes,adv,R1,N
-344,róla,롤러,그에 대해,about him,pron,R1,N
-345,valamit,벌러미트,무언가를,something,pron,R1,N
-346,út,우트,길,road,noun,R1,Y
-347,bele,벨레,그 안으로,into,adv,R1,N
-348,k,,알파벳 k,letter k,other,R1,N
-349,különböző,퀼뢴뵈죄,다양한,different,adj,R1,N
-350,remélem,레멜렘,바라건대,to hope,verb,R1,N
-351,található,털랄허토,찾을 수 있는,located,adj,R1,N
-352,többet,퇴벳,더 많이,more,pron,R1,N
-353,végül,베귈,결국,finally,adv,R1,N
-354,évi,에비,연간의,annual,adj,R1,N
-355,öt,외트,다섯,five,num,R1,N
-356,amíg,어미그,"~하는 동안, ~할 때까지",until,conj,R1,N
-357,holnap,홀넙,내일,tomorrow,adv,R1,N
-358,ii,,로마 숫자 2,two,num,R1,N
-359,komolyan,코모얀,진지하게,seriously,adv,R1,N
-360,korábban,코랍번,이전에,earlier,adv,R1,N
-361,nehéz,네헤즈,어려운,difficult,adj,R1,N
-362,rajta,러이터,그 위에,on it,pron,R1,N
-363,semmit,셈미트,아무것도,nothing,pron,R1,N
-364,élet,엘레트,삶,life,noun,R1,N
-365,őt,외트,그를,him,pron,R1,N
-366,addig,어딕,그때까지,until then,adv,R1,N
-367,ahhoz,어호즈,그것에,to that,pron,R1,N
-368,h,,알파벳 h,letter h,other,R1,N
-369,helyen,헤옌,장소에,in place,noun,R1,N
-370,jött,욋트,왔다,to come,verb,R1,N
-371,neve,네베,그의 이름,name,noun,R1,N
-372,on,온,영어 on,on,other,R1,N
-373,online,온라인,온라인,online,adj,R1,N
-374,pl,,예를 들어(약어),for example,adv,R1,N
-375,reggel,렉겔,아침,morning,noun,R1,N
-376,ugye,우제,그렇지?(확인),right,particle,R1,N
-377,ennyi,엔니,이만큼,this much,adv,R1,N
-378,fogok,포곡,나는 ~할 것이다,will,verb,R1,N
-379,jános,야노슈,야노시(남자 이름),janos,propn,R1,N
-380,kívül,키퀼,밖에,outside,adv,R1,N
-381,leszek,레쎅,나는 ~이 될 것이다,will be,verb,R1,N
-382,menni,멘니,가다,to go,verb,R1,N
-383,miután,미우탄,~한 후에,after,conj,R1,N
-384,március,마르치우슈,3월,march,noun,R1,N
-385,rád,라드,너에게,onto you,pron,R1,N
-386,ön,왼,당신(공손),you,pron,R1,N
-387,elő,엘뢰,앞으로,forth,adv,R1,N
-388,harmadik,허르머딕,세 번째의,third,num,R1,N
-389,hiszem,히쎔,나는 믿는다,to believe,verb,R1,N
-390,keresztül,케레스튈,~를 통해,through,postp,R1,N
-391,közel,쾨젤,가까운,near,adj,R1,N
-392,módon,모돈,방식으로,way,noun,R1,N
-393,országos,오르싸고슈,전국의,national,adj,R1,N
-394,péter,페테르,페테르(남자 이름),peter,propn,R1,N
-395,éppen,에펜,바로,just,adv,R1,N
-396,budapesti,부더페슈티,부다페스트의,budapest,adj,R1,N
-397,hivatalos,히버털로슈,공식적인,official,adj,R1,N
-398,szent,쎈트,성스러운,holy,adj,R1,N
-399,szeretnék,쎄레트넥,~하고 싶다,would like,verb,R1,N
-400,száma,싸머,그 수,number,noun,R1,N
-401,április,어프릴리슈,4월,april,noun,R1,N
-402,épp,에프,바로,just,adv,R1,N
-403,ért,에르트,"이해했다, 도달했다",to reach,verb,R1,N
-404,augusztus,어우구스투슈,8월,august,noun,R1,N
-405,et,에트,라틴어 and,and,other,R1,N
-406,ezeket,에제켓,이것들을,these,pron,R1,N
-407,ezer,에제르,천,thousand,num,R1,N
-408,gyorsan,죠르션,빨리,quickly,adv,R1,N
-409,hét,헤트,일주일,week,noun,R1,N
-410,millió,밀리오,백만,million,num,R1,N
-411,tetszik,테트씨크,마음에 들다,to like,verb,R1,N
-412,többi,퇴비,나머지,rest,noun,R1,N
-413,alá,얼라,~아래로,under,postp,R1,N
-414,csapat,처펏,팀,team,noun,R1,Y
-415,egyszerűen,에지쎄뤼엔,간단히,simply,adv,R1,N
-416,ferenc,페렌츠,페렌츠(남자 이름),ferenc,propn,R1,N
-417,hat,허트,여섯,six,num,R1,N
-418,ház,하즈,집,house,noun,R1,Y
-419,mm,음,hmm,hmm,interj,R1,N
-420,nak,너크,~에게/~의(여격·소유 접미사),to (dative),suffix,R1,N
-421,sajnos,셔이노시,유감스럽게도,unfortunately,adv,R1,N
-422,tegnap,테그너프,어제,yesterday,adv,R1,N
-423,utána,우타아너,그 후에,after,adv,R1,N
-424,akit,어킷,~하는 사람을(관계대명사 목적격),whom,pron,R1,N
-425,elmúlt,엘물트,지나간,past,adj,R1,N
-426,megvan,메그번,있다/찾았다,to have found,verb,R1,N
-427,rövid,뢰비드,짧은,short,adj,R1,Y
-428,ti,티,너희,you (plural),pron,R1,N
-429,tökéletes,퇴켈레시,완벽한,perfect,adj,R1,N
-430,évben,에브벤,~년에,in year,noun,R1,N
-431,évek,에베크,"해들, 년들",years,noun,R1,N
-432,európa,에우로퍼,유럽,europe,propn,R1,N
-433,hatalmas,허털머시,거대한,huge,adj,R1,Y
-434,helyi,헤이이,지역의,local,adj,R1,N
-435,lévő,레뵈,~에 있는,being,adj,R1,N
-436,ment,멘트,갔다(megy 의 과거),to go,verb,R1,N
-437,minket,민케트,우리를,us,pron,R1,N
-438,o,,,,other,R1,N
-439,orosz,오로스,"러시아의, 러시아인",russian,adj,R1,N
-440,sincs,신치,~이 없다,there is not,verb,R1,N
-441,tudjuk,투듀크,우리는 안다,to know,verb,R1,N
-442,érzem,에르젬,나는 느낀다,to feel,verb,R1,N
-443,boldog,볼도그,행복한,happy,adj,R1,Y
-444,haza,허저,"집으로, 고향",home,adv,R1,N
-445,játék,야테크,"놀이, 게임",game,noun,R1,Y
-446,kormány,코르마니,정부,government,noun,R1,N
-447,mennyire,멘니레,얼마나,how much,adv,R1,N
-448,mondom,몬돔,나는 말한다,to say,verb,R1,N
-449,számos,싸모시,수많은,numerous,adj,R1,N
-450,szóló,쏘로,"~에 관한, 솔로",about,adj,R1,N
-451,tett,테트,했다(tesz 의 과거),to do,verb,R1,N
-452,u,,,,other,R1,N
-453,utca,우트처,"거리, 길",street,noun,R1,Y
-454,alig,얼리그,거의 ~않다,hardly,adv,R1,N
-455,annyi,언니,그만큼,so much,pron,R1,N
-456,anya,어니어,어머니,mother,noun,R1,Y
-457,egyszerű,에지세루,간단한,simple,adj,R1,N
-458,erős,에뢰시,강한,strong,adj,R1,Y
-459,kérdés,케르데시,질문,question,noun,R1,N
-460,közös,쾨죄시,공동의,common,adj,R1,N
-461,magas,머거시,"높은, 키 큰",tall,adj,R1,Y
-462,majdnem,머이드넴,거의,almost,adv,R1,N
-463,rám,람,나에게(위로),onto me,pron,R1,N
-464,szeretem,쎄레템,나는 좋아한다,to love,verb,R1,N
-465,tudni,투드니,알다,to know,verb,R1,N
-466,tól,톨,~로부터(접미사),from (suffix),suffix,R1,N
-467,vált,발트,바뀌었다,to change,verb,R1,N
-468,általában,알탈러번,"보통, 일반적으로",generally,adv,R1,N
-469,ám,암,"그러나, 정말(강조)",but,particle,R1,N
-470,akinek,어키넥,~하는 사람에게,to whom,pron,R1,N
-471,család,처라드,가족,family,noun,R1,Y
-472,ebből,에뵐,이것으로부터,from this,pron,R1,N
-473,egyedül,에제뒬,혼자,alone,adv,R1,N
-474,egyéb,에제브,기타의,other,adj,R1,N
-475,egészen,에게쎈,완전히,entirely,adv,R1,N
-476,gyönyörű,죠뇌루,아름다운,beautiful,adj,R1,Y
-477,helyett,헤옛,~대신에,instead of,postp,R1,N
-478,jár,야르,다닌다,to walk,verb,R1,N
-479,október,옥토베르,10월,october,noun,R1,N
-480,otthon,오트혼,"집에, 집",home,adv,R1,N
-481,ra,러,~위로/~로(접미사),onto (suffix),suffix,R1,N
-482,sorozat,쇼로저트,시리즈,series,noun,R1,N
-483,sosem,쇼셈,결코 ~않다,never,adv,R1,N
-484,szinte,씨테,거의,almost,adv,R1,N
-485,érdekes,에르데케시,흥미로운,interesting,adj,R1,N
-486,and,,,,other,R1,N
-487,belőle,벨뢰레,그것으로부터,from it,pron,R1,N
-488,egyet,에제트,하나를,one,num,R1,N
-489,fiatal,피어털,젊은,young,adj,R1,Y
-490,iskola,이슈콜러,학교,school,noun,R1,Y
-491,komoly,코모이,진지한,serious,adj,R1,N
-492,nekünk,네퀸크,우리에게,to us,pron,R1,N
-493,szól,쏠,"말한다, 울린다",to speak,verb,R1,N
-494,tart,터르트,"유지한다, 지속된다",to hold,verb,R1,N
-495,től,뢸,~로부터(접미사),from (suffix),suffix,R1,N
-496,ugyan,우전,"비록, 설마",although,particle,R1,N
-497,álló,알로,서 있는,standing,adj,R1,N
-498,attól,어퇼,그것으로부터,from that,pron,R1,N
-499,azokat,어조커트,그것들을,those,pron,R1,N
-500,azonnal,어존널,즉시,immediately,adv,R1,N
-501,budapesten,부더페쉬텐,부다페스트에서,budapest,propn,R1,N
-502,egyébként,에제브켄트,그건 그렇고,otherwise,adv,R1,N
-503,ehhez,에헤즈,이것에,to this,pron,R1,N
-504,elleni,엘레니,~에 대항한,against,adj,R1,N
-505,gyerek,제레크,아이,child,noun,R1,Y
-506,hely,헤이,장소,place,noun,R1,N
-507,jelenleg,옐렌레그,현재,currently,adv,R1,N
-508,múlva,물버,~후에,after,postp,R1,N
-509,nek,넥,~에게/~의(접미사),to (suffix),suffix,R1,N
-510,szintén,씬텐,마찬가지로,also,adv,R1,N
-511,szépen,쎄펜,예쁘게,nicely,adv,R1,N
-512,tamás,터마시,터마시(남자 이름),tamas,propn,R1,N
-513,amelyek,어메옉,~하는 것들,which,pron,R1,N
-514,en,,,,other,R1,N
-515,esetleg,에셰틀렉,"혹시, 아마",perhaps,adv,R1,N
-516,g,,,,other,R1,N
-517,gyerekek,제레켁,아이들,children,noun,R1,Y
-518,hasonló,허숀로,비슷한,similar,adj,R1,N
-519,http,,,,other,R1,N
-520,ideje,이데예,"~할 때, 시간",time,noun,R1,N
-521,maradt,머러트,남았다,to stay,verb,R1,N
-522,mondja,몬댜,그는 말한다,to say,verb,R1,N
-523,született,쎄울레테트,태어났다,to be born,verb,R1,N
-524,tenni,텐니,"하다, 놓다",to do,verb,R1,N
-525,akarom,어커롬,나는 원한다,to want,verb,R1,N
-526,családi,처라디,가족의,family,adj,R1,N
-527,egyáltalán,에자알탈란,전혀,at all,adv,R1,N
-528,erről,에르뢸,이것에 대해,about this,pron,R1,N
-529,főleg,푀레그,특히,mainly,adv,R1,N
-530,hazai,허저이,국내의,domestic,adj,R1,N
-531,jutott,유토트,도달했다,to get,verb,R1,N
-532,körül,쾨륄,주위에,around,postp,R1,N
-533,követően,쾨베퇴엔,~이후에,following,postp,R1,N
-534,látni,라트니,보다,to see,verb,R1,N
-535,napon,너폰,그날에,on day,noun,R1,N
-536,nyári,니아리,여름의,summer,adj,R1,N
-537,ok,오크,"확인, 이유",ok,interj,R1,N
-538,pontosan,폰토셔느,정확히,exactly,adv,R1,N
-539,r,,,,other,R1,N
-540,stb,스테베,등등,etc,other,R1,N
-541,szemben,쎔벤,~맞은편에,opposite,postp,R1,N
-542,történik,퇴르텐닉,일어난다,to happen,verb,R1,N
-543,vár,바르,기다린다,to wait,verb,R1,N
-544,érte,에르테,그를 위해,for it,pron,R1,N
-545,évvel,에브벨,~년 후/전,year,noun,R1,N
-546,fogja,포기어,"그는 잡는다, ~할 것이다",will,verb,R1,N
-547,helyet,헤옛,장소를,place,noun,R1,N
-548,időben,이됴벤,제시간에,in time,adv,R1,N
-549,marad,머러드,머문다,to stay,verb,R1,N
-550,to,,,,other,R1,N
-551,tv,테베,텔레비전,television,noun,R1,Y
-552,valószínűleg,버로씨뉘레그,아마도,probably,adv,R1,N
-553,venni,벤니,사다,to buy,verb,R1,Y
-554,állami,알러미,국가의,state,adj,R1,N
-555,érdemes,에르데메시,~할 만한,worth,adj,R1,N
-556,adatok,어터톡,"자료, 데이터",data,noun,R1,N
-557,akartam,어커르텀,나는 원했다,to want,verb,R1,N
-558,eredeti,에레데티,원래의,original,adj,R1,N
-559,fiú,피우,소년,boy,noun,R1,Y
-560,francia,프런치어,"프랑스의, 프랑스인",french,adj,R1,N
-561,gondoltam,곤돌텀,나는 생각했다,to think,verb,R1,N
-562,hamarosan,허머로셔느,곧,soon,adv,R1,N
-563,józsef,요제프,요제프(남자 이름),jozsef,propn,R1,N
-564,kész,케스,준비된,ready,adj,R1,N
-565,közé,쾨제,~사이로,between,postp,R1,N
-566,különleges,퀼뢴레게시,특별한,special,adj,R1,N
-567,lehetett,레헤테트,~일 수 있었다,to be able,verb,R1,N
-568,napot,너폿,"하루를, 해를",day,noun,R1,N
-569,nekik,네킥,그들에게,to them,pron,R1,N
-570,néz,네즈,본다,to look,verb,R1,Y
-571,rendszer,렌드세르,시스템,system,noun,R1,N
-572,rész,레스,부분,part,noun,R1,N
-573,szívesen,씨베셴,기꺼이,gladly,adv,R1,N
-574,tette,테테,그는 했다,to do,verb,R1,N
-575,tettem,테템,나는 했다,to do,verb,R1,N
-576,zoltán,졸탄,졸탄(남자 이름),zoltan,propn,R1,N
-577,általános,알탈로노시,일반적인,general,adj,R1,N
-578,február,페브루아르,2월,february,noun,R1,N
-579,gazdasági,거즈더샤기,경제의,economic,adj,R1,N
-580,gyakran,저크런,자주,often,adv,R1,N
-581,kisebb,키셉,더 작은,smaller,adj,R1,N
-582,mindenkinek,민덴키넥,모두에게,everyone,pron,R1,N
-583,oldalon,올덜론,페이지에,page,noun,R1,N
-584,pénzt,펜스트,돈을,money,noun,R1,N
-585,szeretlek,쎄레틀렉,사랑해,to love,verb,R1,N
-586,vagyis,버지시,즉,that is,conj,R1,N
-587,vettem,벳템,나는 샀다,to buy,verb,R1,N
-588,előre,엘뢰레,앞으로,forward,adv,R1,N
-589,emberi,엠베리,인간의,human,adj,R1,N
-590,hittem,힛템,나는 믿었다,to believe,verb,R1,N
-591,idén,이덴,올해,this year,adv,R1,N
-592,john,존,존(이름),john,propn,R1,N
-593,kapcsolatban,컵촐러트번,~와 관련하여,regarding,postp,R1,N
-594,látható,라트허토,볼 수 있는,visible,adj,R1,N
-595,melyik,메이익,어느 것,which,pron,R1,N
-596,mennyi,멘니,얼마,how much,pron,R1,N
-597,mondani,몬더니,말하다,to say,verb,R1,N
-598,sokan,쇼컨,많은 사람들,many people,pron,R1,N
-599,sz,,,,other,R1,N
-600,szám,쌈,숫자,number,noun,R1,N
-601,él,엘,산다,to live,verb,R1,N
-602,azaz,어저즈,즉,that is,conj,R1,N
-603,dolgok,돌곡,"것들, 일들",things,noun,R1,N
-604,ellenére,엘레네레,~에도 불구하고,despite,postp,R1,N
-605,ismert,이슈메르트,"유명한, 알려진",known,adj,R1,N
-606,legtöbb,레그퇴브,가장 많은,most,adj,R1,N
-607,lesznek,레스넥,~일 것이다(복수),will be,verb,R1,N
-608,megjelent,메그옐렌트,"나타났다, 출간되었다",to appear,verb,R1,N
-609,olasz,올러스,"이탈리아의, 이탈리아인",italian,adj,R1,N
-610,sándor,샨도르,샨도르(남자 이름),sandor,propn,R1,N
-611,tér,테르,광장,square,noun,R1,Y
-612,alábbi,얼랍비,아래의,following,adj,R1,N
-613,annyit,언니트,그만큼을,so much,pron,R1,N
-614,belső,벨쇠,내부의,inner,adj,R1,N
-615,gábor,가보르,가보르(남자 이름),gabor,propn,R1,N
-616,hiszen,히쎈,왜냐하면 ~이니까,since,conj,R1,N
-617,jelenti,옐렌티,의미한다,to mean,verb,R1,N
-618,kaptam,커프텀,나는 받았다,to receive,verb,R1,N
-619,lassan,러셔느,천천히,slowly,adv,R1,N
-620,magad,머거드,너 자신,yourself,pron,R1,N
-621,meghalt,메그헐트,죽었다,to die,verb,R1,N
-622,rengeteg,렌게테그,엄청나게 많은,a lot,adj,R1,N
-623,tőle,퇴레,그로부터,from him,pron,R1,N
-624,vezető,베제퇴,"지도자, 이끄는",leader,noun,R1,N
-625,végig,베기그,끝까지,throughout,adv,R1,N
-626,z,,,,other,R1,N
-627,ilyet,이옛,이런 것을,such,pron,R1,N
-628,lehetséges,레헤트세게시,가능한,possible,adj,R1,N
-629,látom,라톰,나는 본다,to see,verb,R1,N
-630,mondjuk,몬듀크,예를 들어,let's say,adv,R1,N
-631,május,마이우시,5월,may,noun,R1,N
-632,működik,뮈쾨딕,작동한다,to work,verb,R1,N
-633,remek,레멕,훌륭한,great,adj,R1,N
-634,természetesen,테르메쎄테셴,물론,naturally,adv,R1,N
-635,tiszta,티스터,깨끗한,clean,adj,R1,Y
-636,tűnik,튀닉,~처럼 보인다,to seem,verb,R1,N
-637,velünk,벨륑크,우리와 함께,with us,pron,R1,N
-638,írt,이르트,썼다,to write,verb,R1,N
-639,alkalommal,얼컬롬멀,~번째에,occasion,noun,R1,N
-640,amelyet,어메옛,~하는 것을,which,pron,R1,N
-641,attila,어틸러,어틸러(남자 이름),attila,propn,R1,N
-642,biztosan,비즈토셔느,확실히,surely,adv,R1,N
-643,egyetem,에제템,대학교,university,noun,R1,Y
-644,előbb,엘뢰브,더 먼저,earlier,adv,R1,N
-645,előző,엘뢰죄,이전의,previous,adj,R1,N
-646,fogom,포곰,"나는 잡는다, ~할 것이다",will,verb,R1,N
-647,héten,헤텐,주에,week,noun,R1,N
-648,kínai,키너이,"중국의, 중국인",chinese,adj,R1,N
-649,megfelelő,메그펠렐뢰,적절한,suitable,adj,R1,N
-650,megyei,메제이,"도의, 군의",county,adj,R1,N
-651,melyek,메옉,어느 것들,which,pron,R1,N
-652,múlt,물트,"과거, 지난",past,noun,R1,N
-653,napi,너피,매일의,daily,adj,R1,N
-654,nők,뇌크,여자들,women,noun,R1,Y
-655,pénz,펜즈,돈,money,noun,R1,Y
-656,természetes,테르메쎄테시,자연스러운,natural,adj,R1,N
-657,bizonyos,비죠뇨시,"어떤, 확실한",certain,adj,R1,N
-658,f,,,,other,R1,N
-659,kor,코르,"나이, 시대",age,noun,R1,N
-660,könnyű,쾬뉘,"쉬운, 가벼운",easy,adj,R1,N
-661,köszi,쾨씨,고마워,thanks,interj,R1,N
-662,lehetne,레헷네,~일 수 있을 텐데,could be,verb,R1,N
-663,nyert,니에르트,이겼다,to win,verb,R1,N
-664,oldal,올덜,"쪽, 페이지",page,noun,R1,N
-665,politikai,폴리티커이,정치의,political,adj,R1,N
-666,tudunk,투둔크,우리는 ~할 수 있다,can,verb,R1,N
-667,vajon,버욘,과연,i wonder,particle,R1,N
-668,víz,비즈,물,water,noun,R1,Y
-669,úton,우톤,길 위에서,on the road,noun,R1,N
-670,csodálatos,초달러토시,놀라운,wonderful,adj,R1,N
-671,embert,엠베르트,사람을,person,noun,R1,N
-672,gondolom,곤돌롬,내 생각에는,to think,verb,R1,N
-673,hülye,휘예,바보 같은,stupid,adj,R1,N
-674,kerül,케륄,"~하게 된다, 비용이 든다",to cost,verb,R1,N
-675,korábbi,코랍비,이전의,earlier,adj,R1,N
-676,képek,케펙,"그림들, 사진들",pictures,noun,R1,Y
-677,mindjárt,민드야르트,곧바로,right away,adv,R1,N
-678,november,노벰베르,11월,november,noun,R1,N
-679,oké,오케,좋아,okay,interj,R1,N
-680,sor,쇼르,"줄, 열",row,noun,R1,N
-681,utóbbi,우톱비,후자의,latter,adj,R1,N
-682,valóban,버로번,정말로,indeed,adv,R1,N
-683,vicces,비체시,웃기는,funny,adj,R1,N
-684,zöld,죄르드,초록색,green,adj,R1,Y
-685,ad,어드,준다,to give,verb,R1,Y
-686,arany,어러니,금,gold,noun,R1,Y
-687,azóta,어조터,그때부터,since then,adv,R1,N
-688,gyere,제레,와,to come,verb,R1,N
-689,györgy,죄르지,죄르지(남자 이름),gyorgy,propn,R1,N
-690,közötti,쾨죄티,~사이의,between,adj,R1,N
-691,külön,퀼뢴,따로,separately,adv,R1,N
-692,meleg,멜레그,"따뜻한, 더운",hot,adj,R1,Y
-693,téged,테게드,너를,you,pron,R1,N
-694,tíz,티즈,열,ten,num,R1,N
-695,állt,알트,섰다,to stand,verb,R1,N
-696,éjjel,에이옐,밤에,night,noun,R1,N
-697,érdekel,에르데켈,관심이 있다,to interest,verb,R1,N
-698,úr,우르,"씨, 신사",mister,noun,R1,N
-699,dolgot,돌곳,것을,thing,noun,R1,N
-700,díjat,디이엇,상을,prize,noun,R1,N
-701,ennyire,엔니레,이 정도로,so much,adv,R1,N
-702,ennél,엔넬,이것보다,than this,pron,R1,N
-703,ettől,에퇼,이것으로부터,from this,pron,R1,N
-704,jelentős,옐렌퇴시,중요한,significant,adj,R1,N
-705,lajos,러요시,러요시(남자 이름),lajos,propn,R1,N
-706,no,,,,other,R1,N
-707,ot,,,,other,R1,N
-708,program,프로그럼,프로그램,program,noun,R1,N
-709,segít,셰기트,돕는다,to help,verb,R1,N
-710,tartozik,터르토직,속한다,to belong,verb,R1,N
-711,tesz,테스,"한다, 놓는다",to do,verb,R1,N
-712,tudják,투댜크,그들은 안다,to know,verb,R1,N
-713,tudsz,투쯔,너는 ~할 수 있다,can,verb,R1,N
-714,vett,벳트,샀다,to buy,verb,R1,N
-715,beteg,베테그,아픈,sick,adj,R1,Y
-716,kemény,케메니,"단단한, 힘든",hard,adj,R1,N
-717,kép,켑,"그림, 사진",picture,noun,R1,Y
-718,külső,퀼쇠,외부의,outer,adj,R1,N
-719,látszik,랏직,보인다,to seem,verb,R1,N
-720,mindegy,민데지,상관없다,whatever,adj,R1,N
-721,probléma,프로블레머,문제,problem,noun,R1,N
-722,rosszul,로쑬,나쁘게,badly,adv,R1,N
-723,tartott,터르토트,유지했다,to hold,verb,R1,N
-724,véget,베겟,끝을,end,noun,R1,N
-725,annál,언날,그것보다,than that,pron,R1,N
-726,dolgozni,돌고즈니,일하다,to work,verb,R1,Y
-727,ekkor,에코르,그때,then,adv,R1,N
-728,elnöke,엘뇌케,~의 회장,president,noun,R1,N
-729,elsősorban,엘쇼쇼르번,주로,primarily,adv,R1,N
-730,fognak,포그넉,그들은 ~할 것이다,will,verb,R1,N
-731,j,,,,other,R1,N
-732,kap,커프,받는다,to receive,verb,R1,N
-733,kevés,케베시,적은,few,adj,R1,N
-734,modern,모데른,현대적인,modern,adj,R1,N
-735,szükséges,쒸크세게시,필요한,necessary,adj,R1,N
-736,sőt,쇼트,"오히려, 심지어",even,conj,R1,N
-737,történet,퇴르테네트,이야기,story,noun,R1,N
-738,veled,벨레드,너와 함께,with you,pron,R1,N
-739,örülök,외뤼뢰크,기쁘다,to be glad,verb,R1,N
-740,csinálni,치날니,"만들다, 하다",to do,verb,R1,N
-741,egyben,에젬벤,동시에,at once,adv,R1,N
-742,elején,엘레옌,처음에,beginning,noun,R1,N
-743,elnök,엘뇌크,"회장, 대통령",president,noun,R1,N
-744,finom,피놈,맛있는,delicious,adj,R1,Y
-745,folyamatosan,폴리머토셔느,계속해서,continuously,adv,R1,N
-746,igazából,이거잘볼,사실은,actually,adv,R1,N
-747,ingyenes,인젠예시,무료의,free,adj,R1,N
-748,jaj,야이,아이고,oh,interj,R1,N
-749,január,야누아르,1월,january,noun,R1,N
-750,jelenlegi,옐렌레기,현재의,current,adj,R2,N
-751,jövő,요뵈,미래,future,noun,R2,N
-752,kicsi,키치,작은,small,adj,R2,Y
-753,kérlek,케르렉,부탁해,please,interj,R2,N
-754,magyarok,머져록,헝가리인들,hungarians,noun,R2,N
-755,sport,슈포르트,스포츠,sport,noun,R2,Y
-756,szabó,써보,"재단사, 서보(성)",tailor,noun,R2,N
-757,ér,에르,"가치가 있다, 도달한다",to be worth,verb,R2,N
-758,úgyhogy,우지호지,그래서,so,conj,R2,N
-759,amúgy,어무지,그건 그렇고,anyway,adv,R2,N
-760,autó,어우토,자동차,car,noun,R2,Y
-761,cm,쎈티메테르,센티미터,centimeter,other,R2,N
-762,esetben,에셰트벤,경우에,case,noun,R2,N
-763,esetén,에셰텐,~의 경우에,case,postp,R2,N
-764,föld,푈드,"땅, 지구",earth,noun,R2,Y
-765,használt,허스날트,"사용한, 중고의",used,adj,R2,N
-766,helyes,헤예시,올바른,correct,adj,R2,N
-767,hirtelen,히르텔렌,갑자기,suddenly,adv,R2,N
-768,különösen,퀼뢰뇌셴,특히,especially,adv,R2,N
-769,napja,너프여,~의 날,day,noun,R2,N
-770,nálam,날럼,"나에게, 내 집에",at my place,postp,R2,N
-771,szeretném,쎄레트넴,~하고 싶다,would like,verb,R2,N
-772,számít,싸미트,"중요하다, 계산한다",to matter,verb,R2,N
-773,szükség,쒸크세그,필요,need,noun,R2,N
-774,továbbra,토바브러,계속해서,still,adv,R2,N
-775,tudta,투터,그는 알았다,to know,verb,R2,N
-776,törvény,퇴르베니,법,law,noun,R2,N
-777,édes,에데시,달콤한,sweet,adj,R2,Y
-778,élete,엘레테,그의 삶,life,noun,R2,N
-779,életem,엘레템,내 삶,life,noun,R2,N
-780,élni,엘니,살다,to live,verb,R2,N
-781,érdekében,에르데케벤,~을 위해,for the sake of,postp,R2,N
-782,összesen,외쓰셰센,모두 합쳐,in total,adv,R2,N
-783,adni,어드니,주다,to give,verb,R2,N
-784,db,데베,개(단위),pieces,other,R2,N
-785,egymást,에지마슈트,서로를,each other,pron,R2,N
-786,embereket,엠베레켓,사람들을,people,noun,R2,N
-787,ezelőtt,에젤뢰트,이전에,ago,adv,R2,N
-788,for,,,,other,R2,N
-789,gyors,죠르시,빠른,fast,adj,R2,Y
-790,helyzet,헤이젯,상황,situation,noun,R2,N
-791,hány,하니,몇,how many,pron,R2,N
-792,időt,이됫,시간을,time,noun,R2,N
-793,járt,야르트,다녔다,to go,verb,R2,N
-794,kulturális,쿨투랄리시,문화의,cultural,adj,R2,N
-795,michael,마이클,마이클(남자 이름),michael,propn,R2,N
-796,miközben,미쾨젬벤,~하는 동안,while,conj,R2,N
-797,mondtam,몬트텀,나는 말했다,to say,verb,R2,N
-798,mögött,뫼괴트,~뒤에,behind,postp,R2,N
-799,nálunk,날룽크,우리 집에서,at our place,postp,R2,N
-800,rendelet,렌델레트,법령,decree,noun,R2,N
-801,részét,레세트,그 부분을,part,noun,R2,N
-802,segítségével,셰기치게벨,~의 도움으로,with help of,postp,R2,N
-803,számú,싸무,~번의,numbered,adj,R2,N
-804,tanár,터나르,선생님,teacher,noun,R2,Y
-805,területén,테뤼레텐,~분야에서,territory,noun,R2,N
-806,teszi,테씨,그는 한다,to do,verb,R2,N
-807,tudnak,투드넉,그들은 ~할 수 있다,can,verb,R2,N
-808,vagytok,버지토크,너희는 ~이다,to be,verb,R2,N
-809,valahogy,버러호지,어떻게든,somehow,adv,R2,N
-810,verseny,베르셰니,"경주, 대회",race,noun,R2,Y
-811,you,,,,other,R2,N
-812,érkezett,에르케제트,도착했다,to arrive,verb,R2,N
-813,akarsz,어커르쓰,너는 원한다,to want,verb,R2,N
-814,cég,체그,회사,company,noun,R2,N
-815,dal,덜,노래,song,noun,R2,Y
-816,darab,더럽,"조각, 개",piece,noun,R2,N
-817,december,데쳄베르,12월,december,noun,R2,N
-818,hozott,호조트,가져왔다,to bring,verb,R2,N
-819,iii,,,,other,R2,N
-820,indult,인둘트,출발했다,to depart,verb,R2,N
-821,június,유니우시,6월,june,noun,R2,N
-822,kiadó,키어도,"출판사, 임대 가능",publisher,noun,R2,N
-823,kurva,쿠르버,(욕설),whore,noun,R2,N
-824,könyv,쾨니브,책,book,noun,R2,Y
-825,köszönjük,쾨쐬뉘크,감사합니다(우리가),to thank,verb,R2,N
-826,megye,메예,"도, 군",county,noun,R2,N
-827,melyet,메옛,~하는 것을,which,pron,R2,N
-828,mások,마속,다른 사람들,others,pron,R2,N
-829,nevét,네벳,그의 이름을,name,noun,R2,N
-830,nyílt,니일트,"열렸다, 열린",open,adj,R2,N
-831,rendben,렌드벤,"좋아, 알겠다",okay,interj,R2,N
-832,régen,레겐,옛날에,long ago,adv,R2,N
-833,szeretne,쎄레트네,그는 ~하고 싶다,would like,verb,R2,N
-834,számomra,싸모므러,나에게는,for me,postp,R2,N
-835,tudott,투더트,~알았다·할 수 있었다(tud 의 과거),to know,verb,R2,N
-836,velük,벨뤽,그들과 함께,with them,pron,R2,N
-837,world,월드,세계(외래어),world,noun,R2,N
-838,zene,제네,음악,music,noun,R2,Y
-839,években,에베벤,몇 년 동안(~년에),year,noun,R2,N
-840,bizottság,비조트샤그,위원회,committee,noun,R2,N
-841,csupán,추판,단지,only,adv,R2,N
-842,felett,펠레트,~위에,above,postp,R2,N
-843,fiúk,피욱,소년들,boy,noun,R2,Y
-844,ideig,이데이그,~동안,for a while,adv,R2,N
-845,képest,케페시트,~에 비해,compared to,postp,R2,N
-846,külföldi,퀼푈디,외국의,foreign,adj,R2,N
-847,lennék,렌네크,~일 것이다(van 의 가정법),to be,verb,R2,N
-848,létre,레트레,"생성하여, 만들어져",into being,adv,R2,N
-849,magyarországi,머져로르사기,헝가리의,hungarian,adj,R2,N
-850,max,머크시,최대,maximum,other,R2,N
-851,mielőtt,미에푀트,~하기 전에,before,conj,R2,N
-852,mindenkit,민덴키트,모든 사람을,everyone,pron,R2,N
-853,nevű,네뷔,~라는 이름의,named,adj,R2,N
-854,oh,오,오(감탄),oh,interj,R2,N
-855,részben,레스벤,부분적으로,partly,adv,R2,N
-856,tagja,터거여,그의 구성원,member,noun,R2,N
-857,életét,엘레테트,그의 삶을,life,noun,R2,N
-858,akart,어커르트,원했다,to want,verb,R2,N
-859,amire,어미레,~한 것에(관계대명사),which,pron,R2,N
-860,amiért,어미에르트,~때문에,because,conj,R2,N
-861,biztonsági,비즈톤샤기,안전의,safety,adj,R2,N
-862,david,더비드,다비드(이름),david,propn,R2,N
-863,innen,인넨,여기서부터,from here,adv,R2,N
-864,július,율리우시,7월,july,noun,R2,N
-865,la,러,라(외래 관사),the,other,R2,N
-866,legfontosabb,렉폰토셔브,가장 중요한,most important,adj,R2,N
-867,mindkét,민드케트,두 ~ 모두,both,det,R2,N
-868,old,올드,낡은(외래어),old,other,R2,N
-869,oldalán,올달란,~쪽에,side,noun,R2,N
-870,tudományos,투도마뇨시,과학적인,scientific,adj,R2,N
-871,többször,푀브쐬르,여러 번,several times,adv,R2,N
-872,ugyanis,우저니시,왜냐하면,because,conj,R2,N
-873,valójában,벌로야반,사실은,actually,adv,R2,N
-874,válogatott,발로거톳,국가대표,national team,noun,R2,N
-875,végzett,베그제트,"마쳤다, 졸업했다",to finish,verb,R2,N
-876,adja,어더여,그가 그것을 준다,to give,verb,R2,N
-877,amelynek,어멜녜크,그것의(관계대명사),whose,pron,R2,N
-878,andrás,언드라시,안드라시(이름),andras,propn,R2,N
-879,apja,어퍼여,그의 아버지,father,noun,R2,Y
-880,egyéni,에제니,개인의,individual,adj,R2,N
-881,eu,에우,유럽연합(EU),european union,propn,R2,N
-882,fia,피어,그의 아들,son,noun,R2,Y
-883,friss,프리시,신선한,fresh,adj,R2,N
-884,hoz,호즈,가져온다,to bring,verb,R2,N
-885,kék,케크,파란,blue,adj,R2,Y
-886,képet,케페트,"그림, 사진을",picture,noun,R2,Y
-887,mellé,멜레,~옆으로,beside,postp,R2,N
-888,melynek,메이녜크,그것의(관계대명사),whose,pron,R2,N
-889,munkát,문카트,일을,work,noun,R2,N
-890,nektek,넥테크,너희에게,to you,pron,R2,N
-891,nélküli,넬퀼리,~없는,without,adj,R2,N
-892,park,퍼르크,공원,park,noun,R2,Y
-893,pontos,폰토시,정확한,exact,adj,R2,N
-894,reggelt,레겔트,아침을(인사 jó reggelt),morning,noun,R2,N
-895,szerinted,쎄린테드,네 생각에는,in your opinion,adv,R2,N
-896,találtam,털랄톰,내가 찾았다,to find,verb,R2,N
-897,vörös,뵈뢰시,붉은,red,adj,R2,Y
-898,°,,도(온도 기호),degree,other,R2,N
-899,éjszaka,에이써커,밤,night,noun,R2,Y
-900,életben,엘레트벤,"살아서, 생존하여",alive,adv,R2,N
-901,érzés,에르제시,느낌,feeling,noun,R2,N
-902,beszélni,베쎌니,말하다,to speak,verb,R2,Y
-903,eléggé,엘레게,"꽤, 충분히",quite,adv,R2,N
-904,használni,허스날니,사용하다,to use,verb,R2,N
-905,hideg,히데그,차가운,cold,adj,R2,Y
-906,ilyenkor,이이옌코르,이럴 때,at such times,adv,R2,N
-907,jut,유트,"이르다, 도달하다",to reach,verb,R2,N
-908,jót,요트,좋은 것을,good,adj,R2,N
-909,jönnek,왼네크,그들이 온다,to come,verb,R2,N
-910,kedvenc,케드벤츠,"좋아하는, 즐겨 찾는",favorite,adj,R2,N
-911,magyarul,머져룰,헝가리어로,in hungarian,adv,R2,N
-912,nyelvű,녤뷔,~언어의,language,adj,R2,N
-913,sose,쇼셰,결코 ~않다,never,adv,R2,N
-914,sötét,쇠테트,어두운,dark,adj,R2,Y
-915,állam,알람,국가,state,noun,R2,N
-916,ég,에그,하늘,sky,noun,R2,Y
-917,bizony,비조니,정말로,indeed,adv,R2,N
-918,dolgokat,돌고커트,"것들을, 일들을",thing,noun,R2,N
-919,egyesült,에제슐트,연합한,united,adj,R2,N
-920,egyszerre,에째레,동시에,at once,adv,R2,N
-921,elérhető,엘레르회퇴,이용 가능한,available,adj,R2,N
-922,ezután,에주탄,그 후에,after this,adv,R2,N
-923,hónap,호넙,달(월),month,noun,R2,N
-924,itthon,이트혼,집에서,at home,adv,R2,N
-925,kerület,케룰레트,구(구역),district,noun,R2,N
-926,máris,마리시,벌써,already,adv,R2,N
-927,szeretnél,쎄레트넬,너는 ~하고 싶다,to like,verb,R2,N
-928,továbbá,토밥바,게다가,furthermore,adv,R2,N
-929,valahol,벌러홀,어딘가에,somewhere,adv,R2,N
-930,vette,벳테,샀다,to buy,verb,R2,N
-931,észre,에쎄레,알아차려(észre vesz),notice,adv,R2,N
-932,ötlet,외틀레트,아이디어,idea,noun,R2,N
-933,abból,어볼,그것에서,from that,pron,R2,N
-934,adta,어터,주었다,to give,verb,R2,N
-935,balázs,벌라주,벌라주(이름),balazs,propn,R2,N
-936,emiatt,에미어트,그 때문에,because of this,adv,R2,N
-937,esett,에셰트,떨어졌다,to fall,verb,R2,N
-938,hova,호버,어디로,where to,adv,R2,N
-939,kellemes,켈레메시,쾌적한,pleasant,adj,R2,N
-940,kinek,키네크,누구에게,to whom,pron,R2,N
-941,készített,케씨테트,만들었다,to make,verb,R2,N
-942,létezik,레테지크,존재한다,to exist,verb,R2,N
-943,szereti,쎄레티,그가 좋아한다,to love,verb,R2,N
-944,sziget,씨게트,섬,island,noun,R2,Y
-945,tavaly,터버이,작년,last year,adv,R2,N
-946,tele,텔레,가득한,full,adj,R2,N
-947,téli,텔리,겨울의,winter,adj,R2,N
-948,york,요르크,요크(지명),york,propn,R2,N
-949,abba,어빠,그 안으로,into that,pron,R2,N
-950,brit,브리트,영국의,british,adj,R2,N
-951,csoport,초포르트,그룹,group,noun,R2,N
-952,elé,엘레,~앞으로,in front of,postp,R2,N
-953,https,,웹주소 접두(https),https,other,R2,N
-954,keres,케레시,찾는다,to look for,verb,R2,N
-955,klub,클루브,클럽,club,noun,R2,N
-956,kovács,코바치,코바치(성),kovacs,propn,R2,N
-957,közeli,쾨젤리,가까운,near,adj,R2,N
-958,központi,쾨즈폰티,중앙의,central,adj,R2,N
-959,lányok,라뇩,소녀들,girl,noun,R2,Y
-960,lényeg,레녜그,핵심,essence,noun,R2,N
-961,messze,메쎄,멀리,far,adv,R2,N
-962,milliárd,밀리아르드,십억,billion,num,R2,N
-963,minek,미네크,무엇을 위해,for what,pron,R2,N
-964,mintegy,민테지,"약, 대략",approximately,adv,R2,N
-965,műszaki,뮈써키,기술적인,technical,adj,R2,N
-966,napig,너피그,며칠 동안,for days,adv,R2,N
-967,nevet,네베트,이름을,name,noun,R2,N
-968,név,네브,이름,name,noun,R2,N
-969,olimpiai,올림피어이,올림픽의,olympic,adj,R2,N
-970,ráadásul,라아다슐,게다가,moreover,adv,R2,N
-971,társaság,타르셔샤그,"회사, 모임",company,noun,R2,N
-972,többek,푀베크,여럿,several,pron,R2,N
-973,valódi,벌로디,진짜의,real,adj,R2,N
-974,városban,버로시번,도시에서,city,noun,R2,Y
-975,y,,문자 y,y,other,R2,N
-976,zsidó,지도,유대인의,jewish,adj,R2,N
-977,írta,이르터,썼다,to write,verb,R2,N
-978,ös,외시,~번째(서수 접미사),-th,suffix,R2,N
-979,amivel,어미벨,~한 것으로,with which,pron,R2,N
-980,célja,첼여,그의 목표,goal,noun,R2,N
-981,dél,델,"남쪽, 정오",south,noun,R2,N
-982,díj,디이,상(賞),prize,noun,R2,N
-983,egykori,에지코리,예전의,former,adj,R2,N
-984,ingyen,인젠,공짜로,free,adv,R2,N
-985,japán,여판,일본,japan,propn,R2,N
-986,mutatja,무터탸,보여준다,to show,verb,R2,N
-987,orvosi,오르보시,의학의,medical,adj,R2,N
-988,piros,피로시,빨간,red,adj,R2,Y
-989,sokszor,쇼크쏘르,자주,often,adv,R2,N
-990,szinten,씨텐,수준에서,level,noun,R2,N
-991,tóth,토트,토트(성),toth,propn,R2,N
-992,török,퇴뢰크,터키의,turkish,adj,R2,N
-993,akarja,어커랴,그것을 원한다,to want,verb,R2,N
-994,dolgozik,돌고직,일한다,to work,verb,R2,Y
-995,egyesület,에제슐레트,협회,association,noun,R2,N
-996,egymás,에지마시,서로,each other,pron,R2,N
-997,háború,하보루,전쟁,war,noun,R2,N
-998,hír,히르,뉴스,news,noun,R2,N
-999,kutya,쿠티어,개,dog,noun,R2,Y
-1000,károly,카로이,카로이(이름),karoly,propn,R2,N
-1001,közt,쾨즈트,~사이에,between,postp,R2,N
-1002,nappal,너빨,낮,daytime,noun,R2,N
-1003,nincsenek,닌체네크,없다(복수),there is none,verb,R2,N
-1004,román,로만,루마니아의,romanian,adj,R2,N
-1005,sokáig,쇼카이그,오랫동안,long time,adv,R2,N
-1006,szerelem,쎄레렘,사랑,love,noun,R2,N
-1007,voltunk,볼툰크,우리는 ~였다(van 의 과거),to be,verb,R2,N
-1008,évad,에바드,시즌,season,noun,R2,N
-1009,évig,에비그,~년 동안,for years,adv,R2,N
-1010,apa,어퍼,아빠,father,noun,R2,Y
-1011,bárki,바르키,누구든,anyone,pron,R2,N
-1012,drága,드라가,비싼,expensive,adj,R2,N
-1013,eladó,엘러도,"판매원, 판매 중인",seller,noun,R2,N
-1014,forint,포린트,포린트(헝가리 통화),forint,noun,R2,N
-1015,gép,게프,기계,machine,noun,R2,Y
-1016,hihetetlen,히헤틀렌,믿기 힘든,unbelievable,adj,R2,N
-1017,kereskedelmi,케레슈케델미,상업의,commercial,adj,R2,N
-1018,kevesebb,케베셰브,더 적은,less,adj,R2,N
-1019,köszönhetően,쾨쐬네헤퇴엔,~덕분에,thanks to,adv,R2,N
-1020,nézni,네즈니,보다,to watch,verb,R2,Y
-1021,oka,오커,그 이유,reason,noun,R2,N
-1022,sikeres,시케레시,성공적인,successful,adj,R2,N
-1023,spanyol,슈퍼뇰,스페인의,spanish,adj,R2,N
-1024,szegény,쎄게니,가난한,poor,adj,R2,N
-1025,vel,벨,~와 함께(도구·동반 접미사),with,postp,R2,N
-1026,világon,빌라곤,세상에서,world,noun,R2,N
-1027,óriási,오리아시,거대한,huge,adj,R2,Y
-1028,al,얼,~로(도구 접미사 -al),with,suffix,R2,N
-1029,at,엇,~을(목적격 접미사 조각),accusative,suffix,R2,N
-1030,ba,버,~안으로(접미사 -ba),into,suffix,R2,N
-1031,délután,델우탄,오후,afternoon,noun,R2,N
-1032,egyetemi,에제테미,대학의,university,adj,R2,N
-1033,emlékszem,에믈레크쎔,나는 기억한다,to remember,verb,R2,N
-1034,fa,퍼,나무,tree,noun,R2,Y
-1035,felesége,펠레셰게,그의 아내,wife,noun,R2,Y
-1036,fogsz,포크쓰,너는 ~할 것이다,will,verb,R2,N
-1037,furcsa,푸르처,이상한,strange,adj,R2,N
-1038,gyula,줄러,줄러(이름·도시),gyula,propn,R2,N
-1039,igazság,이거샤그,진실,truth,noun,R2,N
-1040,imre,임레,임레(이름),imre,propn,R2,N
-1041,jelen,옐렌,"현재의, 이",present,adj,R2,N
-1042,jézus,예주시,예수,jesus,propn,R2,N
-1043,keretében,케레테벤,~의 틀 안에서,within,postp,R2,N
-1044,kettő,케퇴,둘,two,num,R2,N
-1045,kezd,케즈드,시작한다,to begin,verb,R2,N
-1046,kft,,유한회사(약어),ltd,other,R2,N
-1047,követő,쾨베퇴,뒤따르는,following,adj,R2,N
-1048,magukat,머구커트,자신들을,themselves,pron,R2,N
-1049,mond,몬드,말한다,to say,verb,R2,N
-1050,mondják,몬댜크,그들이 말한다,to say,verb,R2,N
-1051,orvos,오르보시,의사,doctor,noun,R2,Y
-1052,san,션,산(외래어 san),san,other,R2,N
-1053,széles,쎄레시,넓은,wide,adj,R2,Y
-1054,súlyos,슈이오시,"심각한, 무거운",serious,adj,R2,N
-1055,tartó,터르토,"유지하는, 가진",holding,adj,R2,N
-1056,történő,퇴르테뇌,~로 이루어지는,occurring,adj,R2,N
-1057,usa,우셔,미국(USA),usa,propn,R2,N
-1058,valakinek,벌러키네크,누군가에게,to someone,pron,R2,N
-1059,veszélyes,베세예시,위험한,dangerous,adj,R2,N
-1060,városi,버로시,도시의,urban,adj,R2,N
-1061,épület,에퓔레트,건물,building,noun,R2,Y
-1062,írja,이랴,그가 쓴다,to write,verb,R2,N
-1063,amint,어민트,~하자마자,as soon as,conj,R2,N
-1064,felső,펠쇠,위쪽의,upper,adj,R2,N
-1065,fáj,파이,아프다,to hurt,verb,R2,N
-1066,gazdag,거즈더그,부유한,rich,adj,R2,N
-1067,gond,곤드,문제,problem,noun,R2,N
-1068,hagyományos,허져마뇨시,전통적인,traditional,adj,R2,N
-1069,játékos,야테코시,선수,player,noun,R2,Y
-1070,kapcsolatos,커프촐러토시,~와 관련된,related,adj,R2,N
-1071,kiderült,키데륄트,밝혀졌다,to turn out,verb,R2,N
-1072,kötelező,쾨텔레죄,의무적인,mandatory,adj,R2,N
-1073,leginkább,레긴카브,"가장, 특히",mostly,adv,R2,N
-1074,lehetőség,레헤퇴셰그,가능성,possibility,noun,R2,N
-1075,mást,마슈트,다른 것을,other,pron,R2,N
-1076,nézz,네쯔,봐라,to look,verb,R2,Y
-1077,országban,오르싸그번,나라에서,country,noun,R2,N
-1078,rendkívül,렌드키뷜,매우,extremely,adv,R2,N
-1079,részletek,레쓸레텍,세부 사항,detail,noun,R2,N
-1080,személyes,쎄메예시,개인적인,personal,adj,R2,N
-1081,tartozó,터르토조,~에 속하는,belonging,adj,R2,N
-1082,társadalmi,타르셔덜미,사회적인,social,adj,R2,N
-1083,történelmi,퇴르테넬미,역사적인,historical,adj,R2,N
-1084,utáni,우타니,~후의,after,adj,R2,N
-1085,videó,비데오,동영상,video,noun,R2,Y
-1086,zsolt,졸트,졸트(이름),zsolt,propn,R2,N
-1087,ír,이르,쓰다,to write,verb,R2,Y
-1088,amiben,어미벤,~한 것 안에서,in which,pron,R2,N
-1089,aminek,어미네크,~한 것의,of which,pron,R2,N
-1090,beszél,베쎌,말한다,to speak,verb,R2,Y
-1091,bármikor,바르미코르,언제든지,anytime,adv,R2,N
-1092,bármilyen,바르미옌,어떤 ~이든,any,det,R2,N
-1093,duna,두너,도나우 강,danube,propn,R2,N
-1094,embernek,엠베르네크,사람에게,person,noun,R2,Y
-1095,halt,헐트,죽었다,to die,verb,R2,N
-1096,hiába,히아바,헛되이,in vain,adv,R2,N
-1097,hiányzik,히아니직,"없어서 아쉽다, 그립다",to miss,verb,R2,N
-1098,kapcsolódó,커프촐로도,관련된,related,adj,R2,N
-1099,kiváló,키발로,훌륭한,excellent,adj,R2,N
-1100,klasszikus,클러씨쿠시,고전의,classic,adj,R2,N
-1101,kétszer,케트쎄르,두 번,twice,adv,R2,N
-1102,látja,라탸,그가 본다,to see,verb,R2,N
-1103,minél,미넬,~할수록,the more,conj,R2,N
-1104,normális,노르말리시,정상적인,normal,adj,R2,N
-1105,nyugati,뉴거티,서쪽의,western,adj,R2,N
-1106,paul,퍼울,폴(이름),paul,propn,R2,N
-1107,pál,팔,팔(이름),pal,propn,R2,N
-1108,szar,써르,"똥, 형편없는(비속어)",shit,noun,R2,N
-1109,személy,쎄메이,사람,person,noun,R2,Y
-1110,szervezet,쎄르베제트,조직,organization,noun,R2,N
-1111,szuper,쑤페르,훌륭한,super,adj,R2,N
-1112,tartani,터르터니,유지하다,to hold,verb,R2,N
-1113,tartja,터르탸,그가 든다,to hold,verb,R2,N
-1114,terület,테룰레트,지역,area,noun,R2,N
-1115,vasárnap,버사르넙,일요일,sunday,noun,R2,N
-1116,veszi,베시,그가 산다·받는다,to take,verb,R2,N
-1117,világot,빌라고트,세계를,world,noun,R2,N
-1118,zenei,제네이,음악의,musical,adj,R2,N
-1119,zenekar,제네커르,"밴드, 오케스트라",band,noun,R2,Y
-1120,adatai,어터터이,그의 자료들,data,noun,R2,N
-1121,amik,어믹,~한 것들,which,pron,R2,N
-1122,bal,벌,왼쪽의,left,adj,R2,N
-1123,cikk,치크,기사,article,noun,R2,N
-1124,félek,펠레크,나는 두렵다,to fear,verb,R2,N
-1125,hisz,히쓰,믿는다,to believe,verb,R2,N
-1126,hozzánk,호잔크,우리에게로,to us,pron,R2,N
-1127,információk,인포르머치오크,정보들,information,noun,R2,N
-1128,james,제임시,제임스(이름),james,propn,R2,N
-1129,játszani,야쓰너니,"놀다, 연주하다",to play,verb,R2,Y
-1130,könnyen,쾬녠,쉽게,easily,adv,R2,N
-1131,közepén,쾨제펜,중앙에서,middle,noun,R2,N
-1132,nyolc,뇰츠,여덟,eight,num,R2,N
-1133,szex,쎅스,성(性),sex,noun,R2,N
-1134,színház,씬하즈,극장,theater,noun,R2,Y
-1135,titeket,티테켓,너희를,you,pron,R2,N
-1136,típusú,티푸슈,~형의,type,adj,R2,N
-1137,vizet,비제트,물을,water,noun,R2,Y
-1138,választ,발라쓰트,선택한다,to choose,verb,R2,N
-1139,apró,어프로,아주 작은,tiny,adj,R2,N
-1140,by,바이,~에 의해(외래어 by),by,other,R2,N
-1141,csaba,처버,처버(이름),csaba,propn,R2,N
-1142,dolgozott,돌고조트,일했다,to work,verb,R2,Y
-1143,előtte,엘뢰테,"그 앞에, 그 전에",before it,adv,R2,N
-1144,hajó,허요,배,ship,noun,R2,Y
-1145,hozzám,호잠,나에게로,to me,pron,R2,N
-1146,híres,히레시,유명한,famous,adj,R2,N
-1147,idején,이데옌,~때에,during,postp,R2,N
-1148,indul,인둘,출발한다,to depart,verb,R2,N
-1149,jogi,요기,법적인,legal,adj,R2,N
-1150,kissé,키셰,조금,slightly,adv,R2,N
-1151,kérem,케렘,부탁합니다,please,interj,R2,N
-1152,készül,케쓸,준비된다,to prepare,verb,R2,N
-1153,legközelebb,렉쾨젤렙,"다음에, 가장 가까이",next time,adv,R2,N
-1154,lengyel,렌제이,폴란드의,polish,adj,R2,N
-1155,me,메,나(외래어 me),me,other,R2,N
-1156,miklós,미클로슈,미클로시(이름),miklos,propn,R2,N
-1157,művészeti,뮈베쎄티,예술의,artistic,adj,R2,N
-1158,nyitott,뇨토트,열린,open,adj,R2,Y
-1159,orbán,오르반,오르반(성),orban,propn,R2,N
-1160,pillanat,필러넛,순간,moment,noun,R2,N
-1161,rendőrség,렌드외르셰그,경찰,police,noun,R2,N
-1162,rádió,라디오,라디오,radio,noun,R2,Y
-1163,szeged,쎄게드,세게드(도시),szeged,propn,R2,N
-1164,szegedi,쎄게디,세게드의,of szeged,adj,R2,N
-1165,töltött,퇼퇴트,"보냈다, 채운",to spend,verb,R2,N
-1166,vezet,베제트,"운전한다, 이끈다",to drive,verb,R2,Y
-1167,változott,발토조트,변했다,to change,verb,R2,N
-1168,w,,문자 w,w,other,R2,N
-1169,állandó,알란도,일정한,constant,adj,R2,N
-1170,áron,아론,가격에,price,noun,R2,N
-1171,évre,에브레,한 해에,year,noun,R2,N
-1172,beszélt,베쎌트,말했다,to speak,verb,R2,Y
-1173,debrecen,데브레첸,데브레첸(도시),debrecen,propn,R2,N
-1174,esik,에시크,"떨어진다, 비가 온다",to fall,verb,R2,N
-1175,eszembe,에쎔베,내 생각에,to mind,adv,R2,N
-1176,féle,펠레,~종류의,kind,adj,R2,N
-1177,helyre,헤이레,장소로,place,noun,R2,N
-1178,honnan,혼넌,어디에서,from where,adv,R2,N
-1179,katonai,커토너이,군사의,military,adj,R2,N
-1180,keleti,켈레티,동쪽의,eastern,adj,R2,N
-1181,kezdődik,케즈되디크,시작된다,to start,verb,R2,N
-1182,kint,킨트,밖에,outside,adv,R2,N
-1183,központ,쾨즈폰트,중심,center,noun,R2,N
-1184,közösségi,쾨죄셰기,공동체의,social,adj,R2,N
-1185,látott,라토트,봤다,to see,verb,R2,N
-1186,látta,랏터,그가 봤다,to see,verb,R2,N
-1187,mostanában,모슈터나반,요즘,lately,adv,R2,N
-1188,nyilván,니일반,분명히,obviously,adv,R2,N
-1189,rég,레그,오래전,long ago,adv,R2,N
-1190,szeret,쎄레트,좋아한다,to love,verb,R2,N
-1191,száz,싸즈,백(100),hundred,num,R2,N
-1192,szöveg,쐬베그,글,text,noun,R2,N
-1193,talált,털랄트,찾았다,to find,verb,R2,N
-1194,tűnt,튄트,보였다,to seem,verb,R2,N
-1195,ugyanakkor,우저너꼬르,동시에,at the same time,adv,R2,N
-1196,aktuális,억투알리시,현재의,current,adj,R2,N
-1197,aktív,억티브,활동적인,active,adj,R2,N
-1198,egyelőre,에제뢰레,당분간,for now,adv,R2,N
-1199,egymással,에지머셜,서로와 함께,with each other,pron,R2,N
-1200,fent,펜트,위에,up,adv,R2,N
-1201,fesztivál,페스티벌,축제,festival,noun,R2,N
-1202,hallottam,헐로탐,들었다,to hear,verb,R2,N
-1203,iv,이브,4(로마 숫자),iv,other,R2,N
-1204,kg,,킬로그램(kg),kilogram,other,R2,N
-1205,kultúra,쿨투러,문화,culture,noun,R2,N
-1206,kár,카르,"아쉬움, 손해",pity,noun,R2,N
-1207,kíváncsi,키반치,궁금한,curious,adj,R2,N
-1208,legújabb,레구야브,가장 새로운,newest,adj,R2,N
-1209,love,러브,사랑(외래어),love,noun,R2,N
-1210,micsoda,미초더,"무슨, 얼마나",what a,pron,R2,N
-1211,nemcsak,넴착,~뿐 아니라,not only,conj,R2,N
-1212,nyugodtan,뉴고드턴,편안하게,calmly,adv,R2,N
-1213,okos,오코시,똑똑한,smart,adj,R2,N
-1214,rögtön,뢰그퇸,곧바로,immediately,adv,R2,N
-1215,szakmai,써크머이,전문적인,professional,adj,R2,N
-1216,szerzett,쎄르제트,얻었다,to obtain,verb,R2,N
-1217,szét,쎄트,"흩어져, 따로",apart,adv,R2,N
-1218,színű,씨뉘,~색의,colored,adj,R2,N
-1219,szót,쏘트,단어를,word,noun,R2,N
-1220,találtak,털랄탁,그들이 찾았다,to find,verb,R2,N
-1221,tőlem,퇼렘,나로부터,from me,pron,R2,N
-1222,val,벌,~와(도구 접미사 -val),with,suffix,R2,N
-1223,életet,엘레테트,삶을,life,noun,R2,N
-1224,órát,오라트,"시계, 시간을",clock,noun,R2,Y
-1225,bank,번크,은행,bank,noun,R2,Y
-1226,csináltam,치날탐,내가 했다·만들었다,to do,verb,R2,N
-1227,csodás,초다시,멋진,wonderful,adj,R2,N
-1228,cím,침,"주소, 제목",address,noun,R2,N
-1229,felnőtt,펠뇌트,"성인, 어른",adult,noun,R2,Y
-1230,fizikai,피지커이,물리적인,physical,adj,R2,N
-1231,fura,푸러,이상한,weird,adj,R2,N
-1232,halál,헐랄,죽음,death,noun,R2,N
-1233,hamar,허머르,"곧, 빨리",soon,adv,R2,N
-1234,hátra,하트러,뒤로,backward,adv,R2,N
-1235,idegen,이데겐,"낯선, 외국의",strange,adj,R2,N
-1236,ismeretlen,이슈메레틀렌,알려지지 않은,unknown,adj,R2,N
-1237,kevésbé,케베슈베,덜,less,adv,R2,N
-1238,kezdett,케즈데트,시작했다,to begin,verb,R2,N
-1239,képviselő,켑비셸뢰,"대표, 의원",representative,noun,R2,N
-1240,legalábbis,레걸랍비슈,적어도,at least,adv,R2,N
-1241,lehetővé,레헤퇴베,가능하게,possible,adv,R2,N
-1242,mondott,몬도트,말했다,to say,verb,R2,N
-1243,osztály,오스타이,"학급, 부서",class,noun,R2,N
-1244,peter,피터,피터(이름),peter,propn,R2,N
-1245,rendelkezik,렌델케직,가지고 있다,to have,verb,R2,N
-1246,rendes,렌데시,"정상적인, 착한",proper,adj,R2,N
-1247,szerepel,쎄레펠,등장한다,to appear,verb,R2,N
-1248,szeretné,쎄레트네,그가 ~하고 싶다,to like,verb,R2,N
-1249,története,퇴르테네테,"그의 이야기, 역사",story,noun,R2,N
-1250,vesz,베쓰,산다,to buy,verb,R2,N
-1251,vezetője,베제퇴예,그의 지도자,leader,noun,R2,N
-1252,válasz,바라스,대답,answer,noun,R2,N
-1253,véletlenül,베들레뉠,우연히,accidentally,adv,R2,N
-1254,ó,오,"아, 오(감탄)",oh,interj,R2,N
-1255,baleset,버레셰트,사고,accident,noun,R2,Y
-1256,előtti,엘푀티,"~앞의, ~이전의",previous,adj,R2,N
-1257,eredmények,에레드메녜크,결과들,results,noun,R2,N
-1258,galéria,거레리어,갤러리,gallery,noun,R2,Y
-1259,george,게오르게,조지(이름),george,propn,R2,N
-1260,harry,헤리,해리(이름),harry,propn,R2,N
-1261,katolikus,커톨리쿠시,가톨릭의,catholic,adj,R2,N
-1262,könyvet,쾨니벳,책을(목적격),book,noun,R2,Y
-1263,magának,머거낙,"자기에게, 당신에게",to oneself,pron,R2,N
-1264,plusz,플루스,"플러스, 추가",plus,noun,R2,N
-1265,sikerül,시께륄,"성공하다, 해내다",to succeed,verb,R2,N
-1266,szövetség,쐬벳셰그,"연맹, 동맹",alliance,noun,R2,N
-1267,szüksége,쒸크셰게,~의 필요,need,noun,R2,N
-1268,terv,테르브,계획,plan,noun,R2,N
-1269,tetszett,테트쎄트,마음에 들었다,to like,verb,R2,N
-1270,többen,뵈벤,더 많은 사람들,more people,pron,R2,N
-1271,varga,버르거,바르가(성씨),varga,propn,R2,N
-1272,viktor,빅토르,빅토르(이름),viktor,propn,R2,N
-1273,észak,에싹,북쪽,north,noun,R2,N
-1274,aludni,어루드니,자다,to sleep,verb,R2,Y
-1275,anyja,언여,그의 어머니,mother,noun,R2,Y
-1276,azután,어주탄,그 후에,afterwards,adv,R2,N
-1277,baba,버버,"아기, 인형",baby,noun,R2,Y
-1278,barátom,버라톰,"내 친구, 남자친구",friend,noun,R2,Y
-1279,béla,벨러,벨러(이름),bela,propn,R2,N
-1280,egyedi,에제디,"독특한, 개별의",unique,adj,R2,N
-1281,eső,에쇠,비,rain,noun,R2,Y
-1282,fantasztikus,펀터스티쿠시,환상적인,fantastic,adj,R2,N
-1283,gyermek,제르메크,아이,child,noun,R2,Y
-1284,imádom,이마돔,아주 좋아한다,to love,verb,R2,N
-1285,kapni,커프니,받다,to receive,verb,R2,N
-1286,kezdve,께즈드베,~부터 시작하여,starting,adv,R2,N
-1287,kit,키트,누구를(의문대명사 목적격),whom,pron,R2,N
-1288,kiállítás,키알리타시,전시회,exhibition,noun,R2,Y
-1289,közép,쾨제프,"가운데, 중앙",middle,noun,R2,N
-1290,labdarúgó,러브더루고,축구선수,footballer,noun,R2,Y
-1291,lap,러프,"종이, 장",sheet,noun,R2,Y
-1292,lehetőséget,레헤퇴셰겟,"가능성을, 기회를",opportunity,noun,R3,N
-1293,mégsem,메그셈,그래도 ~않다,nevertheless,adv,R3,N
-1294,nézzük,네쯔크,보자,to look,verb,R3,N
-1295,onnan,온넌,거기서부터,from there,adv,R3,N
-1296,rendelkező,렌델꼐쇠,~을 가진,having,adj,R3,N
-1297,robert,로베르트,로베르트(이름),robert,propn,R3,N
-1298,szerepet,쎄레펫,역할을,role,noun,R3,N
-1299,szereplő,쎄레플뢰,등장인물,character,noun,R3,N
-1300,tartalmaz,터르털머즈,포함하다,to contain,verb,R3,N
-1301,tervezett,테르베젯,계획된,planned,adj,R3,N
-1302,területen,테뤼레텐,지역에서,area,noun,R3,N
-1303,tom,톰,톰(이름),tom,propn,R3,N
-1304,többé,뵈베,더 이상,anymore,adv,R3,N
-1305,valaha,버러허,"언젠가, 일찍이",ever,adv,R3,N
-1306,állnak,알너크,서 있다(복수),to stand,verb,R3,N
-1307,órán,오란,수업 시간에,class,noun,R3,N
-1308,ajtó,어이토,문,door,noun,R3,Y
-1309,alacsony,어러촌,"낮은, 키가 작은",low,adj,R3,Y
-1310,amiket,어미켓,~인 것들을,which,pron,R3,N
-1311,azonos,어조노시,동일한,identical,adj,R3,N
-1312,bent,벤트,안에,inside,adv,R3,N
-1313,betegség,베테그셰그,병,illness,noun,R3,N
-1314,döntött,되늩트,결정했다,to decide,verb,R3,N
-1315,emellett,에멜렛트,"그 외에도, 그 옆에",besides,adv,R3,N
-1316,felelős,펠레뢰시,책임 있는,responsible,adj,R3,N
-1317,filmet,필멧,영화를,film,noun,R3,Y
-1318,fogva,포그버,"~로부터, 잡아서",holding,adv,R3,N
-1319,google,구글,구글,google,propn,R3,N
-1320,hello,헬로,안녕,hello,interj,R3,N
-1321,hozta,호즈터,가져왔다,to bring,verb,R3,N
-1322,kislány,키시라니,작은 소녀,little girl,noun,R3,Y
-1323,lettem,렛템,되었다(나),to become,verb,R3,N
-1324,mérkőzés,메르쾨제시,경기,match,noun,R3,Y
-1325,nyitva,니트버,열려 있는,open,adj,R3,Y
-1326,rock,록,록(음악),rock,noun,R3,N
-1327,ránk,랑크,"우리에게, 우리 위에",onto us,pron,R3,N
-1328,srác,슈라츠,"녀석, 사내아이",guy,noun,R3,Y
-1329,test,테슈트,몸,body,noun,R3,Y
-1330,valamilyen,버러밀옌,어떤,some kind of,det,R3,N
-1331,várom,바롬,기다린다(그것을),to wait,verb,R3,N
-1332,éreztem,에렉템,느꼈다,to feel,verb,R3,N
-1333,értelme,에르텔메,의미,meaning,noun,R3,N
-1334,alapítvány,어러피트바니,재단,foundation,noun,R3,N
-1335,amelyben,어멜옘벤,그 안에서,in which,pron,R3,N
-1336,bemutató,베무터토,"발표, 시연",presentation,noun,R3,N
-1337,bennem,벤넴,내 안에,in me,pron,R3,N
-1338,bármit,바르밋,무엇이든,anything,pron,R3,N
-1339,enni,엔니,먹다,to eat,verb,R3,Y
-1340,ennyit,엔녯,이만큼,this much,adv,R3,N
-1341,ezúttal,에주터,이번에,this time,adv,R3,N
-1342,fidesz,피데스,피데스(정당),fidesz,propn,R3,N
-1343,forró,포로,뜨거운,hot,adj,R3,Y
-1344,gyertek,제르텍,오세요(너희),to come,verb,R3,N
-1345,hivatalosan,히버털로션,공식적으로,officially,adv,R3,N
-1346,idei,이데이,올해의,this year's,adj,R3,N
-1347,ipari,이퍼리,산업의,industrial,adj,R3,N
-1348,játékok,야테콕,"게임들, 장난감들",games,noun,R3,Y
-1349,keresztény,께레스테니,기독교인,christian,noun,R3,N
-1350,legjobban,레기오번,가장 잘,best,adv,R3,N
-1351,legyél,레제일,~이 되어라,to be,verb,R3,N
-1352,lánya,라녀,그의 딸,daughter,noun,R3,Y
-1353,látod,라토드,너는 본다,to see,verb,R3,N
-1354,mindössze,민되쎄,"단지, 겨우",merely,adv,R3,N
-1355,mr,미스터,~씨(Mr),mr,other,R3,N
-1356,nyelv,니엘브,"언어, 혀",language,noun,R3,N
-1357,néven,네벤,이름으로,by name,noun,R3,N
-1358,pillanatban,필러넛번,순간에,moment,noun,R3,N
-1359,pápa,파퍼,교황,pope,noun,R3,Y
-1360,párt,파르트,정당,party,noun,R3,N
-1361,rendszeresen,렌드세레셴,규칙적으로,regularly,adv,R3,N
-1362,segíteni,셰기테니,돕다,to help,verb,R3,N
-1363,szeretnénk,쎄레트네엥크,우리는 ~하고 싶다,to want,verb,R3,N
-1364,világban,빌라그번,세상에서,world,noun,R3,N
-1365,válik,발릭,~이 되다,to become,verb,R3,N
-1366,alkalmas,얼껄머시,적합한,suitable,adj,R3,N
-1367,anna,언너,안나(이름),anna,propn,R3,N
-1368,bíró,비로,"판사, 심판",judge,noun,R3,Y
-1369,csinál,치날,"하다, 만들다",to make,verb,R3,N
-1370,egészséges,에게세셰시,건강한,healthy,adj,R3,N
-1371,elől,엘룔,~의 앞에서,from in front,postp,R3,N
-1372,erősen,에뢰셴,강하게,strongly,adv,R3,N
-1373,esetében,에셰테벤,~의 경우에,in case of,postp,R3,N
-1374,estét,에슈테트,저녁을,evening,noun,R3,Y
-1375,férfiak,페르피억,남자들,men,noun,R3,Y
-1376,győr,죄르,죄르(도시),gyor,propn,R3,N
-1377,hasonlóan,허숀로언,비슷하게,similarly,adv,R3,N
-1378,időre,이되레,제시간에,on time,adv,R3,N
-1379,kelet,껠레트,동쪽,east,noun,R3,N
-1380,kivéve,끼베베,~을 제외하고,except,postp,R3,N
-1381,közvetlenül,쾨즈베트레뉠,직접적으로,directly,adv,R3,N
-1382,különös,퀼뢰뫼시,특이한,strange,adj,R3,N
-1383,lehetnek,레헷넥,~일 수 있다(복수),can be,verb,R3,N
-1384,my,마이,my(영어 단어),my,other,R3,N
-1385,mára,마러,"오늘까지, 오늘날",by today,adv,R3,N
-1386,mária,마리어,마리아(이름),maria,propn,R3,N
-1387,nagyjából,너쥬발,대략,roughly,adv,R3,N
-1388,nehezen,네헤젠,어렵게,with difficulty,adv,R3,N
-1389,népszerű,넵세뤼,인기 있는,popular,adj,R3,N
-1390,rohadt,로허트,"썩은, 망할",rotten,adj,R3,Y
-1391,régóta,레고터,오래전부터,for long,adv,R3,N
-1392,révén,레벤,~를 통해,through,postp,R3,N
-1393,szabadon,써버돈,자유롭게,freely,adv,R3,N
-1394,szomorú,쏘모루,슬픈,sad,adj,R3,Y
-1395,szólt,쏠트,말했다,to say,verb,R3,N
-1396,tagjai,터거이,그의 구성원들,members,noun,R3,N
-1397,utat,우텃,길을,road,noun,R3,Y
-1398,valakit,버러킷,누군가를,someone,pron,R3,N
-1399,érted,에르테드,"너를 위해, 이해한다",to understand,verb,R3,N
-1400,évet,에벳,해를,year,noun,R3,N
-1401,ajándék,어얀데크,선물,gift,noun,R3,Y
-1402,azoknak,어조크넉,그들에게,to those,pron,R3,N
-1403,civil,치빌,"민간인, 시민의",civilian,noun,R3,N
-1404,debreceni,데브레쳉니,데브레첸의,debrecen,adj,R3,N
-1405,ebbe,에베,이 안으로,into this,pron,R3,N
-1406,eddigi,에디기,지금까지의,so far,adj,R3,N
-1407,fc,에프체,FC(축구 클럽),football club,other,R3,N
-1408,fogunk,포궁크,우리는 ~할 것이다,will,verb,R3,N
-1409,hasznos,허스노시,유용한,useful,adj,R3,N
-1410,hátsó,하초,뒤의,rear,adj,R3,N
-1411,intézet,인테제트,"연구소, 기관",institute,noun,R3,Y
-1412,izgalmas,이즈걸머시,흥미진진한,exciting,adj,R3,N
-1413,jelentette,옐렌테테,"의미했다, 보고했다",to mean,verb,R3,N
-1414,jellemző,옐레쯔뢰,특징적인,typical,adj,R3,N
-1415,kör,쾨르,원,circle,noun,R3,Y
-1416,község,쾨제그,"마을, 지방자치체",village,noun,R3,Y
-1417,leszel,레쎌,너는 ~될 것이다,to become,verb,R3,N
-1418,magasabb,머거셔브,더 높은,taller,adj,R3,N
-1419,megfelelően,메그펠레뢰엔,적절하게,appropriately,adv,R3,N
-1420,mondd,몬드,말해,to say,verb,R3,N
-1421,muszáj,무사이,~해야만 한다,must,adv,R3,N
-1422,pécsi,페치,페치의,pecs,adj,R3,N
-1423,római,로마이,로마의,roman,adj,R3,N
-1424,sajnálom,셔이날롬,미안합니다,sorry,interj,R3,N
-1425,senkinek,셴끼넥,아무에게도,to nobody,pron,R3,N
-1426,század,싸저드,"세기, 백",century,noun,R3,N
-1427,állat,알러트,동물,animal,noun,R3,Y
-1428,ára,아러,그 가격,price,noun,R3,N
-1429,érzi,에르지,그는 느낀다,to feel,verb,R3,N
-1430,öreg,외레그,늙은,old,adj,R3,Y
-1431,úgyis,우지시,어차피,anyway,adv,R3,N
-1432,akarnak,어커르넉,그들은 원한다,to want,verb,R3,N
-1433,alsó,얼쇼,아래의,lower,adj,R3,N
-1434,bajnok,버이녹,챔피언,champion,noun,R3,Y
-1435,egészségügyi,에게세그위기,보건의,medical,adj,R3,N
-1436,farkas,퍼르커시,늑대,wolf,noun,R3,Y
-1437,figyelem,피계렘,주의,attention,noun,R3,N
-1438,fogják,포자크,그들은 ~할 것이다,will,verb,R3,N
-1439,forrás,포라시,"원천, 샘",source,noun,R3,N
-1440,fény,페니,빛,light,noun,R3,Y
-1441,hotel,호텔,호텔,hotel,noun,R3,Y
-1442,házi,하지,"집의, 가정의",domestic,adj,R3,N
-1443,hírek,히렉,뉴스,news,noun,R3,Y
-1444,idők,이되크,"시간들, 시대",times,noun,R3,N
-1445,játszik,야찍,"놀다, 연주하다",to play,verb,R3,Y
-1446,kapcsolatot,껍촐러톳,관계를,connection,noun,R3,N
-1447,kupa,꾸퍼,컵(대회),cup,noun,R3,Y
-1448,közelében,쾨젤레벤,~의 근처에서,near,postp,R3,N
-1449,közösen,쾨뢰셴,함께,together,adv,R3,N
-1450,lakás,러카시,"아파트, 집",apartment,noun,R3,Y
-1451,lettek,렛텍,되었다(그들),to become,verb,R3,N
-1452,mennek,멘넥,그들은 간다,to go,verb,R3,Y
-1453,mihály,미하이,미하이(이름),mihaly,propn,R3,N
-1454,mióta,미오터,언제부터,since when,conj,R3,N
-1455,múzeum,무제움,박물관,museum,noun,R3,Y
-1456,működő,뮈쾨되,작동하는,working,adj,R3,N
-1457,napra,너프러,"하루에, 날에",day,noun,R3,N
-1458,nos,노시,"자, 그런데",well,interj,R3,N
-1459,olvastam,올버슈텀,읽었다,to read,verb,R3,N
-1460,projekt,프로옉트,프로젝트,project,noun,R3,N
-1461,pénzügyi,펜쥐기,재정의,financial,adj,R3,N
-1462,szerelmes,쎄렐메시,사랑에 빠진,in love,adj,R3,N
-1463,színes,씨네시,색깔 있는,colorful,adj,R3,Y
-1464,élt,엘트,살았다,to live,verb,R3,N
-1465,írni,이르니,쓰다,to write,verb,R3,Y
-1466,írtam,이르텀,썼다,to write,verb,R3,N
-1467,író,이로,작가,writer,noun,R3,Y
-1468,aha,어허,아하,aha,interj,R3,N
-1469,akarta,어커르터,원했다,to want,verb,R3,N
-1470,bíróság,비로샤그,법원,court,noun,R3,Y
-1471,címe,치메,"그의 제목, 주소",title,noun,R3,N
-1472,digitális,디기탈리시,디지털의,digital,adj,R3,N
-1473,egység,에게그,단위,unit,noun,R3,N
-1474,elektromos,엘렉트로모시,전기의,electric,adj,R3,N
-1475,előzetes,엘뢰제테시,"사전의, 예고편",preliminary,adj,R3,N
-1476,enyém,에녜임,내 것,mine,pron,R3,N
-1477,esti,에슈티,저녁의,evening,adj,R3,N
-1478,facebook,페이스북,페이스북,facebook,propn,R3,N
-1479,fele,펠레,그의 절반,half,noun,R3,N
-1480,formában,포르먼번,형태로,form,noun,R3,N
-1481,frank,프렁크,프랭크(이름),frank,propn,R3,N
-1482,gyereket,제레켓,아이를,child,noun,R3,Y
-1483,gólt,골트,골을,goal,noun,R3,N
-1484,hosszabb,호써브,더 긴,longer,adj,R3,N
-1485,ismerem,이쉬메렘,나는 안다,to know,verb,R3,N
-1486,it,잇,그것(영어 it),it,other,R3,N
-1487,kapcsolat,껍촐러트,"관계, 연결",connection,noun,R3,N
-1488,katona,커토너,군인,soldier,noun,R3,Y
-1489,kezdődött,께즈되드뵈트,시작되었다,to begin,verb,R3,N
-1490,kötött,쾨퇴트,"묶었다, 맺은",to tie,verb,R3,N
-1491,köztük,쾨즈튁,그들 사이에,among them,adv,R3,N
-1492,légy,레지,파리(곤충),fly,noun,R3,Y
-1493,mark,머르크,마크(이름),mark,propn,R3,N
-1494,miniszterelnök,미니스테렐뇌크,총리,prime minister,noun,R3,Y
-1495,miskolc,미슈꼴츠,미슈콜츠(도시),miskolc,propn,R3,N
-1496,nagyszerű,너지세뤼,훌륭한,great,adj,R3,N
-1497,negatív,네거티브,부정적인,negative,adj,R3,N
-1498,negyedik,네계딕,네 번째,fourth,num,R3,N
-1499,nemrég,넴레그,얼마 전,recently,adv,R3,N
-1500,nál,날,"~에게, ~의 집에(접미사)",at,suffix,R3,N
+27,ezt,에즈트,이것을,this,pron,R1,N
+28,minden,민덴,모든,every,det,R1,N
+29,mert,메르트,왜냐하면,because,conj,R1,N
+30,magyar,머져르,"헝가리의, 헝가리인",hungarian,adj,R1,N
+31,nagyon,너존,매우,very,adv,R1,N
+32,így,이지,이렇게,thus,adv,R1,N
+33,olyan,오이언,그런,such,det,R1,N
+34,itt,이트,여기,here,adv,R1,N
+35,mi,미,"무엇, 우리",what,pron,R1,N
+36,sem,셈,~도 아니다,neither,particle,R1,N
+37,lesz,레쓰,~이 될 것이다,will be,verb,R1,N
+38,lehet,레헤트,~일 수 있다,may,verb,R1,N
+39,vagyok,버죡,나는 ~이다,to be,verb,R1,N
+40,majd,머이드,"나중에, ~할 것이다",later,adv,R1,N
+41,es,에시,~번째(접미사),th,suffix,R1,N
+42,nagy,너지,큰,big,adj,R1,Y
+43,úgy,우지,그렇게,so,adv,R1,N
+44,be,베,안으로,in,adv,R1,N
+45,nincs,닌치,없다,to not be,verb,R1,N
+46,aki,어키,~하는 사람(관계대명사),who,pron,R1,N
+47,két,케트,둘,two,num,R1,N
+48,fel,펠,위로,up,adv,R1,N
+49,után,우탄,~후에,after,postp,R1,N
+50,ne,네,~하지 마(부정 명령),not,particle,R1,N
+51,új,우이,새로운,new,adj,R1,N
+52,amikor,어미꼬르,~할 때,when,conj,R1,N
+53,ami,어미,~하는 것(관계대명사),which,pron,R1,N
+54,első,엘쇠,첫째의,first,num,R1,N
+55,te,테,너,you,pron,R1,N
+56,több,퇴그,더 많은,more,adj,R1,N
+57,pedig,페디그,그런데,and,conj,R1,N
+58,mindig,민딕,항상,always,adv,R1,N
+59,nekem,네켐,나에게,to me,pron,R1,N
+60,amit,어미트,~하는 것을,which,pron,R1,N
+61,szerint,쎄린트,~에 따르면,according to,postp,R1,N
+62,kis,키시,작은,small,adj,R1,Y
+63,mit,미트,무엇을,what,pron,R1,N
+64,s,시,그리고(és 의 축약),and,conj,R1,N
+65,egyik,에지크,"하나, 한쪽",one,pron,R1,N
+66,ilyen,이옌,이런,such,det,R1,N
+67,le,레,아래로,down,adv,R1,N
+68,sok,쇼크,많은,many,det,R1,N
+69,e,에,이(지시사),this,det,R1,N
+70,jól,욜,잘,well,adv,R1,N
+71,miért,미에르트,왜,why,adv,R1,N
+72,volna,볼너,~했을 것이다(조건),would,particle,R1,N
+73,azért,어제르트,그래서,therefore,conj,R1,N
+74,tudom,투돔,나는 안다,to know,verb,R1,N
+75,budapest,부더페슈트,부다페스트,budapest,propn,R1,N
+76,milyen,미옌,어떤,what kind,det,R1,N
+77,igen,이겐,네(긍정 대답),yes,interj,R1,N
+78,között,쾨죄트,~사이에,between,postp,R1,N
+79,lett,레트,~이 되었다,to become,verb,R1,N
+80,ott,오트,거기,there,adv,R1,N
+81,alatt,어러트,~아래에,under,postp,R1,N
+82,ember,엠베르,사람,person,noun,R1,Y
+83,ma,머,오늘,today,adv,R1,N
+84,miatt,미어트,~때문에,because of,postp,R1,N
+85,lenne,렌네,~일 것이다(조건),would be,verb,R1,N
+86,által,알탈,~에 의해,by,postp,R1,N
+87,hát,핫,"글쎄, 그러니까(감탄)",well,interj,R1,N
+88,más,마시,다른,other,adj,R1,N
+89,ő,외,"그, 그녀",he,pron,R1,N
+90,mikor,미꼬르,언제,when,adv,R1,N
+91,valami,벌러미,무언가,something,pron,R1,N
+92,ben,벤,~안에(접미사),in,suffix,R1,N
+93,egész,에게쓰,전체의,whole,adj,R1,N
+94,arra,어르러,그쪽으로,that way,adv,R1,N
+95,ezért,에제르트,이 때문에,therefore,conj,R1,N
+96,vannak,번녹,~이 있다(복수),to be,verb,R1,N
+97,ahol,어홀,~하는 곳,where,conj,R1,N
+98,át,아트,가로질러,across,adv,R1,N
+99,ezek,에젝,이것들,these,pron,R1,N
+100,legyen,레젠,~이 되게 하라,to be,verb,R1,N
+101,nap,넙,"날, 태양",day,noun,R1,N
+102,rá,라,그 위로,onto,adv,R1,N
+103,elég,엘렉,충분한,enough,adv,R1,N
+104,neki,네키,그에게,to him,pron,R1,N
+105,aztán,어스탄,그 다음에,then,adv,R1,N
+106,előtt,엘뢰트,~앞에,before,postp,R1,N
+107,se,셰,~도 아니다,neither,particle,R1,N
+108,valaki,벌러키,누군가,someone,pron,R1,N
+109,év,에브,"해, 년",year,noun,R1,N
+110,amely,어메이,~하는(관계대명사),which,pron,R1,N
+111,kicsit,키치트,조금,a little,adv,R1,N
+112,semmi,셈미,아무것도,nothing,pron,R1,N
+113,tényleg,테니렉,정말,really,adv,R1,N
+114,mellett,멜레트,~옆에,beside,postp,R1,N
+115,erre,에레,이쪽으로,this way,adv,R1,N
+116,fog,포그,~할 것이다,will,verb,R1,N
+117,mindenki,민덴키,모두,everyone,pron,R1,N
+118,neked,네케드,너에게,to you,pron,R1,N
+119,na,너,"자, 글쎄(감탄)",well,interj,R1,N
+120,nélkül,넬퀼,~없이,without,postp,R1,N
+121,saját,셔야트,자신의,own,adj,R1,N
+122,szép,쎕,아름다운,beautiful,adj,R1,Y
+123,ahogy,어호지,~하는 대로,as,conj,R1,N
+124,akik,어킥,~하는 사람들,who,pron,R1,N
+125,három,하롬,셋,three,num,R1,N
+126,inkább,인깝,차라리,rather,adv,R1,N
+127,jobb,욥,더 좋은,better,adj,R1,N
+128,szerintem,쎄린템,내 생각에는,in my opinion,adv,R1,N
+129,együtt,에듀트,함께,together,adv,R1,N
+130,hogyan,호전,어떻게,how,adv,R1,N
+131,túl,툴,"너머, 너무",too,adv,R1,N
+132,valamint,벌러민트,"그리고, ~뿐 아니라",as well as,conj,R1,N
+133,legjobb,렉욥,최고의,best,adj,R1,N
+134,újra,우이러,다시,again,adv,R1,N
+135,biztos,비즈토슈,확실한,sure,adj,R1,N
+136,ezzel,에젤,이것으로,with this,pron,R1,N
+137,mivel,미벨,~이므로,since,conj,R1,N
+138,másik,마시크,다른 하나,other,det,R1,N
+139,néhány,네하니,몇몇,some,det,R1,N
+140,vissza,비써,뒤로,back,adv,R1,N
+141,őket,외켓,그들을,them,pron,R1,N
+142,ban,번,~안에(접미사),in,suffix,R1,N
+143,ellen,엘렌,~에 대항해,against,postp,R1,N
+144,ennek,엔넥,이것의,of this,pron,R1,N
+145,hanem,허넴,오히려,but rather,conj,R1,N
+146,pár,파르,"몇 개, 한 쌍",few,det,R1,N
+147,benne,벤네,그 안에,in it,adv,R1,N
+148,ezen,에젠,이 위에,on this,pron,R1,N
+149,persze,페르쎄,물론,of course,adv,R1,N
+150,tovább,토밥,더 멀리,further,adv,R1,N
+151,azonban,어존번,하지만,however,conj,R1,N
+152,című,취뢰,~라는 제목의,titled,adj,R1,N
+153,emberek,엠베렉,사람들,people,noun,R1,Y
+154,illetve,일레트베,혹은,or,conj,R1,N
+155,köszönöm,쾨쐬뇜,감사합니다,thank you,interj,R1,N
+156,vele,벨레,그와 함께,with him,pron,R1,N
+157,éves,에베슈,~살의,years old,adj,R1,N
+158,egyszer,에지쎄르,한 번,once,adv,R1,N
+159,talán,털란,아마도,maybe,adv,R1,N
+160,ebben,에벤,이 안에,in this,pron,R1,N
+161,rossz,로쓰,나쁜,bad,adj,R1,N
+162,teljesen,텔예셴,완전히,completely,adv,R1,N
+163,bár,바르,비록 ~지만,although,conj,R1,N
+164,kellett,켈레트,~해야 했다,had to,verb,R1,N
+165,teljes,텔예슈,전체의,full,adj,R1,N
+166,voltak,볼턱,~였다(복수),were,verb,R1,N
+167,annak,언넉,그것의,of that,pron,R1,N
+168,annyira,언니러,그만큼,so much,adv,R1,N
+169,este,에슈테,저녁,evening,noun,R1,N
+170,idő,이뢰,"시간, 날씨",time,noun,R1,N
+171,mind,민드,모두,all,det,R1,N
+172,második,마소디크,두 번째의,second,num,R1,N
+173,áll,알,서 있다,to stand,verb,R1,Y
+174,jobban,욥번,더 잘,better,adv,R1,N
+175,legnagyobb,렉너죱,가장 큰,biggest,adj,R1,N
+176,nézd,네즈드,봐(명령형),to look,verb,R1,N
+177,hozzá,호자,그에게로,to,adv,R1,N
+178,mindent,민덴트,모든 것을,everything,pron,R1,N
+179,utolsó,우톨쇼,마지막의,last,adj,R1,N
+180,való,벌로,"~인, ~에 대한",being,adj,R1,N
+181,során,쇼란,~동안,during,postp,R1,N
+182,vagyunk,버쥬크,우리는 ~이다,to be,verb,R1,N
+183,tudja,투쟈,그는 안다,to know,verb,R1,N
+184,először,엘쇠쐬르,처음으로,first,adv,R1,N
+185,fontos,폰토슈,중요한,important,adj,R1,N
+186,hol,홀,어디에,where,adv,R1,N
+187,kéne,케네,~해야 할 텐데,should,verb,R1,N
+188,mondta,몬터,그가 말했다,to say,verb,R1,N
+189,következő,쾨베트케죄,다음의,next,adj,R1,N
+190,magam,머검,나 자신,myself,pron,R1,N
+191,pont,폰트,"정확히, 점",exactly,adv,R1,N
+192,viszont,비쏜트,반면에,however,conj,R1,N
+193,össze,외쎄,함께 모아(방향),together,adv,R1,N
+194,azok,어족,그것들,those,pron,R1,N
+195,dolog,돌록,"일, 것",thing,noun,R1,N
+196,európai,에우로퍼이,유럽의,european,adj,R1,N
+197,férfi,페르피,남자,man,noun,R1,Y
+198,lenni,렌니,~이 되다,to become,verb,R1,N
+199,nemzeti,넴제티,국가의,national,adj,R1,N
+200,os,,~의(접미사),adjective suffix,suffix,R1,N
+201,számára,싸마러,~를 위해,for,postp,R1,N
+202,szóval,쏘벌,그러니까,so,conj,R1,N
+203,tudok,투독,나는 할 수 있다,can,verb,R1,N
+204,soha,쇼허,결코,never,adv,R1,N
+205,szó,쏘,단어,word,noun,R1,N
+206,voltam,볼텀,나는 ~였다,was,verb,R1,N
+207,alapján,어러파얀,~에 근거하여,based on,postp,R1,N
+208,jön,왼,오다,to come,verb,R1,N
+209,legalább,레걸랍,적어도,at least,adv,R1,N
+210,magyarország,머져르오르싸그,헝가리,hungary,propn,R1,N
+211,magát,머가트,자신을,oneself,pron,R1,N
+212,mai,머이,오늘의,today's,adj,R1,N
+213,például,펠다울,예를 들어,for example,adv,R1,N
+214,további,토바비,추가의,further,adj,R1,N
+215,azzal,어잘,그것으로,with that,pron,R1,N
+216,ide,이데,여기로,here,adv,R1,N
+217,igaz,이거즈,사실인,true,adj,R1,N
+218,maga,머거,"당신, 자신",self,pron,R1,N
+219,szeptember,쎕템베르,9월,september,noun,R1,N
+220,film,필름,영화,film,noun,R1,Y
+221,isten,이슈텐,신,god,noun,R1,N
+222,később,케쇠프,나중에,later,adv,R1,N
+223,megy,메지,가다,to go,verb,R1,N
+224,mégis,메기슈,그래도,nevertheless,adv,R1,N
+225,sokkal,쇼칼,훨씬,much,adv,R1,N
+226,világ,빌라그,세계,world,noun,R1,N
+227,óta,오터,~이래로,since,postp,R1,N
+228,amerikai,어메리커이,미국의,american,adj,R1,N
+229,azon,어존,그 위에,on that,pron,R1,N
+230,baj,버이,문제,trouble,noun,R1,N
+231,míg,미그,~하는 동안,while,conj,R1,N
+232,as,어슈,~의(접미사),adjective suffix,suffix,R1,N
+233,egyetlen,에제틀렌,단 하나의,single,adj,R1,N
+234,hosszú,호쑤,긴,long,adj,R1,Y
+235,mely,메이,~하는(관계대명사),which,pron,R1,N
+236,német,네메트,독일의,german,adj,R2,N
+237,re,레,~에(접미사),onto,suffix,R2,N
+238,tud,투드,알다,to know,verb,R2,N
+239,élő,엘뢰,살아있는,alive,adj,R2,N
+240,összes,외쎄슈,전체의,all,det,R2,N
+241,ismét,이슈메트,다시,again,adv,R2,N
+242,ja,여,아(감탄),oh,interj,R2,N
+243,közben,쾨즈벤,그동안,meanwhile,adv,R2,N
+244,mintha,민터,마치 ~인 듯,as if,conj,R2,N
+245,nemzetközi,넴젯쾨지,국제적인,international,adj,R2,N
+246,nő,뇌,여자,woman,noun,R2,Y
+247,oda,오더,저리로,there,adv,R2,N
+248,tehát,테핫,따라서,therefore,conj,R2,N
+249,egyre,에지레,점점,increasingly,adv,R2,N
+250,engem,엔겜,나를,me,pron,R2,N
+251,fekete,페케테,검은,black,adj,R2,Y
+252,ig,이그,~까지,until,postp,R2,N
+253,igazán,이거잔,정말로,truly,adv,R2,N
+254,nagyobb,너죠브,더 큰,bigger,adj,R2,N
+255,sokat,쇼커트,많이,a lot,adv,R2,N
+256,éve,에베,~년,year,noun,R2,N
+257,belül,벨륄,안쪽에,inside,adv,R2,N
+258,jelent,옐렌트,의미하다,to mean,verb,R2,N
+259,került,케륄트,"~가 되었다, 들어갔다",to get,verb,R2,N
+260,régi,레기,오래된,old,adj,R2,N
+261,szia,씨어,안녕,hi,interj,R2,N
+262,tudod,투도드,너는 안다,to know,verb,R2,N
+263,történt,퇴르텐트,일어났다,to happen,verb,R2,N
+264,akár,어카르,~라도,even,conj,R2,N
+265,kedves,케드베슈,"친절한, 사랑하는",kind,adj,R2,N
+266,készült,케씨윌트,만들어졌다,to be made,verb,R2,N
+267,közül,쾨쥘,~중에서,among,postp,R2,N
+268,lászló,라슬로,라슬로(남자 이름),laszlo,propn,R2,N
+269,megyek,메젝,나는 간다,to go,verb,R2,N
+270,sikerült,시케륄트,성공했다,to succeed,verb,R2,N
+271,velem,벨렘,나와 함께,with me,pron,R2,N
+272,óra,오러,"시간, 시계",clock,noun,R2,Y
+273,ők,왹,그들,they,pron,R2,N
+274,kapott,커포트,받았다,to receive,verb,R2,N
+275,senki,셴키,아무도,nobody,pron,R2,N
+276,tudtam,투툼,나는 알았다,to know,verb,R2,N
+277,arról,어롤,그것에 대해,about that,pron,R2,N
+278,fél,펠,"반, 두려워하다",half,noun,R2,N
+279,magyarországon,머져르오르싸곤,헝가리에서,in hungary,propn,R2,N
+280,megint,메긴트,"또, 다시",again,adv,R2,N
+281,részt,레스트,부분을,part,noun,R2,N
+282,újabb,우이업,더 새로운,newer,adj,R2,N
+283,adott,어도트,주어진,given,adj,R2,N
+284,akarok,어커록,나는 원한다,to want,verb,R2,N
+285,eddig,에딕,지금까지,until now,adv,R2,N
+286,egyes,에제슈,일부의,some,det,R2,N
+287,igazi,이거지,진짜의,real,adj,R2,N
+288,istván,이슈트반,이슈트반(남자 이름),istvan,propn,R2,N
+289,lány,라니,소녀,girl,noun,R2,Y
+290,láttam,랏탐,나는 보았다,to see,verb,R2,N
+291,mire,미레,무엇에,what,pron,R2,N
+292,női,뇌이,여성의,female,adj,R2,N
+293,szabad,써버드,"자유로운, 한가한",free,adj,R2,N
+294,vége,베게,끝,end,noun,R2,N
+295,végre,베그레,마침내,finally,adv,R2,N
+296,án,안,~에(접미사),on,suffix,R2,N
+297,értem,에르템,나는 이해한다,to understand,verb,R2,N
+298,fehér,페헤르,흰,white,adj,R2,Y
+299,felé,펠레,~쪽으로,toward,postp,R2,N
+300,angol,언골,"영국의, 영어",english,adj,R2,N
+301,fő,푀,"주요한, 머리",main,adj,R2,N
+302,kellene,켈레네,~해야 할 것이다,should,verb,R2,N
+303,képes,케페슈,할 수 있는,able,adj,R2,N
+304,négy,네지,넷,four,num,R2,N
+305,ország,오르싸그,나라,country,noun,R2,N
+306,perc,페르츠,분(시간),minute,noun,R2,N
+307,része,레쎄,그 부분,part,noun,R2,N
+308,város,버로슈,도시,city,noun,R2,Y
+309,végén,베겐,끝에,end,noun,R2,N
+310,abban,어번,그 안에,in that,pron,R2,N
+311,akar,어커르,원하다,to want,verb,R2,N
+312,király,키라이,왕,king,noun,R2,Y
+313,munka,문커,"일, 노동",work,noun,R2,N
+314,néha,네허,가끔,sometimes,adv,R2,N
+315,róla,롤러,그에 대해,about him,pron,R2,N
+316,valamit,벌러미트,무언가를,something,pron,R2,N
+317,út,우트,길,road,noun,R2,Y
+318,bele,벨레,그 안으로,into,adv,R2,N
+319,különböző,퀼뢴뵈죄,다양한,different,adj,R2,N
+320,remélem,레멜렘,바라건대,to hope,verb,R2,N
+321,található,털랄허토,찾을 수 있는,located,adj,R2,N
+322,többet,퇴벳,더 많이,more,pron,R2,N
+323,végül,베귈,결국,finally,adv,R2,N
+324,évi,에비,연간의,annual,adj,R2,N
+325,öt,외트,다섯,five,num,R2,N
+326,amíg,어미그,"~하는 동안, ~할 때까지",until,conj,R2,N
+327,holnap,홀넙,내일,tomorrow,adv,R2,N
+328,komolyan,코모얀,진지하게,seriously,adv,R2,N
+329,korábban,코랍번,이전에,earlier,adv,R2,N
+330,nehéz,네헤즈,어려운,difficult,adj,R2,N
+331,rajta,러이터,그 위에,on it,pron,R2,N
+332,semmit,셈미트,아무것도,nothing,pron,R2,N
+333,élet,엘레트,삶,life,noun,R2,N
+334,őt,외트,그를,him,pron,R2,N
+335,addig,어딕,그때까지,until then,adv,R2,N
+336,ahhoz,어호즈,그것에,to that,pron,R2,N
+337,helyen,헤옌,장소에,in place,noun,R2,N
+338,jött,욋트,왔다,to come,verb,R2,N
+339,neve,네베,그의 이름,name,noun,R2,N
+340,online,온라인,온라인,online,adj,R2,N
+341,reggel,렉겔,아침,morning,noun,R2,N
+342,ugye,우제,그렇지?(확인),right,particle,R2,N
+343,ennyi,엔니,이만큼,this much,adv,R2,N
+344,fogok,포곡,나는 ~할 것이다,will,verb,R2,N
+345,jános,야노슈,야노시(남자 이름),janos,propn,R2,N
+346,kívül,키퀼,밖에,outside,adv,R2,N
+347,leszek,레쎅,나는 ~이 될 것이다,will be,verb,R2,N
+348,menni,멘니,가다,to go,verb,R2,N
+349,miután,미우탄,~한 후에,after,conj,R2,N
+350,március,마르치우슈,3월,march,noun,R2,N
+351,rád,라드,너에게,onto you,pron,R2,N
+352,ön,왼,당신(공손),you,pron,R2,N
+353,elő,엘뢰,앞으로,forth,adv,R2,N
+354,harmadik,허르머딕,세 번째의,third,num,R2,N
+355,hiszem,히쎔,나는 믿는다,to believe,verb,R2,N
+356,keresztül,케레스튈,~를 통해,through,postp,R2,N
+357,közel,쾨젤,가까운,near,adj,R2,N
+358,módon,모돈,방식으로,way,noun,R2,N
+359,országos,오르싸고슈,전국의,national,adj,R2,N
+360,péter,페테르,페테르(남자 이름),peter,propn,R2,N
+361,éppen,에펜,바로,just,adv,R2,N
+362,budapesti,부더페슈티,부다페스트의,budapest,adj,R2,N
+363,hivatalos,히버털로슈,공식적인,official,adj,R2,N
+364,szent,쎈트,성스러운,holy,adj,R2,N
+365,szeretnék,쎄레트넥,~하고 싶다,would like,verb,R2,N
+366,száma,싸머,그 수,number,noun,R2,N
+367,április,어프릴리슈,4월,april,noun,R2,N
+368,épp,에프,바로,just,adv,R2,N
+369,ért,에르트,"이해했다, 도달했다",to reach,verb,R2,N
+370,augusztus,어우구스투슈,8월,august,noun,R2,N
+371,ezeket,에제켓,이것들을,these,pron,R2,N
+372,ezer,에제르,천,thousand,num,R2,N
+373,gyorsan,죠르션,빨리,quickly,adv,R2,N
+374,hét,헤트,일주일,week,noun,R2,N
+375,millió,밀리오,백만,million,num,R2,N
+376,tetszik,테트씨크,마음에 들다,to like,verb,R2,N
+377,többi,퇴비,나머지,rest,noun,R2,N
+378,alá,얼라,~아래로,under,postp,R2,N
+379,csapat,처펏,팀,team,noun,R2,Y
+380,egyszerűen,에지쎄뤼엔,간단히,simply,adv,R2,N
+381,ferenc,페렌츠,페렌츠(남자 이름),ferenc,propn,R2,N
+382,hat,허트,여섯,six,num,R2,N
+383,ház,하즈,집,house,noun,R2,Y
+384,mm,음,hmm,hmm,interj,R2,N
+385,nak,너크,~에게/~의(여격·소유 접미사),to (dative),suffix,R2,N
+386,sajnos,셔이노시,유감스럽게도,unfortunately,adv,R2,N
+387,tegnap,테그너프,어제,yesterday,adv,R2,N
+388,utána,우타아너,그 후에,after,adv,R2,N
+389,akit,어킷,~하는 사람을(관계대명사 목적격),whom,pron,R2,N
+390,elmúlt,엘물트,지나간,past,adj,R2,N
+391,megvan,메그번,있다/찾았다,to have found,verb,R2,N
+392,rövid,뢰비드,짧은,short,adj,R3,Y
+393,ti,티,너희,you (plural),pron,R3,N
+394,tökéletes,퇴켈레시,완벽한,perfect,adj,R3,N
+395,évben,에브벤,~년에,in year,noun,R3,N
+396,évek,에베크,"해들, 년들",years,noun,R3,N
+397,európa,에우로퍼,유럽,europe,propn,R3,N
+398,hatalmas,허털머시,거대한,huge,adj,R3,Y
+399,helyi,헤이이,지역의,local,adj,R3,N
+400,lévő,레뵈,~에 있는,being,adj,R3,N
+401,ment,멘트,갔다(megy 의 과거),to go,verb,R3,N
+402,minket,민케트,우리를,us,pron,R3,N
+403,orosz,오로스,"러시아의, 러시아인",russian,adj,R3,N
+404,sincs,신치,~이 없다,there is not,verb,R3,N
+405,tudjuk,투듀크,우리는 안다,to know,verb,R3,N
+406,érzem,에르젬,나는 느낀다,to feel,verb,R3,N
+407,boldog,볼도그,행복한,happy,adj,R3,Y
+408,haza,허저,"집으로, 고향",home,adv,R3,N
+409,játék,야테크,"놀이, 게임",game,noun,R3,Y
+410,kormány,코르마니,정부,government,noun,R3,N
+411,mennyire,멘니레,얼마나,how much,adv,R3,N
+412,mondom,몬돔,나는 말한다,to say,verb,R3,N
+413,számos,싸모시,수많은,numerous,adj,R3,N
+414,szóló,쏘로,"~에 관한, 솔로",about,adj,R3,N
+415,tett,테트,했다(tesz 의 과거),to do,verb,R3,N
+416,utca,우트처,"거리, 길",street,noun,R3,Y
+417,alig,얼리그,거의 ~않다,hardly,adv,R3,N
+418,annyi,언니,그만큼,so much,pron,R3,N
+419,anya,어니어,어머니,mother,noun,R3,Y
+420,egyszerű,에지세루,간단한,simple,adj,R3,N
+421,erős,에뢰시,강한,strong,adj,R3,Y
+422,kérdés,케르데시,질문,question,noun,R3,N
+423,közös,쾨죄시,공동의,common,adj,R3,N
+424,magas,머거시,"높은, 키 큰",tall,adj,R3,Y
+425,majdnem,머이드넴,거의,almost,adv,R3,N
+426,rám,람,나에게(위로),onto me,pron,R3,N
+427,szeretem,쎄레템,나는 좋아한다,to love,verb,R3,N
+428,tudni,투드니,알다,to know,verb,R3,N
+429,tól,톨,~로부터(접미사),from (suffix),suffix,R3,N
+430,vált,발트,바뀌었다,to change,verb,R3,N
+431,általában,알탈러번,"보통, 일반적으로",generally,adv,R3,N
+432,ám,암,"그러나, 정말(강조)",but,particle,R3,N
+433,akinek,어키넥,~하는 사람에게,to whom,pron,R3,N
+434,család,처라드,가족,family,noun,R3,Y
+435,ebből,에뵐,이것으로부터,from this,pron,R3,N
+436,egyedül,에제뒬,혼자,alone,adv,R3,N
+437,egyéb,에제브,기타의,other,adj,R3,N
+438,egészen,에게쎈,완전히,entirely,adv,R3,N
+439,gyönyörű,죠뇌루,아름다운,beautiful,adj,R3,Y
+440,helyett,헤옛,~대신에,instead of,postp,R3,N
+441,jár,야르,다닌다,to walk,verb,R3,N
+442,október,옥토베르,10월,october,noun,R3,N
+443,otthon,오트혼,"집에, 집",home,adv,R3,N
+444,ra,러,~위로/~로(접미사),onto (suffix),suffix,R3,N
+445,sorozat,쇼로저트,시리즈,series,noun,R3,N
+446,sosem,쇼셈,결코 ~않다,never,adv,R3,N
+447,szinte,씨테,거의,almost,adv,R3,N
+448,érdekes,에르데케시,흥미로운,interesting,adj,R3,N
+449,belőle,벨뢰레,그것으로부터,from it,pron,R3,N
+450,egyet,에제트,하나를,one,num,R3,N
+451,fiatal,피어털,젊은,young,adj,R3,Y
+452,iskola,이슈콜러,학교,school,noun,R3,Y
+453,komoly,코모이,진지한,serious,adj,R3,N
+454,nekünk,네퀸크,우리에게,to us,pron,R3,N
+455,szól,쏠,"말한다, 울린다",to speak,verb,R3,N
+456,tart,터르트,"유지한다, 지속된다",to hold,verb,R3,N
+457,től,뢸,~로부터(접미사),from (suffix),suffix,R3,N
+458,ugyan,우전,"비록, 설마",although,particle,R3,N
+459,álló,알로,서 있는,standing,adj,R3,N
+460,attól,어퇼,그것으로부터,from that,pron,R3,N
+461,azokat,어조커트,그것들을,those,pron,R3,N
+462,azonnal,어존널,즉시,immediately,adv,R3,N
+463,budapesten,부더페쉬텐,부다페스트에서,budapest,propn,R3,N
+464,egyébként,에제브켄트,그건 그렇고,otherwise,adv,R3,N
+465,ehhez,에헤즈,이것에,to this,pron,R3,N
+466,elleni,엘레니,~에 대항한,against,adj,R3,N
+467,gyerek,제레크,아이,child,noun,R3,Y
+468,hely,헤이,장소,place,noun,R3,N
+469,jelenleg,옐렌레그,현재,currently,adv,R3,N
+470,múlva,물버,~후에,after,postp,R3,N
+471,nek,넥,~에게/~의(접미사),to (suffix),suffix,R3,N
+472,szintén,씬텐,마찬가지로,also,adv,R3,N
+473,szépen,쎄펜,예쁘게,nicely,adv,R3,N
+474,tamás,터마시,터마시(남자 이름),tamas,propn,R3,N
+475,amelyek,어메옉,~하는 것들,which,pron,R3,N
+476,esetleg,에셰틀렉,"혹시, 아마",perhaps,adv,R3,N
+477,gyerekek,제레켁,아이들,children,noun,R3,Y
+478,hasonló,허숀로,비슷한,similar,adj,R3,N
+479,ideje,이데예,"~할 때, 시간",time,noun,R3,N
+480,maradt,머러트,남았다,to stay,verb,R3,N
+481,mondja,몬댜,그는 말한다,to say,verb,R3,N
+482,született,쎄울레테트,태어났다,to be born,verb,R3,N
+483,tenni,텐니,"하다, 놓다",to do,verb,R3,N
+484,akarom,어커롬,나는 원한다,to want,verb,R3,N
+485,családi,처라디,가족의,family,adj,R3,N
+486,egyáltalán,에자알탈란,전혀,at all,adv,R3,N
+487,erről,에르뢸,이것에 대해,about this,pron,R3,N
+488,főleg,푀레그,특히,mainly,adv,R3,N
+489,hazai,허저이,국내의,domestic,adj,R3,N
+490,jutott,유토트,도달했다,to get,verb,R3,N
+491,körül,쾨륄,주위에,around,postp,R3,N
+492,követően,쾨베퇴엔,~이후에,following,postp,R3,N
+493,látni,라트니,보다,to see,verb,R3,N
+494,napon,너폰,그날에,on day,noun,R3,N
+495,nyári,니아리,여름의,summer,adj,R3,N
+496,ok,오크,"확인, 이유",ok,interj,R3,N
+497,pontosan,폰토셔느,정확히,exactly,adv,R3,N
+498,szemben,쎔벤,~맞은편에,opposite,postp,R3,N
+499,történik,퇴르텐닉,일어난다,to happen,verb,R3,N
+500,vár,바르,기다린다,to wait,verb,R3,N
+501,érte,에르테,그를 위해,for it,pron,R3,N
+502,évvel,에브벨,~년 후/전,year,noun,R3,N
+503,fogja,포기어,"그는 잡는다, ~할 것이다",will,verb,R3,N
+504,helyet,헤옛,장소를,place,noun,R3,N
+505,időben,이됴벤,제시간에,in time,adv,R3,N
+506,marad,머러드,머문다,to stay,verb,R3,N
+507,valószínűleg,버로씨뉘레그,아마도,probably,adv,R3,N
+508,venni,벤니,사다,to buy,verb,R3,Y
+509,állami,알러미,국가의,state,adj,R3,N
+510,érdemes,에르데메시,~할 만한,worth,adj,R3,N
+511,adatok,어터톡,"자료, 데이터",data,noun,R3,N
+512,akartam,어커르텀,나는 원했다,to want,verb,R3,N
+513,eredeti,에레데티,원래의,original,adj,R3,N
+514,fiú,피우,소년,boy,noun,R3,Y
+515,francia,프런치어,"프랑스의, 프랑스인",french,adj,R3,N
+516,gondoltam,곤돌텀,나는 생각했다,to think,verb,R3,N
+517,hamarosan,허머로셔느,곧,soon,adv,R3,N
+518,józsef,요제프,요제프(남자 이름),jozsef,propn,R3,N
+519,kész,케스,준비된,ready,adj,R3,N
+520,közé,쾨제,~사이로,between,postp,R3,N
+521,különleges,퀼뢴레게시,특별한,special,adj,R3,N
+522,lehetett,레헤테트,~일 수 있었다,to be able,verb,R3,N
+523,napot,너폿,"하루를, 해를",day,noun,R3,N
+524,nekik,네킥,그들에게,to them,pron,R3,N
+525,néz,네즈,본다,to look,verb,R3,Y
+526,rendszer,렌드세르,시스템,system,noun,R3,N
+527,rész,레스,부분,part,noun,R3,N
+528,szívesen,씨베셴,기꺼이,gladly,adv,R3,N
+529,tette,테테,그는 했다,to do,verb,R3,N
+530,tettem,테템,나는 했다,to do,verb,R3,N
+531,zoltán,졸탄,졸탄(남자 이름),zoltan,propn,R3,N
+532,általános,알탈로노시,일반적인,general,adj,R3,N
+533,február,페브루아르,2월,february,noun,R3,N
+534,gazdasági,거즈더샤기,경제의,economic,adj,R3,N
+535,gyakran,저크런,자주,often,adv,R3,N
+536,kisebb,키셉,더 작은,smaller,adj,R3,N
+537,mindenkinek,민덴키넥,모두에게,everyone,pron,R3,N
+538,oldalon,올덜론,페이지에,page,noun,R3,N
+539,pénzt,펜스트,돈을,money,noun,R3,N
+540,szeretlek,쎄레틀렉,사랑해,to love,verb,R3,N
+541,vagyis,버지시,즉,that is,conj,R3,N
+542,vettem,벳템,나는 샀다,to buy,verb,R3,N
+543,előre,엘뢰레,앞으로,forward,adv,R3,N
+544,emberi,엠베리,인간의,human,adj,R3,N
+545,hittem,힛템,나는 믿었다,to believe,verb,R3,N
+546,idén,이덴,올해,this year,adv,R3,N
+547,john,존,존(이름),john,propn,R3,N
+548,kapcsolatban,컵촐러트번,~와 관련하여,regarding,postp,R3,N
+549,látható,라트허토,볼 수 있는,visible,adj,R3,N
+550,melyik,메이익,어느 것,which,pron,R3,N
+551,mennyi,멘니,얼마,how much,pron,R3,N
+552,mondani,몬더니,말하다,to say,verb,R3,N
+553,sokan,쇼컨,많은 사람들,many people,pron,R3,N
+554,szám,쌈,숫자,number,noun,R3,N
+555,él,엘,산다,to live,verb,R3,N
+556,azaz,어저즈,즉,that is,conj,R3,N
+557,dolgok,돌곡,"것들, 일들",things,noun,R3,N
+558,ellenére,엘레네레,~에도 불구하고,despite,postp,R3,N
+559,ismert,이슈메르트,"유명한, 알려진",known,adj,R3,N
+560,legtöbb,레그퇴브,가장 많은,most,adj,R3,N
+561,lesznek,레스넥,~일 것이다(복수),will be,verb,R3,N
+562,megjelent,메그옐렌트,"나타났다, 출간되었다",to appear,verb,R3,N
+563,olasz,올러스,"이탈리아의, 이탈리아인",italian,adj,R3,N
+564,sándor,샨도르,샨도르(남자 이름),sandor,propn,R3,N
+565,tér,테르,광장,square,noun,R3,Y
+566,alábbi,얼랍비,아래의,following,adj,R3,N
+567,annyit,언니트,그만큼을,so much,pron,R3,N
+568,belső,벨쇠,내부의,inner,adj,R3,N
+569,gábor,가보르,가보르(남자 이름),gabor,propn,R3,N
+570,hiszen,히쎈,왜냐하면 ~이니까,since,conj,R3,N
+571,jelenti,옐렌티,의미한다,to mean,verb,R3,N
+572,kaptam,커프텀,나는 받았다,to receive,verb,R3,N
+573,lassan,러셔느,천천히,slowly,adv,R3,N
+574,magad,머거드,너 자신,yourself,pron,R3,N
+575,meghalt,메그헐트,죽었다,to die,verb,R3,N
+576,rengeteg,렌게테그,엄청나게 많은,a lot,adj,R3,N
+577,tőle,퇴레,그로부터,from him,pron,R3,N
+578,vezető,베제퇴,"지도자, 이끄는",leader,noun,R3,N
+579,végig,베기그,끝까지,throughout,adv,R3,N
+580,ilyet,이옛,이런 것을,such,pron,R3,N
+581,lehetséges,레헤트세게시,가능한,possible,adj,R3,N
+582,látom,라톰,나는 본다,to see,verb,R3,N
+583,mondjuk,몬듀크,예를 들어,let's say,adv,R3,N
+584,május,마이우시,5월,may,noun,R3,N
+585,működik,뮈쾨딕,작동한다,to work,verb,R3,N
+586,remek,레멕,훌륭한,great,adj,R3,N
+587,természetesen,테르메쎄테셴,물론,naturally,adv,R3,N
+588,tiszta,티스터,깨끗한,clean,adj,R3,Y
+589,tűnik,튀닉,~처럼 보인다,to seem,verb,R3,N
+590,velünk,벨륑크,우리와 함께,with us,pron,R3,N
+591,írt,이르트,썼다,to write,verb,R3,N
+592,alkalommal,얼컬롬멀,~번째에,occasion,noun,R3,N
+593,amelyet,어메옛,~하는 것을,which,pron,R3,N
+594,attila,어틸러,어틸러(남자 이름),attila,propn,R3,N
+595,biztosan,비즈토셔느,확실히,surely,adv,R3,N
+596,egyetem,에제템,대학교,university,noun,R3,Y
+597,előbb,엘뢰브,더 먼저,earlier,adv,R3,N
+598,előző,엘뢰죄,이전의,previous,adj,R3,N
+599,fogom,포곰,"나는 잡는다, ~할 것이다",will,verb,R3,N
+600,héten,헤텐,주에,week,noun,R3,N
+601,kínai,키너이,"중국의, 중국인",chinese,adj,R3,N
+602,megfelelő,메그펠렐뢰,적절한,suitable,adj,R3,N
+603,megyei,메제이,"도의, 군의",county,adj,R3,N
+604,melyek,메옉,어느 것들,which,pron,R3,N
+605,múlt,물트,"과거, 지난",past,noun,R3,N
+606,napi,너피,매일의,daily,adj,R3,N
+607,nők,뇌크,여자들,women,noun,R3,Y
+608,pénz,펜즈,돈,money,noun,R3,Y
+609,természetes,테르메쎄테시,자연스러운,natural,adj,R3,N
+610,bizonyos,비죠뇨시,"어떤, 확실한",certain,adj,R3,N
+611,kor,코르,"나이, 시대",age,noun,R3,N
+612,könnyű,쾬뉘,"쉬운, 가벼운",easy,adj,R3,N
+613,köszi,쾨씨,고마워,thanks,interj,R3,N
+614,lehetne,레헷네,~일 수 있을 텐데,could be,verb,R3,N
+615,nyert,니에르트,이겼다,to win,verb,R3,N
+616,oldal,올덜,"쪽, 페이지",page,noun,R3,N
+617,politikai,폴리티커이,정치의,political,adj,R3,N
+618,tudunk,투둔크,우리는 ~할 수 있다,can,verb,R3,N
+619,vajon,버욘,과연,i wonder,particle,R3,N
+620,víz,비즈,물,water,noun,R3,Y
+621,úton,우톤,길 위에서,on the road,noun,R3,N
+622,csodálatos,초달러토시,놀라운,wonderful,adj,R3,N
+623,embert,엠베르트,사람을,person,noun,R3,N
+624,gondolom,곤돌롬,내 생각에는,to think,verb,R3,N
+625,hülye,휘예,바보 같은,stupid,adj,R3,N
+626,kerül,케륄,"~하게 된다, 비용이 든다",to cost,verb,R3,N
+627,korábbi,코랍비,이전의,earlier,adj,R3,N
+628,képek,케펙,"그림들, 사진들",pictures,noun,R3,Y
+629,mindjárt,민드야르트,곧바로,right away,adv,R3,N
+630,november,노벰베르,11월,november,noun,R3,N
+631,oké,오케,좋아,okay,interj,R3,N
+632,sor,쇼르,"줄, 열",row,noun,R3,N
+633,utóbbi,우톱비,후자의,latter,adj,R3,N
+634,valóban,버로번,정말로,indeed,adv,R3,N
+635,vicces,비체시,웃기는,funny,adj,R3,N
+636,zöld,죄르드,초록색,green,adj,R3,Y
+637,ad,어드,준다,to give,verb,R3,Y
+638,arany,어러니,금,gold,noun,R3,Y
+639,azóta,어조터,그때부터,since then,adv,R3,N
+640,gyere,제레,와,to come,verb,R3,N
+641,györgy,죄르지,죄르지(남자 이름),gyorgy,propn,R3,N
+642,közötti,쾨죄티,~사이의,between,adj,R3,N
+643,külön,퀼뢴,따로,separately,adv,R3,N
+644,meleg,멜레그,"따뜻한, 더운",hot,adj,R3,Y
+645,téged,테게드,너를,you,pron,R3,N
+646,tíz,티즈,열,ten,num,R3,N
+647,állt,알트,섰다,to stand,verb,R3,N
+648,éjjel,에이옐,밤에,night,noun,R3,N
+649,érdekel,에르데켈,관심이 있다,to interest,verb,R3,N
+650,úr,우르,"씨, 신사",mister,noun,R3,N
+651,dolgot,돌곳,것을,thing,noun,R3,N
+652,díjat,디이엇,상을,prize,noun,R3,N
+653,ennyire,엔니레,이 정도로,so much,adv,R3,N
+654,ennél,엔넬,이것보다,than this,pron,R3,N
+655,ettől,에퇼,이것으로부터,from this,pron,R3,N
+656,jelentős,옐렌퇴시,중요한,significant,adj,R3,N
+657,lajos,러요시,러요시(남자 이름),lajos,propn,R3,N
+658,program,프로그럼,프로그램,program,noun,R3,N
+659,segít,셰기트,돕는다,to help,verb,R3,N
+660,tartozik,터르토직,속한다,to belong,verb,R3,N
+661,tesz,테스,"한다, 놓는다",to do,verb,R3,N
+662,tudják,투댜크,그들은 안다,to know,verb,R3,N
+663,tudsz,투쯔,너는 ~할 수 있다,can,verb,R3,N
+664,vett,벳트,샀다,to buy,verb,R3,N
+665,beteg,베테그,아픈,sick,adj,R3,Y
+666,kemény,케메니,"단단한, 힘든",hard,adj,R3,N
+667,kép,켑,"그림, 사진",picture,noun,R3,Y
+668,külső,퀼쇠,외부의,outer,adj,R3,N
+669,látszik,랏직,보인다,to seem,verb,R3,N
+670,mindegy,민데지,상관없다,whatever,adj,R3,N
+671,probléma,프로블레머,문제,problem,noun,R3,N
+672,rosszul,로쑬,나쁘게,badly,adv,R3,N
+673,tartott,터르토트,유지했다,to hold,verb,R3,N
+674,véget,베겟,끝을,end,noun,R3,N
+675,annál,언날,그것보다,than that,pron,R3,N
+676,dolgozni,돌고즈니,일하다,to work,verb,R3,Y
+677,ekkor,에코르,그때,then,adv,R3,N
+678,elnöke,엘뇌케,~의 회장,president,noun,R3,N
+679,elsősorban,엘쇼쇼르번,주로,primarily,adv,R3,N
+680,fognak,포그넉,그들은 ~할 것이다,will,verb,R3,N
+681,kap,커프,받는다,to receive,verb,R3,N
+682,kevés,케베시,적은,few,adj,R3,N
+683,modern,모데른,현대적인,modern,adj,R3,N
+684,szükséges,쒸크세게시,필요한,necessary,adj,R3,N
+685,sőt,쇼트,"오히려, 심지어",even,conj,R3,N
+686,történet,퇴르테네트,이야기,story,noun,R3,N
+687,veled,벨레드,너와 함께,with you,pron,R3,N
+688,örülök,외뤼뢰크,기쁘다,to be glad,verb,R3,N
+689,csinálni,치날니,"만들다, 하다",to do,verb,R3,N
+690,egyben,에젬벤,동시에,at once,adv,R3,N
+691,elején,엘레옌,처음에,beginning,noun,R3,N
+692,elnök,엘뇌크,"회장, 대통령",president,noun,R3,N
+693,finom,피놈,맛있는,delicious,adj,R3,Y
+694,folyamatosan,폴리머토셔느,계속해서,continuously,adv,R3,N
+695,igazából,이거잘볼,사실은,actually,adv,R3,N
+696,ingyenes,인젠예시,무료의,free,adj,R3,N
+697,jaj,야이,아이고,oh,interj,R3,N
+698,január,야누아르,1월,january,noun,R3,N
+699,jelenlegi,옐렌레기,현재의,current,adj,R3,N
+700,jövő,요뵈,미래,future,noun,R3,N
+701,kicsi,키치,작은,small,adj,R3,Y
+702,kérlek,케르렉,부탁해,please,interj,R3,N
+703,magyarok,머져록,헝가리인들,hungarians,noun,R3,N
+704,sport,슈포르트,스포츠,sport,noun,R3,Y
+705,szabó,써보,"재단사, 서보(성)",tailor,noun,R3,N
+706,ér,에르,"가치가 있다, 도달한다",to be worth,verb,R3,N
+707,úgyhogy,우지호지,그래서,so,conj,R3,N
+708,amúgy,어무지,그건 그렇고,anyway,adv,R3,N
+709,autó,어우토,자동차,car,noun,R3,Y
+710,esetben,에셰트벤,경우에,case,noun,R3,N
+711,esetén,에셰텐,~의 경우에,case,postp,R3,N
+712,föld,푈드,"땅, 지구",earth,noun,R3,Y
+713,használt,허스날트,"사용한, 중고의",used,adj,R3,N
+714,helyes,헤예시,올바른,correct,adj,R3,N
+715,hirtelen,히르텔렌,갑자기,suddenly,adv,R3,N
+716,különösen,퀼뢰뇌셴,특히,especially,adv,R3,N
+717,napja,너프여,~의 날,day,noun,R3,N
+718,nálam,날럼,"나에게, 내 집에",at my place,postp,R3,N
+719,szeretném,쎄레트넴,~하고 싶다,would like,verb,R3,N
+720,számít,싸미트,"중요하다, 계산한다",to matter,verb,R3,N
+721,szükség,쒸크세그,필요,need,noun,R3,N
+722,továbbra,토바브러,계속해서,still,adv,R3,N
+723,tudta,투터,그는 알았다,to know,verb,R3,N
+724,törvény,퇴르베니,법,law,noun,R3,N
+725,édes,에데시,달콤한,sweet,adj,R3,Y
+726,élete,엘레테,그의 삶,life,noun,R3,N
+727,életem,엘레템,내 삶,life,noun,R3,N
+728,élni,엘니,살다,to live,verb,R3,N
+729,érdekében,에르데케벤,~을 위해,for the sake of,postp,R3,N
+730,összesen,외쓰셰센,모두 합쳐,in total,adv,R3,N
+731,adni,어드니,주다,to give,verb,R3,N
+732,egymást,에지마슈트,서로를,each other,pron,R3,N
+733,embereket,엠베레켓,사람들을,people,noun,R3,N
+734,ezelőtt,에젤뢰트,이전에,ago,adv,R3,N
+735,gyors,죠르시,빠른,fast,adj,R3,Y
+736,helyzet,헤이젯,상황,situation,noun,R3,N
+737,hány,하니,몇,how many,pron,R3,N
+738,időt,이됫,시간을,time,noun,R3,N
+739,járt,야르트,다녔다,to go,verb,R3,N
+740,kulturális,쿨투랄리시,문화의,cultural,adj,R3,N
+741,michael,마이클,마이클(남자 이름),michael,propn,R3,N
+742,miközben,미쾨젬벤,~하는 동안,while,conj,R3,N
+743,mondtam,몬트텀,나는 말했다,to say,verb,R3,N
+744,mögött,뫼괴트,~뒤에,behind,postp,R3,N
+745,nálunk,날룽크,우리 집에서,at our place,postp,R3,N
+746,rendelet,렌델레트,법령,decree,noun,R3,N
+747,részét,레세트,그 부분을,part,noun,R3,N
+748,segítségével,셰기치게벨,~의 도움으로,with help of,postp,R3,N
+749,számú,싸무,~번의,numbered,adj,R3,N
+750,tanár,터나르,선생님,teacher,noun,R3,Y
+751,területén,테뤼레텐,~분야에서,territory,noun,R3,N
+752,teszi,테씨,그는 한다,to do,verb,R3,N
+753,tudnak,투드넉,그들은 ~할 수 있다,can,verb,R3,N
+754,vagytok,버지토크,너희는 ~이다,to be,verb,R3,N
+755,valahogy,버러호지,어떻게든,somehow,adv,R3,N
+756,verseny,베르셰니,"경주, 대회",race,noun,R3,Y
+757,érkezett,에르케제트,도착했다,to arrive,verb,R3,N
+758,akarsz,어커르쓰,너는 원한다,to want,verb,R3,N
+759,cég,체그,회사,company,noun,R3,N
+760,dal,덜,노래,song,noun,R3,Y
+761,darab,더럽,"조각, 개",piece,noun,R3,N
+762,december,데쳄베르,12월,december,noun,R3,N
+763,hozott,호조트,가져왔다,to bring,verb,R3,N
+764,indult,인둘트,출발했다,to depart,verb,R3,N
+765,június,유니우시,6월,june,noun,R3,N
+766,kiadó,키어도,"출판사, 임대 가능",publisher,noun,R3,N
+767,kurva,쿠르버,(욕설),whore,noun,R3,N
+768,könyv,쾨니브,책,book,noun,R3,Y
+769,köszönjük,쾨쐬뉘크,감사합니다(우리가),to thank,verb,R3,N
+770,megye,메예,"도, 군",county,noun,R3,N
+771,melyet,메옛,~하는 것을,which,pron,R3,N
+772,mások,마속,다른 사람들,others,pron,R3,N
+773,nevét,네벳,그의 이름을,name,noun,R3,N
+774,nyílt,니일트,"열렸다, 열린",open,adj,R3,N
+775,rendben,렌드벤,"좋아, 알겠다",okay,interj,R3,N
+776,régen,레겐,옛날에,long ago,adv,R3,N
+777,szeretne,쎄레트네,그는 ~하고 싶다,would like,verb,R3,N
+778,számomra,싸모므러,나에게는,for me,postp,R3,N
+779,tudott,투더트,~알았다·할 수 있었다(tud 의 과거),to know,verb,R3,N
+780,velük,벨뤽,그들과 함께,with them,pron,R3,N
+781,world,월드,세계(외래어),world,noun,R3,N
+782,zene,제네,음악,music,noun,R3,Y
+783,években,에베벤,몇 년 동안(~년에),year,noun,R3,N
+784,bizottság,비조트샤그,위원회,committee,noun,R3,N
+785,csupán,추판,단지,only,adv,R3,N
+786,felett,펠레트,~위에,above,postp,R3,N
+787,fiúk,피욱,소년들,boy,noun,R3,Y
+788,ideig,이데이그,~동안,for a while,adv,R3,N
+789,képest,케페시트,~에 비해,compared to,postp,R3,N
+790,külföldi,퀼푈디,외국의,foreign,adj,R3,N
+791,lennék,렌네크,~일 것이다(van 의 가정법),to be,verb,R3,N
+792,létre,레트레,"생성하여, 만들어져",into being,adv,R3,N
+793,magyarországi,머져로르사기,헝가리의,hungarian,adj,R3,N
+794,mielőtt,미에푀트,~하기 전에,before,conj,R3,N
+795,mindenkit,민덴키트,모든 사람을,everyone,pron,R3,N
+796,nevű,네뷔,~라는 이름의,named,adj,R3,N
+797,oh,오,오(감탄),oh,interj,R3,N
+798,részben,레스벤,부분적으로,partly,adv,R3,N
+799,tagja,터거여,그의 구성원,member,noun,R3,N
+800,életét,엘레테트,그의 삶을,life,noun,R3,N
+801,akart,어커르트,원했다,to want,verb,R3,N
+802,amire,어미레,~한 것에(관계대명사),which,pron,R3,N
+803,amiért,어미에르트,~때문에,because,conj,R3,N
+804,biztonsági,비즈톤샤기,안전의,safety,adj,R3,N
+805,david,더비드,다비드(이름),david,propn,R3,N
+806,innen,인넨,여기서부터,from here,adv,R3,N
+807,július,율리우시,7월,july,noun,R3,N
+808,legfontosabb,렉폰토셔브,가장 중요한,most important,adj,R3,N
+809,mindkét,민드케트,두 ~ 모두,both,det,R3,N
+810,oldalán,올달란,~쪽에,side,noun,R3,N
+811,tudományos,투도마뇨시,과학적인,scientific,adj,R3,N
+812,többször,푀브쐬르,여러 번,several times,adv,R3,N
+813,ugyanis,우저니시,왜냐하면,because,conj,R3,N
+814,valójában,벌로야반,사실은,actually,adv,R3,N
+815,válogatott,발로거톳,국가대표,national team,noun,R3,N
+816,végzett,베그제트,"마쳤다, 졸업했다",to finish,verb,R3,N
+817,adja,어더여,그가 그것을 준다,to give,verb,R3,N
+818,amelynek,어멜녜크,그것의(관계대명사),whose,pron,R3,N
+819,andrás,언드라시,안드라시(이름),andras,propn,R3,N
+820,apja,어퍼여,그의 아버지,father,noun,R3,Y
+821,egyéni,에제니,개인의,individual,adj,R3,N
+822,fia,피어,그의 아들,son,noun,R3,Y
+823,friss,프리시,신선한,fresh,adj,R3,N
+824,hoz,호즈,가져온다,to bring,verb,R3,N
+825,kék,케크,파란,blue,adj,R3,Y
+826,képet,케페트,"그림, 사진을",picture,noun,R3,Y
+827,mellé,멜레,~옆으로,beside,postp,R3,N
+828,melynek,메이녜크,그것의(관계대명사),whose,pron,R3,N
+829,munkát,문카트,일을,work,noun,R3,N
+830,nektek,넥테크,너희에게,to you,pron,R3,N
+831,nélküli,넬퀼리,~없는,without,adj,R3,N
+832,park,퍼르크,공원,park,noun,R3,Y
+833,pontos,폰토시,정확한,exact,adj,R3,N
+834,reggelt,레겔트,아침을(인사 jó reggelt),morning,noun,R3,N
+835,szerinted,쎄린테드,네 생각에는,in your opinion,adv,R3,N
+836,találtam,털랄톰,내가 찾았다,to find,verb,R3,N
+837,vörös,뵈뢰시,붉은,red,adj,R3,Y
+838,éjszaka,에이써커,밤,night,noun,R3,Y
+839,életben,엘레트벤,"살아서, 생존하여",alive,adv,R3,N
+840,érzés,에르제시,느낌,feeling,noun,R3,N
+841,beszélni,베쎌니,말하다,to speak,verb,R3,Y
+842,eléggé,엘레게,"꽤, 충분히",quite,adv,R3,N
+843,használni,허스날니,사용하다,to use,verb,R3,N
+844,hideg,히데그,차가운,cold,adj,R3,Y
+845,ilyenkor,이이옌코르,이럴 때,at such times,adv,R3,N
+846,jut,유트,"이르다, 도달하다",to reach,verb,R3,N
+847,jót,요트,좋은 것을,good,adj,R3,N
+848,jönnek,왼네크,그들이 온다,to come,verb,R3,N
+849,kedvenc,케드벤츠,"좋아하는, 즐겨 찾는",favorite,adj,R3,N
+850,magyarul,머져룰,헝가리어로,in hungarian,adv,R3,N
+851,nyelvű,녤뷔,~언어의,language,adj,R3,N
+852,sose,쇼셰,결코 ~않다,never,adv,R3,N
+853,sötét,쇠테트,어두운,dark,adj,R3,Y
+854,állam,알람,국가,state,noun,R3,N
+855,ég,에그,하늘,sky,noun,R3,Y
+856,bizony,비조니,정말로,indeed,adv,R3,N
+857,dolgokat,돌고커트,"것들을, 일들을",thing,noun,R3,N
+858,egyesült,에제슐트,연합한,united,adj,R3,N
+859,egyszerre,에째레,동시에,at once,adv,R3,N
+860,elérhető,엘레르회퇴,이용 가능한,available,adj,R3,N
+861,ezután,에주탄,그 후에,after this,adv,R3,N
+862,hónap,호넙,달(월),month,noun,R3,N
+863,itthon,이트혼,집에서,at home,adv,R3,N
+864,kerület,케룰레트,구(구역),district,noun,R3,N
+865,máris,마리시,벌써,already,adv,R3,N
+866,szeretnél,쎄레트넬,너는 ~하고 싶다,to like,verb,R3,N
+867,továbbá,토밥바,게다가,furthermore,adv,R3,N
+868,valahol,벌러홀,어딘가에,somewhere,adv,R3,N
+869,vette,벳테,샀다,to buy,verb,R3,N
+870,észre,에쎄레,알아차려(észre vesz),notice,adv,R3,N
+871,ötlet,외틀레트,아이디어,idea,noun,R3,N
+872,abból,어볼,그것에서,from that,pron,R3,N
+873,adta,어터,주었다,to give,verb,R3,N
+874,balázs,벌라주,벌라주(이름),balazs,propn,R3,N
+875,emiatt,에미어트,그 때문에,because of this,adv,R3,N
+876,esett,에셰트,떨어졌다,to fall,verb,R3,N
+877,hova,호버,어디로,where to,adv,R3,N
+878,kellemes,켈레메시,쾌적한,pleasant,adj,R3,N
+879,kinek,키네크,누구에게,to whom,pron,R3,N
+880,készített,케씨테트,만들었다,to make,verb,R3,N
+881,létezik,레테지크,존재한다,to exist,verb,R3,N
+882,szereti,쎄레티,그가 좋아한다,to love,verb,R3,N
+883,sziget,씨게트,섬,island,noun,R3,Y
+884,tavaly,터버이,작년,last year,adv,R3,N
+885,tele,텔레,가득한,full,adj,R3,N
+886,téli,텔리,겨울의,winter,adj,R3,N
+887,york,요르크,요크(지명),york,propn,R3,N
+888,abba,어빠,그 안으로,into that,pron,R3,N
+889,brit,브리트,영국의,british,adj,R3,N
+890,csoport,초포르트,그룹,group,noun,R3,N
+891,elé,엘레,~앞으로,in front of,postp,R3,N
+892,keres,케레시,찾는다,to look for,verb,R3,N
+893,klub,클루브,클럽,club,noun,R3,N
+894,kovács,코바치,코바치(성),kovacs,propn,R3,N
+895,közeli,쾨젤리,가까운,near,adj,R3,N
+896,központi,쾨즈폰티,중앙의,central,adj,R3,N
+897,lányok,라뇩,소녀들,girl,noun,R3,Y
+898,lényeg,레녜그,핵심,essence,noun,R3,N
+899,messze,메쎄,멀리,far,adv,R3,N
+900,milliárd,밀리아르드,십억,billion,num,R3,N
+901,minek,미네크,무엇을 위해,for what,pron,R3,N
+902,mintegy,민테지,"약, 대략",approximately,adv,R3,N
+903,műszaki,뮈써키,기술적인,technical,adj,R3,N
+904,napig,너피그,며칠 동안,for days,adv,R3,N
+905,nevet,네베트,이름을,name,noun,R3,N
+906,név,네브,이름,name,noun,R3,N
+907,olimpiai,올림피어이,올림픽의,olympic,adj,R3,N
+908,ráadásul,라아다슐,게다가,moreover,adv,R3,N
+909,társaság,타르셔샤그,"회사, 모임",company,noun,R3,N
+910,többek,푀베크,여럿,several,pron,R3,N
+911,valódi,벌로디,진짜의,real,adj,R3,N
+912,városban,버로시번,도시에서,city,noun,R3,Y
+913,zsidó,지도,유대인의,jewish,adj,R3,N
+914,írta,이르터,썼다,to write,verb,R3,N
+915,ös,외시,~번째(서수 접미사),-th,suffix,R3,N
+916,amivel,어미벨,~한 것으로,with which,pron,R3,N
+917,célja,첼여,그의 목표,goal,noun,R3,N
+918,dél,델,"남쪽, 정오",south,noun,R3,N
+919,díj,디이,상(賞),prize,noun,R3,N
+920,egykori,에지코리,예전의,former,adj,R3,N
+921,ingyen,인젠,공짜로,free,adv,R3,N
+922,japán,여판,일본,japan,propn,R3,N
+923,mutatja,무터탸,보여준다,to show,verb,R3,N
+924,orvosi,오르보시,의학의,medical,adj,R3,N
+925,piros,피로시,빨간,red,adj,R3,Y
+926,sokszor,쇼크쏘르,자주,often,adv,R3,N
+927,szinten,씨텐,수준에서,level,noun,R3,N
+928,tóth,토트,토트(성),toth,propn,R3,N
+929,török,퇴뢰크,터키의,turkish,adj,R3,N
+930,akarja,어커랴,그것을 원한다,to want,verb,R3,N
+931,dolgozik,돌고직,일한다,to work,verb,R3,Y
+932,egyesület,에제슐레트,협회,association,noun,R3,N
+933,egymás,에지마시,서로,each other,pron,R3,N
+934,háború,하보루,전쟁,war,noun,R3,N
+935,hír,히르,뉴스,news,noun,R3,N
+936,kutya,쿠티어,개,dog,noun,R3,Y
+937,károly,카로이,카로이(이름),karoly,propn,R3,N
+938,közt,쾨즈트,~사이에,between,postp,R3,N
+939,nappal,너빨,낮,daytime,noun,R3,N
+940,nincsenek,닌체네크,없다(복수),there is none,verb,R3,N
+941,román,로만,루마니아의,romanian,adj,R3,N
+942,sokáig,쇼카이그,오랫동안,long time,adv,R3,N
+943,szerelem,쎄레렘,사랑,love,noun,R3,N
+944,voltunk,볼툰크,우리는 ~였다(van 의 과거),to be,verb,R3,N
+945,évad,에바드,시즌,season,noun,R3,N
+946,évig,에비그,~년 동안,for years,adv,R3,N
+947,apa,어퍼,아빠,father,noun,R3,Y
+948,bárki,바르키,누구든,anyone,pron,R3,N
+949,drága,드라가,비싼,expensive,adj,R3,N
+950,eladó,엘러도,"판매원, 판매 중인",seller,noun,R3,N
+951,forint,포린트,포린트(헝가리 통화),forint,noun,R3,N
+952,gép,게프,기계,machine,noun,R3,Y
+953,hihetetlen,히헤틀렌,믿기 힘든,unbelievable,adj,R3,N
+954,kereskedelmi,케레슈케델미,상업의,commercial,adj,R3,N
+955,kevesebb,케베셰브,더 적은,less,adj,R3,N
+956,köszönhetően,쾨쐬네헤퇴엔,~덕분에,thanks to,adv,R3,N
+957,nézni,네즈니,보다,to watch,verb,R3,Y
+958,oka,오커,그 이유,reason,noun,R3,N
+959,sikeres,시케레시,성공적인,successful,adj,R3,N
+960,spanyol,슈퍼뇰,스페인의,spanish,adj,R3,N
+961,szegény,쎄게니,가난한,poor,adj,R3,N
+962,vel,벨,~와 함께(도구·동반 접미사),with,postp,R3,N
+963,világon,빌라곤,세상에서,world,noun,R3,N
+964,óriási,오리아시,거대한,huge,adj,R3,Y
+965,al,얼,~로(도구 접미사 -al),with,suffix,R3,N
+966,at,엇,~을(목적격 접미사 조각),accusative,suffix,R3,N
+967,ba,버,~안으로(접미사 -ba),into,suffix,R3,N
+968,délután,델우탄,오후,afternoon,noun,R3,N
+969,egyetemi,에제테미,대학의,university,adj,R3,N
+970,emlékszem,에믈레크쎔,나는 기억한다,to remember,verb,R3,N
+971,fa,퍼,나무,tree,noun,R3,Y
+972,felesége,펠레셰게,그의 아내,wife,noun,R3,Y
+973,fogsz,포크쓰,너는 ~할 것이다,will,verb,R3,N
+974,furcsa,푸르처,이상한,strange,adj,R3,N
+975,gyula,줄러,줄러(이름·도시),gyula,propn,R3,N
+976,igazság,이거샤그,진실,truth,noun,R3,N
+977,imre,임레,임레(이름),imre,propn,R3,N
+978,jelen,옐렌,"현재의, 이",present,adj,R3,N
+979,jézus,예주시,예수,jesus,propn,R3,N
+980,keretében,케레테벤,~의 틀 안에서,within,postp,R3,N
+981,kettő,케퇴,둘,two,num,R3,N
+982,kezd,케즈드,시작한다,to begin,verb,R3,N
+983,követő,쾨베퇴,뒤따르는,following,adj,R3,N
+984,magukat,머구커트,자신들을,themselves,pron,R3,N
+985,mond,몬드,말한다,to say,verb,R3,N
+986,mondják,몬댜크,그들이 말한다,to say,verb,R3,N
+987,orvos,오르보시,의사,doctor,noun,R3,Y
+988,széles,쎄레시,넓은,wide,adj,R3,Y
+989,súlyos,슈이오시,"심각한, 무거운",serious,adj,R3,N
+990,tartó,터르토,"유지하는, 가진",holding,adj,R3,N
+991,történő,퇴르테뇌,~로 이루어지는,occurring,adj,R3,N
+992,valakinek,벌러키네크,누군가에게,to someone,pron,R3,N
+993,veszélyes,베세예시,위험한,dangerous,adj,R3,N
+994,városi,버로시,도시의,urban,adj,R3,N
+995,épület,에퓔레트,건물,building,noun,R3,Y
+996,írja,이랴,그가 쓴다,to write,verb,R3,N
+997,amint,어민트,~하자마자,as soon as,conj,R3,N
+998,felső,펠쇠,위쪽의,upper,adj,R3,N
+999,fáj,파이,아프다,to hurt,verb,R3,N
+1000,gazdag,거즈더그,부유한,rich,adj,R3,N
+1001,gond,곤드,문제,problem,noun,R3,N
+1002,hagyományos,허져마뇨시,전통적인,traditional,adj,R3,N
+1003,játékos,야테코시,선수,player,noun,R3,Y
+1004,kapcsolatos,커프촐러토시,~와 관련된,related,adj,R3,N
+1005,kiderült,키데륄트,밝혀졌다,to turn out,verb,R3,N
+1006,kötelező,쾨텔레죄,의무적인,mandatory,adj,R3,N
+1007,leginkább,레긴카브,"가장, 특히",mostly,adv,R3,N
+1008,lehetőség,레헤퇴셰그,가능성,possibility,noun,R3,N
+1009,mást,마슈트,다른 것을,other,pron,R3,N
+1010,nézz,네쯔,봐라,to look,verb,R3,Y
+1011,országban,오르싸그번,나라에서,country,noun,R3,N
+1012,rendkívül,렌드키뷜,매우,extremely,adv,R3,N
+1013,részletek,레쓸레텍,세부 사항,detail,noun,R3,N
+1014,személyes,쎄메예시,개인적인,personal,adj,R3,N
+1015,tartozó,터르토조,~에 속하는,belonging,adj,R3,N
+1016,társadalmi,타르셔덜미,사회적인,social,adj,R3,N
+1017,történelmi,퇴르테넬미,역사적인,historical,adj,R3,N
+1018,utáni,우타니,~후의,after,adj,R3,N
+1019,videó,비데오,동영상,video,noun,R3,Y
+1020,zsolt,졸트,졸트(이름),zsolt,propn,R3,N
+1021,ír,이르,쓰다,to write,verb,R3,Y
+1022,amiben,어미벤,~한 것 안에서,in which,pron,R3,N
+1023,aminek,어미네크,~한 것의,of which,pron,R3,N
+1024,beszél,베쎌,말한다,to speak,verb,R3,Y
+1025,bármikor,바르미코르,언제든지,anytime,adv,R3,N
+1026,bármilyen,바르미옌,어떤 ~이든,any,det,R3,N
+1027,duna,두너,도나우 강,danube,propn,R3,N
+1028,embernek,엠베르네크,사람에게,person,noun,R3,Y
+1029,halt,헐트,죽었다,to die,verb,R3,N
+1030,hiába,히아바,헛되이,in vain,adv,R3,N
+1031,hiányzik,히아니직,"없어서 아쉽다, 그립다",to miss,verb,R3,N
+1032,kapcsolódó,커프촐로도,관련된,related,adj,R3,N
+1033,kiváló,키발로,훌륭한,excellent,adj,R3,N
+1034,klasszikus,클러씨쿠시,고전의,classic,adj,R3,N
+1035,kétszer,케트쎄르,두 번,twice,adv,R3,N
+1036,látja,라탸,그가 본다,to see,verb,R3,N
+1037,minél,미넬,~할수록,the more,conj,R3,N
+1038,normális,노르말리시,정상적인,normal,adj,R3,N
+1039,nyugati,뉴거티,서쪽의,western,adj,R3,N
+1040,paul,퍼울,폴(이름),paul,propn,R3,N
+1041,pál,팔,팔(이름),pal,propn,R3,N
+1042,szar,써르,"똥, 형편없는(비속어)",shit,noun,R3,N
+1043,személy,쎄메이,사람,person,noun,R3,Y
+1044,szervezet,쎄르베제트,조직,organization,noun,R3,N
+1045,szuper,쑤페르,훌륭한,super,adj,R3,N
+1046,tartani,터르터니,유지하다,to hold,verb,R3,N
+1047,tartja,터르탸,그가 든다,to hold,verb,R3,N
+1048,terület,테룰레트,지역,area,noun,R3,N
+1049,vasárnap,버사르넙,일요일,sunday,noun,R3,N
+1050,veszi,베시,그가 산다·받는다,to take,verb,R3,N
+1051,világot,빌라고트,세계를,world,noun,R3,N
+1052,zenei,제네이,음악의,musical,adj,R3,N
+1053,zenekar,제네커르,"밴드, 오케스트라",band,noun,R3,Y
+1054,adatai,어터터이,그의 자료들,data,noun,R3,N
+1055,amik,어믹,~한 것들,which,pron,R3,N
+1056,bal,벌,왼쪽의,left,adj,R3,N
+1057,cikk,치크,기사,article,noun,R3,N
+1058,félek,펠레크,나는 두렵다,to fear,verb,R3,N
+1059,hisz,히쓰,믿는다,to believe,verb,R3,N
+1060,hozzánk,호잔크,우리에게로,to us,pron,R3,N
+1061,információk,인포르머치오크,정보들,information,noun,R3,N
+1062,james,제임시,제임스(이름),james,propn,R3,N
+1063,játszani,야쓰너니,"놀다, 연주하다",to play,verb,R3,Y
+1064,könnyen,쾬녠,쉽게,easily,adv,R3,N
+1065,közepén,쾨제펜,중앙에서,middle,noun,R3,N
+1066,nyolc,뇰츠,여덟,eight,num,R3,N
+1067,szex,쎅스,성(性),sex,noun,R3,N
+1068,színház,씬하즈,극장,theater,noun,R3,Y
+1069,titeket,티테켓,너희를,you,pron,R3,N
+1070,típusú,티푸슈,~형의,type,adj,R3,N
+1071,vizet,비제트,물을,water,noun,R3,Y
+1072,választ,발라쓰트,선택한다,to choose,verb,R3,N
+1073,apró,어프로,아주 작은,tiny,adj,R3,N
+1074,csaba,처버,처버(이름),csaba,propn,R3,N
+1075,dolgozott,돌고조트,일했다,to work,verb,R3,Y
+1076,előtte,엘뢰테,"그 앞에, 그 전에",before it,adv,R3,N
+1077,hajó,허요,배,ship,noun,R3,Y
+1078,hozzám,호잠,나에게로,to me,pron,R3,N
+1079,híres,히레시,유명한,famous,adj,R3,N
+1080,idején,이데옌,~때에,during,postp,R3,N
+1081,indul,인둘,출발한다,to depart,verb,R3,N
+1082,jogi,요기,법적인,legal,adj,R3,N
+1083,kissé,키셰,조금,slightly,adv,R3,N
+1084,kérem,케렘,부탁합니다,please,interj,R3,N
+1085,készül,케쓸,준비된다,to prepare,verb,R3,N
+1086,legközelebb,렉쾨젤렙,"다음에, 가장 가까이",next time,adv,R3,N
+1087,lengyel,렌제이,폴란드의,polish,adj,R3,N
+1088,miklós,미클로슈,미클로시(이름),miklos,propn,R3,N
+1089,művészeti,뮈베쎄티,예술의,artistic,adj,R3,N
+1090,nyitott,뇨토트,열린,open,adj,R3,Y
+1091,orbán,오르반,오르반(성),orban,propn,R3,N
+1092,pillanat,필러넛,순간,moment,noun,R3,N
+1093,rendőrség,렌드외르셰그,경찰,police,noun,R3,N
+1094,rádió,라디오,라디오,radio,noun,R3,Y
+1095,szeged,쎄게드,세게드(도시),szeged,propn,R3,N
+1096,szegedi,쎄게디,세게드의,of szeged,adj,R3,N
+1097,töltött,퇼퇴트,"보냈다, 채운",to spend,verb,R3,N
+1098,vezet,베제트,"운전한다, 이끈다",to drive,verb,R3,Y
+1099,változott,발토조트,변했다,to change,verb,R3,N
+1100,állandó,알란도,일정한,constant,adj,R3,N
+1101,áron,아론,가격에,price,noun,R3,N
+1102,évre,에브레,한 해에,year,noun,R3,N
+1103,beszélt,베쎌트,말했다,to speak,verb,R3,Y
+1104,debrecen,데브레첸,데브레첸(도시),debrecen,propn,R3,N
+1105,esik,에시크,"떨어진다, 비가 온다",to fall,verb,R3,N
+1106,eszembe,에쎔베,내 생각에,to mind,adv,R3,N
+1107,féle,펠레,~종류의,kind,adj,R3,N
+1108,helyre,헤이레,장소로,place,noun,R3,N
+1109,honnan,혼넌,어디에서,from where,adv,R3,N
+1110,katonai,커토너이,군사의,military,adj,R3,N
+1111,keleti,켈레티,동쪽의,eastern,adj,R3,N
+1112,kezdődik,케즈되디크,시작된다,to start,verb,R3,N
+1113,kint,킨트,밖에,outside,adv,R3,N
+1114,központ,쾨즈폰트,중심,center,noun,R3,N
+1115,közösségi,쾨죄셰기,공동체의,social,adj,R3,N
+1116,látott,라토트,봤다,to see,verb,R3,N
+1117,látta,랏터,그가 봤다,to see,verb,R3,N
+1118,mostanában,모슈터나반,요즘,lately,adv,R3,N
+1119,nyilván,니일반,분명히,obviously,adv,R3,N
+1120,rég,레그,오래전,long ago,adv,R3,N
+1121,szeret,쎄레트,좋아한다,to love,verb,R3,N
+1122,száz,싸즈,백(100),hundred,num,R3,N
+1123,szöveg,쐬베그,글,text,noun,R3,N
+1124,talált,털랄트,찾았다,to find,verb,R3,N
+1125,tűnt,튄트,보였다,to seem,verb,R3,N
+1126,ugyanakkor,우저너꼬르,동시에,at the same time,adv,R3,N
+1127,aktuális,억투알리시,현재의,current,adj,R3,N
+1128,aktív,억티브,활동적인,active,adj,R3,N
+1129,egyelőre,에제뢰레,당분간,for now,adv,R3,N
+1130,egymással,에지머셜,서로와 함께,with each other,pron,R3,N
+1131,fent,펜트,위에,up,adv,R3,N
+1132,fesztivál,페스티벌,축제,festival,noun,R3,N
+1133,hallottam,헐로탐,들었다,to hear,verb,R3,N
+1134,kultúra,쿨투러,문화,culture,noun,R3,N
+1135,kár,카르,"아쉬움, 손해",pity,noun,R3,N
+1136,kíváncsi,키반치,궁금한,curious,adj,R3,N
+1137,legújabb,레구야브,가장 새로운,newest,adj,R3,N
+1138,love,러브,사랑(외래어),love,noun,R3,N
+1139,micsoda,미초더,"무슨, 얼마나",what a,pron,R3,N
+1140,nemcsak,넴착,~뿐 아니라,not only,conj,R3,N
+1141,nyugodtan,뉴고드턴,편안하게,calmly,adv,R3,N
+1142,okos,오코시,똑똑한,smart,adj,R3,N
+1143,rögtön,뢰그퇸,곧바로,immediately,adv,R3,N
+1144,szakmai,써크머이,전문적인,professional,adj,R3,N
+1145,szerzett,쎄르제트,얻었다,to obtain,verb,R3,N
+1146,szét,쎄트,"흩어져, 따로",apart,adv,R3,N
+1147,színű,씨뉘,~색의,colored,adj,R3,N
+1148,szót,쏘트,단어를,word,noun,R3,N
+1149,találtak,털랄탁,그들이 찾았다,to find,verb,R3,N
+1150,tőlem,퇼렘,나로부터,from me,pron,R3,N
+1151,val,벌,~와(도구 접미사 -val),with,suffix,R3,N
+1152,életet,엘레테트,삶을,life,noun,R3,N
+1153,órát,오라트,"시계, 시간을",clock,noun,R3,Y
+1154,bank,번크,은행,bank,noun,R3,Y
+1155,csináltam,치날탐,내가 했다·만들었다,to do,verb,R3,N
+1156,csodás,초다시,멋진,wonderful,adj,R3,N
+1157,cím,침,"주소, 제목",address,noun,R3,N
+1158,felnőtt,펠뇌트,"성인, 어른",adult,noun,R3,Y
+1159,fizikai,피지커이,물리적인,physical,adj,R3,N
+1160,fura,푸러,이상한,weird,adj,R3,N
+1161,halál,헐랄,죽음,death,noun,R3,N
+1162,hamar,허머르,"곧, 빨리",soon,adv,R3,N
+1163,hátra,하트러,뒤로,backward,adv,R3,N
+1164,idegen,이데겐,"낯선, 외국의",strange,adj,R3,N
+1165,ismeretlen,이슈메레틀렌,알려지지 않은,unknown,adj,R3,N
+1166,kevésbé,케베슈베,덜,less,adv,R3,N
+1167,kezdett,케즈데트,시작했다,to begin,verb,R3,N
+1168,képviselő,켑비셸뢰,"대표, 의원",representative,noun,R3,N
+1169,legalábbis,레걸랍비슈,적어도,at least,adv,R3,N
+1170,lehetővé,레헤퇴베,가능하게,possible,adv,R3,N
+1171,mondott,몬도트,말했다,to say,verb,R3,N
+1172,osztály,오스타이,"학급, 부서",class,noun,R3,N
+1173,peter,피터,피터(이름),peter,propn,R3,N
+1174,rendelkezik,렌델케직,가지고 있다,to have,verb,R3,N
+1175,rendes,렌데시,"정상적인, 착한",proper,adj,R3,N
+1176,szerepel,쎄레펠,등장한다,to appear,verb,R3,N
+1177,szeretné,쎄레트네,그가 ~하고 싶다,to like,verb,R3,N
+1178,története,퇴르테네테,"그의 이야기, 역사",story,noun,R3,N
+1179,vesz,베쓰,산다,to buy,verb,R3,N
+1180,vezetője,베제퇴예,그의 지도자,leader,noun,R3,N
+1181,válasz,바라스,대답,answer,noun,R3,N
+1182,véletlenül,베들레뉠,우연히,accidentally,adv,R3,N
+1183,baleset,버레셰트,사고,accident,noun,R3,Y
+1184,előtti,엘푀티,"~앞의, ~이전의",previous,adj,R3,N
+1185,eredmények,에레드메녜크,결과들,results,noun,R3,N
+1186,galéria,거레리어,갤러리,gallery,noun,R3,Y
+1187,george,게오르게,조지(이름),george,propn,R3,N
+1188,harry,헤리,해리(이름),harry,propn,R3,N
+1189,katolikus,커톨리쿠시,가톨릭의,catholic,adj,R3,N
+1190,könyvet,쾨니벳,책을(목적격),book,noun,R3,Y
+1191,magának,머거낙,"자기에게, 당신에게",to oneself,pron,R3,N
+1192,plusz,플루스,"플러스, 추가",plus,noun,R3,N
+1193,sikerül,시께륄,"성공하다, 해내다",to succeed,verb,R3,N
+1194,szövetség,쐬벳셰그,"연맹, 동맹",alliance,noun,R3,N
+1195,szüksége,쒸크셰게,~의 필요,need,noun,R3,N
+1196,terv,테르브,계획,plan,noun,R3,N
+1197,tetszett,테트쎄트,마음에 들었다,to like,verb,R3,N
+1198,többen,뵈벤,더 많은 사람들,more people,pron,R3,N
+1199,varga,버르거,바르가(성씨),varga,propn,R3,N
+1200,viktor,빅토르,빅토르(이름),viktor,propn,R3,N
+1201,észak,에싹,북쪽,north,noun,R3,N
+1202,aludni,어루드니,자다,to sleep,verb,R3,Y
+1203,anyja,언여,그의 어머니,mother,noun,R3,Y
+1204,azután,어주탄,그 후에,afterwards,adv,R3,N
+1205,baba,버버,"아기, 인형",baby,noun,R3,Y
+1206,barátom,버라톰,"내 친구, 남자친구",friend,noun,R3,Y
+1207,béla,벨러,벨러(이름),bela,propn,R3,N
+1208,egyedi,에제디,"독특한, 개별의",unique,adj,R3,N
+1209,eső,에쇠,비,rain,noun,R3,Y
+1210,fantasztikus,펀터스티쿠시,환상적인,fantastic,adj,R3,N
+1211,gyermek,제르메크,아이,child,noun,R3,Y
+1212,imádom,이마돔,아주 좋아한다,to love,verb,R3,N
+1213,kapni,커프니,받다,to receive,verb,R3,N
+1214,kezdve,께즈드베,~부터 시작하여,starting,adv,R3,N
+1215,kit,키트,누구를(의문대명사 목적격),whom,pron,R3,N
+1216,kiállítás,키알리타시,전시회,exhibition,noun,R3,Y
+1217,közép,쾨제프,"가운데, 중앙",middle,noun,R3,N
+1218,labdarúgó,러브더루고,축구선수,footballer,noun,R3,Y
+1219,lap,러프,"종이, 장",sheet,noun,R3,Y
+1220,lehetőséget,레헤퇴셰겟,"가능성을, 기회를",opportunity,noun,R3,N
+1221,mégsem,메그셈,그래도 ~않다,nevertheless,adv,R3,N
+1222,nézzük,네쯔크,보자,to look,verb,R3,N
+1223,onnan,온넌,거기서부터,from there,adv,R3,N
+1224,rendelkező,렌델꼐쇠,~을 가진,having,adj,R3,N
+1225,robert,로베르트,로베르트(이름),robert,propn,R3,N
+1226,szerepet,쎄레펫,역할을,role,noun,R3,N
+1227,szereplő,쎄레플뢰,등장인물,character,noun,R3,N
+1228,tartalmaz,터르털머즈,포함하다,to contain,verb,R3,N
+1229,tervezett,테르베젯,계획된,planned,adj,R3,N
+1230,területen,테뤼레텐,지역에서,area,noun,R3,N
+1231,tom,톰,톰(이름),tom,propn,R3,N
+1232,többé,뵈베,더 이상,anymore,adv,R3,N
+1233,valaha,버러허,"언젠가, 일찍이",ever,adv,R3,N
+1234,állnak,알너크,서 있다(복수),to stand,verb,R3,N
+1235,órán,오란,수업 시간에,class,noun,R3,N
+1236,ajtó,어이토,문,door,noun,R3,Y
+1237,alacsony,어러촌,"낮은, 키가 작은",low,adj,R3,Y
+1238,amiket,어미켓,~인 것들을,which,pron,R3,N
+1239,azonos,어조노시,동일한,identical,adj,R3,N
+1240,bent,벤트,안에,inside,adv,R3,N
+1241,betegség,베테그셰그,병,illness,noun,R3,N
+1242,döntött,되늩트,결정했다,to decide,verb,R3,N
+1243,emellett,에멜렛트,"그 외에도, 그 옆에",besides,adv,R3,N
+1244,felelős,펠레뢰시,책임 있는,responsible,adj,R3,N
+1245,filmet,필멧,영화를,film,noun,R3,Y
+1246,fogva,포그버,"~로부터, 잡아서",holding,adv,R3,N
+1247,google,구글,구글,google,propn,R3,N
+1248,hello,헬로,안녕,hello,interj,R3,N
+1249,hozta,호즈터,가져왔다,to bring,verb,R3,N
+1250,kislány,키시라니,작은 소녀,little girl,noun,R3,Y
+1251,lettem,렛템,되었다(나),to become,verb,R3,N
+1252,mérkőzés,메르쾨제시,경기,match,noun,R3,Y
+1253,nyitva,니트버,열려 있는,open,adj,R3,Y
+1254,rock,록,록(음악),rock,noun,R3,N
+1255,ránk,랑크,"우리에게, 우리 위에",onto us,pron,R3,N
+1256,srác,슈라츠,"녀석, 사내아이",guy,noun,R3,Y
+1257,test,테슈트,몸,body,noun,R3,Y
+1258,valamilyen,버러밀옌,어떤,some kind of,det,R3,N
+1259,várom,바롬,기다린다(그것을),to wait,verb,R3,N
+1260,éreztem,에렉템,느꼈다,to feel,verb,R3,N
+1261,értelme,에르텔메,의미,meaning,noun,R3,N
+1262,alapítvány,어러피트바니,재단,foundation,noun,R3,N
+1263,amelyben,어멜옘벤,그 안에서,in which,pron,R3,N
+1264,bemutató,베무터토,"발표, 시연",presentation,noun,R3,N
+1265,bennem,벤넴,내 안에,in me,pron,R3,N
+1266,bármit,바르밋,무엇이든,anything,pron,R3,N
+1267,enni,엔니,먹다,to eat,verb,R3,Y
+1268,ennyit,엔녯,이만큼,this much,adv,R3,N
+1269,ezúttal,에주터,이번에,this time,adv,R3,N
+1270,fidesz,피데스,피데스(정당),fidesz,propn,R3,N
+1271,forró,포로,뜨거운,hot,adj,R3,Y
+1272,gyertek,제르텍,오세요(너희),to come,verb,R3,N
+1273,hivatalosan,히버털로션,공식적으로,officially,adv,R3,N
+1274,idei,이데이,올해의,this year's,adj,R3,N
+1275,ipari,이퍼리,산업의,industrial,adj,R3,N
+1276,játékok,야테콕,"게임들, 장난감들",games,noun,R3,Y
+1277,keresztény,께레스테니,기독교인,christian,noun,R3,N
+1278,legjobban,레기오번,가장 잘,best,adv,R3,N
+1279,legyél,레제일,~이 되어라,to be,verb,R3,N
+1280,lánya,라녀,그의 딸,daughter,noun,R3,Y
+1281,látod,라토드,너는 본다,to see,verb,R3,N
+1282,mindössze,민되쎄,"단지, 겨우",merely,adv,R3,N
+1283,nyelv,니엘브,"언어, 혀",language,noun,R3,N
+1284,néven,네벤,이름으로,by name,noun,R3,N
+1285,pillanatban,필러넛번,순간에,moment,noun,R3,N
+1286,pápa,파퍼,교황,pope,noun,R3,Y
+1287,párt,파르트,정당,party,noun,R3,N
+1288,rendszeresen,렌드세레셴,규칙적으로,regularly,adv,R3,N
+1289,segíteni,셰기테니,돕다,to help,verb,R3,N
+1290,szeretnénk,쎄레트네엥크,우리는 ~하고 싶다,to want,verb,R3,N
+1291,világban,빌라그번,세상에서,world,noun,R3,N
+1292,válik,발릭,~이 되다,to become,verb,R3,N
+1293,alkalmas,얼껄머시,적합한,suitable,adj,R3,N
+1294,anna,언너,안나(이름),anna,propn,R3,N
+1295,bíró,비로,"판사, 심판",judge,noun,R3,Y
+1296,csinál,치날,"하다, 만들다",to make,verb,R3,N
+1297,egészséges,에게세셰시,건강한,healthy,adj,R3,N
+1298,elől,엘룔,~의 앞에서,from in front,postp,R3,N
+1299,erősen,에뢰셴,강하게,strongly,adv,R3,N
+1300,esetében,에셰테벤,~의 경우에,in case of,postp,R3,N
+1301,estét,에슈테트,저녁을,evening,noun,R3,Y
+1302,férfiak,페르피억,남자들,men,noun,R3,Y
+1303,győr,죄르,죄르(도시),gyor,propn,R3,N
+1304,hasonlóan,허숀로언,비슷하게,similarly,adv,R3,N
+1305,időre,이되레,제시간에,on time,adv,R3,N
+1306,kelet,껠레트,동쪽,east,noun,R3,N
+1307,kivéve,끼베베,~을 제외하고,except,postp,R3,N
+1308,közvetlenül,쾨즈베트레뉠,직접적으로,directly,adv,R3,N
+1309,különös,퀼뢰뫼시,특이한,strange,adj,R3,N
+1310,lehetnek,레헷넥,~일 수 있다(복수),can be,verb,R3,N
+1311,mára,마러,"오늘까지, 오늘날",by today,adv,R3,N
+1312,mária,마리어,마리아(이름),maria,propn,R3,N
+1313,nagyjából,너쥬발,대략,roughly,adv,R3,N
+1314,nehezen,네헤젠,어렵게,with difficulty,adv,R3,N
+1315,népszerű,넵세뤼,인기 있는,popular,adj,R3,N
+1316,rohadt,로허트,"썩은, 망할",rotten,adj,R3,Y
+1317,régóta,레고터,오래전부터,for long,adv,R3,N
+1318,révén,레벤,~를 통해,through,postp,R3,N
+1319,szabadon,써버돈,자유롭게,freely,adv,R3,N
+1320,szomorú,쏘모루,슬픈,sad,adj,R3,Y
+1321,szólt,쏠트,말했다,to say,verb,R3,N
+1322,tagjai,터거이,그의 구성원들,members,noun,R3,N
+1323,utat,우텃,길을,road,noun,R3,Y
+1324,valakit,버러킷,누군가를,someone,pron,R3,N
+1325,érted,에르테드,"너를 위해, 이해한다",to understand,verb,R3,N
+1326,évet,에벳,해를,year,noun,R3,N
+1327,ajándék,어얀데크,선물,gift,noun,R3,Y
+1328,azoknak,어조크넉,그들에게,to those,pron,R3,N
+1329,civil,치빌,"민간인, 시민의",civilian,noun,R3,N
+1330,debreceni,데브레쳉니,데브레첸의,debrecen,adj,R3,N
+1331,ebbe,에베,이 안으로,into this,pron,R3,N
+1332,eddigi,에디기,지금까지의,so far,adj,R3,N
+1333,fogunk,포궁크,우리는 ~할 것이다,will,verb,R3,N
+1334,hasznos,허스노시,유용한,useful,adj,R3,N
+1335,hátsó,하초,뒤의,rear,adj,R3,N
+1336,intézet,인테제트,"연구소, 기관",institute,noun,R3,Y
+1337,izgalmas,이즈걸머시,흥미진진한,exciting,adj,R3,N
+1338,jelentette,옐렌테테,"의미했다, 보고했다",to mean,verb,R3,N
+1339,jellemző,옐레쯔뢰,특징적인,typical,adj,R3,N
+1340,kör,쾨르,원,circle,noun,R3,Y
+1341,község,쾨제그,"마을, 지방자치체",village,noun,R3,Y
+1342,leszel,레쎌,너는 ~될 것이다,to become,verb,R3,N
+1343,magasabb,머거셔브,더 높은,taller,adj,R3,N
+1344,megfelelően,메그펠레뢰엔,적절하게,appropriately,adv,R3,N
+1345,mondd,몬드,말해,to say,verb,R3,N
+1346,muszáj,무사이,~해야만 한다,must,adv,R3,N
+1347,pécsi,페치,페치의,pecs,adj,R3,N
+1348,római,로마이,로마의,roman,adj,R3,N
+1349,sajnálom,셔이날롬,미안합니다,sorry,interj,R3,N
+1350,senkinek,셴끼넥,아무에게도,to nobody,pron,R3,N
+1351,század,싸저드,"세기, 백",century,noun,R3,N
+1352,állat,알러트,동물,animal,noun,R3,Y
+1353,ára,아러,그 가격,price,noun,R3,N
+1354,érzi,에르지,그는 느낀다,to feel,verb,R3,N
+1355,öreg,외레그,늙은,old,adj,R3,Y
+1356,úgyis,우지시,어차피,anyway,adv,R3,N
+1357,akarnak,어커르넉,그들은 원한다,to want,verb,R3,N
+1358,alsó,얼쇼,아래의,lower,adj,R3,N
+1359,bajnok,버이녹,챔피언,champion,noun,R3,Y
+1360,egészségügyi,에게세그위기,보건의,medical,adj,R3,N
+1361,farkas,퍼르커시,늑대,wolf,noun,R3,Y
+1362,figyelem,피계렘,주의,attention,noun,R3,N
+1363,fogják,포자크,그들은 ~할 것이다,will,verb,R3,N
+1364,forrás,포라시,"원천, 샘",source,noun,R3,N
+1365,fény,페니,빛,light,noun,R3,Y
+1366,hotel,호텔,호텔,hotel,noun,R3,Y
+1367,házi,하지,"집의, 가정의",domestic,adj,R3,N
+1368,hírek,히렉,뉴스,news,noun,R3,Y
+1369,idők,이되크,"시간들, 시대",times,noun,R3,N
+1370,játszik,야찍,"놀다, 연주하다",to play,verb,R3,Y
+1371,kapcsolatot,껍촐러톳,관계를,connection,noun,R3,N
+1372,kupa,꾸퍼,컵(대회),cup,noun,R3,Y
+1373,közelében,쾨젤레벤,~의 근처에서,near,postp,R3,N
+1374,közösen,쾨뢰셴,함께,together,adv,R3,N
+1375,lakás,러카시,"아파트, 집",apartment,noun,R3,Y
+1376,lettek,렛텍,되었다(그들),to become,verb,R3,N
+1377,mennek,멘넥,그들은 간다,to go,verb,R3,Y
+1378,mihály,미하이,미하이(이름),mihaly,propn,R3,N
+1379,mióta,미오터,언제부터,since when,conj,R3,N
+1380,múzeum,무제움,박물관,museum,noun,R3,Y
+1381,működő,뮈쾨되,작동하는,working,adj,R3,N
+1382,napra,너프러,"하루에, 날에",day,noun,R3,N
+1383,nos,노시,"자, 그런데",well,interj,R3,N
+1384,olvastam,올버슈텀,읽었다,to read,verb,R3,N
+1385,projekt,프로옉트,프로젝트,project,noun,R3,N
+1386,pénzügyi,펜쥐기,재정의,financial,adj,R3,N
+1387,szerelmes,쎄렐메시,사랑에 빠진,in love,adj,R3,N
+1388,színes,씨네시,색깔 있는,colorful,adj,R3,Y
+1389,élt,엘트,살았다,to live,verb,R3,N
+1390,írni,이르니,쓰다,to write,verb,R3,Y
+1391,írtam,이르텀,썼다,to write,verb,R3,N
+1392,író,이로,작가,writer,noun,R3,Y
+1393,aha,어허,아하,aha,interj,R3,N
+1394,akarta,어커르터,원했다,to want,verb,R3,N
+1395,bíróság,비로샤그,법원,court,noun,R3,Y
+1396,címe,치메,"그의 제목, 주소",title,noun,R3,N
+1397,digitális,디기탈리시,디지털의,digital,adj,R3,N
+1398,egység,에게그,단위,unit,noun,R3,N
+1399,elektromos,엘렉트로모시,전기의,electric,adj,R3,N
+1400,előzetes,엘뢰제테시,"사전의, 예고편",preliminary,adj,R3,N
+1401,enyém,에녜임,내 것,mine,pron,R3,N
+1402,esti,에슈티,저녁의,evening,adj,R3,N
+1403,facebook,페이스북,페이스북,facebook,propn,R3,N
+1404,fele,펠레,그의 절반,half,noun,R3,N
+1405,formában,포르먼번,형태로,form,noun,R3,N
+1406,frank,프렁크,프랭크(이름),frank,propn,R3,N
+1407,gyereket,제레켓,아이를,child,noun,R3,Y
+1408,gólt,골트,골을,goal,noun,R3,N
+1409,hosszabb,호써브,더 긴,longer,adj,R3,N
+1410,ismerem,이쉬메렘,나는 안다,to know,verb,R3,N
+1411,kapcsolat,껍촐러트,"관계, 연결",connection,noun,R3,N
+1412,katona,커토너,군인,soldier,noun,R3,Y
+1413,kezdődött,께즈되드뵈트,시작되었다,to begin,verb,R3,N
+1414,kötött,쾨퇴트,"묶었다, 맺은",to tie,verb,R3,N
+1415,köztük,쾨즈튁,그들 사이에,among them,adv,R3,N
+1416,légy,레지,파리(곤충),fly,noun,R3,Y
+1417,mark,머르크,마크(이름),mark,propn,R3,N
+1418,miniszterelnök,미니스테렐뇌크,총리,prime minister,noun,R3,Y
+1419,miskolc,미슈꼴츠,미슈콜츠(도시),miskolc,propn,R3,N
+1420,nagyszerű,너지세뤼,훌륭한,great,adj,R3,N
+1421,negatív,네거티브,부정적인,negative,adj,R3,N
+1422,negyedik,네계딕,네 번째,fourth,num,R3,N
+1423,nemrég,넴레그,얼마 전,recently,adv,R3,N
+1424,nál,날,"~에게, ~의 집에(접미사)",at,suffix,R3,N
+1425,olyat,오여트,그런 것을,such,pron,R3,N
+1426,reggeli,렉겔리,아침 식사,breakfast,noun,R3,Y
+1427,ritkán,리트칸,드물게,rarely,adv,R3,N
+1428,segítséget,셰기체게트,도움을,help,noun,R3,N
+1429,semmilyen,셈밀옌,어떤 ~도 아닌,no kind of,det,R3,N
+1430,szívem,씨벰,"내 심장, 내 사랑",heart,noun,R3,Y
+1431,sárga,샤르거,노란,yellow,adj,R3,Y
+1432,tanács,터나치,"조언, 위원회",advice,noun,R3,N
+1433,tudjátok,뚜쟈톡,너희는 안다,to know,verb,R3,N
+1434,ugyanaz,우저너즈,똑같은 것,the same,pron,R3,N
+1435,ukrán,우크란,우크라이나의,ukrainian,adj,R3,N
+1436,utcai,우촤이,거리의,street,adj,R3,N
+1437,örök,외뢰크,영원한,eternal,adj,R3,N
+1438,alakult,얼러쿨트,형성되었다,to form,verb,R3,N
+1439,anyám,언얌,내 어머니,mother,noun,R3,Y
+1440,bajnokság,버이녹샤그,"선수권, 리그",championship,noun,R3,N
+1441,biztonságos,비즈톤샤고시,안전한,safe,adj,R3,N
+1442,csoda,초더,기적,miracle,noun,R3,N
+1443,egyaránt,에자란트,똑같이,equally,adv,R3,N
+1444,európában,에우로파번,유럽에서,europe,propn,R3,N
+1445,filmek,필멕,영화들,films,noun,R3,Y
+1446,független,퓌게틀렌,독립된,independent,adj,R3,N
+1447,halott,허로트,죽은,dead,adj,R3,N
+1448,halála,허랄라,그의 죽음,death,noun,R3,N
+1449,heti,헤티,주간의,weekly,adj,R3,N
+1450,holland,홀런드,네덜란드의,dutch,adj,R3,N
+1451,hónapja,호너퍼,그의 달(월),month,noun,R3,N
+1452,iránt,이란트,~에 대해,toward,postp,R3,N
+1453,kiderül,끼데륄,밝혀지다,to turn out,verb,R3,N
+1454,képesek,께페셰크,~할 수 있는,capable,adj,R3,N
+1455,késő,께쇠,늦은,late,adj,R3,N
+1456,közvetlen,쾨즈베트렌,직접적인,direct,adj,R3,N
+1457,megyünk,메쥥크,우리는 간다,to go,verb,R3,Y
+1458,mármint,마르민트,"즉, 말하자면",that is,adv,R3,N
+1459,méter,메테르,미터,meter,noun,R3,N
+1460,napján,너피안,~의 날에,on day,noun,R3,N
+1461,nehogy,네호지,~하지 않도록,lest,conj,R3,N
+1462,nyerte,녜르테,이겼다,to win,verb,R3,N
+1463,nép,넵,"민족, 국민",people,noun,R3,N
+1464,olcsó,올초,싼,cheap,adj,R3,N
+1465,profi,프로피,"전문가, 프로",professional,noun,R3,N
+1466,szerencsére,쎄렌체레,다행히,luckily,adv,R3,N
+1467,szeretek,쎄레텍,나는 좋아한다,to like,verb,R3,N
+1468,szezon,쎄존,시즌,season,noun,R3,N
+1469,számok,싸목,숫자들,numbers,noun,R3,N
+1470,szél,쎌,바람,wind,noun,R3,Y
+1471,templom,템플롬,"교회, 사원",church,noun,R3,Y
+1472,titkos,티트꼬시,비밀의,secret,adj,R3,N
+1473,társadalom,타르셔더롬,사회,society,noun,R3,N
+1474,vállalat,발럴럿,회사,company,noun,R3,N
+1475,végére,베게레,끝에,end,noun,R3,N
+1476,véletlen,벨레틀렌,우연,chance,noun,R3,N
+1477,zárt,자르트,닫힌,closed,adj,R3,N
+1478,állapotban,알러폿번,상태에서,state,noun,R3,N
+1479,önnek,왼넥,당신에게(공손),to you,pron,R3,N
+1480,önálló,왼알로,독립적인,independent,adj,R3,N
+1481,akiknek,어끼크넥,~한 사람들에게,to whom,pron,R3,N
+1482,amiről,어미룔,그것에 관해,about which,pron,R3,N
+1483,avagy,어버지,혹은,or,conj,R3,N
+1484,ből,뵐,~에서(안에서 밖으로),from inside,suffix,R3,N
+1485,csapata,추퍼터,그의 팀,team,noun,R3,Y
+1486,cél,쳴,목표,goal,noun,R3,N
+1487,elhunyt,엘훈트,사망한,deceased,adj,R3,N
+1488,férje,페르예,그녀의 남편,husband,noun,R3,Y
+1489,hang,헝,소리,sound,noun,R3,N
+1490,hátha,하터허,혹시나,perhaps,adv,R3,N
+1491,időm,이됨,내 시간,time,noun,R3,N
+1492,ifjúsági,이퓨샤기,청소년의,youth,adj,R3,N
+1493,irodalom,이로덜롬,문학,literature,noun,R3,N
+1494,iskolai,이슈꼴러이,학교의,school,adj,R3,N
+1495,kapta,껍터,받았다,to receive,verb,R3,N
+1496,korán,꼬란,일찍,early,adv,R3,N
+1497,lehetetlen,레헤트렌,불가능한,impossible,adj,R3,N
+1498,mekkora,멕꼬러,얼마나 큰,how big,det,R3,N
+1499,mentem,멘템,갔다,to go,verb,R3,N
+1500,naponta,너폰터,매일,daily,adv,R3,N
