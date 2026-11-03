@@ -1,2501 +1,2501 @@
 rank,word,reading,ko,en,pos,level,picturable
-1,이,i,이,subject marker / 'this',interjection,R1,N
-2,는,neun,는,topic marker,grammar,R1,N
-3,을,eul,을,object marker,noun,R1,N
-4,하,ha,하,do (verb stem),interjection,R1,N
-5,에,e,에,to / at / in,interjection,R1,N
-6,다,da,다,declarative ending / all,adverb,R1,N
-7,의,ui,의,'s / of,noun,R1,N
-8,고,go,고,and (then),interjection,R1,N
-9,은,eun,은,topic marker (after consonant),noun,R1,N
-10,가,ga,가,subject marker (after vowel),noun,R1,N
-11,를,reul,를,object marker (after vowel),grammar,R1,N
-12,있,it,있,exist / have / there is,adjective,R1,N
-13,들,deul,들,plural marker,adverb,R1,N
-14,한,han,한,one / a (counter prefix),determiner,R1,N
-15,도,do,도,also / too,noun,R1,N
-16,어,eo,어,casual ending (dark vowel),interjection,R1,N
-17,게,ge,게,-ly (adverb-forming),grammar,R1,N
-18,에서,eseo,에서,from / at (action site),grammar,R1,N
-19,으로,euro,으로,with / by / toward,grammar,R1,N
-20,일,il,일,day / work / one,noun,R1,N
-21,나,na,나,I (casual),pronoun,R1,N
-22,로,ro,로,with / by (vowel ending),noun,R1,N
-23,지,ji,지,right? / soft confirm,pronoun,R1,N
-24,했,haet,했,did (past of 하다),grammar,R1,N
-25,었,eot,었,past marker (dark),grammar,R1,N
-26,해,hae,해,do (casual),grammar,R1,N
-27,아,a,아,casual ending (bright vowel),interjection,R1,N
-28,과,gwa,과,and / with,noun,R1,N
-29,되,doe,되,become / be done,noun,R1,N
-30,기,gi,기,nominalizer (-ing),noun,R1,N
-31,것,geot,것,thing / one,noun,R1,N
-32,그,geu,그,that / he/she,interjection,R1,N
-33,1,1,1,,number,R1,N
-34,수,su,수,way / can (modal),noun,R1,N
-35,면,myeon,면,if / when,grammar,R1,N
-36,와,wa,와,and / with (vowel),interjection,R1,N
-37,적,jeok,적,-ic / -al (suffix),noun,R1,N
-38,할,hal,할,will do (future modifier),grammar,R1,N
-39,인,in,인,being / -person,grammar,R1,N
-40,만,man,만,only,noun,R1,N
-41,안,an,안,not (short negation),adverb,R1,N
-42,2,2,2,,number,R1,N
-43,거,geo,거,thing (casual),interjection,R1,N
-44,보,bo,보,see / look,noun,R1,N
-45,요,yo,요,polite particle (sentence end),determiner,R1,N
-46,습니다,seumnida,습니다,formal declarative ending,grammar,R1,N
-47,없,eop,없,not exist / not have,adjective,R1,N
-48,주,ju,주,give / for the benefit of,noun,R1,N
-49,3,3,3,,number,R1,N
-50,월,wol,월,month / moon,noun,R1,N
-51,말,mal,말,speech / word / horse,noun,R1,N
-52,좋,jot,좋,good (adjective stem),adjective,R1,N
-53,내,nae,내,my / I (casual),grammar,R1,N
-54,니,ni,니,,grammar,R1,N
-55,않,an,않,not (long negation stem),verb,R1,N
-56,시,si,시,honorific marker / hour,noun,R1,N
-57,년,nyeon,년,year,noun,R1,N
-58,같,gat,같,same / like,adjective,R1,N
-59,제,je,제,my (humble) / -th,grammar,R1,N
-60,입,ip,입,mouth / enter / be (copula),noun,R1,N
-61,더,deo,더,more,adverb,R1,N
-62,사람,saram,사람,person,noun,R1,Y
-63,자,ja,자,person (suffix) / let's,interjection,R1,N
-64,지만,jiman,지만,but / although,grammar,R1,N
-65,겠,get,겠,,grammar,R1,N
-66,는데,neunde,는데,but / setup-and-then,grammar,R1,N
-67,야,ya,야,casual sentence end / vocative,interjection,R1,N
-68,여,yeo,여,female / open / and,noun,R1,N
-69,4,4,4,,number,R1,N
-70,아니,ani,아니,not / no,interjection,R1,N
-71,5,5,5,,number,R1,N
-72,우리,uri,우리,we / our / my (group),pronoun,R1,N
-73,던,deon,던,used to / past attributive,grammar,R1,N
-74,에게,ege,에게,to (a person),grammar,R1,N
-75,된,doen,된,became / done,grammar,R1,N
-76,때,ttae,때,time / when,noun,R1,N
-77,라고,rago,라고,(quoted) said that,grammar,R1,N
-78,며,myeo,며,,grammar,R1,N
-79,전,jeon,전,before / front,grammar,R1,N
-80,네,ne,네,yes / your / wow,interjection,R1,N
-81,라,ra,라,,grammar,R1,N
-82,한다,handa,한다,does (plain declarative),grammar,R1,N
-83,저,jeo,저,I (humble) / that over there,interjection,R1,N
-84,님,nim,님,honorific suffix (Mr/Madam),noun,R1,N
-85,알,al,알,know,noun,R1,N
-86,았,at,았,past marker (bright),grammar,R1,N
-87,잘,jal,잘,well,adverb,R1,N
-88,합니다,hamnida,합니다,do (formal),grammar,R1,N
-89,등,deung,등,etc. / rank / back,noun,R1,N
-90,8,8,8,,number,R1,N
-91,까지,kkaji,까지,until / up to,grammar,R1,N
-92,받,bat,받,receive,other,R1,N
-93,오,o,오,come / five,interjection,R1,N
-94,중,jung,중,middle / among,noun,R1,N
-95,7,7,7,,number,R1,N
-96,서,seo,서,stand / from (contraction),verb,R1,N
-97,못,mot,못,cannot (negation),adverb,R1,N
-98,6,6,6,,number,R1,N
-99,생각,saenggak,생각,thought / think,noun,R1,Y
-100,번,beon,번,time(s) / number,noun,R1,N
-101,세요,seyo,세요,,grammar,R1,N
-102,싶,sip,싶,,grammar,R1,N
-103,다고,dago,다고,,grammar,R1,N
-104,개,gae,개,dog,noun,R1,N
-105,9,9,9,,number,R1,N
-106,대,dae,대,,grammar,R1,N
-107,두,du,두,two,determiner,R1,N
-108,였,yeot,였,,grammar,R1,N
-109,시간,sigan,시간,time,noun,R1,N
-110,면서,myeonseo,면서,,grammar,R1,N
-111,부터,buteo,부터,,grammar,R1,N
-112,성,seong,성,castle,noun,R1,N
-113,분,bun,분,minute; person (hon.),noun,R1,N
-114,라는,raneun,라는,,grammar,R1,N
-115,명,myeong,명,person (counter),noun,R1,N
-116,the,the,the,,foreign,R1,N
-117,많,man,많,many,adjective,R1,N
-118,원,won,원,won (currency),noun,R1,N
-119,살,sal,살,to live,noun,R1,N
-120,다른,dareun,다른,"other, different",determiner,R1,N
-121,지금,jigeum,지금,now,adverb,R1,N
-122,때문,ttaemun,때문,because of,noun,R1,N
-123,어서,eoseo,어서,,grammar,R1,N
-124,왜,wae,왜,why,adverb,R1,N
-125,다는,daneun,다는,,grammar,R1,N
-126,여자,yeoja,여자,woman,noun,R1,Y
-127,으면,eumyeon,으면,,grammar,R1,N
-128,뭐,mwo,뭐,what,interjection,R1,N
-129,위,wi,위,up,noun,R1,N
-130,화,hwa,화,anger; fire,noun,R1,N
-131,좀,jom,좀,a little,adverb,R1,N
-132,해서,haeseo,해서,,grammar,R1,N
-133,건,geon,건,,grammar,R1,N
-134,죠,jyo,죠,,grammar,R1,N
-135,하나,hana,하나,one,numeral,R1,N
-136,한국,hanguk,한국,Korea,noun,R1,N
-137,후,hu,후,after,noun,R1,N
-138,같이,gachi,같이,together,adverb,R1,N
-139,날,nal,날,sun,noun,R1,N
-140,시작,sijak,시작,to start,noun,R1,Y
-141,신,sin,신,to put on (shoes),noun,R1,N
-142,먹,meok,먹,to eat,noun,R1,N
-143,사랑,sarang,사랑,love,noun,R1,N
-144,그리고,geurigo,그리고,and,adverb,R1,N
-145,니까,nikka,니까,,grammar,R1,N
-146,만들,mandeul,만들,to make,grammar,R1,N
-147,맞,mat,맞,to fit,verb,R1,N
-148,a,a,a,,foreign,R1,N
-149,게임,geim,게임,game,noun,R1,Y
-150,군,gun,군,,grammar,R1,N
-151,및,mit,및,,grammar,R1,N
-152,사용,sayong,사용,to use,noun,R1,Y
-153,차,cha,차,tea,noun,R1,N
-154,너,neo,너,you,pronoun,R1,N
-155,될,doel,될,,grammar,R1,N
-156,위해,wihae,위해,,grammar,R1,N
-157,줄,jul,줄,to decrease,noun,R1,N
-158,집,jip,집,house,noun,R1,N
-159,함께,hamkke,함께,together,adverb,R1,N
-160,해야,haeya,해야,,grammar,R1,N
-161,가지,gaji,가지,,grammar,R1,N
-162,남자,namja,남자,man,noun,R1,Y
-163,또,tto,또,again,adverb,R1,N
-164,보다,boda,보다,,grammar,R1,N
-165,t,t,t,,foreign,R1,N
-166,너무,neomu,너무,"too, very",adverb,R1,N
-167,대한,daehan,대한,,grammar,R1,N
-168,랑,rang,랑,with (particle),noun,R1,N
-169,사,sa,사,to buy,numeral,R1,N
-170,오늘,oneul,오늘,today,adverb,R1,N
-171,이런,ireon,이런,this kind of,determiner,R1,N
-172,이상,isang,이상,odd,noun,R1,Y
-173,함,ham,함,,grammar,R1,N
-174,m,m,m,,foreign,R1,N
-175,걸,geol,걸,,grammar,R1,N
-176,길,gil,길,long,noun,R1,N
-177,다시,dasi,다시,again,adverb,R1,N
-178,데,de,데,,grammar,R1,N
-179,모든,modeun,모든,"every, all",determiner,R1,N
-180,찾,chat,찾,to search,verb,R1,N
-181,그렇,geureot,그렇,be so,other,R1,N
-182,애,ae,애,kid,noun,R1,N
-183,필요,piryo,필요,necessary,noun,R1,N
-184,된다,doenda,된다,,grammar,R1,N
-185,문제,munje,문제,problem,noun,R1,N
-186,서울,seoul,서울,Seoul,noun,R1,N
-187,해요,haeyo,해요,,grammar,R1,N
-188,0,0,0,,number,R1,N
-189,곳,got,곳,place,noun,R1,N
-190,네요,neyo,네요,,grammar,R1,N
-191,씨,ssi,씨,Mr./Ms.,interjection,R1,N
-192,정말,jeongmal,정말,truth,adverb,R1,N
-193,죽,juk,죽,to die,noun,R1,N
-194,of,of,of,,foreign,R1,N
-195,세,se,세,three; age,determiner,R1,N
-196,아이,ai,아이,child,interjection,R1,N
-197,자신,jasin,자신,oneself; confidence,noun,R1,Y
-198,형,hyeong,형,big brother,noun,R1,N
-199,난,nan,난,,grammar,R1,N
-200,됐,dwaet,됐,,grammar,R1,N
-201,달,dal,달,sweet,noun,R1,N
-202,세계,segye,세계,world,noun,R1,Y
-203,으며,eumyeo,으며,,grammar,R1,N
-204,이름,ireum,이름,name,noun,R1,N
-205,친구,chingu,친구,friend,noun,R1,Y
-206,가장,gajang,가장,the most,adverb,R2,N
-207,권,gwon,권,volume (counter),noun,R2,N
-208,끝,kkeut,끝,the end,noun,R2,N
-209,남,nam,남,to remain,noun,R2,N
-210,다음,daeum,다음,next,noun,R2,Y
-211,비,bi,비,to become empty,noun,R2,N
-212,속,sok,속,to deceive,noun,R2,N
-213,지역,jiyeok,지역,region,noun,R2,Y
-214,처럼,cheoreom,처럼,,grammar,R2,N
-215,모두,modu,모두,everyone,adverb,R2,N
-216,사실,sasil,사실,fact; actually,adverb,R2,N
-217,아요,ayo,아요,,grammar,R2,N
-218,많이,mani,많이,a lot,adverb,R2,N
-219,바로,baro,바로,right away; exactly,adverb,R2,N
-220,음,eum,음,,grammar,R2,N
-221,한테,hante,한테,,grammar,R2,N
-222,모르,moreu,모르,not know,verb,R2,N
-223,볼,bol,볼,(will) see,noun,R2,N
-224,잡,jap,잡,to catch,noun,R2,N
-225,학교,hakgyo,학교,school,noun,R2,Y
-226,가능,ganeung,가능,possible,noun,R2,N
-227,그런,geureon,그런,that kind of,determiner,R2,N
-228,앞,ap,앞,before,noun,R2,N
-229,간,gan,간,between; liver,noun,R2,N
-230,그냥,geunyang,그냥,just,adverb,R2,N
-231,미국,miguk,미국,America,noun,R2,Y
-232,상,sang,상,prize,noun,R2,N
-233,엔,en,엔,,grammar,R2,N
-234,이제,ije,이제,now,adverb,R2,N
-235,물,mul,물,water,noun,R2,N
-236,진짜,jinjja,진짜,the real thing,adverb,R2,N
-237,호,ho,호,number (counter),interjection,R2,N
-238,회,hoe,회,"time, round",noun,R2,N
-239,경우,gyeongu,경우,case,noun,R2,N
-240,동안,dongan,동안,during,noun,R2,N
-241,으,eu,으,,grammar,R2,N
-242,이렇,ireot,이렇,be like this,other,R2,N
-243,일본,ilbon,일본,Japan,noun,R2,Y
-244,첫,cheot,첫,first,determiner,R2,N
-245,그러,geureo,그러,,grammar,R2,N
-246,는지,neunji,는지,,grammar,R2,N
-247,마음,maeum,마음,heart,noun,R2,N
-248,본,bon,본,,grammar,R2,N
-249,손,son,손,hand,noun,R2,N
-250,쓰,sseu,쓰,to use,interjection,R2,N
-251,예,ye,예,yes; example,interjection,R2,N
-252,정도,jeongdo,정도,"degree, about",noun,R2,N
-253,조,jo,조,trillion; group,noun,R2,N
-254,타,ta,타,to ride,grammar,R2,N
-255,당,dang,당,party; per,noun,R2,N
-256,장,jang,장,sheet (counter); chief,noun,R2,N
-257,진,jin,진,"thick, strong",noun,R2,N
-258,치,chi,치,to hit,grammar,R2,N
-259,c,c,c,,foreign,R2,N
-260,냐,nya,냐,,grammar,R2,N
-261,대표,daepyo,대표,representative,noun,R2,Y
-262,도록,dorok,도록,,grammar,R2,N
-263,보이,boi,보이,to be visible,noun,R2,Y
-264,영화,yeonghwa,영화,movie,noun,R2,Y
-265,자기,jagi,자기,oneself,pronoun,R2,N
-266,대해,daehae,대해,,grammar,R2,N
-267,뒤,dwi,뒤,back side,noun,R2,N
-268,라도,rado,라도,,grammar,R2,N
-269,마,ma,마,,grammar,R2,N
-270,뿐,ppun,뿐,,grammar,R2,N
-271,사이트,saiteu,사이트,website,noun,R2,Y
-272,세상,sesang,세상,world,noun,R2,Y
-273,크,keu,크,big,interjection,R2,N
-274,큰,keun,큰,,grammar,R2,N
-275,놓,not,놓,"put, place",verb,R2,N
-276,봤,bwat,봤,,grammar,R2,N
-277,부,bu,부,part; department,noun,R2,N
-278,셨,syeot,셨,,grammar,R2,N
-279,여기,yeogi,여기,here,pronoun,R2,N
-280,당신,dangsin,당신,you (formal),pronoun,R2,N
-281,돈,don,돈,money,noun,R2,N
-282,실,sil,실,thread,noun,R2,N
-283,어떤,eotteon,어떤,what kind of,determiner,R2,N
-284,눈,nun,눈,eye(s),noun,R2,N
-285,다가,daga,다가,,grammar,R2,N
-286,다면,damyeon,다면,if,noun,R2,N
-287,따라,ttara,따라,,grammar,R2,N
-288,어떻,eotteot,어떻,how,other,R2,N
-289,왔,wat,왔,came,noun,R2,N
-290,째,jjae,째,,grammar,R2,N
-291,처음,cheoeum,처음,beginning,noun,R2,Y
-292,팀,tim,팀,team,noun,R2,N
-293,s,s,s,,foreign,R2,N
-294,또한,ttohan,또한,also,adverb,R2,N
-295,봐,bwa,봐,,grammar,R2,N
-296,아서,aseo,아서,,grammar,R2,N
-297,이번,ibeon,이번,this time,noun,R2,N
-298,이야기,iyagi,이야기,talk (chat),noun,R2,Y
-299,이유,iyu,이유,reason,noun,R2,N
-300,밖,bak,밖,outside,noun,R2,N
-301,열,yeol,열,to open,numeral,R2,N
-302,인데,inde,인데,,grammar,R2,N
-303,키,ki,키,(one's) height,noun,R2,N
-304,감사,gamsa,감사,gratitude,noun,R2,Y
-305,또는,ttoneun,또는,,grammar,R2,N
-306,밤,bam,밤,night,noun,R2,N
-307,불,bul,불,fire,noun,R2,N
-308,사진,sajin,사진,photo,noun,R2,Y
-309,선,seon,선,line,noun,R2,N
-310,소리,sori,소리,sound,noun,R2,Y
-311,스,seu,스,,grammar,R2,N
-312,안전,anjeon,안전,safety,noun,R2,Y
-313,여성,yeoseong,여성,woman,noun,R2,Y
-314,온,on,온,,grammar,R2,N
-315,현재,hyeonjae,현재,present,adverb,R2,N
-316,거나,geona,거나,,grammar,R2,N
-317,계속,gyesok,계속,to continue,adverb,R2,N
-318,미,mi,미,beauty; US,noun,R2,N
-319,방송,bangsong,방송,broadcast,noun,R2,Y
-320,아직,ajik,아직,"yet, still",adverb,R2,N
-321,이거,igeo,이거,this thing,pronoun,R2,N
-322,점,jeom,점,point; dot,noun,R2,N
-323,구,gu,구,to rescue,noun,R2,N
-324,는다,neunda,는다,,grammar,R2,N
-325,러,reo,러,,grammar,R2,N
-326,별,byeol,별,star,determiner,R2,N
-327,용,yong,용,use; dragon,noun,R2,N
-328,참여,chamyeo,참여,participation,noun,R2,Y
-329,활동,hwaldong,활동,activity,noun,R2,Y
-330,나라,nara,나라,country,noun,R2,Y
-331,단,dan,단,only; group,adverb,R2,N
-332,몇,myeot,몇,how many,determiner,R2,N
-333,방법,bangbeop,방법,method,noun,R2,N
-334,사회,sahoe,사회,society,noun,R2,N
-335,소,so,소,cow; small,noun,R3,N
-336,란,ran,란,,grammar,R3,N
-337,어디,eodi,어디,where,pronoun,R3,N
-338,위한,wihan,위한,,grammar,R3,N
-339,정보,jeongbo,정보,information,noun,R3,N
-340,중요,jungyo,중요,important,noun,R3,N
-341,and,and,and,,foreign,R3,N
-342,그래서,geuraeseo,그래서,"so, therefore",adverb,R3,N
-343,만나,manna,만나,to encounter,grammar,R3,N
-344,보내,bonae,보내,to send,grammar,R3,N
-345,이후,ihu,이후,afterwards,noun,R3,Y
-346,정부,jeongbu,정부,government,noun,R3,N
-347,진행,jinhaeng,진행,to advance (something),noun,R3,Y
-348,최고,choego,최고,the best,noun,R3,N
-349,통해,tonghae,통해,,grammar,R3,N
-350,긴,gin,긴,,grammar,R3,N
-351,법,beop,법,law,noun,R3,N
-352,싫,sil,싫,dislike,adjective,R3,N
-353,작,jak,작,small,noun,R3,N
-354,준비,junbi,준비,preparation,noun,R3,Y
-355,중국,jungguk,중국,China,noun,R3,N
-356,총,chong,총,gun,noun,R3,N
-357,b,b,b,,foreign,R3,N
-358,그것,geugeot,그것,that thing,pronoun,R3,N
-359,근데,geunde,근데,but,adverb,R3,N
-360,돼,dwae,돼,,grammar,R3,N
-361,드,deu,드,,grammar,R3,N
-362,든,deun,든,,grammar,R3,N
-363,새,sae,새,bird,noun,R3,N
-364,어야,eoya,어야,,grammar,R3,N
-365,이러,ireo,이러,,grammar,R3,N
-366,재,jae,재,,grammar,R3,N
-367,천,cheon,천,thousand; cloth,numeral,R3,N
-368,확인,hwagin,확인,confirmation,noun,R3,Y
-369,까,kka,까,,grammar,R3,N
-370,방,bang,방,a room,noun,R3,N
-371,시키,siki,시키,make (someone) do,verb,R3,N
-372,인간,ingan,인간,human being,noun,R3,Y
-373,제작,jejak,제작,production,noun,R3,Y
-374,테,te,테,,grammar,R3,N
-375,해도,haedo,해도,,grammar,R3,N
-376,가족,gajok,가족,family,noun,R3,Y
-377,계,gye,계,,grammar,R3,N
-378,계획,gyehoek,계획,plan,noun,R3,N
-379,교육,gyoyuk,교육,education,noun,R3,N
-380,국가,gukga,국가,nation,noun,R3,N
-381,대통령,daetongnyeong,대통령,president,noun,R3,Y
-382,리,ri,리,,grammar,R3,N
-383,문,mun,문,gate,noun,R3,N
-384,문화,munhwa,문화,culture,noun,R3,N
-385,배,bae,배,belly,noun,R3,N
-386,약,yak,약,medicine,noun,R3,N
-387,연구,yeongu,연구,research,noun,R3,N
-388,인지,inji,인지,whether,noun,R3,N
-389,트,teu,트,,grammar,R3,N
-390,d,d,d,,foreign,R3,N
-391,결과,gyeolgwa,결과,result,noun,R3,N
-392,다니,dani,다니,"attend, go to",noun,R3,Y
-393,도시,dosi,도시,city,noun,R3,Y
-394,려고,ryeogo,려고,,grammar,R3,N
-395,바,ba,바,sea,noun,R3,N
-396,사건,sageon,사건,event,noun,R3,Y
-397,상태,sangtae,상태,condition (health),noun,R3,N
-398,조금,jogeum,조금,a little,adverb,R3,N
-399,참,cham,참,truly; really,adverb,R3,N
-400,결정,gyeoljeong,결정,decision,noun,R3,N
-401,경기,gyeonggi,경기,"game, match",noun,R3,Y
-402,관련,gwallyeon,관련,relation,noun,R3,N
-403,그러나,geureona,그러나,however,adverb,R3,N
-404,둘,dul,둘,two (people/things),numeral,R3,N
-405,모습,moseup,모습,figure,noun,R3,Y
-406,없이,eopsi,없이,without,adverb,R3,N
-407,초,cho,초,second (time),noun,R3,N
-408,피,pi,피,blood,noun,R3,N
-409,관계,gwangye,관계,relationship,noun,R3,Y
-410,듣,deut,듣,to hear,other,R3,N
-411,라면,ramyeon,라면,ramyeon; if,noun,R3,N
-412,막,mak,막,just now; roughly,adverb,R3,N
-413,무슨,museun,무슨,what (kind of),determiner,R3,N
-414,반,ban,반,half,noun,R3,N
-415,보여,boyeo,보여,,grammar,R3,N
-416,사이,sai,사이,relationship,noun,R3,Y
-417,생,saeng,생,life; raw,noun,R3,N
-418,아들,adeul,아들,son,noun,R3,Y
-419,얻,eot,얻,obtain,pronoun,R3,N
-420,이용,iyong,이용,use,noun,R3,Y
-421,힘,him,힘,strength,noun,R3,N
-422,나오,nao,나오,to come out,grammar,R3,N
-423,노래,norae,노래,song,noun,R3,Y
-424,누구,nugu,누구,who,pronoun,R3,N
-425,몸,mom,몸,body,noun,R3,N
-426,상황,sanghwang,상황,situation,noun,R3,N
-427,십,sip,십,ten,numeral,R3,N
-428,포함,poham,포함,inclusion,noun,R3,Y
-429,프로그램,peurogeuraem,프로그램,program,noun,R3,Y
-430,in,in,in,,foreign,R3,N
-431,글,geul,글,"writing, text",noun,R3,N
-432,기술,gisul,기술,technology,noun,R3,Y
-433,뜻,tteut,뜻,meaning,noun,R3,N
-434,마지막,majimak,마지막,last,noun,R3,N
-435,머리,meori,머리,head,noun,R3,Y
-436,이것,igeot,이것,this,pronoun,R3,N
-437,읽,ik,읽,to read,verb,R3,N
-438,갖,gat,갖,have,verb,R3,N
-439,공개,gonggae,공개,public release,noun,R3,N
-440,기록,girok,기록,record,noun,R3,Y
-441,부분,bubun,부분,part,noun,R3,N
-442,안녕,annyeong,안녕,hello; peace,interjection,R3,N
-443,위치,wichi,위치,location,noun,R3,Y
-444,의미,uimi,의미,meaning,noun,R3,N
-445,이미,imi,이미,already,adverb,R3,N
-446,전화,jeonhwa,전화,a telephone,noun,R3,Y
-447,지원,jiwon,지원,support,noun,R3,N
-448,질,jil,질,quality,noun,R3,N
-449,께,kke,께,,grammar,R3,N
-450,대학,daehak,대학,university,noun,R3,Y
-451,물론,mullon,물론,of course,adverb,R3,N
-452,여러,yeoreo,여러,several,determiner,R3,N
-453,e,e,e,,foreign,R3,N
-454,i,i,i,,foreign,R3,N
-455,개발,gaebal,개발,development,noun,R3,N
-456,괜찮,gwaenchan,괜찮,It's ok (all right),adjective,R3,N
-457,그녀,geunyeo,그녀,girlfriend,pronoun,R3,N
-458,드리,deuri,드리,give (humble),verb,R3,N
-459,러시아,reosia,러시아,Russia,noun,R3,N
-460,발견,balgyeon,발견,discovery,noun,R3,Y
-461,새로운,saeroun,새로운,,grammar,R3,N
-462,은데,eunde,은데,,grammar,R3,N
-463,하루,haru,하루,one day,noun,R3,Y
-464,그럼,geureom,그럼,,grammar,R3,N
-465,아무,amu,아무,any,determiner,R3,N
-466,언제,eonje,언제,when,adverb,R3,N
-467,올,ol,올,(will) come,noun,R3,N
-468,인가,inga,인가,,grammar,R3,N
-469,자리,jari,자리,seat,noun,R3,Y
-470,h,h,h,,foreign,R3,N
-471,기억,gieok,기억,memory,noun,R3,N
-472,넣,neot,넣,to put in,verb,R3,N
-473,높,nop,높,high,adjective,R3,N
-474,듯,deut,듯,,grammar,R3,N
-475,무,mu,무,,grammar,R3,N
-476,발표,balpyo,발표,presentation,noun,R3,Y
-477,얘기,yaegi,얘기,"talk, story",noun,R3,N
-478,엄마,eomma,엄마,(my) mother,noun,R3,Y
-479,여러분,yeoreobun,여러분,everyone (polite),pronoun,R3,N
-480,역사,yeoksa,역사,history,noun,R3,N
-481,운동,undong,운동,"exercise, movement",noun,R3,Y
-482,이랑,irang,이랑,,grammar,R3,N
-483,이해,ihae,이해,understanding,noun,R3,Y
-484,출장,chuljang,출장,business trip,noun,R3,N
-485,한다고,handago,한다고,,grammar,R3,N
-486,가격,gagyeok,가격,price,noun,R3,Y
-487,갈,gal,갈,(will) go,noun,R3,N
-488,꼭,kkok,꼭,surely,adverb,R3,N
-489,만큼,mankeum,만큼,as much as,noun,R3,N
-490,시대,sidae,시대,era,noun,R3,Y
-491,아버지,abeoji,아버지,father (formal),noun,R3,Y
-492,양,yang,양,amount,noun,R3,N
-493,to,to,to,,foreign,R3,N
-494,x,x,x,,foreign,R3,N
-495,김,gim,김,Kim; seaweed; steam,noun,R3,N
-496,넘,neom,넘,to exceed,adverb,R3,N
-497,믿,mit,믿,to believe,other,R3,N
-498,삼,sam,삼,three,numeral,R3,N
-499,아닌,anin,아닌,,grammar,R3,N
-500,역시,yeoksi,역시,as expected,adverb,R3,N
-501,편,pyeon,편,side; episode,noun,R3,N
-502,행복,haengbok,행복,happiness,noun,R3,Y
-503,회사,hoesa,회사,company,noun,R3,N
-504,국민,gungmin,국민,citizens,noun,R3,Y
-505,기준,gijun,기준,standard,noun,R3,N
-506,꿈,kkum,꿈,a dream,noun,R3,N
-507,마다,mada,마다,,grammar,R3,N
-508,부산,busan,부산,Busan,noun,R3,N
-509,인터넷,inteonet,인터넷,internet,noun,R3,Y
-510,책,chaek,책,book,noun,R3,N
-511,항상,hangsang,항상,always,adverb,R3,N
-512,각,gak,각,each,determiner,R3,N
-513,거리,geori,거리,street,noun,R3,Y
-514,거의,geoui,거의,almost,adverb,R3,N
-515,경제,gyeongje,경제,economy,noun,R3,N
-516,기분,gibun,기분,feeling,noun,R3,N
-517,대상,daesang,대상,"target, object",noun,R3,Y
-518,먼저,meonjeo,먼저,first,adverb,R3,N
-519,배우,baeu,배우,to learn,noun,R3,Y
-520,아침,achim,아침,morning,noun,R3,Y
-521,얼굴,eolgul,얼굴,face (body part),noun,R3,N
-522,운영,unyeong,운영,operation,noun,R3,N
-523,존재,jonjae,존재,existence,noun,R3,N
-524,코,ko,코,nose,noun,R3,N
-525,판매,panmae,판매,sale,noun,R3,Y
-526,내용,naeyong,내용,content,noun,R3,N
-527,됩니다,doemnida,됩니다,,grammar,R3,N
-528,병원,byeongwon,병원,hospital,noun,R3,Y
-529,아주,aju,아주,very,adverb,R3,N
-530,조사,josa,조사,investigation,noun,R3,Y
-531,존,jon,존,,grammar,R3,N
-532,추천,chucheon,추천,recommendation,noun,R3,Y
-533,tv,tv,tv,,foreign,R3,N
-534,교수,gyosu,교수,professor,noun,R3,Y
-535,구성,guseong,구성,composition,noun,R3,Y
-536,기업,gieop,기업,company,noun,R3,N
-537,답,dap,답,answer,noun,R3,N
-538,들어가,deureoga,들어가,to enter,grammar,R3,N
-539,일반,ilban,일반,general,noun,R3,N
-540,자유,jayu,자유,freedom,noun,R3,N
-541,쪽,jjok,쪽,"side, page",adverb,R3,N
-542,팔,pal,팔,to sell,noun,R3,N
-543,혼자,honja,혼자,alone,adverb,R3,N
-544,갔,gat,갔,went,noun,R3,N
-545,과정,gwajeong,과정,process,noun,R3,N
-546,누가,nuga,누가,,grammar,R3,N
-547,대로,daero,대로,"as, according to",noun,R3,N
-548,대부분,daebubun,대부분,most,other,R3,N
-549,맡,mat,맡,to keep in custody,verb,R3,N
-550,매우,maeu,매우,very,adverb,R3,N
-551,백,baek,백,hundred; bag,numeral,R3,N
-552,사업,saeop,사업,business,noun,R3,N
-553,삶,sam,삶,"to boil, simmer",grammar,R3,N
-554,서로,seoro,서로,each other,adverb,R3,N
-555,선택,seontaek,선택,choice,noun,R3,N
-556,위해서,wihaeseo,위해서,,grammar,R3,N
-557,작품,jakpum,작품,work (art),noun,R3,N
-558,정치,jeongchi,정치,politics,noun,R3,N
-559,준,jun,준,(gave),noun,R3,N
-560,직접,jikjeop,직접,directly,adverb,R3,N
-561,학생,haksaeng,학생,student,noun,R3,Y
-562,k,k,k,,foreign,R3,N
-563,개인,gaein,개인,individual,noun,R3,N
-564,결국,gyeolguk,결국,eventually,adverb,R3,N
-565,대회,daehoe,대회,tournament,noun,R3,Y
-566,버리,beori,버리,to throw away,verb,R3,N
-567,비교,bigyo,비교,comparison,noun,R3,N
-568,산,san,산,mountain,noun,R3,N
-569,성공,seonggong,성공,success,noun,R3,Y
-570,스포츠,seupocheu,스포츠,sports,noun,R3,Y
-571,왕,wang,왕,king,noun,R3,N
-572,음악,eumak,음악,music,noun,R3,N
-573,응,eung,응,yeah,interjection,R3,N
-574,의원,uiwon,의원,doctor's office (surgery),noun,R3,Y
-575,특별,teukbyeol,특별,special,noun,R3,N
-576,com,com,com,,foreign,R3,N
-577,km,km,km,,foreign,R3,N
-578,뉴스,nyuseu,뉴스,news,noun,R3,N
-579,도움,doum,도움,help,noun,R3,Y
-580,로서,roseo,로서,,grammar,R3,N
-581,발생,balsaeng,발생,occurrence,noun,R3,Y
-582,부탁,butak,부탁,to request,noun,R3,Y
-583,센터,senteo,센터,center,noun,R3,Y
-584,어느,eoneu,어느,which,determiner,R3,N
-585,인생,insaeng,인생,life,noun,R3,N
-586,카,ka,카,,grammar,R3,N
-587,풀,pul,풀,grass; glue,noun,R3,N
-588,결혼,gyeolhon,결혼,marriage (get married),noun,R3,Y
-589,국제,gukje,국제,international,noun,R3,Y
-590,그거,geugeo,그거,that thing,pronoun,R3,N
-591,그래도,geuraedo,그래도,"still, even so",adverb,R3,N
-592,딸,ttal,딸,daughter (humble),noun,R3,N
-593,쉬,swi,쉬,to rest,interjection,R3,N
-594,식,sik,식,ceremony,noun,R3,N
-595,이게,ige,이게,,grammar,R3,N
-596,임,im,임,,grammar,R3,N
-597,정신,jeongsin,정신,"mind, spirit",noun,R3,N
-598,줘,jwo,줘,,grammar,R3,N
-599,추가,chuga,추가,addition,noun,R3,Y
-600,힘들,himdeul,힘들,,grammar,R3,N
-601,관리,gwalli,관리,management,noun,R3,N
-602,구나,guna,구나,,grammar,R3,N
-603,돌,dol,돌,to turn,noun,R3,N
-604,르,reu,르,,grammar,R3,N
-605,말씀,malsseum,말씀,words (hon.),noun,R3,Y
-606,무료,muryo,무료,free of charge,noun,R3,Y
-607,선수,seonsu,선수,player,noun,R3,Y
-608,설치,seolchi,설치,installation,noun,R3,Y
-609,씩,ssik,씩,each,adverb,R3,N
-610,앨범,aelbeom,앨범,album,noun,R3,Y
-611,얼마나,eolmana,얼마나,how much,adverb,R3,N
-612,잘못,jalmot,잘못,mistake,adverb,R3,N
-613,전쟁,jeonjaeng,전쟁,war,noun,R3,N
-614,층,cheung,층,floor,noun,R3,N
-615,특히,teuki,특히,especially,adverb,R3,N
-616,해외,haeoe,해외,overseas,noun,R3,Y
-617,p,p,p,,foreign,R3,N
-618,공연,gongyeon,공연,performance,noun,R3,Y
-619,기대,gidae,기대,expectation,noun,R3,Y
-620,다양,dayang,다양,various,noun,R3,N
-621,당시,dangsi,당시,at that time,noun,R3,N
-622,대해서,daehaeseo,대해서,,grammar,R3,N
-623,아래,arae,아래,below,noun,R3,Y
-624,억,eok,억,hundred million,numeral,R3,N
-625,완전,wanjeon,완전,completely,adverb,R3,N
-626,위원회,wiwonhoe,위원회,committee,noun,R3,Y
-627,공격,gonggyeok,공격,attack,noun,R3,Y
-628,그런데,geureonde,그런데,but,adverb,R3,N
-629,급,geup,급,"level, grade",noun,R3,N
-630,내일,naeil,내일,tomorrow,noun,R3,Y
-631,느,neu,느,,grammar,R3,N
-632,모델,model,모델,model,noun,R3,Y
-633,부르,bureu,부르,to call (one's name),verb,R3,N
-634,빨리,ppalli,빨리,quickly,adverb,R3,N
-635,생활,saenghwal,생활,daily life,noun,R3,N
-636,서비스,seobiseu,서비스,service,noun,R3,N
-637,쇼,syo,쇼,show,noun,R3,N
-638,순간,sungan,순간,moment,noun,R3,Y
-639,시스템,siseutem,시스템,system,noun,R3,N
-640,아야,aya,아야,,grammar,R3,N
-641,일부,ilbu,일부,part,noun,R3,N
-642,지방,jibang,지방,region; fat,noun,R3,Y
-643,질문,jilmun,질문,question,noun,R3,Y
-644,관심,gwansim,관심,interest,noun,R3,N
-645,그래,geurae,그래,okay; so,interjection,R3,N
-646,그룹,geurup,그룹,group,noun,R3,Y
-647,단체,danche,단체,organization,noun,R3,Y
-648,대신,daesin,대신,instead,noun,R3,Y
-649,마을,maeul,마을,town,noun,R3,Y
-650,무엇,mueot,무엇,what,pronoun,R3,N
-651,박,bak,박,Park; gourd,noun,R3,N
-652,방식,bangsik,방식,method,noun,R3,N
-653,사고,sago,사고,accident,noun,R3,Y
-654,선생,seonsaeng,선생,teacher,noun,R3,Y
-655,설명,seolmyeong,설명,explanation,noun,R3,Y
-656,스타,seuta,스타,star,noun,R3,Y
-657,알려,allyeo,알려,,grammar,R3,N
-658,연결,yeongyeol,연결,connection,noun,R3,Y
-659,영향,yeonghyang,영향,influence,noun,R3,Y
-660,외,oe,외,outside; besides,noun,R3,N
-661,찍,jjik,찍,take (photo); stamp,adverb,R3,N
-662,관한,gwanhan,관한,,grammar,R3,N
-663,기간,gigan,기간,period,noun,R3,N
-664,따르,ttareu,따르,follow,verb,R3,N
-665,로부터,robuteo,로부터,,grammar,R3,N
-666,루,ru,루,,grammar,R3,N
-667,선물,seonmul,선물,present,noun,R3,Y
-668,스럽,seureop,스럽,,grammar,R3,N
-669,영상,yeongsang,영상,video,noun,R3,Y
-670,자료,jaryo,자료,documents,noun,R3,Y
-671,잖아,jana,잖아,,grammar,R3,N
-672,저희,jeohui,저희,we (humble),pronoun,R3,N
-673,전체,jeonche,전체,whole,noun,R3,N
-674,제발,jebal,제발,please,adverb,R3,N
-675,행동,haengdong,행동,action,noun,R3,Y
-676,후보,hubo,후보,candidate,noun,R3,Y
-677,걱정,geokjeong,걱정,worry,noun,R3,Y
-678,곡,gok,곡,"song, tune",noun,R3,N
-679,느낌,neukkim,느낌,feeling,noun,R3,N
-680,옷,ot,옷,clothes,noun,R3,N
-681,중심,jungsim,중심,center,noun,R3,Y
-682,표현,pyohyeon,표현,expression,noun,R3,Y
-683,한다는,handaneun,한다는,,grammar,R3,N
-684,해당,haedang,해당,applicable,noun,R3,Y
-685,경찰,gyeongchal,경찰,police,noun,R3,Y
-686,공식,gongsik,공식,official,noun,R3,N
-687,구요,guyo,구요,,grammar,R3,N
-688,기회,gihoe,기회,chance,noun,R3,N
-689,께서,kkeseo,께서,,grammar,R3,N
-690,노,no,노,,grammar,R3,N
-691,늘,neul,늘,to increase,adverb,R3,N
-692,늦,neut,늦,to be late,adjective,R3,N
-693,달러,dalleo,달러,dollar,noun,R3,Y
-694,담,dam,담,wall; (fragment),noun,R3,N
-695,예정,yejeong,예정,schedule,noun,R3,Y
-696,온라인,ollain,온라인,online,noun,R3,Y
-697,인정,injeong,인정,acknowledgment,noun,R3,Y
-698,작가,jakga,작가,writer,noun,R3,Y
-699,제대로,jedaero,제대로,properly,adverb,R3,N
-700,주장,jujang,주장,claim,noun,R3,N
-701,지요,jiyo,지요,,grammar,R3,N
-702,촬영,chwaryeong,촬영,filming,noun,R3,Y
-703,카드,kadeu,카드,card,noun,R3,Y
-704,파,pa,파,green onion; faction,noun,R3,N
-705,프로,peuro,프로,professional,noun,R3,Y
-706,홈페이지,hompeiji,홈페이지,homepage,noun,R3,Y
-707,g,g,g,,foreign,R3,N
-708,가진,gajin,가진,,grammar,R3,N
-709,기관,gigwan,기관,institution,noun,R3,Y
-710,기사,gisa,기사,article,noun,R3,Y
-711,꺼,kkeo,꺼,thing (casual),noun,R3,N
-712,보호,boho,보호,protection,noun,R3,Y
-713,시장,sijang,시장,market; mayor,noun,R3,Y
-714,오래,orae,오래,old,adverb,R3,N
-715,의사,uisa,의사,doctor,noun,R3,Y
-716,인천,incheon,인천,Incheon,noun,R3,N
-717,일어나,ireona,일어나,to wake up,grammar,R3,N
-718,줬,jwot,줬,,grammar,R3,N
-719,짓,jit,짓,act; build,noun,R3,N
-720,쯤,jjeum,쯤,"about, around",noun,R3,N
-721,채,chae,채,,grammar,R3,N
-722,감독,gamdok,감독,"director, coach",noun,R3,Y
-723,구조,gujo,구조,structure,noun,R3,Y
-724,노력,noryeok,노력,effort,noun,R3,Y
-725,발,bal,발,foot,noun,R3,N
-726,변경,byeongyeong,변경,change,noun,R3,N
-727,어도,eodo,어도,,grammar,R3,N
-728,으니까,eunikka,으니까,,grammar,R3,N
-729,정책,jeongchaek,정책,policy,noun,R3,N
-730,조직,jojik,조직,organization,noun,R3,Y
-731,최,choe,최,,grammar,R3,N
-732,감,gam,감,,grammar,R3,N
-733,강,gang,강,strong,noun,R3,N
-734,과학,gwahak,과학,science,noun,R3,N
-735,대화,daehwa,대화,conversation,noun,R3,Y
-736,만든,mandeun,만든,,grammar,R3,N
-737,상대,sangdae,상대,"partner, opponent",noun,R3,Y
-738,술,sul,술,alcohol,noun,R3,N
-739,어머니,eomeoni,어머니,mother (formal),noun,R3,Y
-740,영어,yeongeo,영어,English,noun,R3,Y
-741,우주,uju,우주,universe,noun,R3,Y
-742,웃,ut,웃,to laugh,noun,R3,N
-743,원래,wollae,원래,originally,adverb,R3,N
-744,유지,yuji,유지,maintenance,noun,R3,Y
-745,입장,ipjang,입장,position,noun,R3,Y
-746,치료,chiryo,치료,treatment,noun,R3,Y
-747,티,ti,티,T-shirt; hint,noun,R3,N
-748,평가,pyeongga,평가,evaluation,noun,R3,N
-749,검사,geomsa,검사,examination,noun,R3,Y
-750,군요,gunyo,군요,,grammar,R3,N
-751,쉽,swip,쉽,easy,other,R3,N
-752,전국,jeonguk,전국,nationwide,noun,R3,Y
-753,주변,jubyeon,주변,surroundings,noun,R3,Y
-754,환자,hwanja,환자,patient,noun,R3,Y
-755,공,gong,공,ball; zero,numeral,R3,N
-756,공원,gongwon,공원,park,noun,R3,Y
-757,낮,nat,낮,daytime,noun,R3,N
-758,능력,neungnyeok,능력,ability,noun,R3,N
-759,대한민국,daehanminguk,대한민국,Republic of Korea,noun,R3,N
-760,동생,dongsaeng,동생,younger sibling,noun,R3,Y
-761,디,di,디,,grammar,R3,N
-762,뭔가,mwonga,뭔가,,grammar,R3,N
-763,부모,bumo,부모,parents,noun,R3,Y
-764,빼,ppae,빼,,grammar,R3,N
-765,시설,siseol,시설,facility,noun,R3,Y
-766,앉,an,앉,to sit,verb,R3,N
-767,잠,jam,잠,sleep,noun,R3,N
-768,저녁,jeonyeok,저녁,evening,noun,R3,Y
-769,처리,cheori,처리,handling,noun,R3,Y
-770,축구,chukgu,축구,soccer,noun,R3,Y
-771,r,r,r,,foreign,R3,N
-772,거기,geogi,거기,there,pronoun,R3,N
-773,공항,gonghang,공항,airport,noun,R3,Y
-774,교회,gyohoe,교회,church,noun,R3,Y
-775,그림,geurim,그림,picture,noun,R3,Y
-776,나왔,nawat,나왔,,grammar,R3,N
-777,맛,mat,맛,taste,noun,R3,N
-778,매일,maeil,매일,every day,adverb,R3,N
-779,반대,bandae,반대,reverse,noun,R3,Y
-780,병,byeong,병,illness,noun,R3,N
-781,인사,insa,인사,greeting,noun,R3,Y
-782,장애,jangae,장애,disability; obstacle,noun,R3,Y
-783,제공,jegong,제공,provision,noun,R3,Y
-784,졌,jyeot,졌,,grammar,R3,N
-785,차이,chai,차이,difference,noun,R3,N
-786,가요,gayo,가요,,grammar,R3,N
-787,기능,gineung,기능,function,noun,R3,N
-788,놈,nom,놈,guy (rude),noun,R3,N
-789,는데요,neundeyo,는데요,,grammar,R3,N
-790,대전,daejeon,대전,Daejeon,noun,R3,N
-791,대체,daeche,대체,substitute; on earth,noun,R3,Y
-792,론,ron,론,theory,noun,R3,N
-793,역할,yeokal,역할,role,noun,R3,N
-794,웹,wep,웹,web,noun,R3,N
-795,위험,wiheom,위험,dangerous,noun,R3,N
-796,이루,iru,이루,achieve,other,R3,N
-797,이전,ijeon,이전,before,noun,R3,N
-798,정,jeong,정,to decide,noun,R3,N
-799,지난,jinan,지난,,grammar,R3,N
-800,참고,chamgo,참고,reference,noun,R3,Y
-801,해결,haegyeol,해결,solution,noun,R3,Y
-802,고요,goyo,고요,,grammar,R3,N
-803,과거,gwageo,과거,past,noun,R3,Y
-804,광고,gwanggo,광고,advertisement,noun,R3,Y
-805,그게,geuge,그게,,grammar,R3,N
-806,깨,kkae,깨,break; sesame,noun,R3,N
-807,나이,nai,나이,age,noun,R3,Y
-808,놀,nol,놀,to play,noun,R3,N
-809,달리,dalli,달리,to run,adverb,R3,N
-810,마시,masi,마시,to drink,verb,R3,N
-811,바람,baram,바람,wind,noun,R3,Y
-812,번호,beonho,번호,number,noun,R3,N
-813,오후,ohu,오후,afternoon,noun,R3,Y
-814,와서,waseo,와서,,grammar,R3,N
-815,잊,it,잊,to forget,verb,R3,N
-816,주요,juyo,주요,main,noun,R3,N
-817,지구,jigu,지구,Earth; district,noun,R3,Y
-818,n,n,n,,foreign,R3,N
-819,개최,gaechoe,개최,hosting (event),noun,R3,Y
-820,곧,got,곧,right away,adverb,R3,N
-821,공간,gonggan,공간,space,noun,R3,Y
-822,공부,gongbu,공부,study,noun,R3,N
-823,관,gwan,관,,grammar,R3,N
-824,다리,dari,다리,bridge,noun,R3,Y
-825,동물,dongmul,동물,animal,noun,R3,Y
-826,드라마,deurama,드라마,drama,noun,R3,Y
-827,려는,ryeoneun,려는,,grammar,R3,N
-828,버스,beoseu,버스,bus,noun,R3,Y
-829,산업,saneop,산업,industry,noun,R3,N
-830,생산,saengsan,생산,production,noun,R3,Y
-831,선거,seongeo,선거,election,noun,R3,Y
-832,스스로,seuseuro,스스로,by oneself,adverb,R3,N
-833,시켜,sikyeo,시켜,,grammar,R3,N
-834,아빠,appa,아빠,papa,noun,R3,Y
-835,여행,yeohaeng,여행,journey,noun,R3,Y
-836,예술,yesul,예술,art,noun,R3,N
-837,요즘,yojeum,요즘,these days,noun,R3,Y
-838,제도,jedo,제도,system,noun,R3,N
-839,코드,kodeu,코드,code,noun,R3,Y
-840,팬,paen,팬,fan,noun,R3,N
-841,현대,hyeondae,현대,modern,noun,R3,Y
-842,후기,hugi,후기,review; late period,noun,R3,N
-843,for,for,for,,foreign,R3,N
-844,is,is,is,,foreign,R3,N
-845,l,l,l,,foreign,R3,N
-846,v,v,v,,foreign,R3,N
-847,국내,gungnae,국내,domestic,noun,R3,Y
-848,대학교,daehakgyo,대학교,university,other,R3,N
-849,동시,dongsi,동시,same time,noun,R3,N
-850,땅,ttang,땅,land,noun,R3,N
-851,려,ryeo,려,,grammar,R3,N
-852,목적,mokjeok,목적,purpose,noun,R3,N
-853,반응,baneung,반응,reaction,noun,R3,Y
-854,발전,baljeon,발전,development,noun,R3,N
-855,버전,beojeon,버전,version,noun,R3,Y
-856,숨,sum,숨,breath,noun,R3,N
-857,습,seup,습,,grammar,R3,N
-858,시즌,sijeun,시즌,season,noun,R3,Y
-859,옆,yeop,옆,next to,noun,R3,N
-860,의해,uihae,의해,,grammar,R3,N
-861,이건,igeon,이건,,grammar,R3,N
-862,이동,idong,이동,movement,noun,R3,Y
-863,자연,jayeon,자연,nature,noun,R3,Y
-864,정리,jeongni,정리,to put together,noun,R3,Y
-865,제일,jeil,제일,"the best, most",adverb,R3,N
-866,종,jong,종,kind; bell,noun,R3,N
-867,죽음,jugeum,죽음,death,noun,R3,N
-868,지도,jido,지도,map,noun,R3,Y
-869,캐릭터,kaerikteo,캐릭터,character,noun,R3,Y
-870,no,no,no,,foreign,R3,N
-871,가운데,gaunde,가운데,middle,noun,R3,Y
-872,그때,geuttae,그때,that time,noun,R3,N
-873,기다리,gidari,기다리,to wait,verb,R3,N
-874,기본,gibon,기본,basic,noun,R3,N
-875,나무,namu,나무,tree,noun,R3,Y
-876,나중,najung,나중,later,noun,R3,Y
-877,났,nat,났,happened,noun,R3,N
-878,맘,mam,맘,heart (casual),noun,R3,N
-879,미안,mian,미안,sorry (rough),noun,R3,N
-880,심,sim,심,terrible,grammar,R3,N
-881,업체,eopche,업체,company,noun,R3,N
-882,유명,yumyeong,유명,famous,noun,R3,Y
-883,자체,jache,자체,itself,noun,R3,Y
-884,작업,jageop,작업,work,noun,R3,Y
-885,주소,juso,주소,address,noun,R3,Y
-886,즈,jeu,즈,,grammar,R3,N
-887,즉,jeuk,즉,namely,adverb,R3,N
-888,컴퓨터,keompyuteo,컴퓨터,computer,noun,R3,Y
-889,현,hyeon,현,current,determiner,R3,N
-890,혹시,hoksi,혹시,by any chance,adverb,R3,N
-891,효과,hyogwa,효과,effect,noun,R3,N
-892,got,got,got,,foreign,R3,N
-893,건데,geonde,건데,,grammar,R3,N
-894,다르,dareu,다르,to differ,adjective,R3,N
-895,더니,deoni,더니,,grammar,R3,N
-896,만드,mandeu,만드,make,noun,R3,Y
-897,맨,maen,맨,bare; very,determiner,R3,N
-898,미래,mirae,미래,future,noun,R3,Y
-899,변화,byeonhwa,변화,change,noun,R4,N
-900,분석,bunseok,분석,analysis,noun,R4,N
-901,붙,but,붙,to stick,verb,R4,N
-902,소개,sogae,소개,introduction,noun,R4,Y
-903,심장,simjang,심장,heart (organ),noun,R4,N
-904,얘,yae,얘,this kid,interjection,R4,N
-905,얼마,eolma,얼마,how much,noun,R4,N
-906,재밌,jaemit,재밌,fun,adjective,R4,N
-907,조건,jogeon,조건,condition,noun,R4,N
-908,케,ke,케,,grammar,R4,N
-909,한데,hande,한데,but,adverb,R4,N
-910,by,by,by,,foreign,R4,N
-911,계약,gyeyak,계약,contract,noun,R4,Y
-912,그대로,geudaero,그대로,as is,adverb,R4,N
-913,기자,gija,기자,reporter,noun,R4,Y
-914,남성,namseong,남성,man,noun,R4,Y
-915,대구,daegu,대구,Daegu,noun,R4,N
-916,뛰,ttwi,뛰,run,verb,R4,N
-917,링크,ringkeu,링크,link,noun,R4,Y
-918,멤버,membeo,멤버,member,noun,R4,Y
-919,박사,baksa,박사,doctor (PhD),noun,R4,Y
-920,여름,yeoreum,여름,summer,noun,R4,Y
-921,일단,ildan,일단,first of all,adverb,R4,N
-922,장소,jangso,장소,place,noun,R4,Y
-923,절대,jeoldae,절대,absolutely,adverb,R4,N
-924,책임,chaegim,책임,responsibility,noun,R4,Y
-925,형태,hyeongtae,형태,form,noun,R4,Y
-926,it,it,it,,foreign,R4,N
-927,건물,geonmul,건물,building,noun,R4,Y
-928,고등,godeung,고등,high (school),noun,R4,N
-929,됨,doem,됨,,grammar,R4,N
-930,라구,ragu,라구,,grammar,R4,N
-931,만화,manhwa,만화,comics,noun,R4,Y
-932,무대,mudae,무대,stage,noun,R4,Y
-933,순,sun,순,pure; order,noun,R4,N
-934,시민,simin,시민,citizen,noun,R4,N
-935,시험,siheom,시험,to try out,noun,R4,Y
-936,우,u,우,,grammar,R4,N
-937,유일,yuil,유일,only one,noun,R4,N
-938,으로서,euroseo,으로서,,grammar,R4,N
-939,으로써,eurosseo,으로써,,grammar,R4,N
-940,으시,eusi,으시,,grammar,R4,N
-941,이곳,igot,이곳,this place,pronoun,R4,N
-942,전문,jeonmun,전문,specialty,noun,R4,Y
-943,차량,charyang,차량,vehicle,noun,R4,Y
-944,최초,choecho,최초,the first,noun,R4,N
-945,현실,hyeonsil,현실,reality,noun,R4,Y
-946,공동,gongdong,공동,joint,noun,R4,Y
-947,궁금,gunggeum,궁금,,grammar,R4,N
-948,규모,gyumo,규모,scale,noun,R4,Y
-949,꽃,kkot,꽃,flower,noun,R4,N
-950,단지,danji,단지,complex; merely,adverb,R4,N
-951,등장,deungjang,등장,appearance,noun,R4,Y
-952,디자인,dijain,디자인,design,noun,R4,Y
-953,딱,ttak,딱,exactly,adverb,R4,N
-954,목,mok,목,neck,noun,R4,N
-955,뭘,mwol,뭘,,grammar,R4,N
-956,방향,banghyang,방향,direction,noun,R4,Y
-957,비슷,biseut,비슷,,grammar,R4,N
-958,언니,eonni,언니,older sister (f.),noun,R4,Y
-959,요구,yogu,요구,demand,noun,R4,Y
-960,유,yu,유,,grammar,R4,N
-961,음식,eumsik,음식,food,noun,R4,Y
-962,장치,jangchi,장치,device,noun,R4,Y
-963,절,jeol,절,temple,noun,R4,N
-964,죄송,joesong,죄송,sorry,noun,R4,N
-965,최대,choedae,최대,maximum,noun,R4,Y
-966,현장,hyeonjang,현장,site,noun,R4,Y
-967,회장,hoejang,회장,chairman,noun,R4,Y
-968,f,f,f,,foreign,R4,N
-969,on,on,on,,foreign,R4,N
-970,개월,gaewol,개월,month (counter),noun,R4,N
-971,고려,goryeo,고려,consideration,noun,R4,Y
-972,느끼,neukki,느끼,to feel,verb,R4,N
-973,따라서,ttaraseo,따라서,therefore,adverb,R4,N
-974,마치,machi,마치,as if,adverb,R4,N
-975,바다,bada,바다,sea,noun,R4,Y
-976,본인,bonin,본인,oneself,noun,R4,Y
-977,빛,bit,빛,light,noun,R4,N
-978,열린,yeollin,열린,,grammar,R4,N
-979,영국,yeongguk,영국,UK,noun,R4,N
-980,이벤트,ibenteu,이벤트,event,noun,R4,Y
-981,인해,inhae,인해,,grammar,R4,N
-982,잃,il,잃,to lose,verb,R4,N
-983,자주,jaju,자주,often,adverb,R4,N
-984,조선,joseon,조선,Joseon,noun,R4,N
-985,하늘,haneul,하늘,sky,noun,R4,Y
-986,한편,hanpyeon,한편,meanwhile,adverb,R4,N
-987,행위,haengwi,행위,act,noun,R4,Y
-988,회의,hoeui,회의,meeting,noun,R4,Y
-989,히,hi,히,,grammar,R4,N
-990,가슴,gaseum,가슴,chest,noun,R4,Y
-991,건강,geongang,건강,health,noun,R4,Y
-992,기타,gita,기타,guitar; others,noun,R4,Y
-993,냐고,nyago,냐고,,grammar,R4,N
-994,도착,dochak,도착,to arrive (mail),noun,R4,Y
-995,드립니다,deurimnida,드립니다,,grammar,R4,N
-996,보안,boan,보안,security,noun,R4,Y
-997,야지,yaji,야지,,grammar,R4,N
-998,완벽,wanbyeok,완벽,perfect,noun,R4,Y
-999,인기,ingi,인기,popularity,noun,R4,Y
-1000,자동,jadong,자동,automatic,noun,R4,Y
-1001,자동차,jadongcha,자동차,car,noun,R4,Y
-1002,전기,jeongi,전기,electricity,noun,R4,Y
-1003,전부,jeonbu,전부,all,adverb,R4,N
-1004,전혀,jeonhyeo,전혀,not at all,adverb,R4,N
-1005,표,pyo,표,ticket; table,noun,R4,N
-1006,홍보,hongbo,홍보,promotion,noun,R4,Y
-1007,환경,hwangyeong,환경,environment,noun,R4,Y
-1008,각각,gakgak,각각,each,adverb,R4,N
-1009,구매,gumae,구매,purchase,noun,R4,Y
-1010,그리,geuri,그리,to draw,adverb,R4,N
-1011,기념,ginyeom,기념,commemoration,noun,R4,Y
-1012,레,re,레,,grammar,R4,N
-1013,려면,ryeomyeon,려면,,grammar,R4,N
-1014,률,ryul,률,,grammar,R4,N
-1015,모,mo,모,to gather,interjection,R4,N
-1016,모양,moyang,모양,shape,noun,R4,Y
-1017,목소리,moksori,목소리,voice,noun,R4,Y
-1018,배경,baegyeong,배경,background,noun,R4,Y
-1019,부족,bujok,부족,lack; tribe,noun,R4,Y
-1020,북,buk,북,north; drum,noun,R4,N
-1021,생겼,saenggyeot,생겼,,grammar,R4,N
-1022,생기,saenggi,생기,arise,noun,R4,Y
-1023,선정,seonjeong,선정,selection,noun,R4,N
-1024,시도,sido,시도,attempt,noun,R4,Y
-1025,시절,sijeol,시절,"days, era",noun,R4,Y
-1026,영,yeong,영,zero; spirit,numeral,R4,N
-1027,측,cheuk,측,side,noun,R4,N
-1028,판,pan,판,board; round,noun,R4,N
-1029,혹은,hogeun,혹은,,grammar,R4,N
-1030,가치,gachi,가치,value,noun,R4,N
-1031,고마워,gomawo,고마워,Thank you,grammar,R4,N
-1032,나와,nawa,나와,,grammar,R4,N
-1033,넌,neon,넌,,grammar,R4,N
-1034,다운,daun,다운,down(load),noun,R4,Y
-1035,동,dong,동,east; building,noun,R4,N
-1036,멋진,meotjin,멋진,,grammar,R4,N
-1037,밥,bap,밥,meal (casual),noun,R4,N
-1038,셔서,syeoseo,셔서,,grammar,R4,N
-1039,시기,sigi,시기,period,noun,R4,N
-1040,신경,singyeong,신경,nerve; attention,noun,R4,N
-1041,써,sseo,써,,grammar,R4,N
-1042,쓸,sseul,쓸,,grammar,R4,N
-1043,야구,yagu,야구,baseball,noun,R4,Y
-1044,약간,yakgan,약간,slightly,adverb,R4,N
-1045,약속,yaksok,약속,promise,noun,R4,Y
-1046,역,yeok,역,station,noun,R4,N
-1047,월드,woldeu,월드,world,noun,R4,Y
-1048,장관,janggwan,장관,minister,noun,R4,Y
-1049,중앙,jungang,중앙,center,noun,R4,Y
-1050,짧,jjal,짧,short,adjective,R4,N
-1051,최근,choegeun,최근,recently,noun,R4,Y
-1052,출시,chulsi,출시,release,noun,R4,Y
-1053,커피,keopi,커피,coffee,noun,R4,Y
-1054,쿠,ku,쿠,,grammar,R4,N
-1055,행사,haengsa,행사,event,noun,R4,Y
-1056,mm,mm,mm,,foreign,R4,N
-1057,you,you,you,,foreign,R4,N
-1058,감정,gamjeong,감정,emotion,noun,R4,N
-1059,건설,geonseol,건설,construction,noun,R4,Y
-1060,듯이,deusi,듯이,as if,noun,R4,N
-1061,베,be,베,,grammar,R4,N
-1062,부인,buin,부인,wife (someone's),noun,R4,Y
-1063,분명,bunmyeong,분명,clearly,adverb,R4,N
-1064,색,saek,색,color,noun,R4,N
-1065,설,seol,설,Lunar New Year,noun,R4,N
-1066,설정,seoljeong,설정,setting,noun,R4,Y
-1067,수상,susang,수상,suspicious,noun,R4,Y
-1068,실시,silsi,실시,implementation,noun,R4,Y
-1069,아내,anae,아내,wife,noun,R4,Y
-1070,엄청,eomcheong,엄청,super (slang),adverb,R4,N
-1071,연기,yeongi,연기,acting; smoke; delay,noun,R4,Y
-1072,예전,yejeon,예전,old days,noun,R4,N
-1073,위하,wiha,위하,for (the sake of),noun,R4,Y
-1074,유럽,yureop,유럽,Europe,noun,R4,N
-1075,이미지,imiji,이미지,image,noun,R4,Y
-1076,종합,jonghap,종합,comprehensive,noun,R4,Y
-1077,축하,chuka,축하,congratulations,noun,R4,Y
-1078,터,teo,터,,grammar,R4,N
-1079,통합,tonghap,통합,integration,noun,R4,Y
-1080,학원,hagwon,학원,academy,noun,R4,Y
-1081,한다면,handamyeon,한다면,,grammar,R4,N
-1082,희망,huimang,희망,hope,noun,R4,Y
-1083,http,http,http,,foreign,R4,N
-1084,단계,dangye,단계,"stage, step",noun,R4,Y
-1085,든지,deunji,든지,,grammar,R4,N
-1086,묻,mut,묻,to bury,other,R4,N
-1087,벌써,beolsseo,벌써,already,adverb,R4,N
-1088,봐야,bwaya,봐야,,grammar,R4,N
-1089,새끼,saekki,새끼,baby animal (rude),noun,R4,N
-1090,아시아,asia,아시아,Asia,noun,R4,N
-1091,안정,anjeong,안정,to calm down,noun,R4,Y
-1092,앤,aen,앤,and,noun,R4,N
-1093,에선,eseon,에선,in (particle),noun,R4,N
-1094,오빠,oppa,오빠,older brother (f.),noun,R4,Y
-1095,정상,jeongsang,정상,normal; summit,noun,R4,Y
-1096,척,cheok,척,,grammar,R4,N
-1097,클럽,keulleop,클럽,club,noun,R4,Y
-1098,텐데,tende,텐데,,grammar,R4,N
-1099,플,peul,플,,grammar,R4,N
-1100,u,u,u,,foreign,R4,N
-1101,가수,gasu,가수,singer,noun,R4,Y
-1102,갑자기,gapjagi,갑자기,suddenly,adverb,R4,N
-1103,검,geom,검,black,noun,R4,N
-1104,겁니다,geomnida,겁니다,,grammar,R4,N
-1105,고마워요,gomawoyo,고마워요,,grammar,R4,N
-1106,끌,kkeul,끌,pull,noun,R4,N
-1107,당하,dangha,당하,suffer,noun,R4,Y
-1108,독일,dogil,독일,Germany,noun,R4,N
-1109,라인,rain,라인,line,noun,R4,Y
-1110,롭,rop,롭,,grammar,R4,N
-1111,리그,rigeu,리그,league,noun,R4,Y
-1112,마찬가지,machangaji,마찬가지,the same,noun,R4,N
-1113,먼,meon,먼,,grammar,R4,N
-1114,모바일,mobail,모바일,mobile,noun,R4,Y
-1115,보통,botong,보통,ordinary,adverb,R4,N
-1116,비밀,bimil,비밀,secret,noun,R4,Y
-1117,빈,bin,빈,empty,noun,R4,N
-1118,삼성,samseong,삼성,(company),noun,R4,N
-1119,소재,sojae,소재,material,noun,R4,Y
-1120,신청,sincheong,신청,application,noun,R4,Y
-1121,어제,eoje,어제,yesterday,adverb,R4,N
-1122,연락,yeollak,연락,contact,noun,R4,Y
-1123,으로부터,eurobuteo,으로부터,,grammar,R4,N
-1124,은행,eunhaeng,은행,bank,noun,R4,Y
-1125,이사,isa,이사,to move house,noun,R4,Y
-1126,자랑,jarang,자랑,to be proud of,noun,R4,Y
-1127,잖,jan,잖,,grammar,R4,N
-1128,잠시,jamsi,잠시,for a while,adverb,R4,N
-1129,전자,jeonja,전자,electronic,noun,R4,Y
-1130,카메라,kamera,카메라,camera,noun,R4,Y
-1131,칼,kal,칼,knife,noun,R4,N
-1132,평화,pyeonghwa,평화,peace,noun,R4,N
-1133,포,po,포,,grammar,R4,N
-1134,학년,hangnyeon,학년,grade (school),noun,R4,Y
-1135,협회,hyeopoe,협회,association,noun,R4,Y
-1136,호텔,hotel,호텔,hotel,noun,R4,Y
-1137,o,o,o,,foreign,R4,N
-1138,겸,gyeom,겸,also serving as,noun,R4,N
-1139,기반,giban,기반,basis,noun,R4,Y
-1140,기획,gihoek,기획,planning,noun,R4,Y
-1141,뉴욕,nyuyok,뉴욕,New York,noun,R4,N
-1142,도로,doro,도로,road,noun,R4,Y
-1143,마리,mari,마리,animal (counter),noun,R4,N
-1144,만약,manyak,만약,if,noun,R4,N
-1145,메,me,메,,grammar,R4,N
-1146,벌,beol,벌,to earn,noun,R4,N
-1147,봐요,bwayo,봐요,,grammar,R4,N
-1148,생명,saengmyeong,생명,life,noun,R4,N
-1149,수준,sujun,수준,level,noun,R4,N
-1150,시리즈,sirijeu,시리즈,series,noun,R4,Y
-1151,실패,silpae,실패,failure,noun,R4,Y
-1152,실험,silheom,실험,experiment,noun,R4,Y
-1153,아냐,anya,아냐,no,interjection,R4,N
-1154,아도,ado,아도,,grammar,R4,N
-1155,접근,jeopgeun,접근,approach,noun,R4,Y
-1156,진정,jinjeong,진정,truly; calm down,adverb,R4,N
-1157,차지,chaji,차지,occupy,noun,R4,Y
-1158,피해,pihae,피해,damage,noun,R4,Y
-1159,가끔,gakkeum,가끔,occasionally,adverb,R4,N
-1160,가입,gaip,가입,sign-up,noun,R4,Y
-1161,개념,gaenyeom,개념,concept,noun,R4,N
-1162,겪,gyeok,겪,experience,verb,R4,N
-1163,고민,gomin,고민,to worry,noun,R4,Y
-1164,공유,gongyu,공유,sharing,noun,R4,Y
-1165,광주,gwangju,광주,Gwangju,noun,R4,N
-1166,그랬,geuraet,그랬,was so,other,R4,N
-1167,금지,geumji,금지,prohibition,noun,R4,Y
-1168,나타나,natana,나타나,,grammar,R4,N
-1169,대하,daeha,대하,about,noun,R4,N
-1170,데뷔,debwi,데뷔,debut,noun,R4,Y
-1171,렴,ryeom,렴,,grammar,R4,N
-1172,맛있,masit,맛있,delicious,adjective,R4,N
-1173,미친,michin,미친,,grammar,R4,N
-1174,민주당,minjudang,민주당,(party),noun,R4,N
-1175,방금,banggeum,방금,just now,adverb,R4,N
-1176,버렸,beoryeot,버렸,,grammar,R4,N
-1177,분야,bunya,분야,field,noun,R4,Y
-1178,섹스,sekseu,섹스,sex,noun,R4,N
-1179,수행,suhaeng,수행,performing,noun,R4,Y
-1180,순위,sunwi,순위,ranking,noun,R4,Y
-1181,아가,aga,아가,,grammar,R4,N
-1182,앱,aep,앱,app,noun,R4,N
-1183,언급,eongeup,언급,mention,noun,R4,Y
-1184,여전히,yeojeonhi,여전히,still,adverb,R4,N
-1185,완전히,wanjeonhi,완전히,completely,adverb,R4,N
-1186,요리,yori,요리,"cooking, dish",noun,R4,Y
-1187,우수,usu,우수,excellent,noun,R4,Y
-1188,울,ul,울,to cry,pronoun,R4,N
-1189,전통,jeontong,전통,tradition,noun,R4,Y
-1190,제외,jeoe,제외,exclusion,noun,R4,Y
-1191,제품,jepum,제품,product,noun,R4,Y
-1192,종류,jongnyu,종류,kind,noun,R4,N
-1193,주민,jumin,주민,resident,noun,R4,Y
-1194,주제,juje,주제,topic,noun,R4,N
-1195,지나,jina,지나,,grammar,R4,N
-1196,참가,chamga,참가,participation,noun,R4,Y
-1197,통신,tongsin,통신,communication,noun,R4,Y
-1198,투표,tupyo,투표,vote,noun,R4,Y
-1199,플레이,peullei,플레이,play,noun,R4,Y
-1200,홈,hom,홈,home,noun,R4,N
-1201,건가,geonga,건가,is it?,noun,R4,Y
-1202,공사,gongsa,공사,construction work,noun,R4,Y
-1203,국,guk,국,soup; nation,noun,R4,N
-1204,그만,geuman,그만,stop; that much,adverb,R4,N
-1205,기여,giyeo,기여,contribution,noun,R4,Y
-1206,기존,gijon,기존,existing,noun,R4,Y
-1207,높이,nopi,높이,height,noun,R4,Y
-1208,는가,neunga,는가,,grammar,R4,N
-1209,담당,damdang,담당,in charge,noun,R4,Y
-1210,땐,ttaen,땐,,grammar,R4,N
-1211,떠나,tteona,떠나,,grammar,R4,N
-1212,마이크,maikeu,마이크,microphone,noun,R4,Y
-1213,뮤직,myujik,뮤직,music,noun,R4,N
-1214,범죄,beomjoe,범죄,crime,noun,R4,Y
-1215,사과,sagwa,사과,to apologize,noun,R4,Y
-1216,사망,samang,사망,death,noun,R4,N
-1217,소식,sosik,소식,news,noun,R4,N
-1218,속도,sokdo,속도,speed,noun,R4,Y
-1219,수술,susul,수술,surgery,noun,R4,Y
-1220,수정,sujeong,수정,correction,noun,R4,Y
-1221,시켰,sikyeot,시켰,,grammar,R4,N
-1222,에너지,eneoji,에너지,energy,noun,R4,Y
-1223,요청,yocheong,요청,request,noun,R4,Y
-1224,인증,injeung,인증,certification,noun,R4,Y
-1225,자세,jase,자세,posture; detail,noun,R4,Y
-1226,차례,charye,차례,turn,noun,R4,Y
-1227,처,cheo,처,,grammar,R4,N
-1228,출연,churyeon,출연,appearance (show),noun,R4,Y
-1229,포기,pogi,포기,to give up,noun,R4,Y
-1230,거래,georae,거래,transaction,noun,R4,Y
-1231,경,gyeong,경,,grammar,R4,N
-1232,경험,gyeongheom,경험,experience,noun,R4,N
-1233,고통,gotong,고통,pain,noun,R4,N
-1234,국회,gukoe,국회,National Assembly,noun,R4,Y
-1235,그건,geugeon,그건,,grammar,R4,N
-1236,기계,gigye,기계,machine,noun,R4,Y
-1237,단어,daneo,단어,word,noun,R4,N
-1238,도와,dowa,도와,,grammar,R4,N
-1239,류,ryu,류,type,noun,R4,N
-1240,마세요,maseyo,마세요,,grammar,R4,N
-1241,무기,mugi,무기,weapon,noun,R4,Y
-1242,문자,munja,문자,text message; letter,noun,R4,N
-1243,비롯,birot,비롯,,grammar,R4,N
-1244,성장,seongjang,성장,growth,noun,R4,Y
-1245,소녀,sonyeo,소녀,girl,noun,R4,Y
-1246,스러운,seureoun,스러운,,grammar,R4,N
-1247,언제나,eonjena,언제나,always,adverb,R4,N
-1248,유사,yusa,유사,similar,noun,R4,N
-1249,장면,jangmyeon,장면,scene,noun,R4,Y
-1250,정의,jeongui,정의,justice; definition,noun,R4,Y
-1251,제안,jean,제안,proposal,noun,R4,Y
-1252,졸업,joreop,졸업,graduation,noun,R4,Y
-1253,쥐,jwi,쥐,to grip,noun,R4,N
-1254,진심,jinsim,진심,sincerity,noun,R4,Y
-1255,짐,jim,짐,luggage,adverb,R4,N
-1256,집중,jipjung,집중,concentration,noun,R4,Y
-1257,특징,teukjing,특징,feature,noun,R4,Y
-1258,패,pae,패,,grammar,R4,N
-1259,행정,haengjeong,행정,administration,noun,R4,Y
-1260,훈련,hullyeon,훈련,training,noun,R4,N
-1261,w,w,w,,foreign,R4,N
-1262,곤,gon,곤,,grammar,R4,N
-1263,깊,gip,깊,deep,adjective,R4,N
-1264,내리,naeri,내리,to get off,adverb,R4,N
-1265,데이터,deiteo,데이터,data,noun,R4,N
-1266,라니,rani,라니,,grammar,R4,N
-1267,링,ring,링,ring,noun,R4,N
-1268,매,mae,매,every; hawk,noun,R4,N
-1269,명령,myeongnyeong,명령,order,noun,R4,Y
-1270,므로,meuro,므로,,grammar,R4,N
-1271,미치,michi,미치,to go crazy,noun,R4,Y
-1272,바꾸,bakku,바꾸,to change,verb,R4,N
-1273,변호사,byeonhosa,변호사,lawyer,noun,R4,Y
-1274,보도,bodo,보도,news report,noun,R4,N
-1275,분위기,bunwigi,분위기,atmosphere,noun,R4,Y
-1276,사항,sahang,사항,matter,noun,R4,N
-1277,아기,agi,아기,baby,noun,R4,Y
-1278,예약,yeyak,예약,reservation,noun,R4,Y
-1279,제거,jegeo,제거,removal,noun,R4,Y
-1280,조심,josim,조심,caution,noun,R4,Y
-1281,텐,ten,텐,,grammar,R4,N
-1282,프랑스,peurangseu,프랑스,France,noun,R4,N
-1283,프로젝트,peurojekteu,프로젝트,project,noun,R4,Y
-1284,했었,haesseot,했었,,grammar,R4,N
-1285,가득,gadeuk,가득,full,adverb,R4,N
-1286,고맙,gomap,고맙,thankful,other,R4,N
-1287,그린,geurin,그린,green,noun,R4,Y
-1288,나온,naon,나온,,grammar,R4,N
-1289,남편,nampyeon,남편,husband,noun,R4,Y
-1290,내부,naebu,내부,inside,noun,R4,Y
-1291,마크,makeu,마크,mark,noun,R4,Y
-1292,만남,mannam,만남,meeting,noun,R4,Y
-1293,목표,mokpyo,목표,goal,noun,R4,N
-1294,바라,bara,바라,to wish,noun,R4,Y
-1295,별로,byeollo,별로,not really,adverb,R4,N
-1296,상상,sangsang,상상,imagination,noun,R4,Y
-1297,섬,seom,섬,,grammar,R4,N
-1298,성격,seonggyeok,성격,personality,noun,R4,Y
-1299,소설,soseol,소설,novel,noun,R4,Y
-1300,소속,sosok,소속,affiliation,noun,R4,Y
-1301,아름다운,areumdaun,아름다운,,grammar,R4,N
-1302,아마,ama,아마,probably,adverb,R4,N
-1303,안내,annae,안내,guidance,noun,R4,Y
-1304,언어,eoneo,언어,language,noun,R4,N
-1305,올림픽,ollimpik,올림픽,Olympics,noun,R4,Y
-1306,위원장,wiwonjang,위원장,chairperson,noun,R4,Y
-1307,의식,uisik,의식,consciousness; ceremony,noun,R4,Y
-1308,일정,iljeong,일정,schedule,noun,R4,Y
-1309,적용,jeogyong,적용,application,noun,R4,Y
-1310,주로,juro,주로,mainly,adverb,R4,N
-1311,주문,jumun,주문,order,noun,R4,Y
-1312,주인,juin,주인,owner,noun,R4,Y
-1313,중간,junggan,중간,middle,noun,R4,Y
-1314,지내,jinae,지내,to spend time,grammar,R4,N
-1315,지정,jijeong,지정,designation,noun,R4,Y
-1316,지지,jiji,지지,support,noun,R4,N
-1317,직,jik,직,,grammar,R4,N
-1318,청,cheong,청,blue; office,noun,R4,N
-1319,출신,chulsin,출신,origin,noun,R4,Y
-1320,폰,pon,폰,phone,noun,R4,N
-1321,cm,cm,cm,,foreign,R4,N
-1322,love,love,love,,foreign,R4,N
-1323,고자,goja,고자,,grammar,R4,N
-1324,공주,gongju,공주,princess,noun,R4,Y
-1325,그럴,geureol,그럴,,grammar,R4,N
-1326,낫,nat,낫,to heal,noun,R4,N
-1327,뉴,nyu,뉴,new,noun,R4,N
-1328,대단,daedan,대단,amazing,grammar,R4,N
-1329,물질,muljil,물질,substance,noun,R4,Y
-1330,민주,minju,민주,democracy,noun,R4,N
-1331,보인다,boinda,보인다,,grammar,R4,N
-1332,본부,bonbu,본부,headquarters,noun,R4,Y
-1333,브,beu,브,,grammar,R4,N
-1334,블랙,beullaek,블랙,black,noun,R4,Y
-1335,사장,sajang,사장,president of a company,noun,R4,N
-1336,수사,susa,수사,investigation,noun,R4,Y
+1,어,eo,어,(ending),grammar,R1,N
+2,하다,hada,하다,to do (also forms verbs),grammar,R1,N
+3,이다,ida,이다,to be (copula),copula,R1,N
+4,었,eot,었,(ending),grammar,R1,N
+5,이,i,이,(particle),grammar,R1,N
+6,는,neun,는,(particle),grammar,R1,N
+7,가,ga,가,(particle),grammar,R1,N
+8,고,go,고,(ending),grammar,R1,N
+9,나,na,나,I (casual),pronoun,R1,N
+10,거,geo,거,thing (casual),noun,R1,N
+11,야,ya,야,(ending),grammar,R1,N
+12,을,eul,을,(particle),grammar,R1,N
+13,에,e,에,(particle),grammar,R1,N
+14,있다,itda,있다,to exist; to have,verb,R1,N
+15,지,ji,지,(ending),grammar,R1,N
+16,은,eun,은,(ending),grammar,R1,N
+17,도,do,도,(particle),grammar,R1,N
+18,어요,eoyo,어요,(ending),grammar,R1,N
+19,다,da,다,(ending),grammar,R1,N
+20,보다,boda,보다,to see; to try (doing),verb,R1,N
+21,아,a,아,(particle),grammar,R1,N
+22,되다,doeda,되다,to become,verb,R1,N
+23,뭐,mwo,뭐,what,pronoun,R1,N
+24,게,ge,게,(ending),grammar,R1,N
+25,의,ui,의,(particle),grammar,R1,N
+26,시,si,시,(ending),grammar,R1,N
+27,너,neo,너,you,pronoun,R1,N
+28,안,an,안,not (short negation),adverb,R1,N
+29,어서,eoseo,어서,(ending),grammar,R1,N
+30,가다,gada,가다,to go,verb,R1,N
+31,네,ne,네,yes / your / wow,interjection,R1,N
+32,를,reul,를,(particle),grammar,R1,N
+33,저,jeo,저,I (humble) / that over there,pronoun,R1,N
+34,주다,juda,주다,to give; to do for (someone),verb,R1,N
+35,그,geu,그,that / he/she,determiner,R1,N
+36,것,geot,것,thing / one,noun,R1,N
+37,겠,get,겠,(ending),grammar,R1,N
+38,들,deul,들,(suffix),grammar,R1,N
+39,면,myeon,면,(ending),grammar,R1,N
+40,님,nim,님,honorific suffix (Mr/Madam),noun,R1,Y
+41,아니다,anida,아니다,to not be,copula,R1,N
+42,오다,oda,오다,to come,verb,R1,N
+43,ᆸ니다,ᆸnida,ᆸ니다,(ending),grammar,R1,N
+44,없다,eopda,없다,to not exist; to not have,adjective,R1,N
+45,요,yo,요,(ending),grammar,R1,N
+46,왜,wae,왜,why,adverb,R1,N
+47,알다,alda,알다,to know,verb,R1,N
+48,그렇다,geureota,그렇다,be so,adjective,R1,N
+49,습니다,seumnida,습니다,(ending),grammar,R1,N
+50,만,man,만,(particle),grammar,R1,N
+51,는데,neunde,는데,(ending),grammar,R1,N
+52,좀,jom,좀,a little,adverb,R1,N
+53,우리,uri,우리,we / our / my (group),pronoun,R1,N
+54,말,mal,말,speech / word / horse,noun,R1,N
+55,로,ro,로,(particle),grammar,R1,N
+56,사람,saram,사람,person,noun,R1,Y
+57,씨,ssi,씨,Mr./Ms.,noun,R1,N
+58,같다,gatda,같다,same; like,adjective,R1,N
+59,으로,euro,으로,(particle),grammar,R1,N
+60,자,ja,자,let's; okay,interjection,R1,N
+61,수,su,수,way; can (do),noun,R1,N
+62,ᆫ데,ᆫde,ᆫ데,(ending),grammar,R1,N
+63,일,il,일,day / work / one,noun,R1,N
+64,에서,eseo,에서,(particle),grammar,R1,N
+65,기,gi,기,(ending),grammar,R1,N
+66,세요,seyo,세요,(ending),grammar,R1,N
+67,죠,jyo,죠,(ending),grammar,R1,N
+68,어야,eoya,어야,(ending),grammar,R1,N
+69,않다,anta,않다,to not (do),verb,R1,N
+70,한테,hante,한테,(particle),grammar,R1,N
+71,잘,jal,잘,well,adverb,R1,N
+72,라고,rago,라고,(ending),grammar,R1,N
+73,말다,malda,말다,to stop doing; don't,verb,R1,N
+74,한,han,한,one / a (counter prefix),determiner,R1,N
+75,진짜,jinjja,진짜,really,adverb,R1,N
+76,여기,yeogi,여기,here,pronoun,R1,N
+77,지금,jigeum,지금,now,noun,R1,N
+78,좋다,jota,좋다,good,adjective,R1,N
+79,이거,igeo,이거,this thing,pronoun,R1,N
+80,예,ye,예,yes; example,interjection,R1,N
+81,아니,ani,아니,not / no,interjection,R1,N
+82,니,ni,니,(ending),grammar,R1,N
+83,못,mot,못,cannot (negation),adverb,R1,N
+84,다고,dago,다고,(ending),grammar,R1,N
+85,응,eung,응,yeah,interjection,R1,N
+86,어떻다,eotteota,어떻다,how,adjective,R1,N
+87,먹다,meokda,먹다,to eat,verb,R1,N
+88,모르다,moreuda,모르다,not know,verb,R1,N
+89,냐,nya,냐,(ending),grammar,R1,N
+90,니까,nikka,니까,(ending),grammar,R1,N
+91,어디,eodi,어디,where,pronoun,R1,N
+92,까지,kkaji,까지,(particle),grammar,R1,N
+93,누구,nugu,누구,who,pronoun,R1,N
+94,무슨,museun,무슨,what (kind of),determiner,R1,N
+95,때,ttae,때,time / when,noun,R1,N
+96,어도,eodo,어도,(ending),grammar,R1,N
+97,근데,geunde,근데,but,adverb,R1,N
+98,잖아,jana,잖아,(ending),grammar,R1,N
+99,더,deo,더,more,adverb,R1,N
+100,라,ra,라,(ending),grammar,R1,N
+101,그럼,geureom,그럼,then; of course,adverb,R1,N
+102,그냥,geunyang,그냥,just,adverb,R1,N
+103,생각,saenggak,생각,thought / think,noun,R1,Y
+104,싶다,sipda,싶다,want to,verb,R1,N
+105,엄마,eomma,엄마,(my) mother,noun,R1,Y
+106,으면,eumyeon,으면,(ending),grammar,R1,N
+107,던,deon,던,(ending),grammar,R1,N
+108,번,beon,번,time(s) / number,noun,R1,N
+109,그거,geugeo,그거,that thing,pronoun,R1,N
+110,이렇다,ireota,이렇다,be like this,adjective,R1,N
+111,아이,ai,아이,child,interjection,R1,N
+112,얘기,yaegi,얘기,"talk, story",noun,R1,N
+113,받다,batda,받다,to receive,verb,R1,N
+114,ᆫ다,ᆫda,ᆫ다,(ending),grammar,R1,N
+115,랑,rang,랑,(particle),grammar,R1,N
+116,죽다,jukda,죽다,to die,verb,R1,N
+117,맞다,matda,맞다,to be right; to fit; to get hit,verb,R1,N
+118,나다,nada,나다,to come out; happen,verb,R1,N
+119,그것,geugeot,그것,that thing,pronoun,R1,N
+120,그러다,geureoda,그러다,do so,verb,R1,N
+121,그런,geureon,그런,that kind of,determiner,R1,N
+122,이제,ije,이제,now,noun,R1,N
+123,오늘,oneul,오늘,today,adverb,R1,N
+124,예요,yeyo,예요,(ending),grammar,R1,N
+125,괜찮다,gwaenchanta,괜찮다,It's ok (all right),adjective,R1,N
+126,또,tto,또,again,adverb,R1,N
+127,ᆸ니까,ᆸnikka,ᆸ니까,(ending),grammar,R1,N
+128,서,seo,서,stand / from (contraction),noun,R1,N
+129,집,jip,집,house,noun,R1,Y
+130,지다,jida,지다,to lose; to fall; to carry,verb,R1,N
+131,이것,igeot,이것,this,pronoun,R2,N
+132,너무,neomu,너무,"too, very",adverb,R2,N
+133,나오다,naoda,나오다,to come out,verb,R2,N
+134,형,hyeong,형,big brother,noun,R2,Y
+135,그래,geurae,그래,okay; so,interjection,R2,N
+136,ᆫ가,ᆫga,ᆫ가,(ending),grammar,R2,N
+137,살다,salda,살다,to live,verb,R2,N
+138,새끼,saekki,새끼,baby animal (rude),noun,R2,N
+139,하나,hana,하나,one,numeral,R2,N
+140,적,jeok,적,-ic / -al (suffix),noun,R2,N
+141,놓다,nota,놓다,to put; to let go,verb,R2,N
+142,에요,eyo,에요,(ending),grammar,R2,N
+143,드리다,deurida,드리다,give (humble),verb,R2,N
+144,빨리,ppalli,빨리,quickly,adverb,R2,N
+145,듣다,deutda,듣다,"to hear, listen",verb,R2,N
+146,부터,buteo,부터,(particle),grammar,R2,N
+147,ᆫ다고,ᆫdago,ᆫ다고,(ending),grammar,R2,N
+148,애,ae,애,kid,noun,R2,Y
+149,오,o,오,(ending),grammar,R2,N
+150,데,de,데,place; but,noun,R2,N
+151,어라,eora,어라,(ending),grammar,R2,N
+152,전,jeon,전,before / front,noun,R2,Y
+153,같이,gachi,같이,(particle),grammar,R2,N
+154,분,bun,분,minute; person (hon.),noun,R2,N
+155,놈,nom,놈,guy (rude),noun,R2,N
+156,와,wa,와,(particle),grammar,R2,N
+157,쓰다,sseuda,쓰다,to use; to write; bitter,verb,R2,N
+158,나가다,nagada,나가다,go out,verb,R2,N
+159,ᆯ까,ᆯkka,ᆯ까,(ending),grammar,R2,N
+160,만나다,mannada,만나다,to meet,verb,R2,N
+161,찾다,chatda,찾다,to find; to look for,verb,R2,N
+162,정말,jeongmal,정말,really,adverb,R2,N
+163,당신,dangsin,당신,you (formal),pronoun,R2,N
+164,년,nyeon,년,year,noun,R2,N
+165,이런,ireon,이런,this kind of,determiner,R2,N
+166,ᆯ게,ᆯge,ᆯ게,(ending),grammar,R2,N
+167,가지다,gajida,가지다,"have, take",verb,R2,N
+168,시간,sigan,시간,time,noun,R2,N
+169,네요,neyo,네요,(ending),grammar,R2,N
+170,많이,mani,많이,a lot,adverb,R2,N
+171,돈,don,돈,money,noun,R2,Y
+172,보이다,boida,보이다,to be seen; to show,verb,R2,N
+173,잠깐,jamkkan,잠깐,a moment,adverb,R2,N
+174,사다,sada,사다,to buy,verb,R2,N
+175,다시,dasi,다시,again,adverb,R2,N
+176,려고,ryeogo,려고,(ending),grammar,R2,N
+177,다는,daneun,다는,(ending),grammar,R2,N
+178,아빠,appa,아빠,papa,noun,R2,Y
+179,ᆫ지,ᆫji,ᆫ지,(ending),grammar,R2,N
+180,아유,ayu,아유,"ugh, oh dear",interjection,R2,N
+181,여자,yeoja,여자,woman,noun,R2,Y
+182,소리,sori,소리,sound,noun,R2,Y
+183,들어가다,deureogada,들어가다,to enter,verb,R2,N
+184,그래서,geuraeseo,그래서,"so, therefore",adverb,R2,N
+185,으시,eusi,으시,(ending),grammar,R2,N
+186,줄,jul,줄,"way, how to (do)",noun,R2,N
+187,아이고,aigo,아이고,oh dear,interjection,R2,N
+188,때문,ttaemun,때문,because of,noun,R2,N
+189,라도,rado,라도,(ending),grammar,R2,N
+190,과,gwa,과,(particle),grammar,R2,N
+191,그리고,geurigo,그리고,and,adverb,R2,N
+192,저기,jeogi,저기,over there,interjection,R2,N
+193,으니까,eunikka,으니까,(ending),grammar,R2,N
+194,터,teo,터,site; about to,noun,R2,N
+195,지만,jiman,지만,(ending),grammar,R2,N
+196,잡다,japda,잡다,"to catch, grab",verb,R2,N
+197,죽이다,jugida,죽이다,kill; amazing,verb,R2,N
+198,습니까,seumnikka,습니까,(ending),grammar,R2,N
+199,어야지,eoyaji,어야지,(ending),grammar,R2,N
+200,ᆯ게요,ᆯgeyo,ᆯ게요,(ending),grammar,R3,N
+201,참,cham,참,truly; really,adverb,R3,N
+202,아직,ajik,아직,"yet, still",adverb,R3,N
+203,내다,naeda,내다,to pay; to put out,verb,R3,N
+204,미안,mian,미안,sorry (rough),noun,R3,Y
+205,친구,chingu,친구,friend,noun,R3,Y
+206,오빠,oppa,오빠,older brother (f.),noun,R3,Y
+207,많다,manta,많다,many,adjective,R3,N
+208,마음,maeum,마음,heart,noun,R3,N
+209,은데,eunde,은데,(ending),grammar,R3,N
+210,잖아요,janayo,잖아요,(ending),grammar,R3,N
+211,들다,deulda,들다,to lift; to enter; to cost,verb,R3,N
+212,면서,myeonseo,면서,(ending),grammar,R3,N
+213,는지,neunji,는지,(ending),grammar,R3,N
+214,그러니까,geureonikka,그러니까,so,adverb,R3,N
+215,선생,seonsaeng,선생,teacher,noun,R3,Y
+216,라는,raneun,라는,(ending),grammar,R3,N
+217,버리다,beorida,버리다,to throw away,verb,R3,N
+218,두,du,두,two,determiner,R3,N
+219,아버지,abeoji,아버지,father (formal),noun,R3,Y
+220,중,jung,중,middle / among,noun,R3,N
+221,에게,ege,에게,(particle),grammar,R3,N
+222,앞,ap,앞,before,noun,R3,Y
+223,손,son,손,hand,noun,R3,Y
+224,대,dae,대,versus; generation,noun,R3,Y
+225,거기,geogi,거기,there,pronoun,R3,N
+226,만들다,mandeulda,만들다,to make,verb,R3,N
+227,음,eum,음,hmm,interjection,R3,N
+228,차,cha,차,tea,noun,R3,Y
+229,이상,isang,이상,odd,noun,R3,Y
+230,말씀,malsseum,말씀,words (hon.),noun,R3,Y
+231,전화,jeonhwa,전화,a telephone,noun,R3,Y
+232,고맙다,gomapda,고맙다,thankful,adjective,R3,N
+233,이랑,irang,이랑,(particle),grammar,R3,N
+234,거든,geodeun,거든,(ending),grammar,R3,N
+235,안녕,annyeong,안녕,hello; peace,noun,R3,Y
+236,처럼,cheoreom,처럼,(particle),grammar,R3,N
+237,둘,dul,둘,two (people/things),numeral,R3,N
+238,사랑,sarang,사랑,love,noun,R3,Y
+239,치다,chida,치다,to hit; to play (instrument),verb,R3,N
+240,언니,eonni,언니,older sister (f.),noun,R3,Y
+241,크다,keuda,크다,big,adjective,R3,N
+242,아주,aju,아주,very,adverb,R3,N
+243,다가,daga,다가,(ending),grammar,R3,N
+244,시키다,sikida,시키다,(suffix),grammar,R3,N
+245,걱정,geokjeong,걱정,worry,noun,R3,Y
+246,감사,gamsa,감사,gratitude,noun,R3,Y
+247,두다,duda,두다,to put; to leave,verb,R3,N
+248,언제,eonje,언제,when,pronoun,R3,N
+249,그만,geuman,그만,stop; that much,adverb,R3,N
+250,구나,guna,구나,(ending),grammar,R3,N
+251,날,nal,날,sun,noun,R3,Y
+252,러,reo,러,(ending),grammar,R3,N
+253,자기,jagi,자기,oneself,pronoun,R3,N
+254,좋아하다,joahada,좋아하다,like,verb,R3,N
+255,혹시,hoksi,혹시,by any chance,adverb,R3,N
+256,믿다,mitda,믿다,to believe,verb,R3,N
+257,싫다,silta,싫다,dislike,adjective,R3,N
+258,보내다,bonaeda,보내다,to send,verb,R3,N
+259,든,deun,든,(ending),grammar,R3,N
+260,이나,ina,이나,(particle),grammar,R3,N
+261,꼭,kkok,꼭,surely,adverb,R3,N
+262,여,yeo,여,female / open / and,noun,R3,N
+263,들어오다,deureooda,들어오다,come in,verb,R3,N
+264,개,gae,개,dog,noun,R3,N
+265,남자,namja,남자,man,noun,R3,Y
+266,어떡하다,eotteokada,어떡하다,what to do,verb,R3,N
+267,기다리다,gidarida,기다리다,to wait,verb,R3,N
+268,다른,dareun,다른,"other, different",determiner,R3,N
+269,혼자,honja,혼자,alone,noun,R3,Y
+270,눈,nun,눈,eye(s),noun,R3,Y
+271,아휴,ahyu,아휴,sigh,interjection,R3,N
+272,아프다,apeuda,아프다,hurt,adjective,R3,N
+273,계속,gyesok,계속,to continue,noun,R3,Y
+274,생기다,saenggida,생기다,arise,verb,R3,N
+275,죄송,joesong,죄송,(suffix),grammar,R3,N
+276,미치다,michida,미치다,to go crazy,verb,R3,N
+277,저희,jeohui,저희,we (humble),pronoun,R3,N
+278,냐고,nyago,냐고,(ending),grammar,R3,N
+279,그때,geuttae,그때,that time,noun,R3,N
+280,자다,jada,자다,to sleep,verb,R3,N
+281,필요,piryo,필요,necessary,noun,R3,Y
+282,하,ha,하,do (verb stem),noun,R3,Y
+283,이번,ibeon,이번,this time,noun,R3,N
+284,아무,amu,아무,any,determiner,R3,N
+285,거든요,geodeunyo,거든요,(ending),grammar,R3,N
+286,막,mak,막,just now; roughly,adverb,R3,N
+287,먼저,meonjeo,먼저,first,adverb,R3,N
+288,이러다,ireoda,이러다,act like this,verb,R3,N
+289,하고,hago,하고,(particle),grammar,R3,N
+290,그래도,geuraedo,그래도,"still, even so",adverb,R3,N
+291,몇,myeot,몇,how many,determiner,R3,N
+292,밥,bap,밥,meal (casual),noun,R3,Y
+293,힘들다,himdeulda,힘들다,"hard, tiring",adjective,R3,N
+294,ᆯ까요,ᆯkkayo,ᆯ까요,(ending),grammar,R3,N
+295,딱,ttak,딱,exactly,adverb,R3,N
+296,얘,yae,얘,this kid,pronoun,R3,N
+297,얼마나,eolmana,얼마나,how much,adverb,R3,N
+298,다음,daeum,다음,next,noun,R3,Y
+299,어쩌다,eojjeoda,어쩌다,by chance; how come,verb,R3,N
+300,처음,cheoeum,처음,beginning,noun,R3,Y
+301,기억,gieok,기억,memory,noun,R3,Y
+302,소,so,소,(ending),grammar,R3,N
+303,사건,sageon,사건,event,noun,R3,Y
+304,아저씨,ajeossi,아저씨,middle-aged man,noun,R3,Y
+305,김,gim,김,Kim; seaweed; steam,noun,R3,N
+306,얼굴,eolgul,얼굴,face (body part),noun,R3,Y
+307,께서,kkeseo,께서,(particle),grammar,R3,N
+308,바로,baro,바로,right away; exactly,adverb,R3,N
+309,정도,jeongdo,정도,"degree, about",noun,R3,N
+310,대표,daepyo,대표,representative,noun,R3,Y
+311,명,myeong,명,person (counter),noun,R3,N
+312,원,won,원,won (currency),noun,R3,Y
+313,어떤,eotteon,어떤,what kind of,determiner,R3,N
+314,갖다,gatda,갖다,have,verb,R3,N
+315,사실,sasil,사실,fact; actually,noun,R3,N
+316,부르다,bureuda,부르다,to call; to sing,verb,R3,N
+317,타다,tada,타다,to ride; to burn,verb,R3,N
+318,쪽,jjok,쪽,"side, page",noun,R3,N
+319,선배,seonbae,선배,senior (colleague),noun,R3,Y
+320,연락,yeollak,연락,contact,noun,R3,Y
+321,잘못,jalmot,잘못,mistake,adverb,R3,N
+322,너희,neohui,너희,you (pl.),pronoun,R3,N
+323,술,sul,술,alcohol,noun,R3,Y
+324,문제,munje,문제,problem,noun,R3,Y
+325,ᆸ시오,ᆸsio,ᆸ시오,(ending),grammar,R3,N
+326,었었,eosseot,었었,(ending),grammar,R3,N
+327,묻다,mutda,묻다,to bury,verb,R3,N
+328,내일,naeil,내일,tomorrow,noun,R3,Y
+329,위하다,wihada,위하다,to do for (the sake of),verb,R3,N
+330,대로,daero,대로,"as, according to",noun,R3,N
+331,시작,sijak,시작,to start,noun,R3,Y
+332,회장,hoejang,회장,chairman,noun,R3,Y
+333,끝나다,kkeunnada,끝나다,"end, finish",verb,R3,N
+334,다니다,danida,다니다,"attend, go to",verb,R3,N
+335,이름,ireum,이름,name,noun,R3,Y
+336,달다,dalda,달다,sweet; to hang,verb,R3,N
+337,계시다,gyesida,계시다,to be (honorific),verb,R3,N
+338,부탁,butak,부탁,to request,noun,R3,Y
+339,일단,ildan,일단,first of all,adverb,R3,N
+340,준비,junbi,준비,preparation,noun,R3,Y
+341,경찰,gyeongchal,경찰,police,noun,R3,Y
+342,자식,jasik,자식,child; offspring,noun,R3,Y
+343,맛있다,masitda,맛있다,delicious,adjective,R3,N
+344,을까,eulkka,을까,(ending),grammar,R3,N
+345,대하다,daehada,대하다,to treat; about,verb,R3,N
+346,아들,adeul,아들,son,noun,R3,Y
+347,마시다,masida,마시다,to drink,verb,R3,N
+348,갑자기,gapjagi,갑자기,suddenly,adverb,R3,N
+349,누나,nuna,누나,older sister (m.),noun,R3,Y
+350,짓,jit,짓,act; build,noun,R3,Y
+351,앉다,anda,앉다,to sit,verb,R3,N
+352,사장,sajang,사장,president of a company,noun,R3,Y
+353,남,nam,남,to remain,noun,R3,Y
+354,아까,akka,아까,a little while ago,adverb,R3,N
+355,이렇게,ireoke,이렇게,like this,adverb,R3,N
+356,세상,sesang,세상,world,noun,R3,Y
+357,병원,byeongwon,병원,hospital,noun,R3,Y
+358,어머니,eomeoni,어머니,mother (formal),noun,R3,Y
+359,남다,namda,남다,to remain,verb,R3,N
+360,걔,gyae,걔,that kid,pronoun,R3,N
+361,씨발,ssibal,씨발,(profanity),interjection,R3,N
+362,확인,hwagin,확인,confirmation,noun,R3,Y
+363,성,seong,성,(suffix),grammar,R3,N
+364,단,dan,단,(ending),grammar,R3,N
+365,아니야,aniya,아니야,no (casual),interjection,R3,N
+366,방,bang,방,a room,noun,R3,N
+367,주,ju,주,give / for the benefit of,noun,R3,Y
+368,없이,eopsi,없이,without,adverb,R3,N
+369,세,se,세,(ending),grammar,R3,N
+370,지키다,jikida,지키다,"to protect, keep",verb,R3,N
+371,길,gil,길,long,noun,R3,Y
+372,자리,jari,자리,seat,noun,R3,Y
+373,이유,iyu,이유,reason,noun,R3,N
+374,일어나다,ireonada,일어나다,to get up,verb,R3,N
+375,조금,jogeum,조금,a little,noun,R3,Y
+376,인간,ingan,인간,human being,noun,R3,Y
+377,결혼,gyeolhon,결혼,marriage (get married),noun,R3,Y
+378,뭔,mwon,뭔,what,determiner,R3,N
+379,회사,hoesa,회사,company,noun,R3,Y
+380,아니요,aniyo,아니요,no (polite),interjection,R3,N
+381,정신,jeongsin,정신,"mind, spirit",noun,R3,N
+382,자고,jago,자고,(ending),grammar,R3,N
+383,교수,gyosu,교수,professor,noun,R3,Y
+384,살리다,sallida,살리다,save (a life),verb,R3,N
+385,신,sin,신,to put on (shoes),noun,R3,Y
+386,박,bak,박,Park; gourd,noun,R3,N
+387,쯧,jjeut,쯧,tsk,interjection,R3,N
+388,란,ran,란,(particle),noun,R3,N
+389,몸,mom,몸,body,noun,R3,Y
+390,라면,ramyeon,라면,(ending),grammar,R3,N
+391,찍다,jjikda,찍다,take (photo); stamp,verb,R3,N
+392,ᆫ다는,ᆫdaneun,ᆫ다는,(ending),grammar,R3,N
+393,속,sok,속,to deceive,noun,R3,Y
+394,끝,kkeut,끝,the end,noun,R3,Y
+395,예쁘다,yeppeuda,예쁘다,pretty,adjective,R3,N
+396,씁,sseup,씁,tsk,interjection,R3,N
+397,돌아가다,doragada,돌아가다,to go back,verb,R3,N
+398,던데,deonde,던데,(ending),grammar,R3,N
+399,그런데,geureonde,그런데,but,adverb,R3,N
+400,무섭다,museopda,무섭다,scary,adjective,R3,N
+401,장,jang,장,sheet (counter); chief,noun,R3,N
+402,팀장,timjang,팀장,team leader,noun,R3,Y
+403,어머,eomeo,어머,oh my,interjection,R3,N
+404,ᆯ래,ᆯrae,ᆯ래,(ending),grammar,R3,N
+405,제발,jebal,제발,please,adverb,R3,N
+406,절대,jeoldae,절대,absolutely,adverb,R3,N
+407,학교,hakgyo,학교,school,noun,R3,Y
+408,모든,modeun,모든,"every, all",determiner,R3,N
+409,뿐,ppun,뿐,only,noun,R3,N
+410,곳,got,곳,place,noun,R3,Y
+411,당하다,danghada,당하다,(suffix),grammar,R3,N
+412,배,bae,배,belly,noun,R3,Y
+413,늦다,neutda,늦다,to be late,adjective,R3,N
+414,서다,seoda,서다,to stand,verb,R3,N
+415,으세요,euseyo,으세요,(ending),grammar,R3,N
+416,중요,jungyo,중요,important,noun,R3,Y
+417,딸,ttal,딸,daughter (humble),noun,R3,Y
+418,밖에,bakke,밖에,(particle),grammar,R3,N
+419,문,mun,문,gate,noun,R3,Y
+420,ᆯ지,ᆯji,ᆯ지,(ending),grammar,R3,N
+421,다면,damyeon,다면,(ending),grammar,R3,N
+422,얼마,eolma,얼마,how much,noun,R3,N
+423,검사,geomsa,검사,examination,noun,R3,Y
+424,전하,jeonha,전하,to convey,noun,R3,Y
+425,더니,deoni,더니,(ending),grammar,R3,N
+426,형사,hyeongsa,형사,detective,noun,R3,Y
+427,자꾸,jakku,자꾸,repeatedly,adverb,R3,N
+428,내,nae,내,my / I (casual),noun,R3,N
+429,머리,meori,머리,head,noun,R3,Y
+430,팀,tim,팀,team,noun,R3,Y
+431,상황,sanghwang,상황,situation,noun,R3,Y
+432,물,mul,물,water,noun,R3,Y
+433,사이,sai,사이,relationship,noun,R3,Y
+434,어제,eoje,어제,yesterday,noun,R3,Y
+435,못하다,mothada,못하다,cannot (negation),verb,R3,N
+436,께,kke,께,(particle),grammar,R3,N
+437,입,ip,입,mouth / enter / be (copula),noun,R3,Y
+438,뒤,dwi,뒤,back side,noun,R3,Y
+439,걸리다,geollida,걸리다,take (time); be caught,verb,R3,N
+440,원래,wollae,원래,originally,noun,R3,Y
+441,다르다,dareuda,다르다,to differ,adjective,R3,N
+442,밤,bam,밤,night,noun,R3,Y
+443,완전,wanjeon,완전,completely,noun,R3,Y
+444,내리다,naerida,내리다,to get off,verb,R3,N
+445,동안,dongan,동안,during,noun,R3,Y
+446,데리다,derida,데리다,take (a person),verb,R3,N
+447,영,yeong,영,zero; spirit,noun,R3,N
+448,모두,modu,모두,everyone,adverb,R3,N
+449,요즘,yojeum,요즘,these days,noun,R3,Y
+450,나쁘다,nappeuda,나쁘다,bad,adjective,R3,N
+451,저거,jeogeo,저거,that thing,pronoun,R3,N
+452,우,u,우,(ending),grammar,R3,N
+453,사고,sago,사고,accident,noun,R3,Y
+454,래,rae,래,(ending),grammar,R3,N
+455,마지막,majimak,마지막,last,noun,R3,Y
+456,구,gu,구,(ending),grammar,R3,N
+457,꿈,kkum,꿈,a dream,noun,R3,Y
+458,최,choe,최,(suffix),grammar,R3,N
+459,제일,jeil,제일,"the best, most",adverb,R3,N
+460,걸,geol,걸,thing (casual),noun,R3,N
+461,준,jun,준,(suffix),grammar,R3,N
+462,직접,jikjeop,직접,directly,adverb,R3,N
+463,사진,sajin,사진,photo,noun,R3,Y
+464,당장,dangjang,당장,right now,noun,R3,N
+465,ᆸ시다,ᆸsida,ᆸ시다,(ending),grammar,R3,N
+466,울다,ulda,울다,to cry,verb,R3,N
+467,쉬다,swida,쉬다,to rest,verb,R3,N
+468,더라,deora,더라,(ending),grammar,R3,N
+469,정,jeong,정,to decide,noun,R3,N
+470,후,hu,후,after,noun,R3,Y
+471,그러면,geureomyeon,그러면,then,adverb,R3,N
+472,구하다,guhada,구하다,to rescue,verb,R3,N
+473,불,bul,불,fire,noun,R3,Y
+474,변호사,byeonhosa,변호사,lawyer,noun,R3,Y
+475,약속,yaksok,약속,promise,noun,R3,Y
+476,에이,ei,에이,come on,interjection,R3,N
+477,강,gang,강,strong,noun,R3,Y
+478,떨어지다,tteoreojida,떨어지다,to fall,verb,R3,N
+479,가족,gajok,가족,family,noun,R3,Y
+480,달,dal,달,sweet,noun,R3,Y
+481,할머니,halmeoni,할머니,grandmother,noun,R3,Y
+482,건,geon,건,thing; case,noun,R3,N
+483,돕다,dopda,돕다,to help out,verb,R3,N
+484,입다,ipda,입다,to wear,verb,R3,N
+485,대체,daeche,대체,substitute; on earth,adverb,R3,N
+486,되게,doege,되게,really (casual),adverb,R3,N
+487,옷,ot,옷,clothes,noun,R3,Y
+488,유,yu,유,(ending),grammar,R3,N
+489,제,je,제,(suffix),grammar,R3,N
+490,돌아오다,doraoda,돌아오다,to return,verb,R3,N
+491,열다,yeolda,열다,to open,verb,R3,N
+492,더라고,deorago,더라고,(ending),grammar,R3,N
+493,놀다,nolda,놀다,"to play, hang out",verb,R3,N
+494,스럽다,seureopda,스럽다,(suffix),grammar,R3,N
+495,얼른,eolleun,얼른,quickly,adverb,R3,N
+496,나요,nayo,나요,(ending),grammar,R3,N
+497,엄청,eomcheong,엄청,super (slang),adverb,R3,N
+498,리,ri,리,reason,noun,R3,N
+499,인생,insaeng,인생,life,noun,R3,Y
+500,빼다,ppaeda,빼다,take out,verb,R3,N
+501,기분,gibun,기분,feeling,noun,R3,N
+502,조심,josim,조심,caution,noun,R3,Y
+503,잠시,jamsi,잠시,for a while,adverb,R3,N
+504,여보세요,yeoboseyo,여보세요,hello (phone),interjection,R3,N
+505,어야죠,eoyajyo,어야죠,(ending),grammar,R3,N
+506,화,hwa,화,anger; fire,noun,R3,Y
+507,고생,gosaeng,고생,"hardship, trouble",noun,R3,Y
+508,웃다,utda,웃다,to laugh,verb,R3,N
+509,빠지다,ppajida,빠지다,to fall into,verb,R3,N
+510,쟤,jyae,쟤,that kid,pronoun,R3,N
+511,아침,achim,아침,morning,noun,R3,Y
+512,호,ho,호,number (counter),noun,R3,N
+513,힘,him,힘,strength,noun,R3,Y
+514,벌써,beolsseo,벌써,already,adverb,R3,N
+515,이요,iyo,이요,(particle),grammar,R3,N
+516,오케이,okei,오케이,okay,interjection,R3,N
+517,별,byeol,별,star,determiner,R3,N
+518,어리다,eorida,어리다,young,adjective,R3,N
+519,하루,haru,하루,one day,noun,R3,Y
+520,바쁘다,bappeuda,바쁘다,busy,adjective,R3,N
+521,옆,yeop,옆,next to,noun,R3,Y
+522,차리다,charida,차리다,prepare (a meal),verb,R3,N
+523,마,ma,마,hey (dialect),adverb,R3,N
+524,따르다,ttareuda,따르다,follow,verb,R3,N
+525,이리,iri,이리,this way,adverb,R3,N
+526,넣다,neota,넣다,to put in,verb,R3,N
+527,인마,inma,인마,you (rude),interjection,R3,N
+528,이미,imi,이미,already,adverb,R3,N
+529,신경,singyeong,신경,nerve; attention,noun,R3,Y
+530,조,jo,조,trillion; group,determiner,R3,N
+531,쉽다,swipda,쉽다,easy,adjective,R3,N
+532,살,sal,살,to live,noun,R3,N
+533,지내다,jinaeda,지내다,to get along; to spend time,verb,R3,N
+534,이야,iya,이야,(particle),grammar,R3,N
+535,제대로,jedaero,제대로,properly,adverb,R3,N
+536,다치다,dachida,다치다,get hurt,verb,R3,N
+537,가능,ganeung,가능,possible,noun,R3,Y
+538,나중,najung,나중,later,noun,R3,Y
+539,알리다,allida,알리다,to let know,verb,R3,N
+540,상,sang,상,prize,noun,R3,Y
+541,비,bi,비,to become empty,noun,R3,Y
+542,백,baek,백,hundred; bag,numeral,R3,N
+543,대신,daesin,대신,instead,noun,R3,Y
+544,죄,joe,죄,sin,noun,R3,Y
+545,인,in,인,(suffix),grammar,R3,N
+546,으니,euni,으니,(ending),grammar,R3,N
+547,척,cheok,척,pretend,noun,R3,N
+548,수고,sugo,수고,"effort, hard work",noun,R4,Y
+549,자네,jane,자네,you (to a junior),pronoun,R4,N
+550,며,myeo,며,(ending),grammar,R4,N
+551,위험,wiheom,위험,dangerous,noun,R4,Y
+552,약,yak,약,medicine,noun,R4,Y
+553,올리다,ollida,올리다,"raise, post",verb,R4,N
+554,방법,bangbeop,방법,method,noun,R4,Y
+555,함께,hamkke,함께,together,adverb,R4,N
+556,풀다,pulda,풀다,to untie; to solve,verb,R4,N
+557,권,gwon,권,(suffix),grammar,R4,N
+558,그렇게,geureoke,그렇게,like that,adverb,R4,N
+559,바꾸다,bakkuda,바꾸다,to change,verb,R4,N
+560,서울,seoul,서울,Seoul,noun,R4,N
+561,지요,jiyo,지요,(ending),grammar,R4,N
+562,동생,dongsaeng,동생,younger sibling,noun,R4,Y
+563,디,di,디,(ending),grammar,R4,N
+564,피,pi,피,blood,noun,R4,Y
+565,식,sik,식,ceremony,noun,R4,N
+566,이사,isa,이사,to move house,noun,R4,Y
+567,챙기다,chaenggida,챙기다,take care of,verb,R4,N
+568,딴,ttan,딴,other,determiner,R4,N
+569,아무것,amugeot,아무것,anything,noun,R4,Y
+570,떠나다,tteonada,떠나다,leave,verb,R4,N
+571,천,cheon,천,thousand; cloth,numeral,R4,N
+572,윤,yun,윤,(name),noun,R4,N
+573,씩,ssik,씩,(suffix),grammar,R4,N
+574,어렵다,eoryeopda,어렵다,difficult,adjective,R4,N
+575,설마,seolma,설마,no way,adverb,R4,N
+576,어찌,eojji,어찌,how,adverb,R4,N
+577,도록,dorok,도록,(ending),grammar,R4,N
+578,드시다,deusida,드시다,eat (honorific),verb,R4,N
+579,밖,bak,밖,outside,noun,R4,Y
+580,행복,haengbok,행복,happiness,noun,R4,Y
+581,범인,beomin,범인,culprit,noun,R4,Y
+582,마마,mama,마마,Your Majesty,noun,R4,Y
+583,곧,got,곧,right away,adverb,R4,N
+584,잔,jan,잔,"glass, cup",noun,R4,Y
+585,반,ban,반,half,noun,R4,Y
+586,석,seok,석,seat (counter),noun,R4,Y
+587,무,mu,무,(suffix),grammar,R4,N
+588,사,sa,사,to buy,numeral,R4,N
+589,아이씨,aissi,아이씨,damn,interjection,R4,N
+590,인사,insa,인사,greeting,noun,R4,Y
+591,기자,gija,기자,reporter,noun,R4,Y
+592,ᆫ데요,ᆫdeyo,ᆫ데요,(ending),grammar,R4,N
+593,작가,jakga,작가,writer,noun,R4,Y
+594,양,yang,양,amount,determiner,R4,N
+595,증거,jeunggeo,증거,evidence,noun,R4,Y
+596,뜨다,tteuda,뜨다,to knit,verb,R4,N
+597,군,gun,군,(ending),grammar,R4,N
+598,수술,susul,수술,surgery,noun,R4,Y
+599,생,saeng,생,(suffix),grammar,R4,N
+600,오래,orae,오래,old,adverb,R4,N
+601,잊다,itda,잊다,to forget,verb,R4,N
+602,낫다,natda,낫다,to heal,adjective,R4,N
+603,환자,hwanja,환자,patient,noun,R4,Y
+604,는다,neunda,는다,(ending),grammar,R4,N
+605,맨날,maennal,맨날,every day,adverb,R4,N
+606,거짓말,geojinmal,거짓말,lie,noun,R4,Y
+607,위,wi,위,up,noun,R4,Y
+608,역시,yeoksi,역시,as expected,adverb,R4,N
+609,노,no,노,no,noun,R4,N
+610,느냐,neunya,느냐,(ending),grammar,R4,N
+611,남편,nampyeon,남편,husband,noun,R4,Y
+612,진,jin,진,"thick, strong",noun,R4,Y
+613,대다,daeda,대다,touch; put,verb,R4,N
+614,지나다,jinada,지나다,pass,verb,R4,N
+615,정리,jeongni,정리,to put together,noun,R4,Y
+616,어떻게,eotteoke,어떻게,how,adverb,R4,N
+617,놀라다,nollada,놀라다,to be surprised,verb,R4,N
+618,만큼,mankeum,만큼,as much as,noun,R4,N
+619,하지만,hajiman,하지만,but,adverb,R4,N
+620,끊다,kkeunta,끊다,to cut off; to hang up,verb,R4,N
+621,전부,jeonbu,전부,all,noun,R4,Y
+622,뜻,tteut,뜻,meaning,noun,R4,Y
+623,열,yeol,열,to open,numeral,R4,N
+624,아무리,amuri,아무리,no matter how,adverb,R4,N
+625,편하다,pyeonhada,편하다,comfortable,adjective,R4,N
+626,붙다,butda,붙다,to stick,verb,R4,N
+627,가장,gajang,가장,the most,adverb,R4,N
+628,법,beop,법,law,noun,R4,N
+629,이해,ihae,이해,understanding,noun,R4,Y
+630,싸우다,ssauda,싸우다,to fight,verb,R4,N
+631,째,jjae,째,(suffix),grammar,R4,N
+632,희,hui,희,(name),noun,R4,N
+633,알아보다,araboda,알아보다,find out; recognize,verb,R4,N
+634,부모,bumo,부모,parents,noun,R4,Y
+635,원하다,wonhada,원하다,to want,verb,R4,N
+636,나이,nai,나이,age,noun,R4,Y
+637,어유,eoyu,어유,oh,interjection,R4,N
+638,을까요,eulkkayo,을까요,(ending),grammar,R4,N
+639,이쁘다,ippeuda,이쁘다,pretty,adjective,R4,N
+640,부장,bujang,부장,department head,noun,R4,Y
+641,여러분,yeoreobun,여러분,everyone (polite),pronoun,R4,N
+642,셋,set,셋,three,numeral,R4,N
+643,다행,dahaeng,다행,fortunate,noun,R4,Y
+644,자신,jasin,자신,oneself; confidence,noun,R4,Y
+645,팔다,palda,팔다,to sell,verb,R4,N
+646,공부,gongbu,공부,study,noun,R4,Y
+647,등,deung,등,etc. / rank / back,noun,R4,N
+648,싸다,ssada,싸다,cheap; to wrap,verb,R4,N
+649,다니까,danikka,다니까,(ending),grammar,R4,N
+650,어차피,eochapi,어차피,anyway,adverb,R4,N
+651,도대체,dodaeche,도대체,on earth,adverb,R4,N
+652,막다,makda,막다,to block,verb,R4,N
+653,수사,susa,수사,investigation,noun,R4,Y
+654,서로,seoro,서로,each other,adverb,R4,N
+655,병,byeong,병,illness,noun,R4,Y
+656,바람,baram,바람,wind,noun,R4,Y
+657,조사,josa,조사,investigation,noun,R4,Y
+658,마다,mada,마다,(particle),grammar,R4,N
+659,바라다,barada,바라다,to wish,verb,R4,N
+660,사라지다,sarajida,사라지다,to disappear,verb,R4,N
+661,태,tae,태,(name),noun,R4,N
+662,이기다,igida,이기다,to win,verb,R4,N
+663,걸다,geolda,걸다,hang; call,verb,R4,N
+664,상태,sangtae,상태,condition (health),noun,R4,Y
+665,학생,haksaeng,학생,student,noun,R4,Y
+666,발,bal,발,foot,noun,R4,Y
+667,때리다,ttaerida,때리다,hit,verb,R4,N
+668,올라가다,ollagada,올라가다,to go up,verb,R4,N
+669,순간,sungan,순간,moment,noun,R4,Y
+670,참다,chamda,참다,"to endure, hold back",verb,R4,N
+671,찾아오다,chajaoda,찾아오다,come to see,verb,R4,N
+672,으라고,eurago,으라고,(ending),grammar,R4,N
+673,금방,geumbang,금방,soon,adverb,R4,N
+674,아줌마,ajumma,아줌마,ma'am (middle-aged woman),noun,R4,Y
+675,축하,chuka,축하,congratulations,noun,R4,Y
+676,들리다,deullida,들리다,to be audible,verb,R4,N
+677,뛰다,ttwida,뛰다,to run,verb,R4,N
+678,움직이다,umjigida,움직이다,to move,verb,R4,N
+679,이쪽,ijjok,이쪽,this way,pronoun,R4,N
+680,재밌다,jaemitda,재밌다,fun,adjective,R4,N
+681,용,yong,용,(suffix),grammar,R4,N
+682,느끼다,neukkida,느끼다,to feel,verb,R4,N
+683,어다,eoda,어다,(ending),grammar,R4,N
+684,계,gye,계,(fragment),noun,R4,N
+685,저녁,jeonyeok,저녁,evening,noun,R4,Y
+686,넘다,neomda,넘다,to exceed,verb,R4,N
+687,여보,yeobo,여보,honey (spouse),interjection,R4,N
+688,그림,geurim,그림,picture,noun,R4,Y
+689,과장,gwajang,과장,section chief,noun,R4,Y
+690,전하다,jeonhada,전하다,to convey,verb,R4,N
+691,할아버지,harabeoji,할아버지,grandfather,noun,R4,Y
+692,억,eok,억,hundred million,numeral,R4,N
+693,음악,eumak,음악,music,noun,R4,Y
+694,대답,daedap,대답,to answer,noun,R4,Y
+695,선,seon,선,line,noun,R4,Y
+696,동네,dongne,동네,neighborhood,noun,R4,Y
+697,도와주다,dowajuda,도와주다,help,verb,R4,N
+698,라서,raseo,라서,(ending),grammar,R4,N
+699,궁금,gunggeum,궁금,(suffix),grammar,R4,N
+700,새,sae,새,bird,noun,R4,Y
+701,라니까,ranikka,라니까,(ending),grammar,R4,N
+702,선물,seonmul,선물,present,noun,R4,Y
+703,잠,jam,잠,sleep,noun,R4,Y
+704,살인,sarin,살인,murder,noun,R4,Y
+705,민,min,민,(name),noun,R4,N
+706,저렇다,jeoreota,저렇다,be like that,adjective,R4,N
+707,열심히,yeolsimhi,열심히,with all one's might,adverb,R4,N
+708,범,beom,범,tiger; (fragment),noun,R4,N
+709,방금,banggeum,방금,just now,adverb,R4,N
+710,비밀,bimil,비밀,secret,noun,R4,Y
+711,영화,yeonghwa,영화,movie,noun,R4,Y
+712,봉,bong,봉,stick; (fragment),noun,R4,N
+713,다녀오다,danyeooda,다녀오다,come back from,verb,R4,N
+714,한국,hanguk,한국,Korea,noun,R4,N
+715,거라,geora,거라,(ending),grammar,R4,N
+716,결국,gyeolguk,결국,eventually,noun,R4,Y
+717,의사,uisa,의사,doctor,noun,R4,Y
+718,소문,somun,소문,rumor,noun,R4,Y
+719,재,jae,재,(suffix),grammar,R4,N
+720,기사,gisa,기사,article,noun,R4,Y
+721,오랜만,oraenman,오랜만,long time,noun,R4,N
+722,돌다,dolda,돌다,to turn,verb,R4,N
+723,그렇지,geureochi,그렇지,right,interjection,R4,N
+724,돌리다,dollida,돌리다,turn,verb,R4,N
+725,기회,gihoe,기회,chance,noun,R4,Y
+726,철,cheol,철,iron; season,noun,R4,Y
+727,신고,singo,신고,report (to police),noun,R4,Y
+728,간,gan,간,between; liver,noun,R4,N
+729,비키다,bikida,비키다,step aside,verb,R4,N
+730,모시다,mosida,모시다,"serve, escort",verb,R4,N
+731,나라,nara,나라,country,noun,R4,Y
+732,쏘다,ssoda,쏘다,to shoot,verb,R4,N
+733,냄새,naemsae,냄새,smell,noun,R4,Y
+734,려면,ryeomyeon,려면,(ending),grammar,R4,N
+735,사과,sagwa,사과,to apologize,noun,R4,Y
+736,왕,wang,왕,king,noun,R4,N
+737,ᆫ다면,ᆫdamyeon,ᆫ다면,(ending),grammar,R4,N
+738,의원,uiwon,의원,doctor's office (surgery),noun,R4,Y
+739,결정,gyeoljeong,결정,decision,noun,R4,Y
+740,구먼,gumeon,구먼,(ending),grammar,R4,N
+741,어느,eoneu,어느,which,determiner,R4,N
+742,현장,hyeonjang,현장,site,noun,R4,Y
+743,똑같다,ttokgatda,똑같다,the same,adjective,R4,N
+744,선택,seontaek,선택,choice,noun,R4,Y
+745,어휴,eohyu,어휴,phew,interjection,R4,N
+746,평생,pyeongsaeng,평생,lifetime,noun,R4,Y
+747,ᆫ대,ᆫdae,ᆫ대,(ending),grammar,R4,N
+748,부,bu,부,(suffix),grammar,R4,N
+749,책,chaek,책,book,noun,R4,Y
+750,총,chong,총,gun,noun,R4,Y
+751,커피,keopi,커피,coffee,noun,R4,Y
+752,복,bok,복,luck,noun,R4,Y
+753,질,jil,질,(suffix),grammar,R4,N
+754,난리,nalli,난리,uproar,noun,R4,Y
+755,든지,deunji,든지,(ending),grammar,R4,N
+756,배우다,baeuda,배우다,to learn,verb,R4,N
+757,그리다,geurida,그리다,to draw,verb,R4,N
+758,동,dong,동,east; building,noun,R4,Y
+759,쯤,jjeum,쯤,(suffix),grammar,R4,N
+760,물어보다,mureoboda,물어보다,ask,verb,R4,N
+761,확실,hwaksil,확실,(suffix),grammar,R4,N
+762,편,pyeon,편,side; episode,noun,R4,N
+763,거나,geona,거나,(ending),grammar,R4,N
+764,괜히,gwaenhi,괜히,for nothing,adverb,R4,N
+765,월,wol,월,month / moon,noun,R4,N
+766,헤어지다,heeojida,헤어지다,break up,verb,R4,N
+767,현,hyeon,현,current,determiner,R4,N
+768,쌤,ssaem,쌤,teacher (casual),noun,R4,Y
+769,짓다,jitda,짓다,to build; to make,verb,R4,N
+770,칼,kal,칼,knife,noun,R4,Y
+771,장난,jangnan,장난,prank,noun,R4,Y
+772,연애,yeonae,연애,dating,noun,R4,Y
+773,산,san,산,mountain,noun,R4,Y
+774,으러,eureo,으러,(ending),grammar,R4,N
+775,다리,dari,다리,bridge,noun,R4,Y
+776,아가씨,agassi,아가씨,young lady,noun,R4,Y
+777,번호,beonho,번호,number,noun,R4,Y
+778,키우다,kiuda,키우다,to raise,verb,R4,N
+779,첫,cheot,첫,(suffix),grammar,R4,N
+780,피해자,pihaeja,피해자,victim,noun,R4,Y
+781,감독,gamdok,감독,"director, coach",noun,R4,Y
+782,잡히다,japida,잡히다,get caught,verb,R4,N
+783,조용히,joyonghi,조용히,quietly,adverb,R4,N
+784,글쎄,geulsse,글쎄,well…,interjection,R4,N
+785,실,sil,실,thread,noun,R4,Y
+786,그쪽,geujjok,그쪽,that side; you,pronoun,R4,N
+787,잃다,ilta,잃다,to lose,verb,R4,N
+788,핸드폰,haendeupon,핸드폰,cell phone,noun,R4,Y
+789,목숨,moksum,목숨,life,noun,R4,Y
+790,기다,gida,기다,to crawl,verb,R4,N
+791,점,jeom,점,point; dot,adverb,R4,N
+792,ᆫ가요,ᆫgayo,ᆫ가요,(ending),grammar,R4,N
+793,아버님,abeonim,아버님,father (honorific),noun,R4,N
+794,다며,damyeo,다며,(ending),grammar,R4,N
+795,나타나다,natanada,나타나다,appear,verb,R4,N
+796,해결,haegyeol,해결,solution,noun,R4,Y
+797,별로,byeollo,별로,not really,adverb,R4,N
+798,귀신,gwisin,귀신,ghost,noun,R4,Y
+799,길래,gillae,길래,(ending),grammar,R4,N
+800,으,eu,으,(fragment),interjection,R4,N
+801,읽다,ikda,읽다,to read,verb,R4,N
+802,삼촌,samchon,삼촌,uncle,noun,R4,Y
+803,상처,sangcheo,상처,wound,noun,R4,Y
+804,까다,kkada,까다,peel,verb,R4,N
+805,선수,seonsu,선수,player,noun,R4,Y
+806,벌다,beolda,벌다,to earn,verb,R4,N
+807,저하,jeoha,저하,Your Highness,noun,R4,Y
+808,깜짝,kkamjjak,깜짝,startled,adverb,R4,N
+809,목,mok,목,neck,noun,R4,Y
+810,길다,gilda,길다,long,adjective,R4,N
+811,모습,moseup,모습,figure,noun,R4,Y
+812,호텔,hotel,호텔,hotel,noun,R4,Y
+813,확,hwak,확,suddenly,adverb,R4,N
+814,사귀다,sagwida,사귀다,"date, go out with",verb,R4,N
+815,가만,gaman,가만,"still, wait",adverb,R4,N
+816,처리,cheori,처리,handling,noun,R4,Y
+817,발견,balgyeon,발견,discovery,noun,R4,Y
+818,개새끼,gaesaekki,개새끼,(profanity),interjection,R4,N
+819,보고,bogo,보고,report,noun,R4,Y
+820,모양,moyang,모양,shape,noun,R4,Y
+821,홍,hong,홍,(name),noun,R4,N
+822,으려고,euryeogo,으려고,(ending),grammar,R4,N
+823,노래,norae,노래,song,noun,R4,Y
+824,직원,jigwon,직원,staff member,noun,R4,Y
+825,드세다,deuseda,드세다,"tough, strong-willed",adjective,R4,N
+826,송,song,송,(name),noun,R4,N
+827,숨기다,sumgida,숨기다,hide,verb,R4,N
+828,관심,gwansim,관심,interest,noun,R4,Y
+829,그대,geudae,그대,you (poetic),pronoun,R4,N
+830,꼴,kkol,꼴,"state, look",noun,R4,Y
+831,뻔,ppeon,뻔,almost (did),noun,R4,N
+832,하늘,haneul,하늘,sky,noun,R4,Y
+833,옛날,yennal,옛날,old days,noun,R4,Y
+834,불편,bulpyeon,불편,inconvenience,noun,R4,Y
+835,맛,mat,맛,taste,noun,R4,Y
+836,만약,manyak,만약,if,noun,R4,N
+837,아무래도,amuraedo,아무래도,probably,adverb,R4,N
+838,꽃,kkot,꽃,flower,noun,R4,Y
+839,급하다,geupada,급하다,"urgent, in a hurry",adjective,R4,N
+840,맞추다,matchuda,맞추다,to match,verb,R4,N
+841,차다,chada,차다,to kick; cold; full,verb,R4,N
+842,친하다,chinhada,친하다,close (friends),adjective,R4,N
+843,초,cho,초,second (time),noun,R4,N
+844,상관,sanggwan,상관,relation; superior,noun,R4,Y
+845,분명히,bunmyeonghi,분명히,clearly,adverb,R4,N
+846,맘,mam,맘,heart (casual),noun,R4,N
+847,팔,pal,팔,to sell,noun,R4,Y
+848,으면서,eumyeonseo,으면서,(ending),grammar,R4,N
+849,통화,tonghwa,통화,call; currency,noun,R4,Y
+850,려,ryeo,려,(ending),grammar,R4,N
+851,뽑다,ppopda,뽑다,to pull out,verb,R4,N
+852,어이,eoi,어이,hey,adverb,R4,N
+853,실수,silsu,실수,mistake,noun,R4,Y
+854,물론,mullon,물론,of course,noun,R4,Y
+855,무엇,mueot,무엇,what,pronoun,R4,N
+856,의심,uisim,의심,to doubt,noun,R4,Y
+857,덕,deok,덕,virtue,noun,R4,Y
+858,춥다,chupda,춥다,cold,adjective,R4,N
+859,도착,dochak,도착,to arrive (mail),noun,R4,Y
+860,가지,gaji,가지,kind; branch,noun,R4,N
+861,결과,gyeolgwa,결과,result,noun,R4,Y
+862,삼,sam,삼,three,numeral,R4,N
+863,미,mi,미,beauty; US,noun,R4,Y
+864,얻다,eotda,얻다,obtain,verb,R4,N
+865,걷다,geotda,걷다,to walk,verb,R4,N
+866,덕분,deokbun,덕분,thanks to,noun,R4,Y
+867,포기,pogi,포기,to give up,noun,R4,Y
+868,당연히,dangyeonhi,당연히,naturally,adverb,R4,N
+869,최고,choego,최고,the best,noun,R4,Y
+870,느낌,neukkim,느낌,feeling,noun,R4,N
+871,가져오다,gajyeooda,가져오다,bring,verb,R4,N
+872,나리,nari,나리,sir (historical),noun,R4,Y
+873,관계,gwangye,관계,relationship,noun,R4,Y
+874,ᆯ래요,ᆯraeyo,ᆯ래요,(ending),grammar,R4,N
+875,솔직히,soljiki,솔직히,honestly,adverb,R4,N
+876,아무튼,amuteun,아무튼,anyway,adverb,R4,N
+877,그리,geuri,그리,to draw,adverb,R4,N
+878,끼리,kkiri,끼리,(suffix),grammar,R4,N
+879,그날,geunal,그날,that day,noun,R4,N
+880,터지다,teojida,터지다,burst,verb,R4,N
+881,갚다,gapda,갚다,pay back,verb,R4,N
+882,작다,jakda,작다,small,adjective,R4,N
+883,멈추다,meomchuda,멈추다,stop,verb,R4,N
+884,실장,siljang,실장,chief,noun,R4,Y
+885,든가,deunga,든가,(ending),grammar,R4,N
+886,닮다,damda,닮다,to resemble,verb,R4,N
+887,일로,illo,일로,over here,adverb,R4,N
+888,인정,injeong,인정,acknowledgment,noun,R4,Y
+889,웃기다,utgida,웃기다,funny,verb,R4,N
+890,물건,mulgeon,물건,"thing, item",noun,R4,N
+891,주인,juin,주인,owner,noun,R4,Y
+892,전혀,jeonhyeo,전혀,not at all,adverb,R4,N
+893,태어나다,taeeonada,태어나다,be born,verb,R4,N
+894,겄,geot,겄,(ending),grammar,R4,N
+895,피하다,pihada,피하다,to avoid,verb,R4,N
+896,분명,bunmyeong,분명,clearly,adverb,R4,N
+897,큰일,keunil,큰일,big trouble,noun,R4,Y
+898,멀다,meolda,멀다,far,verb,R4,N
+899,이혼,ihon,이혼,divorce,noun,R4,Y
+900,진행,jinhaeng,진행,to advance (something),noun,R4,Y
+901,그놈,geunom,그놈,that guy,pronoun,R4,N
+902,빠르다,ppareuda,빠르다,fast,adjective,R4,N
+903,싹,ssak,싹,completely,adverb,R4,N
+904,깨다,kkaeda,깨다,to wake up; to break,verb,R4,N
+905,진심,jinsim,진심,sincerity,noun,R4,Y
+906,라니,rani,라니,(ending),grammar,R4,N
+907,감정,gamjeong,감정,emotion,noun,R4,Y
+908,다니,dani,다니,(ending),grammar,R4,N
+909,따로,ttaro,따로,separately,adverb,R4,N
+910,세다,seda,세다,strong; to count,adjective,R4,N
+911,정보,jeongbo,정보,information,noun,R4,Y
+912,맡다,matda,맡다,to keep in custody,verb,R4,N
+913,끝내다,kkeunnaeda,끝내다,finish,verb,R4,N
+914,도움,doum,도움,help,noun,R4,Y
+915,나누다,nanuda,나누다,"divide, share",verb,R4,N
+916,취하다,chwihada,취하다,to get drunk; to take,verb,R4,N
+917,천천히,cheoncheonhi,천천히,slowly,adverb,R4,N
+918,밝히다,balkida,밝히다,reveal,verb,R4,N
+919,오해,ohae,오해,misunderstanding,noun,R4,Y
+920,며칠,myeochil,며칠,a few days,noun,R4,Y
+921,공,gong,공,ball; zero,noun,R4,Y
+922,바보,babo,바보,fool,noun,R4,Y
+923,매일,maeil,매일,every day,adverb,R4,N
+924,붙이다,buchida,붙이다,attach,verb,R4,N
+925,는데요,neundeyo,는데요,(ending),grammar,R4,N
+926,가져가다,gajyeogada,가져가다,take away,verb,R4,N
+927,변하다,byeonhada,변하다,change,verb,R4,N
+928,반갑다,bangapda,반갑다,glad to see,adjective,R4,N
+929,자막,jamak,자막,subtitles,noun,R4,Y
+930,버티다,beotida,버티다,endure,verb,R4,N
+931,게임,geim,게임,game,noun,R4,Y
+932,더라고요,deoragoyo,더라고요,(ending),grammar,R4,N
+933,예전,yejeon,예전,old days,noun,R4,Y
+934,생일,saengil,생일,birthday,noun,R4,Y
+935,설명,seolmyeong,설명,explanation,noun,R4,Y
+936,그대로,geudaero,그대로,as is,adverb,R4,N
+937,원장,wonjang,원장,director,noun,R4,Y
+938,늘,neul,늘,to increase,adverb,R4,N
+939,치우다,chiuda,치우다,clean up,verb,R4,N
+940,는다고,neundago,는다고,(ending),grammar,R4,N
+941,듯,deut,듯,as if,noun,R4,N
+942,당연,dangyeon,당연,(suffix),grammar,R4,N
+943,방송,bangsong,방송,broadcast,noun,R4,Y
+944,통하다,tonghada,통하다,pass through,verb,R4,N
+945,연결,yeongyeol,연결,connection,noun,R4,Y
+946,뵈다,boeda,뵈다,see (humble),verb,R4,N
+947,이놈,inom,이놈,this guy,pronoun,R4,N
+948,귀엽다,gwiyeopda,귀엽다,cute,adjective,R4,N
+949,국,guk,국,soup; nation,noun,R4,Y
+950,땅,ttang,땅,land,noun,R4,Y
+951,채,chae,채,as is,noun,R4,N
+952,바뀌다,bakkwida,바뀌다,be changed,verb,R4,N
+953,미국,miguk,미국,America,noun,R4,N
+954,진정,jinjeong,진정,truly; calm down,noun,R4,Y
+955,높다,nopda,높다,high,adjective,R4,N
+956,항상,hangsang,항상,always,adverb,R4,N
+957,아마,ama,아마,probably,adverb,R4,N
+958,보통,botong,보통,ordinary,adverb,R4,N
+959,이야기,iyagi,이야기,talk (chat),noun,R4,N
+960,한번,hanbeon,한번,once,noun,R4,Y
+961,똥,ttong,똥,poop,noun,R4,Y
+962,는가,neunga,는가,(ending),grammar,R4,N
+963,대요,daeyo,대요,(ending),grammar,R4,N
+964,는구나,neunguna,는구나,(ending),grammar,R4,N
+965,해,hae,해,do (casual),noun,R4,Y
+966,허,heo,허,huh,interjection,R4,N
+967,양반,yangban,양반,nobleman; gentleman,noun,R4,Y
+968,용서,yongseo,용서,forgiveness,noun,R4,Y
+969,꺼지다,kkeojida,꺼지다,go out; get lost,verb,R4,N
+970,아기,agi,아기,baby,noun,R4,Y
+971,관련,gwallyeon,관련,relation,noun,R4,Y
+972,지랄,jiral,지랄,(profanity),noun,R4,N
+973,일찍,iljjik,일찍,early,adverb,R4,N
+974,층,cheung,층,floor,noun,R4,Y
+975,기록,girok,기록,record,noun,R4,Y
+976,거의,geoui,거의,almost,adverb,R4,N
+977,롭다,ropda,롭다,(suffix),grammar,R4,N
+978,넘기다,neomgida,넘기다,pass over,verb,R4,N
+979,남기다,namgida,남기다,leave behind,verb,R4,N
+980,사모,samo,사모,madam,noun,R4,Y
+981,대리,daeri,대리,assistant manager,noun,R4,Y
+982,심장,simjang,심장,heart (organ),noun,R4,N
+983,조선,joseon,조선,Joseon,noun,R4,Y
+984,세계,segye,세계,world,noun,R4,Y
+985,을지,eulji,을지,(ending),grammar,R4,N
+986,무조건,mujogeon,무조건,unconditionally,adverb,R4,N
+987,따라오다,ttaraoda,따라오다,follow,verb,R4,N
+988,세우다,seuda,세우다,to stand up (something),verb,R4,N
+989,멋있다,meositda,멋있다,cool,adjective,R4,N
+990,박사,baksa,박사,doctor (PhD),noun,R4,Y
+991,영상,yeongsang,영상,video,noun,R4,Y
+992,현재,hyeonjae,현재,present,noun,R4,Y
+993,치,chi,치,(suffix),grammar,R4,N
+994,후회,huhoe,후회,regret,noun,R4,Y
+995,죄송하다,joesonghada,죄송하다,sorry,adjective,R4,N
+996,어울리다,eoullida,어울리다,to suit,verb,R4,N
+997,잉,ing,잉,(fragment),interjection,R4,N
+998,자주,jaju,자주,often,adverb,R4,N
+999,대학,daehak,대학,university,noun,R4,Y
+1000,그러게,geureoge,그러게,"I know, right",interjection,R4,N
+1001,가게,gage,가게,store,noun,R4,Y
+1002,넘어가다,neomeogada,넘어가다,go over,verb,R4,N
+1003,피곤,pigon,피곤,tired,noun,R4,Y
+1004,따다,ttada,따다,pick,verb,R4,N
+1005,반드시,bandeusi,반드시,surely,adverb,R4,N
+1006,계획,gyehoek,계획,plan,noun,R4,Y
+1007,판,pan,판,board; round,noun,R4,N
+1008,심하다,simhada,심하다,terrible,adjective,R4,N
+1009,저런,jeoreon,저런,that kind of,determiner,R4,N
+1010,경,gyeong,경,(name),noun,R4,N
+1011,궁금하다,gunggeumhada,궁금하다,curious,adjective,R4,N
+1012,식사,siksa,식사,meal,noun,R4,Y
+1013,상무,sangmu,상무,managing director,noun,R4,Y
+1014,끄다,kkeuda,끄다,turn off,verb,R4,N
+1015,의미,uimi,의미,meaning,noun,R4,Y
+1016,저것,jeogeot,저것,that thing,pronoun,R4,N
+1017,모,mo,모,to gather,determiner,R4,N
+1018,꽤,kkwae,꽤,quite,adverb,R4,N
+1019,가르치다,gareuchida,가르치다,teach,verb,R4,N
+1020,자는,janeun,자는,(ending),grammar,R4,N
+1021,눈치,nunchi,눈치,social awareness,noun,R4,Y
+1022,뵙다,boepda,뵙다,meet (humble),verb,R4,N
+1023,더럽다,deoreopda,더럽다,dirty,adjective,R4,N
+1024,은데요,eundeyo,은데요,(ending),grammar,R4,N
+1025,자살,jasal,자살,suicide,noun,R4,Y
+1026,금,geum,금,gold,noun,R4,Y
+1027,착하다,chakada,착하다,"kind, good",adjective,R4,N
+1028,낳다,nata,낳다,to give birth,verb,R4,N
+1029,통,tong,통,bucket; whole,noun,R4,Y
+1030,이용,iyong,이용,use,noun,R4,Y
+1031,치료,chiryo,치료,treatment,noun,R4,Y
+1032,미리,miri,미리,in advance,adverb,R4,N
+1033,분위기,bunwigi,분위기,atmosphere,noun,R4,Y
+1034,출발,chulbal,출발,departure,noun,R4,Y
+1035,내려가다,naeryeogada,내려가다,go down,verb,R4,N
+1036,가만히,gamanhi,가만히,"still, quietly",adverb,R4,N
+1037,옮기다,omgida,옮기다,move,verb,R4,N
+1038,그룹,geurup,그룹,group,noun,R4,Y
+1039,본인,bonin,본인,oneself,noun,R4,Y
+1040,맡기다,matgida,맡기다,entrust,verb,R4,N
+1041,라고요,ragoyo,라고요,(ending),grammar,R4,N
+1042,자료,jaryo,자료,documents,noun,R4,Y
+1043,키,ki,키,(one's) height,noun,R4,Y
+1044,질문,jilmun,질문,question,noun,R4,Y
+1045,시끄럽다,sikkeureopda,시끄럽다,noisy,adjective,R4,N
+1046,내려오다,naeryeooda,내려오다,come down,verb,R4,N
+1047,이따,itta,이따,later,adverb,R4,N
+1048,파이팅,paiting,파이팅,you can do it,interjection,R4,N
+1049,출근,chulgeun,출근,going to work,noun,R4,Y
+1050,숨다,sumda,숨다,to hide,verb,R4,N
+1051,도련님,doryeonnim,도련님,young master,noun,R4,Y
+1052,밑,mit,밑,bottom,noun,R4,Y
+1053,달리다,dallida,달리다,to run,verb,R4,N
+1054,답,dap,답,answer,noun,R4,Y
+1055,려는,ryeoneun,려는,(ending),grammar,R4,N
+1056,경우,gyeongu,경우,case,noun,R4,N
+1057,느라,neura,느라,(ending),grammar,R4,N
+1058,관리,gwalli,관리,management,noun,R4,Y
+1059,안전,anjeon,안전,safety,noun,R4,Y
+1060,화장실,hwajangsil,화장실,toilet,noun,R4,Y
+1061,소식,sosik,소식,news,noun,R4,Y
+1062,아우,au,아우,ugh,noun,R4,Y
+1063,가슴,gaseum,가슴,chest,noun,R4,Y
+1064,운동,undong,운동,"exercise, movement",noun,R4,Y
+1065,올라오다,ollaoda,올라오다,come up,verb,R4,N
+1066,순,sun,순,pure; order,noun,R4,Y
+1067,사기,sagi,사기,fraud,noun,R4,Y
+1068,이씨,issi,이씨,damn,interjection,R4,N
+1069,상대,sangdae,상대,"partner, opponent",noun,R4,Y
+1070,근처,geuncheo,근처,vicinity,noun,R4,Y
+1071,바,ba,바,sea,noun,R4,N
+1072,요새,yosae,요새,these days,noun,R4,Y
+1073,불쌍,bulssang,불쌍,(suffix),grammar,R4,N
+1074,기대,gidae,기대,expectation,noun,R4,Y
+1075,복수,boksu,복수,revenge,noun,R4,Y
+1076,빌리다,billida,빌리다,borrow,verb,R4,N
+1077,허다,heoda,허다,(suffix),grammar,R4,N
+1078,퇴근,toegeun,퇴근,leaving work,noun,R4,Y
+1079,먹이다,meogida,먹이다,feed,verb,R4,N
+1080,사업,saeop,사업,business,noun,R4,Y
+1081,대군,daegun,대군,grand prince,noun,R4,Y
+1082,성공,seonggong,성공,success,noun,R4,Y
+1083,정하다,jeonghada,정하다,to decide,verb,R4,N
+1084,뒤지다,dwijida,뒤지다,search; die (rude),verb,R4,N
+1085,사망,samang,사망,death,noun,R4,Y
+1086,ᆫ다니까,ᆫdanikka,ᆫ다니까,(ending),grammar,R4,N
+1087,끼다,kkida,끼다,to wear (ring); to join in,verb,R4,N
+1088,배고프다,baegopeuda,배고프다,hungry,adjective,R4,N
+1089,뉴스,nyuseu,뉴스,news,noun,R4,Y
+1090,특별,teukbyeol,특별,special,noun,R4,Y
+1091,그만두다,geumanduda,그만두다,quit,verb,R4,N
+1092,꺼내다,kkeonaeda,꺼내다,take out,verb,R4,N
+1093,계약,gyeyak,계약,contract,noun,R4,Y
+1094,운전,unjeon,운전,driving,noun,R4,Y
+1095,반장,banjang,반장,class president,noun,R4,Y
+1096,고기,gogi,고기,meat,noun,R4,Y
+1097,어머님,eomeonim,어머님,mother (honorific),noun,R4,N
+1098,도망가다,domanggada,도망가다,run away,verb,R4,N
+1099,억울,eogul,억울,(suffix),grammar,R4,N
+1100,놓치다,notchida,놓치다,miss,verb,R4,N
+1101,건강,geongang,건강,health,noun,R4,Y
+1102,끌다,kkeulda,끌다,pull,verb,R4,N
+1103,목소리,moksori,목소리,voice,noun,R4,Y
+1104,개인,gaein,개인,individual,noun,R4,Y
+1105,어쨌든,eojjaetdeun,어쨌든,anyway,adverb,R4,N
+1106,고르다,goreuda,고르다,choose,verb,R4,N
+1107,세자,seja,세자,crown prince,noun,R4,Y
+1108,불다,bulda,불다,to blow,verb,R4,N
+1109,어른,eoreun,어른,adult,noun,R4,Y
+1110,저번,jeobeon,저번,last time,noun,R4,N
+1111,모이다,moida,모이다,gather,verb,R4,N
+1112,을게,eulge,을게,(ending),grammar,R4,N
+1113,멋지다,meotjida,멋지다,"cool, stylish",adjective,R4,N
+1114,종,jong,종,kind; bell,noun,R4,N
+1115,지우다,jiuda,지우다,erase,verb,R4,N
+1116,군요,gunyo,군요,(ending),grammar,R4,N
+1117,고민,gomin,고민,to worry,noun,R4,Y
+1118,집안,jiban,집안,family,noun,R4,Y
+1119,음식,eumsik,음식,food,noun,R4,Y
+1120,바다,bada,바다,sea,noun,R4,Y
+1121,고객,gogaek,고객,customer,noun,R4,Y
+1122,떼다,tteda,떼다,to let go,verb,R4,N
+1123,로서,roseo,로서,(particle),grammar,R4,N
+1124,책임지다,chaegimjida,책임지다,take responsibility,verb,R4,N
+1125,웬일,wenil,웬일,what brings you,noun,R4,N
+1126,똑바로,ttokbaro,똑바로,straight,adverb,R4,N
+1127,문자,munja,문자,text message; letter,noun,R4,Y
+1128,헛,heot,헛,(suffix),grammar,R4,N
+1129,일부러,ilbureo,일부러,on purpose,adverb,R4,N
+1130,부리다,burida,부리다,act; employ,verb,R4,N
+1131,데려가다,deryeogada,데려가다,take (someone),verb,R4,N
+1132,벌,beol,벌,to earn,noun,R4,Y
+1133,짐,jim,짐,luggage,noun,R4,Y
+1134,본부장,bonbujang,본부장,division head,noun,R4,Y
+1135,도망치다,domangchida,도망치다,flee,verb,R4,N
+1136,운명,unmyeong,운명,fate,noun,R4,Y
+1137,젊다,jeomda,젊다,young,adjective,R4,N
+1138,감히,gamhi,감히,how dare,adverb,R4,N
+1139,숨,sum,숨,breath,noun,R4,Y
+1140,미래,mirae,미래,future,noun,R4,Y
+1141,비싸다,bissada,비싸다,expensive,adjective,R4,N
+1142,위치,wichi,위치,location,noun,R4,Y
+1143,꾸다,kkuda,꾸다,dream,verb,R4,N
+1144,입장,ipjang,입장,position,noun,R4,Y
+1145,지나가다,jinagada,지나가다,pass by,verb,R4,N
+1146,판사,pansa,판사,judge,noun,R4,Y
+1147,이모,imo,이모,aunt; ma'am (restaurant),noun,R4,Y
+1148,벗다,beotda,벗다,to take off,verb,R4,N
+1149,따위,ttawi,따위,such,noun,R4,N
+1150,책임,chaegim,책임,responsibility,noun,R4,Y
+1151,알바,alba,알바,part-time job,noun,R4,N
+1152,국장,gukjang,국장,director,noun,R4,Y
+1153,진실,jinsil,진실,truth,noun,R4,N
+1154,신부,sinbu,신부,bride; priest,noun,R4,Y
+1155,비서,biseo,비서,secretary,noun,R4,Y
+1156,차라리,charari,차라리,rather,adverb,R4,N
+1157,훨씬,hwolssin,훨씬,much more,adverb,R4,N
+1158,살해,salhae,살해,murder,noun,R4,Y
+1159,당,dang,당,party; per,noun,R4,Y
+1160,회,hoe,회,"time, round",noun,R4,N
+1161,가끔,gakkeum,가끔,occasionally,adverb,R4,N
+1162,값,gap,값,"value, price",noun,R4,Y
+1163,연습,yeonseup,연습,practice,noun,R4,Y
+1164,재판,jaepan,재판,trial,noun,R4,Y
+1165,데이트,deiteu,데이트,date,noun,R4,Y
+1166,모으다,moeuda,모으다,collect,verb,R4,N
+1167,가방,gabang,가방,bag,noun,R4,Y
+1168,짜증,jjajeung,짜증,annoyance,noun,R4,Y
+1169,대박,daebak,대박,awesome,noun,R4,Y
+1170,던지다,deonjida,던지다,throw,verb,R4,N
+1171,욕,yok,욕,swear word,noun,R4,N
+1172,다고요,dagoyo,다고요,(ending),grammar,R4,N
+1173,틀리다,teullida,틀리다,be wrong,verb,R4,N
+1174,귀,gwi,귀,ear,noun,R4,Y
+1175,어우,eou,어우,ugh,interjection,R4,N
+1176,굳이,guji,굳이,needlessly,adverb,R4,N
+1177,하긴,hagin,하긴,"well, true",adverb,R4,N
+1178,검찰,geomchal,검찰,prosecution,noun,R4,Y
+1179,그저,geujeo,그저,just,adverb,R4,N
+1180,능력,neungnyeok,능력,ability,noun,R4,Y
+1181,글,geul,글,"writing, text",noun,R4,Y
+1182,노력,noryeok,노력,effort,noun,R4,Y
+1183,이후,ihu,이후,afterwards,noun,R4,Y
+1184,협박,hyeopbak,협박,threat,noun,R4,Y
+1185,자르다,jareuda,자르다,cut,verb,R4,N
+1186,짜다,jjada,짜다,salty,verb,R4,N
+1187,마을,maeul,마을,town,noun,R4,Y
+1188,생활,saenghwal,생활,daily life,noun,R4,Y
+1189,옥,ok,옥,(name),noun,R4,N
+1190,열리다,yeollida,열리다,open,verb,R4,N
+1191,표정,pyojeong,표정,facial expression,noun,R4,Y
+1192,사정,sajeong,사정,circumstances,noun,R4,Y
+1193,닫다,datda,닫다,to close,verb,R4,N
+1194,이대로,idaero,이대로,like this,adverb,R4,N
+1195,오르다,oreuda,오르다,go up,verb,R4,N
+1196,우선,useon,우선,first of all,adverb,R4,N
+1197,망하다,manghada,망하다,be ruined,verb,R4,N
+1198,놔두다,nwaduda,놔두다,leave alone,verb,R4,N
+1199,는디,neundi,는디,(ending),grammar,R4,N
+1200,고치다,gochida,고치다,fix,verb,R4,N
+1201,완전히,wanjeonhi,완전히,completely,adverb,R4,N
+1202,긴장,ginjang,긴장,tension,noun,R4,Y
+1203,드라마,deurama,드라마,drama,noun,R4,Y
+1204,답니다,damnida,답니다,(ending),grammar,R4,N
+1205,눈물,nunmul,눈물,tears,noun,R4,Y
+1206,카드,kadeu,카드,card,noun,R4,Y
+1207,피우다,piuda,피우다,smoke,verb,R4,N
+1208,다섯,daseot,다섯,five,numeral,R4,N
+1209,불안,buran,불안,anxiety,noun,R4,Y
+1210,심,sim,심,(suffix),grammar,R4,N
+1211,안녕히,annyeonghi,안녕히,goodbye (polite),adverb,R4,N
+1212,막히다,makida,막히다,be blocked,verb,R4,N
+1213,여행,yeohaeng,여행,journey,noun,R4,Y
+1214,새롭다,saeropda,새롭다,new,adjective,R4,N
+1215,마무리,mamuri,마무리,finishing,noun,R4,Y
+1216,만지다,manjida,만지다,touch,verb,R4,N
+1217,대단,daedan,대단,(suffix),grammar,R4,N
+1218,황,hwang,황,(name),noun,R4,N
+1219,라며,ramyeo,라며,(ending),grammar,R4,N
+1220,나서다,naseoda,나서다,step forward,verb,R4,N
+1221,새로,saero,새로,newly,adverb,R4,N
+1222,청,cheong,청,blue; office,noun,R4,Y
+1223,파다,pada,파다,to dig,verb,R4,N
+1224,아름답다,areumdapda,아름답다,beautiful,adjective,R4,N
+1225,대감,daegam,대감,minister (historical),noun,R4,Y
+1226,말리다,mallida,말리다,stop; dry,verb,R4,N
+1227,속이다,sogida,속이다,deceive,verb,R4,N
+1228,을게요,eulgeyo,을게요,(ending),grammar,R4,N
+1229,함부로,hamburo,함부로,carelessly,adverb,R4,N
+1230,뜨겁다,tteugeopda,뜨겁다,hot,adjective,R4,N
+1231,스타일,seutail,스타일,style,noun,R4,Y
+1232,씻다,ssitda,씻다,wash,verb,R4,N
+1233,눕다,nupda,눕다,lie down,verb,R4,N
+1234,꾼,kkun,꾼,(suffix),grammar,R4,N
+1235,쭉,jjuk,쭉,straight,adverb,R4,N
+1236,싸움,ssaum,싸움,fight,noun,R4,Y
+1237,그동안,geudongan,그동안,meanwhile,noun,R4,Y
+1238,빵,ppang,빵,bread,noun,R4,Y
+1239,어르신,eoreusin,어르신,elder,noun,R4,Y
+1240,시험,siheom,시험,to try out,noun,R4,Y
+1241,촬영,chwaryeong,촬영,filming,noun,R4,Y
+1242,내용,naeyong,내용,content,noun,R4,Y
+1243,더라도,deorado,더라도,(ending),grammar,R4,N
+1244,밀다,milda,밀다,to push,verb,R4,N
+1245,여러,yeoreo,여러,several,determiner,R4,N
+1246,곁,gyeot,곁,side,noun,R4,Y
+1247,존재,jonjae,존재,existence,noun,R4,Y
+1248,멀쩡,meoljjeong,멀쩡,(suffix),grammar,R4,N
+1249,회의,hoeui,회의,meeting,noun,R4,Y
+1250,우와,uwa,우와,wow,interjection,R4,N
+1251,고백,gobaek,고백,confession,noun,R4,Y
+1252,아씨,assi,아씨,damn,noun,R4,N
+1253,새벽,saebyeok,새벽,dawn,noun,R4,Y
+1254,태우다,taeuda,태우다,give a ride; burn,verb,R4,N
+1255,표,pyo,표,ticket; table,noun,R4,Y
+1256,스스로,seuseuro,스스로,by oneself,adverb,R4,N
+1257,행동,haengdong,행동,action,noun,R4,Y
+1258,훔치다,humchida,훔치다,steal,verb,R4,N
+1259,경찰서,gyeongchalseo,경찰서,police station,noun,R4,Y
+1260,작업,jageop,작업,work,noun,R4,Y
+1261,고통,gotong,고통,pain,noun,R4,Y
+1262,댁,daek,댁,house (honorific),noun,R4,N
+1263,소개,sogae,소개,introduction,noun,R4,Y
+1264,허락,heorak,허락,permission,noun,R4,Y
+1265,국민,gungmin,국민,citizens,noun,R4,Y
+1266,겨우,gyeou,겨우,barely,adverb,R4,N
+1267,지원,jiwon,지원,support,noun,R4,Y
+1268,ᆯ로,ᆯro,ᆯ로,(particle),grammar,R4,N
+1269,폐하,pyeha,폐하,Your Majesty,noun,R4,Y
+1270,들키다,deulkida,들키다,get caught,verb,R4,N
+1271,무시,musi,무시,ignoring,noun,R4,Y
+1272,코,ko,코,nose,noun,R4,Y
+1273,장사,jangsa,장사,business,noun,R4,Y
+1274,연,yeon,연,kite; year,determiner,R4,N
+1275,찾아가다,chajagada,찾아가다,go to see,verb,R4,N
+1276,아예,aye,아예,altogether,adverb,R4,N
+1277,멀리,meolli,멀리,far away,adverb,R4,N
+1278,안다,anda,안다,to hug,verb,R4,N
+1279,사내,sanae,사내,man; in-house,noun,R4,Y
+1280,주변,jubyeon,주변,surroundings,noun,R4,Y
+1281,절대로,jeoldaero,절대로,never,adverb,R4,N
+1282,여인,yeoin,여인,woman,noun,R4,Y
+1283,어딨다,eoditda,어딨다,where is,adjective,R4,N
+1284,비다,bida,비다,to become empty,adjective,R4,N
+1285,쓰이다,sseuida,쓰이다,be used,verb,R4,N
+1286,변,byeon,변,(name),noun,R4,N
+1287,지켜보다,jikyeoboda,지켜보다,watch over,verb,R4,N
+1288,후보,hubo,후보,candidate,noun,R4,Y
+1289,싫어하다,sileohada,싫어하다,dislike,verb,R4,N
+1290,죽음,jugeum,죽음,death,noun,R4,Y
+1291,그럼요,geureomyo,그럼요,of course,interjection,R4,N
+1292,저쪽,jeojjok,저쪽,over there,pronoun,R4,N
+1293,대한민국,daehanminguk,대한민국,Republic of Korea,noun,R4,N
+1294,슬프다,seulpeuda,슬프다,sad,adjective,R4,N
+1295,관,gwan,관,coffin; (name),noun,R4,N
+1296,녀석,nyeoseok,녀석,guy,noun,R4,N
+1297,공주,gongju,공주,princess,noun,R4,Y
+1298,최선,choeseon,최선,the best,noun,R4,Y
+1299,들이다,deurida,들이다,let in,verb,R4,N
+1300,반대,bandae,반대,reverse,noun,R4,Y
+1301,건드리다,geondeurida,건드리다,"touch, mess with",verb,R4,N
+1302,쓰레기,sseuregi,쓰레기,trash,noun,R4,Y
+1303,십,sip,십,ten,numeral,R4,N
+1304,궁,gung,궁,palace,noun,R4,Y
+1305,이만,iman,이만,this much,adverb,R4,N
+1306,래요,raeyo,래요,(ending),grammar,R4,N
+1307,키스,kiseu,키스,kiss,noun,R4,Y
+1308,수현,suhyeon,수현,(name),noun,R4,N
+1309,깊다,gipda,깊다,deep,adjective,R4,N
+1310,지난번,jinanbeon,지난번,last time,noun,R4,N
+1311,부인,buin,부인,wife (someone's),noun,R4,Y
+1312,파악,paak,파악,grasp,noun,R4,Y
+1313,워낙,wonak,워낙,so very,adverb,R4,N
+1314,점심,jeomsim,점심,lunch,noun,R4,Y
+1315,아깝다,akkapda,아깝다,a waste,adjective,R4,N
+1316,당시,dangsi,당시,at that time,noun,R4,N
+1317,진짜로,jinjjaro,진짜로,really,adverb,R4,N
+1318,재수,jaesu,재수,luck,noun,R4,Y
+1319,쓰러지다,sseureojida,쓰러지다,collapse,verb,R4,N
+1320,승,seung,승,win,noun,R4,Y
+1321,당분간,dangbungan,당분간,for a while,adverb,R4,N
+1322,듯이,deusi,듯이,(ending),grammar,R4,N
+1323,떨다,tteolda,떨다,tremble,verb,R4,N
+1324,채우다,chaeuda,채우다,fill,verb,R4,N
+1325,작전,jakjeon,작전,strategy,noun,R4,Y
+1326,부분,bubun,부분,part,noun,R4,Y
+1327,티,ti,티,T-shirt; hint,noun,R4,Y
+1328,택시,taeksi,택시,taxi,noun,R4,Y
+1329,시장,sijang,시장,market; mayor,noun,R4,Y
+1330,웬,wen,웬,what kind of,determiner,R4,N
+1331,적다,jeokda,적다,to write down; few,adjective,R4,N
+1332,바닥,badak,바닥,bottom,noun,R4,Y
+1333,동무,dongmu,동무,comrade,noun,R4,Y
+1334,증인,jeungin,증인,witness,noun,R4,Y
+1335,풀리다,pullida,풀리다,be solved,verb,R4,N
+1336,작품,jakpum,작품,work (art),noun,R4,Y
 1337,수업,sueop,수업,class,noun,R4,Y
-1338,시청,sicheong,시청,city hall; viewing,noun,R4,Y
-1339,신문,sinmun,신문,newspaper,noun,R4,Y
-1340,실제,silje,실제,actual,noun,R4,N
-1341,아닙니다,animnida,아닙니다,,grammar,R4,N
-1342,암,am,암,cancer; rock,noun,R4,N
-1343,어린,eorin,어린,,grammar,R4,N
-1344,인도,indo,인도,India; sidewalk,noun,R4,N
-1345,인물,inmul,인물,"figure, person",noun,R4,Y
-1346,장난,jangnan,장난,prank,noun,R4,Y
-1347,제한,jehan,제한,limit,noun,R4,Y
-1348,크기,keugi,크기,size,noun,R4,Y
-1349,with,with,with,,foreign,R4,N
-1350,규정,gyujeong,규정,regulation,noun,R4,Y
-1351,낼,nael,낼,(will) pay,adverb,R4,N
-1352,너희,neohui,너희,you (pl.),pronoun,R4,N
-1353,돌아가,doraga,돌아가,to go back,grammar,R4,N
-1354,방문,bangmun,방문,visit,noun,R4,Y
-1355,봄,bom,봄,spring,grammar,R4,N
-1356,북한,bukan,북한,North Korea,noun,R4,N
-1357,어쩌,eojjeo,어쩌,,grammar,R4,N
-1358,언론,eollon,언론,the press,noun,R4,Y
-1359,영업,yeongeop,영업,sales,noun,R4,Y
-1360,오픈,opeun,오픈,open,noun,R4,Y
-1361,운,un,운,luck,noun,R4,N
-1362,으면서,eumyeonseo,으면서,,grammar,R4,N
-1363,이걸,igeol,이걸,,grammar,R4,N
-1364,주년,junyeon,주년,anniversary,noun,R4,Y
-1365,최종,choejong,최종,final,noun,R4,N
-1366,카지노,kajino,카지노,casino,noun,R4,N
-1367,키스,kiseu,키스,kiss,noun,R4,Y
-1368,토,to,토,Saturday; soil,noun,R4,N
-1369,투,tu,투,,grammar,R4,N
-1370,파일,pail,파일,file,noun,R4,Y
-1371,파티,pati,파티,party,noun,R4,N
-1372,구역,guyeok,구역,zone,noun,R4,Y
-1373,그걸,geugeol,그걸,,grammar,R4,N
-1374,금,geum,금,,grammar,R4,N
-1375,다행,dahaeng,다행,fortunate,noun,R4,Y
-1376,도입,doip,도입,introduction,noun,R4,Y
-1377,무시,musi,무시,ignoring,noun,R4,Y
-1378,미니,mini,미니,mini,noun,R4,Y
-1379,바뀌,bakkwi,바뀌,be changed,verb,R4,N
-1380,불러,bulleo,불러,,grammar,R4,N
-1381,비판,bipan,비판,criticism,noun,R4,N
-1382,셋,set,셋,three,numeral,R4,N
-1383,아프,apeu,아프,hurt,other,R4,N
-1384,열심히,yeolsimhi,열심히,with all one's might,adverb,R4,N
-1385,올해,olhae,올해,this year,noun,R4,N
-1386,완성,wanseong,완성,completion,noun,R4,Y
-1387,인상,insang,인상,impression; raise,noun,R4,Y
-1388,인터뷰,inteobyu,인터뷰,interview,noun,R4,Y
-1389,평생,pyeongsaeng,평생,lifetime,noun,R4,Y
-1390,할까,halkka,할까,,grammar,R4,N
-1391,거든요,geodeunyo,거든요,,grammar,R4,N
-1392,건지,geonji,건지,whether,noun,R4,N
-1393,검색,geomsaek,검색,search,noun,R4,Y
-1394,겨울,gyeoul,겨울,winter,noun,R4,Y
-1395,고양이,goyangi,고양이,cat,noun,R4,Y
-1396,군대,gundae,군대,army,noun,R4,Y
-1397,꽤,kkwae,꽤,quite,adverb,R4,N
-1398,널,neol,널,,grammar,R4,N
-1399,누군가,nugunga,누군가,,grammar,R4,N
-1400,데이트,deiteu,데이트,date,noun,R4,Y
-1401,몰,mol,몰,mall,noun,R4,N
-1402,밑,mit,밑,bottom,noun,R4,N
-1403,블로그,beullogeu,블로그,blog,noun,R4,Y
-1404,석,seok,석,seat (counter),noun,R4,N
-1405,숲,sup,숲,forest,noun,R4,N
-1406,승리,seungni,승리,victory,noun,R4,Y
-1407,실제로,siljero,실제로,actually,adverb,R4,N
-1408,어린이,eorini,어린이,child(ren),noun,R4,Y
-1409,위원,wiwon,위원,member (committee),noun,R4,Y
-1410,율,yul,율,rate,noun,R4,N
-1411,이론,iron,이론,theory,noun,R4,N
-1412,잔,jan,잔,"glass, cup",noun,R4,N
-1413,젊,jeom,젊,young,adjective,R4,N
-1414,조정,jojeong,조정,adjustment,noun,R4,Y
-1415,주의,juui,주의,caution; -ism,noun,R4,Y
-1416,직원,jigwon,직원,staff member,noun,R4,Y
-1417,차트,chateu,차트,chart,noun,R4,Y
-1418,출발,chulbal,출발,departure,noun,R4,Y
-1419,츠,cheu,츠,,grammar,R4,N
-1420,카페,kape,카페,cafe,noun,R4,Y
-1421,투어,tueo,투어,tour,noun,R4,Y
-1422,형사,hyeongsa,형사,detective,noun,R4,Y
-1423,가정,gajeong,가정,"family, home",noun,R4,Y
-1424,걸로,geollo,걸로,,grammar,R4,N
-1425,동일,dongil,동일,identical,noun,R4,Y
-1426,디지털,dijiteol,디지털,digital,noun,R4,Y
-1427,라이브,raibeu,라이브,live,noun,R4,Y
-1428,래,rae,래,,grammar,R4,N
-1429,부정,bujeong,부정,negative; injustice,noun,R4,Y
-1430,빌,bil,빌,,grammar,R4,N
-1431,빠,ppa,빠,,grammar,R4,N
-1432,심각,simgak,심각,,grammar,R4,N
-1433,쓴,sseun,쓴,,grammar,R4,N
-1434,업계,eopgye,업계,industry,noun,R4,N
-1435,업무,eommu,업무,"work, duty",noun,R4,N
-1436,엔진,enjin,엔진,engine,noun,R4,Y
-1437,원인,wonin,원인,cause,noun,R4,Y
-1438,재미있,jaemiit,재미있,interesting,adjective,R4,N
-1439,종교,jonggyo,종교,religion,noun,R4,Y
-1440,주일,juil,주일,week; Sunday,noun,R4,Y
-1441,증가,jeungga,증가,increase,noun,R4,N
-1442,지키,jiki,지키,to protect,verb,R4,N
-1443,태양,taeyang,태양,sun,noun,R4,Y
-1444,할게요,halgeyo,할게요,,grammar,R4,N
-1445,항,hang,항,,grammar,R4,N
-1446,회원,hoewon,회원,member,noun,R4,Y
-1447,값,gap,값,"value, price",noun,R4,N
-1448,거부,geobu,거부,refusal,noun,R4,Y
-1449,걷,geot,걷,to walk,other,R4,N
-1450,경기도,gyeonggido,경기도,Gyeonggi-do,noun,R4,N
-1451,계시,gyesi,계시,to be (honorific),noun,R4,N
-1452,공장,gongjang,공장,factory,noun,R4,Y
-1453,구글,gugeul,구글,(company),noun,R4,N
-1454,귀,gwi,귀,ear,noun,R4,N
-1455,나머지,nameoji,나머지,the rest,noun,R4,Y
-1456,네이버,neibeo,네이버,(company),noun,R4,N
-1457,당연,dangyeon,당연,"natural, of course",noun,R4,N
-1458,덕분,deokbun,덕분,thanks to,noun,R4,N
-1459,드릴,deuril,드릴,,grammar,R4,N
-1460,들어오,deureoo,들어오,come in,verb,R4,N
-1461,매력,maeryeok,매력,charm,noun,R4,Y
-1462,성인,seongin,성인,adult,noun,R4,Y
-1463,소년,sonyeon,소년,boy,noun,R4,Y
-1464,수원,suwon,수원,Suwon,noun,R4,N
-1465,슈,syu,슈,,grammar,R4,N
-1466,승,seung,승,win,noun,R4,N
-1467,식사,siksa,식사,meal,noun,R4,Y
-1468,썼,sseot,썼,,grammar,R4,N
-1469,업,eop,업,,grammar,R4,N
-1470,예상,yesang,예상,expectation,noun,R4,Y
-1471,올리,olli,올리,"raise, post",verb,R4,N
-1472,외부,oebu,외부,outside,noun,R4,Y
-1473,이끌,ikkeul,이끌,,grammar,R4,N
-1474,정확,jeonghwak,정확,accurate,noun,R4,Y
-1475,져,jyeo,져,,grammar,R4,N
-1476,채널,chaeneol,채널,channel,noun,R4,Y
-1477,표시,pyosi,표시,indication,noun,R4,Y
-1478,해석,haeseok,해석,interpretation,noun,R4,Y
-1479,핵,haek,핵,nuclear; core,noun,R4,N
-1480,협력,hyeomnyeok,협력,cooperation,noun,R4,Y
-1481,형성,hyeongseong,형성,formation,noun,R4,Y
-1482,훨씬,hwolssin,훨씬,much more,adverb,R4,N
-1483,강화,ganghwa,강화,strengthening,noun,R4,Y
-1484,게요,geyo,게요,,grammar,R4,N
-1485,권리,gwolli,권리,right,noun,R4,N
-1486,규칙,gyuchik,규칙,rule,noun,R4,Y
-1487,근처,geuncheo,근처,vicinity,noun,R4,Y
-1488,끼,kki,끼,meal (counter); talent,noun,R4,N
-1489,냄새,naemsae,냄새,smell,noun,R4,Y
-1490,대사,daesa,대사,line (script); ambassador,noun,R4,Y
-1491,독립,dongnip,독립,independence,noun,R4,Y
-1492,동의,dongui,동의,agreement,noun,R4,Y
-1493,된다고,doendago,된다고,,grammar,R4,N
-1494,떼,tte,떼,to let go,grammar,R4,N
-1495,미리,miri,미리,in advance,adverb,R4,N
-1496,번역,beonyeok,번역,translation,noun,R4,Y
-1497,벤,ben,벤,,grammar,R4,N
-1498,새로,saero,새로,newly,adverb,R4,N
-1499,신고,singo,신고,report (to police),noun,R4,N
-1500,요소,yoso,요소,element,noun,R4,Y
-1501,유리,yuri,유리,glass; advantageous,noun,R4,Y
-1502,을까요,eulkkayo,을까요,,grammar,R4,N
-1503,작전,jakjeon,작전,strategy,noun,R4,Y
-1504,제주,jeju,제주,Jeju,noun,R4,N
-1505,죄,joe,죄,sin,noun,R4,N
-1506,주말,jumal,주말,weekend,noun,R4,Y
-1507,주인공,juingong,주인공,main character,noun,R4,N
-1508,차별,chabyeol,차별,discrimination,noun,R4,Y
-1509,창,chang,창,window,noun,R4,N
-1510,탈,tal,탈,mask,noun,R4,N
-1511,특정,teukjeong,특정,specific,noun,R4,N
-1512,파괴,pagoe,파괴,destruction,noun,R4,Y
-1513,품,pum,품,,grammar,R4,N
-1514,할지,halji,할지,,grammar,R4,N
-1515,la,la,la,,foreign,R4,N
-1516,or,or,or,,foreign,R4,N
-1517,교통,gyotong,교통,traffic,noun,R4,Y
-1518,근무,geunmu,근무,work (duty),noun,R4,N
-1519,논란,nollan,논란,controversy,noun,R4,Y
-1520,다만,daman,다만,however,adverb,R4,N
-1521,더욱,deouk,더욱,even more,adverb,R4,N
-1522,던데,deonde,던데,,grammar,R4,N
-1523,등록,deungnok,등록,registration,noun,R4,Y
-1524,똑같,ttokgat,똑같,the same,adjective,R4,N
-1525,밀,mil,밀,wheat; push,noun,R4,N
-1526,법률,beomnyul,법률,law,noun,R4,N
-1527,부문,bumun,부문,sector,noun,R4,Y
-1528,샵,syap,샵,shop,noun,R4,N
-1529,성적,seongjeok,성적,grades; sexual,noun,R4,Y
-1530,세대,sedae,세대,generation,noun,R4,Y
-1531,세트,seteu,세트,set,noun,R4,Y
-1532,솔,sol,솔,,grammar,R4,N
-1533,스타일,seutail,스타일,style,noun,R4,Y
-1534,시킬,sikil,시킬,,grammar,R4,N
-1535,아하,aha,아하,aha,interjection,R4,N
-1536,의한,uihan,의한,,grammar,R4,N
-1537,인식,insik,인식,recognition,noun,R4,Y
-1538,잇,it,잇,connect,noun,R4,N
-1539,잠깐,jamkkan,잠깐,a moment,adverb,R4,N
-1540,점점,jeomjeom,점점,rapidly,adverb,R4,N
-1541,정권,jeonggwon,정권,regime,noun,R4,Y
-1542,조차,jocha,조차,,grammar,R4,N
-1543,줘서,jwoseo,줘서,,grammar,R4,N
-1544,평균,pyeonggyun,평균,average,noun,R4,Y
-1545,혁명,hyeongmyeong,혁명,revolution,noun,R4,Y
-1546,현상,hyeonsang,현상,phenomenon,noun,R4,Y
-1547,형제,hyeongje,형제,siblings,noun,R4,Y
-1548,홍콩,hongkong,홍콩,Hong Kong,noun,R4,N
-1549,j,j,j,,foreign,R4,N
-1550,강력,gangnyeok,강력,powerful,noun,R4,Y
-1551,나쁜,nappeun,나쁜,,grammar,R4,N
-1552,달성,dalseong,달성,achievement,noun,R4,Y
-1553,대기,daegi,대기,waiting; atmosphere,noun,R4,Y
-1554,대답,daedap,대답,to answer,noun,R4,Y
-1555,동영상,dongyeongsang,동영상,video,noun,R4,Y
-1556,떨어지,tteoreoji,떨어지,to fall,verb,R4,N
-1557,불편,bulpyeon,불편,inconvenience,noun,R4,Y
-1558,상처,sangcheo,상처,wound,noun,R4,Y
-1559,선언,seoneon,선언,declaration,noun,R4,Y
-1560,세기,segi,세기,century,noun,R4,Y
-1561,쏘,sso,쏘,to shoot,verb,R4,N
-1562,아파트,apateu,아파트,apartment,noun,R4,Y
-1563,어렵,eoryeop,어렵,difficult,other,R4,N
-1564,연습,yeonseup,연습,practice,noun,R4,Y
-1565,완료,wallyo,완료,completion,noun,R4,Y
-1566,외국인,oegugin,외국인,foreigner,noun,R4,N
-1567,을지,eulji,을지,whether,noun,R4,N
-1568,의회,uihoe,의회,parliament,noun,R4,Y
-1569,자격,jagyeok,자격,qualification,noun,R4,Y
-1570,장비,jangbi,장비,equipment,noun,R4,Y
-1571,제목,jemok,제목,title,noun,R4,Y
-1572,즐기,jeulgi,즐기,to enjoy,verb,R4,N
-1573,청소년,cheongsonyeon,청소년,teenager,noun,R4,Y
-1574,초기,chogi,초기,early stage,noun,R4,N
-1575,초대,chodae,초대,to invite,noun,R4,Y
-1576,킹,king,킹,king,noun,R4,N
-1577,화면,hwamyeon,화면,screen,noun,R4,Y
-1578,기도,gido,기도,prayer,noun,R4,Y
-1579,낳,nat,낳,to give birth,verb,R4,N
-1580,대중,daejung,대중,the public,noun,R4,N
-1581,더불,deobul,더불,together with,verb,R4,N
-1582,따,tta,따,,grammar,R4,N
-1583,라서,raseo,라서,,grammar,R4,N
-1584,레이,rei,레이,,grammar,R4,N
-1585,몰라,molla,몰라,,grammar,R4,N
-1586,뭔,mwon,뭔,what,determiner,R4,N
-1587,민족,minjok,민족,ethnic group,noun,R4,Y
-1588,발사,balsa,발사,launch,noun,R4,Y
-1589,샤,sya,샤,,grammar,R4,N
-1590,설계,seolgye,설계,design (engineering),noun,R4,Y
-1591,스토리,seutori,스토리,story,noun,R4,N
-1592,신호,sinho,신호,signal,noun,R4,Y
-1593,실수,silsu,실수,mistake,noun,R4,Y
-1594,싸,ssa,싸,to wrap,grammar,R4,N
-1595,어떡,eotteok,어떡,,grammar,R4,N
-1596,왕자,wangja,왕자,prince,noun,R4,Y
-1597,이래,irae,이래,,grammar,R4,N
-1598,자살,jasal,자살,suicide,noun,R4,N
-1599,작성,jakseong,작성,writing (document),noun,R4,Y
-1600,저장,jeojang,저장,saving,noun,R4,Y
-1601,전력,jeollyeok,전력,electric power,noun,R4,Y
-1602,제시,jesi,제시,presentation,noun,R4,Y
-1603,지속,jisok,지속,continuation,noun,R4,Y
-1604,지식,jisik,지식,knowledge,noun,R4,N
-1605,체계,chegye,체계,system,noun,R4,N
-1606,친,chin,친,,grammar,R4,N
-1607,친절,chinjeol,친절,kindness,noun,R4,Y
-1608,커,keo,커,,grammar,R4,N
-1609,코리아,koria,코리아,Korea,noun,R4,N
-1610,코스,koseu,코스,course,noun,R4,Y
-1611,콘서트,konseoteu,콘서트,concert,noun,R4,Y
-1612,탑,tap,탑,tower,noun,R4,N
-1613,통과,tonggwa,통과,passing,noun,R4,Y
-1614,통제,tongje,통제,control,noun,R4,Y
-1615,포인트,pointeu,포인트,point,noun,R4,Y
-1616,at,at,at,,foreign,R4,N
-1617,co,co,co,,foreign,R4,N
-1618,간단,gandan,간단,,grammar,R4,N
-1619,거짓말,geojinmal,거짓말,lie,noun,R4,Y
-1620,골,gol,골,goal,noun,R4,N
-1621,당했,danghaet,당했,,grammar,R4,N
-1622,미쳤,michyeot,미쳤,,grammar,R4,N
-1623,바탕,batang,바탕,basis,noun,R4,Y
-1624,벗,beot,벗,to take off (clothes),noun,R4,N
-1625,상담,sangdam,상담,consultation,noun,R4,Y
-1626,설립,seollip,설립,establishment,noun,R4,Y
-1627,셈,sem,셈,,grammar,R4,N
-1628,솔직히,soljiki,솔직히,honestly,adverb,R4,N
-1629,심지어,simjieo,심지어,even,adverb,R4,N
-1630,아가씨,agassi,아가씨,young lady,noun,R4,Y
-1631,아님,anim,아님,,grammar,R4,N
-1632,정당,jeongdang,정당,political party,noun,R4,N
-1633,직업,jigeop,직업,job,noun,R4,Y
-1634,진실,jinsil,진실,truth,noun,R4,Y
-1635,차원,chawon,차원,dimension,noun,R4,Y
-1636,충분히,chungbunhi,충분히,enough,adverb,R4,N
-1637,칸,kan,칸,compartment,noun,R4,N
-1638,파워,pawo,파워,power,noun,R4,Y
-1639,판단,pandan,판단,judgment,noun,R4,N
-1640,mbc,mbc,mbc,,foreign,R4,N
-1641,간다,ganda,간다,,grammar,R4,N
-1642,경영,gyeongyeong,경영,management,noun,R4,N
-1643,굉장히,goengjanghi,굉장히,extremely,adverb,R4,N
-1644,교사,gyosa,교사,teacher,noun,R4,Y
-1645,네트워크,neteuwokeu,네트워크,network,noun,R4,Y
-1646,동료,dongnyo,동료,companions,noun,R4,Y
-1647,따뜻,ttatteut,따뜻,warm,grammar,R4,N
-1648,라며,ramyeo,라며,,grammar,R4,N
-1649,만족,manjok,만족,satisfaction,noun,R4,Y
-1650,멀,meol,멀,far,grammar,R4,N
-1651,몰랐,mollat,몰랐,,grammar,R4,N
-1652,무리,muri,무리,unreasonable; group,noun,R4,Y
-1653,문서,munseo,문서,document,noun,R4,Y
-1654,미디어,midieo,미디어,media,noun,R4,Y
-1655,벽,byeok,벽,wall,noun,R4,N
-1656,불리,bulli,불리,disadvantageous,noun,R4,Y
-1657,비디오,bidio,비디오,video,noun,R4,Y
-1658,빅,bik,빅,big,noun,R4,N
-1659,빠르,ppareu,빠르,fast,adjective,R4,N
-1660,상품,sangpum,상품,goods,noun,R4,Y
-1661,생성,saengseong,생성,generation,noun,R4,Y
-1662,아저씨,ajeossi,아저씨,middle-aged man,noun,R4,Y
-1663,연,yeon,연,kite; year,noun,R4,N
-1664,연속,yeonsok,연속,consecutive,noun,R4,Y
-1665,왼쪽,oenjjok,왼쪽,left,noun,R4,Y
-1666,위협,wihyeop,위협,to threaten,noun,R4,Y
-1667,윤,yun,윤,,grammar,R4,N
-1668,의학,uihak,의학,medicine,noun,R4,Y
-1669,잖아요,janayo,잖아요,,grammar,R4,N
-1670,장기,janggi,장기,long-term; organ,noun,R4,N
-1671,준다,junda,준다,,grammar,R4,N
-1672,집단,jipdan,집단,group,noun,R4,Y
-1673,축제,chukje,축제,festival,noun,R4,Y
-1674,충격,chunggyeok,충격,shock,noun,R4,Y
-1675,칠,chil,칠,seven; paint,numeral,R4,N
-1676,통일,tongil,통일,unification,noun,R4,Y
-1677,폭력,pongnyeok,폭력,violence,noun,R4,Y
-1678,폭발,pokbal,폭발,explosion,noun,R4,Y
-1679,피해자,pihaeja,피해자,victim,noun,R4,Y
-1680,해야지,haeyaji,해야지,,grammar,R4,N
-1681,확실,hwaksil,확실,certain,noun,R4,N
-1682,힘든,himdeun,힘든,,grammar,R4,N
-1683,as,as,as,,foreign,R4,N
-1684,me,me,me,,foreign,R4,N
-1685,개혁,gaehyeok,개혁,reform,noun,R4,Y
-1686,구분,gubun,구분,division,noun,R4,Y
-1687,그저,geujeo,그저,just,adverb,R4,N
-1688,극,geuk,극,drama; extreme,noun,R4,N
-1689,넓,neol,넓,wide,adjective,R4,N
-1690,다섯,daseot,다섯,five,numeral,R4,N
-1691,당연히,dangyeonhi,당연히,naturally,adverb,R4,N
-1692,덜,deol,덜,less,adverb,R4,N
-1693,메이저,meijeo,메이저,major,noun,R4,Y
-1694,바랍니다,baramnida,바랍니다,,grammar,R4,N
-1695,법원,beobwon,법원,court,noun,R4,Y
-1696,보였,boyeot,보였,,grammar,R4,N
-1697,보장,bojang,보장,guarantee,noun,R4,Y
-1698,복잡,bokjap,복잡,,grammar,R4,N
-1699,뽑,ppop,뽑,to pull out,other,R4,N
-1700,생일,saengil,생일,birthday,noun,R4,Y
-1701,시티,siti,시티,city,noun,R4,Y
-1702,아무것,amugeot,아무것,anything,other,R4,N
-1703,오르,oreu,오르,go up,verb,R4,N
-1704,올라가,ollaga,올라가,to go up,grammar,R4,N
-1705,울산,ulsan,울산,Ulsan,noun,R4,N
-1706,의견,uigyeon,의견,opinion,noun,R4,N
-1707,인구,ingu,인구,population,noun,R4,Y
-1708,저기,jeogi,저기,over there,interjection,R4,N
-1709,전달,jeondal,전달,delivery,noun,R4,Y
-1710,전하,jeonha,전하,to convey,noun,R4,Y
-1711,조지,joji,조지,,grammar,R4,N
-1712,중단,jungdan,중단,suspension,noun,R4,Y
-1713,지적,jijeok,지적,pointing out,noun,R4,Y
-1714,털,teol,털,"hair, fur",noun,R4,N
-1715,틀,teul,틀,frame,noun,R4,N
-1716,페이지,peiji,페이지,page,noun,R4,Y
-1717,편지,pyeonji,편지,letter,noun,R4,N
-1718,폭,pok,폭,width,noun,R4,N
-1719,해라,haera,해라,,grammar,R4,N
-1720,확장,hwakjang,확장,expansion,noun,R4,Y
-1721,회복,hoebok,회복,recovery,noun,R4,Y
-1722,kbs,kbs,kbs,,foreign,R4,N
-1723,가졌,gajyeot,가졌,,grammar,R4,N
-1724,각종,gakjong,각종,various kinds,noun,R4,N
-1725,강한,ganghan,강한,,grammar,R4,N
-1726,거든,geodeun,거든,,grammar,R4,N
-1727,과장,gwajang,과장,section chief,noun,R4,Y
-1728,그러니까,geureonikka,그러니까,so,adverb,R4,N
-1729,로운,roun,로운,,grammar,R4,N
-1730,마사지,masaji,마사지,massage,noun,R4,Y
-1731,물건,mulgeon,물건,"thing, item",noun,R4,N
-1732,밝,bak,밝,bright,adjective,R4,N
-1733,밝혔,balkyeot,밝혔,,grammar,R4,N
-1734,배치,baechi,배치,arrangement,noun,R4,Y
-1735,신규,singyu,신규,new,noun,R4,N
-1736,아까,akka,아까,a little while ago,adverb,R4,N
-1737,어지,eoji,어지,,grammar,R4,N
-1738,영역,yeongyeok,영역,area,noun,R4,Y
-1739,오전,ojeon,오전,morning,noun,R4,Y
-1740,운전,unjeon,운전,driving,noun,R4,Y
-1741,으러,eureo,으러,,grammar,R4,N
-1742,의하,uiha,의하,according to,noun,R4,Y
-1743,재미,jaemi,재미,fun,noun,R4,Y
-1744,저런,jeoreon,저런,that kind of,interjection,R4,N
-1745,전투,jeontu,전투,battle,noun,R4,Y
-1746,점심,jeomsim,점심,lunch,noun,R4,Y
-1747,접,jeop,접,fold,noun,R4,N
-1748,주도,judo,주도,lead,noun,R4,Y
-1749,지진,jijin,지진,earthquake,noun,R4,Y
-1750,추진,chujin,추진,promotion (push),noun,R4,Y
-1751,충분,chungbun,충분,enough,grammar,R4,N
-1752,침대,chimdae,침대,bed,noun,R4,Y
-1753,폴,pol,폴,,grammar,R4,N
-1754,경쟁,gyeongjaeng,경쟁,competition,noun,R4,Y
-1755,구하,guha,구하,to rescue,other,R4,N
-1756,기초,gicho,기초,foundation,noun,R4,Y
-1757,끊,kkeun,끊,cut off,verb,R4,N
-1758,당장,dangjang,당장,right now,noun,R4,N
-1759,민,min,민,,grammar,R4,N
-1760,밴드,baendeu,밴드,band,noun,R4,Y
-1761,불구,bulgu,불구,despite,noun,R4,Y
-1762,빠른,ppareun,빠른,,grammar,R4,N
-1763,싸움,ssaum,싸움,fight,noun,R4,Y
-1764,알아보,arabo,알아보,,grammar,R4,N
-1765,연합,yeonhap,연합,union,noun,R4,Y
-1766,오른쪽,oreunjjok,오른쪽,right,noun,R4,N
-1767,올려,ollyeo,올려,,grammar,R4,N
-1768,이때,ittae,이때,at this time,noun,R4,N
-1769,일상,ilsang,일상,daily life,noun,R4,N
-1770,자꾸,jakku,자꾸,repeatedly,adverb,R4,N
-1771,작용,jagyong,작용,"action, effect",noun,R4,N
-1772,전략,jeollyak,전략,strategy,noun,R4,Y
-1773,증거,jeunggeo,증거,evidence,noun,R4,Y
-1774,체제,cheje,체제,"regime, system",noun,R4,N
-1775,초등,chodeung,초등,elementary,noun,R4,Y
-1776,춤,chum,춤,dance,noun,R4,N
-1777,투자,tuja,투자,investment,noun,R4,Y
-1778,프,peu,프,,grammar,R4,N
-1779,홀,hol,홀,hall,noun,R4,N
-1780,훌륭,hullyung,훌륭,wonderful,grammar,R4,N
-1781,be,be,be,,foreign,R4,N
-1782,가리,gari,가리,point to,verb,R4,N
-1783,강제,gangje,강제,force,noun,R4,Y
-1784,계산,gyesan,계산,calculation,noun,R4,Y
-1785,꾼,kkun,꾼,,grammar,R4,N
-1786,낸,naen,낸,,grammar,R4,N
-1787,뇌,noe,뇌,brain,noun,R4,N
-1788,느껴,neukkyeo,느껴,,grammar,R4,N
-1789,대응,daeeung,대응,response,noun,R4,Y
-1790,돕,dop,돕,to help out,other,R4,N
-1791,력,ryeok,력,,grammar,R4,N
-1792,바닥,badak,바닥,bottom,noun,R4,Y
-1793,바둑,baduk,바둑,baduk (go),noun,R4,Y
-1794,부여,buyeo,부여,grant,noun,R4,Y
-1795,불법,bulbeop,불법,illegal,noun,R4,Y
-1796,송,song,송,,grammar,R4,N
-1797,아무리,amuri,아무리,no matter how,adverb,R4,N
-1798,엘,el,엘,,grammar,R4,N
-1799,우선,useon,우선,first of all,adverb,R4,N
-1800,이하,iha,이하,below,noun,R4,Y
-1801,줘야,jwoya,줘야,,grammar,R4,N
-1802,진출,jinchul,진출,advance,noun,R4,Y
-1803,체,che,체,,grammar,R4,N
-1804,최선,choeseon,최선,the best,noun,R4,N
-1805,쿠키,kuki,쿠키,cookie,noun,R4,Y
-1806,토토,toto,토토,(betting),noun,R4,N
-1807,톤,ton,톤,ton; tone,noun,R4,N
-1808,평소,pyeongso,평소,usually,noun,R4,Y
-1809,홍,hong,홍,,grammar,R4,N
-1810,lg,lg,lg,,foreign,R4,N
-1811,권력,gwollyeok,권력,power (political),noun,R4,Y
-1812,날씨,nalssi,날씨,weather,noun,R4,Y
-1813,누나,nuna,누나,older sister (m.),noun,R4,Y
-1814,로드,rodeu,로드,road; load,noun,R4,Y
-1815,마법,mabeop,마법,magic,noun,R4,Y
-1816,발언,bareon,발언,remark,noun,R4,Y
-1817,블,beul,블,,grammar,R4,N
-1818,사상,sasang,사상,ideology,noun,R4,Y
-1819,사전,sajeon,사전,dictionary; beforehand,noun,R4,Y
-1820,상호,sangho,상호,mutual,noun,R4,Y
-1821,션,syeon,션,,grammar,R4,N
-1822,싸우,ssau,싸우,to fight,verb,R4,N
-1823,아트,ateu,아트,art,noun,R4,N
-1824,연구소,yeonguso,연구소,research institute,noun,R4,N
-1825,예수,yesu,예수,Jesus,noun,R4,N
-1826,옛날,yennal,옛날,old days,noun,R4,N
-1827,이란,iran,이란,Iran; (particle),noun,R4,N
-1828,자면,jamyeon,자면,,grammar,R4,N
-1829,자원,jawon,자원,resources,noun,R4,Y
-1830,잭,jaek,잭,,grammar,R4,N
-1831,조합,johap,조합,combination,noun,R4,Y
-1832,증명,jeungmyeong,증명,proof,noun,R4,Y
-1833,청년,cheongnyeon,청년,youth,noun,R4,Y
-1834,쳐,chyeo,쳐,,grammar,R4,N
-1835,컵,keop,컵,cup,noun,R4,N
-1836,케이스,keiseu,케이스,case,noun,R4,N
-1837,파리,pari,파리,Paris; fly,noun,R4,N
-1838,프리,peuri,프리,free,noun,R4,Y
-1839,피부,pibu,피부,skin,noun,R4,Y
-1840,화장실,hwajangsil,화장실,toilet,noun,R4,Y
-1841,화학,hwahak,화학,chemistry,noun,R4,Y
-1842,활용,hwaryong,활용,utilization,noun,R4,Y
-1843,from,from,from,,foreign,R4,N
-1844,my,my,my,,foreign,R4,N
-1845,°,°,°,,foreign,R4,N
-1846,걸리,geolli,걸리,take (time); be caught,verb,R4,N
-1847,교환,gyohwan,교환,exchange,noun,R4,Y
-1848,나갈,nagal,나갈,,grammar,R4,N
-1849,나누,nanu,나누,"divide, share",verb,R4,N
-1850,나올,naol,나올,,grammar,R4,N
-1851,노동,nodong,노동,labor,noun,R4,Y
-1852,노출,nochul,노출,exposure,noun,R4,Y
-1853,동네,dongne,동네,neighborhood,noun,R4,Y
-1854,등급,deunggeup,등급,grade,noun,R4,Y
-1855,만난,mannan,만난,,grammar,R4,N
-1856,뮤지컬,myujikeol,뮤지컬,musical,noun,R4,Y
-1857,부담,budam,부담,burden,noun,R4,Y
-1858,브랜드,beuraendeu,브랜드,brand,noun,R4,Y
-1859,소프트웨어,sopeuteuweeo,소프트웨어,software,noun,R4,Y
-1860,수도,sudo,수도,capital city; tap water,noun,R4,Y
-1861,수많,suman,수많,numerous,noun,R4,Y
-1862,얼른,eolleun,얼른,quickly,adverb,R4,N
-1863,우승,useung,우승,championship,noun,R4,Y
-1864,위기,wigi,위기,crisis,noun,R4,Y
-1865,의료,uiryo,의료,medical care,noun,R4,Y
-1866,전환,jeonhwan,전환,conversion,noun,R4,Y
-1867,접속,jeopsok,접속,access,noun,R4,Y
-1868,취급,chwigeup,취급,handling,noun,R4,Y
-1869,취소,chwiso,취소,cancellation,noun,R4,Y
-1870,캠,kaem,캠,cam,noun,R4,N
-1871,탓,tat,탓,fault,noun,R4,N
-1872,편집,pyeonjip,편집,editing,noun,R4,Y
-1873,day,day,day,,foreign,R4,N
-1874,가사,gasa,가사,lyrics; housework,noun,R4,Y
-1875,개봉,gaebong,개봉,release (film),noun,R4,Y
-1876,건축,geonchuk,건축,architecture,noun,R4,Y
-1877,교류,gyoryu,교류,exchange,noun,R4,Y
-1878,국장,gukjang,국장,director,noun,R4,Y
-1879,냈,naet,냈,paid; produced,other,R4,N
-1880,누리,nuri,누리,enjoy,noun,R4,Y
-1881,다구,dagu,다구,,grammar,R4,N
-1882,단순,dansun,단순,simple,noun,R4,Y
-1883,뜨,tteu,뜨,to knit,verb,R4,N
-1884,문재인,munjaein,문재인,(name),noun,R4,N
-1885,버린,beorin,버린,,grammar,R4,N
-1886,법인,beobin,법인,corporation,noun,R4,Y
-1887,비용,biyong,비용,cost,noun,R4,Y
-1888,비해,bihae,비해,,grammar,R4,N
-1889,상관,sanggwan,상관,relation; superior,noun,R4,N
-1890,수록,surok,수록,the more,noun,R4,Y
-1891,수학,suhak,수학,math,noun,R4,Y
-1892,숫자,sutja,숫자,number,noun,R4,N
-1893,시킨,sikin,시킨,,grammar,R4,N
-1894,시행,sihaeng,시행,enforcement,noun,R4,Y
-1895,아닌가,aninga,아닌가,,grammar,R4,N
-1896,어떠,eotteo,어떠,,grammar,R4,N
-1897,연장,yeonjang,연장,extension,noun,R4,Y
-1898,요원,yowon,요원,agent,noun,R4,Y
-1899,이젠,ijen,이젠,,grammar,R4,N
-1900,인권,ingwon,인권,human rights,noun,R4,Y
-1901,일찍,iljjik,일찍,early,adverb,R4,N
-1902,주목,jumok,주목,attention,noun,R4,N
-1903,천만,cheonman,천만,ten million,noun,R4,Y
-1904,탄,tan,탄,,grammar,R4,N
-1905,통,tong,통,bucket; whole,noun,R4,N
-1906,통화,tonghwa,통화,call; currency,noun,R4,Y
-1907,특수,teuksu,특수,special,noun,R4,N
-1908,표준,pyojun,표준,standard,noun,R4,N
-1909,푸,pu,푸,,grammar,R4,N
-1910,한지,hanji,한지,whether,noun,R4,N
-1911,sbs,sbs,sbs,,foreign,R4,N
-1912,▶,▶,▶,,symbol,R4,N
-1913,가까운,gakkaun,가까운,,grammar,R4,N
-1914,거대,geodae,거대,huge,noun,R4,Y
-1915,검찰,geomchal,검찰,prosecution,noun,R4,Y
-1916,고객,gogaek,고객,customer,noun,R4,Y
-1917,군인,gunin,군인,soldier,noun,R4,Y
-1918,그곳,geugot,그곳,that place,pronoun,R4,N
-1919,다루,daru,다루,to handle,verb,R4,N
-1920,던지,deonji,던지,,grammar,R4,N
-1921,따로,ttaro,따로,separately,adverb,R4,N
-1922,런던,reondeon,런던,London,noun,R4,N
-1923,마련,maryeon,마련,preparation,noun,R4,Y
-1924,멀리,meolli,멀리,far away,adverb,R4,N
-1925,메인,mein,메인,main,noun,R4,N
-1926,모집,mojip,모집,recruitment,noun,R4,Y
-1927,문학,munhak,문학,literature,noun,R4,N
-1928,미술,misul,미술,fine art,noun,R4,N
-1929,미터,miteo,미터,meter,noun,R4,Y
-1930,보냈,bonaet,보냈,,grammar,R4,N
-1931,보유,boyu,보유,possession,noun,R4,Y
-1932,복지,bokji,복지,welfare,noun,R4,Y
-1933,부부,bubu,부부,married couple,noun,R4,Y
-1934,부상,busang,부상,injury,noun,R4,Y
-1935,뻔,ppeon,뻔,almost (did),noun,R4,N
-1936,세월,sewol,세월,time (passing),noun,R4,N
-1937,소유,soyu,소유,ownership,noun,R4,Y
-1938,실장,siljang,실장,chief,noun,R4,Y
-1939,쓰레기,sseuregi,쓰레기,trash,noun,R4,Y
-1940,연주,yeonju,연주,musical performance,noun,R4,Y
-1941,움직이,umjigi,움직이,to move,grammar,R4,N
-1942,일까,ilkka,일까,,grammar,R4,N
-1943,작년,jangnyeon,작년,last year,noun,R4,N
-1944,지점,jijeom,지점,branch; point,noun,R4,Y
-1945,직장,jikjang,직장,workplace,noun,R4,Y
-1946,진다,jinda,진다,,grammar,R4,N
-1947,최소,choeso,최소,minimum,noun,R4,Y
-1948,클,keul,클,,grammar,R4,N
-1949,통하,tongha,통하,pass through,verb,R4,N
-1950,하나님,hananim,하나님,God,noun,R4,N
-1951,확보,hwakbo,확보,securing,noun,R4,Y
-1952,환영,hwanyeong,환영,welcome,noun,R4,Y
-1953,♬,♬,♬,,symbol,R4,N
-1954,가까이,gakkai,가까이,close by,adverb,R4,N
-1955,가을,gaeul,가을,autumn,noun,R4,Y
-1956,대비,daebi,대비,preparation; contrast,noun,R4,Y
-1957,덕,deok,덕,virtue,noun,R4,N
-1958,도쿄,dokyo,도쿄,Tokyo,noun,R4,Y
-1959,된다는,doendaneun,된다는,,grammar,R4,N
-1960,마무리,mamuri,마무리,finishing,noun,R4,Y
-1961,메시지,mesiji,메시지,message,noun,R4,Y
-1962,바보,babo,바보,fool,noun,R4,Y
-1963,발매,balmae,발매,release (sale),noun,R4,Y
-1964,부대,budae,부대,unit (military),noun,R4,Y
-1965,분리,bulli,분리,separation,noun,R4,Y
-1966,불안,buran,불안,anxiety,noun,R4,Y
-1967,샘,saem,샘,spring (water),noun,R4,N
-1968,생긴,saenggin,생긴,,grammar,R4,N
-1969,세력,seryeok,세력,"force, power",noun,R4,Y
-1970,손가락,songarak,손가락,finger,noun,R4,Y
-1971,승인,seungin,승인,approval,noun,R4,Y
-1972,실시간,silsigan,실시간,real time,noun,R4,N
-1973,안마,anma,안마,massage,noun,R4,Y
-1974,어쩔,eojjeol,어쩔,,grammar,R4,N
-1975,의심,uisim,의심,to doubt,noun,R4,Y
-1976,익숙,iksuk,익숙,,grammar,R4,N
-1977,자라,jara,자라,to grow,noun,R4,Y
-1978,작동,jakdong,작동,operation,noun,R4,N
-1979,재판,jaepan,재판,trial,noun,R4,Y
-1980,제조,jejo,제조,manufacturing,noun,R4,Y
-1981,체포,chepo,체포,arrest,noun,R4,Y
-1982,클릭,keullik,클릭,click,noun,R4,Y
-1983,트리,teuri,트리,tree,noun,R4,Y
-1984,팝,pap,팝,pop,noun,R4,N
-1985,한국어,hangugeo,한국어,Korean (language),noun,R4,N
-1986,항공,hanggong,항공,aviation,noun,R4,Y
-1987,확대,hwakdae,확대,expansion,noun,R4,Y
-1988,확정,hwakjeong,확정,confirmation,noun,R4,Y
-1989,kg,kg,kg,,foreign,R4,N
-1990,검증,geomjeung,검증,verification,noun,R4,Y
-1991,고용,goyong,고용,to hire,noun,R4,Y
-1992,고향,gohyang,고향,hometown,noun,R4,Y
-1993,공급,gonggeup,공급,supply,noun,R4,Y
-1994,공기,gonggi,공기,air,noun,R4,Y
-1995,군사,gunsa,군사,military,noun,R4,Y
-1996,녀석,nyeoseok,녀석,guy,noun,R4,Y
-1997,농구,nonggu,농구,basketball,noun,R4,Y
-1998,둔,dun,둔,(put),noun,R4,N
-1999,리더,rideo,리더,leader,noun,R4,Y
-2000,만났,mannat,만났,,grammar,R4,N
-2001,맺,maet,맺,form (relationship),verb,R4,N
-2002,삭제,sakje,삭제,deletion,noun,R4,Y
-2003,살인,sarin,살인,murder,noun,R4,Y
-2004,소중,sojung,소중,precious,noun,R4,Y
-2005,실행,silhaeng,실행,execution,noun,R4,Y
-2006,에게서,egeseo,에게서,,grammar,R4,N
-2007,연출,yeonchul,연출,directing,noun,R4,Y
-2008,예쁘,yeppeu,예쁘,pretty,adjective,R4,N
-2009,오사카,osaka,오사카,Osaka,noun,R4,Y
-2010,으신,eusin,으신,,grammar,R4,N
-2011,자식,jasik,자식,child; offspring,noun,R4,Y
-2012,재산,jaesan,재산,property,noun,R4,Y
-2013,전공,jeongong,전공,major (study),noun,R4,N
-2014,조각,jogak,조각,piece; sculpture,noun,R4,Y
-2015,주간,jugan,주간,week,noun,R4,Y
-2016,지시,jisi,지시,instruction,noun,R4,Y
-2017,최저,choejeo,최저,lowest,noun,R4,Y
-2018,콘,kon,콘,,grammar,R4,N
-2019,태풍,taepung,태풍,typhoon,noun,R4,Y
-2020,파트너,pateuneo,파트너,partner,noun,R4,Y
-2021,할머니,halmeoni,할머니,grandmother,noun,R4,Y
-2022,one,one,one,,foreign,R4,N
-2023,up,up,up,,foreign,R4,N
-2024,개선,gaeseon,개선,improvement,noun,R4,Y
-2025,걔,gyae,걔,that kid,pronoun,R4,N
-2026,계기,gyegi,계기,"opportunity, trigger",noun,R4,N
-2027,그대,geudae,그대,you (poetic),pronoun,R4,N
-2028,근거,geungeo,근거,basis,noun,R4,Y
-2029,놀이,nori,놀이,play,noun,R4,Y
-2030,닉,nik,닉,,grammar,R4,N
-2031,단독,dandok,단독,exclusive,noun,R4,Y
-2032,당한,danghan,당한,,grammar,R4,N
-2033,돌려,dollyeo,돌려,,grammar,R4,N
-2034,드디어,deudieo,드디어,at last,adverb,R4,N
-2035,룸,rum,룸,room,noun,R4,N
-2036,박근혜,bakgeunhye,박근혜,(name),noun,R4,N
-2037,반복,banbok,반복,to repeat,noun,R4,Y
-2038,본다,bonda,본다,,grammar,R4,N
-2039,봅니다,bomnida,봅니다,,grammar,R4,N
-2040,세우,seu,세우,to stand up (something),verb,R4,N
-2041,셔,syeo,셔,,grammar,R4,N
-2042,시각,sigak,시각,time; viewpoint,noun,R4,N
-2043,신화,sinhwa,신화,myth,noun,R4,Y
-2044,아이돌,aidol,아이돌,idol,noun,R4,Y
-2045,알리,alli,알리,inform,noun,R4,Y
-2046,엄청난,eomcheongnan,엄청난,,grammar,R4,N
-2047,예쁜,yeppeun,예쁜,pretty,grammar,R4,N
-2048,오히려,ohiryeo,오히려,rather,adverb,R4,N
-2049,외국,oeguk,외국,foreign country,noun,R4,Y
-2050,인류,illyu,인류,humanity,noun,R4,Y
-2051,인한,inhan,인한,,grammar,R4,N
-2052,장르,jangneu,장르,genre,noun,R4,Y
-2053,전용,jeonyong,전용,exclusive use,noun,R4,Y
-2054,전해,jeonhae,전해,,grammar,R4,N
-2055,짜리,jjari,짜리,worth,noun,R4,Y
-2056,최대한,choedaehan,최대한,as much as possible,adverb,R4,N
+1338,연기,yeongi,연기,acting; smoke; delay,noun,R4,Y
+1339,다면서,damyeonseo,다면서,(ending),grammar,R4,N
+1340,부족,bujok,부족,lack; tribe,noun,R4,Y
+1341,다는데,daneunde,다는데,(ending),grammar,R4,N
+1342,데려오다,deryeooda,데려오다,bring (someone),verb,R4,N
+1343,마음대로,maeumdaero,마음대로,as one pleases,adverb,R4,N
+1344,무겁다,mugeopda,무겁다,heavy,adjective,R4,N
+1345,치킨,chikin,치킨,fried chicken,noun,R4,Y
+1346,성격,seonggyeok,성격,personality,noun,R4,Y
+1347,용의자,yonguija,용의자,suspect,noun,R4,Y
+1348,튀다,twida,튀다,to bounce; to stand out,verb,R4,N
+1349,서방,seobang,서방,husband,noun,R4,Y
+1350,과거,gwageo,과거,past,noun,R4,Y
+1351,건물,geonmul,건물,building,noun,R4,Y
+1352,찬,chan,찬,cold; filled,noun,R4,Y
+1353,어어,eoeo,어어,uh,interjection,R4,N
+1354,달라지다,dallajida,달라지다,change,verb,R4,N
+1355,탓,tat,탓,fault,noun,R4,Y
+1356,하필,hapil,하필,of all things,adverb,R4,N
+1357,아내,anae,아내,wife,noun,R4,Y
+1358,약간,yakgan,약간,slightly,adverb,R4,N
+1359,지옥,jiok,지옥,hell,noun,R4,Y
+1360,겁,geop,겁,fear,noun,R4,Y
+1361,짠,jjan,짠,ta-da,adverb,R4,N
+1362,드디어,deudieo,드디어,at last,adverb,R4,N
+1363,실종,siljong,실종,missing,noun,R4,Y
+1364,ᆫ단,ᆫdan,ᆫ단,(ending),grammar,R4,N
+1365,욱,uk,욱,(name),adverb,R4,N
+1366,소원,sowon,소원,wish,noun,R4,Y
+1367,가깝다,gakkapda,가깝다,close,adjective,R4,N
+1368,카메라,kamera,카메라,camera,noun,R4,Y
+1369,사인,sain,사인,autograph; sign,noun,R4,Y
+1370,주문,jumun,주문,order,noun,R4,Y
+1371,ᆯ수록,ᆯsurok,ᆯ수록,(ending),grammar,R4,N
+1372,짝,jjak,짝,partner,noun,R4,Y
+1373,을래,eullae,을래,(ending),grammar,R4,N
+1374,밟다,balda,밟다,step on,verb,R4,N
+1375,카,ka,카,(fragment),noun,R4,N
+1376,빌다,bilda,빌다,"pray, beg",verb,R4,N
+1377,프로,peuro,프로,professional,noun,R4,Y
+1378,판단,pandan,판단,judgment,noun,R4,Y
+1379,ᆫ다며,ᆫdamyeo,ᆫ다며,(ending),grammar,R4,N
+1380,정확,jeonghwak,정확,accurate,noun,R4,Y
+1381,충분히,chungbunhi,충분히,enough,adverb,R4,N
+1382,조건,jogeon,조건,condition,noun,R4,Y
+1383,장소,jangso,장소,place,noun,R4,Y
+1384,완벽,wanbyeok,완벽,perfect,noun,R4,Y
+1385,무리,muri,무리,unreasonable; group,noun,R4,Y
+1386,쩝,jjeop,쩝,tsk,adverb,R4,N
+1387,백성,baekseong,백성,the people,noun,R4,Y
+1388,동기,donggi,동기,classmate; motive,noun,R4,Y
+1389,와이프,waipeu,와이프,wife,noun,R4,Y
+1390,답다,dapda,답다,(suffix),grammar,R4,N
+1391,서두르다,seodureuda,서두르다,hurry,verb,R4,N
+1392,한잔,hanjan,한잔,a drink,noun,R4,Y
+1393,유명,yumyeong,유명,famous,noun,R4,Y
+1394,구만,guman,구만,(ending),grammar,R4,N
+1395,발생,balsaeng,발생,occurrence,noun,R4,Y
+1396,농담,nongdam,농담,joke,noun,R4,Y
+1397,무사,musa,무사,safe; warrior,noun,R4,Y
+1398,대비,daebi,대비,preparation; contrast,noun,R4,Y
+1399,여사,yeosa,여사,madam,noun,R4,Y
+1400,계산,gyesan,계산,calculation,noun,R4,Y
+1401,체포,chepo,체포,arrest,noun,R4,Y
+1402,삶,sam,삶,"to boil, simmer",noun,R4,Y
+1403,필,pil,필,(fragment),noun,R4,N
+1404,구요,guyo,구요,(ending),grammar,R4,N
+1405,확실히,hwaksilhi,확실히,clearly,adverb,R4,N
+1406,솔직,soljik,솔직,(suffix),grammar,R4,N
+1407,혼인,honin,혼인,marriage,noun,R4,Y
+1408,옵,op,옵,(ending),grammar,R4,N
+1409,정상,jeongsang,정상,normal; summit,noun,R4,Y
+1410,답답,dapdap,답답,(suffix),grammar,R4,N
+1411,운,un,운,luck,noun,R4,Y
+1412,몰래,mollae,몰래,secretly,adverb,R4,N
+1413,피고인,pigoin,피고인,defendant,noun,R4,Y
+1414,전쟁,jeonjaeng,전쟁,war,noun,R4,Y
+1415,굉장히,goengjanghi,굉장히,extremely,adverb,R4,N
+1416,이동,idong,이동,movement,noun,R4,Y
+1417,집중,jipjung,집중,concentration,noun,R4,Y
+1418,치르다,chireuda,치르다,pay; hold (event),verb,R4,N
+1419,구경,gugyeong,구경,sightseeing,noun,R4,Y
+1420,사무실,samusil,사무실,office,noun,R4,Y
+1421,늙다,neukda,늙다,grow old,verb,R4,N
+1422,바르다,bareuda,바르다,apply; straight,adjective,R4,N
+1423,지르다,jireuda,지르다,yell,verb,R4,N
+1424,가짜,gajja,가짜,fake,noun,R4,Y
+1425,온,on,온,all,determiner,R4,N
+1426,약하다,yakada,약하다,weak,adjective,R4,N
+1427,인연,inyeon,인연,"fate, connection",noun,R4,Y
+1428,강하다,ganghada,강하다,strong,adjective,R4,N
+1429,보호,boho,보호,protection,noun,R4,Y
+1430,흘리다,heullida,흘리다,spill,verb,R4,N
+1431,자랑,jarang,자랑,to be proud of,noun,R4,Y
+1432,닥치다,dakchida,닥치다,shut up,verb,R4,N
+1433,자마자,jamaja,자마자,(ending),grammar,R4,N
+1434,담배,dambae,담배,cigarette,noun,R4,Y
+1435,깨어나다,kkaeeonada,깨어나다,wake up,verb,R4,N
+1436,실례,sillye,실례,excuse me,noun,R4,Y
+1437,대화,daehwa,대화,conversation,noun,R4,Y
+1438,누르다,nureuda,누르다,press,verb,R4,N
+1439,아끼다,akkida,아끼다,"cherish, save",verb,R4,N
+1440,시리즈,sirijeu,시리즈,series,noun,R4,Y
+1441,저러다,jeoreoda,저러다,act like that,verb,R4,N
+1442,불법,bulbeop,불법,illegal,noun,R4,Y
+1443,아냐,anya,아냐,no,interjection,R4,N
+1444,가리다,garida,가리다,point to,verb,R4,N
+1445,범죄,beomjoe,범죄,crime,noun,R4,Y
+1446,상상,sangsang,상상,imagination,noun,R4,Y
+1447,사회,sahoe,사회,society,noun,R4,Y
+1448,배우,baeu,배우,to learn,noun,R4,Y
+1449,외롭다,oeropda,외롭다,lonely,adjective,R4,N
+1450,청소,cheongso,청소,cleaning,noun,R4,Y
+1451,ᆯ걸,ᆯgeol,ᆯ걸,(ending),grammar,R4,N
+1452,괴물,goemul,괴물,monster,noun,R4,Y
+1453,의식,uisik,의식,consciousness; ceremony,noun,R4,Y
+1454,어서요,eoseoyo,어서요,(ending),grammar,R4,N
+1455,감다,gamda,감다,close (eyes); wash (hair),verb,R4,N
+1456,없애다,eopsaeda,없애다,get rid of,verb,R4,N
+1457,종일,jongil,종일,all day,noun,R4,Y
+1458,뭣,mwot,뭣,what,pronoun,R4,N
+1459,담당,damdang,담당,in charge,noun,R4,Y
+1460,학원,hagwon,학원,academy,noun,R4,Y
+1461,마리,mari,마리,animal (counter),noun,R4,N
+1462,처,cheo,처,(fragment),noun,R4,N
+1463,아쉽다,aswipda,아쉽다,a pity,adjective,R4,N
+1464,지시,jisi,지시,instruction,noun,R4,Y
+1465,생각나다,saenggangnada,생각나다,come to mind,verb,R4,N
+1466,따지다,ttajida,따지다,argue,verb,R4,N
+1467,편지,pyeonji,편지,letter,noun,R4,Y
+1468,짜리,jjari,짜리,(suffix),grammar,R4,N
+1469,일본,ilbon,일본,Japan,noun,R4,N
+1470,부럽다,bureopda,부럽다,envious,adjective,R4,N
+1471,따뜻,ttatteut,따뜻,(suffix),grammar,R4,N
+1472,시신,sisin,시신,body (corpse),noun,R4,Y
+1473,개월,gaewol,개월,month (counter),noun,R4,N
+1474,나무,namu,나무,tree,noun,R4,Y
+1475,자격,jagyeok,자격,qualification,noun,R4,Y
+1476,빚,bit,빚,debt,noun,R4,Y
+1477,사용,sayong,사용,to use,noun,R4,Y
+1478,상관없다,sanggwaneopda,상관없다,doesn't matter,adjective,R4,N
+1479,아아,aa,아아,ah,interjection,R4,N
+1480,은행,eunhaeng,은행,bank,noun,R4,Y
+1481,저지르다,jeojireuda,저지르다,commit,verb,R4,N
+1482,그치,geuchi,그치,right?,interjection,R4,N
+1483,곤란,gollan,곤란,trouble,noun,R4,Y
+1484,유리,yuri,유리,glass; advantageous,noun,R4,Y
+1485,팬,paen,팬,fan,noun,R4,Y
+1486,게요,geyo,게요,(ending),grammar,R4,N
+1487,저리,jeori,저리,that way,adverb,R4,N
+1488,하여튼,hayeoteun,하여튼,anyway,adverb,R4,N
+1489,짧다,jjalda,짧다,short,adjective,R4,N
+1490,버스,beoseu,버스,bus,noun,R4,Y
+1491,콜,kol,콜,call,noun,R4,Y
+1492,기억나다,gieongnada,기억나다,remember,verb,R4,N
+1493,조직,jojik,조직,organization,noun,R4,Y
+1494,의하다,uihada,의하다,according to,verb,R4,N
+1495,실력,sillyeok,실력,skill,noun,R4,Y
+1496,귀하다,gwihada,귀하다,precious,adjective,R4,N
+1497,대충,daechung,대충,roughly,adverb,R4,N
+1498,맵다,maepda,맵다,spicy,adjective,R4,N
+1499,출신,chulsin,출신,origin,noun,R4,Y
+1500,맨,maen,맨,bare; very,determiner,R4,N
+1501,납치,napchi,납치,kidnapping,noun,R4,Y
+1502,알아내다,aranaeda,알아내다,find out,verb,R4,N
+1503,뭘,mwol,뭘,what,interjection,R4,N
+1504,거래,georae,거래,transaction,noun,R4,Y
+1505,부담,budam,부담,burden,noun,R4,Y
+1506,어쩌면,eojjeomyeon,어쩌면,maybe,adverb,R4,N
+1507,재미있다,jaemiitda,재미있다,interesting,adjective,R4,N
+1508,주제,juje,주제,topic,noun,R4,Y
+1509,털다,teolda,털다,to shake off,verb,R4,N
+1510,쓰읍,sseueup,쓰읍,hmm,interjection,R4,N
+1511,찌르다,jjireuda,찌르다,stab,verb,R4,N
+1512,배달,baedal,배달,delivery,noun,R4,Y
+1513,거리,geori,거리,street,noun,R4,Y
+1514,알아듣다,aradeutda,알아듣다,understand,verb,R4,N
+1515,은지,eunji,은지,(ending),grammar,R4,N
+1516,두렵다,duryeopda,두렵다,afraid,adjective,R4,N
+1517,쇼,syo,쇼,(ending),grammar,R4,N
+1518,켜다,kyeoda,켜다,turn on,verb,R4,N
+1519,후배,hubae,후배,junior,noun,R4,Y
+1520,신발,sinbal,신발,shoes,noun,R4,Y
+1521,한참,hancham,한참,for a long time,adverb,R4,N
+1522,소장,sojang,소장,director; possession,noun,R4,Y
+1523,오라버니,orabeoni,오라버니,older brother (old style),noun,R4,Y
+1524,예상,yesang,예상,expectation,noun,R4,Y
+1525,주말,jumal,주말,weekend,noun,R4,Y
+1526,혀다,hyeoda,혀다,(fragment),verb,R4,N
+1527,또한,ttohan,또한,also,adverb,R4,N
+1528,개발,gaebal,개발,development,noun,R4,Y
+1529,혐의,hyeomui,혐의,suspicion,noun,R4,Y
+1530,겪다,gyeokda,겪다,experience,verb,R4,N
+1531,닦다,dakda,닦다,wipe,verb,R4,N
+1532,시원,siwon,시원,(suffix),grammar,R4,N
+1533,떨리다,tteollida,떨리다,tremble,verb,R4,N
+1534,아이구,aigu,아이구,oh my,interjection,R4,N
+1535,차장,chajang,차장,deputy manager,noun,R4,Y
+1536,최대한,choedaehan,최대한,as much as possible,adverb,R4,N
+1537,차량,charyang,차량,vehicle,noun,R4,Y
+1538,선호,seonho,선호,(name),noun,R4,N
+1539,행사,haengsa,행사,event,noun,R4,Y
+1540,부부,bubu,부부,married couple,noun,R4,Y
+1541,나머지,nameoji,나머지,the rest,noun,R4,Y
+1542,업무,eommu,업무,"work, duty",noun,R4,Y
+1543,악,ak,악,ah!,noun,R4,Y
+1544,가까이,gakkai,가까이,close by,adverb,R4,N
+1545,아따,atta,아따,oh (dialect),interjection,R4,N
+1546,인터뷰,inteobyu,인터뷰,interview,noun,R4,Y
+1547,파티,pati,파티,party,noun,R4,Y
+1548,괴롭히다,goeropida,괴롭히다,bully,verb,R4,N
+1549,마디,madi,마디,word; joint,noun,R4,N
+1550,기운,giun,기운,energy,noun,R4,Y
+1551,에다,eda,에다,(particle),grammar,R4,N
+1552,자체,jache,자체,itself,noun,R4,Y
+1553,체크,chekeu,체크,check,noun,R4,Y
+1554,모자라다,mojarada,모자라다,be short of,verb,R4,N
+1555,굴다,gulda,굴다,behave,verb,R4,N
+1556,언젠가,eonjenga,언젠가,someday,adverb,R4,N
+1557,잘나다,jallada,잘나다,be great,adjective,R4,N
+1558,식구,sikgu,식구,family,noun,R4,Y
+1559,낮,nat,낮,daytime,noun,R4,Y
+1560,사오,sao,사오,(ending),grammar,R4,N
+1561,및,mit,및,and,adverb,R4,N
+1562,학년,hangnyeon,학년,grade (school),noun,R4,Y
+1563,여전히,yeojeonhi,여전히,still,adverb,R4,N
+1564,요거,yogeo,요거,this,pronoun,R4,N
+1565,광,gwang,광,light; (fragment),noun,R4,N
+1566,공연,gongyeon,공연,performance,noun,R4,Y
+1567,고서,goseo,고서,(ending),grammar,R4,N
+1568,귀찮다,gwichanta,귀찮다,bothersome,adjective,R4,N
+1569,돼지,dwaeji,돼지,pig,noun,R4,Y
+1570,이곳,igot,이곳,this place,pronoun,R4,N
+1571,장군,janggun,장군,general,noun,R4,Y
+1572,요청,yocheong,요청,request,noun,R4,Y
+1573,증명,jeungmyeong,증명,proof,noun,R4,Y
+1574,들르다,deulleuda,들르다,drop by,verb,R4,N
+1575,덮다,deopda,덮다,cover,verb,R4,N
+1576,유일,yuil,유일,only one,noun,R4,N
+1577,대통령,daetongnyeong,대통령,president,noun,R4,Y
+1578,찾아보다,chajaboda,찾아보다,look for,verb,R4,N
+1579,자연,jayeon,자연,nature,noun,R4,Y
+1580,비행기,bihaenggi,비행기,airplane,noun,R4,Y
+1581,뺏다,ppaetda,뺏다,take away,verb,R4,N
+1582,방해,banghae,방해,hindrance,noun,R4,Y
+1583,옵니다,omnida,옵니다,(ending),grammar,R4,N
+1584,오히려,ohiryeo,오히려,rather,adverb,R4,N
+1585,집사,jipsa,집사,butler,noun,R4,Y
+1586,특히,teuki,특히,especially,adverb,R4,N
+1587,세상에,sesange,세상에,oh my god,interjection,R4,N
+1588,최근,choegeun,최근,recently,noun,R4,Y
+1589,남친,namchin,남친,boyfriend,noun,R4,Y
+1590,살짝,saljjak,살짝,slightly,adverb,R4,N
+1591,시체,siche,시체,corpse,noun,R4,Y
+1592,관장,gwanjang,관장,director (museum),noun,R4,Y
+1593,돌,dol,돌,to turn,noun,R4,Y
+1594,곡,gok,곡,"song, tune",noun,R4,Y
+1595,평소,pyeongso,평소,usually,noun,R4,Y
+1596,실패,silpae,실패,failure,noun,R4,Y
+1597,확보,hwakbo,확보,securing,noun,R4,Y
+1598,설,seol,설,Lunar New Year,noun,R4,Y
+1599,공격,gonggyeok,공격,attack,noun,R4,Y
+1600,아비,abi,아비,father,noun,R4,Y
+1601,덥다,deopda,덥다,hot (weather),adjective,R4,N
+1602,애기,aegi,애기,baby,noun,R4,Y
+1603,날리다,nallida,날리다,fly; blow away,verb,R4,N
+1604,찍히다,jjikida,찍히다,be photographed,verb,R4,N
+1605,림,rim,림,(fragment),noun,R4,N
+1606,애인,aein,애인,lover,noun,R4,Y
+1607,순경,sungyeong,순경,police officer,noun,R4,Y
+1608,아래,arae,아래,below,noun,R4,Y
+1609,쓸데없다,sseuldeeopda,쓸데없다,useless,adjective,R4,N
+1610,김밥,gimbap,김밥,gimbap,noun,R4,Y
+1611,공개,gonggae,공개,public release,noun,R4,Y
+1612,우주,uju,우주,universe,noun,R4,Y
+1613,착각,chakgak,착각,"illusion, mistake",noun,R4,Y
+1614,담다,damda,담다,to put in,verb,R4,N
+1615,벌어지다,beoreojida,벌어지다,happen,verb,R4,N
+1616,피해,pihae,피해,damage,noun,R4,Y
+1617,타이밍,taiming,타이밍,timing,noun,R4,Y
+1618,쪽팔리다,jjokpallida,쪽팔리다,embarrassing,verb,R4,N
+1619,감,gam,감,persimmon; feeling,noun,R4,N
+1620,좆,jot,좆,(profanity),noun,R4,N
+1621,뇌,noe,뇌,brain,noun,R4,Y
+1622,수정,sujeong,수정,correction,noun,R4,Y
+1623,투자,tuja,투자,investment,noun,R4,Y
+1624,절,jeol,절,temple,noun,R4,Y
+1625,서류,seoryu,서류,documents,noun,R4,Y
+1626,반응,baneung,반응,reaction,noun,R4,Y
+1627,망치다,mangchida,망치다,ruin,verb,R4,N
+1628,구조,gujo,구조,structure,noun,R4,Y
+1629,썩다,sseokda,썩다,rot,verb,R4,N
+1630,그녀,geunyeo,그녀,girlfriend,pronoun,R4,N
+1631,파,pa,파,green onion; faction,noun,R4,Y
+1632,예정,yejeong,예정,schedule,noun,R4,Y
+1633,인물,inmul,인물,"figure, person",noun,R4,Y
+1634,신청,sincheong,신청,application,noun,R4,Y
+1635,대기,daegi,대기,waiting; atmosphere,noun,R4,Y
+1636,쉿,swit,쉿,shh,interjection,R4,N
+1637,취소,chwiso,취소,cancellation,noun,R4,Y
+1638,훈련,hullyeon,훈련,training,noun,R4,Y
+1639,무대,mudae,무대,stage,noun,R4,Y
+1640,맥주,maekju,맥주,beer,noun,R4,Y
+1641,처먹다,cheomeokda,처먹다,(rude) eat,verb,R4,N
+1642,기업,gieop,기업,company,noun,R4,Y
+1643,탁,tak,탁,snap,adverb,R4,N
+1644,기획,gihoek,기획,planning,noun,R4,Y
+1645,도둑,doduk,도둑,thief,noun,R4,Y
+1646,수상,susang,수상,(suffix),grammar,R4,N
+1647,국가,gukga,국가,nation,noun,R4,Y
+1648,오후,ohu,오후,afternoon,noun,R4,Y
+1649,그나저나,geunajeona,그나저나,by the way,adverb,R4,N
+1650,또라이,ttorai,또라이,weirdo,noun,R4,Y
+1651,어허,eoheo,어허,hey now,interjection,R4,N
+1652,대회,daehoe,대회,tournament,noun,R4,Y
+1653,숨소리,sumsori,숨소리,breath sound,noun,R4,Y
+1654,보,bo,보,see / look,noun,R4,Y
+1655,조작,jojak,조작,manipulation,noun,R4,Y
+1656,엄청나다,eomcheongnada,엄청나다,enormous,adjective,R4,N
+1657,주소,juso,주소,address,noun,R4,Y
+1658,으며,eumyeo,으며,(ending),grammar,R4,N
+1659,목적,mokjeok,목적,purpose,noun,R4,Y
+1660,욕심,yoksim,욕심,greed,noun,R4,Y
+1661,주상,jusang,주상,Your Majesty,noun,R4,Y
+1662,부끄럽다,bukkeureopda,부끄럽다,"shy, ashamed",adjective,R4,N
+1663,다니까요,danikkayo,다니까요,(ending),grammar,R4,N
+1664,도망,domang,도망,escape,noun,R4,Y
+1665,소중,sojung,소중,(suffix),grammar,R4,N
+1666,재미,jaemi,재미,fun,noun,R4,Y
+1667,폰,pon,폰,phone,noun,R4,Y
+1668,옳다,olta,옳다,right,adjective,R4,N
+1669,발표,balpyo,발표,presentation,noun,R4,Y
+1670,잃어버리다,ileobeorida,잃어버리다,lose,verb,R4,N
+1671,거절,geojeol,거절,to refuse,noun,R4,Y
+1672,받아들이다,badadeurida,받아들이다,accept,verb,R4,N
+1673,마찬가지,machangaji,마찬가지,the same,noun,R4,Y
+1674,존나,jonna,존나,(profanity),adverb,R4,N
+1675,어젯밤,eojetbam,어젯밤,last night,noun,R4,Y
+1676,공장,gongjang,공장,factory,noun,R4,Y
+1677,병신,byeongsin,병신,(profanity),noun,R4,N
+1678,식당,sikdang,식당,restaurant,noun,R4,Y
+1679,결혼식,gyeolhonsik,결혼식,wedding,noun,R4,Y
+1680,이틀,iteul,이틀,two days,noun,R4,Y
+1681,일주일,iljuil,일주일,a week,noun,R4,Y
+1682,따라가다,ttaragada,따라가다,follow,verb,R4,N
+1683,보호자,bohoja,보호자,guardian,noun,R4,Y
+1684,잘리다,jallida,잘리다,get fired,verb,R4,N
+1685,똑같이,ttokgachi,똑같이,equally,adverb,R4,N
+1686,중전,jungjeon,중전,queen,noun,R4,Y
+1687,물다,mulda,물다,to bite,verb,R4,N
+1688,시민,simin,시민,citizen,noun,R4,Y
+1689,묵다,mukda,묵다,stay,verb,R4,N
+1690,다면서요,damyeonseoyo,다면서요,(ending),grammar,R4,N
+1691,쫓다,jjotda,쫓다,chase,verb,R4,N
+1692,추적,chujeok,추적,tracking,noun,R4,Y
+1693,추가,chuga,추가,addition,noun,R4,Y
+1694,영장,yeongjang,영장,warrant,noun,R4,Y
+1695,충격,chunggyeok,충격,shock,noun,R4,Y
+1696,예약,yeyak,예약,reservation,noun,R4,Y
+1697,애초,aecho,애초,from the start,noun,R4,Y
+1698,자세,jase,자세,(suffix),grammar,R4,N
+1699,지수호,jisuho,지수호,(name),noun,R4,N
+1700,친,chin,친,(suffix),grammar,R4,N
+1701,덜,deol,덜,less,adverb,R4,N
+1702,율,yul,율,(suffix),grammar,R4,N
+1703,이르다,ireuda,이르다,early; tell on,verb,R4,N
+1704,상하다,sanghada,상하다,to spoil; to be hurt,verb,R4,N
+1705,본,bon,본,main,determiner,R4,N
+1706,정확히,jeonghwaki,정확히,exactly,adverb,R4,N
+1707,신다,sinda,신다,to put on (shoes),verb,R4,N
+1708,끓이다,kkeulida,끓이다,boil,verb,R4,N
+1709,날씨,nalssi,날씨,weather,noun,R4,Y
+1710,근무,geunmu,근무,work (duty),noun,R4,Y
+1711,인하다,inhada,인하다,to be due to,verb,R4,N
+1712,생명,saengmyeong,생명,life,noun,R4,Y
+1713,월급,wolgeup,월급,salary,noun,R4,Y
+1714,소주,soju,소주,soju,noun,R4,Y
+1715,쟁이,jaengi,쟁이,(suffix),grammar,R4,N
+1716,즐겁다,jeulgeopda,즐겁다,"fun, joyful",adjective,R4,N
+1717,꺼,kkeo,꺼,thing (casual),noun,R4,N
+1718,자라다,jarada,자라다,to grow,verb,R4,N
+1719,혜,hye,혜,(name),noun,R4,N
+1720,자유,jayu,자유,freedom,noun,R4,Y
+1721,거리다,georida,거리다,(suffix),grammar,R4,N
+1722,동지,dongji,동지,comrade,noun,R4,Y
+1723,대단하다,daedanhada,대단하다,amazing,adjective,R4,N
+1724,협조,hyeopjo,협조,cooperation,noun,R4,Y
+1725,지호,jiho,지호,(name),noun,R4,N
+1726,목격자,mokgyeokja,목격자,witness,noun,R4,Y
+1727,어이구,eoigu,어이구,oh my,interjection,R4,N
+1728,조용,joyong,조용,(suffix),grammar,R4,N
+1729,수색,susaek,수색,search,noun,R4,Y
+1730,뿌리다,ppurida,뿌리다,to sprinkle,verb,R4,N
+1731,점점,jeomjeom,점점,rapidly,adverb,R4,N
+1732,깔다,kkalda,깔다,lay out,verb,R4,N
+1733,폭행,pokaeng,폭행,assault,noun,R4,Y
+1734,솔,sol,솔,(fragment),noun,R4,N
+1735,감옥,gamok,감옥,prison,noun,R4,Y
+1736,별거,byeolgeo,별거,big deal,noun,R4,Y
+1737,마약,mayak,마약,drugs,noun,R4,Y
+1738,실망,silmang,실망,disappointment,noun,R4,Y
+1739,설레다,seolleda,설레다,flutter,verb,R4,N
+1740,피다,pida,피다,to bloom,verb,R4,N
+1741,벌이다,beorida,벌이다,start (something),verb,R4,N
+1742,아니면,animyeon,아니면,or else,adverb,R4,N
+1743,속상하다,soksanghada,속상하다,upset,adjective,R4,N
+1744,형제,hyeongje,형제,siblings,noun,R4,Y
+1745,사옵니다,saomnida,사옵니다,(ending),grammar,R4,N
+1746,비슷,biseut,비슷,(suffix),grammar,R4,N
+1747,피디,pidi,피디,producer,noun,R4,Y
+1748,꽉,kkwak,꽉,tightly,adverb,R4,N
+1749,저주,jeoju,저주,curse,noun,R4,Y
+1750,마치다,machida,마치다,to finish,verb,R4,N
+1751,게다가,gedaga,게다가,besides,adverb,R4,N
+1752,희망,huimang,희망,hope,noun,R4,Y
+1753,어둡다,eodupda,어둡다,dark,adjective,R4,N
+1754,그니까,geunikka,그니까,"I mean, right",adverb,R4,N
+1755,진술,jinsul,진술,statement,noun,R4,Y
+1756,으로서,euroseo,으로서,(particle),grammar,R4,N
+1757,전달,jeondal,전달,delivery,noun,R4,Y
+1758,측,cheuk,측,side,noun,R4,N
+1759,대장,daejang,대장,leader; colon,noun,R4,Y
+1760,거지,geoji,거지,beggar,noun,R4,Y
+1761,끼,kki,끼,meal (counter); talent,noun,R4,N
+1762,지역,jiyeok,지역,region,noun,R4,Y
+1763,정체,jeongche,정체,true identity,noun,R4,Y
+1764,요리,yori,요리,"cooking, dish",noun,R4,Y
+1765,현실,hyeonsil,현실,reality,noun,R4,Y
+1766,기도,gido,기도,prayer,noun,R4,Y
+1767,요원,yowon,요원,agent,noun,R4,Y
+1768,영재,yeongjae,영재,(name),noun,R4,N
+1769,광고,gwanggo,광고,advertisement,noun,R4,Y
+1770,용기,yonggi,용기,courage,noun,R4,Y
+1771,향,hyang,향,to head toward,noun,R4,Y
+1772,명령,myeongnyeong,명령,order,noun,R4,Y
+1773,깨지다,kkaejida,깨지다,break,verb,R4,N
+1774,밉다,mipda,밉다,hateful,adjective,R4,N
+1775,역,yeok,역,station,noun,R4,Y
+1776,혀,hyeo,혀,tongue,noun,R4,Y
+1777,중국,jungguk,중국,China,noun,R4,N
+1778,마왕,mawang,마왕,demon king,noun,R4,N
+1779,창,chang,창,window,noun,R4,Y
+1780,골,gol,골,goal,noun,R4,Y
+1781,재단,jaedan,재단,foundation,noun,R4,Y
+1782,어깨,eokkae,어깨,shoulder,noun,R4,Y
+1783,작년,jangnyeon,작년,last year,noun,R4,Y
+1784,ᆯ라,ᆯra,ᆯ라,(ending),grammar,R4,N
+1785,무릎,mureup,무릎,knee,noun,R4,Y
+1786,쫙,jjwak,쫙,widely,adverb,R4,N
+1787,춤,chum,춤,dance,noun,R4,Y
+1788,마저,majeo,마저,even,adverb,R4,N
+1789,고향,gohyang,고향,hometown,noun,R4,Y
+1790,라니요,raniyo,라니요,(ending),grammar,R4,N
+1791,하도,hado,하도,so much,adverb,R4,N
+1792,넷,net,넷,four,numeral,R4,N
+1793,보안,boan,보안,security,noun,R4,Y
+1794,닭,dak,닭,chicken,noun,R4,Y
+1795,경기,gyeonggi,경기,"game, match",noun,R4,Y
+1796,훌륭,hullyung,훌륭,(suffix),grammar,R4,N
+1797,견디다,gyeondida,견디다,endure,verb,R4,N
+1798,카페,kape,카페,cafe,noun,R4,Y
+1799,소송,sosong,소송,lawsuit,noun,R4,Y
+1800,똑똑,ttokttok,똑똑,(suffix),grammar,R4,N
+1801,선우,seonu,선우,(name),noun,R4,N
+1802,흔적,heunjeok,흔적,trace,noun,R4,Y
+1803,정말로,jeongmallo,정말로,really,adverb,R4,N
+1804,겨울,gyeoul,겨울,winter,noun,R4,Y
+1805,주인공,juingong,주인공,main character,noun,R4,Y
+1806,금지,geumji,금지,prohibition,noun,R4,Y
+1807,방향,banghyang,방향,direction,noun,R4,Y
+1808,손가락,songarak,손가락,finger,noun,R4,Y
+1809,무너지다,muneojida,무너지다,collapse,verb,R4,N
+1810,소설,soseol,소설,novel,noun,R4,Y
+1811,조심히,josimhi,조심히,carefully,adverb,R4,N
+1812,임금,imgeum,임금,king; wage,noun,R4,Y
+1813,폭탄,poktan,폭탄,bomb,noun,R4,Y
+1814,증언,jeungeon,증언,testimony,noun,R4,Y
+1815,쥐,jwi,쥐,to grip,noun,R4,Y
+1816,임마,imma,임마,you (rude),interjection,R4,N
+1817,각,gak,각,each,determiner,R4,N
+1818,인턴,inteon,인턴,intern,noun,R4,Y
+1819,반지,banji,반지,ring,noun,R4,Y
+1820,쳐다보다,chyeodaboda,쳐다보다,stare at,verb,R4,N
+1821,느라고,neurago,느라고,(ending),grammar,R4,N
+1822,이봐,ibwa,이봐,hey you,interjection,R4,N
+1823,이제야,ijeya,이제야,only now,adverb,R4,N
+1824,애쓰다,aesseuda,애쓰다,try hard,verb,R4,N
+1825,속다,sokda,속다,to deceive,verb,R4,N
+1826,눈빛,nunbit,눈빛,look in one's eyes,noun,R4,Y
+1827,부자,buja,부자,rich person,noun,R4,Y
+1828,여름,yeoreum,여름,summer,noun,R4,Y
+1829,시계,sigye,시계,"watch, clock",noun,R4,Y
+1830,사항,sahang,사항,matter,noun,R4,N
+1831,졸업,joreop,졸업,graduation,noun,R4,Y
+1832,상담,sangdam,상담,consultation,noun,R4,Y
+1833,스톱,seutop,스톱,stop,noun,R4,Y
+1834,아뇨,anyo,아뇨,no,interjection,R4,N
+1835,매력,maeryeok,매력,charm,noun,R4,Y
+1836,울리다,ullida,울리다,ring; make cry,verb,R4,N
+1837,늘다,neulda,늘다,to increase,verb,R4,N
+1838,인터넷,inteonet,인터넷,internet,noun,R4,Y
+1839,굿,gut,굿,good,noun,R4,Y
+1840,은가,eunga,은가,(ending),grammar,R4,N
+1841,던가,deonga,던가,(ending),grammar,R4,N
+1842,줍다,jupda,줍다,pick up,verb,R4,N
+1843,예술,yesul,예술,art,noun,R4,Y
+1844,ᆫ대요,ᆫdaeyo,ᆫ대요,(ending),grammar,R4,N
+1845,대가리,daegari,대가리,head (rude),noun,R4,N
+1846,유지,yuji,유지,maintenance,noun,R4,Y
+1847,비우다,biuda,비우다,empty,verb,R4,N
+1848,코치,kochi,코치,coach,noun,R4,Y
+1849,제보,jebo,제보,tip-off,noun,R4,Y
+1850,매니저,maenijeo,매니저,manager,noun,R4,Y
+1851,으라,eura,으라,(ending),grammar,R4,N
+1852,니다,nida,니다,(ending),grammar,R4,N
+1853,독,dok,독,poison,noun,R4,Y
+1854,올해,olhae,올해,this year,noun,R4,N
+1855,ᆸ소서,ᆸsoseo,ᆸ소서,(ending),grammar,R4,N
+1856,복잡,bokjap,복잡,(suffix),grammar,R4,N
+1857,이루다,iruda,이루다,achieve,verb,R4,N
+1858,정답,jeongdap,정답,correct answer,noun,R4,Y
+1859,뒈지다,dwejida,뒈지다,(rude) die,verb,R4,N
+1860,시대,sidae,시대,era,noun,R4,Y
+1861,다시피,dasipi,다시피,(ending),grammar,R4,N
+1862,떡,tteok,떡,rice cake,noun,R4,Y
+1863,내부,naebu,내부,inside,noun,R4,Y
+1864,감시,gamsi,감시,surveillance,noun,R4,Y
+1865,합의,habui,합의,agreement,noun,R4,Y
+1866,신기,singi,신기,(suffix),grammar,R4,N
+1867,마주치다,majuchida,마주치다,run into,verb,R4,N
+1868,영감,yeonggam,영감,old man; inspiration,noun,R4,Y
+1869,과정,gwajeong,과정,process,noun,R4,Y
+1870,내놓다,naenota,내놓다,put out,verb,R4,N
+1871,갈다,galda,갈다,to change; to grind,verb,R4,N
+1872,센터,senteo,센터,center,noun,R4,Y
+1873,각자,gakja,각자,each,adverb,R4,N
+1874,임,im,임,(fragment),noun,R4,N
+1875,투,tu,투,two,noun,R4,Y
+1876,배신,baesin,배신,betrayal,noun,R4,Y
+1877,오리지널,orijineol,오리지널,original,noun,R4,Y
+1878,혼,hon,혼,soul,noun,R4,Y
+1879,여섯,yeoseot,여섯,six,numeral,R4,N
+1880,여성,yeoseong,여성,woman,noun,R4,Y
+1881,관두다,gwanduda,관두다,quit,verb,R4,N
+1882,좋아,joa,좋아,"good, okay",interjection,R4,N
+1883,에다가,edaga,에다가,(particle),grammar,R4,N
+1884,빨리빨리,ppallippalli,빨리빨리,hurry hurry,adverb,R4,N
+1885,석주,seokju,석주,(name),noun,R4,N
+1886,셰프,syepeu,셰프,chef,noun,R4,N
+1887,원망,wonmang,원망,resentment,noun,R4,Y
+1888,설득,seoldeuk,설득,persuasion,noun,R4,Y
+1889,떡볶이,tteokbokki,떡볶이,tteokbokki,noun,R4,Y
+1890,기쁘다,gippeuda,기쁘다,happy,adjective,R4,N
+1891,삼다,samda,삼다,to make (someone) into,verb,R4,N
+1892,바치다,bachida,바치다,offer,verb,R4,N
+1893,합격,hapgyeok,합격,passing (exam),noun,R4,Y
+1894,곱다,gopda,곱다,"fine, pretty",adjective,R4,N
+1895,위로,wiro,위로,comfort,noun,R4,Y
+1896,경고,gyeonggo,경고,warning,noun,R4,Y
+1897,마르다,mareuda,마르다,dry; thin,verb,R4,N
+1898,캐다,kaeda,캐다,dig,verb,R4,N
+1899,직업,jigeop,직업,job,noun,R4,Y
+1900,흐르다,heureuda,흐르다,flow,verb,R4,N
+1901,향하다,hyanghada,향하다,to head toward,verb,R4,N
+1902,아파트,apateu,아파트,apartment,noun,R4,Y
+1903,의지,uiji,의지,to rely on,noun,R4,Y
+1904,힘내다,himnaeda,힘내다,cheer up,verb,R4,N
+1905,복귀,bokgwi,복귀,return,noun,R4,Y
+1906,그릇,geureut,그릇,bowl,noun,R4,Y
+1907,적당히,jeokdanghi,적당히,moderately,adverb,R4,N
+1908,영원히,yeongwonhi,영원히,forever,adverb,R4,N
+1909,어미,eomi,어미,mother (animal),noun,R4,Y
+1910,전체,jeonche,전체,whole,noun,R4,Y
+1911,닿다,data,닿다,to touch,verb,R4,N
+1912,박다,bakda,박다,to hammer in,verb,R4,N
+1913,급,geup,급,"level, grade",noun,R4,Y
+1914,아주머니,ajumeoni,아주머니,ma'am,noun,R4,Y
+1915,추다,chuda,추다,dance,verb,R4,N
+1916,당기다,danggida,당기다,pull,verb,R4,N
+1917,그분,geubun,그분,that person (hon.),pronoun,R4,N
+1918,흠,heum,흠,hmm,interjection,R4,N
+1919,죽,juk,죽,to die,noun,R4,Y
+1920,동주,dongju,동주,(name),noun,R4,N
+1921,스타,seuta,스타,star,noun,R4,Y
+1922,평범,pyeongbeom,평범,(suffix),grammar,R4,N
+1923,제공,jegong,제공,provision,noun,R4,Y
+1924,계좌,gyejwa,계좌,bank account,noun,R4,Y
+1925,자수,jasu,자수,turning oneself in,noun,R4,Y
+1926,조차,jocha,조차,(particle),grammar,R4,N
+1927,봄,bom,봄,spring,noun,R4,Y
+1928,고자,goja,고자,(ending),grammar,R4,N
+1929,고양이,goyangi,고양이,cat,noun,R4,Y
+1930,패다,paeda,패다,beat up,verb,R4,N
+1931,표현,pyohyeon,표현,expression,noun,R4,Y
+1932,갇히다,gatida,갇히다,be trapped,verb,R4,N
+1933,강아지,gangaji,강아지,puppy,noun,R4,Y
+1934,관하다,gwanhada,관하다,concern,verb,R4,N
+1935,고작,gojak,고작,only,adverb,R4,N
+1936,깔끔,kkalkkeum,깔끔,(suffix),grammar,R4,N
+1937,우아,ua,우아,wow,interjection,R4,N
+1938,스트레스,seuteureseu,스트레스,stress,noun,R4,Y
+1939,폭력,pongnyeok,폭력,violence,noun,R4,Y
+1940,악귀,akgwi,악귀,evil spirit,noun,R4,N
+1941,주무시다,jumusida,주무시다,sleep (honorific),verb,R4,N
+1942,환,hwan,환,(suffix),grammar,R4,N
+1943,고소,goso,고소,lawsuit,noun,R4,Y
+1944,제안,jean,제안,proposal,noun,R4,Y
+1945,쫄다,jjolda,쫄다,be scared (slang),verb,R4,N
+1946,안정,anjeong,안정,to calm down,noun,R4,Y
+1947,동백,dongbaek,동백,(name),noun,R4,N
+1948,구속,gusok,구속,detention,noun,R4,Y
+1949,접근,jeopgeun,접근,approach,noun,R4,Y
+1950,일으키다,ireukida,일으키다,raise,verb,R4,N
+1951,쥐다,jwida,쥐다,to grip,verb,R4,N
+1952,유학,yuhak,유학,study abroad,noun,R4,Y
+1953,군대,gundae,군대,army,noun,R4,Y
+1954,수학,suhak,수학,math,noun,R4,Y
+1955,기술,gisul,기술,technology,noun,R4,Y
+1956,겸,gyeom,겸,also serving as,noun,R4,N
+1957,시절,sijeol,시절,"days, era",noun,R4,Y
+1958,실험,silheom,실험,experiment,noun,R4,Y
+1959,퇴원,toewon,퇴원,discharge from hospital,noun,R4,Y
+1960,업체,eopche,업체,company,noun,R4,Y
+1961,별일,byeoril,별일,something unusual,noun,R4,Y
+1962,스케줄,seukejul,스케줄,schedule,noun,R4,Y
+1963,뻥,ppeong,뻥,lie (slang),noun,R4,Y
+1964,규,gyu,규,(name),noun,R4,N
+1965,암,am,암,cancer; rock,interjection,R4,N
+1966,빛,bit,빛,light,noun,R4,Y
+1967,로봇,robot,로봇,robot,noun,R4,Y
+1968,감당,gamdang,감당,handle,noun,R4,Y
+1969,가만있다,gamanitda,가만있다,stay still,verb,R4,N
+1970,처벌,cheobeol,처벌,punishment,noun,R4,Y
+1971,꼬,kko,꼬,(ending),grammar,R4,N
+1972,건배,geonbae,건배,cheers,noun,R4,Y
+1973,밝다,bakda,밝다,bright,adjective,R4,N
+1974,끔찍,kkeumjjik,끔찍,(suffix),grammar,R4,N
+1975,푹,puk,푹,deeply (sleep),adverb,R4,N
+1976,즐기다,jeulgida,즐기다,to enjoy,verb,R4,N
+1977,도로,doro,도로,road,adverb,R4,N
+1978,고등학교,godeunghakgyo,고등학교,high school,noun,R4,Y
+1979,경험,gyeongheom,경험,experience,noun,R4,Y
+1980,특별히,teukbyeolhi,특별히,specially,adverb,R4,N
+1981,한데,hande,한데,but,noun,R4,N
+1982,으나,euna,으나,(ending),grammar,R4,N
+1983,깜빡,kkamppak,깜빡,forget for a moment,adverb,R4,N
+1984,실은,sireun,실은,actually,adverb,R4,N
+1985,구역,guyeok,구역,zone,noun,R4,Y
+1986,언제나,eonjena,언제나,always,adverb,R4,N
+1987,휴가,hyuga,휴가,vacation,noun,R4,Y
+1988,몰다,molda,몰다,to drive,verb,R4,N
+1989,주장,jujang,주장,claim,noun,R4,Y
+1990,씹다,ssipda,씹다,chew,verb,R4,N
+1991,방식,bangsik,방식,method,noun,R4,Y
+1992,영어,yeongeo,영어,English,noun,R4,N
+1993,교육,gyoyuk,교육,education,noun,R4,Y
+1994,대가,daega,대가,"price, cost",noun,R4,Y
+1995,라디오,radio,라디오,radio,noun,R4,Y
+1996,입원,ibwon,입원,hospitalization,noun,R4,Y
+1997,넘어지다,neomeojida,넘어지다,fall down,verb,R4,N
+1998,기에,gie,기에,(ending),grammar,R4,N
+1999,정의,jeongui,정의,justice; definition,noun,R4,Y
+2000,기본,gibon,기본,basic,noun,R4,Y
+2001,핑계,pinggye,핑계,excuse,noun,R4,Y
+2002,아부지,abuji,아부지,dad (dialect),noun,R4,N
+2003,검,geom,검,black,noun,R4,Y
+2004,서비스,seobiseu,서비스,service,noun,R4,Y
+2005,일곱,ilgop,일곱,seven,numeral,R4,N
+2006,동영상,dongyeongsang,동영상,video,noun,R4,Y
+2007,내보내다,naebonaeda,내보내다,send out,verb,R4,N
+2008,모델,model,모델,model,noun,R4,Y
+2009,목표,mokpyo,목표,goal,noun,R4,Y
+2010,와인,wain,와인,wine,noun,R4,Y
+2011,조카,joka,조카,"nephew, niece",noun,R4,Y
+2012,파일,pail,파일,file,noun,R4,Y
+2013,내내,naenae,내내,throughout,adverb,R4,N
+2014,응원,eungwon,응원,cheering,noun,R4,Y
+2015,질투,jiltu,질투,jealousy,noun,R4,Y
+2016,뒤집다,dwijipda,뒤집다,turn over,verb,R4,N
+2017,일정,iljeong,일정,schedule,noun,R4,Y
+2018,경위,gyeongwi,경위,inspector,noun,R4,Y
+2019,긴급,gingeup,긴급,urgent,noun,R4,Y
+2020,수호,suho,수호,(name),noun,R4,N
+2021,까먹다,kkameokda,까먹다,forget,verb,R4,N
+2022,매,mae,매,every; hawk,adverb,R4,N
+2023,섬,seom,섬,island,noun,R4,Y
+2024,접다,jeopda,접다,fold,verb,R4,N
+2025,이서,iseo,이서,(particle),grammar,R4,N
+2026,마누라,manura,마누라,wife (casual),noun,R4,Y
+2027,음성,eumseong,음성,voice,noun,R4,Y
+2028,작정,jakjeong,작정,intention,noun,R4,Y
+2029,계집애,gyejibae,계집애,girl (rude),noun,R4,N
+2030,근,geun,근,nearly,determiner,R4,N
+2031,노리다,norida,노리다,aim at,verb,R4,N
+2032,김치,gimchi,김치,kimchi,noun,R4,Y
+2033,잠들다,jamdeulda,잠들다,fall asleep,verb,R4,N
+2034,던데요,deondeyo,던데요,(ending),grammar,R4,N
+2035,부정,bujeong,부정,negative; injustice,noun,R4,Y
+2036,화나다,hwanada,화나다,get angry,verb,R4,N
+2037,중간,junggan,중간,middle,noun,R4,Y
+2038,빅,bik,빅,big,noun,R4,Y
+2039,이사장,isajang,이사장,chairman,noun,R4,Y
+2040,벗어나다,beoseonada,벗어나다,escape,verb,R4,N
+2041,마침,machim,마침,just then,adverb,R4,N
+2042,한테서,hanteseo,한테서,(particle),grammar,R4,N
+2043,날짜,naljja,날짜,date,noun,R4,Y
+2044,아드님,adeunim,아드님,son (honorific),noun,R4,N
+2045,묶다,mukda,묶다,tie,verb,R4,N
+2046,마이,mai,마이,my,noun,R4,N
+2047,허리,heori,허리,waist,noun,R4,Y
+2048,정원,jeongwon,정원,garden; quota,noun,R4,Y
+2049,좌상,jwasang,좌상,(title),noun,R4,N
+2050,감추다,gamchuda,감추다,hide,verb,R4,N
+2051,인질,injil,인질,hostage,noun,R4,Y
+2052,포,po,포,(fragment),noun,R4,N
+2053,확신,hwaksin,확신,certainty,noun,R4,Y
+2054,폐,pye,폐,lungs; trouble,noun,R4,Y
+2055,찾아내다,chajanaeda,찾아내다,find out,verb,R4,N
+2056,회복,hoebok,회복,recovery,noun,R4,Y
 2057,탈출,talchul,탈출,escape,noun,R4,Y
-2058,혐의,hyeomui,혐의,suspicion,noun,R4,Y
-2059,형식,hyeongsik,형식,format,noun,R4,Y
-2060,흥미,heungmi,흥미,interest,noun,R4,N
-2061,new,new,new,,foreign,R4,N
-2062,가스,gaseu,가스,gas,noun,R4,Y
-2063,감염,gamyeom,감염,infection,noun,R4,Y
-2064,교체,gyoche,교체,replacement,noun,R4,Y
-2065,구속,gusok,구속,detention,noun,R4,Y
-2066,구입,guip,구입,purchase,noun,R4,Y
-2067,금융,geumyung,금융,finance,noun,R4,Y
-2068,기독교,gidokgyo,기독교,Christianity,noun,R4,Y
-2069,꼴,kkol,꼴,"state, look",noun,R4,N
-2070,드릴게요,deurilgeyo,드릴게요,,grammar,R4,N
-2071,따른,ttareun,따른,according to,determiner,R4,N
-2072,로봇,robot,로봇,robot,noun,R4,Y
-2073,롤,rol,롤,role; (game),noun,R4,N
-2074,롯데,rotde,롯데,(company),noun,R4,N
-2075,마이,mai,마이,my,noun,R4,Y
-2076,만날,mannal,만날,,grammar,R4,N
-2077,모아,moa,모아,,grammar,R4,N
-2078,무역,muyeok,무역,trade,noun,R4,Y
-2079,바이러스,baireoseu,바이러스,virus,noun,R4,Y
-2080,박스,bakseu,박스,box,noun,R4,Y
-2081,반드시,bandeusi,반드시,surely,adverb,R4,N
-2082,보수,bosu,보수,conservative; repair,noun,R4,Y
-2083,봉,bong,봉,stick; (fragment),noun,R4,N
-2084,빠져,ppajyeo,빠져,,grammar,R4,N
-2085,세포,sepo,세포,cell,noun,R4,Y
-2086,스트레스,seuteureseu,스트레스,stress,noun,R4,N
-2087,신뢰,silloe,신뢰,trust,noun,R4,Y
-2088,에겐,egen,에겐,,grammar,R4,N
-2089,영혼,yeonghon,영혼,soul,noun,R4,N
-2090,인데요,indeyo,인데요,,grammar,R4,N
-2091,장군,janggun,장군,general,noun,R4,N
-2092,전시,jeonsi,전시,exhibition,noun,R4,Y
-2093,제기,jegi,제기,raising (issue),interjection,R4,N
-2094,종이,jongi,종이,paper,noun,R4,Y
-2095,지하철,jihacheol,지하철,subway,noun,R4,Y
-2096,켜,kyeo,켜,,grammar,R4,N
-2097,탄생,tansaeng,탄생,birth,noun,R4,N
-2098,특성,teukseong,특성,characteristic,noun,R4,Y
-2099,평,pyeong,평,,grammar,R4,N
-2100,표정,pyojeong,표정,facial expression,noun,R4,Y
-2101,향,hyang,향,to head toward,noun,R4,N
-2102,협상,hyeopsang,협상,negotiation,noun,R4,Y
-2103,an,an,an,,foreign,R4,N
-2104,감동,gamdong,감동,being moved,noun,R4,Y
-2105,강하,gangha,강하,strong,noun,R4,Y
-2106,경주,gyeongju,경주,Gyeongju; race,noun,R4,N
-2107,공무원,gongmuwon,공무원,civil servant,noun,R4,Y
-2108,구축,guchuk,구축,building (system),noun,R4,N
-2109,그램,geuraem,그램,gram,noun,R4,Y
-2110,기구,gigu,기구,organization; apparatus,noun,R4,Y
-2111,넷,net,넷,four,numeral,R4,N
-2112,는다는,neundaneun,는다는,,grammar,R4,N
-2113,다수,dasu,다수,majority,noun,R4,Y
-2114,대행,daehaeng,대행,agency,noun,R4,Y
-2115,도서관,doseogwan,도서관,library,noun,R4,Y
-2116,돼요,dwaeyo,돼요,,grammar,R4,N
-2117,리스트,riseuteu,리스트,list,noun,R4,Y
-2118,반면,banmyeon,반면,on the other hand,noun,R4,N
-2119,벗어나,beoseona,벗어나,,grammar,R4,N
-2120,벨,bel,벨,bell,noun,R4,N
-2121,분노,bunno,분노,rage,noun,R4,Y
-2122,빵,ppang,빵,bread,noun,R4,N
-2123,사례,sarye,사례,example,noun,R4,Y
-2124,셔야,syeoya,셔야,,grammar,R4,N
-2125,어라,eora,어라,huh?,interjection,R4,N
-2126,어려운,eoryeoun,어려운,,grammar,R4,N
-2127,언젠가,eonjenga,언젠가,someday,adverb,R4,N
-2128,온도,ondo,온도,temperature,noun,R4,Y
-2129,워,wo,워,,grammar,R4,N
-2130,임무,immu,임무,mission,noun,R4,Y
-2131,정체,jeongche,정체,true identity,noun,R4,N
-2132,제임스,jeimseu,제임스,(name),noun,R4,N
-2133,조성,joseong,조성,creation,noun,R4,Y
-2134,지배,jibae,지배,domination,noun,R4,Y
-2135,청주,cheongju,청주,Cheongju,noun,R4,N
-2136,체결,chegyeol,체결,conclusion (treaty),noun,R4,Y
-2137,타임,taim,타임,time,noun,R4,N
-2138,태어나,taeeona,태어나,,grammar,R4,N
-2139,패션,paesyeon,패션,fashion,noun,R4,Y
-2140,하드,hadeu,하드,hard,noun,R4,Y
-2141,학과,hakgwa,학과,department,noun,R4,Y
-2142,한국인,hangugin,한국인,Korean (person),noun,R4,N
-2143,허,heo,허,,grammar,R4,N
-2144,헌법,heonbeop,헌법,constitution,noun,R4,Y
-2145,go,go,go,,foreign,R4,N
-2146,sk,sk,sk,,foreign,R4,N
-2147,y,y,y,,foreign,R4,N
-2148,z,z,z,,foreign,R4,N
-2149,가게,gage,가게,store,noun,R4,Y
-2150,갑,gap,갑,,grammar,R4,N
-2151,개정,gaejeong,개정,revision,noun,R4,Y
-2152,거쳐,geochyeo,거쳐,,grammar,R4,N
-2153,게다가,gedaga,게다가,besides,adverb,R4,N
-2154,그날,geunal,그날,that day,other,R4,N
-2155,그동안,geudongan,그동안,meanwhile,noun,R4,Y
-2156,꺼내,kkeonae,꺼내,,grammar,R4,N
-2157,끼리,kkiri,끼리,,grammar,R4,N
-2158,내내,naenae,내내,throughout,adverb,R4,N
-2159,단위,danwi,단위,unit,noun,R4,Y
-2160,담배,dambae,담배,cigarette,noun,R4,Y
-2161,대선,daeseon,대선,presidential election,noun,R4,Y
-2162,레드,redeu,레드,red,noun,R4,Y
-2163,머,meo,머,what (casual),interjection,R4,N
-2164,물리,mulli,물리,physics,noun,R4,Y
-2165,박물관,bangmulgwan,박물관,museum,noun,R4,Y
-2166,버,beo,버,,grammar,R4,N
-2167,베트남,beteunam,베트남,Vietnam,noun,R4,N
-2168,봐도,bwado,봐도,,grammar,R4,N
-2169,셀,sel,셀,cell; selfie,noun,R4,N
-2170,소장,sojang,소장,director; possession,noun,R4,Y
-2171,신부,sinbu,신부,bride; priest,noun,R4,Y
-2172,어른,eoreun,어른,adult,noun,R4,Y
-2173,역대,yeokdae,역대,all-time,noun,R4,N
-2174,요새,yosae,요새,these days,noun,R4,Y
-2175,이틀,iteul,이틀,two days,noun,R4,Y
-2176,인가요,ingayo,인가요,,grammar,R4,N
-2177,일어났,ireonat,일어났,,grammar,R4,N
-2178,재단,jaedan,재단,foundation,noun,R4,Y
-2179,창조,changjo,창조,creation,noun,R4,Y
-2180,측면,cheungmyeon,측면,aspect,noun,R4,Y
-2181,켄,ken,켄,,grammar,R4,N
-2182,테스트,teseuteu,테스트,test,noun,R4,Y
-2183,피곤,pigon,피곤,tired,noun,R4,Y
-2184,합의,habui,합의,agreement,noun,R4,Y
-2185,행,haeng,행,row; going,noun,R4,N
-2186,행성,haengseong,행성,planet,noun,R4,Y
-2187,허가,heoga,허가,permission,noun,R4,Y
-2188,that,that,that,,foreign,R4,N
-2189,vs,vs,vs,,foreign,R4,N
-2190,강의,gangui,강의,lecture,noun,R4,Y
-2191,고기,gogi,고기,meat,noun,R4,Y
-2192,깨끗,kkaekkeut,깨끗,,grammar,R4,N
-2193,너무나,neomuna,너무나,so very,adverb,R4,N
-2194,눈물,nunmul,눈물,tears,noun,R4,Y
-2195,는다고,neundago,는다고,,grammar,R4,N
-2196,니깐,nikkan,니깐,,grammar,R4,N
-2197,닫,dat,닫,to close,other,R4,N
-2198,대형,daehyeong,대형,large-size,noun,R4,Y
-2199,도전,dojeon,도전,challenge,noun,R4,Y
-2200,떨어져,tteoreojyeo,떨어져,,grammar,R4,N
-2201,라디오,radio,라디오,radio,noun,R4,Y
-2202,래요,raeyo,래요,,grammar,R4,N
-2203,러브,reobeu,러브,love,noun,R4,N
-2204,로마,roma,로마,Rome,noun,R4,N
-2205,린,rin,린,,grammar,R4,N
-2206,맞추,matchu,맞추,to match,verb,R4,N
-2207,맞춰,matchwo,맞춰,,grammar,R4,N
-2208,멋지,meotji,멋지,"cool, stylish",adjective,R4,N
-2209,모임,moim,모임,gathering,noun,R4,Y
-2210,바라보,barabo,바라보,look at,verb,R4,N
-2211,블루,beullu,블루,blue,noun,R4,Y
-2212,사기,sagi,사기,fraud,noun,R4,Y
-2213,사무실,samusil,사무실,office,noun,R4,Y
-2214,서버,seobeo,서버,server,noun,R4,Y
-2215,성우,seongu,성우,voice actor,noun,R4,Y
-2216,스페셜,seupesyeol,스페셜,special,noun,R4,N
-2217,신용,sinyong,신용,trust,noun,R4,Y
-2218,실력,sillyeok,실력,skill,noun,R4,N
-2219,싱,sing,싱,,grammar,R4,N
-2220,씨발,ssibal,씨발,(profanity),interjection,R4,N
-2221,어울리,eoulli,어울리,to suit,verb,R4,N
-2222,웃음,useum,웃음,laughter,noun,R4,Y
-2223,으므로,eumeuro,으므로,,grammar,R4,N
-2224,의도,uido,의도,intention,noun,R4,Y
-2225,이리,iri,이리,this way,adverb,R4,N
-2226,이외,ioe,이외,other than,noun,R4,N
-2227,일어난,ireonan,일어난,,grammar,R4,N
-2228,자치,jachi,자치,self-governance,noun,R4,Y
-2229,조치,jochi,조치,measure,noun,R4,Y
-2230,종료,jongnyo,종료,end,noun,R4,Y
-2231,주위,juwi,주위,surroundings,noun,R4,Y
-2232,챔피언,chaempieon,챔피언,champion,noun,R4,Y
-2233,키우,kiu,키우,raise,noun,R4,Y
-2234,팅,ting,팅,,grammar,R4,N
-2235,q,q,q,,foreign,R4,N
-2236,경남,gyeongnam,경남,Gyeongnam,noun,R4,N
-2237,경력,gyeongnyeok,경력,career,noun,R4,Y
-2238,고정,gojeong,고정,fixed,noun,R4,Y
-2239,공공,gonggong,공공,public,noun,R4,N
-2240,국립,gungnip,국립,national,noun,R4,Y
-2241,권한,gwonhan,권한,authority,noun,R4,Y
-2242,놀라,nolla,놀라,to be surprised,grammar,R4,N
-2243,닮,dam,닮,to resemble,grammar,R4,N
-2244,도대체,dodaeche,도대체,on earth,adverb,R4,N
-2245,되게,doege,되게,really (casual),adverb,R4,N
-2246,딴,ttan,딴,other,determiner,R4,N
-2247,런,reon,런,,grammar,R4,N
-2248,모자,moja,모자,hat; mother and son,noun,R4,N
-2249,무섭,museop,무섭,scary,other,R4,N
-2250,방해,banghae,방해,hindrance,noun,R4,Y
-2251,범위,beomwi,범위,range,noun,R4,Y
-2252,부스,buseu,부스,booth,noun,R4,Y
-2253,상징,sangjing,상징,symbol,noun,R4,N
-2254,새벽,saebyeok,새벽,dawn,noun,R4,Y
-2255,선발,seonbal,선발,selection,noun,R4,N
-2256,소스,soseu,소스,sauce; source,noun,R4,Y
-2257,순수,sunsu,순수,pure,noun,R4,Y
-2258,슈퍼,syupeo,슈퍼,super(market),noun,R4,Y
-2259,아닌데,aninde,아닌데,,grammar,R4,N
-2260,아라,ara,아라,,grammar,R4,N
-2261,엠,em,엠,,grammar,R4,N
-2262,으세요,euseyo,으세요,,grammar,R4,N
-2263,이기,igi,이기,to win,other,R4,N
-2264,인하,inha,인하,reduction,noun,R4,Y
-2265,임신,imsin,임신,pregnancy,noun,R4,Y
-2266,쟤,jyae,쟤,that kid,pronoun,R4,N
-2267,전문가,jeonmunga,전문가,expert,noun,R4,Y
-2268,즐거운,jeulgeoun,즐거운,,grammar,R4,N
-2269,지도자,jidoja,지도자,leader,noun,R4,Y
-2270,지수,jisu,지수,index,noun,R4,Y
-2271,콜,kol,콜,call,noun,R4,N
-2272,튀,twi,튀,splash; stand out,noun,R4,N
-2273,펜,pen,펜,pen,noun,R4,N
-2274,한정,hanjeong,한정,limited,noun,R4,Y
-2275,후회,huhoe,후회,regret,noun,R4,Y
-2276,가방,gabang,가방,bag,noun,R4,Y
-2277,곁,gyeot,곁,side,noun,R4,N
-2278,그분,geubun,그분,that person (hon.),other,R4,N
-2279,노동자,nodongja,노동자,worker,noun,R4,Y
-2280,대만,daeman,대만,Taiwan,noun,R4,N
-2281,대장,daejang,대장,leader; colon,noun,R4,Y
-2282,던가,deonga,던가,,grammar,R4,N
-2283,릴,ril,릴,,grammar,R4,N
-2284,맥주,maekju,맥주,beer,noun,R4,Y
-2285,모드,modeu,모드,mode,noun,R4,Y
-2286,목사,moksa,목사,pastor,noun,R4,Y
-2287,무릎,mureup,무릎,knee,noun,R4,Y
-2288,분류,bullyu,분류,classification,noun,R4,Y
-2289,소통,sotong,소통,communication,noun,R4,Y
-2290,수단,sudan,수단,means,noun,R4,Y
-2291,식품,sikpum,식품,food product,noun,R4,Y
-2292,아름답,areumdap,아름답,beautiful,other,R4,N
-2293,영웅,yeongung,영웅,hero,noun,R4,Y
-2294,영원히,yeongwonhi,영원히,forever,adverb,R4,N
-2295,오랜,oraen,오랜,long (time),determiner,R4,N
-2296,올렸,ollyeot,올렸,,grammar,R4,N
-2297,웨,we,웨,,grammar,R4,N
-2298,위대,widae,위대,,grammar,R4,N
-2299,유튜브,yutyubeu,유튜브,(service),noun,R4,N
-2300,유형,yuhyeong,유형,type,noun,R4,N
-2301,의무,uimu,의무,duty,noun,R4,N
-2302,의지,uiji,의지,to rely on,noun,R4,Y
-2303,지급,jigeup,지급,payment,noun,R4,Y
-2304,확실히,hwaksilhi,확실히,clearly,adverb,R4,N
-2305,흔적,heunjeok,흔적,trace,noun,R4,Y
-2306,https,https,https,,foreign,R4,N
-2307,감소,gamso,감소,decrease,noun,R4,N
-2308,강남,gangnam,강남,Gangnam,noun,R4,N
-2309,강조,gangjo,강조,emphasis,noun,R4,Y
-2310,결합,gyeolhap,결합,combination,noun,R4,Y
-2311,계신,gyesin,계신,,grammar,R4,N
-2312,공포,gongpo,공포,fear,noun,R4,N
-2313,과제,gwaje,과제,task,noun,R4,Y
-2314,관광,gwangwang,관광,tourism,noun,R4,Y
-2315,구경,gugyeong,구경,sightseeing,noun,R4,Y
-2316,날개,nalgae,날개,wing,noun,R4,Y
-2317,농업,nongeop,농업,agriculture,noun,R4,Y
-2318,돌아오,dorao,돌아오,to return,verb,R4,N
-2319,된다면,doendamyeon,된다면,,grammar,R4,N
-2320,들어갔,deureogat,들어갔,,grammar,R4,N
-2321,떨어진,tteoreojin,떨어진,,grammar,R4,N
-2322,마저,majeo,마저,,grammar,R4,N
-2323,맥,maek,맥,pulse; (fragment),noun,R4,N
-2324,배송,baesong,배송,delivery,noun,R4,Y
-2325,버튼,beoteun,버튼,button,noun,R4,Y
-2326,불과,bulgwa,불과,"only, merely",adverb,R4,N
-2327,세종,sejong,세종,Sejong,noun,R4,N
-2328,손상,sonsang,손상,damage,noun,R4,Y
-2329,십니다,simnida,십니다,,grammar,R4,N
-2330,양식,yangsik,양식,form; Western food,noun,R4,Y
-2331,연방,yeonbang,연방,federation,noun,R4,Y
-2332,용기,yonggi,용기,courage,noun,R4,Y
-2333,운명,unmyeong,운명,fate,noun,R4,Y
-2334,이익,iik,이익,profit,noun,R4,Y
-2335,적극,jeokgeuk,적극,actively,noun,R4,Y
-2336,조명,jomyeong,조명,lighting,noun,R4,Y
-2337,조작,jojak,조작,manipulation,noun,R4,Y
-2338,줘요,jwoyo,줘요,,grammar,R4,N
-2339,증상,jeungsang,증상,symptom,noun,R4,Y
-2340,지니,jini,지니,carry,noun,R4,Y
-2341,진화,jinhwa,진화,evolution,noun,R4,Y
-2342,철,cheol,철,iron; season,noun,R4,N
-2343,철학,cheolhak,철학,philosophy,noun,R4,Y
-2344,체육,cheyuk,체육,physical education,noun,R4,N
-2345,초반,choban,초반,early part,noun,R4,N
-2346,측정,cheukjeong,측정,measurement,noun,R4,Y
-2347,칭,ching,칭,,grammar,R4,N
-2348,택시,taeksi,택시,taxi,noun,R4,Y
-2349,통계,tonggye,통계,statistics,noun,R4,Y
-2350,페이스북,peiseubuk,페이스북,(service),noun,R4,N
-2351,편하,pyeonha,편하,comfortable,adjective,R4,N
-2352,헌,heon,헌,"old, worn",noun,R4,N
-2353,혼,hon,혼,soul,noun,R4,N
-2354,pc,pc,pc,,foreign,R4,N
-2355,거절,geojeol,거절,to refuse,noun,R4,Y
-2356,광장,gwangjang,광장,"square, plaza",noun,R4,Y
-2357,기지,giji,기지,base,noun,R4,Y
-2358,나온다,naonda,나온다,,grammar,R4,N
-2359,노예,noye,노예,slave,noun,R4,Y
-2360,댄스,daenseu,댄스,dance,noun,R4,Y
-2361,뛰어난,ttwieonan,뛰어난,,grammar,R4,N
-2362,량,ryang,량,amount,noun,R4,N
-2363,명예,myeongye,명예,honor,noun,R4,Y
-2364,몬,mon,몬,,grammar,R4,N
-2365,바르,bareu,바르,apply; straight,adjective,R4,N
-2366,범,beom,범,tiger; (fragment),noun,R4,N
-2367,베스트,beseuteu,베스트,best,noun,R4,N
-2368,보험,boheom,보험,insurance,noun,R4,Y
-2369,부장,bujang,부장,department head,noun,R4,Y
-2370,불렀,bulleot,불렀,,grammar,R4,N
-2371,비난,binan,비난,to blame,noun,R4,Y
-2372,비율,biyul,비율,ratio,noun,R4,N
-2373,비행,bihaeng,비행,flight,noun,R4,Y
-2374,사라지,saraji,사라지,to disappear,verb,R4,N
-2375,사정,sajeong,사정,circumstances,noun,R4,Y
-2376,살해,salhae,살해,murder,noun,R4,N
-2377,서류,seoryu,서류,documents,noun,R4,Y
-2378,수고,sugo,수고,"effort, hard work",noun,R4,Y
-2379,수입,suip,수입,income; import,noun,R4,Y
-2380,슬,seul,슬,,grammar,R4,N
-2381,시선,siseon,시선,gaze,noun,R4,Y
-2382,신발,sinbal,신발,shoes,noun,R4,Y
-2383,앗,at,앗,oops,interjection,R4,N
-2384,연관,yeongwan,연관,relation,noun,R4,N
-2385,원칙,wonchik,원칙,principle,noun,R4,Y
-2386,자금,jageum,자금,funds,noun,R4,Y
-2387,저거,jeogeo,저거,that thing,pronoun,R4,N
-2388,정식,jeongsik,정식,formal,noun,R4,Y
-2389,정원,jeongwon,정원,garden; quota,noun,R4,Y
-2390,체험,cheheom,체험,experience,noun,R4,N
-2391,캐,kae,캐,,grammar,R4,N
-2392,타입,taip,타입,type,noun,R4,N
-2393,평범,pyeongbeom,평범,,grammar,R4,N
-2394,필,pil,필,,grammar,R4,N
-2395,할아버지,harabeoji,할아버지,grandfather,noun,R4,Y
-2396,항목,hangmok,항목,item,noun,R4,Y
-2397,해졌,haejyeot,해졌,,grammar,R4,N
-2398,혼란,hollan,혼란,confusion,noun,R4,Y
-2399,휴대폰,hyudaepon,휴대폰,mobile phone,noun,R4,Y
-2400,live,live,live,,foreign,R4,N
-2401,가만히,gamanhi,가만히,"still, quietly",adverb,R4,N
-2402,갑니다,gamnida,갑니다,,grammar,R4,N
-2403,걸쳐,geolchyeo,걸쳐,,grammar,R4,N
-2404,경계,gyeonggye,경계,boundary; alert,noun,R4,Y
-2405,기다려,gidaryeo,기다려,,grammar,R4,N
-2406,기원,giwon,기원,origin,noun,R4,Y
-2407,논문,nonmun,논문,"paper, thesis",noun,R4,Y
-2408,니까요,nikkayo,니까요,,grammar,R4,N
-2409,닥,dak,닥,,grammar,R4,N
-2410,닿,dat,닿,to touch,verb-form,R4,N
-2411,똥,ttong,똥,poop,noun,R4,N
-2412,로스,roseu,로스,,grammar,R4,N
-2413,매년,maenyeon,매년,every year,adverb,R4,N
-2414,목록,mongnok,목록,list,noun,R4,Y
-2415,문장,munjang,문장,sentence,noun,R4,N
-2416,발달,baldal,발달,development,noun,R4,N
-2417,보관,bogwan,보관,storage,noun,R4,Y
-2418,보스,boseu,보스,boss,noun,R4,Y
-2419,복수,boksu,복수,revenge,noun,R4,Y
-2420,섹시,seksi,섹시,sexy,noun,R4,N
-2421,센,sen,센,,grammar,R4,N
-2422,소비,sobi,소비,consumption,noun,R4,Y
-2423,소송,sosong,소송,lawsuit,noun,R4,Y
-2424,순서,sunseo,순서,order,noun,R4,Y
-2425,식당,sikdang,식당,restaurant,noun,R4,Y
-2426,신체,sinche,신체,body,noun,R4,Y
-2427,심하,simha,심하,terrible,adjective,R4,N
-2428,악마,angma,악마,devil,noun,R4,Y
-2429,연구원,yeonguwon,연구원,researcher,noun,R4,Y
-2430,였으며,yeosseumyeo,였으며,,grammar,R4,N
-2431,예능,yeneung,예능,variety show,noun,R4,Y
-2432,월드컵,woldeukeop,월드컵,World Cup,noun,R4,Y
-2433,이럴,ireol,이럴,,grammar,R4,N
-2434,일치,ilchi,일치,"agreement, match",noun,R4,Y
-2435,전원,jeonwon,전원,all members,noun,R4,Y
-2436,정지,jeongji,정지,stop,noun,R4,Y
-2437,주식,jusik,주식,stock,noun,R4,Y
-2438,지사,jisa,지사,branch; governor,noun,R4,Y
-2439,참석,chamseok,참석,attendance,noun,R4,Y
-2440,천국,cheonguk,천국,heaven,noun,R4,Y
-2441,천사,cheonsa,천사,angel,noun,R4,Y
-2442,총장,chongjang,총장,president (univ.),noun,R4,Y
-2443,출처,chulcheo,출처,source,noun,R4,Y
-2444,카이,kai,카이,,grammar,R4,N
-2445,페스티벌,peseutibeol,페스티벌,festival,noun,R4,Y
-2446,핀,pin,핀,pin,noun,R4,N
-2447,합격,hapgyeok,합격,passing (exam),noun,R4,Y
-2448,허용,heoyong,허용,permission,noun,R4,Y
-2449,화이트,hwaiteu,화이트,white,noun,R4,Y
-2450,휴가,hyuga,휴가,vacation,noun,R4,Y
-2451,hd,hd,hd,,foreign,R4,N
-2452,남겨,namgyeo,남겨,,grammar,R4,N
-2453,노트,noteu,노트,notebook,noun,R4,Y
-2454,녹음,nogeum,녹음,recording,noun,R4,Y
-2455,논리,nolli,논리,logic,noun,R4,Y
-2456,들리,deulli,들리,to be audible,verb,R4,N
-2457,띠,tti,띠,belt; zodiac sign,noun,R4,N
-2458,랜드,raendeu,랜드,land,noun,R4,Y
-2459,믿음,mideum,믿음,faith,noun,R4,Y
-2460,뿌리,ppuri,뿌리,root,noun,R4,Y
-2461,성경,seonggyeong,성경,Bible,noun,R4,Y
-2462,수요,suyo,수요,demand,noun,R4,Y
-2463,시위,siwi,시위,protest,noun,R4,Y
-2464,식물,singmul,식물,plant,noun,R4,Y
-2465,아닐,anil,아닐,,grammar,R4,N
-2466,아동,adong,아동,child (school),noun,R4,Y
-2467,아파,apa,아파,,grammar,R4,N
-2468,연대,yeondae,연대,solidarity; era,noun,R4,Y
-2469,오직,ojik,오직,only,adverb,R4,N
-2470,위반,wiban,위반,violation,noun,R4,Y
-2471,육,yuk,육,six; meat,numeral,R4,N
-2472,인용,inyong,인용,quotation,noun,R4,Y
-2473,인형,inhyeong,인형,doll,noun,R4,Y
-2474,전설,jeonseol,전설,legend,noun,R4,Y
-2475,주기,jugi,주기,,grammar,R4,N
-2476,지냈,jinaet,지냈,,grammar,R4,N
-2477,지하,jiha,지하,underground,noun,R4,Y
-2478,짜,jja,짜,,grammar,R4,N
-2479,찬,chan,찬,cold; filled,noun,R4,N
-2480,참조,chamjo,참조,reference,noun,R4,Y
-2481,천천히,cheoncheonhi,천천히,slowly,adverb,R4,N
-2482,청소,cheongso,청소,cleaning,noun,R4,Y
-2483,추억,chueok,추억,memory,noun,R4,N
-2484,충돌,chungdol,충돌,collision,noun,R4,Y
-2485,취하,chwiha,취하,take (action),noun,R4,Y
-2486,캠프,kaempeu,캠프,camp,noun,R4,Y
-2487,컨,keon,컨,,grammar,R4,N
-2488,컬러,keolleo,컬러,color,noun,R4,Y
-2489,투명,tumyeong,투명,transparent,noun,R4,Y
-2490,판결,pangyeol,판결,ruling,noun,R4,Y
-2491,팩,paek,팩,pack,noun,R4,N
-2492,하우스,hauseu,하우스,house,noun,R4,Y
-2493,학회,hakoe,학회,academic society,noun,R4,N
-2494,현금,hyeongeum,현금,cash,noun,R4,Y
-2495,not,not,not,,foreign,R4,N
-2496,www,www,www,,foreign,R4,N
-2497,감시,gamsi,감시,surveillance,noun,R4,Y
-2498,갤러리,gaelleori,갤러리,gallery,noun,R4,Y
-2499,공감,gonggam,공감,empathy,noun,R4,Y
-2500,광,gwang,광,light; (fragment),noun,R4,N
+2058,넓다,neolda,넓다,wide,adjective,R4,N
+2059,휴대폰,hyudaepon,휴대폰,mobile phone,noun,R4,Y
+2060,푸다,puda,푸다,scoop,verb,R4,N
+2061,ᆯ라고,ᆯrago,ᆯ라고,(ending),grammar,R4,N
+2062,슈,syu,슈,(ending),grammar,R4,N
+2063,원고,wongo,원고,manuscript; plaintiff,noun,R4,Y
+2064,재산,jaesan,재산,property,noun,R4,Y
+2065,짱,jjang,짱,the best,noun,R4,Y
+2066,따님,ttanim,따님,daughter (honorific),noun,R4,N
+2067,예의,yeui,예의,manners,noun,R4,Y
+2068,취향,chwihyang,취향,taste,noun,R4,Y
+2069,자면,jamyeon,자면,(ending),grammar,R4,N
+2070,활동,hwaldong,활동,activity,noun,R4,Y
+2071,대상,daesang,대상,"target, object",noun,R4,Y
+2072,동물,dongmul,동물,animal,noun,R4,Y
+2073,춘,chun,춘,(name),noun,R4,N
+2074,현지,hyeonji,현지,(name),noun,R4,N
+2075,영업,yeongeop,영업,sales,noun,R4,Y
+2076,전원,jeonwon,전원,all members,noun,R4,Y
+2077,돌아다니다,doradanida,돌아다니다,wander,verb,R4,N
+2078,여기다,yeogida,여기다,to regard as,verb,R4,N
+2079,연주,yeonju,연주,musical performance,noun,R4,Y
+2080,외,oe,외,outside; besides,noun,R4,N
+2081,공사,gongsa,공사,construction work,noun,R4,Y
+2082,정식,jeongsik,정식,formal,noun,R4,Y
+2083,랄까,ralkka,랄까,(ending),grammar,R4,N
+2084,성질,seongjil,성질,temper,noun,R4,Y
+2085,헌,heon,헌,"old, worn",determiner,R4,N
+2086,형수,hyeongsu,형수,sister-in-law,noun,R4,Y
+2087,자존심,jajonsim,자존심,pride,noun,R4,Y
+2088,언론,eollon,언론,the press,noun,R4,Y
+2089,심각,simgak,심각,(suffix),grammar,R4,N
+2090,다행히,dahaenghi,다행히,fortunately,adverb,R4,N
+2091,우연,uyeon,우연,coincidence,noun,R4,Y
+2092,뺏기다,ppaetgida,뺏기다,be taken,verb,R4,N
+2093,회식,hoesik,회식,company dinner,noun,R4,Y
+2094,가정,gajeong,가정,"family, home",noun,R4,Y
+2095,잇다,itda,잇다,connect,verb,R4,N
+2096,품다,pumda,품다,embrace,verb,R4,N
+2097,막내,mangnae,막내,youngest,noun,R4,Y
+2098,영광,yeonggwang,영광,honor,noun,R4,Y
+2099,누님,nunim,누님,older sister (polite),noun,R4,Y
+2100,수습,suseup,수습,probation; handling,noun,R4,Y
+2101,고장,gojang,고장,breakdown,noun,R4,Y
+2102,강호,gangho,강호,(name),noun,R4,N
+2103,명예,myeongye,명예,honor,noun,R4,Y
+2104,비슷하다,biseuthada,비슷하다,similar,adjective,R4,N
+2105,왼쪽,oenjjok,왼쪽,left,noun,R4,Y
+2106,흔들리다,heundeullida,흔들리다,shake,verb,R4,N
+2107,차이,chai,차이,difference,noun,R4,Y
+2108,선거,seongeo,선거,election,noun,R4,Y
+2109,부산,busan,부산,Busan,noun,R4,N
+2110,깨우다,kkaeuda,깨우다,wake (someone),verb,R4,N
+2111,밤새,bamsae,밤새,all night,noun,R4,Y
+2112,해외,haeoe,해외,overseas,noun,R4,Y
+2113,요구,yogu,요구,demand,noun,R4,Y
+2114,민주,minju,민주,democracy,noun,R4,Y
+2115,으음,eueum,으음,hmm,interjection,R4,N
+2116,팔자,palja,팔자,fate,noun,R4,Y
+2117,피아노,piano,피아노,piano,noun,R4,Y
+2118,인호,inho,인호,(name),noun,R4,N
+2119,까,kka,까,(ending),grammar,R4,N
+2120,오버,obeo,오버,over the top,noun,R4,Y
+2121,싸가지,ssagaji,싸가지,manners (rude),noun,R4,N
+2122,서른,seoreun,서른,thirty,numeral,R4,N
+2123,선비,seonbi,선비,scholar,noun,R4,Y
+2124,연우,yeonu,연우,(name),noun,R4,N
+2125,고프다,gopeuda,고프다,hungry,adjective,R4,N
+2126,잘생기다,jalsaenggida,잘생기다,handsome,adjective,R4,N
+2127,놀리다,nollida,놀리다,tease,verb,R4,N
+2128,지우,jiu,지우,(name),noun,R4,N
+2129,미팅,miting,미팅,group blind date,noun,R4,Y
+2130,법정,beopjeong,법정,courtroom,noun,R4,Y
+2131,공식,gongsik,공식,official,noun,R4,Y
+2132,ᆼ께,ᆼkke,ᆼ께,(ending),grammar,R4,N
+2133,단순,dansun,단순,simple,noun,R4,Y
+2134,새다,saeda,새다,to leak,verb,R4,N
+2135,어쩐지,eojjeonji,어쩐지,no wonder,adverb,R4,N
+2136,불행,bulhaeng,불행,misfortune,noun,R4,Y
+2137,마련,maryeon,마련,preparation,noun,R4,Y
+2138,오른쪽,oreunjjok,오른쪽,right,noun,R4,Y
+2139,신세,sinse,신세,one's lot,noun,R4,Y
+2140,한두,handu,한두,one or two,determiner,R4,N
+2141,떠오르다,tteooreuda,떠오르다,come to mind,verb,R4,N
+2142,려나,ryeona,려나,(ending),grammar,R4,N
+2143,창피,changpi,창피,embarrassment,noun,R4,Y
+2144,수준,sujun,수준,level,noun,R4,Y
+2145,끼치다,kkichida,끼치다,cause (trouble),verb,R4,N
+2146,호수,hosu,호수,lake,noun,R4,Y
+2147,갑,gap,갑,box; superior,noun,R4,Y
+2148,꾸미다,kkumida,꾸미다,decorate,verb,R4,N
+2149,니까요,nikkayo,니까요,(ending),grammar,R4,N
+2150,솊,syep,솊,(fragment),noun,R4,N
+2151,떠들다,tteodeulda,떠들다,chatter,verb,R4,N
+2152,인기,ingi,인기,popularity,noun,R4,Y
+2153,의견,uigyeon,의견,opinion,noun,R4,Y
+2154,낭자,nangja,낭자,young lady (historical),noun,R4,Y
+2155,과연,gwayeon,과연,indeed,adverb,R4,N
+2156,여쭈다,yeojjuda,여쭈다,ask (humble),verb,R4,N
+2157,공항,gonghang,공항,airport,noun,R4,Y
+2158,ᆯ세,ᆯse,ᆯ세,(ending),grammar,R4,N
+2159,오전,ojeon,오전,morning,noun,R4,Y
+2160,환영,hwanyeong,환영,welcome,noun,R4,Y
+2161,색,saek,색,color,noun,R4,Y
+2162,박수,baksu,박수,applause,noun,R4,Y
+2163,채다,chaeda,채다,snatch,verb,R4,N
+2164,칭찬,chingchan,칭찬,praise,noun,R4,Y
+2165,끊기다,kkeunkida,끊기다,be cut off,verb,R4,N
+2166,여태,yeotae,여태,until now,adverb,R4,N
+2167,감기,gamgi,감기,cold (illness),noun,R4,Y
+2168,대출,daechul,대출,loan,noun,R4,Y
+2169,오픈,opeun,오픈,open,noun,R4,Y
+2170,충성,chungseong,충성,loyalty,noun,R4,Y
+2171,품,pum,품,arms; bosom,noun,R4,Y
+2172,우연히,uyeonhi,우연히,by chance,adverb,R4,N
+2173,우산,usan,우산,umbrella,noun,R4,Y
+2174,확실하다,hwaksilhada,확실하다,certain,adjective,R4,N
+2175,숙,suk,숙,(name),noun,R4,N
+2176,저기요,jeogiyo,저기요,excuse me,interjection,R4,N
+2177,역사,yeoksa,역사,history,noun,R4,Y
+2178,신원,sinwon,신원,identity,noun,R4,Y
+2179,본부,bonbu,본부,headquarters,noun,R4,Y
+2180,야말로,yamallo,야말로,(particle),grammar,R4,N
+2181,라니까요,ranikkayo,라니까요,(ending),grammar,R4,N
+2182,팔리다,pallida,팔리다,be sold,verb,R4,N
+2183,홀로,hollo,홀로,alone,adverb,R4,N
+2184,빨다,ppalda,빨다,suck; wash,verb,R4,N
+2185,괴롭다,goeropda,괴롭다,painful,adjective,R4,N
+2186,는다는,neundaneun,는다는,(ending),grammar,R4,N
+2187,숫자,sutja,숫자,number,noun,R4,Y
+2188,암튼,amteun,암튼,anyway,adverb,R4,N
+2189,취급,chwigeup,취급,handling,noun,R4,Y
+2190,매번,maebeon,매번,every time,adverb,R4,N
+2191,초대,chodae,초대,to invite,noun,R4,Y
+2192,주민,jumin,주민,resident,noun,R4,Y
+2193,연구,yeongu,연구,research,noun,R4,Y
+2194,궐,gwol,궐,palace,noun,R4,Y
+2195,알,al,알,know,noun,R4,Y
+2196,주사,jusa,주사,injection,noun,R4,Y
+2197,동의,dongui,동의,agreement,noun,R4,Y
+2198,방송국,bangsongguk,방송국,broadcasting station,noun,R4,Y
+2199,치사,chisa,치사,(suffix),grammar,R4,N
+2200,습,seup,습,(fragment),noun,R4,N
+2201,차례,charye,차례,turn,noun,R4,Y
+2202,부디,budi,부디,please,adverb,R4,N
+2203,뜯다,tteutda,뜯다,tear off,verb,R4,N
+2204,검다,geomda,검다,black,adjective,R4,N
+2205,인자,inja,인자,now (dialect),adverb,R4,N
+2206,세월,sewol,세월,time (passing),noun,R4,N
+2207,황제,hwangje,황제,emperor,noun,R4,Y
+2208,직장,jikjang,직장,workplace,noun,R4,Y
+2209,선녀,seonnyeo,선녀,fairy,noun,R4,Y
+2210,적어도,jeogeodo,적어도,at least,adverb,R4,N
+2211,지치다,jichida,지치다,be exhausted,verb,R4,N
+2212,교,gyo,교,(fragment),noun,R4,N
+2213,사연,sayeon,사연,story,noun,R4,N
+2214,고요,goyo,고요,(ending),grammar,R4,N
+2215,외국,oeguk,외국,foreign country,noun,R4,Y
+2216,은혜,eunhye,은혜,"grace, favor",noun,R4,Y
+2217,한숨,hansum,한숨,sigh,noun,R4,Y
+2218,하얗다,hayata,하얗다,white,adjective,R4,N
+2219,넘치다,neomchida,넘치다,overflow,verb,R4,N
+2220,차희,chahui,차희,(name),noun,R4,N
+2221,나름,nareum,나름,in one's own way,noun,R4,N
+2222,우신,usin,우신,(name),noun,R4,N
+2223,그렇지만,geureochiman,그렇지만,however,adverb,R4,N
+2224,심심,simsim,심심,(suffix),grammar,R4,N
+2225,라구,ragu,라구,(ending),grammar,R4,N
+2226,임신,imsin,임신,pregnancy,noun,R4,Y
+2227,변태,byeontae,변태,pervert,noun,R4,Y
+2228,엄,eom,엄,(suffix),grammar,R4,N
+2229,양심,yangsim,양심,conscience,noun,R4,Y
+2230,하하,haha,하하,haha,interjection,R4,N
+2231,살살,salsal,살살,gently,adverb,R4,N
+2232,신문,sinmun,신문,newspaper,noun,R4,Y
+2233,라인,rain,라인,line,noun,R4,Y
+2234,헐,heol,헐,whoa,interjection,R4,N
+2235,그려,geuryeo,그려,(particle),grammar,R4,N
+2236,첫사랑,cheotsarang,첫사랑,first love,noun,R4,Y
+2237,동료,dongnyo,동료,companions,noun,R4,Y
+2238,웃음,useum,웃음,laughter,noun,R4,Y
+2239,차갑다,chagapda,차갑다,cold,adjective,R4,N
+2240,스승,seuseung,스승,"teacher, mentor",noun,R4,Y
+2241,계약서,gyeyakseo,계약서,contract,noun,R4,Y
+2242,영혼,yeonghon,영혼,soul,noun,R4,Y
+2243,운영,unyeong,운영,operation,noun,R4,Y
+2244,오시다,osida,오시다,come (honorific),verb,R4,N
+2245,날아가다,naragada,날아가다,fly away,verb,R4,N
+2246,찌다,jjida,찌다,steam; gain weight,verb,R4,N
+2247,재벌,jaebeol,재벌,chaebol,noun,R4,Y
+2248,면은,myeoneun,면은,(ending),grammar,R4,N
+2249,라는데,raneunde,라는데,(ending),grammar,R4,N
+2250,교통사고,gyotongsago,교통사고,car accident,noun,R4,Y
+2251,완성,wanseong,완성,completion,noun,R4,Y
+2252,열쇠,yeolsoe,열쇠,key,noun,R4,Y
+2253,커플,keopeul,커플,couple,noun,R4,Y
+2254,단체,danche,단체,organization,noun,R4,Y
+2255,틀다,teulda,틀다,to turn on (music),verb,R4,N
+2256,찬성,chanseong,찬성,agreement,noun,R4,Y
+2257,원칙,wonchik,원칙,principle,noun,R4,Y
+2258,으아,eua,으아,argh,interjection,R4,N
+2259,진범,jinbeom,진범,real culprit,noun,R4,Y
+2260,강철,gangcheol,강철,steel,noun,R4,Y
+2261,깡패,kkangpae,깡패,gangster,noun,R4,Y
+2262,헬리,helli,헬리,(fragment),noun,R4,N
+2263,ᆫ다면서,ᆫdamyeonseo,ᆫ다면서,(ending),grammar,R4,N
+2264,촌,chon,촌,village,noun,R4,Y
+2265,강요,gangyo,강요,coercion,noun,R4,Y
+2266,정치,jeongchi,정치,politics,noun,R4,Y
+2267,창고,changgo,창고,warehouse,noun,R4,Y
+2268,천만,cheonman,천만,ten million,numeral,R4,N
+2269,삐,ppi,삐,beep,noun,R4,Y
+2270,고개,gogae,고개,head; hill,noun,R4,Y
+2271,살피다,salpida,살피다,look around,verb,R4,N
+2272,가득,gadeuk,가득,full,adverb,R4,N
+2273,참말로,chammallo,참말로,truly (dialect),adverb,R4,N
+2274,혹시나,hoksina,혹시나,just in case,adverb,R4,N
+2275,메시지,mesiji,메시지,message,noun,R4,Y
+2276,노인,noin,노인,elderly person,noun,R4,Y
+2277,랴,rya,랴,(ending),grammar,R4,N
+2278,밀리다,millida,밀리다,be pushed,verb,R4,N
+2279,마님,manim,마님,madam (historical),noun,R4,Y
+2280,시다,sida,시다,sour,adjective,R4,N
+2281,이따가,ittaga,이따가,later,adverb,R4,N
+2282,마담,madam,마담,madam,noun,R4,Y
+2283,참으로,chameuro,참으로,truly,adverb,R4,N
+2284,지겹다,jigyeopda,지겹다,tiresome,adjective,R4,N
+2285,부검,bugeom,부검,autopsy,noun,R4,Y
+2286,현금,hyeongeum,현금,cash,noun,R4,Y
+2287,혼나다,honnada,혼나다,get scolded,verb,R4,N
+2288,트다,teuda,트다,sprout; open up,verb,R4,N
+2289,의도,uido,의도,intention,noun,R4,Y
+2290,천재,cheonjae,천재,genius,noun,R4,Y
+2291,반말,banmal,반말,casual speech,noun,R4,Y
+2292,매다,maeda,매다,to tie,verb,R4,N
+2293,분석,bunseok,분석,analysis,noun,R4,Y
+2294,법원,beobwon,법원,court,noun,R4,Y
+2295,맞히다,machida,맞히다,guess right,verb,R4,N
+2296,미스,miseu,미스,miss; mistake,noun,R4,Y
+2297,무기,mugi,무기,weapon,noun,R4,Y
+2298,지하,jiha,지하,underground,noun,R4,Y
+2299,아무렇다,amureota,아무렇다,whatever,adjective,R4,N
+2300,빨갛다,ppalgata,빨갛다,red,adjective,R4,N
+2301,공간,gonggan,공간,space,noun,R4,Y
+2302,프로그램,peurogeuraem,프로그램,program,noun,R4,Y
+2303,뼈,ppyeo,뼈,bone,noun,R4,Y
+2304,고모,gomo,고모,aunt (father's side),noun,R4,Y
+2305,깨끗,kkaekkeut,깨끗,(suffix),grammar,R4,N
+2306,이년,inyeon,이년,(profanity),pronoun,R4,N
+2307,뻔하다,ppeonhada,뻔하다,obvious,adjective,R4,N
+2308,추억,chueok,추억,memory,noun,R4,Y
+2309,당황,danghwang,당황,flustered,noun,R4,Y
+2310,투표,tupyo,투표,vote,noun,R4,Y
+2311,가치,gachi,가치,value,noun,R4,Y
+2312,쌓다,ssata,쌓다,pile up,verb,R4,N
+2313,거울,geoul,거울,mirror,noun,R4,Y
+2314,미친놈,michinnom,미친놈,crazy guy,noun,R4,Y
+2315,확률,hwangnyul,확률,probability,noun,R4,Y
+2316,연쇄,yeonswae,연쇄,serial,noun,R4,Y
+2317,거부,geobu,거부,refusal,noun,R4,Y
+2318,바라보다,baraboda,바라보다,look at,verb,R4,N
+2319,일반,ilban,일반,general,noun,R4,Y
+2320,외우다,oeuda,외우다,memorize,verb,R4,N
+2321,만만,manman,만만,(suffix),grammar,R4,N
+2322,벽,byeok,벽,wall,noun,R4,Y
+2323,녀,nyeo,녀,(fragment),noun,R4,N
+2324,기간,gigan,기간,period,noun,R4,Y
+2325,까불다,kkabulda,까불다,act up,verb,R4,N
+2326,다물다,damulda,다물다,close (mouth),verb,R4,N
+2327,신분,sinbun,신분,"status, identity",noun,R4,Y
+2328,한마디,hanmadi,한마디,a word,noun,R4,N
+2329,흔들다,heundeulda,흔들다,shake,verb,R4,N
+2330,다정,dajeong,다정,affectionate,noun,R4,Y
+2331,거두다,geoduda,거두다,collect,verb,R4,N
+2332,보도,bodo,보도,news report,noun,R4,Y
+2333,업다,eopda,업다,carry on back,verb,R4,N
+2334,천사,cheonsa,천사,angel,noun,R4,Y
+2335,미친년,michinnyeon,미친년,(profanity),noun,R4,N
+2336,여기저기,yeogijeogi,여기저기,here and there,noun,R4,N
+2337,다만,daman,다만,however,adverb,R4,N
+2338,원인,wonin,원인,cause,noun,R4,Y
+2339,조만간,jomangan,조만간,soon,adverb,R4,N
+2340,어색,eosaek,어색,(suffix),grammar,R4,N
+2341,메뉴,menyu,메뉴,menu,noun,R4,Y
+2342,네놈,nenom,네놈,you (rude),pronoun,R4,N
+2343,인제,inje,인제,now,adverb,R4,N
+2344,자세히,jasehi,자세히,in detail,adverb,R4,N
+2345,굽다,gupda,굽다,"bake, grill",verb,R4,N
+2346,미워하다,miwohada,미워하다,hate,verb,R4,N
+2347,수영,suyeong,수영,swimming,noun,R4,Y
+2348,저놈,jeonom,저놈,that guy,pronoun,R4,N
+2349,탈,tal,탈,mask,noun,R4,Y
+2350,전생,jeonsaeng,전생,past life,noun,R4,Y
+2351,연희,yeonhui,연희,(name),noun,R4,N
+2352,장부,jangbu,장부,ledger,noun,R4,Y
+2353,대위,daewi,대위,captain,noun,R4,Y
+2354,겁나다,geomnada,겁나다,be scared,verb,R4,N
+2355,어쩜,eojjeom,어쩜,how could,adverb,R4,N
+2356,붓다,butda,붓다,pour; swell,verb,R4,N
+2357,보험,boheom,보험,insurance,noun,R4,Y
+2358,더러,deoreo,더러,(particle),grammar,R4,N
+2359,주먹,jumeok,주먹,fist,noun,R4,Y
+2360,붙잡다,butjapda,붙잡다,grab,verb,R4,N
+2361,안타깝다,antakkapda,안타깝다,regrettable,adjective,R4,N
+2362,장기,janggi,장기,long-term; organ,noun,R4,Y
+2363,시기,sigi,시기,period,noun,R4,Y
+2364,살아가다,saragada,살아가다,live on,verb,R4,N
+2365,길동,gildong,길동,(name),noun,R4,N
+2366,출동,chuldong,출동,dispatch,noun,R4,Y
+2367,임무,immu,임무,mission,noun,R4,Y
+2368,존경,jongyeong,존경,respect,noun,R4,Y
+2369,통과,tonggwa,통과,passing,noun,R4,Y
+2370,홍보,hongbo,홍보,promotion,noun,R4,Y
+2371,패,pae,패,gang; card,noun,R4,Y
+2372,며느리,myeoneuri,며느리,daughter-in-law,noun,R4,Y
+2373,그깟,geukkat,그깟,such a trivial,determiner,R4,N
+2374,외부,oebu,외부,outside,noun,R4,Y
+2375,부대,budae,부대,unit (military),noun,R4,Y
+2376,출장,chuljang,출장,business trip,noun,R4,Y
+2377,침대,chimdae,침대,bed,noun,R4,Y
+2378,왕자,wangja,왕자,prince,noun,R4,Y
+2379,통제,tongje,통제,control,noun,R4,Y
+2380,비상,bisang,비상,emergency,noun,R4,Y
+2381,전국,jeonguk,전국,nationwide,noun,R4,Y
+2382,참석,chamseok,참석,attendance,noun,R4,Y
+2383,바퀴,bakwi,바퀴,wheel; cockroach,noun,R4,N
+2384,흥,heung,흥,hmph,interjection,R4,N
+2385,역할,yeokal,역할,role,noun,R4,Y
+2386,송구,songgu,송구,(suffix),grammar,R4,N
+2387,교사,gyosa,교사,teacher,noun,R4,Y
+2388,넌,neon,넌,(ending),grammar,R4,N
+2389,혹,hok,혹,lump; perhaps,noun,R4,Y
+2390,안심,ansim,안심,relief,noun,R4,Y
+2391,자백,jabaek,자백,confession (crime),noun,R4,Y
+2392,그립다,geuripda,그립다,"miss, long for",adjective,R4,N
+2393,직,jik,직,(fragment),noun,R4,N
+2394,취재,chwijae,취재,news coverage,noun,R4,Y
+2395,땡,ttaeng,땡,ding,adverb,R4,N
+2396,기적,gijeok,기적,miracle,noun,R4,Y
+2397,각오,gago,각오,resolve,noun,R4,Y
+2398,꿇다,kkulta,꿇다,kneel,verb,R4,N
+2399,글쎄요,geulsseyo,글쎄요,well… (polite),interjection,R4,N
+2400,마치,machi,마치,as if,adverb,R4,N
+2401,도주,doju,도주,flight (escape),noun,R4,Y
+2402,클럽,keulleop,클럽,club,noun,R4,Y
+2403,이식,isik,이식,transplant,noun,R4,Y
+2404,갈아입다,garaipda,갈아입다,change clothes,verb,R4,N
+2405,꼬리,kkori,꼬리,tail,noun,R4,Y
+2406,미루다,miruda,미루다,postpone,verb,R4,N
+2407,우습다,useupda,우습다,"funny, ridiculous",adjective,R4,N
+2408,양아치,yangachi,양아치,thug,noun,R4,Y
+2409,찢다,jjitda,찢다,tear,verb,R4,N
+2410,시집,sijip,시집,marriage (for a woman),noun,R4,Y
+2411,장애,jangae,장애,disability; obstacle,noun,R4,Y
+2412,커지다,keojida,커지다,grow bigger,verb,R4,N
+2413,돌려주다,dollyeojuda,돌려주다,give back,verb,R4,N
+2414,설치,seolchi,설치,installation,noun,R4,Y
+2415,아홉,ahop,아홉,nine,numeral,R4,N
+2416,죄인,joein,죄인,sinner,noun,R4,Y
+2417,범행,beomhaeng,범행,crime,noun,R4,Y
+2418,거짓,geojit,거짓,falsehood,noun,R4,Y
+2419,꽂다,kkotda,꽂다,stick in,verb,R4,N
+2420,마당,madang,마당,yard,noun,R4,Y
+2421,충분,chungbun,충분,(suffix),grammar,R4,N
+2422,장관,janggwan,장관,minister,noun,R4,Y
+2423,뽀뽀,ppoppo,뽀뽀,"peck, kiss",noun,R4,Y
+2424,미스터,miseuteo,미스터,mister,noun,R4,Y
+2425,미련,miryeon,미련,lingering attachment,noun,R4,Y
+2426,물러나다,mulleonada,물러나다,step back,verb,R4,N
+2427,가볍다,gabyeopda,가볍다,light,adjective,R4,N
+2428,신입,sinip,신입,newcomer,noun,R4,Y
+2429,유치,yuchi,유치,(suffix),grammar,R4,N
+2430,신호,sinho,신호,signal,noun,R4,Y
+2431,이미지,imiji,이미지,image,noun,R4,Y
+2432,나이스,naiseu,나이스,nice,noun,R4,N
+2433,손해,sonhae,손해,loss,noun,R4,Y
+2434,묻히다,mutida,묻히다,be buried,verb,R4,N
+2435,엮이다,yeokkida,엮이다,be tangled up,verb,R4,N
+2436,육,yuk,육,six; meat,numeral,R4,N
+2437,칠,chil,칠,seven; paint,numeral,R4,N
+2438,밴드,baendeu,밴드,band,noun,R4,Y
+2439,강도,gangdo,강도,robber,noun,R4,Y
+2440,여덟,yeodeol,여덟,eight,numeral,R4,N
+2441,전화기,jeonhwagi,전화기,telephone,noun,R4,Y
+2442,제품,jepum,제품,product,noun,R4,Y
+2443,가운데,gaunde,가운데,middle,noun,R4,Y
+2444,ᆫ다는데,ᆫdaneunde,ᆫ다는데,(ending),grammar,R4,N
+2445,천국,cheonguk,천국,heaven,noun,R4,Y
+2446,기준,gijun,기준,standard,noun,R4,Y
+2447,옥상,oksang,옥상,rooftop,noun,R4,Y
+2448,상품,sangpum,상품,goods,noun,R4,Y
+2449,명심,myeongsim,명심,bear in mind,noun,R4,N
+2450,한양,hanyang,한양,Hanyang (old Seoul),noun,R4,N
+2451,기소,giso,기소,indictment,noun,R4,Y
+2452,택배,taekbae,택배,parcel delivery,noun,R4,Y
+2453,굶다,gumda,굶다,starve,verb,R4,N
+2454,헷갈리다,hetgallida,헷갈리다,confused,verb,R4,N
+2455,증상,jeungsang,증상,symptom,noun,R4,Y
+2456,신나다,sinnada,신나다,excited,verb,R4,N
+2457,명단,myeongdan,명단,list of names,noun,R4,Y
+2458,제작,jejak,제작,production,noun,R4,Y
+2459,완,wan,완,(fragment),noun,R4,N
+2460,해내다,haenaeda,해내다,pull off,verb,R4,N
+2461,려던,ryeodeon,려던,(ending),grammar,R4,N
+2462,냉장고,naengjanggo,냉장고,refrigerator,noun,R4,Y
+2463,매우,maeu,매우,very,adverb,R4,N
+2464,쫓겨나다,jjotgyeonada,쫓겨나다,be kicked out,verb,R4,N
+2465,노릇,noreut,노릇,role,noun,R4,Y
+2466,면회,myeonhoe,면회,visit (prison/hospital),noun,R4,Y
+2467,안내,annae,안내,guidance,noun,R4,Y
+2468,봐주다,bwajuda,봐주다,let off; look after,verb,R4,N
+2469,계집,gyejip,계집,woman (rude),noun,R4,N
+2470,꼬시다,kkosida,꼬시다,hit on,verb,R4,N
+2471,계란,gyeran,계란,egg,noun,R4,Y
+2472,신랑,sillang,신랑,groom,noun,R4,Y
+2473,스님,seunim,스님,monk,noun,R4,Y
+2474,지아,jia,지아,(name),noun,R4,N
+2475,피부,pibu,피부,skin,noun,R4,Y
+2476,전문,jeonmun,전문,specialty,noun,R4,Y
+2477,여친,yeochin,여친,girlfriend,noun,R4,Y
+2478,댕기다,daenggida,댕기다,go around (dialect),verb,R4,N
+2479,나이다,naida,나이다,(ending),grammar,R4,N
+2480,학,hak,학,crane (bird),noun,R4,Y
+2481,완료,wallyo,완료,completion,noun,R4,Y
+2482,박스,bakseu,박스,box,noun,R4,Y
+2483,지도,jido,지도,map,noun,R4,Y
+2484,아무런,amureon,아무런,any,determiner,R4,N
+2485,셈,sem,셈,calculation,noun,R4,N
+2486,진작,jinjak,진작,earlier,adverb,R4,N
+2487,군인,gunin,군인,soldier,noun,R4,Y
+2488,순서,sunseo,순서,order,noun,R4,Y
+2489,공기,gonggi,공기,air,noun,R4,Y
+2490,빈,bin,빈,empty,noun,R4,Y
+2491,녹음,nogeum,녹음,recording,noun,R4,Y
+2492,놀이,nori,놀이,play,noun,R4,Y
+2493,으려면,euryeomyeon,으려면,(ending),grammar,R4,N
+2494,흥분,heungbun,흥분,excitement,noun,R4,Y
+2495,느그,neugeu,느그,your (dialect),pronoun,R4,N
+2496,물리다,mullida,물리다,to be bitten,verb,R4,N
+2497,드,deu,드,(fragment),noun,R4,N
+2498,지방,jibang,지방,region; fat,noun,R4,Y
+2499,지갑,jigap,지갑,wallet,noun,R4,Y
+2500,인형,inhyeong,인형,doll,noun,R4,Y
