@@ -1,0 +1,192 @@
+rank,word,reading,romaji,ko,en,pos,level,scene_hint,src,in_vocab
+9501,단계,dangye,stage_step,단계,"stage, step",noun,R5,,talkverse_art/ko/r32/1084_stage_step.jpg,1
+9502,장면,jangmyeon,scene,장면,scene,noun,R5,,talkverse_art/ko/r39/1249_scene.jpg,1
+9503,무료,muryo,free_of_charge,무료,free of charge,noun,R5,,talkverse_art/ko/r09/606_free_of_charge.jpg,1
+9504,멤버,membeo,member,멤버,member,noun,R5,,talkverse_art/ko/r24/918_member.jpg,1
+9505,데뷔,debwi,debut,데뷔,debut,noun,R5,,talkverse_art/ko/r35/1170_debut.jpg,1
+9506,대사,daesa,line_ambassador,대사,line (script); ambassador,noun,R5,,talkverse_art/ko/r49/1490_line_ambassador.jpg,1
+9507,제목,jemok,title,제목,title,noun,R5,,talkverse_art/ko/r55/1571_title_v3.jpg,1
+9508,저장,jeojang,saving,저장,saving,noun,R5,,talkverse_art/ko/r56/1600_saving.jpg,1
+9509,링크,ringkeu,link,링크,link,noun,R5,,talkverse_art/ko/r24/917_link_v2.jpg,1
+9510,디자인,dijain,design,디자인,design,noun,R5,,talkverse_art/ko/r26/952_design.jpg,1
+9511,자동,jadong,automatic,자동,automatic,noun,R5,,talkverse_art/ko/r28/1000_automatic.jpg,1
+9512,배경,baegyeong,background,배경,background,noun,R5,,talkverse_art/ko/r29/1018_background.jpg,1
+9513,기계,gigye,machine,기계,machine,noun,R5,,talkverse_art/ko/r39/1236_machine.jpg,1
+9514,포인트,pointeu,point,포인트,point,noun,R5,,talkverse_art/ko/r59/1615_point.jpg,1
+9515,강제,gangje,force,강제,force,noun,R5,,talkverse_art/ko/r69/1783_force.jpg,1
+9516,날씨,nalssi,weather,날씨,weather,noun,R5,,talkverse_art/ko/r70/1812_weather.jpg,1
+9517,전국,jeonguk,nationwide,전국,nationwide,noun,R5,,talkverse_art/ko/r15/752_nationwide.jpg,1
+9518,학원,hagwon,academy,학원,academy,noun,R5,,talkverse_art/ko/r31/1080_academy.jpg,1
+9519,정상,jeongsang,normal_summit,정상,normal; summit,noun,R5,,talkverse_art/ko/r32/1095_normal_summit.jpg,1
+9520,자세,jase,posture_detail,자세,posture; detail,noun,R5,,talkverse_art/ko/r38/1225_posture_detail.jpg,1
+9521,통과,tonggwa,passing,통과,passing,noun,R5,,talkverse_art/ko/r58/1613_passing.jpg,1
+9522,사이트,saiteu,website,사이트,website,noun,R4+,,talkverse_art/ko/r02/271_website.jpg,0
+9523,도시,dosi,city,도시,city,noun,R4+,,talkverse_art/ko/r04/393_city.jpg,0
+9524,포함,poham,inclusion,포함,inclusion,noun,R4+,,talkverse_art/ko/r05/428_inclusion.jpg,0
+9525,가격,gagyeok,price,가격,price,noun,R4+,,talkverse_art/ko/r06/486_price.jpg,0
+9526,구성,guseong,composition,구성,composition,noun,R4+,,talkverse_art/ko/r07/535_composition.jpg,0
+9527,스포츠,seupocheu,sports,스포츠,sports,noun,R4+,,talkverse_art/ko/r08/570_sports.jpg,0
+9528,국제,gukje,international,국제,international,noun,R4+,,talkverse_art/ko/r08/589_international.jpg,0
+9529,앨범,aelbeom,album,앨범,album,noun,R4+,,talkverse_art/ko/r10/610_album.jpg,0
+9530,위원회,wiwonhoe,committee,위원회,committee,noun,R4+,,talkverse_art/ko/r10/626_committee.jpg,0
+9531,해당,haedang,applicable,해당,applicable,noun,R4+,,talkverse_art/ko/r12/684_applicable_v2.jpg,0
+9532,온라인,ollain,online,온라인,online,noun,R4+,,talkverse_art/ko/r12/696_online.jpg,0
+9533,홈페이지,hompeiji,homepage,홈페이지,homepage,noun,R4+,,talkverse_art/ko/r13/706_homepage.jpg,0
+9534,기관,gigwan,institution,기관,institution,noun,R4+,,talkverse_art/ko/r13/709_institution.jpg,0
+9535,축구,chukgu,soccer,축구,soccer,noun,R4+,,talkverse_art/ko/r16/770_soccer.jpg,0
+9536,교회,gyohoe,church,교회,church,noun,R4+,,talkverse_art/ko/r17/774_church.jpg,0
+9537,참고,chamgo,reference,참고,reference,noun,R4+,,talkverse_art/ko/r18/800_reference.jpg,0
+9538,지구,jigu,earth_district,지구,Earth; district,noun,R4+,,talkverse_art/ko/r18/817_earth_district.jpg,0
+9539,개최,gaechoe,hosting,개최,hosting (event),noun,R4+,,talkverse_art/ko/r19/819_hosting.jpg,0
+9540,코드,kodeu,code,코드,code,noun,R4+,,talkverse_art/ko/r20/839_code.jpg,0
+9541,현대,hyeondae,modern,현대,modern,noun,R4+,,talkverse_art/ko/r20/841_modern.jpg,0
+9542,국내,gungnae,domestic,국내,domestic,noun,R4+,,talkverse_art/ko/r21/847_domestic_v2.jpg,0
+9543,버전,beojeon,version,버전,version,noun,R4+,,talkverse_art/ko/r21/855_version.jpg,0
+9544,시즌,sijeun,season,시즌,season,noun,R4+,,talkverse_art/ko/r21/858_season.jpg,0
+9545,캐릭터,kaerikteo,character,캐릭터,character,noun,R4+,,talkverse_art/ko/r22/869_character.jpg,0
+9546,형태,hyeongtae,form,형태,form,noun,R4+,,talkverse_art/ko/r24/925_form.jpg,0
+9547,공동,gongdong,joint,공동,joint,noun,R4+,,talkverse_art/ko/r25/946_joint.jpg,0
+9548,최대,choedae,maximum,최대,maximum,noun,R4+,,talkverse_art/ko/r25/965_maximum.jpg,0
+9549,고려,goryeo,consideration,고려,consideration,noun,R4+,,talkverse_art/ko/r25/971_consideration.jpg,0
+9550,행위,haengwi,act,행위,act,noun,R4+,,talkverse_art/ko/r25/987_act.jpg,0
+9551,기타,gita,guitar_others,기타,guitar; others,noun,R4+,,talkverse_art/ko/r25/992_guitar_others_v2.jpg,0
+9552,규모,gyumo,scale,규모,scale,noun,R4+,,talkverse_art/ko/r26/948_scale.jpg,0
+9553,장치,jangchi,device,장치,device,noun,R4+,,talkverse_art/ko/r26/962_device.jpg,0
+9554,전기,jeongi,electricity,전기,electricity,noun,R4+,,talkverse_art/ko/r28/1002_electricity.jpg,0
+9555,환경,hwangyeong,environment,환경,environment,noun,R4+,,talkverse_art/ko/r28/1007_environment.jpg,0
+9556,구매,gumae,purchase,구매,purchase,noun,R4+,,talkverse_art/ko/r28/1009_purchase_v2.jpg,0
+9557,기념,ginyeom,commemoration,기념,commemoration,noun,R4+,,talkverse_art/ko/r28/1011_commemoration.jpg,0
+9558,시도,sido,attempt,시도,attempt,noun,R4+,,talkverse_art/ko/r29/1024_attempt.jpg,0
+9559,다운,daun,down,다운,down(load),noun,R4+,,talkverse_art/ko/r29/1034_down.jpg,0
+9560,야구,yagu,baseball,야구,baseball,noun,R4+,,talkverse_art/ko/r30/1043_baseball.jpg,0
+9561,출시,chulsi,release,출시,release,noun,R4+,,talkverse_art/ko/r30/1052_release.jpg,0
+9562,건설,geonseol,construction,건설,construction,noun,R4+,,talkverse_art/ko/r30/1059_construction.jpg,0
+9563,설정,seoljeong,setting,설정,setting,noun,R4+,,talkverse_art/ko/r30/1066_setting.jpg,0
+9564,실시,silsi,implementation,실시,implementation,noun,R4+,,talkverse_art/ko/r30/1068_implementation_v2.jpg,0
+9565,위하,wiha,for,위하,for (the sake of),noun,R4+,,talkverse_art/ko/r31/1073_for_v2.jpg,0
+9566,종합,jonghap,comprehensive,종합,comprehensive,noun,R4+,,talkverse_art/ko/r31/1076_comprehensive.jpg,0
+9567,통합,tonghap,integration,통합,integration,noun,R4+,,talkverse_art/ko/r31/1079_integration.jpg,0
+9568,가수,gasu,singer,가수,singer,noun,R4+,,talkverse_art/ko/r32/1101_singer.jpg,0
+9569,리그,rigeu,league,리그,league,noun,R4+,,talkverse_art/ko/r32/1111_league_v2.jpg,0
+9570,모바일,mobail,mobile,모바일,mobile,noun,R4+,,talkverse_art/ko/r32/1114_mobile.jpg,0
+9571,소재,sojae,material,소재,material,noun,R4+,,talkverse_art/ko/r33/1119_material.jpg,0
+9572,전자,jeonja,electronic,전자,electronic,noun,R4+,,talkverse_art/ko/r33/1129_electronic.jpg,0
+9573,협회,hyeopoe,association,협회,association,noun,R4+,,talkverse_art/ko/r33/1135_association.jpg,0
+9574,기반,giban,basis,기반,basis,noun,R4+,,talkverse_art/ko/r34/1139_basis.jpg,0
+9575,차지,chaji,occupy,차지,occupy,noun,R4+,,talkverse_art/ko/r34/1157_occupy.jpg,0
+9576,가입,gaip,sign_up,가입,sign-up,noun,R4+,,talkverse_art/ko/r34/1160_sign_up_v2.jpg,0
+9577,분야,bunya,field,분야,field,noun,R4+,,talkverse_art/ko/r35/1177_field.jpg,0
+9578,수행,suhaeng,performing,수행,performing,noun,R4+,,talkverse_art/ko/r35/1179_performing.jpg,0
+9579,순위,sunwi,ranking,순위,ranking,noun,R4+,,talkverse_art/ko/r35/1180_ranking.jpg,0
+9580,언급,eongeup,mention,언급,mention,noun,R4+,,talkverse_art/ko/r35/1183_mention_v2.jpg,0
+9581,우수,usu,excellent,우수,excellent,noun,R4+,,talkverse_art/ko/r36/1187_excellent.jpg,0
+9582,전통,jeontong,tradition,전통,tradition,noun,R4+,,talkverse_art/ko/r36/1189_tradition.jpg,0
+9583,제외,jeoe,exclusion,제외,exclusion,noun,R4+,,talkverse_art/ko/r36/1190_exclusion_v3.jpg,0
+9584,통신,tongsin,communication,통신,communication,noun,R4+,,talkverse_art/ko/r36/1197_communication.jpg,0
+9585,건가,geonga,is_it,건가,is it?,noun,R4+,,talkverse_art/ko/r37/1201_is_it.jpg,0
+9586,기여,giyeo,contribution,기여,contribution,noun,R4+,,talkverse_art/ko/r37/1205_contribution.jpg,0
+9587,기존,gijon,existing,기존,existing,noun,R4+,,talkverse_art/ko/r37/1206_existing.jpg,0
+9588,속도,sokdo,speed,속도,speed,noun,R4+,,talkverse_art/ko/r38/1218_speed_v2.jpg,0
+9589,인증,injeung,certification,인증,certification,noun,R4+,,talkverse_art/ko/r38/1224_certification.jpg,0
+9590,국회,gukoe,national_assembly,국회,National Assembly,noun,R4+,,talkverse_art/ko/r39/1234_national_assembly.jpg,0
+9591,특징,teukjing,feature,특징,feature,noun,R4+,,talkverse_art/ko/r40/1257_feature.jpg,0
+9592,행정,haengjeong,administration,행정,administration,noun,R4+,,talkverse_art/ko/r40/1259_administration.jpg,0
+9593,제거,jegeo,removal,제거,removal,noun,R4+,,talkverse_art/ko/r40/1279_removal.jpg,0
+9594,프로젝트,peurojekteu,project,프로젝트,project,noun,R4+,,talkverse_art/ko/r41/1283_project.jpg,0
+9595,마크,makeu,mark,마크,mark,noun,R4+,,talkverse_art/ko/r41/1291_mark.jpg,0
+9596,소속,sosok,affiliation,소속,affiliation,noun,R4+,,talkverse_art/ko/r41/1300_affiliation.jpg,0
+9597,올림픽,ollimpik,olympics,올림픽,Olympics,noun,R4+,,talkverse_art/ko/r42/1305_olympics.jpg,0
+9598,위원장,wiwonjang,chairperson,위원장,chairperson,noun,R4+,,talkverse_art/ko/r42/1306_chairperson.jpg,0
+9599,지정,jijeong,designation,지정,designation,noun,R4+,,talkverse_art/ko/r42/1315_designation.jpg,0
+9600,물질,muljil,substance,물질,substance,noun,R4+,,talkverse_art/ko/r43/1329_substance.jpg,0
+9601,시청,sicheong,city_hall_viewing,시청,city hall; viewing,noun,R4+,,talkverse_art/ko/r44/1338_city_hall_viewing.jpg,0
+9602,크기,keugi,size,크기,size,noun,R4+,,talkverse_art/ko/r44/1348_size.jpg,0
+9603,규정,gyujeong,regulation,규정,regulation,noun,R4+,,talkverse_art/ko/r44/1350_regulation.jpg,0
+9604,주년,junyeon,anniversary,주년,anniversary,noun,R4+,,talkverse_art/ko/r44/1364_anniversary.jpg,0
+9605,미니,mini,mini,미니,mini,noun,R4+,,talkverse_art/ko/r45/1378_mini_v2.jpg,0
+9606,인상,insang,impression_raise,인상,impression; raise,noun,R4+,,talkverse_art/ko/r45/1387_impression_raise.jpg,0
+9607,블로그,beullogeu,blog,블로그,blog,noun,R4+,,talkverse_art/ko/r46/1403_blog.jpg,0
+9608,승리,seungni,victory,승리,victory,noun,R4+,,talkverse_art/ko/r46/1406_victory.jpg,0
+9609,조정,jojeong,adjustment,조정,adjustment,noun,R4+,,talkverse_art/ko/r46/1414_adjustment.jpg,0
+9610,주의,juui,caution_ism,주의,caution; -ism,noun,R4+,,talkverse_art/ko/r46/1415_caution_ism.jpg,0
+9611,차트,chateu,chart,차트,chart,noun,R4+,,talkverse_art/ko/r46/1417_chart.jpg,0
+9612,투어,tueo,tour,투어,tour,noun,R4+,,talkverse_art/ko/r47/1421_tour.jpg,0
+9613,동일,dongil,identical,동일,identical,noun,R4+,,talkverse_art/ko/r47/1425_identical.jpg,0
+9614,디지털,dijiteol,digital,디지털,digital,noun,R4+,,talkverse_art/ko/r47/1426_digital_v2.jpg,0
+9615,엔진,enjin,engine,엔진,engine,noun,R4+,,talkverse_art/ko/r48/1436_engine.jpg,0
+9616,종교,jonggyo,religion,종교,religion,noun,R4+,,talkverse_art/ko/r48/1439_religion.jpg,0
+9617,주일,juil,week_sunday,주일,week; Sunday,noun,R4+,,talkverse_art/ko/r48/1440_week_sunday.jpg,0
+9618,채널,chaeneol,channel,채널,channel,noun,R4+,,talkverse_art/ko/r49/1476_channel.jpg,0
+9619,표시,pyosi,indication,표시,indication,noun,R4+,,talkverse_art/ko/r49/1477_indication.jpg,0
+9620,해석,haeseok,interpretation,해석,interpretation,noun,R4+,,talkverse_art/ko/r49/1478_interpretation.jpg,0
+9621,형성,hyeongseong,formation,형성,formation,noun,R4+,,talkverse_art/ko/r49/1481_formation_v2.jpg,0
+9622,강화,ganghwa,strengthening,강화,strengthening,noun,R4+,,talkverse_art/ko/r49/1483_strengthening.jpg,0
+9623,독립,dongnip,independence,독립,independence,noun,R4+,,talkverse_art/ko/r50/1491_independence.jpg,0
+9624,번역,beonyeok,translation,번역,translation,noun,R4+,,talkverse_art/ko/r50/1496_translation.jpg,0
+9625,요소,yoso,element,요소,element,noun,R4+,,talkverse_art/ko/r50/1500_element.jpg,0
+9626,차별,chabyeol,discrimination,차별,discrimination,noun,R4+,,talkverse_art/ko/r51/1508_discrimination.jpg,0
+9627,파괴,pagoe,destruction,파괴,destruction,noun,R4+,,talkverse_art/ko/r51/1512_destruction.jpg,0
+9628,교통,gyotong,traffic,교통,traffic,noun,R4+,,talkverse_art/ko/r51/1517_traffic.jpg,0
+9629,논란,nollan,controversy,논란,controversy,noun,R4+,,talkverse_art/ko/r51/1519_controversy_v2.jpg,0
+9630,등록,deungnok,registration,등록,registration,noun,R4+,,talkverse_art/ko/r51/1523_registration.jpg,0
+9631,부문,bumun,sector,부문,sector,noun,R4+,,talkverse_art/ko/r51/1527_sector.jpg,0
+9632,성적,seongjeok,grades_sexual,성적,grades; sexual,noun,R4+,,talkverse_art/ko/r52/1529_grades_sexual.jpg,0
+9633,세대,sedae,generation,세대,generation,noun,R4+,,talkverse_art/ko/r52/1530_generation.jpg,0
+9634,인식,insik,recognition,인식,recognition,noun,R4+,,talkverse_art/ko/r52/1537_recognition.jpg,0
+9635,정권,jeonggwon,regime,정권,regime,noun,R4+,,talkverse_art/ko/r52/1541_regime.jpg,0
+9636,평균,pyeonggyun,average,평균,average,noun,R4+,,talkverse_art/ko/r53/1544_average.jpg,0
+9637,혁명,hyeongmyeong,revolution,혁명,revolution,noun,R4+,,talkverse_art/ko/r53/1545_revolution.jpg,0
+9638,현상,hyeonsang,phenomenon,현상,phenomenon,noun,R4+,,talkverse_art/ko/r53/1546_phenomenon.jpg,0
+9639,강력,gangnyeok,powerful,강력,powerful,noun,R4+,,talkverse_art/ko/r53/1550_powerful.jpg,0
+9640,달성,dalseong,achievement,달성,achievement,noun,R4+,,talkverse_art/ko/r53/1552_achievement.jpg,0
+9641,선언,seoneon,declaration,선언,declaration,noun,R4+,,talkverse_art/ko/r54/1559_declaration_v2.jpg,0
+9642,세기,segi,century,세기,century,noun,R4+,,talkverse_art/ko/r54/1560_century_v2.jpg,0
+9643,의회,uihoe,parliament,의회,parliament,noun,R4+,,talkverse_art/ko/r54/1568_parliament.jpg,0
+9644,청소년,cheongsonyeon,teenager,청소년,teenager,noun,R4+,,talkverse_art/ko/r55/1573_teenager.jpg,0
+9645,민족,minjok,ethnic_group,민족,ethnic group,noun,R4+,,talkverse_art/ko/r55/1587_ethnic_group_v2.jpg,0
+9646,발사,balsa,launch,발사,launch,noun,R4+,,talkverse_art/ko/r55/1588_launch_v2.jpg,0
+9647,작성,jakseong,writing,작성,writing (document),noun,R4+,,talkverse_art/ko/r56/1599_writing.jpg,0
+9648,전력,jeollyeok,electric_power,전력,electric power,noun,R4+,,talkverse_art/ko/r56/1601_electric_power.jpg,0
+9649,지속,jisok,continuation,지속,continuation,noun,R4+,,talkverse_art/ko/r57/1603_continuation.jpg,0
+9650,코스,koseu,course,코스,course,noun,R4+,,talkverse_art/ko/r57/1610_course.jpg,0
+9651,콘서트,konseoteu,concert,콘서트,concert,noun,R4+,,talkverse_art/ko/r58/1611_concert.jpg,0
+9652,설립,seollip,establishment,설립,establishment,noun,R4+,,talkverse_art/ko/r59/1626_establishment.jpg,0
+9653,차원,chawon,dimension,차원,dimension,noun,R4+,,talkverse_art/ko/r60/1635_dimension.jpg,0
+9654,파워,pawo,power,파워,power,noun,R4+,,talkverse_art/ko/r60/1638_power_v2.jpg,0
+9655,네트워크,neteuwokeu,network,네트워크,network,noun,R4+,,talkverse_art/ko/r60/1645_network.jpg,0
+9656,만족,manjok,satisfaction,만족,satisfaction,noun,R4+,,talkverse_art/ko/r61/1649_satisfaction.jpg,0
+9657,문서,munseo,document,문서,document,noun,R4+,,talkverse_art/ko/r61/1653_document.jpg,0
+9658,미디어,midieo,media,미디어,media,noun,R4+,,talkverse_art/ko/r61/1654_media.jpg,0
+9659,불리,bulli,disadvantageous,불리,disadvantageous,noun,R4+,,talkverse_art/ko/r62/1656_disadvantageous_v2.jpg,0
+9660,연속,yeonsok,consecutive,연속,consecutive,noun,R4+,,talkverse_art/ko/r62/1664_consecutive.jpg,0
+9661,축제,chukje,festival,축제,festival,noun,R4+,,talkverse_art/ko/r62/1673_festival.jpg,0
+9662,통일,tongil,unification,통일,unification,noun,R4+,,talkverse_art/ko/r63/1676_unification.jpg,0
+9663,개혁,gaehyeok,reform,개혁,reform,noun,R4+,,talkverse_art/ko/r63/1685_reform.jpg,0
+9664,구분,gubun,division,구분,division,noun,R4+,,talkverse_art/ko/r63/1686_division.jpg,0
+9665,메이저,meijeo,major,메이저,major,noun,R4+,,talkverse_art/ko/r63/1693_major.jpg,0
+9666,보장,bojang,guarantee,보장,guarantee,noun,R4+,,talkverse_art/ko/r64/1697_guarantee.jpg,0
+9667,인구,ingu,population,인구,population,noun,R4+,,talkverse_art/ko/r64/1707_population.jpg,0
+9668,중단,jungdan,suspension,중단,suspension,noun,R4+,,talkverse_art/ko/r64/1712_suspension.jpg,0
+9669,지적,jijeok,pointing_out,지적,pointing out,noun,R4+,,talkverse_art/ko/r65/1713_pointing_out.jpg,0
+9670,페이지,peiji,page,페이지,page,noun,R4+,,talkverse_art/ko/r65/1716_page.jpg,0
+9671,확장,hwakjang,expansion,확장,expansion,noun,R4+,,talkverse_art/ko/r65/1720_expansion.jpg,0
+9672,마사지,masaji,massage,마사지,massage,noun,R4+,,talkverse_art/ko/r65/1730_massage.jpg,0
+9673,배치,baechi,arrangement,배치,arrangement,noun,R4+,,talkverse_art/ko/r66/1734_arrangement.jpg,0
+9674,영역,yeongyeok,area,영역,area,noun,R4+,,talkverse_art/ko/r66/1738_area.jpg,0
+9675,전투,jeontu,battle,전투,battle,noun,R4+,,talkverse_art/ko/r66/1745_battle.jpg,0
+9676,주도,judo,lead,주도,lead,noun,R4+,,talkverse_art/ko/r67/1748_lead.jpg,0
+9677,지진,jijin,earthquake,지진,earthquake,noun,R4+,,talkverse_art/ko/r67/1749_earthquake.jpg,0
+9678,경쟁,gyeongjaeng,competition,경쟁,competition,noun,R4+,,talkverse_art/ko/r67/1754_competition.jpg,0
+9679,불구,bulgu,despite,불구,despite,noun,R4+,,talkverse_art/ko/r68/1761_despite.jpg,0
+9680,연합,yeonhap,union,연합,union,noun,R4+,,talkverse_art/ko/r68/1765_union.jpg,0
+9681,초등,chodeung,elementary,초등,elementary,noun,R4+,,talkverse_art/ko/r68/1775_elementary.jpg,0
+9682,대응,daeeung,response,대응,response,noun,R4+,,talkverse_art/ko/r69/1789_response.jpg,0
+9683,바둑,baduk,baduk,바둑,baduk (go),noun,R4+,,talkverse_art/ko/r69/1793_baduk.jpg,0
+9684,부여,buyeo,grant,부여,grant,noun,R4+,,talkverse_art/ko/r70/1794_grant.jpg,0
+9685,쿠키,kuki,cookie,쿠키,cookie,noun,R4+,,talkverse_art/ko/r70/1805_cookie.jpg,0
+9686,로드,rodeu,road_load,로드,road; load,noun,R4+,,talkverse_art/ko/r70/1814_road_load.jpg,0
+9687,마법,mabeop,magic,마법,magic,noun,R4+,,talkverse_art/ko/r71/1815_magic.jpg,0
+9688,발언,bareon,remark,발언,remark,noun,R4+,,talkverse_art/ko/r71/1816_remark.jpg,0
+9689,사상,sasang,ideology,사상,ideology,noun,R4+,,talkverse_art/ko/r71/1818_ideology.jpg,0
+9690,사전,sajeon,dictionary_beforehand,사전,dictionary; beforehand,noun,R4+,,talkverse_art/ko/r71/1819_dictionary_beforehand.jpg,0
+9691,상호,sangho,mutual,상호,mutual,noun,R4+,,talkverse_art/ko/r71/1820_mutual.jpg,0
