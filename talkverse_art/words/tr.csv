@@ -2304,4 +2304,6 @@ rank,word,reading,ko,en,pos,level,picturable
 3003,müze,,박물관,museum,noun,R5,Y
 3004,düz,,"곧은, 똑바로",straight,adj,R5,N
 3005,memnuniyetle,,기꺼이,gladly,adv,R5,N
-3006,kaçta,,몇 시에,at what time,adv,R5,N
+3006,gezdirmek,,구경시켜 주다,to show around,verb,R5,N
+3007,anlaşmak,,합의하다,to agree,verb,R5,N
+3008,üzücü,,"슬픈, 안타까운","sad, upsetting",adj,R5,N
