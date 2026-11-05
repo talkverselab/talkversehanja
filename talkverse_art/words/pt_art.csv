@@ -637,3 +637,15 @@ rank,word,reading,romaji,ko,en,pos,level,scene_hint
 9048,sopa de legumes,,vegetable_soup,채소 수프,vegetable soup,noun,food,주황빛 매끈한 채소 수프 사발에 올리브유 한 방울.
 9049,salada de polvo,,octopus_salad,문어 샐러드,octopus salad,noun,food,작게 썬 문어와 붉은 양파·피망·파슬리를 올리브유에 버무렸다.
 9050,dourada grelhada,,grilled_sea_bream,도미구이,grilled sea bream,noun,food,"통째로 구운 도미에 레몬, 삶은 감자와 브로콜리."
+94,noite,,night,밤,night,noun,R5,리스본의 밤거리에서 가로등 아래 사람들이 걸으며 밤하늘의 달을 올려다본다
+236,comer,,eat,먹다,to eat,verb,R5,포르투갈 식당 야외 테이블에서 두 친구가 바칼라우 요리를 포크로 먹고 있다
+219,pagar,,pay,지불하다,to pay,verb,R5,리스본 작은 카페 계산대에서 손님이 지갑에서 돈을 꺼내 점원에게 건넨다
+332,escrever,,write,쓰다,to write,verb,R5,리스본 카페 테이블에서 한 여자가 노트에 펜으로 글을 쓰고 있다
+347,beber,,drink,마시다,to drink,verb,R5,포르투갈 광장 노천카페에서 두 사람이 잔에 담긴 음료를 마시고 있다
+437,mostrar,,show,보여주다,to show,verb,R5,리스본 전망대에서 한 사람이 손으로 도시 풍경을 가리키며 친구에게 보여준다
+470,café,,coffee,"커피, 카페",coffee,noun,R5,리스본 카페 테이블에서 손님이 작은 에스프레소 잔을 받아 들고 있다
+410,aprender,,learn,배우다,to learn,verb,R5,포르투갈 교실에서 학생이 책상에 앉아 선생님에게 공책을 보며 배우고 있다
+1225,bolo,,cake,케이크,cake,noun,R5,포르투갈 제과점 진열대 앞에서 점원이 손님에게 케이크 한 조각을 접시에 담아 건넨다
+1650,estação,,station,역,station,noun,R5,리스본 호시우 역 앞에서 승객들이 가방을 들고 기차역 건물로 들어간다
+3001,pastel,,pastry,파스텔 (페이스트리),pastry,noun,R5,리스본 제과점에서 점원이 갓 구운 파스텔 드 나타를 접시에 담아 손님에게 건넨다
+3004,museu,,museum,박물관,museum,noun,R5,리스본 박물관 입구에서 관람객들이 줄 서서 들어가고 전시 유물을 구경한다

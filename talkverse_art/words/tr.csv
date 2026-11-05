@@ -2299,3 +2299,9 @@ rank,word,reading,ko,en,pos,level,picturable
 2298,temsil,,대표/표현,representation,noun,R5,N
 2299,sos,,소스,sauce,noun,R5,Y
 2300,howard,,하워드(이름),Howard,noun,R5,N
+3001,sütlü,,우유를 넣은,with milk,adj,R5,N
+3002,favori,,가장 좋아하는,favorite,adj,R5,N
+3003,müze,,박물관,museum,noun,R5,Y
+3004,düz,,"곧은, 똑바로",straight,adj,R5,N
+3005,memnuniyetle,,기꺼이,gladly,adv,R5,N
+3006,kaçta,,몇 시에,at what time,adv,R5,N

@@ -462,3 +462,9 @@ rank,word,reading,romaji,ko,en,pos,level,scene_hint
 9048,boza,,boza,보자(발효 곡물 음료),boza,noun,food,유리잔에 걸쭉한 연노랑 곡물 음료를 채우고 위에 계핏가루를 뿌린 뒤 볶은 병아리콩 한 줌을 곁에 둔다.
 9049,kumpir,,loaded_baked_potato,쿰피르(속 채운 구운 감자),loaded baked potato,noun,food,큰 구운 감자를 반으로 갈라 버터와 치즈로 으깬 뒤 옥수수·올리브·피클·소시지 조각을 색색으로 올린다.
 9050,tantuni,,tantuni_wrap,탄투니(소고기 볶음 랩),tantuni wrap,noun,food,잘게 볶은 소고기와 토마토·양파·파슬리를 얇은 밀전병에 싸서 종이에 반쯤 감아 놓고 레몬 조각을 곁들인다.
+824,kahve,,coffee,커피,coffee,noun,R5,이스탄불 카페에서 손님이 작은 잔의 튀르키예 커피를 받아 들고 있다
+2209,ısmarlamak,,treat,"사다, 한턱내다, 주문하다",to treat/order,verb,R5,튀르키예 찻집에서 한 남자가 종업원에게 손짓으로 음료를 주문하며 지갑을 꺼낸다
+3003,müze,,museum,박물관,museum,noun,R5,이스탄불 박물관 입구에서 관람객들이 줄 서서 들어가고 전시 유물을 구경한다
+705,buluşmak,,meet_up,만나다,to meet up,verb,R5,이스탄불 광장에서 두 친구가 서로 손을 흔들며 반갑게 만나 악수한다
+1459,istasyon,,station,역,station,noun,R5,이스탄불 기차역 승강장에서 승객들이 가방을 들고 열차를 기다린다
+1481,üzmek,,upset,슬프게 하다,to upset,verb,R5,이스탄불 거리 벤치에서 한 사람이 슬픈 표정으로 고개를 숙이고 친구가 어깨를 감싸 위로한다
